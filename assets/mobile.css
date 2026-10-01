@@ -1,0 +1,201 @@
+/* ============================================================
+   Mobile Stylesheet — responsive layout for phones and tablets.
+   Activates at breakpoints: tablet (768px) and phone (480px).
+   Hides non-essential elements, stacks layouts vertically,
+   adjusts font sizes and spacing for smaller screens.
+   ============================================================ */
+
+/* ===== TABLET (768px and below) ===== */
+@media (max-width: 768px) {
+
+  /* Narrower content area */
+  #content {
+    padding: 32px 16px 64px;
+  }
+
+  /* Navbar — tighter padding */
+  #navbar {
+    padding: 0 16px;
+  }
+
+  /* Download button — smaller, lower */
+  #download-btn {
+    top: 64px;
+    right: 16px;
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+
+  /* Article title — slightly smaller */
+  #article-title {
+    font-size: 26px;
+  }
+
+  /* Chapter titles — smaller */
+  .article-body .chapter-title {
+    font-size: 26px;
+  }
+
+  /* Section headings — smaller */
+  .article-body .section-heading-orange {
+    font-size: 19px;
+  }
+
+  /* Subheadings — smaller */
+  .article-body .subheading {
+    font-size: 17px;
+  }
+
+  /* Blockquotes — less indent */
+  .article-body blockquote {
+    margin: 16px 16px;
+    padding: 8px 16px;
+  }
+
+  /* Deeper study — less indent */
+  .article-body .deeper-study {
+    margin-left: 20px;
+  }
+}
+
+/* ===== PHONE (480px and below) ===== */
+@media (max-width: 480px) {
+
+  /* Body text — slightly smaller for readability */
+  body {
+    font-size: 16px;
+  }
+
+  /* Content — minimal padding */
+  #content {
+    padding: 24px 12px 48px;
+  }
+
+  /* Navbar — compact, hide logo text on very small screens */
+  #navbar {
+    padding: 0 12px;
+    height: 50px;
+  }
+
+  .nav-logo {
+    font-size: 15px;
+  }
+
+  /* Nav links — smaller, tighter */
+  .nav-right {
+    gap: 12px;
+  }
+
+  .nav-right a {
+    font-size: 13px;
+  }
+
+  #theme-toggle {
+    padding: 4px 8px;
+    font-size: 14px;
+  }
+
+  /* Download button — icon only on phones */
+  #download-btn {
+    top: 58px;
+    right: 12px;
+    padding: 8px 12px;
+  }
+
+  #download-btn span {
+    display: none;
+  }
+
+  /* Article title */
+  #article-title {
+    font-size: 22px;
+  }
+
+  /* Chapter titles */
+  .article-body .chapter-title {
+    font-size: 22px;
+    margin-top: 40px;
+  }
+
+  .article-body .chapter-title::first-letter {
+    font-size: 26px;
+  }
+
+  /* Chapter heading (subtitle) */
+  .article-body .chapter-heading {
+    font-size: 17px;
+  }
+
+  /* Section headings */
+  .article-body .section-heading-orange {
+    font-size: 18px;
+    margin-top: 28px;
+  }
+
+  /* Subheadings */
+  .article-body .subheading {
+    font-size: 16px;
+  }
+
+  /* Scripture headings */
+  .article-body .scripture-heading {
+    font-size: 15px;
+  }
+
+  /* Blockquotes — minimal indent */
+  .article-body blockquote {
+    font-size: 15px;
+    margin: 12px 8px;
+    padding: 6px 12px;
+  }
+
+  /* Deeper study — minimal indent */
+  .article-body .deeper-study {
+    font-size: 13px;
+    margin-left: 16px;
+  }
+
+  /* Scripture references */
+  .article-body .scripture-ref {
+    font-size: 12px;
+  }
+
+  /* Hebrew text — smaller */
+  .article-body .hebrew-text {
+    font-size: 22px;
+  }
+
+  /* Cover image — full width */
+  .article-body .article-cover {
+    max-width: 100%;
+  }
+
+  /* Author photo — full width */
+  .article-body .author-photo {
+    width: 100%;
+  }
+
+  /* TOC — tighter spacing */
+  .article-body .toc-list {
+    font-size: 14px;
+    line-height: 2;
+  }
+
+  /* Lists — less indent */
+  .article-body ul,
+  .article-body ol {
+    margin-left: 16px;
+  }
+
+  /* Back-to-top button — smaller, closer to edge */
+  #back-to-top {
+    width: 38px;
+    height: 38px;
+    bottom: 16px;
+    right: 16px;
+  }
+
+  /* Article cards already stack vertically from existing rule */
+
+  /* Related cards already stack vertically from existing rule */
+}
