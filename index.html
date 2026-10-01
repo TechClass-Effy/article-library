@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Article Library</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/print.css" media="print">
+<link id="theme-stylesheet" rel="stylesheet" href="assets/theme-dark.css">
+</head>
+<body>
+
+<!-- ============ HEADER NAV (sticky) ============ -->
+<nav id="navbar">
+  <div class="nav-left">
+    <a href="index.html" class="nav-logo">Article Library</a>
+  </div>
+  <div class="nav-right">
+    <a href="index.html">Home</a>
+    <a href="who-we-are.html">Who We Are</a>
+    <a href="support.html">User Supported</a>
+    <button id="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </div>
+</nav>
+
+<!-- ============ MAIN CONTENT ============ -->
+<main id="content">
+
+<!-- ============ HOMEPAGE: Article List ============ -->
+<div id="article-list-container">
+  <h1>Articles</h1>
+  <p class="subtitle">Browse the collection. Click any title to read.</p>
+  <div id="article-list">
+    <!-- Articles are loaded dynamically by article-loader.js -->
+  </div>
+</div>
+
+</main>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <p>&copy; <span id="year"></span> Article Library</p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script src="assets/article-loader.js"></script>
+</body>
+</html>

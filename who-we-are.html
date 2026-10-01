@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Who We Are — Article Library</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/print.css" media="print">
+<link id="theme-stylesheet" rel="stylesheet" href="assets/theme-dark.css">
+</head>
+<body>
+
+<nav id="navbar">
+  <div class="nav-left">
+    <a href="index.html" class="nav-logo">Article Library</a>
+  </div>
+  <div class="nav-right">
+    <a href="index.html">Home</a>
+    <a href="who-we-are.html" class="active">Who We Are</a>
+    <a href="support.html">User Supported</a>
+    <button id="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </div>
+</nav>
+
+<main id="content">
+  <h1>Who We Are</h1>
+  <div class="article-body">
+
+    <h2 class="section-heading-orange">Our Mission</h2>
+    <p>This is a library of Bible studies written for Saints who want to know what the Book actually says — not what tradition says, not what a denomination says, not what a preacher on the radio says, but what God Himself spoke and wrote.</p>
+    <p>We take God at His Word. We don't build doctrine on one verse. We read the whole Bible on every subject. We look for the old paths — the road Jesus and the Apostles walked — not the newer roads built by church councils centuries later. We set aside the traditions of men when they contradict, add to, or take away from the Word of God. We add nothing. We take away nothing.</p>
+
+    <h2 class="section-heading-orange">About the Author</h2>
+    <img src="images/about-the-author.jpg" alt="Gideon Ephratah — About the Author" class="author-photo">
+
+    <h2 class="section-heading-orange">What We Believe About the Scriptures</h2>
+    <p>For the Old Testament, we use the Septuagint (LXX) — the Greek translation of the Hebrew Scriptures that was made around 250 BC, hundreds of years before Jesus was born. This was the Bible Jesus and the Apostles actually quoted from. In roughly three out of four cases where the New Testament writers quote the Old Testament, they are quoting the Septuagint — sometimes word for word.</p>
+    <p>For the New Testament, we rely on the oldest and most complete Greek manuscripts in existence: Codex Sinaiticus (around 330–360 AD) and Codex Vaticanus (around 300–325 AD). These are the closest thing we have to the Apostles' own writings — copied by scribes who were only about 250 years removed from the Apostles themselves.</p>
+    <p>We go to the source. We skip the middlemen where we can, and read the oldest, best copies we've got. You wouldn't trust your salvation to a used-car salesman. Don't trust it to a translation committee either.</p>
+
+    <h2 class="section-heading-orange">A Word to the Reader</h2>
+    <p>Everything you read in this library is offered freely. You may duplicate and distribute these studies without permission — we encourage it. The only thing we ask is that you do not change the text in any way without the author's express written permission.</p>
+    <p>If you find yourself blessed by these studies, or if you disagree with something you read, we invite you to do what the Bereans did: search the Scriptures daily to see whether these things are so. That is the spirit in which these studies are written, and that is the spirit in which we hope they are read.</p>
+
+  </div>
+</main>
+
+<footer>
+  <p>&copy; <span id="year"></span> Gideon Ephratah — Free to share, not to modify</p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>

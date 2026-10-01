@@ -1,0 +1,21 @@
+/* ============================================================
+   Light Theme
+   ============================================================ */
+:root {
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a4a4a;
+  --text-tertiary: #8a8a8a;
+  --border-color: #e0e0e0;
+  --nav-bg: rgba(255, 255, 255, 0.9);
+  --card-bg: #f8f9fa;
+  --card-hover-bg: #f0f1f3;
+  --accent: #0969da;
+  --button-bg: #eaeef2;
+  --button-hover: #d0d7de;
+  --bg-color: #ffffff;
+}
+
+body {
+  background: var(--bg-color);
+  color: var(--text-primary);
+}

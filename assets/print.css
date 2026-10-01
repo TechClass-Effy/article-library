@@ -1,0 +1,207 @@
+/* ============================================================
+   Print Stylesheet — applied when the user prints the page
+   directly from the browser (Ctrl+P / Cmd+P).
+   Hides navigation, buttons, and progress bars.
+   Formats the article for clean black-and-white printing.
+   ============================================================ */
+
+@media print {
+
+  /* Hide all non-article elements */
+  #navbar,
+  #download-btn,
+  #reading-progress,
+  #back-to-top,
+  #related-articles,
+  footer,
+  #theme-toggle {
+    display: none !important;
+  }
+
+  /* Reset page margins for printing */
+  @page {
+    margin: 0.75in;
+  }
+
+  /* Use serif font, black text, white background */
+  body {
+    background: white !important;
+    color: black !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    line-height: 1.6;
+  }
+
+  /* Article container — full width, no padding */
+  #content {
+    max-width: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* Article title */
+  #article-title {
+    font-size: 22pt;
+    text-align: center;
+    margin-bottom: 8pt;
+  }
+
+  /* Article date — centered, small */
+  .article-date {
+    text-align: center;
+    font-size: 10pt;
+    color: #666;
+    margin-bottom: 24pt;
+  }
+
+  /* Chapter titles — centered, bold, with border */
+  .article-body .chapter-title {
+    font-size: 18pt;
+    text-align: center;
+    color: black;
+    border-bottom: 1px solid #999;
+    padding-bottom: 8pt;
+    margin-top: 36pt;
+    page-break-before: always;
+  }
+
+  /* Chapter heading (subtitle) — left-aligned, bold */
+  .article-body .chapter-heading {
+    font-size: 14pt;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 18pt;
+  }
+
+  /* Section headings — bold, black (not orange in print) */
+  .article-body .section-heading-orange {
+    font-size: 14pt;
+    font-weight: bold;
+    color: black;
+    border-top: 1px solid #ccc;
+    padding-top: 6pt;
+    margin-top: 24pt;
+  }
+
+  /* Subheadings — bold, black */
+  .article-body .subheading {
+    font-size: 13pt;
+    font-weight: bold;
+    color: black;
+  }
+
+  /* Scripture headings — bold, black */
+  .article-body .scripture-heading {
+    font-size: 12pt;
+    font-weight: bold;
+    color: black;
+  }
+
+  /* Deeper study — small, italic, indented, dark gray (not orange in print) */
+  .article-body .deeper-study {
+    font-size: 10pt;
+    font-style: italic;
+    color: #555;
+    margin-left: 24pt;
+  }
+
+  .article-body .deeper-study p {
+    color: #555;
+  }
+
+  /* Blockquotes — italic, indented, no border */
+  .article-body blockquote {
+    font-style: italic;
+    font-size: 11pt;
+    color: #333;
+    border: none;
+    background: none;
+    margin: 12pt 24pt;
+    padding: 6pt 0;
+  }
+
+  /* Scripture references — right-aligned, small */
+  .article-body .scripture-ref {
+    font-size: 9pt;
+    text-align: right;
+    color: #666;
+  }
+
+  /* Paragraphs */
+  .article-body p {
+    margin-bottom: 10pt;
+    orphans: 2;
+    widows: 2;
+  }
+
+  /* Lists */
+  .article-body ul,
+  .article-body ol {
+    margin: 8pt 0 12pt 20pt;
+  }
+
+  .article-body li {
+    margin-bottom: 4pt;
+  }
+
+  /* Cover image — centered, max width */
+  .article-body .article-cover {
+    display: block;
+    max-width: 4in;
+    margin: 0 auto 24pt auto;
+  }
+
+  /* Back cover — full width, page break before */
+  .article-body .about-author-page {
+    page-break-before: always;
+    text-align: center;
+  }
+
+  .article-body .author-photo {
+    max-width: 5in;
+    width: 5in;
+  }
+
+  /* Hebrew text — centered, larger */
+  .article-body .hebrew-text {
+    font-size: 18pt;
+    text-align: center;
+    margin: 16pt 0;
+  }
+
+  /* Amen — centered, bold */
+  .article-body .amen {
+    font-size: 14pt;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  /* Table of Contents — clean list */
+  .article-body .toc-list {
+    font-size: 11pt;
+    line-height: 1.8;
+  }
+
+  .article-body .toc-list a {
+    color: black;
+    text-decoration: none;
+  }
+
+  /* Avoid breaking inside headings and blockquotes */
+  h1, h2, h3,
+  .chapter-title,
+  .section-heading-orange,
+  .subheading,
+  .scripture-heading {
+    page-break-after: avoid;
+  }
+
+  blockquote {
+    page-break-inside: avoid;
+  }
+
+  /* Bold and italic — preserve in print */
+  strong { font-weight: bold; }
+  em { font-style: italic; }
+
+}

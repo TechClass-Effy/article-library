@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>We Are User Supported — Article Library</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/print.css" media="print">
+<link id="theme-stylesheet" rel="stylesheet" href="assets/theme-dark.css">
+</head>
+<body>
+
+<nav id="navbar">
+  <div class="nav-left">
+    <a href="index.html" class="nav-logo">Article Library</a>
+  </div>
+  <div class="nav-right">
+    <a href="index.html">Home</a>
+    <a href="who-we-are.html">Who We Are</a>
+    <a href="support.html" class="active">User Supported</a>
+    <button id="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </div>
+</nav>
+
+<main id="content">
+  <h1>We Are User Supported</h1>
+  <div class="article-body">
+    <p>This publication is made possible by readers like you. We don't take corporate sponsorships, we don't run ads, and we don't have paywalls.</p>
+    <p>If you value the work we do, please consider supporting us.</p>
+    
+    <!-- Replace this section with your actual support/donation links -->
+    <div class="support-options">
+      <div class="support-card">
+        <h3>One-Time Support</h3>
+        <p>Make a single contribution of any amount.</p>
+        <!-- <a href="YOUR_PAYMENT_LINK" class="support-button">Support Us</a> -->
+      </div>
+      <div class="support-card">
+        <h3>Monthly Support</h3>
+        <p>Become a recurring supporter.</p>
+        <!-- <a href="YOUR_SUBSCRIPTION_LINK" class="support-button">Subscribe</a> -->
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>&copy; <span id="year"></span> Article Library</p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>

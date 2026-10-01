@@ -1,0 +1,10 @@
+# Server-side files (not needed on GitHub Pages)
+server.py
+assets/pdf_generator.py
+
+# Temporary files
+*.pdf
+/tmp/
+__pycache__/
+*.pyc
+.DS_Store

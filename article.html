@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Article — Article Library</title>
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/print.css" media="print">
+<link id="theme-stylesheet" rel="stylesheet" href="assets/theme-dark.css">
+</head>
+<body>
+
+<!-- ============ READING PROGRESS BAR ============ -->
+<div id="reading-progress"></div>
+
+<!-- ============ BACK TO TOP BUTTON ============ -->
+<button id="back-to-top" onclick="scrollToTop()" title="Back to top" aria-label="Back to top">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M12 19V5"/>
+    <polyline points="5 12 12 5 19 12"/>
+  </svg>
+</button>
+
+<!-- ============ STICKY DOWNLOAD BUTTON (top-right, always visible) ============ -->
+<button id="download-btn" onclick="downloadPDF()" title="Download as PDF">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+    <polyline points="7 10 12 15 17 10"/>
+    <line x1="12" y1="15" x2="12" y2="3"/>
+  </svg>
+  <span>Download PDF</span>
+</button>
+
+<nav id="navbar">
+  <div class="nav-left">
+    <a href="index.html" class="nav-logo">Article Library</a>
+  </div>
+  <div class="nav-right">
+    <a href="index.html">Home</a>
+    <a href="who-we-are.html">Who We Are</a>
+    <a href="support.html">User Supported</a>
+    <button id="theme-toggle" onclick="toggleTheme()" title="Toggle theme">
+      <span id="theme-icon">🌙</span>
+    </button>
+  </div>
+</nav>
+
+<main id="content">
+  <!-- Article content is loaded here by article-reader.js -->
+  <div id="article-container">
+    <h1 id="article-title">Loading...</h1>
+    <div id="article-date" class="article-date"></div>
+    <div id="article-body" class="article-body"></div>
+    <!-- Related articles shown after article content -->
+    <div id="related-articles"></div>
+  </div>
+</main>
+
+<footer>
+  <p>&copy; <span id="year"></span> Article Library</p>
+</footer>
+
+<script src="assets/theme.js"></script>
+<script src="assets/article-reader.js"></script>
+<script>
+document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
