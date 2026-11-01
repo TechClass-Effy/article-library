@@ -521,6 +521,93 @@ html {
   color: var(--text-primary);
 }
 
+/* ===== PALEO-HEBREW SECTION ===== */
+.article-body .name-reveal {
+  text-align: center;
+  font-size: 220%;
+  letter-spacing: 0.3em;
+  line-height: 1.2;
+  margin: 1em auto;
+  font-family: 'Segoe UI Historic','Noto Sans Phoenician','Phoenicia',sans-serif;
+  color: var(--text-primary);
+}
+
+.article-body .eng-reveal {
+  text-align: center;
+  font-size: 135%;
+  letter-spacing: 0.18em;
+  margin: 0.8em auto;
+  color: var(--text-primary);
+}
+
+.article-body .climax {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.12em;
+  font-size: 125%;
+  margin: 1.4em auto 0.5em;
+  color: var(--text-primary);
+}
+
+.article-body .climax2 {
+  text-align: center;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  font-size: 118%;
+  margin: 0.4em auto 1.2em;
+  color: var(--text-primary);
+}
+
+.article-body .letter-table {
+  border-collapse: collapse;
+  margin: 1.2em auto;
+  width: auto;
+}
+
+.article-body .letter-table th,
+.article-body .letter-table td {
+  border: 1px solid var(--border-color);
+  padding: 0.35em 0.85em;
+  text-align: left;
+}
+
+.article-body .letter-table th {
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  color: var(--text-tertiary);
+  font-size: 97%;
+  background: var(--card-bg);
+}
+
+.article-body .letter-table td.glyph {
+  font-size: 150%;
+  text-align: center;
+  font-family: 'Segoe UI Historic','Noto Sans Phoenician','Phoenicia',sans-serif;
+}
+
+.article-body .t-note {
+  font-size: 97%;
+  color: var(--text-tertiary);
+  padding-left: 1.5em;
+  border-left: 3px solid var(--border-color);
+  margin-left: 0.5em;
+}
+
+.article-body .diamond {
+  text-align: center;
+  color: var(--accent);
+  font-size: 108%;
+  margin: 1.5em 0;
+  letter-spacing: 0.5em;
+}
+
+.article-body .handoff {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-tertiary);
+  margin: 2em 0 1em;
+}
+
 /* ===== SPECIAL TEXT ===== */
 .article-body .amen {
   font-size: 22px;
