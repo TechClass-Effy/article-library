@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 400" role="img" aria-label="The evolution of the letter A: the paleo-Hebrew ox-head aleph, turned on its side into the Syro-Phoenician aleph, stood upright again as the Greek alpha, and handed down as the Roman capital A we use today">
+  <style>
+    .ink  { fill:none; stroke:#3c2b1a; stroke-width:5; stroke-linecap:round; stroke-linejoin:round; }
+    .ink2 { fill:none; stroke:#3c2b1a; stroke-width:3;  stroke-linecap:round; }
+    .ink7 { fill:none; stroke:#3c2b1a; stroke-width:7;  stroke-linecap:round; stroke-linejoin:round; }
+    .sub  { font:italic 17px Georgia, 'Times New Roman', serif; fill:#5a4936; text-anchor:middle; }
+    .sub2 { font:italic 15px Georgia, 'Times New Roman', serif; fill:#8a6d3b; text-anchor:middle; }
+    .turn { font:italic 15px Georgia, 'Times New Roman', serif; fill:#8a6d3b; text-anchor:middle; }
+    .arrow{ stroke:#8a6d3b; stroke-width:3.5; fill:none; stroke-linecap:round; }
+  </style>
+
+  <!-- parchment plate ground -->
+  <rect x="0" y="0" width="1160" height="400" fill="#f8f2e4"/>
+  <rect x="6" y="6" width="1148" height="388" fill="none" stroke="#8a6d3b" stroke-width="1.5"/>
+
+  <!-- ═══ 1. THE ANCIENT ALEPH — traced from the brother's chart ═══ -->
+  <g class="ink7">
+    <!-- stem: vertical top bowing down-right to the junction (traced points) -->
+    <path d="M100 39 C 99 52, 101 66, 105 79 C 112 100, 118 114, 124 128 C 130 138, 134 140, 139 142 C 146 145, 150 146, 154 148 C 163 153, 176 168, 189 195"/>
+    <!-- closed loop: branch off the stem's middle, down the steep left wall, round the bottom, return -->
+    <path d="M128 137 C 116 158, 106 176, 102 191 C 96 214, 94 228, 95 238 C 97 254, 102 264, 112 270 C 124 276, 134 272, 139 258 C 145 240, 152 252, 161 243 C 170 235, 180 226, 189 202"/>
+    <!-- the rising arm to the upper right, tapering -->
+    <path d="M189 195 C 199 185, 210 177, 220 170 C 230 163, 240 155, 250 141 C 258 130, 264 116, 268 104"/>
+  </g>
+  <text class="sub"  x="180" y="296">The Old Ox — the ancient aleph</text>
+  <text class="sub2" x="180" y="322">the ox's head in the oldest hand</text>
+
+  <!-- ═══ ARROW 1 ═══ -->
+  <g>
+    <path class="arrow" d="M300 158 L 356 158"/>
+    <path class="arrow" d="M340 146 L 358 158 L 340 170"/>
+    <text class="turn" x="328" y="134">laid on its side</text>
+  </g>
+
+  <!-- ═══ 2. THE PHOENICIAN ALEPH — the three strokes, every one ending at its own tip ═══ -->
+  <g class="ink">
+    <!-- long descending diagonal, upper-left to lower-right, through both crossings -->
+    <path d="M449 75 L 547 226"/>
+    <!-- steep diagonal: upper-right tip down-left, ending at the lower-left vertex -->
+    <path d="M511 77 L 414 215"/>
+    <!-- the shallow spine: from that same vertex, rising gently right to its own tip -->
+    <path d="M414 215 L 582 136"/>
+  </g>
+  <text class="sub"  x="497" y="296">The Phoenician Aleph</text>
+  <text class="sub2" x="497" y="322">c. 1000 BC</text>
+
+  <!-- ═══ ARROW 2 ═══ -->
+  <g>
+    <path class="arrow" d="M596 170 L 648 170"/>
+    <path class="arrow" d="M634 160 L 650 170 L 634 180"/>
+    <text class="turn" x="596" y="126">stood upright again</text>
+  </g>
+
+  <!-- ═══ 3. THE GREEK ALPHA — the diagonal cross-stroke, traced to the chart ═══ -->
+  <g class="ink">
+    <!-- left leg: 20° off vertical, from the apex down-left -->
+    <path d="M711 44 L 631 271"/>
+    <!-- right leg: full 29° flare to its foot -->
+    <path d="M711 44 L 845 271"/>
+    <!-- diagonal cross-stroke: lower-left vertex to the right leg's midpoint, flush, trimmed -->
+    <path d="M640 265 L 783 158"/>
+  </g>
+  <text class="sub"  x="748" y="296">The Greek Alpha</text>
+  <text class="sub2" x="748" y="322">c. 750 BC</text>
+
+  <!-- ═══ ARROW 3 ═══ -->
+  <g>
+    <path class="arrow" d="M818 158 L 874 158"/>
+    <path class="arrow" d="M858 146 L 876 158 L 858 170"/>
+    <text class="turn" x="846" y="134">handed on</text>
+  </g>
+
+  <!-- ═══ 4. THE ROMAN CAPITAL — balanced, canonized (traced to the chart) ═══ -->
+  <g class="ink">
+    <path d="M1000 66 L 952 252"/>
+    <path d="M1000 66 L 1048 252"/>
+    <path d="M966 192 L 1034 192"/>
+  </g>
+  <text class="sub"  x="1014" y="296">The Roman Capital</text>
+  <text class="sub2" x="1014" y="322">c. 100 AD</text>
+</svg>
