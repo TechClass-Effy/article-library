@@ -1,0 +1,3796 @@
+{
+ "meta": {
+  "repository": "Gideon Ephratah — Scripture Repository (verified-verse bank)",
+  "created": "2026-11-02",
+  "purpose": "Every scripture quoted or referenced in Gideon's writings, fetched from named digital editions and verified word-for-word, banked so future work needs no repeat online confirmation.",
+  "editions": {
+   "brenton": "Brenton Septuagint (1851 English), eBible.org id eng-Brenton — OT only",
+   "gnv": "Geneva Bible 1599, eBible.org id enggnv — whole Bible",
+   "kjv": "King James Version 1769 standard text, eBible.org id eng-kjv2006 — whole Bible"
+  },
+  "conventions": [
+   "status: confirmed = quote matches the cited edition word-for-word; confirmed-excerpt = word-for-word but partial (ellipsis/clipped); differs-minor = same verse, few words changed; paraphrase = reworded; anchor = referenced narratively, not quoted; commentary = article's own rendering (canonical texts banked for reference).",
+   "For HALLOWED BE THY NAME: quotes cited 'LXX, Brenton' verified against Brenton's English Septuagint; quotes cited 'Geneva' against the 1599 Geneva Bible. Uncited blockquotes diagnosed against KJV (their usual voice) with GNV/Brenton banked alongside.",
+   "Psalms: the article cites Hebrew-psalm numbers (Ps 22:16); Brenton prints LXX numbers (Ps 21:17). Both recorded.",
+   "Hebrew names in the body (Moshe, Yohoshua, Yerushalayim, etc.) are the author's intentional practice - never flagged.",
+   "Ben Yachid uses JPS 1917 (Tanakh) + Geneva (NT); add JPS entries to this bank when those verses next need verification."
+  ],
+  "section_order": [
+   "P1-Q1",
+   "P1-Q2",
+   "P1-Q3",
+   "P1-Q4",
+   "P1-Q5",
+   "P1-Q6",
+   "P1-Q7",
+   "P1-Q8",
+   "P2",
+   "P3",
+   "P4",
+   "P5",
+   "P6",
+   "P7",
+   "P8",
+   "P9",
+   "CLOSE"
+  ],
+  "sections": [
+   {
+    "key": "P1-Q1",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q1",
+    "seeker_text": "The Seeker asked: Before you show me God's Name, I have to ask a question that sits underneath all the others. Letters didn't fall from the sky. Somewhere, somebody took the first picture and made it stand for a sound — and after him the whole world learned to write. Who was he? Where did he stand? And how did Israel come by her letters? Before we open the Name, I want to meet the hand that wrote it."
+   },
+   {
+    "key": "P1-Q2",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q2",
+    "seeker_text": "The Seeker asked: \"Who invented the alphabet? And how does anybody even do such a thing?\""
+   },
+   {
+    "key": "P1-Q3",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q3",
+    "seeker_text": "The Seeker asked: \"Wait. If men made the letters — did men make up God's Name?\""
+   },
+   {
+    "key": "P1-Q4",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q4",
+    "seeker_text": "The Seeker asked: \"But did Israel write? How do we know a people like that wrote at all?\""
+   },
+   {
+    "key": "P1-Q5",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q5",
+    "seeker_text": "The Seeker asked: \"What's the oldest piece of God's Book we still have?\""
+   },
+   {
+    "key": "P1-Q6",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q6",
+    "seeker_text": "The Seeker asked: \"So where did the old letters go? Are they gone?\""
+   },
+   {
+    "key": "P1-Q7",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q7",
+    "seeker_text": "The Seeker asked: \"But WHAT did the letters look like? Show me. Show me God's Name.\""
+   },
+   {
+    "key": "P1-Q8",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q8",
+    "seeker_text": "The Seeker asked: \"Stop. Look not only at the letters — look at their ORDER. Is the Plan itself written in the Name?\""
+   },
+   {
+    "key": "P2",
+    "label": "Part Two — The Four Letters",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P3",
+    "label": "Part Three — When the Letters Themselves Are the Sound",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P4",
+    "label": "Part Four — The Breath of Christ Upon His Disciples",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P5",
+    "label": "Part Five — The Puzzle of \"Jehovah\"",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P6",
+    "label": "Part Six — Why the Two Breaths Sound Different",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P7",
+    "label": "Part Seven — Not Taking His Name in Vain",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P8",
+    "label": "Part Eight — The Great \"I AM\"",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P9",
+    "label": "Part Nine — The Great Commandment as a Great Promise",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "CLOSE",
+    "label": "A Closing Word to the Body of Christ",
+    "sub": "",
+    "seeker_text": ""
+   }
+  ],
+  "double_check": {
+   "date": "2026-11-02",
+   "method": "every banked edition text re-checked against a second independent online source",
+   "sources": {
+    "brenton": "BibleHub Brenton Septuagint chapter pages (biblehub.com/sep/{book}/{chapter}.htm) + qbible.com Brenton pages",
+    "gnv": "TextusReceptusbibles.com Geneva 1599 verse tables",
+    "kjv": "BibleHub King James chapter pages"
+   },
+   "notes": [
+    "qbible is a names-restored edition (substituted words, Brenton's word in braces) and numbers Joshua/Jeremiah by the Hebrew order - handled in comparison, noted per entry.",
+    "eBible's Brenton Jeremiah numbering follows the LXX order (New-Covenant verse at JER 38:31-33); second sources carry the same text at Hebrew-numbered 31:31-33.",
+    "Verdicts live on each verse entry as second_check: {edition: {result, url, note?}}."
+   ]
+  }
+ },
+ "verses": [
+  {
+   "id": "GEN.2.7",
+   "ref": "Genesis 2:7",
+   "uses": [
+    {
+     "section": "P4",
+     "section_label": "Part Four — The Breath of Christ Upon His Disciples",
+     "article_line": 161,
+     "cited_as": "no translation cited",
+     "quote_kind": "bold-ref+quote-after",
+     "quotes": [
+      "And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Brenton: 'dust of the earth ... breathed upon his face the breath of life, and the man became a living soul' — article smooths three phrases",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.",
+      "reason": "Rule: Brenton's exact words (adds Brenton's closing 'and the man became a living soul')."
+     },
+     "applied": "2026-11-02",
+     "was": "And God formed the man of dust from the earth and breathed into his face a breath of life."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.",
+     "source": "https://ebible.org/eng-Brenton/GEN02.htm"
+    },
+    "gnv": {
+     "text": "The Lord God also made the man of the dust of the grounde, and breathed in his face breath of life, and the man was a liuing soule.",
+     "source": "https://ebible.org/enggnv/GEN02.htm"
+    },
+    "kjv": {
+     "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.",
+     "source": "https://ebible.org/eng-kjv2006/GEN02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "GEN.4.26",
+   "ref": "Genesis 4:26",
+   "uses": [
+    {
+     "section": "P1-Q3",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q3",
+     "article_line": 37,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"And Seth had a son, and he called his name Enos: he hoped to call on the name of the Lord God.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Seth had a son, and he called his name Enos: he hoped to call on the name of the Lord God.",
+     "source": "https://ebible.org/eng-Brenton/GEN04.htm"
+    },
+    "gnv": {
+     "text": "And to ye same Sheth also there was borne a sonne, and he called his name Enosh. Then beganne men to call vpon the name of the Lord.",
+     "source": "https://ebible.org/enggnv/GEN04.htm"
+    },
+    "kjv": {
+     "text": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.",
+     "source": "https://ebible.org/eng-kjv2006/GEN04.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.7",
+   "ref": "Genesis 22:7",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 102,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"Behold the fire and the wood, where is the sheep for a whole-burnt-offering?\"",
+      "\"God will provide himself a sheep for a whole-burnt-offering, my son.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Isaac said to Abraam his father, Father. And he said, What is it, son? And he said, Behold the fire and the wood, where is the sheep for a whole-burnt-offering?",
+     "source": "https://ebible.org/eng-Brenton/GEN22.htm"
+    },
+    "gnv": {
+     "text": "Then spake Izhak vnto Abraham his father, and said, My father. And he answered, Here am I, my sonne. And he said, Behold the fire and the wood, but where is the lambe for ye burnt offring?",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    },
+    "kjv": {
+     "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?",
+     "source": "https://ebible.org/eng-kjv2006/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.8",
+   "ref": "Genesis 22:8",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 102,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"Behold the fire and the wood, where is the sheep for a whole-burnt-offering?\"",
+      "\"God will provide himself a sheep for a whole-burnt-offering, my son.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Abraam said, God will provide himself a sheep for a whole-burnt-offering, my son. And both having gone together,",
+     "source": "https://ebible.org/eng-Brenton/GEN22.htm"
+    },
+    "gnv": {
+     "text": "Then Abraham answered, My sonne, God will prouide him a lambe for a burnt offering: so they went both together.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    },
+    "kjv": {
+     "text": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.",
+     "source": "https://ebible.org/eng-kjv2006/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.13",
+   "ref": "Genesis 22:13",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 102,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"and offered him up for a whole-burnt-offering in the place of Isaac his son.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Abraam lifted up his eyes and beheld, and lo! a ram caught by his horns in a plant of Sabec; and Abraam went and took the ram, and offered him up for a whole-burnt-offering in the place of Isaac his son.",
+     "source": "https://ebible.org/eng-Brenton/GEN22.htm"
+    },
+    "gnv": {
+     "text": "And Abraham lifting vp his eyes, looked: and behold, there was a ramme behind him caught by the hornes in a bush. then Abraham went and tooke the ramme, and offered him vp for a burnt offering in the steade of his sonne.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    },
+    "kjv": {
+     "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.",
+     "source": "https://ebible.org/eng-kjv2006/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.14",
+   "ref": "Genesis 22:14",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 102,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"The Lord hath seen; that they might say to-day, In the mount the Lord was seen.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Abraam called the name of that place, The Lord hath seen; that they might say to-day, In the mount the Lord was seen.",
+     "source": "https://ebible.org/eng-Brenton/GEN22.htm"
+    },
+    "gnv": {
+     "text": "And Abraham called the name of that place, Iehouah-ijreh. as it is said this day, In the mount will the Lord be seene.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    },
+    "kjv": {
+     "text": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.",
+     "source": "https://ebible.org/eng-kjv2006/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.16",
+   "ref": "Genesis 22:16",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 102,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "saying, I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son,",
+     "source": "https://ebible.org/eng-Brenton/GEN22.htm"
+    },
+    "gnv": {
+     "text": "And saide, By my selfe haue I sworne (saith ye Lord) because thou hast done this thing, and hast not spared thine onely sonne,",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    },
+    "kjv": {
+     "text": "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:",
+     "source": "https://ebible.org/eng-kjv2006/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.3.14",
+   "ref": "Exodus 3:14",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 280,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    },
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 282,
+     "cited_as": "no translation cited",
+     "quote_kind": "hebrew-term",
+     "quotes": [
+      "Ehyeh Asher Ehyeh",
+      "I AM WHO I AM"
+     ],
+     "status": "commentary",
+     "matched_source": "brenton",
+     "note": "Ehyeh Asher Ehyeh + renderings; all three canonical texts banked"
+    },
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 290,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.",
+     "source": "https://ebible.org/eng-Brenton/EXO03.htm"
+    },
+    "gnv": {
+     "text": "And God answered Moses, I Am That I Am. Also he said, Thus shalt thou say vnto the children of Israel, I Am hath sent me vnto you.",
+     "source": "https://ebible.org/enggnv/EXO03.htm"
+    },
+    "kjv": {
+     "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
+     "source": "https://ebible.org/eng-kjv2006/EXO03.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.3.15",
+   "ref": "Exodus 3:15",
+   "uses": [
+    {
+     "section": "CLOSE",
+     "section_label": "A Closing Word to the Body of Christ",
+     "article_line": 362,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This is my name for ever, and my memorial to generations of generations."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Brenton: 'this is my name for ever, and my memorial to generations of generations.' — article: 'forever' / 'this is my memorial'",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "This is my name for ever, and my memorial to generations of generations.",
+      "reason": "Rule: the article cites Exodus 3:15 Brenton twice — closing quote brought to Brenton's 'for ever... and my memorial'."
+     },
+     "applied": "2026-11-02",
+     "was": "This is my name forever, and this is my memorial to generations of generations."
+    },
+    {
+     "section": "P1-Q3",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q3",
+     "article_line": 36,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    },
+    {
+     "section": "P2",
+     "section_label": "Part Two — The Four Letters",
+     "article_line": 138,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "to generations of generations"
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.",
+     "source": "https://ebible.org/eng-Brenton/EXO03.htm"
+    },
+    "gnv": {
+     "text": "And God spake further vnto Moses, Thus shalt thou say vnto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Izhak, and the God of Iaakob hath sent me vnto you: this is my Name for euer, and this is my memoriall vnto all ages.",
+     "source": "https://ebible.org/enggnv/EXO03.htm"
+    },
+    "kjv": {
+     "text": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.",
+     "source": "https://ebible.org/eng-kjv2006/EXO03.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.6.3",
+   "ref": "Exodus 6:3",
+   "uses": [
+    {
+     "section": "P1-Q3",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q3",
+     "article_line": 39,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"I did not manifest to them my name Lord.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.",
+     "source": "https://ebible.org/eng-Brenton/EXO06.htm"
+    },
+    "gnv": {
+     "text": "And I appeared vnto Abraham, to Izhak, and to Iaakob by the Name of Almightie God: but by my Name Iehouah was I not knowen vnto the.",
+     "source": "https://ebible.org/enggnv/EXO06.htm"
+    },
+    "kjv": {
+     "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.",
+     "source": "https://ebible.org/eng-kjv2006/EXO06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.13.21",
+   "ref": "Exodus 13:21",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 292,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And God led them, in the day by a pillar of cloud, to show them the way, and in the night by a pillar of fire.",
+     "source": "https://ebible.org/eng-Brenton/EXO13.htm"
+    },
+    "gnv": {
+     "text": "And the Lord went before them by day in a pillar of a cloude to leade them the way, and by night in a pillar of fire to giue them light, that they might go both by day and by night.",
+     "source": "https://ebible.org/enggnv/EXO13.htm"
+    },
+    "kjv": {
+     "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+     "source": "https://ebible.org/eng-kjv2006/EXO13.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/",
+     "loc": "BibleHub Brenton Exodus 13 carries 'And God led them, in the day by a pillar of cloud...' - word-identical with eBible"
+    }
+   }
+  },
+  {
+   "id": "EXO.14.21",
+   "ref": "Exodus 14:21",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 293,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Moses stretched forth his hand over the sea, and the Lord carried back the sea with a strong south wind all the night, and made the sea dry, and the water was divided.",
+     "source": "https://ebible.org/eng-Brenton/EXO14.htm"
+    },
+    "gnv": {
+     "text": "And Moses stretched forth his hande vpon the Sea, and the Lord caused the sea to runne backe by a strong East winde all the night, and made the Sea dry land: for the waters were deuided.",
+     "source": "https://ebible.org/enggnv/EXO14.htm"
+    },
+    "kjv": {
+     "text": "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided.",
+     "source": "https://ebible.org/eng-kjv2006/EXO14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.17.6",
+   "ref": "Exodus 17:6",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 291,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "Behold, I stand there before thou come, on the rock in Choreb, and thou shalt smite the rock, and water shall come out from it, and the people shall drink. And Moses did so before the sons of Israel.",
+     "source": "https://ebible.org/eng-Brenton/EXO17.htm"
+    },
+    "gnv": {
+     "text": "Behold, I will stand there before thee vpon the rocke in Horeb, and thou shalt smite on the rocke, and water shall come out of it, that the people may drinke. And Moses did so in the sight of the Elders of Israel.",
+     "source": "https://ebible.org/enggnv/EXO17.htm"
+    },
+    "kjv": {
+     "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
+     "source": "https://ebible.org/eng-kjv2006/EXO17.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/",
+     "loc": "second source brackets a small fill and spells Horeb (eBible prints Brenton's Choreb) - same words otherwise"
+    }
+   }
+  },
+  {
+   "id": "EXO.17.14",
+   "ref": "Exodus 17:14",
+   "uses": [
+    {
+     "section": "P1-Q4",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q4",
+     "article_line": 45,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "And the Lord said to Moses, Write this for a memorial in a book, and speak this in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Brenton: 'speak this in the ears of Joshua' — article drops 'this'",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "And the Lord said to Moses, Write this for a memorial in a book, and speak this in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven.",
+      "reason": "Rule: quoted verse is cited LXX, Brenton — brought to Brenton's exact words (insert 'this')."
+     },
+     "applied": "2026-11-02",
+     "was": "And the Lord said to Moses, Write this for a memorial in a book, and speak in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And the Lord said to Moses, Write this for a memorial in a book, and speak this in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven.",
+     "source": "https://ebible.org/eng-Brenton/EXO17.htm"
+    },
+    "gnv": {
+     "text": "And the Lord sayde to Moses, Write this for a remembrance in the booke, and rehearse it to Ioshua: for I will vtterly put out the remembrance of Amalek from vnder heauen.",
+     "source": "https://ebible.org/enggnv/EXO17.htm"
+    },
+    "kjv": {
+     "text": "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.",
+     "source": "https://ebible.org/eng-kjv2006/EXO17.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree-minor",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.20.7",
+   "ref": "Exodus 20:7",
+   "uses": [
+    {
+     "section": "P1-Q3",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q3",
+     "article_line": 38,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    },
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 220,
+     "cited_as": "no translation cited",
+     "quote_kind": "turnto-next-blockquote",
+     "quotes": [
+      "Thou shalt not take the name of the LORD thy God in vain, for the LORD will not hold him guiltless that taketh His name in vain."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.",
+     "source": "https://ebible.org/eng-Brenton/EXO20.htm"
+    },
+    "gnv": {
+     "text": "Thou shalt not take the Name of the Lord thy God in vaine: for the Lord will not hold him guiltles that taketh his Name in vayne.",
+     "source": "https://ebible.org/enggnv/EXO20.htm"
+    },
+    "kjv": {
+     "text": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
+     "source": "https://ebible.org/eng-kjv2006/EXO20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EXO.31.18",
+   "ref": "Exodus 31:18",
+   "uses": [
+    {
+     "section": "P1-Q3",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q3",
+     "article_line": 38,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "The two tables of testimony, tables of stone written upon with the finger of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Brenton reads 'tables of stone written upon with the finger of God' — article (and KJV) omit 'upon'",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "The two tables of testimony, tables of stone written upon with the finger of God.",
+      "reason": "Rule: cited LXX, Brenton — Brenton reads 'written upon with'; KJV omits 'upon'."
+     },
+     "applied": "2026-11-02",
+     "was": "\"The two tables of testimony, tables of stone written with the finger of God.\""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And he gave to Moses when he left off speaking to him in mount Sina the two tables of testimony, tables of stone written upon with the finger of God.",
+     "source": "https://ebible.org/eng-Brenton/EXO31.htm"
+    },
+    "gnv": {
+     "text": "Thus (when the Lord had made an ende of communing with Moses vpon mount Sinai) he gaue him two Tables of the Testimonie, euen tables of stone, written with the finger of God.",
+     "source": "https://ebible.org/enggnv/EXO31.htm"
+    },
+    "kjv": {
+     "text": "¶ And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.",
+     "source": "https://ebible.org/eng-kjv2006/EXO31.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "LEV.19.12",
+   "ref": "Leviticus 19:12",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 230,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And ye shall not swear unjustly by my name, and ye shall not profane the holy name of your God: I am the Lord your God."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "And ye shall not swear unjustly by my name, and ye shall not profane the holy name of your God: I am the Lord your God.",
+      "reason": "Rule: Brenton's exact text ('unjustly'; 'holy name of your God: I am the Lord your God')."
+     },
+     "applied": "2026-11-02",
+     "was": "You shall not swear falsely by my name, and you shall not profane the name of your God."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And ye shall not swear unjustly by my name, and ye shall not profane the holy name of your God: I am the Lord your God.",
+     "source": "https://ebible.org/eng-Brenton/LEV19.htm"
+    },
+    "gnv": {
+     "text": "Also yee shall not sweare by my name falsely, neither shalt thou defile the name of thy God: I am the Lord.",
+     "source": "https://ebible.org/enggnv/LEV19.htm"
+    },
+    "kjv": {
+     "text": "¶ And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.",
+     "source": "https://ebible.org/eng-kjv2006/LEV19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "NUM.6.24",
+   "ref": "Numbers 6:24",
+   "uses": [
+    {
+     "section": "P1-Q5",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q5",
+     "article_line": 56,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "The Lord bless thee and keep thee; the Lord make his face to shine upon thee, and have mercy upon thee; the Lord lift up his countenance upon thee, and give thee peace."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "The Lord bless thee and keep thee;",
+     "source": "https://ebible.org/eng-Brenton/NUM06.htm"
+    },
+    "gnv": {
+     "text": "The Lord blesse thee, and keepe thee,",
+     "source": "https://ebible.org/enggnv/NUM06.htm"
+    },
+    "kjv": {
+     "text": "The LORD bless thee, and keep thee:",
+     "source": "https://ebible.org/eng-kjv2006/NUM06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "NUM.6.25",
+   "ref": "Numbers 6:25",
+   "uses": [
+    {
+     "section": "P1-Q5",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q5",
+     "article_line": 56,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "The Lord bless thee and keep thee; the Lord make his face to shine upon thee, and have mercy upon thee; the Lord lift up his countenance upon thee, and give thee peace."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "the Lord make his face to shine upon thee, and have mercy upon thee;",
+     "source": "https://ebible.org/eng-Brenton/NUM06.htm"
+    },
+    "gnv": {
+     "text": "The Lord make his face shine vpon thee, and be merciful vnto thee,",
+     "source": "https://ebible.org/enggnv/NUM06.htm"
+    },
+    "kjv": {
+     "text": "The LORD make his face shine upon thee, and be gracious unto thee:",
+     "source": "https://ebible.org/eng-kjv2006/NUM06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "NUM.6.26",
+   "ref": "Numbers 6:26",
+   "uses": [
+    {
+     "section": "P1-Q5",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q5",
+     "article_line": 56,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "The Lord bless thee and keep thee; the Lord make his face to shine upon thee, and have mercy upon thee; the Lord lift up his countenance upon thee, and give thee peace."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "the Lord lift up his countenance upon thee, and give thee peace.",
+     "source": "https://ebible.org/eng-Brenton/NUM06.htm"
+    },
+    "gnv": {
+     "text": "The Lord lift vp his coutenance vpon thee, and giue thee peace.",
+     "source": "https://ebible.org/enggnv/NUM06.htm"
+    },
+    "kjv": {
+     "text": "The LORD lift up his countenance upon thee, and give thee peace.",
+     "source": "https://ebible.org/eng-kjv2006/NUM06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "NUM.6.27",
+   "ref": "Numbers 6:27",
+   "uses": [
+    {
+     "section": "P1-Q5",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q5",
+     "article_line": 57,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "And they shall put my name upon the children of Israel, and I the Lord will bless them."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And they shall put my name upon the children of Israel, and I the Lord will bless them.",
+     "source": "https://ebible.org/eng-Brenton/NUM06.htm"
+    },
+    "gnv": {
+     "text": "So they shall put my Name vpon the children of Israel, and I wil blesse them.",
+     "source": "https://ebible.org/enggnv/NUM06.htm"
+    },
+    "kjv": {
+     "text": "And they shall put my name upon the children of Israel; and I will bless them.",
+     "source": "https://ebible.org/eng-kjv2006/NUM06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "DEU.6.5",
+   "ref": "Deuteronomy 6:5",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 315,
+     "cited_as": "no translation cited",
+     "quote_kind": "seeker-speech",
+     "quotes": [
+      "Thou shalt love the Lord your God with all of your might, mind and strength"
+     ],
+     "status": "paraphrase",
+     "matched_source": null,
+     "note": "Seeker's own paraphrase (Deut 6:5 with 'mind'; cf. Mark 12:30)"
+    },
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 317,
+     "cited_as": "no translation cited",
+     "quote_kind": "ref-then-quote",
+     "quotes": [
+      "Thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And thou shalt love the Lord thy God with all thy mind, and with all thy soul, and all thy strength.",
+     "source": "https://ebible.org/eng-Brenton/DEU06.htm"
+    },
+    "gnv": {
+     "text": "And thou shalt loue the Lord thy God with all thine heart, and with all thy soule, and with all thy might.",
+     "source": "https://ebible.org/enggnv/DEU06.htm"
+    },
+    "kjv": {
+     "text": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
+     "source": "https://ebible.org/eng-kjv2006/DEU06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "DEU.9.10",
+   "ref": "Deuteronomy 9:10",
+   "uses": [
+    {
+     "section": "P1-Q3",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q3",
+     "article_line": 38,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"...written with the finger of God, and on them there had been written all the words which the Lord spoke to you in the mountain in the day of the assembly.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And the Lord gave me the two tables of stone written with the finger of God, and on them there had been written all the words which the Lord spoke to you in the mountain in the day of the assembly.",
+     "source": "https://ebible.org/eng-Brenton/DEU09.htm"
+    },
+    "gnv": {
+     "text": "Then the Lord deliuered me two tables of stone, written with the finger of God, and in them was conteyned according to all the wordes which the Lord had said vnto you in the mount out of the middes of the fire, in the day of the assemblie.",
+     "source": "https://ebible.org/enggnv/DEU09.htm"
+    },
+    "kjv": {
+     "text": "And the LORD delivered unto me two tables of stone written with the finger of God; and on them was written according to all the words, which the LORD spake with you in the mount out of the midst of the fire in the day of the assembly.",
+     "source": "https://ebible.org/eng-kjv2006/DEU09.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "DEU.30.6",
+   "ref": "Deuteronomy 30:6",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 321,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And the Lord thy God will circumcise thine heart, and the heart of thy seed, to love the Lord thy God with all thine heart, and with all thy soul, that thou mayest live."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And the Lord shall purge thy heart, and the heart of thy seed, to love the Lord thy God with all thy heart, and with all thy soul, that thou mayest live.",
+     "source": "https://ebible.org/eng-Brenton/DEU30.htm"
+    },
+    "gnv": {
+     "text": "And the Lord thy God will circumcise thine heart, and the heart of thy seede, that thou mayest loue the Lord thy God with all thine heart, and with al thy soule, that thou maiest liue.",
+     "source": "https://ebible.org/enggnv/DEU30.htm"
+    },
+    "kjv": {
+     "text": "And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.",
+     "source": "https://ebible.org/eng-kjv2006/DEU30.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "DEU.31.9",
+   "ref": "Deuteronomy 31:9",
+   "uses": [
+    {
+     "section": "P1-Q4",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q4",
+     "article_line": 46,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "And Moses wrote the words of this law in a book, and gave it to the priests the sons of Levi who bear the ark of the covenant of the Lord, and to the elders of the sons of Israel."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And Moses wrote the words of this law in a book, and gave it to the priests the sons of Levi who bear the ark of the covenant of the Lord, and to the elders of the sons of Israel.",
+     "source": "https://ebible.org/eng-Brenton/DEU31.htm"
+    },
+    "gnv": {
+     "text": "And Moses wrote this Lawe, and deliuered it vnto the Priestes the sonnes of Leui (which bare the Arke of the couenant of the Lord) and vnto all the Elders of Israel,",
+     "source": "https://ebible.org/enggnv/DEU31.htm"
+    },
+    "kjv": {
+     "text": "¶ And Moses wrote this law, and delivered it unto the priests the sons of Levi, which bare the ark of the covenant of the LORD, and unto all the elders of Israel.",
+     "source": "https://ebible.org/eng-kjv2006/DEU31.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "JOS.8.32",
+   "ref": "Joshua 8:32",
+   "uses": [
+    {
+     "section": "P1-Q4",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q4",
+     "article_line": 47,
+     "cited_as": "brenton",
+     "quote_kind": "scripture-p",
+     "quotes": [
+      "And Joshua wrote upon the stones a copy of the law, even the law of Moses, before the children of Israel."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "lxx_note": "LXX Joshua 9:2 (Brenton relocates 8:30–32 into 9:2)",
+   "translations": {
+    "brenton": {
+     "text": "they came all together at the same time to make war against Joshua and Israel. 2a Then Joshua built an altar to the Lord God of Israel in mount Gæbal, 2b as Moses the servant of the Lord commanded the children of Israel, as it is written in the law of Moses, an altar of unhewn stones, on which iron had not been lifted up; and he offered there whole-burnt-offerings to the Lord, and a peace-offering. 2c And Joshua wrote upon the stones a copy of the law, even the law of Moses, before the children of Israel. 2d And all Israel, and their elders, and their judges, and their scribes, passed on one side and on the other before the ark; and the priests and the Levites took up the ark of the covenant of the Lord; and the stranger and the native were there, who were half of them near mount Garizin, and half near mount Gæbal, as Moses the servant of the Lord commanded at first, to bless the people. 2e And afterwards Joshua read accordingly all the words of this law, the blessings and the curses, according to all things written in the law of Moses. 2f There was not a word of all that Moses charged Joshua, which Joshua read not in the ears of all the assembly of the children of Israel, the men, and the women, and the children, and the strangers that joined themselves to Israel.",
+     "source": "https://ebible.org/eng-Brenton/JOS08.htm"
+    },
+    "gnv": {
+     "text": "Also he wrote there vpon the stones, a rehearsall of the Lawe of Moses, which he wrote in the presence of the children of Israel.",
+     "source": "https://ebible.org/enggnv/JOS08.htm"
+    },
+    "kjv": {
+     "text": "¶ And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.",
+     "source": "https://ebible.org/eng-kjv2006/JOS08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/",
+     "loc": "the altar-stones pericope: eBible prints it inside Joshua 9:2 (lettered 2a-2f), BibleHub at Joshua 8:31-32; the quoted sentence is word-identical in both"
+    }
+   }
+  },
+  {
+   "id": "1CH.14.15",
+   "ref": "1 Chronicles 14:15",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 294,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And it shall be, when thou shalt hear the sound of their tumult in the tops of the pear trees, then thou shalt go into the battle: for God has gone out before thee to smite the army of the Philistines.",
+     "source": "https://ebible.org/eng-Brenton/1CH14.htm"
+    },
+    "gnv": {
+     "text": "And when thou hearest the noyse of one going in the toppes of the mulberie trees, then goe out to battel: for God is gone foorth before thee, to smite the hoste of the Philistims.",
+     "source": "https://ebible.org/enggnv/1CH14.htm"
+    },
+    "kjv": {
+     "text": "And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, that then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines.",
+     "source": "https://ebible.org/eng-kjv2006/1CH14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "2KI.20.20",
+   "ref": "2 Kings 20:20",
+   "uses": [
+    {
+     "section": "P1-Q4",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q4",
+     "article_line": 49,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And the rest of the acts of Ezekias, and all his might, and all that he made, the fountain and the aqueduct, and how he brought water into the city, are not these things written in the book of the chronicles of the kings of Juda?",
+     "source": "https://ebible.org/eng-Brenton/2KI20.htm"
+    },
+    "gnv": {
+     "text": "Concerning the rest of the actes of Hezekiah, and all his valiant deedes, and howe he made a poole and a cundite, and brought water into the citie, are they not written in the booke of the Chronicles of the Kings of Iudah?",
+     "source": "https://ebible.org/enggnv/2KI20.htm"
+    },
+    "kjv": {
+     "text": "¶ And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, are they not written in the book of the chronicles of the kings of Judah?",
+     "source": "https://ebible.org/eng-kjv2006/2KI20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/",
+     "loc": "qbible Brenton 2 Kings 20:20 matches eBible (both use Hebrew-order naming for Kings)"
+    }
+   }
+  },
+  {
+   "id": "JOB.33.4",
+   "ref": "Job 33:4",
+   "uses": [
+    {
+     "section": "P6",
+     "section_label": "Part Six — Why the Two Breaths Sound Different",
+     "article_line": 212,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "The Spirit of God hath made me, and the breath of the Almighty hath given me life."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": "",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "kjv",
+      "text": "The Spirit of God hath made me, and the breath of the Almighty hath given me life.",
+      "reason": "KJV exception — 'The Spirit of God hath made me, and the breath of the Almighty hath given me life.'"
+     },
+     "applied": "2026-11-02",
+     "was": "The spirit of God is what made me, and the breath of the Almighty is what teaches me."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "The Divine Spirit is that which formed me, and the breath of the Almighty that which teaches me.",
+     "source": "https://ebible.org/eng-Brenton/JOB33.htm"
+    },
+    "gnv": {
+     "text": "The Spirite of God hath made me, and the breath of the Almightie hath giuen me life.",
+     "source": "https://ebible.org/enggnv/JOB33.htm"
+    },
+    "kjv": {
+     "text": "The Spirit of God hath made me, and the breath of the Almighty hath given me life.",
+     "source": "https://ebible.org/eng-kjv2006/JOB33.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "PSA.22.16",
+   "ref": "Psalm 22:16",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 106,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"For many dogs have compassed me: the assembly of the wicked doers has beset me round: they pierced my hands and my feet.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "lxx_note": "Psalm 21:17",
+   "translations": {
+    "brenton": {
+     "text": "For many dogs have compassed me: the assembly of the wicked doers has beset me round: they pierced my hands and my feet.",
+     "source": "https://ebible.org/eng-Brenton/PSA22.htm"
+    },
+    "gnv": {
+     "text": "For dogges haue compassed me, and the assemblie of the wicked haue inclosed me: they perced mine hands and my feete.",
+     "source": "https://ebible.org/enggnv/PSA22.htm"
+    },
+    "kjv": {
+     "text": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
+     "source": "https://ebible.org/eng-kjv2006/PSA22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "PSA.104.29",
+   "ref": "Psalm 104:29",
+   "uses": [
+    {
+     "section": "P6",
+     "section_label": "Part Six — Why the Two Breaths Sound Different",
+     "article_line": 213,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Thou takest away their breath, they die, and return to their dust. Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": " — applied as one passage (KJV vv29-30 exact)",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "kjv",
+      "text": "Thou takest away their breath, they die, and return to their dust.",
+      "reason": "KJV exception — 'thou takest away their breath' (the article's 'spirit' swap yields)."
+     },
+     "applied": "2026-11-02",
+     "was": "When you take away their spirit, they will die and return to their dust. You will send forth your spirit, and they will be created."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "But when thou hast turned away thy face, they shall be troubled: thou wilt take away their breath, and they shall fail, and return to their dust.",
+     "source": "https://ebible.org/eng-Brenton/PSA103.htm"
+    },
+    "gnv": {
+     "text": "But if thou hide thy face, they are troubled: if thou take away their breath, they dye and returne to their dust.",
+     "source": "https://ebible.org/enggnv/PSA104.htm"
+    },
+    "kjv": {
+     "text": "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.",
+     "source": "https://ebible.org/eng-kjv2006/PSA104.htm"
+    }
+   },
+   "lxx_note": "Psalm 103:29 (Brenton)",
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "PSA.104.30",
+   "ref": "Psalm 104:30",
+   "uses": [
+    {
+     "section": "P6",
+     "section_label": "Part Six — Why the Two Breaths Sound Different",
+     "article_line": 213,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Thou takest away their breath, they die, and return to their dust. Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": "applied as one passage (KJV vv29-30 exact)",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "kjv",
+      "text": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
+      "reason": "KJV exception — 'Thou sendest forth thy spirit, they are created'."
+     },
+     "applied": "2026-11-02",
+     "was": "When you take away their spirit, they will die and return to their dust. You will send forth your spirit, and they will be created."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "Thou shalt send forth thy Spirit, and they shall be created; and thou shalt renew the face of the earth.",
+     "source": "https://ebible.org/eng-Brenton/PSA103.htm"
+    },
+    "gnv": {
+     "text": "Againe if thou send forth thy spirit, they are created, and thou renuest the face of the earth.",
+     "source": "https://ebible.org/enggnv/PSA104.htm"
+    },
+    "kjv": {
+     "text": "Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.",
+     "source": "https://ebible.org/eng-kjv2006/PSA104.htm"
+    }
+   },
+   "lxx_note": "Psalm 103:30 (Brenton)",
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "PSA.124.8",
+   "ref": "Psalm 124:8",
+   "uses": [
+    {
+     "section": "CLOSE",
+     "section_label": "A Closing Word to the Body of Christ",
+     "article_line": 363,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Our help is in the name of the LORD, who made heaven and earth."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Matches Brenton ('the Lord') and KJV ('the LORD') exactly word-for-word"
+    }
+   ],
+   "verified": "2026-11-02",
+   "lxx_note": "Psalm 123:8",
+   "translations": {
+    "brenton": {
+     "text": "Our help is in the name of the Lord, who made heaven and earth.",
+     "source": "https://ebible.org/eng-Brenton/PSA124.htm"
+    },
+    "gnv": {
+     "text": "Our helpe is in the Name of the Lord, which hath made heauen and earth.",
+     "source": "https://ebible.org/enggnv/PSA124.htm"
+    },
+    "kjv": {
+     "text": "Our help is in the name of the LORD, who made heaven and earth.",
+     "source": "https://ebible.org/eng-kjv2006/PSA124.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "PRO.18.10",
+   "ref": "Proverbs 18:10",
+   "uses": [
+    {
+     "section": "CLOSE",
+     "section_label": "A Closing Word to the Body of Christ",
+     "article_line": 364,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "The name of the LORD is a strong tower: the righteous runneth into it, and is safe."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "The name of the Lord is of great strength; and the righteous running to it are exalted.",
+     "source": "https://ebible.org/eng-Brenton/PRO18.htm"
+    },
+    "gnv": {
+     "text": "The Name of the Lord is a strong tower: the righteous runneth vnto it, and is exalted.",
+     "source": "https://ebible.org/enggnv/PRO18.htm"
+    },
+    "kjv": {
+     "text": "The name of the LORD is a strong tower: the righteous runneth into it, and is safe.",
+     "source": "https://ebible.org/eng-kjv2006/PRO18.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ISA.29.13",
+   "ref": "Isaiah 29:13",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 234,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+      "reason": "Rule + good reason: Brenton alone carries 'but in vain do they worship me' — the article's own phrase."
+     },
+     "applied": "2026-11-02",
+     "was": "This people draws near me with their lips… but their heart is far from me, and in vain they worship me."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And the Lord has said, This people draw nigh to me with their mouth, and they honour me with their lips, but their heart is far from me: but in vain do they worship me, teaching the commandments and doctrines of men.",
+     "source": "https://ebible.org/eng-Brenton/ISA29.htm"
+    },
+    "gnv": {
+     "text": "Therefore the Lord sayd, Because this people come neere vnto me with their mouth, and honour me with their lips, but haue remooued their heart farre from me, and their feare toward me was taught by the precept of men,",
+     "source": "https://ebible.org/enggnv/ISA29.htm"
+    },
+    "kjv": {
+     "text": "¶ Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:",
+     "source": "https://ebible.org/eng-kjv2006/ISA29.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ISA.42.8",
+   "ref": "Isaiah 42:8",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 120,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"I am the Lord God: that is my name: I will not give my glory to another, nor my praises to graven images.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "I am the Lord God: that is my name: I will not give my glory to another, nor my praises to graven images.",
+     "source": "https://ebible.org/eng-Brenton/ISA42.htm"
+    },
+    "gnv": {
+     "text": "I am the Lord, this is my Name, and my glory wil I not giue to another, neither my praise to grauen images.",
+     "source": "https://ebible.org/enggnv/ISA42.htm"
+    },
+    "kjv": {
+     "text": "I am the LORD: that is my name: and my glory will I not give to another, neither my praise to graven images.",
+     "source": "https://ebible.org/eng-kjv2006/ISA42.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ISA.52.13",
+   "ref": "Isaiah 52:13",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 104,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "Behold!",
+      "\"Behold, my servant shall understand, and be exalted, and glorified exceedingly.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Exact Brenton wording"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "Behold, my servant shall understand, and be exalted, and glorified exceedingly.",
+     "source": "https://ebible.org/eng-Brenton/ISA52.htm"
+    },
+    "gnv": {
+     "text": "Beholde, my seruant shall prosper: he shall be exalted and extolled, and be very hie.",
+     "source": "https://ebible.org/enggnv/ISA52.htm"
+    },
+    "kjv": {
+     "text": "¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.",
+     "source": "https://ebible.org/eng-kjv2006/ISA52.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ISA.53.5",
+   "ref": "Isaiah 53:5",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 106,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.",
+     "source": "https://ebible.org/eng-Brenton/ISA53.htm"
+    },
+    "gnv": {
+     "text": "But hee was wounded for our transgressions, hee was broken for our iniquities: the chastisement of our peace was vpon him, and with his stripes we are healed.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    },
+    "kjv": {
+     "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
+     "source": "https://ebible.org/eng-kjv2006/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "JER.14.14",
+   "ref": "Jeremiah 14:14",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 238,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "The prophets prophesy lies in my name: I sent them not, and I commanded them not, and I spoke not to them."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "The prophets prophesy lies in my name: I sent them not, and I commanded them not, and I spoke not to them.",
+      "reason": "Rule: article's sentence structure is Brenton's word-for-word; 'false things' becomes Brenton's 'lies'."
+     },
+     "applied": "2026-11-02",
+     "was": "The prophets prophesy false things in my name; I did not send them, and I did not command them, and I did not speak to them."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "Then the Lord said to me, The prophets prophesy lies in my name: I sent them not, and I commanded them not, and I spoke not to them: for they prophesy to you false visions, and divinations, and auguries, and devices of their own heart.",
+     "source": "https://ebible.org/eng-Brenton/JER14.htm"
+    },
+    "gnv": {
+     "text": "Then the Lord said vnto me, The prophets prophecie lyes in my Name: I haue not sent them, neither did I command them, neither spake I vnto them, but they prophecie vnto you a false vision, and diuination, and vanitie, and deceitfulnes of their owne heart.",
+     "source": "https://ebible.org/enggnv/JER14.htm"
+    },
+    "kjv": {
+     "text": "Then the LORD said unto me, The prophets prophesy lies in my name: I sent them not, neither have I commanded them, neither spake unto them: they prophesy unto you a false vision and divination, and a thing of nought, and the deceit of their heart.",
+     "source": "https://ebible.org/eng-kjv2006/JER14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "JER.31.33",
+   "ref": "Jeremiah 31:33",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 323,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": "Article inserts 'I' ('and I will be their God'); KJV: 'and will be their God'; quote is an excerpt",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "kjv",
+      "text": "I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.",
+      "reason": "KJV exception (surrounded by KJV-voiced blockquotes) — drop the inserted 'I' ('and will be their God')."
+     },
+     "applied": "2026-11-02",
+     "was": "I will put my law in their inward parts, and write it in their hearts; and I will be their God, and they shall be my people."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "Joy and gladness have been utterly swept off the land of Moab: and though there was wine in thy presses, in the morning they trod it not, neither in the evening did they raise the cry of joy.",
+     "source": "https://ebible.org/eng-Brenton/JER31.htm"
+    },
+    "gnv": {
+     "text": "But this shall be the couenant that I will make with the house of Israel, After those dayes, saith the Lord, I will put my Lawe in their inward partes, and write it in their hearts, and wil be their God, and they shalbe my people.",
+     "source": "https://ebible.org/enggnv/JER31.htm"
+    },
+    "kjv": {
+     "text": "But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.",
+     "source": "https://ebible.org/eng-kjv2006/JER31.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/",
+     "loc": "New-Covenant verse: qbible prints it at Hebrew-numbered 31:33, eBible at Brenton's LXX-numbered 38:31-33 - word-identical in both"
+    }
+   }
+  },
+  {
+   "id": "EZK.36.20",
+   "ref": "Ezekiel 36:20",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 243,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "They profaned my holy name, while it was said of them, These are the people of the Lord, and they came forth out of his land."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "They profaned my holy name, while it was said of them, These are the people of the Lord, and they came forth out of his land.",
+      "reason": "Rule: article's 'in that it was said of them' is Brenton's 'while it was said of them'."
+     },
+     "applied": "2026-11-02",
+     "was": "They profaned my holy name in that it was said of them: 'These are the people of the Lord…'"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And they went in among the nations, among which they went, and they profaned my holy name, while it was said of them, These are the people of the Lord, and they came forth out of his land.",
+     "source": "https://ebible.org/eng-Brenton/EZK36.htm"
+    },
+    "gnv": {
+     "text": "And when they entred vnto the heathen, whither they went, they polluted mine holy Name, when they sayd of them, These are the people of the Lord, and are gone out of his land.",
+     "source": "https://ebible.org/enggnv/EZK36.htm"
+    },
+    "kjv": {
+     "text": "And when they entered unto the heathen, whither they went, they profaned my holy name, when they said to them, These are the people of the LORD, and are gone forth out of his land.",
+     "source": "https://ebible.org/eng-kjv2006/EZK36.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EZK.36.26",
+   "ref": "Ezekiel 36:26",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 325,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And I will give you a new heart, and will put a new spirit in you: and I will take away the heart of stone out of your flesh, and will give you a heart of flesh.",
+     "source": "https://ebible.org/eng-Brenton/EZK36.htm"
+    },
+    "gnv": {
+     "text": "A newe heart also will I giue you, and a new spirit wil I put within you, and I will take away the stonie heart out of your body, and I will giue you an heart of flesh.",
+     "source": "https://ebible.org/enggnv/EZK36.htm"
+    },
+    "kjv": {
+     "text": "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh.",
+     "source": "https://ebible.org/eng-kjv2006/EZK36.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EZK.36.27",
+   "ref": "Ezekiel 36:27",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 325,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "A new heart also will I give you, and a new spirit will I put within you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And I will put my Spirit in you, and will cause you to walk in mine ordinances, and to keep my judgments, and do them.",
+     "source": "https://ebible.org/eng-Brenton/EZK36.htm"
+    },
+    "gnv": {
+     "text": "And I will put my spirite within you, and cause you to walke in my statutes, and ye shall keepe my iudgements and do them.",
+     "source": "https://ebible.org/enggnv/EZK36.htm"
+    },
+    "kjv": {
+     "text": "And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do them.",
+     "source": "https://ebible.org/eng-kjv2006/EZK36.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "EZK.37.9",
+   "ref": "Ezekiel 37:9",
+   "uses": [
+    {
+     "section": "P4",
+     "section_label": "Part Four — The Breath of Christ Upon His Disciples",
+     "article_line": 163,
+     "cited_as": "no translation cited",
+     "quote_kind": "bold-ref+quote-after",
+     "quotes": [
+      "Come from the four winds, and breathe upon these dead men, and let them live."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "Brenton: 'breathe upon these dead men, and let them live' — article omits 'men'",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "Come from the four winds, and breathe upon these dead men, and let them live.",
+      "reason": "Rule: Brenton exact — 'these dead men, and let them live'."
+     },
+     "applied": "2026-11-02",
+     "was": "Come from the four winds and breathe upon these dead, and let them live."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And he said to me, Prophesy to the wind, prophesy, son of man, and say to the wind, Thus saith the Lord; Come from the four winds, and breathe upon these dead men, and let them live.",
+     "source": "https://ebible.org/eng-Brenton/EZK37.htm"
+    },
+    "gnv": {
+     "text": "Then sayd he vnto me, Prophecie vnto the winde: prophecie, sonne of man, and say to the winde, Thus sayth the Lord God, Come from the foure windes, O breath, and breathe vpon these slayne, that they may liue.",
+     "source": "https://ebible.org/enggnv/EZK37.htm"
+    },
+    "kjv": {
+     "text": "Then said he unto me, Prophesy unto the wind, prophesy, son of man, and say to the wind, Thus saith the Lord GOD; Come from the four winds, O breath, and breathe upon these slain, that they may live.",
+     "source": "https://ebible.org/eng-kjv2006/EZK37.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "MAL.1.6",
+   "ref": "Malachi 1:6",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 249,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty."
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": "",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "brenton",
+      "text": "A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty.",
+      "reason": "Rule: Brenton's exact words ('servant his master... where is mine honour?')."
+     },
+     "applied": "2026-11-02",
+     "was": "A son honors a father, and a slave his lord. So if I am a father, where is my glory? And if I am the Lord, where is the fear of me?"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "A son honours his father, and a servant his master: if then I am a father, where is mine honour? and if I am a master, where is my fear? saith the Lord Almighty. Ye the priests are they that despise my name: yet ye said, Wherein have we despised thy name?",
+     "source": "https://ebible.org/eng-Brenton/MAL01.htm"
+    },
+    "gnv": {
+     "text": "A sonne honoureth his father, and a seruant his master. If then I be a father, where is mine honour? and if I be a master, where is my feare, sayth the Lord of hostes vnto you, O Priestes, that despise my Name? and yee say, Wherein haue we despised thy Name?",
+     "source": "https://ebible.org/enggnv/MAL01.htm"
+    },
+    "kjv": {
+     "text": "¶ A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?",
+     "source": "https://ebible.org/eng-kjv2006/MAL01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ZEC.1.8",
+   "ref": "Zechariah 1:8",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 294,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "I saw by night, and behold a man mounted on a red horse, and he stood between the shady mountains; and behind him were red horses, and grey, and piebald, and white.",
+     "source": "https://ebible.org/eng-Brenton/ZEC01.htm"
+    },
+    "gnv": {
+     "text": "I saw by night, and behold a man riding vpon a red horse, and hee stood among the mirre trees, that were in a bottome, and behinde him were there red horses speckeled and white.",
+     "source": "https://ebible.org/enggnv/ZEC01.htm"
+    },
+    "kjv": {
+     "text": "I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white.",
+     "source": "https://ebible.org/eng-kjv2006/ZEC01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ZEC.12.10",
+   "ref": "Zechariah 12:10",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 108,
+     "cited_as": "brenton",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "another",
+      "before",
+      "after",
+      "\"they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a firstborn son.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "brenton",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.",
+     "source": "https://ebible.org/eng-Brenton/ZEC12.htm"
+    },
+    "gnv": {
+     "text": "And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.",
+     "source": "https://ebible.org/enggnv/ZEC12.htm"
+    },
+    "kjv": {
+     "text": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.",
+     "source": "https://ebible.org/eng-kjv2006/ZEC12.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "MAT.5.37",
+   "ref": "Matthew 5:37",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 231,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "Let your communication be, Yea, yea; Nay, nay"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "But let your communication be Yea, yea: Nay, nay. For whatsoeuer is more then these, commeth of euill.",
+     "source": "https://ebible.org/enggnv/MAT05.htm"
+    },
+    "kjv": {
+     "text": "But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.",
+     "source": "https://ebible.org/eng-kjv2006/MAT05.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "MAT.6.9",
+   "ref": "Matthew 6:9",
+   "uses": [
+    {
+     "section": "CLOSE",
+     "section_label": "A Closing Word to the Body of Christ",
+     "article_line": 365,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Hallowed be Thy name."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "After this maner therefore pray ye, Our father which art in heauen, halowed be thy name.",
+     "source": "https://ebible.org/enggnv/MAT06.htm"
+    },
+    "kjv": {
+     "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.",
+     "source": "https://ebible.org/eng-kjv2006/MAT06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.1.29",
+   "ref": "John 1:29",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 104,
+     "cited_as": "gnv",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"Beholde that Lambe of God, which taketh away the sinne of the world.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "The next day Iohn, seeth Iesus comming vnto him, and saith, Beholde that Lambe of God, which taketh away the sinne of the world.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "kjv": {
+     "text": "¶ The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+     "source": "https://ebible.org/eng-kjv2006/JHN01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.3.16",
+   "ref": "John 3:16",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 122,
+     "cited_as": "gnv",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"For God so loued the worlde, that hee hath giuen his onely begotten Sonne, that whosoeuer beleeueth in him, should not perish, but haue euerlasting life.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "For God so loued the worlde, that hee hath giuen his onely begotten Sonne, that whosoeuer beleeueth in him, should not perish, but haue euerlasting life.",
+     "source": "https://ebible.org/enggnv/JHN03.htm"
+    },
+    "kjv": {
+     "text": "¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+     "source": "https://ebible.org/eng-kjv2006/JHN03.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.6.35",
+   "ref": "John 6:35",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 300,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the bread of life"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus saide vnto them, I am that bread of life: he that commeth to me, shall not hunger, and he that beleeueth in me, shall neuer thirst.",
+     "source": "https://ebible.org/enggnv/JHN06.htm"
+    },
+    "kjv": {
+     "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.",
+     "source": "https://ebible.org/eng-kjv2006/JHN06.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.8.12",
+   "ref": "John 8:12",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 301,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the light of the world"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Then spake Iesus againe vnto them, saying, I am that light of the worlde: hee that followeth mee, shall not walke in darkenes, but shall haue that light of life.",
+     "source": "https://ebible.org/enggnv/JHN08.htm"
+    },
+    "kjv": {
+     "text": "¶ Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
+     "source": "https://ebible.org/eng-kjv2006/JHN08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.8.58",
+   "ref": "John 8:58",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 309,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Verily, verily, I say unto you, before Abraham was, I AM."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.",
+     "source": "https://ebible.org/enggnv/JHN08.htm"
+    },
+    "kjv": {
+     "text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.",
+     "source": "https://ebible.org/eng-kjv2006/JHN08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.8.59",
+   "ref": "John 8:59",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 310,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.",
+     "source": "https://ebible.org/enggnv/JHN08.htm"
+    },
+    "kjv": {
+     "text": "Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.",
+     "source": "https://ebible.org/eng-kjv2006/JHN08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.10.9",
+   "ref": "John 10:9",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 302,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the door"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "I am that doore: by me if any man enter in, he shall be saued, and shall go in, and go out, and finde pasture.",
+     "source": "https://ebible.org/enggnv/JHN10.htm"
+    },
+    "kjv": {
+     "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
+     "source": "https://ebible.org/eng-kjv2006/JHN10.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.10.11",
+   "ref": "John 10:11",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 303,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the good shepherd"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "I am that good shepheard: that good shepheard giueth his life for his sheepe.",
+     "source": "https://ebible.org/enggnv/JHN10.htm"
+    },
+    "kjv": {
+     "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
+     "source": "https://ebible.org/eng-kjv2006/JHN10.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.11.25",
+   "ref": "John 11:25",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 304,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the resurrection and the life"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Iesus saide vnto her, I am the resurrection and the life: he that beleeueth in me, though he were dead, yet shall he liue.",
+     "source": "https://ebible.org/enggnv/JHN11.htm"
+    },
+    "kjv": {
+     "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
+     "source": "https://ebible.org/eng-kjv2006/JHN11.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.14.6",
+   "ref": "John 14:6",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 305,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the way, the truth, and the life"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Iesus sayd vnto him, I am that Way, and that Trueth, and that Life. No man commeth vnto the Father, but by me.",
+     "source": "https://ebible.org/enggnv/JHN14.htm"
+    },
+    "kjv": {
+     "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
+     "source": "https://ebible.org/eng-kjv2006/JHN14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.15.1",
+   "ref": "John 15:1",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 306,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "I AM the true vine"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "I Am that true vine, and my Father is that husband man.",
+     "source": "https://ebible.org/enggnv/JHN15.htm"
+    },
+    "kjv": {
+     "text": "I am the true vine, and my Father is the husbandman.",
+     "source": "https://ebible.org/eng-kjv2006/JHN15.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "JHN.20.22",
+   "ref": "John 20:22",
+   "uses": [
+    {
+     "section": "P4",
+     "section_label": "Part Four — The Breath of Christ Upon His Disciples",
+     "article_line": 157,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    },
+    {
+     "section": "P4",
+     "section_label": "Part Four — The Breath of Christ Upon His Disciples",
+     "article_line": 159,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "He breathed on them, and saith unto them, Receive ye the Holy Ghost."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": "KJV: 'Receive ye the Holy Ghost' — article: 'Receive ye the Holy Spirit' (Seeker's line at L155 says 'Holy Ghost')",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "kjv",
+      "text": "He breathed on them, and saith unto them, Receive ye the Holy Ghost.",
+      "reason": "KJV exception (the article's uncited NT voice, and its Seeker line says 'Receive ye the Holy Ghost') — 'Spirit' becomes KJV 'Ghost'."
+     },
+     "applied": "2026-11-02",
+     "was": "He breathed on them, and saith unto them, Receive ye the Holy Spirit."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And when he had saide that, he breathed on them, and saide vnto them, Receiue the holy Ghost.",
+     "source": "https://ebible.org/enggnv/JHN20.htm"
+    },
+    "kjv": {
+     "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:",
+     "source": "https://ebible.org/eng-kjv2006/JHN20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ACT.2.2",
+   "ref": "Acts 2:2",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 295,
+     "cited_as": "no translation cited",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And suddenly there came a sounde from heauen, as of a russhing and mightie winde, and it filled all the house where they sate.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "kjv": {
+     "text": "And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.",
+     "source": "https://ebible.org/eng-kjv2006/ACT02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ACT.8.20",
+   "ref": "Acts 8:20",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 253,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Then saide Peter vnto him, Thy money perish with thee, because thou thinkest that the gift of God may be obteined with money.",
+     "source": "https://ebible.org/enggnv/ACT08.htm"
+    },
+    "kjv": {
+     "text": "But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.",
+     "source": "https://ebible.org/eng-kjv2006/ACT08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ACT.19.15",
+   "ref": "Acts 19:15",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 257,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus I know, and Paul I know; but who are ye?"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And the euil spirit answered, and said, Iesus I acknowledge, and Paul I know: but who are ye?",
+     "source": "https://ebible.org/enggnv/ACT19.htm"
+    },
+    "kjv": {
+     "text": "And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?",
+     "source": "https://ebible.org/eng-kjv2006/ACT19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ROM.2.24",
+   "ref": "Romans 2:24",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 245,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "The name of God is blasphemed among the Gentiles through you."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "For ye Name of God is blasphemed among the Gentiles through you, as it is written.",
+     "source": "https://ebible.org/enggnv/ROM02.htm"
+    },
+    "kjv": {
+     "text": "For the name of God is blasphemed among the Gentiles through you, as it is written.",
+     "source": "https://ebible.org/eng-kjv2006/ROM02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ROM.5.5",
+   "ref": "Romans 5:5",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 328,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "The love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": "KJV/GNV: 'the Holy Ghost' — article reads 'the Holy Spirit'",
+     "adjudication": {
+      "ruling": "exact",
+      "version": "kjv",
+      "text": "The love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
+      "reason": "KJV exception — 'the Holy Ghost' (not Spirit); excerpt kept."
+     },
+     "applied": "2026-11-02",
+     "was": "The love of God is shed abroad in our hearts by the Holy Spirit which is given unto us."
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And hope maketh not ashamed, because the loue of God is shed abroade in our heartes by the holy Ghost, which is giuen vnto vs.",
+     "source": "https://ebible.org/enggnv/ROM05.htm"
+    },
+    "kjv": {
+     "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.",
+     "source": "https://ebible.org/eng-kjv2006/ROM05.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "1CO.10.4",
+   "ref": "1 Corinthians 10:4",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 291,
+     "cited_as": "no translation cited",
+     "quote_kind": "bare-quote",
+     "quotes": [
+      "that Rock was Christ"
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And did all drinke the same spirituall drinke (for they dranke of the spiritual Rocke that folowed them: and the Rocke was Christ)",
+     "source": "https://ebible.org/enggnv/1CO10.htm"
+    },
+    "kjv": {
+     "text": "And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.",
+     "source": "https://ebible.org/eng-kjv2006/1CO10.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "PHP.2.13",
+   "ref": "Philippians 2:13",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 330,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "It is God which worketh in you both to will and to do of His good pleasure."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "For it is God which worketh in you, both the will and the deede, euen of his good pleasure.",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "kjv": {
+     "text": "For it is God which worketh in you both to will and to do of his good pleasure.",
+     "source": "https://ebible.org/eng-kjv2006/PHP02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "1PE.2.24",
+   "ref": "1 Peter 2:24",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 106,
+     "cited_as": "gnv",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"Who his owne selfe bare our sinnes in his body on the tree, that we being dead to sinne, should liue in righteousnesse: by whose stripes ye were healed.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "Who his owne selfe bare our sinnes in his body on the tree, that we being dead to sinne, should liue in righteousnesse: by whose stripes ye were healed.",
+     "source": "https://ebible.org/enggnv/1PE02.htm"
+    },
+    "kjv": {
+     "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.",
+     "source": "https://ebible.org/eng-kjv2006/1PE02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "1JN.1.9",
+   "ref": "1 John 1:9",
+   "uses": [
+    {
+     "section": "P7",
+     "section_label": "Part Seven — Not Taking His Name in Vain",
+     "article_line": 273,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "If we confess our sins, He is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "If we acknowledge our sinnes, he is faithfull and iust, to forgiue vs our sinnes, and to clense vs from all vnrighteousnes.",
+     "source": "https://ebible.org/enggnv/1JN01.htm"
+    },
+    "kjv": {
+     "text": "If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.",
+     "source": "https://ebible.org/eng-kjv2006/1JN01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "1JN.2.2",
+   "ref": "1 John 2:2",
+   "uses": [
+    {
+     "section": "P1-Q8",
+     "section_label": "Part One — The Old Hand — Where the Letters Were Born — Seeker Q8",
+     "article_line": 106,
+     "cited_as": "gnv",
+     "quote_kind": "em-inline",
+     "quotes": [
+      "\"And he is the reconciliation for our sinnes: and not for ours onely, but also for the sinnes of the whole world.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And he is the reconciliation for our sinnes: and not for ours onely, but also for the sinnes of the whole world.",
+     "source": "https://ebible.org/enggnv/1JN02.htm"
+    },
+    "kjv": {
+     "text": "And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world.",
+     "source": "https://ebible.org/eng-kjv2006/1JN02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "1JN.4.19",
+   "ref": "1 John 4:19",
+   "uses": [
+    {
+     "section": "P9",
+     "section_label": "Part Nine — The Great Commandment as a Great Promise",
+     "article_line": 329,
+     "cited_as": "no translation cited",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "We love Him, because He first loved us."
+     ],
+     "status": "confirmed",
+     "matched_source": "kjv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "We loue him, because he loued vs first.",
+     "source": "https://ebible.org/enggnv/1JN04.htm"
+    },
+    "kjv": {
+     "text": "We love him, because he first loved us.",
+     "source": "https://ebible.org/eng-kjv2006/1JN04.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ACT.2.3",
+   "ref": "Acts 2:3",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 295,
+     "cited_as": "no translation cited",
+     "quote_kind": "chapter-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "note": "companion of the Acts 2 anchor (wind / tongues of fire / filling)"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And there appeared vnto them clouen tongues, like fire, and it sate vpon eche of them.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "kjv": {
+     "text": "And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.",
+     "source": "https://ebible.org/eng-kjv2006/ACT02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ACT.2.4",
+   "ref": "Acts 2:4",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 295,
+     "cited_as": "no translation cited",
+     "quote_kind": "chapter-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "note": "companion of the Acts 2 anchor (wind / tongues of fire / filling)"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "gnv": {
+     "text": "And they were all filled with the holy Ghost, and began to speake with other tongues, as the Spirit gaue them vtterance.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "kjv": {
+     "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.",
+     "source": "https://ebible.org/eng-kjv2006/ACT02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    }
+   }
+  },
+  {
+   "id": "ZEC.1.10",
+   "ref": "Zechariah 1:10",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 294,
+     "cited_as": "no translation cited",
+     "quote_kind": "chapter-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "brenton",
+     "note": "companion of the Zechariah 1 anchor (the angel standing among the myrtles)"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And the man that stood between the mountains answered, and said to me, These are they whom the Lord has sent forth to go round the earth.",
+     "source": "https://ebible.org/eng-Brenton/ZEC01.htm"
+    },
+    "gnv": {
+     "text": "And the man that stood among the mirre trees, answered, and sayd, These are they whome the Lord hath sent to go through the world.",
+     "source": "https://ebible.org/enggnv/ZEC01.htm"
+    },
+    "kjv": {
+     "text": "And the man that stood among the myrtle trees answered and said, These are they whom the LORD hath sent to walk to and fro through the earth.",
+     "source": "https://ebible.org/eng-kjv2006/ZEC01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  },
+  {
+   "id": "ZEC.1.11",
+   "ref": "Zechariah 1:11",
+   "uses": [
+    {
+     "section": "P8",
+     "section_label": "Part Eight — The Great \"I AM\"",
+     "article_line": 294,
+     "cited_as": "no translation cited",
+     "quote_kind": "chapter-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "brenton",
+     "note": "companion of the Zechariah 1 anchor (the angel standing among the myrtles)"
+    }
+   ],
+   "verified": "2026-11-02",
+   "translations": {
+    "brenton": {
+     "text": "And they answered the angel of the Lord that stood between the mountains, and said, We have gone round all the earth, and, behold, all the earth is inhabited, and is at rest.",
+     "source": "https://ebible.org/eng-Brenton/ZEC01.htm"
+    },
+    "gnv": {
+     "text": "And they answered the Angel of the Lord, that stood among the mirre trees, and sayd, We haue gone thorowe the world: and beholde, all the world sitteth still, and is at rest.",
+     "source": "https://ebible.org/enggnv/ZEC01.htm"
+    },
+    "kjv": {
+     "text": "And they answered the angel of the LORD that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitteth still, and is at rest.",
+     "source": "https://ebible.org/eng-kjv2006/ZEC01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva"
+    },
+    "kjv": {
+     "result": "agree",
+     "url": "https://biblehub.com/kjv/"
+    },
+    "brenton": {
+     "result": "agree",
+     "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    }
+   }
+  }
+ ]
+}
