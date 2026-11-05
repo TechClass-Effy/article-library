@@ -113,8 +113,11 @@ for wkey in ("hallowed", "sabbath"):
             L += flag_lines(pick)
             adj = pick.get("adjudication")
             if adj:
-                L += [f"- **Ruling — apply {VERNAME[adj['version']]} exact:** {short(adj['text'])}",
-                      f"  ({adj['reason']})"]
+                if not adj.get("text"):
+                    L += [f"- **Ruling — {str(adj.get('ruling', 'APPLIED')).upper()}:** {adj.get('reason') or adj.get('detail', '')}"]
+                else:
+                    L += [f"- **Ruling — apply {VERNAME.get(adj.get('version', '?'), '?')} exact:** {short(adj['text'])}",
+                          f"  ({adj.get('reason', '')})"]
             elif pick["status"] in ("differs-minor", "differs", "paraphrase"):
                 q0 = (pick.get("quotes") or [""])[0]
                 lq, rq = "“", "”"

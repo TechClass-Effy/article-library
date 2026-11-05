@@ -641,6 +641,1735 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 # THE BIBLICAL SABBATH
 
+## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
+
+### Genesis 2:1 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the sky and the earth were finished, and all their arrangement.”
+- *Note:* Verse 1 of Genesis 2:1-3 - word-for-word vs NETS.
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 2:2 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And on the sixth day God finished his works that he had made, and he left off on the seventh day from all his works that he had made.”
+- *Note:* Verse 2 - word-for-word vs NETS ('on the sixth day' - the LXX reading, distinctive).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 2:3 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God blessed the seventh day and hallowed it, because on it he left off from all his works that God had begun to make.”
+- *Note:* Verse 3 - word-for-word vs NETS. LES note in book ('sanctified'/'God rested') = commentary, no second quote needed.
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:11 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Mark 2:27 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ελεγεν αυτοις το σαββατον δια τον ανθρωπον εγενετο και ουχ ο ανθρωπος δια το σαββατον”
+- *Note:* Sinaiticus Greek matches clause-by-clause; apparatus confirms 'και ουχ' = Aleph (vs A/E/G 'ουχ' alone). Book's English = its own faithful rendering. Site quirk: Sinaiticus line labeled 'Mark 2:20' - text is 2:27.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): Codex Sinaiticus ✓*
+
+## THE SABBATH OF SCRIPTURE — 3. The Manna Story (Exodus 16)
+
+### Exodus 16:4 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Then the Lord said to Moyses, “Look, I am going to rain bread from heaven for you, and the people shall go out, and they shall collect the day’s portion for a day so that I might test them whether they will walk by my law or not.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Then the Lord said to Moyses, “Look, I am going to rain bread from heaven for you, and the people shall go out, and they shall collect the day’s portion for a day so that I might test them whether they will walk by my law or not.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:5 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it shall be on the sixth day, and they shall prepare whatever they bring in, and it shall be double whatever they gather together daily for a day.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And it shall be on the sixth day, and they shall prepare whatever they bring in, and it shall be double whatever they gather together daily for a day.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:22 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:23 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:24 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:25 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:26 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you will collect, but on the seventh day is Sabbata. There will be none in it.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Six days you will collect, but on the seventh day is Sabbata. There will be none in it.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:27 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it happened on the seventh day, certain of the people went out to collect, and they found none.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And it happened on the seventh day, certain of the people went out to collect, and they found none.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:28 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law?”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law?”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:29 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:30 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the people sabbatized on the seventh day.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the people sabbatized on the seventh day.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 7:4 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For within seven more days I am going to bring rain on the earth for forty days and forty nights, and every thing that rises up, which I have made, I will wipe out from the face of the earth.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “For within seven more days I am going to bring rain on the earth for forty days and forty nights, and every thing that rises up, which I have made, I will wipe out from the face of the earth.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 7:10 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it came about after the seven days, that then the water of the flood came on the earth.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And it came about after the seven days, that then the water of the flood came on the earth.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 8:10 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And when he had waited yet another seven days, again he sent forth the dove from the ark,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And when he had waited yet another seven days, again he sent forth the dove from the ark,”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 8:12 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And when he had waited yet another seven days, again he sent forth the dove, and it did not continue to turn back to him any more.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And when he had waited yet another seven days, again he sent forth the dove, and it did not continue to turn back to him any more.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 29:27 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Therefore finish the heptad of this one, and I will give you this one also in return for work that you shall do at my place for yet another seven years.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Therefore finish the heptad of this one, and I will give you this one also in return for work that you shall do at my place for yet another seven years.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 29:28 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And Iakob did so and fulfilled her heptad, and Laban gave him his daughter Rachel as a wife for him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Iakob did so and fulfilled her heptad, and Laban gave him his daughter Rachel as a wife for him.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+## THE SABBATH OF SCRIPTURE — 4. Sinai — God Speaks the Commandment (Exodus 20 / Deuteronomy 5)
+
+### Exodus 20:11 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:8 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Remember the day of the sabbaths to consecrate it.”
+- *Note:* Exact NETS (v8 = identical wording: 'Remember the day of the sabbaths to consecrate it').
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:9 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For six days you shall labor and do all your labor,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “For six days you shall labor and do all your labor,”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:10 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:12 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Keep the day of the sabbaths to consecrate it, as the Lord your God commanded you.”
+- *Note:* Exact NETS wording.
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:13 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you shall labor and do all your labor,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Six days you shall labor and do all your labor,”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:14 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God; you shall not do in it any labor—you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest within your gates so that your male slave and your female slave may rest as well as you.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “but on the seventh day there is Sabbata to the Lord your God; you shall not do in it any labor—you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest within your gates so that your male slave and your female slave may rest as well as you.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:15 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And you shall remember that you were a domestic in the land of Egypt, and the Lord your God brought you out from there with a strong hand and with a high arm; therefore, the Lord your God instructed you to keep the day of the sabbaths and to consecrate it.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And you shall remember that you were a domestic in the land of Egypt, and the Lord your God brought you out from there with a strong hand and with a high arm; therefore, the Lord your God instructed you to keep the day of the sabbaths and to consecrate it.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Matthew 5:17 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “μη νομισητε οτι ηλθον καταλυσαι τον νομον η τους προφητας ουκ ηλθον καταλυσαι αλλα πληρωσαι”
+- *Note:* Faithful rendering of the Aleph reading (apparatus: א = standard order here; orthographic quirks א 'αλʼλα' for ἀλλά, 'ουκʼ' for οὐκ are scribe/site artifacts).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Matthew 5:18 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Aμην γαρ λεγω υμιν ἑως αν παρελθη ὁ ουρανος και ἡ γη ϊῶτα εν ἠ μία κεραια ου μη παρελθη απο του νομου ἑως αν παντα γενηται”
+- *Note:* Clause-by-clause match with Aleph ('the heaven and the earth' — good, matches ουρανος; א has ουρανος here, unlike NETS Genesis 'sky').
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Matthew 5:19 — DIFFERS
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “ὁς εαν ουν λυση μιαν των εντολω τουτων των ελαχιστων και διδαξη ουτως τους ανθρωπους ελαχιστος κληθησετε εν τη βασιλια τω ουνων [and the verse ENDS — Codex Sinaiticus OMITS 'but whoever does and teaches, this one shall be called great in the kingdom of the heavens' (apparatus (30),(43) OMIT ... א, D, W — homoeoarcton/homoeoteleuton skip)]”
+- **Ruling — APPLIED-PER-GIDEON:** Mt 5:19 keep+italicize+note; Mk 1:21 re-label (Alexandrinus/Vaticanus); Lk 14:5 aleph-exact ('donkey'). Applied 2026-11-04.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+## THE SABBATH OF SCRIPTURE — 5. The Sign, the Death Penalty, and the Fire (Exodus 31 / 35)
+
+### Mark 2:27 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Και ελεγεν αυτοις το σαββατον δια τον ανθρωπον εγενετο και ουχ ο ανθρωπος δια το σαββατον”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): Codex Sinaiticus ✓*
+
+### Exodus 20:10 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 42:6 — ANCHOR
+- **NETS (Septuagint, modern):** “I, the Lord God, have called you in righteousness, and I will take hold of your hand and strengthen you; I have given you as a covenant to a race, as a light to nations,”
+- **KJV:** “I the LORD have called thee in righteousness, and will hold thine hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles;”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv, nets*
+
+### Luke 12:14 — ANCHOR
+- **KJV:** “And he said unto him, Man, who made me a judge or a divider over you?”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Exodus 31:12 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the Lord spoke to Moyses, saying:”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord spoke to Moyses, saying:”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:13 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:14 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:15 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:16 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:17 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 35:1 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them:”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them:”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 35:2 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die!”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die!”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 35:3 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+## THE SABBATH OF SCRIPTURE — 6. Called Together, and a Warning (Leviticus 23 / Numbers 15)
+
+### Exodus 35:3 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Luke 14:5 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Και αποκριθις προς αυτο<υς> ειπεν τινος ϋμων ονος η βους εις φρεαρ πεσειτε και ουκ ευθεως ανασπασει αυτο- εν <τη> ημερα του σαββατου”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 9:31 — ANCHOR
+- **KJV:** “Then had the churches rest throughout all Judæa and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Luke 12:14 — ANCHOR
+- **KJV:** “And he said unto him, Man, who made me a judge or a divider over you?”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Luke 12:5 — ANCHOR
+- **KJV:** “But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Leviticus 23:1 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the Lord said to Moyses, saying:”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord said to Moyses, saying:”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Leviticus 23:2 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Speak to the sons of Israel, and you shall say to them: The feasts of the Lord, those that you shall call designated, holy—these are my feasts.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Speak to the sons of Israel, and you shall say to them: The feasts of the Lord, those that you shall call designated, holy—these are my feasts.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Leviticus 23:3 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Numbers 15:32 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Numbers 15:33 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Numbers 15:34 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And they placed him in custody, for they did not decide what they should do to him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And they placed him in custody, for they did not decide what they should do to him.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Numbers 15:35 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Numbers 15:36 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 22:4 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “You shall not see your brother’s donkey or his bull calf fallen on the road. Do not overlook them; raising, you shall raise them up with him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “You shall not see your brother’s donkey or his bull calf fallen on the road. Do not overlook them; raising, you shall raise them up with him.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+## THE SABBATH OF SCRIPTURE — 7. What the Prophets Said (Isaiah 56 / 58, Jeremiah 17, Ezekiel 20)
+
+### 2 Esdras 23:19 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Hebrews 4:10 — RECAP CROSS-REFERENCE
+- **Standard critical Greek:** “ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### 1 Corinthians 1:30 — ANCHOR
+- **KJV:** “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Galatians 2:20 — ANCHOR
+- **KJV:** “I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Jeremiah 23:6 — ANCHOR
+- **NETS (Septuagint, modern):** “In his days Iouda will be saved, and Israel will encamp in confidence. And this is the name by which he [the Lord] will call him: “Iosedek among the prophets.” My heart was crushed; within me all my bones shook; I became like a crushed man and like a person overcome by wine, due to the Lord and due to the dignity of his glory, because due to these the land mourned, the pastures of the wilderness were dried up. And …”
+- **KJV:** “In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS. * THE LORD …: Heb. Jehovah-tsidkenu”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv, nets*
+
+### Jeremiah 29:13 — ANCHOR
+- **KJV:** “And ye shall seek me, and find me , when ye shall search for me with all your heart.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### John 15:5 — ANCHOR
+- **KJV:** “I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Luke 9:23 — ANCHOR
+- **KJV:** “¶ And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Romans 6:13 — ANCHOR
+- **KJV:** “Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Romans 7:18 — ANCHOR
+- **KJV:** “For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Romans 9:21 — ANCHOR
+- **KJV:** “Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Isaiah 56:1 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “This is what the Lord says: Keep judgment; do righteousness, for my salvation has drawn near to arrive and my mercy to be revealed.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “This is what the Lord says: Keep judgment; do righteousness, for my salvation has drawn near to arrive and my mercy to be revealed.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 56:2 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Happy is the man who does these things, the person who holds them fast, who keeps the sabbaths so as not to profane them, and watches his hands so as not to do wrong.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Happy is the man who does these things, the person who holds them fast, who keeps the sabbaths so as not to profane them, and watches his hands so as not to do wrong.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 58:13 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth;”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth;”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 58:14 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “then you shall trust in the Lord, and he shall bring you up upon the good things of the earth and feed you with the heritage of your ancestor Iakob, for the mouth of the Lord has spoken these things.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “then you shall trust in the Lord, and he shall bring you up upon the good things of the earth and feed you with the heritage of your ancestor Iakob, for the mouth of the Lord has spoken these things.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:19 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem,”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:20 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:21 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:22 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:27 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it shall be, if you do not listen to me, to keep the day of the sabbaths holy, so as not to carry in burdens and not to enter by the gates of Ierousalem on the day of the sabbaths, I will also kindle a fire in its gates, and it shall devour the quarters of Ierousalem and shall not be quenched.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And it shall be, if you do not listen to me, to keep the day of the sabbaths holy, so as not to carry in burdens and not to enter by the gates of Ierousalem on the day of the sabbaths, I will also kindle a fire in its gates, and it shall devour the quarters of Ierousalem and shall not be quenched.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### 2 Esdras 23:15 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### 2 Esdras 23:16 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### 2 Esdras 23:17 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day?”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day?”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### 2 Esdras 23:18 — DIFFERS
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.””
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Ezekiel 20:12 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And I gave them my sabbaths to be a sign between me and between them, that they might know that I am the Lord who sanctifies them.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And I gave them my sabbaths to be a sign between me and between them, that they might know that I am the Lord who sanctifies them.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Ezekiel 20:20 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “and hallow my sabbaths, and it shall be as a sign between me and you, that you might know that I, the Lord, am your God.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “and hallow my sabbaths, and it shall be as a sign between me and you, that you might know that I, the Lord, am your God.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+## THE SABBATH OF SCRIPTURE — 8. Jesus and the Sabbath
+
+### Luke 4:16 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ηλθεν εις ναζαρα ου ην ανατεθραμμενος και εισηλθεν κατα το ειωθος αυτω εν τη ημερα των σαββατω εις την συναγωγην και ανεστη αναγνωναι”
+- *Note:* Faithful rendering of aleph (q77f7vc4): 'kata to eiōthos autō' = according to his custom; 'tē hēmera tōn sabbatōn' rendered 'on the day of the Sabbaths' — plural kept. Quote [1] is a heading echo (commentary), not scripture.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 1:21 — DIFFERS
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εισπορευονται εις καφαρναουμ και ευθυς τοις σαββασιν εδιδα ξ <σκ>εν εις την συναγωγην:”
+- **Ruling — APPLIED-PER-GIDEON:** Mt 5:19 keep+italicize+note; Mk 1:21 re-label (Alexandrinus/Vaticanus); Lk 14:5 aleph-exact ('donkey'). Applied 2026-11-04.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 6:2 — CONFIRMED (EXCERPT)
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και γενομενου σαββατου ηρξατο διδασκειν εν τη συναγωγη και πολλοι ακουοντες εξεπλησσοντο λεγοντες ποθεν τουτω ταυτα παντα και τις η σοφια η δοθισα τουτω και αι δυναμις <αι> τοιαυται <αι> δια των χειρων αυτου γινομεναι”
+- *Note:* Faithful, but clipped: aleph continues 'και τις η σοφια η δοθισα τουτω και αι δυναμις... γινομεναι' ('and what is this wisdom given to this one, and such powers done by his hands?') — article ends at 'to this one?'
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:27 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ελεγεν αυτοις το σαββατον δια τον ανθρωπον εγενετο και ουχ ο ανθρωπος δια το σαββατον”
+- *Note:* Verse 27 inside the Mark 2:23-28 range quote; SAB8's verse-level note lives in the SAB1 use (full analysis there).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): Codex Sinaiticus ✓*
+
+### Mark 2:23 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εγενετο αυτον εν τοις σαββασιν παραπορευεσθε δια των σποριμων και οι μαθηται αυτου ηρξαντο οδον ποιειν τιλλοντες τους σταχυας”
+- *Note:* 'εν τοις σαββασιν παραπορευεσθε δια των σποριμων' -> 'on the Sabbaths... passing through the grain fields'; 'οδον ποιειν τιλλοντες τους σταχυας' -> 'began to make a way, plucking the heads of grain' (aleph's 'make a way' kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:24 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και οι φαρισαιοι ελεγον αυτω ϊδε τι ποιουσιν τοις σαββασιν· ο ουκ εξεστι”
+- *Note:* 'ιδε τι ποιουσιν τοις σαββασιν ο[υ] ουκ εξεστι' -> 'Look - why are they doing on the Sabbaths what is not lawful?'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:25 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και λεγει αυτοις ουδεποτε ανεγνωτε τι εποιησεν δαδ· οτε χριαν εσχεν και επινασεν αυτος και οι μετ αυτου”
+- *Note:* 'ουδεποτε ανεγνωτε τι εποιησεν δαδ οτε χριαν εσχεν και επινασεν' -> 'Have you never read what David did when he had need and hungered' (aleph's 'hungered' kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:26 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Πως εισηλθεν εις τον οικον του ΘΥ επι αβιαθαρ αρχϊερεως και τους αρτους της προθεσεως εφαγεν ους ουκ εξεστιν φαγιν ει μη τους ϊερεις και εδωκεν και τοις συν αυτω ουσιν:”
+- *Note:* 'επι αβιαθαρ αρχϊερεως' -> 'under Abiathar the high priest'; 'αρτους της προθεσεως' -> 'the loaves of the presentation'. (Site text-layer glitch renders 'ανθρωπον' as 'ανον' — site artifact, not the codex.)
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:28 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “ωστε κς εστιν ο υς του ανου και του σαββατου”
+- *Note:* aleph: 'ωστε κς εστιν ο υς του ανου και του σαββατου' = the standard order -> 'So then the Son of Man is Lord also of the Sabbath.' Faithful. (The solo SAB12 anchor L1327 quotes exactly this verse; both uses recorded.)
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Deuteronomy 23:25 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Now if you go into your neighbor’s standing grain, then you shall collect ears with your hand, and you shall not cast a sickle on your neighbor’s standing grain.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Now if you go into your neighbor’s standing grain, then you shall collect ears with your hand, and you shall not cast a sickle on your neighbor’s standing grain.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Mark 3:1 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εισηλθεν παλιν εις συναγωγην και ην εκει ανος εξηραμμενην εχων την”
+- *Note:* 'ην εκει ανος εξηραμμενην εχων την [χειρα]' -> 'there was a man there having a withered hand' (site glitch 'ανος' for 'ανθρωπος').
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 3:2 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και παρετηρουν αυτον ει εν τοις σαββασι θεραπευει αυτον ϊνα κατηγορησωσιν αυτου”
+- *Note:* 'παρετηρουν αυτον ει εν τοις σαββασι θεραπευει' -> 'they were watching him closely to see if he would heal him on the Sabbaths'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 3:3 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και λεγει τω ανω τω την ξηραν χιρα εχοντι εγειρε εις το μεσον”
+- *Note:* 'λεγει τω ανω τω την ξηραν χιρα εχοντι εγειρε εις το μεσον' -> 'he says to the man having the withered hand, Rise up into the middle'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 3:4 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και λεγει αυτοις εξεστιν τοις σαββασιν αγαθον ποιησαι · η κακοποιησαι · ψυχην σωσαι η αποκτιναι οι δε εσιωπων˙”
+- *Note:* 'εξεστιν τοις σαββασιν αγαθον ποιησαι η κακοποιησαι ψυχην σωσαι η αποκτιναι' -> 'Is it lawful on the Sabbaths to do good or to do evil, to save a life or to kill?'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 3:5 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και περιβλεψαμενος αυτους μετ οργης συνλυπουμενος επι τη πωρωσει της καρδι αυτων λεγει τω ανω · εκτινον την χιρα σου· και εξετινεν και απεκατεσταθη η χιρ αυτου”
+- *Note:* 'περιβλεψαμενος αυτους μετ οργης συνλυπουμενος επι τη πωρωσει της καρδι αυτων' -> 'having looked around at them with anger, grieved at the hardening of their heart'; 'εκτινον την χιρα σου' -> aleph's shorter imperative kept in 'Stretch'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 3:6 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εξελθοντες οι φαρισαιοι ευθυς μετα των ηρωδιανων συμβουλιον εποιησαν κατ αυτου οπως αυτον απολεσωσιν”
+- *Note:* 'μετα των ηρωδιανων συμβουλιον εποιησαν κατ αυτου οπως αυτον απολεσωσιν' -> 'with the Herodians... took counsel against him how they might destroy him'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 13:15 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Απεκριθη δε αυτω ο κς και ειπεν ϋποκριται εκαστος ϋμων <τω σαββατω> ου λυει τον βουν αυτου η τον ονον απο της φατνης και απα<γα>γων ποτιζει”
+- *Note:* 'υποκριται εκαστος υμων τω σαββατω ου λυει τον βουν αυτου η τον ονον απο της φατνης και απα<γα>γων ποτιζει' -> 'Hypocrites - does not each of you on the Sabbath loose his ox or his donkey from the manger...' (σαββατω singular kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 13:16 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Ταυτην δε θυγατερα αβρααμ ουσαν ην εδησεν ο σατανας ϊδου δεκα και οκτω ετη ουκ εδι λυθηναι απο του δεσμου τουτου τη ημερα του σαββατου”
+- *Note:* 'θυγατερα αβρααμ ουσαν ην εδησεν ο σατανας ιδου δεκα και οκτω ετη...' -> 'being a daughter of Abraham, whom Satan bound - behold, eighteen years - was it not necessary that she be loosed...'. Quote merges vv15-16; both clauses faithful.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 14:3 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και αποκριθεις ὁ ΙC ειπεν προς τους νομικους και φαρισαιους λεγων εξεστιν τω σαββατω θεραπευσαι η ου”
+- *Note:* 'εξεστιν τω σαββατω θεραπευσαι η ου' -> 'Is it lawful to heal on the Sabbath, or not?'; 'ΙC' = Jesus (nomina sacra).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 14:4 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Οι δε ησυχασαν και επιλαβομενος ϊασατο αυτον και απελυσεν MSS: א, A, B, E (f210r-v), K (f177v), L (f164v), M (f177rc1), W, X (f82rc2), ℓ339 (f119vc1), ℓ1086 (f122vc1)”
+- *Note:* 'Οι δε ησυχασαν και επιλαβομενος ιασατο αυτον και απελυσεν' -> 'they were silent. And having taken hold of him, he healed him and released him.'
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 14:5 — DIFFERS
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και αποκριθις προς αυτο<υς> ειπεν τινος ϋμων ονος η βους εις φρεαρ πεσειτε και ουκ ευθεως ανασπασει αυτο- εν <τη> ημερα του σαββατου”
+- **Ruling — APPLIED-PER-GIDEON:** Mt 5:19 keep+italicize+note; Mk 1:21 re-label (Alexandrinus/Vaticanus); Lk 14:5 aleph-exact ('donkey'). Applied 2026-11-04.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:8 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Λεγει αυτω ο ΙC εγειρε αρον τον κραβακτον σου και περιπατει”
+- *Note:* 'Λεγει αυτω ο ΙC εγειρε αρον τον κραβακτον σου και περιπατει' -> 'Jesus says to him, Rise, take up your mat and walk' (krabatton = mat/pallet).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:9 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “<ϗ ευθεως > εγενετο ϋγιης ο ανθρωπος και ηγερθη· και ηρε· τον κραβακτον αυτου και περιεπατει· ην δε σαββατον εν εκινη τη ημερα·”
+- *Note:* 'ευθεως εγενετο υγιης ο ανθρωπος και ηγερθη και ηρε τον κραβακτον' -> 'immediately the man became well, took up his mat and was walking'; 'ην δε σαββατον εν εκινη τη ημερα' -> 'But it was Sabbath on that day.'
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:10 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “ελεγον ουν οι ϊουδαιοι τω τεθεραπευμενω· σαββατον εστιν· και ουκ εξεστι– σοι αραι τον κραβακτον σου·”
+- *Note:* 'ελεγον ουν οι ϊουδαιοι τω τεθεραπευμενω σαββατον εστιν...' -> 'the Jews were saying to the one having been healed, It is Sabbath...' (imperfects kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:16 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και δια τουτο εδιωκον οι Ϊουδαιοι τον ΙΝ· οτι ταυτα εποιει εν σαββατω:”
+- *Note:* 'Και δια τουτο εδιωκον οι Ϊουδαιοι τον ΙΝ οτι ταυτα εποιει εν σαββατω' -> 'And for this reason the Jews were persecuting Jesus...' (imperfect 'were persecuting' kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:17 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Ο δε απεκρινετο αυτοις· ο πατηρʼ μου εως αρτι εργαζετε καγω εργαζομαι·”
+- *Note:* 'ο πατηρ['] μου εως αρτι εργαζετε καγω εργαζομαι' -> 'My Father is working until now, and I also am working' (kagō rendered 'and I also'). Quote [1] = heading echo (commentary).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Matthew 24:20 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Προσευχεσθε δε ϊνα μη γενηται η φυγη ϋμων χιμωνος μηδε σαββατω”
+- *Note:* 'Προσευχεσθε δε ινα μη γενηται η φυγη υμων χιμωνος μηδε σαββατω' -> 'But pray that your flight may not happen in winter, nor on a Sabbath' (singular kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:54 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ημερα ην παρασκευης και σαββατον επεφωσκε-”
+- *Note:* 'Και ημερα ην παρασκευης και σαββατον επεφωσκε' -> 'And it was day of Preparation, and Sabbath was dawning'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:55 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Κατακολουθησασαι δε γυναικες αιτινες ησαν συνεληλυθυϊαι εκ της γαλιλαιας αυτω εθεασαντο το μνημιον και ως ετεθη το σωμα αυτου”
+- *Note:* 'Κατακολουθησασαι δε γυναικες...' -> 'the women... beheld the tomb and how his body was laid.'
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:56 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “ϔποστρεψασαι δε ητοιμασαν αρωματα και μυρα και το μεν σαββατον ησυχασαν κατα την εντολην”
+- *Note:* 'και το μεν σαββατον ησυχασαν κατα την εντολην' -> 'And on the Sabbath they rested according to the commandment'. Quote [1] 'According to the Commandment' = heading echo (commentary).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+## THE SABBATH OF SCRIPTURE — 9. What the Apostles Did (Acts)
+
+### Luke 4:16 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Και ηλθεν εις ναζαρα ου ην ανατεθραμμενος και εισηλθεν κατα το ειωθος αυτω εν τη ημερα των σαββατω εις την συναγωγην και ανεστη αναγνωναι”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 2:46 — ANCHOR
+- **KJV:** “And they, continuing daily with one accord in the temple, and breaking bread from house to house, did eat their meat with gladness and singleness of heart,”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Acts 20:6 — ANCHOR
+- **KJV:** “And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Galatians 1:12 — ANCHOR
+- **KJV:** “For I neither received it of man, neither was I taught it , but by the revelation of Jesus Christ.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Acts 13:14 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “αυτοι δε διελθοντες απο της περγης παρεγενοντο εις αντιοχειαν την πισιδιαν και <εις>ελθοντες εις την συναγωγην τη ημερα των σαββατω- εκαθισαν”
+- *Note:* Faithful: 'αυτοι δε διελθοντες απο της περγης παρεγενοντο εις αντιοχειαν την πισιδιαν' -> 'having gone through from Perga, arrived at Antioch of Pisidia' (א folio q80f2rc4; the first syllable '<εις>ελθοντες' is apparatus-supplied where the leaf is damaged).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 13:15 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “μετα δε την αναγνωσιν του νομου και των προφητων απεστιλαν οι αρχϊσυναγωγοι προς αυτους λεγοντες ανδρες αδελφοι ει τις εστιν εν υμι- λογος παρακλησεως προς τον λαον λεγετε·”
+- *Note:* Faithful: 'μετα δε την αναγνωσιν του νομου και των προφητων' -> 'after the reading of the Law and the Prophets'; 'απεστιλαν' (aleph's itacism for απεστειλαν) rendered 'sent'. 'Men, brothers' kept — good literalism.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 13:42 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “εξϊοντων δε αυτω– παρεκαλουν εις το μεταξυ σαββατο– λαληθηναι αυτοις τα ρηματα ταυτα·”
+- *Note:* Faithful, boldly literal: 'εις το μεταξυ σαββατον' rendered 'on the between Sabbath' — aleph's odd phrase kept nearly word-for-word (standard texts read 'τη εσωμενω σαββατω'/'next Sabbath').
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 13:44 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “τω δε ερχομενω σαββατω σχεδον πασα η πολις συνηχθη ακουσαι τον λογον του ΚΥ”
+- *Note:* Faithful: 'τω δε ερχομενω σαββατω σχεδον πασα η πολις συνηχθη' -> 'on the coming Sabbath almost the whole city was gathered together'. 'ΚΥ' = Kyrios (nomina sacra).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 16:13 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “τη τε ημερα των σαββατων εξηλθομε- εξω της πυλης παρα ποταμον ου ενομιζεν προσευχη- ειναι και καθισαντες ελαλουμεν ταις συνελθουσαις γυναιξιν”
+- *Note:* REMARKABLE ALEPH FIDELITY: the article renders aleph's FIRST-PLURAL reading — 'εξηλθομεν'/'ελαλουμεν' ('we went out', 'we were speaking') — where most editions read third person ('they/he spoke'). Every clause faithful ('τῃ τε ημερα των σαββατων' -> 'on the day of the Sabbaths').
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 17:1 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “διοδευσαντες δε την <αμφι>πολιν και την απολλωνιαν ηλθον εις θεσσαλονικην οπου ην συναγωγη των ϊουδαιων˙”
+- *Note:* Faithful: 'διοδευσαντες δε την <αμφι>πολιν και την απολλωνιαν' -> 'having passed through Amphipolis and Apollonia' (leaves partly supplied).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 17:2 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “κατα δε το ειωθος τω παυλω εισηλθεν προς αυτους και επι σαββατα τρια διελεξατο αυτοις απο των γραφων”
+- *Note:* Faithful: 'κατα δε το ειωθος τω παυλω' -> 'according to what was customary to Paul' (dative kept!); 'επι σαββατα τρια διελεξατο αυτοις απο των γραφων' -> 'on three Sabbaths he reasoned with them from the Scriptures'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 18:4 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “διελεγετο δε εν τη συναγωγη κατα παν σαββατον επιθεν τε ϊουδαιους και ελληνας”
+- *Note:* Faithful: 'διελεγετο δε εν τη συναγωγη κατα παν σαββατον' -> 'he was reasoning in the synagogue every Sabbath'; 'επιθεν τε ιουδαιους και ελληνας' -> 'was persuading both Jews and Greeks' (aleph imper. kept).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 18:11 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “εκαθισεν δε ενιαυτον ενα και μηνας εξ διδασκω- εν αυτοις τον λογο- του ΘΥ”
+- *Note:* Faithful: 'εκαθισεν δε ενιαυτον ενα και μηνας εξ' -> 'he settled for a year and six months'; 'τον λογο[ν] του ΘΥ' -> 'the word of God' (nomina sacra ΘΥ).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 20:7 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “εν δε τη μια των σαββατων συνηγμενων ημων κλασαι αρτον ο παυλος διελεγετο αυτοις μελλω- εξιεναι τη επαυριον· παρετινεν τε τον λογον μεχρι μεσονυκτιου”
+- *Note:* Faithful: 'εν δε τη μια των σαββατων' -> 'on the first of the Sabbaths' (aleph's plural kept — rare); 'κλασαι αρτον' = to break bread; 'παρετινεν τε τον λογον μεχρι μεσονυκτιου' -> 'prolonged the word until midnight'.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### 1 Corinthians 16:1 — PENDING CODEX 2ND PASS
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “(no Codex Sinaiticus line listed — site lists A02/B03/C04/D06)”
+- *Note:* Faithful rendering of the standard Greek ('τω μια των σαββατων' -> 'On the first of the Sabbaths' — aleph-style plural kept even though the named codex is unlisted here). NO Sinaiticus line exists on the source site for this verse.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): aleph ✓*
+
+### 1 Corinthians 16:2 — PENDING CODEX 2ND PASS
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “(no Codex Sinaiticus line listed — site lists A02/B03/C04/D06)”
+- *Note:* Same situation as v1: the site lists no aleph reading. The rendering 'storing up whatever he may prosper... that there be no collections when I come' follows the standard text faithfully.
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): aleph ✓*
+
+## THE SABBATH OF SCRIPTURE — 10. When Does the Sabbath Start and End?
+
+### 2 Esdras 23:19 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Luke 23:56 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “ϔποστρεψασαι δε ητοιμασαν αρωματα και μυρα και το μεν σαββατον ησυχασαν κατα την εντολην”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Genesis 19:33 — ANCHOR
+- **NETS (Septuagint, modern):** “And they gave their father wine to drink on this night, and the elder, when she had gone in, lay with her father that night, and he did not know when she lay down and got up.”
+- **KJV:** “And they made their father drink wine that night: and the firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv, nets*
+
+### Leviticus 23:5 — ANCHOR
+- **NETS (Septuagint, modern):** “In the first month, on the fourteenth day of the month, in the middle of the time approaching evening, is a pascha to the Lord.”
+- **KJV:** “In the fourteenth day of the first month at even is the LORD’s passover.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv, nets*
+
+### Leviticus 7:15 — ANCHOR
+- **KJV:** “And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Matthew 28:1 — ANCHOR
+- **KJV:** “In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Genesis 1:3 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God said, “Let light come into being.” And light came into being.”
+- *Note:* NETS-exact (verses 3-4): 'Let light come into being' etc.
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Genesis 1:4 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God saw the light, that it was good. And God separated between the light and between the darkness.”
+- *Note:* NETS-exact.
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Genesis 1:5 — CONFIRMED
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God called the light Day and the darkness he called Night. And it came to be evening, and it came to be morning, day one.”
+- *Note:* NETS-exact ('And it came to be evening...day one' kept).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Genesis 1:14 — CONFIRMED (EXCERPT)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God said, “Let luminaries come into being in the firmament of the sky for illumination of the earth, to separate between the day and between the night, and let them be for signs and for seasons and for days and for years,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And God said, “Let luminaries come into being in the firmament of the sky for illumination of the earth, to separate between the day and between the night, and let them be for signs and for seasons and for days and for years,”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### John 11:9 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Απεκριθη ΙC· ουχι δωδεκα ωραι εισι- της ημερας· εαν τις περιπατη εν τη ημερα ου προσκοπτει· οτι το φως του κοσμου του<του> βλεπει·”
+- *Note:* Faithful: aleph (q80f8rc2) 'Απεκριθη ΙC ουχι δωδεκα ωραι εισι τη[ς] ημερας εαν τις περιπατη εν τη ημερα ου προσκοπτει...' -> 'Jesus answered, Are there not twelve hours of the day?...'
+- *Checked 2026-11-04 · editions fetched: sinaiticus*
+
+### Leviticus 23:32 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “It shall be to you Sabbata of sabbaths, and you shall humble your souls; from the ninth of the month, from evening to evening you shall sabbatize on your sabbaths.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “It shall be to you Sabbata of sabbaths, and you shall humble your souls; from the ninth of the month, from evening to evening you shall sabbatize on your sabbaths.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Luke 24:1 — CONFIRMED
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Τη δε μια των σαββατων ορθου βαθεως επι το μνημιον ηλθον φερουσαι α ητοιμασαν αρωματα˙”
+- *Note:* Faithful: aleph 'Τη δε μια των σαββατων ορθου βαθεως...' -> 'But on the first of the Sabbaths, at deep dawn...' Quote [1] = author's exposition (commentary), not scripture.
+- *Checked 2026-11-04 · editions fetched: sinaiticus*
+
+## THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)
+
+### Matthew 5:17 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “μη νομισητε οτι ηλθον καταλυσαι τον νομον η τους προφητας ουκ ηλθον καταλυσαι αλλα πληρωσαι”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 4:16 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Και ηλθεν εις ναζαρα ου ην ανατεθραμμενος και εισηλθεν κατα το ειωθος αυτω εν τη ημερα των σαββατω εις την συναγωγην και ανεστη αναγνωναι”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:56 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “ϔποστρεψασαι δε ητοιμασαν αρωματα και μυρα και το μεν σαββατον ησυχασαν κατα την εντολην”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### 1 Corinthians 12:27 — ANCHOR
+- **KJV:** “Now ye are the body of Christ, and members in particular.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Acts 20:16 — ANCHOR
+- **KJV:** “For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Colossians 1:24 — ANCHOR
+- **KJV:** “Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Luke 18:12 — ANCHOR
+- **KJV:** “I fast twice in the week, I give tithes of all that I possess.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Colossians 2:16 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νεομηνίας ἢ σαββάτων,”
+- *Note:* Faithful, strikingly literal: 'Μη ουν τις υμας κρινετω εν βρωσει και εν ποσει' -> 'Let no one therefore judge you in eating AND in drinking' (article keeps καὶ where most English drop it); 'σαββатов' rendered PLURAL 'sabbaths' ✓.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Colossians 2:17 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ”
+- *Note:* Faithful literal: 'σκιὰ τῶν μελλοντων' -> 'a shadow of the things ABOUT TO COME'; 'τὸ δὲ σωμα του Χριστου' -> 'but the body is of Christ' (the article gives the LITERAL reading where KJV/Anderson give 'the body of Christ is the substance').
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Colossians 2:8 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·”
+- *Note:* Faithful literal: 'Βλεπετε μη τις υμας εσται ο συλαγωγων' -> 'Beware lest anyone shall be the one taking you captive'; 'κενης' -> 'empty' deceit; 'στοιχεια' -> 'elements'; article keeps καὶ οὐ ('and not') before 'according to Christ'. Anderson (codex-English) agrees clause-for-clause with slightly different word choices ('vain deceit', 'rudiments').
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Colossians 2:22 — CONFIRMED (EXCERPT)
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;”
+- *Note:* Quote = tail of v22 ('...according to the commandments and teachings of men?') — literal for 'κατὰ τὰ ἐνταλματα και διδασκαλιας των ανθρωπων'; the quote's leading ellipsis = the article truncates the first clause ('which things are all to perish in the using'). Quote [1] on the anchor = commentary; quote [2] = the author's own interpretive rendering (commentary, not scripture); [3][4] = heading echoes.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Colossians 2:23 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ἐθελοθρησκίᾳ καὶ ταπεινοφροσύνῃ καὶ ἀφειδίᾳ σώματος, οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός”
+- *Note:* Very literal: 'λογον μεν εχοντα σοφιας' -> 'have indeed a WORD of wisdom' (article keeps the literal 'word' where KJV says 'shew' and Anderson 'show'); 'εθελοθρησκια' -> 'self-imposed worship'; 'αφειδια σωματος' -> 'UNSPARING treatment of the body' (literal for ἀφείδιᾳ); 'προς πλησμονην της σαρκος' -> 'unto satisfaction of the flesh'.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Galatians 4:8 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Ἀλλὰ τότε μὲν οὐκ εἰδότες Θεὸν ἐδουλεύσατε τοῖς φύσει μὴ οὖσιν θεοῖς·”
+- *Note:* Faithful literal: 'τοις φυσειμη ουσιν θεοις' -> 'those which BY NATURE are not gods'.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Galatians 4:9 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “νῦν δὲ γνόντες Θεόν, μᾶλλον δὲ γνωσθέντες ὑπὸ Θεοῦ, πῶς ἐπιστρέφετε πάλιν ἐπὶ τὰ ἀσθενῆ καὶ πτωχὰ στοιχεῖα, οἷς πάλιν ἄνωθεν δουλεῦσαι θέλετε;”
+- *Note:* Faithful literal: 'παλιν ανωθεν' -> 'AGAIN ANEW' (the article keeps aleph-family's double 'again' where most English drop it); 'or rather having been known by God' kept.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Galatians 4:10 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἡμέρας παρατηρεῖσθε καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς”
+- *Note:* Faithful literal: 'ημερας παρατηρεισθε και μηνας και καιρους και ενιαυτους' -> 'You observe days and months and seasons and years.'
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Galatians 4:11 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “φοβοῦμαι ὑμᾶς μή πως εἰκῇ κεκοπίακα εἰς ὑμᾶς”
+- *Note:* Faithful literal: 'φοβουμαι υμας μη πως εικη κεκοπιακα εις υμας' -> 'I fear for you, lest somehow I have labored for you in vain.'
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Romans 14:5 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ὃς μὲν γὰρ κρίνει ἡμέραν παρ”
+- *Note:* Remarkably literal: 'κριει ημεραν παρ' ημεραν' -> 'judges a day above a day' (article keeps the bare Greek idiom where standard English renders 'esteems one day as better than another'); 'πληροφορεισθω' -> 'let each be fully persuaded'.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Romans 14:6 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ὁ φρονῶν τὴν ἡμέραν Κυρίῳ φρονεῖ· καὶ ὁ ἐσθίων Κυρίῳ ἐσθίει, εὐχαριστεῖ γὰρ τῷ Θεῷ· καὶ ὁ μὴ ἐσθίων Κυρίῳ οὐκ ἐσθίει, καὶ εὐχαριστεῖ τῷ Θεῷ”
+- *Note:* Faithful literal: 'ὁ φρονων την ημεραν Κνριω φρονει' -> 'The one MINDING the day, to the Lord he minds'; eating/not-eating clauses both faithful ('for he gives thanks to God' = ευχαριστει γαρ; final 'and he gives thanks' = και ευχαριστει kept).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+## THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)
+
+### Exodus 16:30 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “And the people sabbatized on the seventh day.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:10 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:14 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God; you shall not do in it any labor—you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest within your gates so that your male slave and your female slave may rest as well as you.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Matthew 5:17 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “μη νομισητε οτι ηλθον καταλυσαι τον νομον η τους προφητας ουκ ηλθον καταλυσαι αλλα πληρωσαι”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Exodus 31:15 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Leviticus 23:3 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 58:13 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth;”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Mark 2:28 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “ωστε κς εστιν ο υς του ανου και του σαββατου”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Matthew 24:20 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Προσευχεσθε δε ϊνα μη γενηται η φυγη ϋμων χιμωνος μηδε σαββατω”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:56 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “ϔποστρεψασαι δε ητοιμασαν αρωματα και μυρα και το μεν σαββατον ησυχασαν κατα την εντολην”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 20:7 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “εν δε τη μια των σαββατων συνηγμενων ημων κλασαι αρτον ο παυλος διελεγετο αυτοις μελλω- εξιεναι τη επαυριον· παρετινεν τε τον λογον μεχρι μεσονυκτιου”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Leviticus 23:32 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “It shall be to you Sabbata of sabbaths, and you shall humble your souls; from the ninth of the month, from evening to evening you shall sabbatize on your sabbaths.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Luke 24:1 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Τη δε μια των σαββατων ορθου βαθεως επι το μνημιον ηλθον φερουσαι α ητοιμασαν αρωματα˙”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-04 · editions fetched: sinaiticus*
+
+### Colossians 2:16 — RECAP CROSS-REFERENCE
+- **Standard critical Greek:** “Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νεομηνίας ἢ σαββάτων,”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### John 20:1 — ANCHOR
+- **KJV:** “The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Leviticus 26:34 — ANCHOR
+- **NETS (Septuagint, modern):** “Then the land shall enjoy its sabbaths all the days of its desolation. And you shall be in the land of your enemies; then the land shall sabbatize and enjoy its sabbaths.”
+- **KJV:** “Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye be in your enemies’ land; even then shall the land rest, and enjoy her sabbaths.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv, nets*
+
+### Mark 16:2 — ANCHOR
+- **KJV:** “And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Matthew 28:1 — ANCHOR
+- **KJV:** “In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Hebrews 4:9 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ”
+- *Note:* Faithful literal: 'ἄρα ἀπολειπεται σαββατισμος τῳ λαῳ του Θεου' -> 'So there remains a SABBATH-KEEPING for the people of God' (σαββατισμος rendered literally as 'Sabbath-keeping' — rare and correct). Quote [3] on the anchor = the article's own emphasis-line; [1][2] = heading echoes (commentary).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Hebrews 4:10 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός”
+- *Note:* Faithful literal: 'ὁ γὰρ εισελθων... και αὐτος κατεπαυσεν' -> 'For the one who has entered... has also himself rested'; 'ὡσπερ απο των ιδιων ὁ Θεος' -> 'just as God from his own'.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Hebrews 4:11 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας”
+- *Note:* Faithful literal: 'Σπουδασωμεν ουν... ινα μη εν τῳ αὐτῳ τις υποδειγματι πεση της απειθειας' -> 'Let us therefore be diligent... lest anyone fall in the same example of disobedience.'
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Revelation 1:10 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἐγενόμην ἐν Πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ, καὶ ἤκουσα ὀπίσω μου φωνὴν μεγάλην ὡς σάλπιγγος”
+- *Note:* Faithful literal: 'ἐγενομην ἐν Πνεὐματι ἐν τῃ Κυριακῃ ἡμερᾳ' -> 'I came to be in spirit on the LORDLY day' — article renders the adjective κυριακή literally ('Lordly') where most English give 'the Lord's day'.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Isaiah 66:22 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For as the new heaven and the new earth, which I am making, remain before me, says the Lord, so shall your offspring and your name stand.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “For as the new heaven and the new earth, which I am making, remain before me, says the Lord, so shall your offspring and your name stand.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Isaiah 66:23 — DIFFERS (MINOR)
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it shall be that month after month and sabbath after sabbath all flesh shall come before me to do obeisance in Ierousalem, said the Lord.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And it shall be that month after month and sabbath after sabbath all flesh shall come before me to do obeisance in Ierousalem, said the Lord.”
+  (Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.)
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Revelation 21:1 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν· ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθαν, καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι”
+- *Note:* Faithful: 'Ἀνδ εἶδον οὐρανον καινον...' -> 'And I saw a new heaven and a new earth... and the sea is no more.'
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Revelation 21:2 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “καὶ τὴν πόλιν τὴν ἁγίαν Ἱερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ Θεοῦ, ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς”
+- *Note:* Faithful: '...ἡτοιμασμενην ὡς νὺμφην κεκοσμμενην τῷ ανδρὶ αὐτῆς' -> 'prepared as a bride adorned for her husband.'
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Revelation 21:3 — CONFIRMED (EXCERPT)
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ θρόνου λεγούσης Ἰδοὺ ἡ σκηνὴ τοῦ Θεοῦ μετὰ τῶν ἀνθρώπων, καὶ σκηνώσει μετ”
+- *Note:* Faithful literal: 'Ἰδοὺ ἡ σκημὴ του Θεου μετὰ των ἀνθρωπων' -> 'Behold, the tabernacle of God is with men'; 'αὐτοὶ λαοὶ αὐτοῦ εσονται' -> 'they shall be his PEOPLES' (plural kept — most English render 'his people'); article stops at 'God himself shall be with them' — the clause continues in the standard text with the bracketed '[as their God]' = excerpt.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Revelation 12:17 — CONFIRMED (EXCERPT)
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικί, καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς, τῶν τηρούντων τὰς ἐντολὰς τοῦ Θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν Ἰησοῦ· καὶ ἐστάθη ἐπὶ τὴν ἄμμον τῆς θαλάσσης”
+- *Note:* Faithful: 'των τηρουντων τας εντολας του Θεου και εχοντων την μαρτυριαν Ιησου' -> 'those keeping the commandments of God and having the testimony of Jesus.' Article omits the verse's final clause ('and he stood on the sand of the sea') = excerpt.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Revelation 14:12 — CONFIRMED
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ Θεοῦ καὶ τὴν πίστιν Ἰησοῦ”
+- *Note:* Faithful: 'Ὧδε ἡ υπομονὴ των ἁγιων εστιν, οἱ τηρουντες...' -> 'Here is the endurance of the saints — those keeping...'.
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+## THE SABBATH OF SCRIPTURE — 13. Putting It All Together
+
+### Genesis 2:1 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the sky and the earth were finished, and all their arrangement.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 2:2 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And on the sixth day God finished his works that he had made, and he left off on the seventh day from all his works that he had made.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:11 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Mark 2:27 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ελεγεν αυτοις το σαββατον δια τον ανθρωπον εγενετο και ουχ ο ανθρωπος δια το σαββατον”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): Codex Sinaiticus ✓*
+
+### Exodus 16:4 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Then the Lord said to Moyses, “Look, I am going to rain bread from heaven for you, and the people shall go out, and they shall collect the day’s portion for a day so that I might test them whether they will walk by my law or not.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:22 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:23 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.””
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:27 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it happened on the seventh day, certain of the people went out to collect, and they found none.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 16:30 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the people sabbatized on the seventh day.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 7:4 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For within seven more days I am going to bring rain on the earth for forty days and forty nights, and every thing that rises up, which I have made, I will wipe out from the face of the earth.””
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 8:10 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And when he had waited yet another seven days, again he sent forth the dove from the ark,”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Genesis 29:27 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Therefore finish the heptad of this one, and I will give you this one also in return for work that you shall do at my place for yet another seven years.””
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:8 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Remember the day of the sabbaths to consecrate it.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:9 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For six days you shall labor and do all your labor,”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 20:10 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:12 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Keep the day of the sabbaths to consecrate it, as the Lord your God commanded you.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:13 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you shall labor and do all your labor,”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:14 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “but on the seventh day there is Sabbata to the Lord your God; you shall not do in it any labor—you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest within your gates so that your male slave and your female slave may rest as well as you.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 5:15 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And you shall remember that you were a domestic in the land of Egypt, and the Lord your God brought you out from there with a strong hand and with a high arm; therefore, the Lord your God instructed you to keep the day of the sabbaths and to consecrate it.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Matthew 5:17 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “μη νομισητε οτι ηλθον καταλυσαι τον νομον η τους προφητας ουκ ηλθον καταλυσαι αλλα πληρωσαι”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Exodus 31:12 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the Lord spoke to Moyses, saying:”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:13 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:15 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 31:17 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 35:1 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them:”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 35:2 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die!”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Exodus 35:3 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Leviticus 23:1 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the Lord said to Moyses, saying:”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Leviticus 23:3 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Numbers 15:32 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Deuteronomy 22:4 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “You shall not see your brother’s donkey or his bull calf fallen on the road. Do not overlook them; raising, you shall raise them up with him.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 56:1 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “This is what the Lord says: Keep judgment; do righteousness, for my salvation has drawn near to arrive and my mercy to be revealed.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 58:13 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth;”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Isaiah 58:14 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “then you shall trust in the Lord, and he shall bring you up upon the good things of the earth and feed you with the heritage of your ancestor Iakob, for the mouth of the Lord has spoken these things.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:19 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem,”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:21 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Jeremiah 17:27 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it shall be, if you do not listen to me, to keep the day of the sabbaths holy, so as not to carry in burdens and not to enter by the gates of Ierousalem on the day of the sabbaths, I will also kindle a fire in its gates, and it shall devour the quarters of Ierousalem and shall not be quenched.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### 2 Esdras 23:15 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale.”
+- *Note:* Book re-cites this verified verse in prose (cross-reference; no new quote).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Ezekiel 20:12 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And I gave them my sabbaths to be a sign between me and between them, that they might know that I am the Lord who sanctifies them.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Luke 4:16 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ηλθεν εις ναζαρα ου ην ανατεθραμμενος και εισηλθεν κατα το ειωθος αυτω εν τη ημερα των σαββατω εις την συναγωγην και ανεστη αναγνωναι”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 1:21 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εισπορευονται εις καφαρναουμ και ευθυς τοις σαββασιν εδιδα ξ <σκ>εν εις την συναγωγην:”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 6:2 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και γενομενου σαββατου ηρξατο διδασκειν εν τη συναγωγη και πολλοι ακουοντες εξεπλησσοντο λεγοντες ποθεν τουτω ταυτα παντα και τις η σοφια η δοθισα τουτω και αι δυναμις <αι> τοιαυται <αι> δια των χειρων αυτου γινομεναι”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:23 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εγενετο αυτον εν τοις σαββασιν παραπορευεσθε δια των σποριμων και οι μαθηται αυτου ηρξαντο οδον ποιειν τιλλοντες τους σταχυας”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 2:28 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “ωστε κς εστιν ο υς του ανου και του σαββατου”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Deuteronomy 23:25 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “Now if you go into your neighbor’s standing grain, then you shall collect ears with your hand, and you shall not cast a sickle on your neighbor’s standing grain.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: nets*
+
+### Mark 3:1 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και εισηλθεν παλιν εις συναγωγην και ην εκει ανος εξηραμμενην εχων την”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Mark 3:4 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και λεγει αυτοις εξεστιν τοις σαββασιν αγαθον ποιησαι · η κακοποιησαι · ψυχην σωσαι η αποκτιναι οι δε εσιωπων˙”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 13:15 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Απεκριθη δε αυτω ο κς και ειπεν ϋποκριται εκαστος ϋμων <τω σαββατω> ου λυει τον βουν αυτου η τον ονον απο της φατνης και απα<γα>γων ποτιζει”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 14:3 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και αποκριθεις ὁ ΙC ειπεν προς τους νομικους και φαρισαιους λεγων εξεστιν τω σαββατω θεραπευσαι η ου”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 14:5 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και αποκριθις προς αυτο<υς> ειπεν τινος ϋμων ονος η βους εις φρεαρ πεσειτε και ουκ ευθεως ανασπασει αυτο- εν <τη> ημερα του σαββατου”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:8 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Λεγει αυτω ο ΙC εγειρε αρον τον κραβακτον σου και περιπατει”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### John 5:17 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Ο δε απεκρινετο αυτοις· ο πατηρʼ μου εως αρτι εργαζετε καγω εργαζομαι·”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Matthew 24:20 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Προσευχεσθε δε ϊνα μη γενηται η φυγη ϋμων χιμωνος μηδε σαββατω”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:54 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Και ημερα ην παρασκευης και σαββατον επεφωσκε-”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Luke 23:56 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “ϔποστρεψασαι δε ητοιμασαν αρωματα και μυρα και το μεν σαββατον ησυχασαν κατα την εντολην”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 13:14 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “αυτοι δε διελθοντες απο της περγης παρεγενοντο εις αντιοχειαν την πισιδιαν και <εις>ελθοντες εις την συναγωγην τη ημερα των σαββατω- εκαθισαν”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 13:44 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “τω δε ερχομενω σαββατω σχεδον πασα η πολις συνηχθη ακουσαι τον λογον του ΚΥ”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 16:13 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “τη τε ημερα των σαββατων εξηλθομε- εξω της πυλης παρα ποταμον ου ενομιζεν προσευχη- ειναι και καθισαντες ελαλουμεν ταις συνελθουσαις γυναιξιν”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 17:1 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “διοδευσαντες δε την <αμφι>πολιν και την απολλωνιαν ηλθον εις θεσσαλονικην οπου ην συναγωγη των ϊουδαιων˙”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 17:2 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “κατα δε το ειωθος τω παυλω εισηλθεν προς αυτους και επι σαββατα τρια διελεξατο αυτοις απο των γραφων”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 18:4 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “διελεγετο δε εν τη συναγωγη κατα παν σαββατον επιθεν τε ϊουδαιους και ελληνας”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### Acts 20:7 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “εν δε τη μια των σαββατων συνηγμενων ημων κλασαι αρτον ο παυλος διελεγετο αυτοις μελλω- εξιεναι τη επαυριον· παρετινεν τε τον λογον μεχρι μεσονυκτιου”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+
+### 1 Corinthians 16:1 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “(no Codex Sinaiticus line listed — site lists A02/B03/C04/D06)”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): aleph ✓*
+
+### 1 Corinthians 16:2 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “(no Codex Sinaiticus line listed — site lists A02/B03/C04/D06)”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: sinaiticus*
+- *Double-checked (second source): aleph ✓*
+
+### Jeremiah 6:16 — RECAP CROSS-REFERENCE
+- **KJV:** “Thus saith the LORD, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: kjv*
+
+### Mark 7:13 — RECAP CROSS-REFERENCE
+- **Codex Sinaiticus:** “Ακυρουντες τον λογον του ΘΥ τη παραδοσι υμων η παρεδωκατε και παρομοια πολλα τοιαυτα ποιειτε:”
+- **KJV:** “Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: kjv, sinaiticus*
+
+### Deuteronomy 19:15 — RECAP CROSS-REFERENCE
+- **NETS (Septuagint, modern):** “One witness shall not stand fast against a man for any injustice and any sin, which one might commit; on the mouth of two witnesses and on the mouth of three witnesses shall every word stand fast.”
+- **KJV:** “One witness shall not rise up against a man for any iniquity, or for any sin that he Sinneth: At the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: kjv, nets*
+
+### 2 Corinthians 13:1 — RECAP CROSS-REFERENCE
+- **KJV:** “This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-03 · editions fetched: kjv*
+
+### Genesis 1:3 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God said, “Let light come into being.” And light came into being.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Genesis 1:14 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And God said, “Let luminaries come into being in the firmament of the sky for illumination of the earth, to separate between the day and between the night, and let them be for signs and for seasons and for days and for years,”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### John 11:9 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Απεκριθη ΙC· ουχι δωδεκα ωραι εισι- της ημερας· εαν τις περιπατη εν τη ημερα ου προσκοπτει· οτι το φως του κοσμου του<του> βλεπει·”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: sinaiticus*
+
+### Leviticus 23:32 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “It shall be to you Sabbata of sabbaths, and you shall humble your souls; from the ninth of the month, from evening to evening you shall sabbatize on your sabbaths.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Luke 24:1 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus*
+- **Codex Sinaiticus:** “Τη δε μια των σαββατων ορθου βαθεως επι το μνημιον ηλθον φερουσαι α ητοιμασαν αρωματα˙”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: sinaiticus*
+
+### Colossians 2:16 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νεομηνίας ἢ σαββάτων,”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Colossians 2:8 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Colossians 2:22 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Romans 14:5 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ὃς μὲν γὰρ κρίνει ἡμέραν παρ”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Hebrews 4:9 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Hebrews 4:10 — RECAP CROSS-REFERENCE
+*cited as: Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass*
+- **Standard critical Greek:** “ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: standard-greek*
+- *Double-checked (second source): aleph ✓*
+
+### Isaiah 66:22 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “For as the new heaven and the new earth, which I am making, remain before me, says the Lord, so shall your offspring and your name stand.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Isaiah 66:23 — RECAP CROSS-REFERENCE
+*cited as: LXX, NETS*
+- **NETS (Septuagint, modern):** “And it shall be that month after month and sabbath after sabbath all flesh shall come before me to do obeisance in Ierousalem, said the Lord.”
+- *Note:* Closing chapter re-cites this banked verse (cross-reference; verified at its main section).
+- *Checked 2026-11-04 · editions fetched: nets*
+
+### Galatians 2:16 — ANCHOR
+- **KJV:** “Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Hebrews 4:3 — ANCHOR
+- **KJV:** “For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Mark 7:7 — ANCHOR
+- **KJV:** “Howbeit in vain do they worship me, teaching for doctrines the commandments of men.”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
+### Matthew 6:25 — ANCHOR
+- **KJV:** “Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?”
+- *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
+- *Checked 2026-11-04 · editions fetched: kjv*
+
 ---
 
 ## Master index (by book)
@@ -723,141 +2452,141 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 2:4 | P8 | anchor |
 | Zechariah 1:10 | P8 | anchor |
 | Zechariah 1:11 | P8 | anchor |
-| Genesis 2:1 | SAB13, SAB1 | confirmed, recap cross-reference |
-| Genesis 2:2 | SAB13, SAB1 | confirmed, recap cross-reference |
+| Genesis 2:1 | SAB1, SAB13 | confirmed, recap cross-reference |
+| Genesis 2:2 | SAB1, SAB13 | confirmed, recap cross-reference |
 | Genesis 2:3 | SAB1 | confirmed |
-| Exodus 20:11 | SAB13, RECAP, SAB1, SAB4 | differs (minor), recap cross-reference |
-| Mark 2:27 | SAB13, SAB5, RECAP, SAB1, SAB8 | confirmed, recap cross-reference |
-| Exodus 16:4 | SAB13, SAB3 | differs (minor), recap cross-reference |
+| Exodus 20:11 | SAB1, SAB4, SAB13, RECAP | differs (minor), recap cross-reference |
+| Mark 2:27 | SAB1, SAB5, SAB8, SAB13, RECAP | confirmed, recap cross-reference |
+| Exodus 16:4 | SAB3, SAB13 | differs (minor), recap cross-reference |
 | Exodus 16:5 | SAB3 | differs (minor) |
-| Exodus 16:22 | SAB13, SAB3 | differs, recap cross-reference |
-| Exodus 16:23 | SAB13, SAB3 | differs, recap cross-reference |
+| Exodus 16:22 | SAB3, SAB13 | differs, recap cross-reference |
+| Exodus 16:23 | SAB3, SAB13 | differs, recap cross-reference |
 | Exodus 16:24 | SAB3 | differs |
 | Exodus 16:25 | SAB3 | differs |
 | Exodus 16:26 | SAB3 | differs |
-| Exodus 16:27 | SAB13, SAB3 | differs, recap cross-reference |
+| Exodus 16:27 | SAB3, SAB13 | differs, recap cross-reference |
 | Exodus 16:28 | SAB3 | differs |
 | Exodus 16:29 | SAB3 | differs |
-| Exodus 16:30 | SAB13, SAB3, SAB12 | differs, recap cross-reference |
-| Genesis 7:4 | SAB13, SAB3 | differs (minor), recap cross-reference |
+| Exodus 16:30 | SAB3, SAB12, SAB13 | differs, recap cross-reference |
+| Genesis 7:4 | SAB3, SAB13 | differs (minor), recap cross-reference |
 | Genesis 7:10 | SAB3 | differs (minor) |
-| Genesis 8:10 | SAB13, SAB3 | differs (minor), recap cross-reference |
+| Genesis 8:10 | SAB3, SAB13 | differs (minor), recap cross-reference |
 | Genesis 8:12 | SAB3 | differs (minor) |
-| Genesis 29:27 | SAB13, SAB3 | differs, recap cross-reference |
+| Genesis 29:27 | SAB3, SAB13 | differs, recap cross-reference |
 | Genesis 29:28 | SAB3 | differs |
-| Exodus 20:8 | SAB13, SAB4 | confirmed, recap cross-reference |
-| Exodus 20:9 | SAB13, SAB4 | differs (minor), recap cross-reference |
-| Exodus 20:10 | SAB13, SAB5, SAB4, SAB12 | differs (minor), recap cross-reference |
-| Deuteronomy 5:12 | SAB13, SAB4 | confirmed, recap cross-reference |
-| Deuteronomy 5:13 | SAB13, SAB4 | differs (minor), recap cross-reference |
-| Deuteronomy 5:14 | SAB13, SAB4, SAB12 | differs, recap cross-reference |
-| Deuteronomy 5:15 | SAB13, SAB4 | differs (minor), recap cross-reference |
-| Matthew 5:17 | SAB13, RECAP, SAB4, SAB12, SAB11 | confirmed, recap cross-reference |
+| Exodus 20:8 | SAB4, SAB13 | confirmed, recap cross-reference |
+| Exodus 20:9 | SAB4, SAB13 | differs (minor), recap cross-reference |
+| Exodus 20:10 | SAB4, SAB5, SAB12, SAB13 | differs (minor), recap cross-reference |
+| Deuteronomy 5:12 | SAB4, SAB13 | confirmed, recap cross-reference |
+| Deuteronomy 5:13 | SAB4, SAB13 | differs (minor), recap cross-reference |
+| Deuteronomy 5:14 | SAB4, SAB12, SAB13 | differs, recap cross-reference |
+| Deuteronomy 5:15 | SAB4, SAB13 | differs (minor), recap cross-reference |
+| Matthew 5:17 | SAB4, SAB11, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | Matthew 5:18 | SAB4 | confirmed |
 | Matthew 5:19 | SAB4 | differs |
-| Exodus 31:12 | SAB13, SAB5 | differs (minor), recap cross-reference |
-| Exodus 31:13 | SAB13, SAB5 | differs (minor), recap cross-reference |
+| Exodus 31:12 | SAB5, SAB13 | differs (minor), recap cross-reference |
+| Exodus 31:13 | SAB5, SAB13 | differs (minor), recap cross-reference |
 | Exodus 31:14 | SAB5 | differs (minor) |
-| Exodus 31:15 | SAB13, SAB5, SAB12 | differs (minor), recap cross-reference |
+| Exodus 31:15 | SAB5, SAB12, SAB13 | differs (minor), recap cross-reference |
 | Exodus 31:16 | SAB5 | differs (minor) |
-| Exodus 31:17 | SAB13, SAB5 | differs (minor), recap cross-reference |
-| Exodus 35:1 | SAB13, SAB5 | differs, recap cross-reference |
-| Exodus 35:2 | SAB13, SAB5 | differs, recap cross-reference |
-| Exodus 35:3 | SAB13, SAB5, SAB6 | differs, recap cross-reference |
-| Leviticus 23:1 | SAB13, SAB6 | differs (minor), recap cross-reference |
+| Exodus 31:17 | SAB5, SAB13 | differs (minor), recap cross-reference |
+| Exodus 35:1 | SAB5, SAB13 | differs, recap cross-reference |
+| Exodus 35:2 | SAB5, SAB13 | differs, recap cross-reference |
+| Exodus 35:3 | SAB5, SAB6, SAB13 | differs, recap cross-reference |
+| Leviticus 23:1 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Leviticus 23:2 | SAB6 | differs (minor) |
-| Leviticus 23:3 | SAB13, SAB6, SAB12 | differs (minor), recap cross-reference |
-| Numbers 15:32 | SAB13, SAB6 | differs (minor), recap cross-reference |
+| Leviticus 23:3 | SAB6, SAB12, SAB13 | differs (minor), recap cross-reference |
+| Numbers 15:32 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Numbers 15:33 | SAB6 | differs (minor) |
 | Numbers 15:34 | SAB6 | differs (minor) |
 | Numbers 15:35 | SAB6 | differs (minor) |
 | Numbers 15:36 | SAB6 | differs (minor) |
-| Deuteronomy 22:4 | SAB13, SAB6 | differs (minor), recap cross-reference |
-| Isaiah 56:1 | SAB13, SAB7 | differs (minor), recap cross-reference |
+| Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
+| Isaiah 56:1 | SAB7, SAB13 | differs (minor), recap cross-reference |
 | Isaiah 56:2 | SAB7 | differs (minor) |
-| Isaiah 58:13 | SAB13, SAB12, SAB7 | differs (minor), recap cross-reference |
-| Isaiah 58:14 | SAB13, SAB7 | differs (minor), recap cross-reference |
-| Jeremiah 17:19 | SAB13, SAB7 | differs, recap cross-reference |
+| Isaiah 58:13 | SAB7, SAB12, SAB13 | differs (minor), recap cross-reference |
+| Isaiah 58:14 | SAB7, SAB13 | differs (minor), recap cross-reference |
+| Jeremiah 17:19 | SAB7, SAB13 | differs, recap cross-reference |
 | Jeremiah 17:20 | SAB7 | differs |
-| Jeremiah 17:21 | SAB13, SAB7 | differs, recap cross-reference |
+| Jeremiah 17:21 | SAB7, SAB13 | differs, recap cross-reference |
 | Jeremiah 17:22 | SAB7 | differs |
-| Jeremiah 17:27 | SAB13, SAB7 | differs (minor), recap cross-reference |
-| 2 Esdras 23:15 | SAB13, SAB7 | differs, recap cross-reference |
+| Jeremiah 17:27 | SAB7, SAB13 | differs (minor), recap cross-reference |
+| 2 Esdras 23:15 | SAB7, SAB13 | differs, recap cross-reference |
 | 2 Esdras 23:16 | SAB7 | differs |
 | 2 Esdras 23:17 | SAB7 | differs |
 | 2 Esdras 23:18 | SAB7 | differs |
-| 2 Esdras 23:19 | SAB10, SAB7 | anchor, differs, recap cross-reference |
-| Ezekiel 20:12 | SAB13, SAB7 | differs (minor), recap cross-reference |
+| 2 Esdras 23:19 | SAB7, SAB10 | anchor, differs, recap cross-reference |
+| Ezekiel 20:12 | SAB7, SAB13 | differs (minor), recap cross-reference |
 | Ezekiel 20:20 | SAB7 | differs (minor) |
-| Luke 4:16 | SAB9, SAB13, RECAP, SAB11, SAB8 | confirmed, recap cross-reference |
-| Mark 1:21 | SAB13, SAB8 | differs, recap cross-reference |
-| Mark 6:2 | SAB13, SAB8 | confirmed (excerpt), recap cross-reference |
-| Mark 2:23 | SAB13, SAB8 | confirmed, recap cross-reference |
+| Luke 4:16 | SAB8, SAB9, SAB11, SAB13, RECAP | confirmed, recap cross-reference |
+| Mark 1:21 | SAB8, SAB13 | differs, recap cross-reference |
+| Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
+| Mark 2:23 | SAB8, SAB13 | confirmed, recap cross-reference |
 | Mark 2:24 | SAB8 | confirmed |
 | Mark 2:25 | SAB8 | confirmed |
 | Mark 2:26 | SAB8 | confirmed |
-| Mark 2:28 | SAB13, SAB12, RECAP, SAB8 | confirmed, recap cross-reference |
-| Deuteronomy 23:25 | SAB13, SAB8 | differs (minor), recap cross-reference |
-| Mark 3:1 | SAB13, SAB8 | confirmed, recap cross-reference |
+| Mark 2:28 | SAB8, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
+| Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
+| Mark 3:1 | SAB8, SAB13 | confirmed, recap cross-reference |
 | Mark 3:2 | SAB8 | confirmed |
 | Mark 3:3 | SAB8 | confirmed |
-| Mark 3:4 | SAB13, SAB8 | confirmed, recap cross-reference |
+| Mark 3:4 | SAB8, SAB13 | confirmed, recap cross-reference |
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
-| Luke 13:15 | SAB13, SAB8 | confirmed, recap cross-reference |
+| Luke 13:15 | SAB8, SAB13 | confirmed, recap cross-reference |
 | Luke 13:16 | SAB8 | confirmed |
-| Luke 14:3 | SAB13, SAB8 | confirmed, recap cross-reference |
+| Luke 14:3 | SAB8, SAB13 | confirmed, recap cross-reference |
 | Luke 14:4 | SAB8 | confirmed |
-| Luke 14:5 | SAB13, SAB6, SAB8 | differs, recap cross-reference |
-| John 5:8 | SAB13, SAB8 | confirmed, recap cross-reference |
+| Luke 14:5 | SAB6, SAB8, SAB13 | differs, recap cross-reference |
+| John 5:8 | SAB8, SAB13 | confirmed, recap cross-reference |
 | John 5:9 | SAB8 | confirmed |
 | John 5:10 | SAB8 | confirmed |
 | John 5:16 | SAB8 | confirmed |
-| John 5:17 | SAB13, RECAP, SAB8 | confirmed, recap cross-reference |
-| Matthew 24:20 | SAB13, SAB12, RECAP, SAB8 | confirmed, recap cross-reference |
-| Luke 23:54 | SAB13, SAB8 | confirmed, recap cross-reference |
+| John 5:17 | SAB8, SAB13, RECAP | confirmed, recap cross-reference |
+| Matthew 24:20 | SAB8, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
+| Luke 23:54 | SAB8, SAB13 | confirmed, recap cross-reference |
 | Luke 23:55 | SAB8 | confirmed |
-| Luke 23:56 | SAB13, RECAP, SAB10, SAB11, SAB12, SAB8 | confirmed, recap cross-reference |
+| Luke 23:56 | SAB8, SAB10, SAB11, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | Acts 13:14 | SAB9, SAB13 | confirmed, recap cross-reference |
 | Acts 13:15 | SAB9 | confirmed |
 | Acts 13:42 | SAB9 | confirmed |
-| Acts 13:44 | SAB9, RECAP, SAB13 | confirmed, recap cross-reference |
+| Acts 13:44 | SAB9, SAB13, RECAP | confirmed, recap cross-reference |
 | Acts 16:13 | SAB9, SAB13 | confirmed, recap cross-reference |
 | Acts 17:1 | SAB9, SAB13 | confirmed, recap cross-reference |
-| Acts 17:2 | SAB9, RECAP, SAB13 | confirmed, recap cross-reference |
+| Acts 17:2 | SAB9, SAB13, RECAP | confirmed, recap cross-reference |
 | Acts 18:4 | SAB9, SAB13 | confirmed, recap cross-reference |
 | Acts 18:11 | SAB9 | confirmed |
-| Acts 20:7 | SAB9, RECAP, SAB13, SAB12 | confirmed, recap cross-reference |
+| Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
-| Genesis 1:3 | SAB13, SAB10 | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
-| Genesis 1:14 | SAB13, SAB10 | confirmed (excerpt), recap cross-reference |
-| John 11:9 | SAB13, RECAP, SAB10 | confirmed, recap cross-reference |
-| Leviticus 23:32 | SAB13, SAB10, SAB12 | differs (minor), recap cross-reference |
-| Luke 24:1 | SAB13, SAB10, SAB12 | confirmed, recap cross-reference |
-| Colossians 2:16 | SAB13, RECAP, SAB11, SAB12 | confirmed, recap cross-reference |
+| Genesis 1:14 | SAB10, SAB13 | confirmed (excerpt), recap cross-reference |
+| John 11:9 | SAB10, SAB13, RECAP | confirmed, recap cross-reference |
+| Leviticus 23:32 | SAB10, SAB12, SAB13 | differs (minor), recap cross-reference |
+| Luke 24:1 | SAB10, SAB12, SAB13 | confirmed, recap cross-reference |
+| Colossians 2:16 | SAB11, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | Colossians 2:17 | SAB11 | confirmed |
-| Colossians 2:8 | SAB13, SAB11 | confirmed, recap cross-reference |
-| Colossians 2:22 | SAB13, SAB11 | confirmed (excerpt), recap cross-reference |
+| Colossians 2:8 | SAB11, SAB13 | confirmed, recap cross-reference |
+| Colossians 2:22 | SAB11, SAB13 | confirmed (excerpt), recap cross-reference |
 | Colossians 2:23 | SAB11 | confirmed |
 | Galatians 4:8 | SAB11 | confirmed |
 | Galatians 4:9 | SAB11 | confirmed |
 | Galatians 4:10 | SAB11 | confirmed |
 | Galatians 4:11 | SAB11 | confirmed |
-| Romans 14:5 | SAB13, SAB11 | confirmed, recap cross-reference |
+| Romans 14:5 | SAB11, SAB13 | confirmed, recap cross-reference |
 | Romans 14:6 | SAB11 | confirmed |
-| Hebrews 4:9 | SAB13, SAB12 | confirmed, recap cross-reference |
-| Hebrews 4:10 | SAB13, SAB7, SAB12 | confirmed, recap cross-reference |
+| Hebrews 4:9 | SAB12, SAB13 | confirmed, recap cross-reference |
+| Hebrews 4:10 | SAB7, SAB12, SAB13 | confirmed, recap cross-reference |
 | Hebrews 4:11 | SAB12 | confirmed |
-| Revelation 1:10 | RECAP, SAB12 | confirmed, recap cross-reference |
-| Isaiah 66:22 | SAB13, SAB12 | differs (minor), recap cross-reference |
-| Isaiah 66:23 | SAB13, SAB12 | differs (minor), recap cross-reference |
+| Revelation 1:10 | SAB12, RECAP | confirmed, recap cross-reference |
+| Isaiah 66:22 | SAB12, SAB13 | differs (minor), recap cross-reference |
+| Isaiah 66:23 | SAB12, SAB13 | differs (minor), recap cross-reference |
 | Revelation 21:1 | SAB12 | confirmed |
 | Revelation 21:2 | SAB12 | confirmed |
 | Revelation 21:3 | SAB12 | confirmed (excerpt) |

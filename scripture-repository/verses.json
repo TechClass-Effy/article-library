@@ -36,21 +36,27 @@
    "P8",
    "P9",
    "CLOSE",
-   "THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)",
-   "THE SABBATH OF SCRIPTURE — 2. The Sabbath Before Sinai — What Israel Already Knew",
-   "THE SABBATH OF SCRIPTURE — 3. The Manna Story (Exodus 16)",
-   "THE SABBATH OF SCRIPTURE — 4. Sinai — God Speaks the Commandment (Exodus 20 / Deuteronomy 5)",
-   "THE SABBATH OF SCRIPTURE — 5. The Sign, the Death Penalty, and the Fire (Exodus 31 / 35)",
-   "THE SABBATH OF SCRIPTURE — 6. Called Together, and a Warning (Leviticus 23 / Numbers 15)",
-   "THE SABBATH OF SCRIPTURE — 7. What the Prophets Said (Isaiah 56 / 58, Jeremiah 17, Ezekiel 20)",
-   "THE SABBATH OF SCRIPTURE — 8. Jesus and the Sabbath",
-   "THE SABBATH OF SCRIPTURE — 9. What the Apostles Did (Acts)",
-   "THE SABBATH OF SCRIPTURE — 10. When Does the Sabbath Start and End?",
-   "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
-   "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
-   "THE SABBATH OF SCRIPTURE — 13. Putting It All Together"
+   "SAB1",
+   "SAB2",
+   "SAB3",
+   "SAB4",
+   "SAB5",
+   "SAB6",
+   "SAB7",
+   "SAB8",
+   "SAB9",
+   "SAB10",
+   "SAB11",
+   "SAB12",
+   "SAB13"
   ],
   "sections": [
+   {
+    "key": "CLOSE",
+    "label": "A Closing Word to the Body of Christ",
+    "sub": "",
+    "seeker_text": ""
+   },
    {
     "key": "P1-Q1",
     "label": "Part One — The Old Hand — Where the Letters Were Born",
@@ -148,24 +154,57 @@
     "seeker_text": ""
    },
    {
-    "key": "CLOSE",
-    "label": "A Closing Word to the Body of Christ",
-    "sub": "",
-    "seeker_text": ""
+    "key": "SAB1",
+    "label": "THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)"
    },
-   "THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)",
-   "THE SABBATH OF SCRIPTURE — 2. The Sabbath Before Sinai — What Israel Already Knew",
-   "THE SABBATH OF SCRIPTURE — 3. The Manna Story (Exodus 16)",
-   "THE SABBATH OF SCRIPTURE — 4. Sinai — God Speaks the Commandment (Exodus 20 / Deuteronomy 5)",
-   "THE SABBATH OF SCRIPTURE — 5. The Sign, the Death Penalty, and the Fire (Exodus 31 / 35)",
-   "THE SABBATH OF SCRIPTURE — 6. Called Together, and a Warning (Leviticus 23 / Numbers 15)",
-   "THE SABBATH OF SCRIPTURE — 7. What the Prophets Said (Isaiah 56 / 58, Jeremiah 17, Ezekiel 20)",
-   "THE SABBATH OF SCRIPTURE — 8. Jesus and the Sabbath",
-   "THE SABBATH OF SCRIPTURE — 9. What the Apostles Did (Acts)",
-   "THE SABBATH OF SCRIPTURE — 10. When Does the Sabbath Start and End?",
-   "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
-   "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
-   "THE SABBATH OF SCRIPTURE — 13. Putting It All Together"
+   {
+    "key": "SAB10",
+    "label": "THE SABBATH OF SCRIPTURE — 10. When Does the Sabbath Start and End?"
+   },
+   {
+    "key": "SAB11",
+    "label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)"
+   },
+   {
+    "key": "SAB12",
+    "label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)"
+   },
+   {
+    "key": "SAB13",
+    "label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together"
+   },
+   {
+    "key": "SAB2",
+    "label": "THE SABBATH OF SCRIPTURE — 2. The Sabbath Before Sinai — What Israel Already Knew"
+   },
+   {
+    "key": "SAB3",
+    "label": "THE SABBATH OF SCRIPTURE — 3. The Manna Story (Exodus 16)"
+   },
+   {
+    "key": "SAB4",
+    "label": "THE SABBATH OF SCRIPTURE — 4. Sinai — God Speaks the Commandment (Exodus 20 / Deuteronomy 5)"
+   },
+   {
+    "key": "SAB5",
+    "label": "THE SABBATH OF SCRIPTURE — 5. The Sign, the Death Penalty, and the Fire (Exodus 31 / 35)"
+   },
+   {
+    "key": "SAB6",
+    "label": "THE SABBATH OF SCRIPTURE — 6. Called Together, and a Warning (Leviticus 23 / Numbers 15)"
+   },
+   {
+    "key": "SAB7",
+    "label": "THE SABBATH OF SCRIPTURE — 7. What the Prophets Said (Isaiah 56 / 58, Jeremiah 17, Ezekiel 20)"
+   },
+   {
+    "key": "SAB8",
+    "label": "THE SABBATH OF SCRIPTURE — 8. Jesus and the Sabbath"
+   },
+   {
+    "key": "SAB9",
+    "label": "THE SABBATH OF SCRIPTURE — 9. What the Apostles Did (Acts)"
+   }
   ],
   "double_check": {
    "date": "2026-11-02",
@@ -202,7 +241,8 @@
     "JER 17 (opens at v5, restored)",
     "DEU 23:24-25 (Greek reverses Hebrew order; restored)",
     "known remaining interior gaps (not cited in this book): EXO 37-39, ISA 9, JER 52"
-   ]
+   ],
+   "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   }
  },
  "verses": [
@@ -3961,10 +4001,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Book vs NETS: 'sky'→NETS 'heaven'; 'Therefore'→'For this reason'; 'hallowed it'→'consecrated it'. NETS GenesisTranslator used sky/hallowed; NETS ExodusTranslator used heaven/For this reason/consecrated - book carried Genesis-style words into Exodus.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact: For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it."
      }
     },
     {
@@ -3979,10 +4020,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Same three diffs as SAB1 (sky/heaven, Therefore/For this reason, hallowed/consecrated) — see this entry's SAB1 use.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact: For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "For in six days the Lord made the heaven and the earth and the sea and all things in them, and he rested on the seventh day. For this reason the Lord blessed the seventh day and consecrated it."
      }
     },
     {
@@ -4110,10 +4152,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "light rewording of NETS: 'rain bread from heaven for you'->'on you from the sky'; 'collect'->'gather'; 'for a day'->'for the day'; NETS 'whatever they gather together daily'->'what they gather day by day'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:4-5: Then the Lord said to Moyses, “Look, I am going to rain bread from heaven for you, and the people shall go out, and they shall collect the day’s portion for a day so that I might test them whether they will walk by my law or not. And it shall be on the sixth day, and they shall prepare whatever they bring in, and it shall be double whatever they gather together daily for a day.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Then the Lord said to Moyses, “Look, I am going to rain bread from heaven for you, and the people shall go out, and they shall collect the day’s portion for a day so that I might test them whether they will walk by my law or not."
      }
     },
     {
@@ -4152,10 +4195,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "light rewording of NETS: 'rain bread from heaven for you'->'on you from the sky'; 'collect'->'gather'; 'for a day'->'for the day'; NETS 'whatever they gather together daily'->'what they gather day by day'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:4-5: Then the Lord said to Moyses, “Look, I am going to rain bread from heaven for you, and the people shall go out, and they shall collect the day’s portion for a day so that I might test them whether they will walk by my law or not. And it shall be on the sixth day, and they shall prepare whatever they bring in, and it shall be double whatever they gather together daily for a day.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And it shall be on the sixth day, and they shall prepare whatever they bring in, and it shall be double whatever they gather together daily for a day.”"
      }
     }
    ],
@@ -4183,10 +4227,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier rewording: NETS 'But it happened...collected double what was required, two gomors for one person'->'Now it came about...gathered the necessary things, two homor for one'; 'Tomorrow is Sabbata, a rest holy to the Lord'->'A sabbath rest, holy to the Lord, is tomorrow'; 'Eat today!'->'Eat it today'; 'It will not be found on the plain'->'shall not be found in the plain today'; measure word: NETS 'gomors'->'homor'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:22-26: But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses. And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.” And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it. And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain. Six days you will collect, but on the seventh day is Sabbata. There will be none in it.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses."
      }
     },
     {
@@ -4225,10 +4270,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier rewording: NETS 'But it happened...collected double what was required, two gomors for one person'->'Now it came about...gathered the necessary things, two homor for one'; 'Tomorrow is Sabbata, a rest holy to the Lord'->'A sabbath rest, holy to the Lord, is tomorrow'; 'Eat today!'->'Eat it today'; 'It will not be found on the plain'->'shall not be found in the plain today'; measure word: NETS 'gomors'->'homor'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:22-26: But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses. And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.” And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it. And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain. Six days you will collect, but on the seventh day is Sabbata. There will be none in it.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.”"
      }
     },
     {
@@ -4267,10 +4313,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier rewording: NETS 'But it happened...collected double what was required, two gomors for one person'->'Now it came about...gathered the necessary things, two homor for one'; 'Tomorrow is Sabbata, a rest holy to the Lord'->'A sabbath rest, holy to the Lord, is tomorrow'; 'Eat today!'->'Eat it today'; 'It will not be found on the plain'->'shall not be found in the plain today'; measure word: NETS 'gomors'->'homor'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:22-26: But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses. And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.” And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it. And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain. Six days you will collect, but on the seventh day is Sabbata. There will be none in it.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it."
      }
     }
    ],
@@ -4298,10 +4345,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier rewording: NETS 'But it happened...collected double what was required, two gomors for one person'->'Now it came about...gathered the necessary things, two homor for one'; 'Tomorrow is Sabbata, a rest holy to the Lord'->'A sabbath rest, holy to the Lord, is tomorrow'; 'Eat today!'->'Eat it today'; 'It will not be found on the plain'->'shall not be found in the plain today'; measure word: NETS 'gomors'->'homor'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:22-26: But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses. And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.” And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it. And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain. Six days you will collect, but on the seventh day is Sabbata. There will be none in it.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain."
      }
     }
    ],
@@ -4329,10 +4377,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier rewording: NETS 'But it happened...collected double what was required, two gomors for one person'->'Now it came about...gathered the necessary things, two homor for one'; 'Tomorrow is Sabbata, a rest holy to the Lord'->'A sabbath rest, holy to the Lord, is tomorrow'; 'Eat today!'->'Eat it today'; 'It will not be found on the plain'->'shall not be found in the plain today'; measure word: NETS 'gomors'->'homor'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:22-26: But it happened on the sixth day, they collected double what was required, two gomors for one person. And all the leaders of the congregation went in and reported to Moyses. And Moyses said to them, “This is the word that the Lord spoke: Tomorrow is Sabbata, a rest holy to the Lord. Whatever you bake, bake, and whatever you boil, boil. And all the excess, leave it in storage until the morning.” And they left some of it until the morning, according as Moyses instructed them. And it did not stink, nor was there a worm in it. And Moyses said, “Eat today! For today is Sabbata to the Lord. It will not be found on the plain. Six days you will collect, but on the seventh day is Sabbata. There will be none in it.”",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Six days you will collect, but on the seventh day is Sabbata. There will be none in it.”"
      }
     }
    ],
@@ -4360,10 +4409,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "rewording: NETS 'certain of the people went out to collect, and they found none'->'some of the people went out to gather, and they did not find any'; 'Sit, each person, in your houses'->'Each of you sit at your houses'; 'the people sabbatized'->'the people kept sabbath'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:27-30: And it happened on the seventh day, certain of the people went out to collect, and they found none. Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law? See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.” And the people sabbatized on the seventh day.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And it happened on the seventh day, certain of the people went out to collect, and they found none."
      }
     },
     {
@@ -4402,10 +4452,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "rewording: NETS 'certain of the people went out to collect, and they found none'->'some of the people went out to gather, and they did not find any'; 'Sit, each person, in your houses'->'Each of you sit at your houses'; 'the people sabbatized'->'the people kept sabbath'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:27-30: And it happened on the seventh day, certain of the people went out to collect, and they found none. Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law? See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.” And the people sabbatized on the seventh day.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law?"
      }
     }
    ],
@@ -4433,10 +4484,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "rewording: NETS 'certain of the people went out to collect, and they found none'->'some of the people went out to gather, and they did not find any'; 'Sit, each person, in your houses'->'Each of you sit at your houses'; 'the people sabbatized'->'the people kept sabbath'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:27-30: And it happened on the seventh day, certain of the people went out to collect, and they found none. Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law? See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.” And the people sabbatized on the seventh day.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.”"
      }
     }
    ],
@@ -4464,10 +4516,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "rewording: NETS 'certain of the people went out to collect, and they found none'->'some of the people went out to gather, and they did not find any'; 'Sit, each person, in your houses'->'Each of you sit at your houses'; 'the people sabbatized'->'the people kept sabbath'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS EXO 16:27-30: And it happened on the seventh day, certain of the people went out to collect, and they found none. Then the Lord said to Moyses, “For how long are you unwilling to listen to my commandments and my law? See! For the Lord has given you this day, the sabbaths. Therefore he gave you on the sixth day bread for two days. Sit, each person, in your houses; let no one go out from his place on the seventh day.” And the people sabbatized on the seventh day.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And the people sabbatized on the seventh day."
      }
     },
     {
@@ -4517,10 +4570,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS Gen7:4 'For within seven more days I am going to bring rain on the earth...'->'For yet seven days, and I am bringing rain upon the earth...'; ellipsis drops NETS end-clause; 7:10 'came on the earth'->'came upon the earth'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS GEN 7:4: For within seven more days I am going to bring rain on the earth for forty days and forty nights, and every thing that rises up, which I have made, I will wipe out from the face of the earth.”; NETS GEN 7:10: And it came about after the seven days, that then the water of the flood came on the earth.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "For within seven more days I am going to bring rain on the earth for forty days and forty nights, and every thing that rises up, which I have made, I will wipe out from the face of the earth.”"
      }
     },
     {
@@ -4559,10 +4613,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS Gen7:4 'For within seven more days I am going to bring rain on the earth...'->'For yet seven days, and I am bringing rain upon the earth...'; ellipsis drops NETS end-clause; 7:10 'came on the earth'->'came upon the earth'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS GEN 7:4: For within seven more days I am going to bring rain on the earth for forty days and forty nights, and every thing that rises up, which I have made, I will wipe out from the face of the earth.”; NETS GEN 7:10: And it came about after the seven days, that then the water of the flood came on the earth.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And it came about after the seven days, that then the water of the flood came on the earth."
      }
     }
    ],
@@ -4590,10 +4645,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'when he had waited yet another seven days, again he sent forth'->'after waiting yet another seven days, he again sent out'; 8:12 'did not continue to turn back'->'did not add to return'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS GEN 8:10: And when he had waited yet another seven days, again he sent forth the dove from the ark,; NETS GEN 8:12: And when he had waited yet another seven days, again he sent forth the dove, and it did not continue to turn back to him any more.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And when he had waited yet another seven days, again he sent forth the dove from the ark,"
      }
     },
     {
@@ -4632,10 +4688,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'when he had waited yet another seven days, again he sent forth'->'after waiting yet another seven days, he again sent out'; 8:12 'did not continue to turn back'->'did not add to return'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS GEN 8:10: And when he had waited yet another seven days, again he sent forth the dove from the ark,; NETS GEN 8:12: And when he had waited yet another seven days, again he sent forth the dove, and it did not continue to turn back to him any more.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And when he had waited yet another seven days, again he sent forth the dove, and it did not continue to turn back to him any more."
      }
     }
    ],
@@ -4663,10 +4720,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier: NETS 'Therefore finish the heptad of this one...'->'Now then, fulfill her weeks...in exchange for the labor...'; 'her heptad'->'her weeks' x2; '(Jacob)' gloss; 'as a wife for him'->'to be his wife'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS GEN 29:27-28: Therefore finish the heptad of this one, and I will give you this one also in return for work that you shall do at my place for yet another seven years.” And Iakob did so and fulfilled her heptad , and Laban gave him his daughter Rachel as a wife for him.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Therefore finish the heptad of this one, and I will give you this one also in return for work that you shall do at my place for yet another seven years.”"
      }
     },
     {
@@ -4705,10 +4763,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "heavier: NETS 'Therefore finish the heptad of this one...'->'Now then, fulfill her weeks...in exchange for the labor...'; 'her heptad'->'her weeks' x2; '(Jacob)' gloss; 'as a wife for him'->'to be his wife'",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace quote with NETS-exact — NETS GEN 29:27-28: Therefore finish the heptad of this one, and I will give you this one also in return for work that you shall do at my place for yet another seven years.” And Iakob did so and fulfilled her heptad , and Laban gave him his daughter Rachel as a wife for him.",
-      "awaiting": "Gideon approval (present at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And Iakob did so and fulfilled her heptad, and Laban gave him his daughter Rachel as a wife for him."
      }
     }
    ],
@@ -4773,10 +4832,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Article 'you shall work and do all your works' vs NETS 'you shall labor and do all your labor' (translator's 'labor').",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS: For six days you shall labor and do all your labor,",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "For six days you shall labor and do all your labor,"
      }
     },
     {
@@ -4815,10 +4875,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Article 'is a sabbath'/'any work' vs NETS 'there is Sabbata'/'any labor' (article smooths NETS's transliteration Sabbata and swaps labor->work).",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS-exact: but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "but on the seventh day there is Sabbata to the Lord your God. You shall not do in it any labor, you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest who resides among you."
      }
     },
     {
@@ -4916,10 +4977,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "'you shall work...all your works' vs NETS 'you shall labor and do all your labor'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS: Six days you shall labor and do all your labor,",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Six days you shall labor and do all your labor,"
      }
     },
     {
@@ -4958,10 +5020,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Several diffs: article 'is a sabbath'/'any work' vs NETS 'there is Sabbata'/'any labor'; article 'the guest who resides among you' vs NETS 'the guest within your gates'; AND article ADDS 'and your draft animal' after 'may rest' — NETS v14 ends 'so that your male slave and your female slave may rest as well as you' (no draft-animal clause; that language belongs to NETS Exodus 20:10's list).",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS v14 verbatim: but on the seventh day there is Sabbata to the Lord your God; you shall not do in it any labor—you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest within your gates so that your male slave and your female slave may rest as well as you.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "but on the seventh day there is Sabbata to the Lord your God; you shall not do in it any labor—you and your son and your daughter, your male slave and your female slave, your ox and your draft animal and any animal of yours and the guest within your gates so that your male slave and your female slave may rest as well as you."
      }
     },
     {
@@ -5011,10 +5074,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "'with a mighty hand' vs NETS 'with a strong hand'; article also drops 'And' before 'you shall remember' (NETS opens 'And you shall remember').",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS: And you shall remember that you were a domestic in the land of Egypt, and the Lord your God brought you out from there with a strong hand and with a high arm; therefore, the Lord your God instructed you to keep the day of the sabbaths and to consecrate it.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And you shall remember that you were a domestic in the land of Egypt, and the Lord your God brought you out from there with a strong hand and with a high arm; therefore, the Lord your God instructed you to keep the day of the sabbaths and to consecrate it."
      }
     },
     {
@@ -5149,10 +5213,10 @@
      "status": "differs",
      "matched_source": "sinaiticus",
      "note": "Article's first half = faithful rendering of Aleph ('looses' = good literal for λυσεις/λυση; א quirks: 'κληθησετε' (apparatus: א, L), 'τω ουνων' = nomina sacra for των ουρανων). BUT the article's final clause 'but whoever does and teaches, this one shall be called great in the kingdom of the heavens' IS NOT IN CODEX SINAITICUS — Aleph omitted it (apparatus (30) OMIT ος δ αν: א, D, W; (43) OMIT μεγας κληθησεται...: א, D, W — haplography from homoeoarcton/homoeoteleuton; the clause is standard in B and the majority).",
-     "flag": {
-      "kind": "needs-authorization",
+     "adjudication": {
+      "ruling": "applied-per-Gideon",
       "detail": "Three options: (1) drop the clause to be Sinaiticus-exact; (2) keep the clause and change the citation; (3) keep with an authorial note that Aleph skips it. NO edit without Gideon's choice.",
-      "awaiting": "Gideon (present at next login)"
+      "reason": "Mt 5:19 keep+italicize+note; Mk 1:21 re-label (Alexandrinus/Vaticanus); Lk 14:5 aleph-exact ('donkey'). Applied 2026-11-04."
      }
     }
    ],
@@ -5180,10 +5244,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Smoothed NETS: 'instruct'->'command'; NETS 'Observe and keep my sabbaths!'->'See, and keep my sabbaths;'; NETS 'there is Sabbata, a rest holy to the Lord'->'is a sabbath, a holy rest, to the Lord'; 'with death be put to death'->'by death shall he be put to death'; 'for your generations'->'throughout your generations'; NETS 'made the heaven and the earth'->'made the sky and the earth'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord spoke to Moyses, saying: And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you. And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people. For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death. And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And the Lord spoke to Moyses, saying:"
      }
     },
     {
@@ -5222,10 +5287,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Smoothed NETS: 'instruct'->'command'; NETS 'Observe and keep my sabbaths!'->'See, and keep my sabbaths;'; NETS 'there is Sabbata, a rest holy to the Lord'->'is a sabbath, a holy rest, to the Lord'; 'with death be put to death'->'by death shall he be put to death'; 'for your generations'->'throughout your generations'; NETS 'made the heaven and the earth'->'made the sky and the earth'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord spoke to Moyses, saying: And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you. And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people. For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death. And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you."
      }
     },
     {
@@ -5264,10 +5330,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Smoothed NETS: 'instruct'->'command'; NETS 'Observe and keep my sabbaths!'->'See, and keep my sabbaths;'; NETS 'there is Sabbata, a rest holy to the Lord'->'is a sabbath, a holy rest, to the Lord'; 'with death be put to death'->'by death shall he be put to death'; 'for your generations'->'throughout your generations'; NETS 'made the heaven and the earth'->'made the sky and the earth'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord spoke to Moyses, saying: And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you. And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people. For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death. And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people."
      }
     }
    ],
@@ -5295,10 +5362,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Smoothed NETS: 'instruct'->'command'; NETS 'Observe and keep my sabbaths!'->'See, and keep my sabbaths;'; NETS 'there is Sabbata, a rest holy to the Lord'->'is a sabbath, a holy rest, to the Lord'; 'with death be put to death'->'by death shall he be put to death'; 'for your generations'->'throughout your generations'; NETS 'made the heaven and the earth'->'made the sky and the earth'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord spoke to Moyses, saying: And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you. And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people. For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death. And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death."
      }
     },
     {
@@ -5348,10 +5416,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Smoothed NETS: 'instruct'->'command'; NETS 'Observe and keep my sabbaths!'->'See, and keep my sabbaths;'; NETS 'there is Sabbata, a rest holy to the Lord'->'is a sabbath, a holy rest, to the Lord'; 'with death be put to death'->'by death shall he be put to death'; 'for your generations'->'throughout your generations'; NETS 'made the heaven and the earth'->'made the sky and the earth'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord spoke to Moyses, saying: And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you. And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people. For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death. And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant"
      }
     }
    ],
@@ -5379,10 +5448,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Smoothed NETS: 'instruct'->'command'; NETS 'Observe and keep my sabbaths!'->'See, and keep my sabbaths;'; NETS 'there is Sabbata, a rest holy to the Lord'->'is a sabbath, a holy rest, to the Lord'; 'with death be put to death'->'by death shall he be put to death'; 'for your generations'->'throughout your generations'; NETS 'made the heaven and the earth'->'made the sky and the earth'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord spoke to Moyses, saying: And you, instruct the sons of Israel, saying, “Observe and keep my sabbaths! For it is a sign with me and among you for your generations in order that you may know that I am the Lord who consecrates you. And you shall keep the sabbaths, because this is holy for you. The one who profanes it shall with death be put to death. Everyone who will do work in it, that soul shall be destroyed from among his people. For six days you shall do works, but on the seventh day there is Sabbata, a rest holy to the Lord. Everyone who does work on the seventh day shall be put to death. And the sons of Israel will keep the sabbaths to observe them throughout their generations, an everlasting covenant with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "with me and the sons of Israel.” It is an everlasting sign because in six days the Lord made the heaven and the earth, and on the seventh day he stopped and rested."
      }
     },
     {
@@ -5421,10 +5491,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Heavier smoothing: NETS 'the entire congregation of the sons of Israel'->'the whole congregation of Israel'; NETS 'there is a rest, something holy, Sabbata, a repose for the Lord'->'is rest, holy, sabbath, rest to the Lord'; NETS 'Let everyone who does work in it die!'->'let him come to an end'; NETS 'You shall not kindle a fire in any settlement of yours'->'You shall not burn a fire in any of your dwellings'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them: Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die! You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them:"
      }
     },
     {
@@ -5463,10 +5534,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Heavier smoothing: NETS 'the entire congregation of the sons of Israel'->'the whole congregation of Israel'; NETS 'there is a rest, something holy, Sabbata, a repose for the Lord'->'is rest, holy, sabbath, rest to the Lord'; NETS 'Let everyone who does work in it die!'->'let him come to an end'; NETS 'You shall not kindle a fire in any settlement of yours'->'You shall not burn a fire in any of your dwellings'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them: Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die! You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die!"
      }
     },
     {
@@ -5505,10 +5577,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Heavier smoothing: NETS 'the entire congregation of the sons of Israel'->'the whole congregation of Israel'; NETS 'there is a rest, something holy, Sabbata, a repose for the Lord'->'is rest, holy, sabbath, rest to the Lord'; NETS 'Let everyone who does work in it die!'->'let him come to an end'; NETS 'You shall not kindle a fire in any settlement of yours'->'You shall not burn a fire in any of your dwellings'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And Moyses assembled the entire congregation of the sons of Israel and said to them: These are the words that the Lord said to do them: Six days you shall do works, but on the seventh day there is a rest, something holy, Sabbata, a repose for the Lord. Let everyone who does work in it die! You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "You shall not kindle a fire in any settlement of yours on the day of the sabbaths. I am the Lord."
      }
     },
     {
@@ -5558,10 +5631,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'said to Moyses'->'spoke to Moyses'; NETS 'those that you shall call designated, holy'->'which you shall call holy assemblies'; NETS 'there is Sabbata, a rest, designated, holy'->'is a sabbath, a rest, a holy assembly'; NETS 'you shall do no work'->'You shall not do any work'; NETS 'in your every settlement'->'in all your dwellings'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord said to Moyses, saying: Speak to the sons of Israel, and you shall say to them: The feasts of the Lord, those that you shall call designated, holy—these are my feasts. Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And the Lord said to Moyses, saying:"
      }
     },
     {
@@ -5600,10 +5674,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'said to Moyses'->'spoke to Moyses'; NETS 'those that you shall call designated, holy'->'which you shall call holy assemblies'; NETS 'there is Sabbata, a rest, designated, holy'->'is a sabbath, a rest, a holy assembly'; NETS 'you shall do no work'->'You shall not do any work'; NETS 'in your every settlement'->'in all your dwellings'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord said to Moyses, saying: Speak to the sons of Israel, and you shall say to them: The feasts of the Lord, those that you shall call designated, holy—these are my feasts. Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Speak to the sons of Israel, and you shall say to them: The feasts of the Lord, those that you shall call designated, holy—these are my feasts."
      }
     }
    ],
@@ -5631,10 +5706,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'said to Moyses'->'spoke to Moyses'; NETS 'those that you shall call designated, holy'->'which you shall call holy assemblies'; NETS 'there is Sabbata, a rest, designated, holy'->'is a sabbath, a rest, a holy assembly'; NETS 'you shall do no work'->'You shall not do any work'; NETS 'in your every settlement'->'in all your dwellings'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the Lord said to Moyses, saying: Speak to the sons of Israel, and you shall say to them: The feasts of the Lord, those that you shall call designated, holy—these are my feasts. Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Six days you shall do acts of work, and on the seventh day there is Sabbata, a rest, designated, holy to the Lord; you shall do no work; it is Sabbata to the Lord in your every settlement."
      }
     },
     {
@@ -5684,10 +5760,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'gathering sticks'->'gathering wood' (x2); NETS 'all the congregation of Israel's sons'->'the whole congregation of the sons of Israel'; NETS 'placed him in custody'->'put him in custody'; article folds 'outside the camp' into the v35 command (NETS has it only in v36); 'brought him forth'->'brought him'; 'just as'->'as'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths. And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons. And they placed him in custody, for they did not decide what they should do to him. And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.” And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths."
      }
     },
     {
@@ -5726,10 +5803,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'gathering sticks'->'gathering wood' (x2); NETS 'all the congregation of Israel's sons'->'the whole congregation of the sons of Israel'; NETS 'placed him in custody'->'put him in custody'; article folds 'outside the camp' into the v35 command (NETS has it only in v36); 'brought him forth'->'brought him'; 'just as'->'as'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths. And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons. And they placed him in custody, for they did not decide what they should do to him. And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.” And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons."
      }
     }
    ],
@@ -5757,10 +5835,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'gathering sticks'->'gathering wood' (x2); NETS 'all the congregation of Israel's sons'->'the whole congregation of the sons of Israel'; NETS 'placed him in custody'->'put him in custody'; article folds 'outside the camp' into the v35 command (NETS has it only in v36); 'brought him forth'->'brought him'; 'just as'->'as'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths. And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons. And they placed him in custody, for they did not decide what they should do to him. And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.” And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And they placed him in custody, for they did not decide what they should do to him."
      }
     }
    ],
@@ -5788,10 +5867,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'gathering sticks'->'gathering wood' (x2); NETS 'all the congregation of Israel's sons'->'the whole congregation of the sons of Israel'; NETS 'placed him in custody'->'put him in custody'; article folds 'outside the camp' into the v35 command (NETS has it only in v36); 'brought him forth'->'brought him'; 'just as'->'as'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths. And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons. And they placed him in custody, for they did not decide what they should do to him. And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.” And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.”"
      }
     }
    ],
@@ -5819,10 +5899,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'gathering sticks'->'gathering wood' (x2); NETS 'all the congregation of Israel's sons'->'the whole congregation of the sons of Israel'; NETS 'placed him in custody'->'put him in custody'; article folds 'outside the camp' into the v35 command (NETS has it only in v36); 'brought him forth'->'brought him'; 'just as'->'as'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And the sons of Israel were in the wilderness, and they found a man gathering sticks on the day of the sabbaths. And those who found him gathering sticks brought him to Moyses and Aaron and to all the congregation of Israel’s sons. And they placed him in custody, for they did not decide what they should do to him. And the Lord spoke to Moyses, saying, “Let the man by death be put to death; stone him with stones—all the congregation.” And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And all the congregation brought him forth outside the camp, and all the congregation stoned him with stones outside the camp, just as the Lord instructed Moyses."
      }
     }
    ],
@@ -5850,10 +5931,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS prints the literal doubled 'raising, you shall raise them up with him' — article omits the first 'raising'; NETS 'Do not overlook them'->'you shall disregard them'; NETS 'on the road'->'in the way'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — You shall not see your brother’s donkey or his bull calf fallen on the road. Do not overlook them; raising, you shall raise them up with him.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "You shall not see your brother’s donkey or his bull calf fallen on the road. Do not overlook them; raising, you shall raise them up with him."
      }
     },
     {
@@ -5892,10 +5974,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Heading cites Isaiah 56:1-8 but the blockquote contains ONLY vv1-2 (vv3-8 paraphrased in prose). Diffs: NETS 'judgment'->'judgement'; NETS 'my salvation has drawn near to arrive'->'my deliverance draws near to come'; NETS 'the person who holds them fast'->'the person who holds fast by them'; NETS 'watches his hands so as not to do wrong'->'keeps his hands from doing wrong'. (Excerpt of the cited range.)",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — This is what the Lord says: Keep judgment; do righteousness, for my salvation has drawn near to arrive and my mercy to be revealed. Happy is the man who does these things, the person who holds them fast, who keeps the sabbaths so as not to profane them, and watches his hands so as not to do wrong.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "This is what the Lord says: Keep judgment; do righteousness, for my salvation has drawn near to arrive and my mercy to be revealed."
      }
     },
     {
@@ -5934,10 +6017,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Heading cites Isaiah 56:1-8 but the blockquote contains ONLY vv1-2 (vv3-8 paraphrased in prose). Diffs: NETS 'judgment'->'judgement'; NETS 'my salvation has drawn near to arrive'->'my deliverance draws near to come'; NETS 'the person who holds them fast'->'the person who holds fast by them'; NETS 'watches his hands so as not to do wrong'->'keeps his hands from doing wrong'. (Excerpt of the cited range.)",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — This is what the Lord says: Keep judgment; do righteousness, for my salvation has drawn near to arrive and my mercy to be revealed. Happy is the man who does these things, the person who holds them fast, who keeps the sabbaths so as not to profane them, and watches his hands so as not to do wrong.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Happy is the man who does these things, the person who holds them fast, who keeps the sabbaths so as not to profane them, and watches his hands so as not to do wrong."
      }
     }
    ],
@@ -5965,10 +6049,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'turn your foot away'->'turn away your foot'; NETS 'you shall not lift your foot for work'->'if you do not lift up your foot to work'; NETS 'trust in the Lord'->'trust upon the Lord'; NETS 'upon the good things of the earth'->'to the good things of the land'; NETS 'the heritage of your ancestor Iakob'->'the heritage of Iakob your father'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth; then you shall trust in the Lord, and he shall bring you up upon the good things of the earth and feed you with the heritage of your ancestor Iakob, for the mouth of the Lord has spoken these things.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth;"
      }
     },
     {
@@ -6018,10 +6103,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'turn your foot away'->'turn away your foot'; NETS 'you shall not lift your foot for work'->'if you do not lift up your foot to work'; NETS 'trust in the Lord'->'trust upon the Lord'; NETS 'upon the good things of the earth'->'to the good things of the land'; NETS 'the heritage of your ancestor Iakob'->'the heritage of Iakob your father'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — If you turn your foot away from the sabbaths, so as not to do the things you wish on the holy day, and you shall call the sabbaths delightful, holy to your God, you shall not lift your foot for work nor speak a word in anger out of your mouth; then you shall trust in the Lord, and he shall bring you up upon the good things of the earth and feed you with the heritage of your ancestor Iakob, for the mouth of the Lord has spoken these things.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "then you shall trust in the Lord, and he shall bring you up upon the good things of the earth and feed you with the heritage of your ancestor Iakob, for the mouth of the Lord has spoken these things."
      }
     },
     {
@@ -6060,10 +6146,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "NETS 'This is what the Lord says'->'Thus said the Lord' (x2); 'stand in the gates'->'stand at the gates'; 'by them by which'->'at which'; 'Hear a word'->'Hear the word'; NETS 'all Judea'->'all Ioudea'; 'Watch your souls'->'Take heed for your souls'; 'do not bear burdens'->'do not lift burdens'; NETS 'do not go in by the gates'->'do not go out through the gates'; 'keep...holy'->'sanctify'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem, and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates. This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem. And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem,"
      }
     },
     {
@@ -6102,10 +6189,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "NETS 'This is what the Lord says'->'Thus said the Lord' (x2); 'stand in the gates'->'stand at the gates'; 'by them by which'->'at which'; 'Hear a word'->'Hear the word'; NETS 'all Judea'->'all Ioudea'; 'Watch your souls'->'Take heed for your souls'; 'do not bear burdens'->'do not lift burdens'; NETS 'do not go in by the gates'->'do not go out through the gates'; 'keep...holy'->'sanctify'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem, and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates. This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem. And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates."
      }
     }
    ],
@@ -6133,10 +6221,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "NETS 'This is what the Lord says'->'Thus said the Lord' (x2); 'stand in the gates'->'stand at the gates'; 'by them by which'->'at which'; 'Hear a word'->'Hear the word'; NETS 'all Judea'->'all Ioudea'; 'Watch your souls'->'Take heed for your souls'; 'do not bear burdens'->'do not lift burdens'; NETS 'do not go in by the gates'->'do not go out through the gates'; 'keep...holy'->'sanctify'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem, and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates. This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem. And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem."
      }
     },
     {
@@ -6175,10 +6264,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "NETS 'This is what the Lord says'->'Thus said the Lord' (x2); 'stand in the gates'->'stand at the gates'; 'by them by which'->'at which'; 'Hear a word'->'Hear the word'; NETS 'all Judea'->'all Ioudea'; 'Watch your souls'->'Take heed for your souls'; 'do not bear burdens'->'do not lift burdens'; NETS 'do not go in by the gates'->'do not go out through the gates'; 'keep...holy'->'sanctify'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — This is what the Lord says: Go, and stand in the gates of the sons of your people, by them by which kings of Iouda enter and by them by which they go out and in all the gates of Ierousalem, and you will say to them: Hear a word of the Lord, you kings of Iouda, and all Judea and all Ierousalem, who enter by these gates. This is what the Lord says: Watch your souls, and do not bear burdens on the day of the sabbaths, and do not go in by the gates of Ierousalem. And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And do not carry burdens out of your houses on the day of the sabbaths, and you shall not do any work; keep the day of the sabbaths holy, as I commanded your fathers. And they did not hear and did not incline their ear,"
      }
     }
    ],
@@ -6206,10 +6296,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "NETS 'if you do not listen to me, to keep the day of the sabbaths holy'->'if you do not hear me to sanctify'; NETS 'carry in burdens'->'carry burdens'; 'I will also kindle a fire in its gates'->'then I will kindle a fire at its gates'; NETS 'devour the quarters of Ierousalem'->'devour the streets of Ierousalem'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And it shall be, if you do not listen to me, to keep the day of the sabbaths holy, so as not to carry in burdens and not to enter by the gates of Ierousalem on the day of the sabbaths, I will also kindle a fire in its gates, and it shall devour the quarters of Ierousalem and shall not be quenched.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And it shall be, if you do not listen to me, to keep the day of the sabbaths holy, so as not to carry in burdens and not to enter by the gates of Ierousalem on the day of the sabbaths, I will also kindle a fire in its gates, and it shall devour the quarters of Ierousalem and shall not be quenched."
      }
     },
     {
@@ -6248,10 +6339,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Book cites 'Nehemiah 13:15-19 (LXX, NETS, condensed)' — NETS prints this as 2 Esdras 23:15-19, same verses. Declared condensed: article omits NETS 'and I warned them on their day of sale. And they settled in it, bringing fish...' Diffs: 'treading'->'trampling'; 'sheaves of grain'->'sheaves'; 'remonstrated with the free sons of Iouda'->'quarreled with the free of Iouda'; 'evil matter'->'evil thing'; 'Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us...'->'Did not your fathers do this, and our God brought all this evil upon us...'; 'adding wrath to Israel'->'upon Israel'; 'gates in Ierousalem settled down'->'gates of Ierousalem became still'; 'shut the gates'->'closed the doors'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale. And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem. And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day? Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.” And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale."
      }
     },
     {
@@ -6290,10 +6382,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Book cites 'Nehemiah 13:15-19 (LXX, NETS, condensed)' — NETS prints this as 2 Esdras 23:15-19, same verses. Declared condensed: article omits NETS 'and I warned them on their day of sale. And they settled in it, bringing fish...' Diffs: 'treading'->'trampling'; 'sheaves of grain'->'sheaves'; 'remonstrated with the free sons of Iouda'->'quarreled with the free of Iouda'; 'evil matter'->'evil thing'; 'Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us...'->'Did not your fathers do this, and our God brought all this evil upon us...'; 'adding wrath to Israel'->'upon Israel'; 'gates in Ierousalem settled down'->'gates of Ierousalem became still'; 'shut the gates'->'closed the doors'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale. And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem. And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day? Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.” And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem."
      }
     }
    ],
@@ -6321,10 +6414,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Book cites 'Nehemiah 13:15-19 (LXX, NETS, condensed)' — NETS prints this as 2 Esdras 23:15-19, same verses. Declared condensed: article omits NETS 'and I warned them on their day of sale. And they settled in it, bringing fish...' Diffs: 'treading'->'trampling'; 'sheaves of grain'->'sheaves'; 'remonstrated with the free sons of Iouda'->'quarreled with the free of Iouda'; 'evil matter'->'evil thing'; 'Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us...'->'Did not your fathers do this, and our God brought all this evil upon us...'; 'adding wrath to Israel'->'upon Israel'; 'gates in Ierousalem settled down'->'gates of Ierousalem became still'; 'shut the gates'->'closed the doors'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale. And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem. And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day? Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.” And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day?"
      }
     }
    ],
@@ -6352,10 +6446,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Book cites 'Nehemiah 13:15-19 (LXX, NETS, condensed)' — NETS prints this as 2 Esdras 23:15-19, same verses. Declared condensed: article omits NETS 'and I warned them on their day of sale. And they settled in it, bringing fish...' Diffs: 'treading'->'trampling'; 'sheaves of grain'->'sheaves'; 'remonstrated with the free sons of Iouda'->'quarreled with the free of Iouda'; 'evil matter'->'evil thing'; 'Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us...'->'Did not your fathers do this, and our God brought all this evil upon us...'; 'adding wrath to Israel'->'upon Israel'; 'gates in Ierousalem settled down'->'gates of Ierousalem became still'; 'shut the gates'->'closed the doors'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale. And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem. And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day? Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.” And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.”"
      }
     }
    ],
@@ -6383,10 +6478,11 @@
      "status": "differs",
      "matched_source": "nets",
      "note": "Book cites 'Nehemiah 13:15-19 (LXX, NETS, condensed)' — NETS prints this as 2 Esdras 23:15-19, same verses. Declared condensed: article omits NETS 'and I warned them on their day of sale. And they settled in it, bringing fish...' Diffs: 'treading'->'trampling'; 'sheaves of grain'->'sheaves'; 'remonstrated with the free sons of Iouda'->'quarreled with the free of Iouda'; 'evil matter'->'evil thing'; 'Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us...'->'Did not your fathers do this, and our God brought all this evil upon us...'; 'adding wrath to Israel'->'upon Israel'; 'gates in Ierousalem settled down'->'gates of Ierousalem became still'; 'shut the gates'->'closed the doors'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — In those days I saw in Iouda people treading wine presses on the sabbath and bringing in sheaves of grain and loading them on donkeys and also bringing into Ierousalem on the sabbath day wine and grapes and figs and all kinds of burdens, and I warned them on their day of sale. And they settled in it, bringing fish and selling all kinds of merchandise on the sabbath to the sons of Iouda, and in Ierousalem. And I remonstrated with the free sons of Iouda and said to them, “What is this evil matter that you are doing and profaning the sabbath day? Did not our fathers act in this way? And our God brought all these terrible things upon them and upon us and upon this city. And you are adding wrath to Israel to profane the sabbath.” And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And it happened, when the gates in Ierousalem settled down before the sabbath, and I spoke, and they shut the gates, and I spoke so that they would not be opened until after the sabbath. And I set some of my servants over the gates so that people would not carry burdens on the sabbath day."
      }
     },
     {
@@ -6436,10 +6532,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Quote [0] = Ezek 20:12: article ADDS 'also'; NETS 'who sanctifies them'->'who consecrates them'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — And I gave them my sabbaths to be a sign between me and between them, that they might know that I am the Lord who sanctifies them.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And I gave them my sabbaths to be a sign between me and between them, that they might know that I am the Lord who sanctifies them."
      }
     },
     {
@@ -6478,10 +6575,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Quote [1] = Ezek 20:20: NETS 'and hallow my sabbaths'->'And sanctify my sabbaths'; NETS 'it shall be as a sign'->'let them be for a sign'; NETS 'that you might know that I, the Lord, am your God'->'for you to know that I am the Lord your God'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — and hallow my sabbaths, and it shall be as a sign between me and you, that you might know that I, the Lord, am your God.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "and hallow my sabbaths, and it shall be as a sign between me and you, that you might know that I, the Lord, am your God."
      }
     }
    ],
@@ -6579,10 +6677,10 @@
      "status": "differs",
      "matched_source": "sinaiticus",
      "note": "Article renders 'and immediately on the Sabbaths, having entered into the synagogue, he was teaching' — but CODEX SINAITICUS has no 'having entered' (eiselthōn): aleph reads 'Και εισπορευονται εις καφαρναουμ και ευθυς τοις σαββασιν εδιδα<σκ>εν εις την συναγωγην' ('...and immediately on the Sabbaths he was teaching in the synagogue'). 'Having entered' = Alexandrinus/Vaticanus/Byzantine.",
-     "flag": {
-      "kind": "needs-authorization",
+     "adjudication": {
+      "ruling": "applied-per-Gideon",
       "detail": "Either render aleph-exact ('And they enter into Capernaum; and immediately on the Sabbaths he was teaching in the synagogue.') or re-label the citation. Choose at next login.",
-      "awaiting": "Gideon (bring at next login)"
+      "reason": "Mt 5:19 keep+italicize+note; Mk 1:21 re-label (Alexandrinus/Vaticanus); Lk 14:5 aleph-exact ('donkey'). Applied 2026-11-04."
      }
     },
     {
@@ -6832,10 +6930,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Book's 'Deuteronomy 23:25' = Hebrew numbering = NETS 23:24 — NETS prints it '24(25)': the Greek REVERSES the two verses (NETS 24 = grain-field = Hebrew 25; NETS 25(24) = vineyard = Hebrew 24). Quote vs NETS: 'if you should enter your neighbor's grain field' vs NETS 'if you go into your neighbor's standing grain'; 'gather with your hands ears of grain' vs NETS 'shall collect ears with your hand'; 'not put a sickle to' vs NETS 'not cast a sickle on'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact: Now if you go into your neighbor’s standing grain, then you shall collect ears with your hand, and you shall not cast a sickle on your neighbor’s standing grain.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "Now if you go into your neighbor’s standing grain, then you shall collect ears with your hand, and you shall not cast a sickle on your neighbor’s standing grain."
      }
     },
     {
@@ -7178,10 +7277,10 @@
      "status": "differs",
      "matched_source": "sinaiticus",
      "note": "Article renders 'Which of you shall have a son or ox fall into a well' — the reading of Alexandrinus and the traditional text — but CODEX SINAITICUS reads 'ονος η βους' = 'A DONKEY or ox' ('τινος υμων ονος η βους εις φρεαρ πεσειτε...').",
-     "flag": {
-      "kind": "needs-authorization",
+     "adjudication": {
+      "ruling": "applied-per-Gideon",
       "detail": "Either render aleph-exact ('Which of you shall have a donkey or ox fall into a well...') or re-label the citation ('son' matches Alexandrinus). Choose at next login.",
-      "awaiting": "Gideon (bring at next login)"
+      "reason": "Mt 5:19 keep+italicize+note; Mk 1:21 re-label (Alexandrinus/Vaticanus); Lk 14:5 aleph-exact ('donkey'). Applied 2026-11-04."
      }
     },
     {
@@ -7997,6 +8096,15 @@
      "text": "(no Codex Sinaiticus line listed — site lists A02/B03/C04/D06)",
      "source": "Codex Sinaiticus transcription, https://greeknewtestament.net/1co16-1"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Περὶ δὲ τῆς λογιαϲ τῆς εἰς τοὺς ἁγίους ὥσπερ διέταξα ταῖς ἐκκλησίαις τῆς γαλατειαϲ οὕτως καὶ υμιϲ ποιήσατε",
+     "note": "Aleph firsthand agrees clause-for-clause ('ἐν ταῖς ἐκκλησίαις τῆς Γαλατῶν ὡσ καὶ ὑμῖν ποιήσατε' = 'so also you do').",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -8033,6 +8141,15 @@
     "sinaiticus": {
      "text": "(no Codex Sinaiticus line listed — site lists A02/B03/C04/D06)",
      "source": "Codex Sinaiticus transcription, https://greeknewtestament.net/1co16-2"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "κατὰ μίαν σαββάτῳ ἕκαστος ὑμῶν παρ᾿ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι αν ευοδωται ἵνα μὴ ὅταν ἔλθω τότε λογιαι γίνωνται",
+     "note": "Aleph firsthand agrees; it even has ὑμῶν ('let each one of YOU') which the common text omits - the article's rendering is the codex-exact phrasing. (Corrector tweaks are spelling: σαββάτου→σαββάτων, εὐοδόωται→εὐοδώθη.)",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8341,10 +8458,11 @@
      "status": "confirmed-excerpt",
      "matched_source": "nets",
      "note": "Declared condensed. Quote part 1 = NETS v14 opening, exact through 'in the firmament of the sky'; ellipsis; part 2 = NETS v16 with one smoothing: NETS 'rulership' (x2) -> article 'rulings'. NETS v16-18 = And God made the two great luminaries, the great luminary for rulership of the day and the lesser luminary for rulership of the night, and the stars. And God set them in the firmament of the sky so as to give light upon the earth and to rule the day and the night and to separate between the light and between the darkness. And God saw that it was good.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS-exact for the luminaries sentence: And God made the two great luminaries, the great luminary for rulership of the day and the lesser luminary for rulership of the night, and the stars. And God set them in the firmament of the sky so as to give light upon the earth and to rule the day and the night and to separate between the light and between the darkness. And God saw that it was good.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And God said, “Let luminaries come into being in the firmament of the sky for illumination of the earth, to separate between the day and between the night, and let them be for signs and for seasons and for days and for years,"
      }
     },
     {
@@ -8431,10 +8549,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Article 'It shall be for you sabbaths of sabbaths' vs NETS 'It shall be to you Sabbata of sabbaths'; article tail 'you shall keep your sabbaths' vs NETS 'you shall sabbatize on your sabbaths'.",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Use NETS-exact: It shall be to you Sabbata of sabbaths, and you shall humble your souls; from the ninth of the month, from evening to evening you shall sabbatize on your sabbaths.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "It shall be to you Sabbata of sabbaths, and you shall humble your souls; from the ninth of the month, from evening to evening you shall sabbatize on your sabbaths."
      }
     },
     {
@@ -8524,7 +8643,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1100,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"Let no one therefore judge you in eating and in drinking, or in respect of a feast or of a new moon or of sabbaths — which things are a shadow of the things about to come, but the body is of Christ.\""
@@ -8532,17 +8651,18 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful, strikingly literal: 'Μη ουν τις υμας κρινετω εν βρωσει και εν ποσει' -> 'Let no one therefore judge you in eating AND in drinking' (article keeps καὶ where most English drop it); 'σαββатов' rendered PLURAL 'sabbaths' ✓.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees including ἐν βρώσει and the plural σαββάτων.",
+      "date": "2026-11-04"
      }
     },
     {
      "section": "SAB13",
      "section_label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together",
      "article_line": null,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "prose-reference",
      "quotes": [],
      "status": "recap-use",
@@ -8578,6 +8698,15 @@
      "text": "Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νεομηνίας ἢ σαββάτων,",
      "source": "standard critical Greek via https://biblehub.com/text/colossians/2-16.htm"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρω ϲι ἢ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νουμηνιαϲ η σαββάτων",
+     "note": "Aleph firsthand agrees including ἐν βρώσει and the plural σαββάτων.",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -8588,7 +8717,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1100,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"Let no one therefore judge you in eating and in drinking, or in respect of a feast or of a new moon or of sabbaths — which things are a shadow of the things about to come, but the body is of Christ.\""
@@ -8596,10 +8725,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'σκιὰ τῶν μελλοντων' -> 'a shadow of the things ABOUT TO COME'; 'τὸ δὲ σωμα του Χριστου' -> 'but the body is of Christ' (the article gives the LITERAL reading where KJV/Anderson give 'the body of Christ is the substance').",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees; σκιά τῶν μελλόντων; τὸ δὲ σῶμα τοῦ Χριστοῦ.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8608,6 +8738,15 @@
     "standard-greek": {
      "text": "ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ",
      "source": "standard critical Greek via https://biblehub.com/text/colossians/2-17.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ἅ ἐστιν σκιὰ τῶν μελλόντων τὸ δὲ σῶμα τοῦ Χριστοῦ",
+     "note": "Aleph firsthand agrees; σκιά τῶν μελλόντων; τὸ δὲ σῶμα τοῦ Χριστοῦ.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8619,7 +8758,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1141,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"Beware lest anyone shall be the one taking you captive through philosophy and empty deceit, according to the tradition of men, according to the elements of the world, and not according to Christ.\""
@@ -8627,17 +8766,18 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'Βλεπετε μη τις υμας εσται ο συλαγωγων' -> 'Beware lest anyone shall be the one taking you captive'; 'κενης' -> 'empty' deceit; 'στοιχεια' -> 'elements'; article keeps καὶ οὐ ('and not') before 'according to Christ'. Anderson (codex-English) agrees clause-for-clause with slightly different word choices ('vain deceit', 'rudiments').",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees (βλεπεται = aleph's spelling of βλέπετε).",
+      "date": "2026-11-04"
      }
     },
     {
      "section": "SAB13",
      "section_label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together",
      "article_line": null,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "prose-reference",
      "quotes": [],
      "status": "recap-use",
@@ -8651,6 +8791,15 @@
      "text": "Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·",
      "source": "standard critical Greek via https://biblehub.com/text/colossians/2-8.htm"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "βλεπεται μή τις ἔσται ὑμᾶς ὁ ϲυλα γων διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων κατὰ τὰ ϲτοιχια τοῦ κόσμου καὶ οὐ κατὰ Χριστόν",
+     "note": "Aleph firsthand agrees (βλεπεται = aleph's spelling of βλέπετε).",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -8661,7 +8810,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1152,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"…according to the commandments and teachings of men? Which things have indeed a word of wisdom in self-imposed worship and humility and unsparing treatment of the body, not in any honor, unto satisfaction of the flesh.\""
@@ -8669,17 +8818,18 @@
      "status": "confirmed-excerpt",
      "matched_source": "standard-greek",
      "note": "Quote = tail of v22 ('...according to the commandments and teachings of men?') — literal for 'κατὰ τὰ ἐνταλματα και διδασκαλιας των ανθρωπων'; the quote's leading ellipsis = the article truncates the first clause ('which things are all to perish in the using'). Quote [1] on the anchor = commentary; quote [2] = the author's own interpretive rendering (commentary, not scripture); [3][4] = heading echoes.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees.",
+      "date": "2026-11-04"
      }
     },
     {
      "section": "SAB13",
      "section_label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together",
      "article_line": null,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "prose-reference",
      "quotes": [],
      "status": "recap-use",
@@ -8693,6 +8843,15 @@
      "text": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;",
      "source": "standard critical Greek via https://biblehub.com/text/colossians/2-22.htm"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων",
+     "note": "Aleph firsthand agrees.",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -8703,7 +8862,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1152,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"…according to the commandments and teachings of men? Which things have indeed a word of wisdom in self-imposed worship and humility and unsparing treatment of the body, not in any honor, unto satisfaction of the flesh.\""
@@ -8711,10 +8870,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Very literal: 'λογον μεν εχοντα σοφιας' -> 'have indeed a WORD of wisdom' (article keeps the literal 'word' where KJV says 'shew' and Anderson 'show'); 'εθελοθρησκια' -> 'self-imposed worship'; 'αφειδια σωματος' -> 'UNSPARING treatment of the body' (literal for ἀφείδιᾳ); 'προς πλησμονην της σαρκος' -> 'unto satisfaction of the flesh'.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Agrees; the codex's leaf is weak at two words (καὶ, ἀφειδίᾳ are editor-supplied in brackets); the article follows the restored verse.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8723,6 +8883,15 @@
     "standard-greek": {
      "text": "ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ἐθελοθρησκίᾳ καὶ ταπεινοφροσύνῃ καὶ ἀφειδίᾳ σώματος, οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός",
      "source": "standard critical Greek via https://biblehub.com/text/colossians/2-23.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ἐθελοθρησκίᾳ καὶ ταπινο φροϲυνη [καὶ] αφι δια σώματος οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός",
+     "note": "Agrees; the codex's leaf is weak at two words (καὶ, ἀφειδίᾳ are editor-supplied in brackets); the article follows the restored verse.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8734,7 +8903,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1175,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"But then indeed, not knowing God, you were enslaved to those which by nature are not gods; but now having known God, or rather having been known by God, how are you turning back again to the weak and beggarly elements, to which you desire again anew to be enslaved? You observe days and months and seasons and years. I fear for you, lest somehow I have labored for you in vain.\""
@@ -8742,10 +8911,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'τοις φυσειμη ουσιν θεοις' -> 'those which BY NATURE are not gods'.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8754,6 +8924,15 @@
     "standard-greek": {
      "text": "Ἀλλὰ τότε μὲν οὐκ εἰδότες Θεὸν ἐδουλεύσατε τοῖς φύσει μὴ οὖσιν θεοῖς·",
      "source": "standard critical Greek via https://biblehub.com/text/galatians/4-8.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Ἀλλὰ τότε μὲν οὐκ εἰδότες θεὸν ἐδουλεύσατε τοῖς φύσει μὴ ουϲι θεοῖς",
+     "note": "Aleph firsthand agrees.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8765,7 +8944,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1175,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"But then indeed, not knowing God, you were enslaved to those which by nature are not gods; but now having known God, or rather having been known by God, how are you turning back again to the weak and beggarly elements, to which you desire again anew to be enslaved? You observe days and months and seasons and years. I fear for you, lest somehow I have labored for you in vain.\""
@@ -8773,10 +8952,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'παλιν ανωθεν' -> 'AGAIN ANEW' (the article keeps aleph-family's double 'again' where most English drop it); 'or rather having been known by God' kept.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees (ἀσθενῆ καὶ πτωχὰ στοιχεῖα; πάλιν ἄνωθεν).",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8785,6 +8965,15 @@
     "standard-greek": {
      "text": "νῦν δὲ γνόντες Θεόν, μᾶλλον δὲ γνωσθέντες ὑπὸ Θεοῦ, πῶς ἐπιστρέφετε πάλιν ἐπὶ τὰ ἀσθενῆ καὶ πτωχὰ στοιχεῖα, οἷς πάλιν ἄνωθεν δουλεῦσαι θέλετε;",
      "source": "standard critical Greek via https://biblehub.com/text/galatians/4-9.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "νῦν δὲ γνόντες θεὸν μᾶλλον δὲ γνωσθέντες ὑπὸ θεοῦ πῶς ἐπιστρέφετε πάλιν ἐπὶ τὰ ἀσθενῆ καὶ πτωχὰ ϲτοιχια οἷς πάλιν ἄνωθεν δουλευ ϲε θέλετε",
+     "note": "Aleph firsthand agrees (ἀσθενῆ καὶ πτωχὰ στοιχεῖα; πάλιν ἄνωθεν).",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8796,7 +8985,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1175,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"But then indeed, not knowing God, you were enslaved to those which by nature are not gods; but now having known God, or rather having been known by God, how are you turning back again to the weak and beggarly elements, to which you desire again anew to be enslaved? You observe days and months and seasons and years. I fear for you, lest somehow I have labored for you in vain.\""
@@ -8804,10 +8993,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'ημερας παρατηρεισθε και μηνας και καιρους και ενιαυτους' -> 'You observe days and months and seasons and years.'",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8816,6 +9006,15 @@
     "standard-greek": {
      "text": "ἡμέρας παρατηρεῖσθε καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς",
      "source": "standard critical Greek via https://biblehub.com/text/galatians/4-10.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ἡμέρας παρατηρεῖσθε καὶ μῆνας καὶ καιροὺς καὶ ἐνιαυτούς",
+     "note": "Aleph firsthand agrees.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8827,7 +9026,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1175,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"But then indeed, not knowing God, you were enslaved to those which by nature are not gods; but now having known God, or rather having been known by God, how are you turning back again to the weak and beggarly elements, to which you desire again anew to be enslaved? You observe days and months and seasons and years. I fear for you, lest somehow I have labored for you in vain.\""
@@ -8835,10 +9034,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'φοβουμαι υμας μη πως εικη κεκοπιακα εις υμας' -> 'I fear for you, lest somehow I have labored for you in vain.'",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8847,6 +9047,15 @@
     "standard-greek": {
      "text": "φοβοῦμαι ὑμᾶς μή πως εἰκῇ κεκοπίακα εἰς ὑμᾶς",
      "source": "standard critical Greek via https://biblehub.com/text/galatians/4-11.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "φοβοῦμαι ὑμᾶς μή πως εἰκῇ κεκοπίακα εἰς ὑμᾶς",
+     "note": "Aleph firsthand agrees.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8858,7 +9067,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1192,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"One indeed judges a day above a day, but another judges every day; let each be fully persuaded in his own mind. The one minding the day, to the Lord he minds; and the one eating, to the Lord he eats, for he gives thanks to God; and the one not eating, to the Lord he does not eat, and he gives thanks to God.\""
@@ -8866,17 +9075,18 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Remarkably literal: 'κριει ημεραν παρ' ημεραν' -> 'judges a day above a day' (article keeps the bare Greek idiom where standard English renders 'esteems one day as better than another'); 'πληροφορεισθω' -> 'let each be fully persuaded'.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees ([γὰρ] is editor-supplied; the codex spells νοῒ as νόει).",
+      "date": "2026-11-04"
      }
     },
     {
      "section": "SAB13",
      "section_label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together",
      "article_line": null,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "prose-reference",
      "quotes": [],
      "status": "recap-use",
@@ -8890,6 +9100,15 @@
      "text": "ὃς μὲν γὰρ κρίνει ἡμέραν παρ",
      "source": "standard critical Greek via https://biblehub.com/text/romans/14-5.htm"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Ὃς μὲν [γὰρ] κρίνει ἡμέραν παρ᾿ ἡμέραν· ὃς δὲ κρίνει πᾶσαν ἡμέραν· ἕκαστος ἐν τῷ ἰδίῳ νόει πληροφο ριϲθω⁖",
+     "note": "Aleph firsthand agrees ([γὰρ] is editor-supplied; the codex spells νοῒ as νόει).",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -8900,7 +9119,7 @@
      "section": "SAB11",
      "section_label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)",
      "article_line": 1192,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"One indeed judges a day above a day, but another judges every day; let each be fully persuaded in his own mind. The one minding the day, to the Lord he minds; and the one eating, to the Lord he eats, for he gives thanks to God; and the one not eating, to the Lord he does not eat, and he gives thanks to God.\""
@@ -8908,10 +9127,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'ὁ φρονων την ημεραν Κνριω φρονει' -> 'The one MINDING the day, to the Lord he minds'; eating/not-eating clauses both faithful ('for he gives thanks to God' = ευχαριστει γαρ; final 'and he gives thanks' = και ευχαριστει kept).",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees (ΚΩ = the nomen sacrum for Κύριῳ, 'to the Lord').",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -8920,6 +9140,15 @@
     "standard-greek": {
      "text": "ὁ φρονῶν τὴν ἡμέραν Κυρίῳ φρονεῖ· καὶ ὁ ἐσθίων Κυρίῳ ἐσθίει, εὐχαριστεῖ γὰρ τῷ Θεῷ· καὶ ὁ μὴ ἐσθίων Κυρίῳ οὐκ ἐσθίει, καὶ εὐχαριστεῖ τῷ Θεῷ",
      "source": "standard critical Greek via https://biblehub.com/text/romans/14-6.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ὁ φρονῶν τὴν ἡμέραν κω φρονεῖ· καὶ ὁ ἐσθίων· κω ἐσθίει˙ ευχαριϲτι γὰρ τῷ θω· καὶ ὁ μὴ ἐσθίων· κω οὐκ ἐσθίει· καὶ ευχαριϲτι τῷ θω·",
+     "note": "Aleph firsthand agrees (ΚΩ = the nomen sacrum for Κύριῳ, 'to the Lord').",
+     "date": "2026-11-04"
     }
    }
   },
@@ -8931,7 +9160,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1253,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"So there remains a Sabbath-keeping for the people of God. For the one who has entered into his rest has also himself rested from his works, just as God from his own. Let us therefore be diligent to enter into that rest, lest anyone fall in the same example of disobedience.\""
@@ -8939,17 +9168,18 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'ἄρα ἀπολειπεται σαββατισμος τῳ λαῳ του Θεου' -> 'So there remains a SABBATH-KEEPING for the people of God' (σαββατισμος rendered literally as 'Sabbath-keeping' — rare and correct). Quote [3] on the anchor = the article's own emphasis-line; [1][2] = heading echoes (commentary).",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph's first scribe left the verse BLANK; the codex's corrector wrote it in: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ - the book's rendering is exact.",
+      "date": "2026-11-04"
      }
     },
     {
      "section": "SAB13",
      "section_label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together",
      "article_line": null,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "prose-reference",
      "quotes": [],
      "status": "recap-use",
@@ -8963,6 +9193,15 @@
      "text": "ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ Θεοῦ",
      "source": "standard critical Greek via https://biblehub.com/text/hebrews/4-9.htm"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ἄρα απολιπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ",
+     "note": "Aleph's first scribe left the verse BLANK; the codex's corrector wrote it in: ἄρα ἀπολείπεται σαββατισμὸς τῷ λαῷ τοῦ θεοῦ - the book's rendering is exact.",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -8973,7 +9212,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1253,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"So there remains a Sabbath-keeping for the people of God. For the one who has entered into his rest has also himself rested from his works, just as God from his own. Let us therefore be diligent to enter into that rest, lest anyone fall in the same example of disobedience.\""
@@ -8981,17 +9220,18 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'ὁ γὰρ εισελθων... και αὐτος κατεπαυσεν' -> 'For the one who has entered... has also himself rested'; 'ὡσπερ απο των ιδιων ὁ Θεος' -> 'just as God from his own'.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Agrees ('has also himself rested from his works, just as God from his own'); at one word-slot the scribe's text is blank and the corrector inserted πάντες - the book follows the common text there; no wording difference in the verse.",
+      "date": "2026-11-04"
      }
     },
     {
      "section": "SAB13",
      "section_label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together",
      "article_line": null,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "prose-reference",
      "quotes": [],
      "status": "recap-use",
@@ -9016,6 +9256,15 @@
      "text": "ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ τῶν ἔργων αὐτοῦ, ὥσπερ ἀπὸ τῶν ἰδίων ὁ Θεός",
      "source": "standard critical Greek via https://biblehub.com/text/hebrews/4-10.htm"
     }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ὁ γὰρ εἰσελθὼν εἰς τὴν κατάπαυσιν αὐτοῦ καὶ αὐτὸς κατέπαυσεν ἀπὸ πάντες τῶν ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν ἰδίων ὁ θεός",
+     "note": "Agrees ('has also himself rested from his works, just as God from his own'); at one word-slot the scribe's text is blank and the corrector inserted πάντες - the book follows the common text there; no wording difference in the verse.",
+     "date": "2026-11-04"
+    }
    }
   },
   {
@@ -9026,7 +9275,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1253,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"So there remains a Sabbath-keeping for the people of God. For the one who has entered into his rest has also himself rested from his works, just as God from his own. Let us therefore be diligent to enter into that rest, lest anyone fall in the same example of disobedience.\""
@@ -9034,10 +9283,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'Σπουδασωμεν ουν... ινα μη εν τῳ αὐτῳ τις υποδειγματι πεση της απειθειας' -> 'Let us therefore be diligent... lest anyone fall in the same example of disobedience.'",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Agrees; aleph's first hand lacks οὖν (the corrector supplies it) - the book follows the corrected reading.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -9046,6 +9296,15 @@
     "standard-greek": {
      "text": "Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν, ἵνα μὴ ἐν τῷ αὐτῷ τις ὑποδείγματι πέσῃ τῆς ἀπειθείας",
      "source": "standard critical Greek via https://biblehub.com/text/hebrews/4-11.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Σπουδάσωμεν οὖν εἰσελθεῖν εἰς ἐκείνην τὴν κατάπαυσιν εινα μὴ ἐν τῷ αὐτῷ τις ϋποδιγματι πέσῃ τῆς απιθιαϲ",
+     "note": "Agrees; aleph's first hand lacks οὖν (the corrector supplies it) - the book follows the corrected reading.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -9057,7 +9316,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1310,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"I came to be in spirit on the Lordly day, and I heard behind me a great voice as of a trumpet.\""
@@ -9065,10 +9324,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'ἐγενομην ἐν Πνεὐματι ἐν τῃ Κυριακῃ ἡμερᾳ' -> 'I came to be in spirit on the LORDLY day' — article renders the adjective κυριακή literally ('Lordly') where most English give 'the Lord's day'.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees: ἐγενόμην ἐν πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ - the book's 'Lordly day' is the literal rendering.",
+      "date": "2026-11-04"
      }
     },
     {
@@ -9088,6 +9348,15 @@
     "standard-greek": {
      "text": "ἐγενόμην ἐν Πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ, καὶ ἤκουσα ὀπίσω μου φωνὴν μεγάλην ὡς σάλπιγγος",
      "source": "standard critical Greek via https://biblehub.com/text/revelation/1-10.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "ἐγενόμην ἐν πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ καὶ ἤκουσα ὀπίσω μου φωνὴν μεγάλην ὡς σάλπιγγος",
+     "note": "Aleph firsthand agrees: ἐγενόμην ἐν πνεύματι ἐν τῇ κυριακῇ ἡμέρᾳ - the book's 'Lordly day' is the literal rendering.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -9111,10 +9380,11 @@
       "text": "For as the new heaven and the new earth, which I am making, remain before me, says the Lord, so shall your offspring and your name stand.",
       "source": "NETS 33-esaias-nets.pdf"
      },
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — NETS: 22: For as the new heaven and the new earth, which I am making, remain before me, says the Lord, so shall your offspring and your name stand.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "For as the new heaven and the new earth, which I am making, remain before me, says the Lord, so shall your offspring and your name stand."
      }
     },
     {
@@ -9153,10 +9423,11 @@
      "status": "differs-minor",
      "matched_source": "nets",
      "note": "Article vs NETS: 'And it shall be, month by month and sabbath by sabbath, all flesh shall come to do obeisance before me in Ierousalem' vs NETS 'And it shall be that month after month and sabbath after sabbath all flesh shall come before me to do obeisance in Ierousalem' (word order + 'month by month'->'month after month').",
-     "flag": {
-      "kind": "proposed-correction",
-      "detail": "Replace blockquote with NETS-exact — NETS: 23: And it shall be that month after month and sabbath after sabbath all flesh shall come before me to do obeisance in Ierousalem, said the Lord.",
-      "awaiting": "Gideon approval (bring at next login)"
+     "adjudication": {
+      "ruling": "applied",
+      "version": "nets",
+      "reason": "Gideon's standing ruling: source text verbatim; archaic words glossed in italic parentheses. Applied 2026-11-04.",
+      "text": "And it shall be that month after month and sabbath after sabbath all flesh shall come before me to do obeisance in Ierousalem, said the Lord."
      }
     },
     {
@@ -9187,7 +9458,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1362,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"And I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and the sea is no more. And the holy city, new Jerusalem, I saw coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a great voice from the throne saying, 'Behold, the tabernacle of God is with men, and he shall tabernacle with them, and they shall be his peoples, and God himself shall be with them.'\""
@@ -9195,10 +9466,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful: 'Ἀνδ εἶδον οὐρανον καινον...' -> 'And I saw a new heaven and a new earth... and the sea is no more.'",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees (the codex spells καινόν/καινήν with itacisms).",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -9207,6 +9479,15 @@
     "standard-greek": {
      "text": "Καὶ εἶδον οὐρανὸν καινὸν καὶ γῆν καινήν· ὁ γὰρ πρῶτος οὐρανὸς καὶ ἡ πρώτη γῆ ἀπῆλθαν, καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι",
      "source": "standard critical Greek via https://biblehub.com/text/revelation/21-1.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Καὶ εἶδον οὐρανόν κενόν καὶ γῆν κενην ὁ γὰρ πρῶτος οὐρανός καὶ ἡ πρώτη γῆ ἀπῆλθαν καὶ ἡ θάλασσα οὐκ ἔστιν ἔτι",
+     "note": "Aleph firsthand agrees (the codex spells καινόν/καινήν with itacisms).",
+     "date": "2026-11-04"
     }
    }
   },
@@ -9218,7 +9499,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1362,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"And I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and the sea is no more. And the holy city, new Jerusalem, I saw coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a great voice from the throne saying, 'Behold, the tabernacle of God is with men, and he shall tabernacle with them, and they shall be his peoples, and God himself shall be with them.'\""
@@ -9226,10 +9507,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful: '...ἡτοιμασμενην ὡς νὺμφην κεκοσμμενην τῷ ανδρὶ αὐτῆς' -> 'prepared as a bride adorned for her husband.'",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees ('ϊηλμ' is the codex's contraction of Ἱερουσαλήμ).",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -9238,6 +9520,15 @@
     "standard-greek": {
      "text": "καὶ τὴν πόλιν τὴν ἁγίαν Ἱερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ Θεοῦ, ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς",
      "source": "standard critical Greek via https://biblehub.com/text/revelation/21-2.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "καὶ τὴν πόλιν τὴν ἁγίαν ϊηλμʼ κενην εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς",
+     "note": "Aleph firsthand agrees ('ϊηλμ' is the codex's contraction of Ἱερουσαλήμ).",
+     "date": "2026-11-04"
     }
    }
   },
@@ -9249,7 +9540,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1362,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"And I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and the sea is no more. And the holy city, new Jerusalem, I saw coming down out of heaven from God, prepared as a bride adorned for her husband. And I heard a great voice from the throne saying, 'Behold, the tabernacle of God is with men, and he shall tabernacle with them, and they shall be his peoples, and God himself shall be with them.'\""
@@ -9257,10 +9548,11 @@
      "status": "confirmed-excerpt",
      "matched_source": "standard-greek",
      "note": "Faithful literal: 'Ἰδοὺ ἡ σκημὴ του Θεου μετὰ των ἀνθρωπων' -> 'Behold, the tabernacle of God is with men'; 'αὐτοὶ λαοὶ αὐτοῦ εσονται' -> 'they shall be his PEOPLES' (plural kept — most English render 'his people'); article stops at 'God himself shall be with them' — the clause continues in the standard text with the bracketed '[as their God]' = excerpt.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Agrees; aleph's firsthand reads 'And a great voice from the throne...' and the corrector adds 'I heard' - the book follows the corrected reading; the verse ends 'and God himself shall be with them' exactly as the book quotes it.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -9269,6 +9561,15 @@
     "standard-greek": {
      "text": "καὶ ἤκουσα φωνῆς μεγάλης ἐκ τοῦ θρόνου λεγούσης Ἰδοὺ ἡ σκηνὴ τοῦ Θεοῦ μετὰ τῶν ἀνθρώπων, καὶ σκηνώσει μετ",
      "source": "standard critical Greek via https://biblehub.com/text/revelation/21-3.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "καὶ φωνὴ μεγάλη ἐκ τοῦ θρόνου λέγουσα ἰδοὺ ἡ σκηνὴ τοῦ θεοῦ μετὰ τῶν ἀνθρώπων καὶ ἐσκήνωσεν μετ᾿ αὐτῶν καὶ αὐτοὶ λαοὶ αὐτοῦ ἔσονται αὐτὸς ὁ θεὸς ἔσται μετ᾿ αὐτῶν",
+     "note": "Agrees; aleph's firsthand reads 'And a great voice from the throne...' and the corrector adds 'I heard' - the book follows the corrected reading; the verse ends 'and God himself shall be with them' exactly as the book quotes it.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -9280,7 +9581,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1367,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"And the dragon was enraged against the woman, and he went off to make war against the rest of her seed — those keeping the commandments of God and having the testimony of Jesus.\""
@@ -9288,10 +9589,11 @@
      "status": "confirmed-excerpt",
      "matched_source": "standard-greek",
      "note": "Faithful: 'των τηρουντων τας εντολας του Θεου και εχοντων την μαρτυριαν Ιησου' -> 'those keeping the commandments of God and having the testimony of Jesus.' Article omits the verse's final clause ('and he stood on the sand of the sea') = excerpt.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "The codex carries both: the scribe wrote 'the testimony of GOD' (ου) and the corrector changed it to 'of JESUS' (ιυ) - the book renders the corrected reading; the codex notes the scribe's original.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -9300,6 +9602,15 @@
     "standard-greek": {
      "text": "καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικί, καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς, τῶν τηρούντων τὰς ἐντολὰς τοῦ Θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν Ἰησοῦ· καὶ ἐστάθη ἐπὶ τὴν ἄμμον τῆς θαλάσσης",
      "source": "standard critical Greek via https://biblehub.com/text/revelation/12-17.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικὶ καὶ ἀπῆλθεν πόλεμον ποιῆσαι μετὰ τῶν ἐπιλοίπων τοῦ σπέρματος αὐτῆς τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν του θεοῦ",
+     "note": "The codex carries both: the scribe wrote 'the testimony of GOD' (ου) and the corrector changed it to 'of JESUS' (ιυ) - the book renders the corrected reading; the codex notes the scribe's original.",
+     "date": "2026-11-04"
     }
    }
   },
@@ -9311,7 +9622,7 @@
      "section": "SAB12",
      "section_label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)",
      "article_line": 1369,
-     "cited_as": "LXX, NETS",
+     "cited_as": "Codex Sinaiticus (named); reading verified against the standard critical Greek + the codex's own v1.95 XML (aleph) second pass",
      "quote_kind": "blockquote-passage",
      "quotes": [
       "\"Here is the endurance of the saints — those keeping the commandments of God and the faith of Jesus.\""
@@ -9319,10 +9630,11 @@
      "status": "confirmed",
      "matched_source": "standard-greek",
      "note": "Faithful: 'Ὧδε ἡ υπομονὴ των ἁγιων εστιν, οἱ τηρουντες...' -> 'Here is the endurance of the saints — those keeping...'.",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "greeknewtestament.net does not cover this book; verified instead against the standard critical Greek (biblehub /text/). Codex-specific reading pending a codexsinaiticus.org/XML pass (its server was too slow to fetch tonight). The article's rendering is faithful to the standard Greek clause-by-clause.",
-      "awaiting": "second-pass codex check (next login)"
+     "second_pass": {
+      "result": "agree (codex firsthand + corrector readings)",
+      "source": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+      "note": "Aleph firsthand agrees including ἐστίν (which the standard editions bracket) and Ἰησοῦ.",
+      "date": "2026-11-04"
      }
     }
    ],
@@ -9331,6 +9643,15 @@
     "standard-greek": {
      "text": "Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν, οἱ τηροῦντες τὰς ἐντολὰς τοῦ Θεοῦ καὶ τὴν πίστιν Ἰησοῦ",
      "source": "standard critical Greek via https://biblehub.com/text/revelation/14-12.htm"
+    }
+   },
+   "second_check": {
+    "aleph": {
+     "result": "agree",
+     "url": "Codex Sinaiticus v1.95 XML transcription (ITSEE Birmingham; github.com/itsee-birmingham/codex-sinaiticus)",
+     "reading": "Ὧδε ἡ ὑπομονὴ τῶν ἁγίων ἐστίν τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ τὴν πίστιν Ἰησοῦ",
+     "note": "Aleph firsthand agrees including ἐστίν (which the standard editions bracket) and Ἰησοῦ.",
+     "date": "2026-11-04"
     }
    }
   },
