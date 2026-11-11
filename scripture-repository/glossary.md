@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**132 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**149 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**303 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**320 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -725,10 +725,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Colossians 1:16 — ANCHOR
 *cited as: named reference in draft prose*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “For by him were all things created, which are in heauen, and which are in earth, thinges visible and inuisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him,”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb ✓*
 
 ### Philippians 2:10 — ANCHOR
 *cited as: named reference in draft prose*
@@ -1125,6 +1125,150 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
   ()
 - *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
+
+## THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses
+
+### Colossians 1:16 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “For by him were all things created, which are in heauen, and which are in earth, thinges visible and inuisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him,”
+- **Ruling — apply Geneva 1599 exact:** “Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb ✓*
+
+### PRO 8 22 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+  ()
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 23 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+  ()
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 24 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+  ()
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 25 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+  ()
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 28 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 29 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 27 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,”
+  ()
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### PRO 8 30 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,”
+  ()
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets ✓*
+
+### 1CO 1 24 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.”
+- **Ruling — apply Geneva 1599 exact:** “But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God. … But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### COL 1 15 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Who is the image of the inuisible God, the first begotten of euery creature.”
+- **Ruling — apply Geneva 1599 exact:** “Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### COL 1 17 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And hee is before all things, and in him all things consist.”
+- **Ruling — apply Geneva 1599 exact:** “Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+## THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars
+
+### MIC 5 2 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.”
+  ()
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+- *Double-checked (second source): nets ✓*
+
+### MAT 2 3 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “When King Herod heard this, he was troubled, and all Hierusalem with him.”
+- **Ruling — apply Geneva 1599 exact:** “When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### MAT 2 4 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And gathering together all the chiefe Priestes and Scribes of the people, hee asked of them, where Christ should be borne.”
+- **Ruling — apply Geneva 1599 exact:** “When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### MAT 2 5 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And they saide vnto him, At Beth-leem in Iudea: for so it is written by the Prophet,”
+- **Ruling — apply Geneva 1599 exact:** “When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### MAT 2 6 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And thou Beth-leem in the lande of Iuda, art not the least among the Princes of Iuda: For out of thee shall come the gouernour that shall feede that my people Israel.”
+- **Ruling — apply Geneva 1599 exact:** “When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### JHN 7 42 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Saith not the Scripture that that Christ shall come of the seede of Dauid, and out of the towne of Beth-leem, where Dauid was?”
+- **Ruling — apply Geneva 1599 exact:** “Saith not the Scripture that that Christ shall come of the seed of David, and out of the town of Beth-leem, where David was?”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -1550,9 +1694,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Double-checked (second source): aleph ✓*
 
 ### 1 Corinthians 1:30 — ANCHOR
+- **Geneva 1599:** “But ye are of him in Christ Iesus, who of God is made vnto vs wisedome and righteousnesse, and sanctification, and redemption,”
 - **KJV:** “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:”
 - *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
-- *Checked 2026-11-04 · editions fetched: kjv*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): trb ✓*
 
 ### Galatians 2:20 — ANCHOR
 - **KJV:** “I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.”
@@ -2857,6 +3003,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
 - *Checked 2026-11-04 · editions fetched: kjv*
 
+## THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses
+
+### 1 Corinthians 1:30 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “But ye are of him in Christ Iesus, who of God is made vnto vs wisedome and righteousnesse, and sanctification, and redemption,”
+- **KJV:** “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:”
+- **Ruling — apply Geneva 1599 exact:** “But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God. … But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): trb ✓*
+
 ---
 
 ## Master index (by book)
@@ -3046,10 +3203,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -3079,7 +3236,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 21:3 | SAB12 | confirmed (excerpt) |
 | Revelation 12:17 | SAB12 | confirmed (excerpt) |
 | Revelation 14:12 | SAB12 | confirmed |
-| 1 Corinthians 1:30 | SAB7 | anchor |
+| 1 Corinthians 1:30 | SAB7, COS-05 | anchor, confirmed |
 | 1 Corinthians 12:27 | SAB11 | anchor |
 | Acts 2:46 | SAB9 | anchor |
 | Acts 20:16 | SAB11 | anchor |
@@ -3135,7 +3292,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 1:1 | COS-01 | anchor |
 | John 1:2 | COS-01 | anchor |
 | John 1:3 | COS-01 | anchor |
-| Colossians 1:16 | COS-01 | anchor |
+| Colossians 1:16 | COS-01, COS-05 | anchor, confirmed |
 | Philippians 2:10 | COS-01 | anchor |
 | Philippians 2:11 | COS-01 | anchor |
 | Genesis 3:15 | COS-01 | confirmed |
@@ -3166,6 +3323,23 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 2 34-36 | COS-04 | confirmed |
 | HEB 5 5-6 | COS-04 | differs (minor) |
 | HEB 7 21 | COS-04 | differs (minor) |
+| PRO 8 22 | COS-05 | confirmed |
+| PRO 8 23 | COS-05 | confirmed |
+| PRO 8 24 | COS-05 | confirmed |
+| PRO 8 25 | COS-05 | confirmed |
+| PRO 8 28 | COS-05 | anchor |
+| PRO 8 29 | COS-05 | anchor |
+| PRO 8 27 | COS-05 | confirmed |
+| PRO 8 30 | COS-05 | confirmed |
+| 1CO 1 24 | COS-05 | confirmed |
+| COL 1 15 | COS-05 | confirmed |
+| COL 1 17 | COS-05 | confirmed |
+| MIC 5 2 | COS-06 | confirmed |
+| MAT 2 3 | COS-06 | confirmed |
+| MAT 2 4 | COS-06 | confirmed |
+| MAT 2 5 | COS-06 | confirmed |
+| MAT 2 6 | COS-06 | confirmed |
+| JHN 7 42 | COS-06 | confirmed |
 
 ## The editions used
 

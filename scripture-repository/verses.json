@@ -56,7 +56,9 @@
    "COS-01",
    "COS-02",
    "COS-03",
-   "COS-04"
+   "COS-04",
+   "COS-05",
+   "COS-06"
   ],
   "sections": [
    {
@@ -228,6 +230,14 @@
    {
     "key": "COS-04",
     "label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation"
+   },
+   {
+    "key": "COS-05",
+    "label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses"
+   },
+   {
+    "key": "COS-06",
+    "label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars"
    }
   ],
   "double_check": {
@@ -9733,13 +9743,44 @@
      "status": "anchor",
      "matched_source": "kjv",
      "note": "Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked."
+    },
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "who of God is made unto us wisdom and righteousness, and sanctification, and redemption,"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Verse in the 1:24+30 seat. Draft Greek 1:30 token-exact vs Byzantine (biblehub).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God. … But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,"
+     }
     }
    ],
-   "verified": "2026-11-04",
+   "verified": "2026-11-11",
    "translations": {
     "kjv": {
      "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:",
      "source": "eBible eng-kjv2006 1CO01.htm (banked for reference; uncited prose reference follows the KJV voice)"
+    },
+    "gnv": {
+     "text": "But ye are of him in Christ Iesus, who of God is made vnto vs wisedome and righteousnesse, and sanctification, and redemption,",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    },
+    "greek_byz": {
+     "text": "Ἐξ αὐτοῦ δὲ ὑμεῖς ἐστε ἐν Χριστῷ Ἰησοῦ, ὃς ἐγενήθη σοφία ἡμῖν ἀπὸ Θεοῦ, δικαιοσύνη τε καὶ ἁγιασμὸς καὶ ἀπολύτρωσις,",
+     "source": "https://biblehub.com/text/1_corinthians/1-30.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/1"
     }
    }
   },
@@ -11875,19 +11916,44 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Group seat 1:15-17 (one blockquote). Draft Greek 15-17 vs Byzantine: token-ok with ellipsis over the 1:16b order-list.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     }
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
+     "text": "For by him were all things created, which are in heauen, and which are in earth, thinges visible and inuisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him,",
      "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_byz": {
+     "text": "ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα ἐν τοῖς οὐρανοῖς καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·",
+     "source": "https://biblehub.com/text/colossians/1-16.htm"
     }
    },
    "second_check": {
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/51/1"
+    },
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1"
     }
    }
   },
@@ -13119,6 +13185,640 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/58/7"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.22",
+   "ref": "PRO 8 22",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Group seat 8:22-25 (one NETS block = one replacement). 25-proverbs.pdf print p.629. Draft LXX row word-checked vs Rahlfs (100%) and Swete page; draft Geneva OT row dropped per seat shape.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "κύριος ἔκτισέν με ἀρχὴν ὁδῶν αὐτοῦ εἰς ἔργα αὐτοῦ, 23 πρὸ τοῦ αἰῶνος ἐθεμελίωσέν με ἐν ἀρχῇ, 24 πρὸ τοῦ τὴν γῆν ποιῆσαι καὶ πρὸ τοῦ τὰς ἀβύσσους ποιῆσαι, πρὸ τοῦ προελθεῖν τὰς πηγὰς τῶν ὑδάτων, 25 πρὸ τοῦ ὄρη ἑδρασθῆναι, πρὸ δὲ πάντων βουνῶν γεννᾷ με.",
+     "source": "https://el.wikisource.org/wiki/%CE%A0%CE%B1%CF%81%CE%BF%CE%B9%CE%BC%CE%AF%CE%B1%CE%B9_%28Rahlfs%29"
+    },
+    "greek_swete": {
+     "text": "wording confirmed at 8:25 (ἑδρασθῆναι) per page probe",
+     "source": "https://www.theancientbible.org/proverbs-lxx-8/"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.23",
+   "ref": "PRO 8 23",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 8:22-25 group seat (one blockquote = one replacement, recorded per verse).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.24",
+   "ref": "PRO 8 24",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 8:22-25 group seat (one blockquote = one replacement, recorded per verse).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.25",
+   "ref": "PRO 8 25",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 8:22-25 group seat (one blockquote = one replacement, recorded per verse).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.28",
+   "ref": "PRO 8 28",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Anchor: \"vv. 27-30\" referenced, not quoted.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "nets",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.29",
+   "ref": "PRO 8 29",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Anchor: \"vv. 27-30\" referenced, not quoted.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "nets",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.27",
+   "ref": "PRO 8 27",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Group seat 8:27 + 8:30 (draft quotes these two; ellipsis over 28-29). 25-proverbs.pdf print p.629. Draft LXX row word-checked vs Rahlfs (89%); Swete spells συνπαρήμην (variant recorded).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "ἡνίκα ἡτοίμαζεν τὸν οὐρανόν, συμπαρήμην αὐτῷ, καὶ ὅτε ἀφώριζεν τὸν ἑαυτοῦ θρόνον ἐπ’ ἀνέμων. 28 ἡνίκα ἰσχυρὰ ἐποίει τὰ ἄνω νέφη, καὶ ὡς ἀσφαλεῖς ἐτίθει πηγὰς τῆς ὑπ’ οὐρανὸν 29 καὶ ἰσχυρὰ ἐποίει τὰ θεμέλια τῆς γῆς, 30 ἤμην παρ’ αὐτῷ ἁρμόζουσα, ἐγὼ ἤμην ᾗ προσέχαιρεν. καθ’ ἡμέραν δὲ εὐφραινόμην ἐν προσώπῳ αὐτοῦ ἐν παντὶ καιρῷ,",
+     "source": "https://el.wikisource.org/wiki/%CE%A0%CE%B1%CF%81%CE%BF%CE%B9%CE%BC%CE%AF%CE%B1%CE%B9_%28Rahlfs%29"
+    },
+    "greek_swete": {
+     "text": "ἡνίκα ἡτοίμαζεν τὸν οὐρανόν, συνπαρήμην αὐτῴ, καὶ ὅτε ἀφώριζεν τὸν ἑαυτοῦ θρόνον ἐπʼ ἀνέμων· 28καὶ ὡς ἰσχυρὰ ἐποίει τὰ ἄνω νέφη, καὶ ὡς ἀσφαλεῖς ἐτίθει πηγὰς τῆς ὑπʼ οὐρανόν, 29καὶ ὡς ἰσχυρὰ ἐποίει τὰ θεμέλια τῆς γῆς, 30",
+     "source": "https://www.theancientbible.org/proverbs-lxx-8/"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "PRO.8.30",
+   "ref": "PRO 8 30",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 8:27+30 group seat.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "When he prepared the sky *(the heavens)*, I was present with him, and when he marked out his own throne on the winds. … I was beside him, fitting together; it is I who was the one in whom he took delight. And each day I was glad in his presence at every moment,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs/Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/25-proverbs-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.24",
+   "ref": "1CO 1 24",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "we preach Christ, the power of God, and the wisdom of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat = full 1:24 + 1:30 (draft quoted ellipsized). eBible + TRB agree word-for-word (normalized).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God. … But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    },
+    "greek_byz": {
+     "text": "αὐτοῖς δὲ τοῖς κλητοῖς, Ἰουδαίοις τε καὶ Ἕλλησιν, Χριστὸν Θεοῦ δύναμιν καὶ Θεοῦ σοφίαν.",
+     "source": "https://biblehub.com/text/1_corinthians/1-24.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/1"
+    }
+   }
+  },
+  {
+   "id": "COL.1.15",
+   "ref": "COL 1 15",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Group seat 1:15-17 (one blockquote). Draft Greek 15-17 vs Byzantine: token-ok with ellipsis over the 1:16b order-list.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who is the image of the inuisible God, the first begotten of euery creature.",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_byz": {
+     "text": "Ὅς ἐστιν εἰκὼν τοῦ Θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως,",
+     "source": "https://biblehub.com/text/colossians/1-15.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1"
+    }
+   }
+  },
+  {
+   "id": "COL.1.17",
+   "ref": "COL 1 17",
+   "uses": [
+    {
+     "section": "COS-05",
+     "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Group seat 1:15-17 (one blockquote). Draft Greek 15-17 vs Byzantine: token-ok with ellipsis over the 1:16b order-list.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee is before all things, and in him all things consist.",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_byz": {
+     "text": "Καὶ αὐτός ἐστιν πρὸ πάντων καὶ τὰ πάντα ἐν αὐτῷ συνέστηκεν,",
+     "source": "https://biblehub.com/text/colossians/1-17.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1"
+    }
+   }
+  },
+  {
+   "id": "MIC.5.2",
+   "ref": "MIC 5 2",
+   "uses": [
+    {
+     "section": "COS-06",
+     "section_label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS 32-twelve print p.798: Bethleem verse carries printed mark 2 (the 'Now a daughter...' verse sits unnumbered after the ch-5 head); wikisource-Rahlfs numbers it 5:1 (= Hebrew 5:2) - both numbers recorded. Draft Greek 'εἰς ἄρχοντα τοῦ Ἰσραήλ' vs Rahlfs 'ἐν τῷ Ισραηλ' noted (NETS prints 'a ruler in Israel', Rahlfs-faithful; coverage 96%). Draft Geneva OT row dropped per seat shape.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/32-twelve-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "Καὶ σύ, Βηθλεεμ οἶκος τοῦ Εφραθα, ὀλιγοστὸς εἶ τοῦ εἶναι ἐν χιλιάσιν Ιουδα· ἐκ σοῦ μοι ἐξελεύσεται τοῦ εἶναι εἰς ἄρχοντα ἐν τῷ Ισραηλ, καὶ αἱ ἔξοδοι αὐτοῦ ἀπ’ ἀρχῆς ἐξ ἡμερῶν αἰῶνος.",
+     "source": "https://el.wikisource.org/wiki/%CE%9C%CE%B9%CF%87%CE%B1%CE%AF%CE%B1%CF%82_%28Rahlfs%29"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS renders Rahlfs; draft-Greek vs Rahlfs-Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/32-twelve-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "MAT.2.3",
+   "ref": "MAT 2 3",
+   "uses": [
+    {
+     "section": "COS-06",
+     "section_label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Verse in the 2:3-6 group seat (one blockquote). eBible + TRB agree word-for-word.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "When King Herod heard this, he was troubled, and all Hierusalem with him.",
+     "source": "https://ebible.org/enggnv/MAT02.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/40/2"
+    }
+   }
+  },
+  {
+   "id": "MAT.2.4",
+   "ref": "MAT 2 4",
+   "uses": [
+    {
+     "section": "COS-06",
+     "section_label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Verse in the 2:3-6 group seat (one blockquote). eBible + TRB agree word-for-word.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And gathering together all the chiefe Priestes and Scribes of the people, hee asked of them, where Christ should be borne.",
+     "source": "https://ebible.org/enggnv/MAT02.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/40/2"
+    }
+   }
+  },
+  {
+   "id": "MAT.2.5",
+   "ref": "MAT 2 5",
+   "uses": [
+    {
+     "section": "COS-06",
+     "section_label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Verse in the 2:3-6 group seat (one blockquote). eBible + TRB agree word-for-word. Draft Greek εἶπον vs Byzantine εἶπαν (form variant, noted).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they saide vnto him, At Beth-leem in Iudea: for so it is written by the Prophet,",
+     "source": "https://ebible.org/enggnv/MAT02.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/40/2"
+    }
+   }
+  },
+  {
+   "id": "MAT.2.6",
+   "ref": "MAT 2 6",
+   "uses": [
+    {
+     "section": "COS-06",
+     "section_label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Verse in the 2:3-6 group seat (one blockquote). eBible + TRB agree word-for-word.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And thou Beth-leem in the lande of Iuda, art not the least among the Princes of Iuda: For out of thee shall come the gouernour that shall feede that my people Israel.",
+     "source": "https://ebible.org/enggnv/MAT02.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/40/2"
+    }
+   }
+  },
+  {
+   "id": "JHN.7.42",
+   "ref": "JHN 7 42",
+   "uses": [
+    {
+     "section": "COS-06",
+     "section_label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Saith not the Scripture that that Christ shall come of the seed of David, and out of the town of Beth-leem, where David was?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat verbatim per the edition: eBible AND TRB both print \"Saith not the Scripture that that Christ...\" (the 1599 text carries the doubled \"that\"); the draft wrote a single \"that\". Edition text stands VERBATIM; noted, not corrected.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Saith not the Scripture that that Christ shall come of the seed of David, and out of the town of Beth-leem, where David was?"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Saith not the Scripture that that Christ shall come of the seede of Dauid, and out of the towne of Beth-leem, where Dauid was?",
+     "source": "https://ebible.org/enggnv/JHN07.htm"
+    },
+    "greek_byz": {
+     "text": "οὐχ ἡ γραφὴ εἶπεν ὅτι ἐκ τοῦ σπέρματος Δαυὶδ, καὶ ἀπὸ Βηθλεὲμ τῆς κώμης ὅπου ἦν Δαυὶδ, ἔρχεται ὁ Χριστός;",
+     "source": "https://biblehub.com/text/john/7-42.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/7"
     }
    }
   }

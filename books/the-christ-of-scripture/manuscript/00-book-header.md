@@ -1,5 +1,4 @@
-# THE CHRIST OF SCRIPTURE
-## by Gideon Ephratah
+# THE CHRIST OF SCRIPTURE## by Gideon Ephratah
 
 *Working manuscript — posted to the repository at Gideon's word before the GitHub push.
 Text is seated per his standing rules: OT = NETS English (LES row where it differs significantly),
@@ -18,14 +17,9 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 6. Summary: The Earliest Posits of the Son
 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father
 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
-9. *A Question Arising: Proverbs 8 and Micah 5:2 (chat-framed; their wave)*
-3. POSIT #2 — Genesis 22: The Beloved Son Offered by the Father
-4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
-5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
-6. Summary: The Earliest Posits of the Son
-7. PSALM 2 (LXX): The Anointed Son Begotten by the Father
-8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
-9. *A Question Arising: Proverbs 8 and Micah 5:2 (chat-framed; their wave)*
+9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses (1 Cor 1; Col 1)
+10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars
+11. *A Question Now Properly Opened: the Angel of the LORD (next wave)*
 
 ---
 
