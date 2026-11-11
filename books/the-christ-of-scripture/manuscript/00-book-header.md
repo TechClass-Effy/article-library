@@ -36,3 +36,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 23. Audits of Foundations — #2-#5: the Earliest Prophetic Posits; Psalm 2 and Psalm 109 LXX; Proverbs 8 and Micah 5:2; the Angel of the LORD — and the Summary of the Audit
 
 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses (John 1:1, 2-3, 14, 18; Psalm 32:6 LXX; 1 John 1:1-2; Revelation 19:13)
+25. John 1 Completed — Every Verse Re-read (John 1:4-13, 15-18); the Whole-Counsel Cross-Witness Survey of the Son's Pre-existence (Philippians 2; Colossians 1; Hebrews 1; John 3, 6, 8, 14, 17; 1 Corinthians 8:6); the Corrected and Established Foundation

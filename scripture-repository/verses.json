@@ -72,7 +72,8 @@
    "COS-17",
    "COS-18",
    "COS-19",
-   "COS-20"
+   "COS-20",
+   "COS-21"
   ],
   "sections": [
    {
@@ -308,6 +309,10 @@
    {
     "key": "COS-20",
     "label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses"
+   },
+   {
+    "key": "COS-21",
+    "label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation"
    }
   ],
   "double_check": {
@@ -368,9 +373,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 20737,
+  "so_far_words": 25195,
   "cos_sofar": {
-   "waves": 9
+   "waves": 12
   }
  },
  "verses": [
@@ -3255,6 +3260,19 @@
       "version": "gnv",
       "text": "Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am."
      }
+    },
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2541,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -3266,6 +3284,10 @@
     "kjv": {
      "text": "Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.",
      "source": "https://ebible.org/eng-kjv2006/JHN08.htm"
+    },
+    "greek_byz": {
+     "text": "Εἴπεν αὐτοῖς ὁ Ἰησοῦς, Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι, ἐγώ εἰμι.",
+     "source": "https://biblehub.com/text/john/8-58.htm"
     }
    },
    "second_check": {
@@ -3280,7 +3302,7 @@
     "greek_biblehub": {
      "text": "Εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ 8:58 Greek NT: Nestle 1904 εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ 8:58 Greek NT: Westcott and Hort 1881 εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ 8:58 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ 8:58 Greek NT: RP Byzantine Majority Text 2005 ",
      "source": "https://biblehub.com/text/john/8-58.htm",
-     "result": "Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word)"
+     "result": "Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12)"
     },
     "trb": {
      "result": "agree (eBible=TRB, ratio 0.92)",
@@ -12227,6 +12249,19 @@
      "quotes": [],
      "status": "anchor",
      "note": "Summary of the Audit, item 1."
+    },
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2559,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -17400,6 +17435,1446 @@
      "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
      "source": "https://biblehub.com/text/revelation/19-13.htm",
      "result": "verified 2026-11-11, ratio 1.000"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.4",
+   "ref": "John 1:4",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2237,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "In it was life, and that life was the light of men. And that light shineth in the darkness, and the darkness comprehended it not."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft read \"shineth in the wilderness\" — seat prints the Geneva's \"shineth in the darknesse\" (modern orthography) per the translation-addition rule."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "In it was life, and that life was the light of men.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων.",
+     "source": "https://biblehub.com/text/john/1-4.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-4.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.5",
+   "ref": "John 1:5",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2237,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "In it was life, and that life was the light of men. And that light shineth in the darkness, and the darkness comprehended it not."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft read \"shineth in the wilderness\" — seat prints the Geneva's \"shineth in the darknesse\" (modern orthography) per the translation-addition rule."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And that light shineth in the darkenesse, and the darkenesse comprehended it not.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.",
+     "source": "https://biblehub.com/text/john/1-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-5.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.6",
+   "ref": "John 1:6",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2259,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "There was a man sent from God, whose name was John. This same came for a witness, to bear witness of that light, that all men through him might believe. He was not that light, but was sent to bear witness of that light."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "There was a man sent from God, whose name was Iohn.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἐγένετο ἄνθρωπος, ἀπεσταλμένος παρὰ Θεοῦ, ὄνομα αὐτῷ Ἰωάνης·",
+     "source": "https://biblehub.com/text/john/1-6.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-6.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.7",
+   "ref": "John 1:7",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2259,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "There was a man sent from God, whose name was John. This same came for a witness, to bear witness of that light, that all men through him might believe. He was not that light, but was sent to bear witness of that light."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "This same came for a witnesse, to beare witnesse of that light, that all men through him might beleeue.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "οὗτος ἦλθεν εἰς μαρτυρίαν, ἵνα μαρτυρήσῃ περὶ τοῦ φωτός, ἵνα πάντες πιστεύσωσιν δι’ αὐτοῦ.",
+     "source": "https://biblehub.com/text/john/1-7.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-7.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.8",
+   "ref": "John 1:8",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2259,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "There was a man sent from God, whose name was John. This same came for a witness, to bear witness of that light, that all men through him might believe. He was not that light, but was sent to bear witness of that light."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He was not that light, but was sent to beare witnesse of that light.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλ’ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός.",
+     "source": "https://biblehub.com/text/john/1-8.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-8.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.9",
+   "ref": "John 1:9",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2277,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This was that true light, which lighteth every man that cometh into the world. He was in the world, and the world was made by him: and the world knew him not. He came unto his own, and his own received him not."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "This was that true light, which lighteth euery man that commeth into the world.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἦν τὸ φῶς τὸ ἀληθινὸν, ὃ φωτίζει πάντα ἄνθρωπον, ἐρχόμενον εἰς τὸν κόσμον.",
+     "source": "https://biblehub.com/text/john/1-9.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-9.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.10",
+   "ref": "John 1:10",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2277,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This was that true light, which lighteth every man that cometh into the world. He was in the world, and the world was made by him: and the world knew him not. He came unto his own, and his own received him not."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He was in the world, and the worlde was made by him: and the worlde knewe him not.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος δι’ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω.",
+     "source": "https://biblehub.com/text/john/1-10.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-10.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.11",
+   "ref": "John 1:11",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2277,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This was that true light, which lighteth every man that cometh into the world. He was in the world, and the world was made by him: and the world knew him not. He came unto his own, and his own received him not."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He came vnto his owne, and his owne receiued him not.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "εἰς τὰ ἴδια ἦλθεν, καὶ οἱ ἴδιοι αὐτὸν οὐ παρέλαβον.",
+     "source": "https://biblehub.com/text/john/1-11.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-11.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.12",
+   "ref": "John 1:12",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2307,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But as many as received him, to them he gave prerogative to be the sons of God, even to them that believe in his Name. Which are born not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The 1599 article 'ye' modernized to 'the' in the seat ('nor of ye wil of man' -> 'nor of the will of man')."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But as many as receiued him, to them he gaue prerogatiue to be the sonnes of God, euen to them that beleeue in his Name.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "ὅσοι δὲ ἔλαβον αὐτόν, ἔδωκεν αὐτοῖς ἐξουσίαν τέκνα Θεοῦ γενέσθαι, τοῖς πιστεύουσιν εἰς τὸ ὄνομα αὐτοῦ,",
+     "source": "https://biblehub.com/text/john/1-12.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-12.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.13",
+   "ref": "John 1:13",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2307,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But as many as received him, to them he gave prerogative to be the sons of God, even to them that believe in his Name. Which are born not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The 1599 article 'ye' modernized to 'the' in the seat ('nor of ye wil of man' -> 'nor of the will of man')."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Which are borne not of blood, nor of the will of the flesh, nor of ye wil of man, but of God.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "οἳ οὐκ ἐξ αἱμάτων οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ’ ἐκ Θεοῦ ἐγεννήθησαν.",
+     "source": "https://biblehub.com/text/john/1-13.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.98)",
+     "source": "https://biblehub.com/text/john/1-13.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.15",
+   "ref": "John 1:15",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2327,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And that Word was made flesh, and dwelt among us, (and we saw the glory thereof, as the glory of the only begotten Son of the Father) full of grace and truth. John bare witness of him, and cried, saying, This was he of whom I said, He that cometh after me, was before me: for he was better than I. And of his fulness have all we received, and grace for grace. For the Law was given by Moses, but grace and truth came by Jesus Christ. No man hath seen God at any time: that only begotten Son which is in the bosom of the Father, he hath declared him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Iohn bare witnesse of him, and cryed, saying, This was he of whom I said, He that commeth after me, was before me: for he was better then I.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἰωάνης μαρτυρεῖ περὶ αὐτοῦ καὶ κέκραγεν λέγων Οὗτος ἦν ὃν εἶπον Ὁ ὀπίσω μου ἐρχόμενος ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν.",
+     "source": "https://biblehub.com/text/john/1-15.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/john/1-15.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.16",
+   "ref": "John 1:16",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2327,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And that Word was made flesh, and dwelt among us, (and we saw the glory thereof, as the glory of the only begotten Son of the Father) full of grace and truth. John bare witness of him, and cried, saying, This was he of whom I said, He that cometh after me, was before me: for he was better than I. And of his fulness have all we received, and grace for grace. For the Law was given by Moses, but grace and truth came by Jesus Christ. No man hath seen God at any time: that only begotten Son which is in the bosom of the Father, he hath declared him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And of his fulnesse haue all we receiued, and grace for grace.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "ὅτι ἐκ τοῦ πληρώματος αὐτοῦ ἡμεῖς πάντες ἐλάβομεν, καὶ χάριν ἀντὶ χάριτος·",
+     "source": "https://biblehub.com/text/john/1-16.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/john/1-16.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.17",
+   "ref": "John 1:17",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2327,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And that Word was made flesh, and dwelt among us, (and we saw the glory thereof, as the glory of the only begotten Son of the Father) full of grace and truth. John bare witness of him, and cried, saying, This was he of whom I said, He that cometh after me, was before me: for he was better than I. And of his fulness have all we received, and grace for grace. For the Law was given by Moses, but grace and truth came by Jesus Christ. No man hath seen God at any time: that only begotten Son which is in the bosom of the Father, he hath declared him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Lawe was giuen by Moses, but grace, and trueth came by Iesus Christ.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    },
+    "greek_nestle": {
+     "text": "ὅτι ὁ νόμος διὰ Μωϋσέως ἐδόθη, ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο.",
+     "source": "https://biblehub.com/text/john/1-17.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/john/1-17.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PHP.5",
+   "ref": "Philippians 2:5",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2365,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Let the same minde be in you that was euen in Christ Iesus,",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "greek_nestle": {
+     "text": "τοῦτο φρονεῖτε ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ,",
+     "source": "https://biblehub.com/text/philippians/2-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/philippians/2-5.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PHP.6",
+   "ref": "Philippians 2:6",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2365,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who being in ye forme of God, thought it no robberie to be equall with God:",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "greek_nestle": {
+     "text": "ὃς ἐν μορφῇ Θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα Θεῷ,",
+     "source": "https://biblehub.com/text/philippians/2-6.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/philippians/2-6.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PHP.7",
+   "ref": "Philippians 2:7",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2365,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But he made himself of no reputation, and tooke on him ye forme of a seruant, and was made like vnto men, and was founde in shape as a man.",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "greek_nestle": {
+     "text": "ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος",
+     "source": "https://biblehub.com/text/philippians/2-7.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/philippians/2-7.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PHP.8",
+   "ref": "Philippians 2:8",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2365,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He humbled himselfe, and became obedient vnto the death, euen the death of the Crosse.",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ.",
+     "source": "https://biblehub.com/text/philippians/2-8.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/philippians/2-8.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PHP.9",
+   "ref": "Philippians 2:9",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2365,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "greek_nestle": {
+     "text": "διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα,",
+     "source": "https://biblehub.com/text/philippians/2-9.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/philippians/2-9.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.13",
+   "ref": "Colossians 1:13",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2415,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son, In whom we have redemption through his blood, that is, the forgiveness of sins, Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist. And he is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all things he might have the preeminence. For it pleased the Father, that in him should all fulness dwell. And through peace made by that blood of that his cross, to reconcile to himself through him, through him, I say, all things, both which are in earth, and which are in heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who hath deliuered vs from the power of darkenesse, and hath translated vs into the kingdome of his deare Sonne,",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_nestle": {
+     "text": "ὃς ἐρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ Υἱοῦ τῆς ἀγάπης αὐτοῦ,",
+     "source": "https://biblehub.com/text/colossians/1-13.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/colossians/1-13.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.14",
+   "ref": "Colossians 1:14",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2415,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son, In whom we have redemption through his blood, that is, the forgiveness of sins, Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist. And he is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all things he might have the preeminence. For it pleased the Father, that in him should all fulness dwell. And through peace made by that blood of that his cross, to reconcile to himself through him, through him, I say, all things, both which are in earth, and which are in heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "In whome we haue redemption through his blood, that is, the forgiuenesse of sinnes,",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐν ᾧ ἔχομεν τὴν ἀπολύτρωσιν, τὴν ἄφεσιν τῶν ἁμαρτιῶν·",
+     "source": "https://biblehub.com/text/colossians/1-14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/colossians/1-14.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.18",
+   "ref": "Colossians 1:18",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2415,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son, In whom we have redemption through his blood, that is, the forgiveness of sins, Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist. And he is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all things he might have the preeminence. For it pleased the Father, that in him should all fulness dwell. And through peace made by that blood of that his cross, to reconcile to himself through him, through him, I say, all things, both which are in earth, and which are in heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶ αὐτός ἐστιν ἡ κεφαλὴ τοῦ σώματος, τῆς ἐκκλησίας· ὅς ἐστιν ἀρχή, πρωτότοκος ἐκ τῶν νεκρῶν, ἵνα γένηται ἐν πᾶσιν αὐτὸς πρωτεύων,",
+     "source": "https://biblehub.com/text/colossians/1-18.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/colossians/1-18.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.19",
+   "ref": "Colossians 1:19",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2415,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son, In whom we have redemption through his blood, that is, the forgiveness of sins, Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist. And he is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all things he might have the preeminence. For it pleased the Father, that in him should all fulness dwell. And through peace made by that blood of that his cross, to reconcile to himself through him, through him, I say, all things, both which are in earth, and which are in heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For it pleased the Father, that in him should all fulnesse dwell,",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_nestle": {
+     "text": "ὅτι ἐν αὐτῷ εὐδόκησεν πᾶν τὸ πλήρωμα κατοικῆσαι",
+     "source": "https://biblehub.com/text/colossians/1-19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/colossians/1-19.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.20",
+   "ref": "Colossians 1:20",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2415,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son, In whom we have redemption through his blood, that is, the forgiveness of sins, Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist. And he is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all things he might have the preeminence. For it pleased the Father, that in him should all fulness dwell. And through peace made by that blood of that his cross, to reconcile to himself through him, through him, I say, all things, both which are in earth, and which are in heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And through peace made by that blood of that his crosse, to reconcile to himselfe through him, through him, I say, all thinges, both which are in earth, and which are in heauen.",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶ δι’ αὐτοῦ ἀποκαταλλάξαι τὰ πάντα εἰς αὐτόν, εἰρηνοποιήσας διὰ τοῦ αἵματος τοῦ σταυροῦ αὐτοῦ, δι’ αὐτοῦ εἴτε τὰ ἐπὶ τῆς γῆς εἴτε τὰ ἐν τοῖς οὐρανοῖς.",
+     "source": "https://biblehub.com/text/colossians/1-20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/51/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/colossians/1-20.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.1",
+   "ref": "Hebrews 1:1",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2471,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "At sundry times and in divers manners God spake in the old time to our fathers by the Prophets: in these last days he hath spoken unto us by his Son, Whom he hath made heir of all things, by whom also he made the worlds, Who being the brightness of the glory, and the engraved form of his person, and bearing up all things by his mighty word, hath by himself purged our sins, and sitteth at the right hand of the Majesty in the highest places,"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "At sundry times and in diuers maners God spake in the olde time to our fathers by the Prophetes: in these last dayes hee hath spoken vnto vs by his Sonne,",
+     "source": "https://ebible.org/enggnv/HEB01.htm"
+    },
+    "greek_nestle": {
+     "text": "Πολυμερῶς καὶ πολυτρόπως πάλαι ὁ Θεὸς λαλήσας τοῖς πατράσιν ἐν τοῖς προφήταις",
+     "source": "https://biblehub.com/text/hebrews/1-1.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/58/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/hebrews/1-1.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.2",
+   "ref": "Hebrews 1:2",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2471,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "At sundry times and in divers manners God spake in the old time to our fathers by the Prophets: in these last days he hath spoken unto us by his Son, Whom he hath made heir of all things, by whom also he made the worlds, Who being the brightness of the glory, and the engraved form of his person, and bearing up all things by his mighty word, hath by himself purged our sins, and sitteth at the right hand of the Majesty in the highest places,"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Whom he hath made heire of al things, by whome also he made the worldes,",
+     "source": "https://ebible.org/enggnv/HEB01.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐπ’ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν Υἱῷ, ὃν ἔθηκεν κληρονόμον πάντων, δι’ οὗ καὶ ἐποίησεν τοὺς αἰῶνας·",
+     "source": "https://biblehub.com/text/hebrews/1-2.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/58/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/hebrews/1-2.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.3",
+   "ref": "Hebrews 1:3",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2471,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "At sundry times and in divers manners God spake in the old time to our fathers by the Prophets: in these last days he hath spoken unto us by his Son, Whom he hath made heir of all things, by whom also he made the worlds, Who being the brightness of the glory, and the engraved form of his person, and bearing up all things by his mighty word, hath by himself purged our sins, and sitteth at the right hand of the Majesty in the highest places,"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who being the brightnes of the glory, and the ingraued forme of his person, and bearing vp all things by his mightie worde, hath by himselfe purged our sinnes, and sitteth at the right hand of the Maiestie in the highest places,",
+     "source": "https://ebible.org/enggnv/HEB01.htm"
+    },
+    "greek_nestle": {
+     "text": "ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ, φέρων τε τὰ πάντα τῷ ῥήματι τῆς δυνάμεως αὐτοῦ, καθαρισμὸν τῶν ἁμαρτιῶν ποιησάμενος ἐκάθισεν ἐν δεξιᾷ τῆς Μεγαλωσύνης ἐν ὑψηλοῖς,",
+     "source": "https://biblehub.com/text/hebrews/1-3.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/58/1",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.99)",
+     "source": "https://biblehub.com/text/hebrews/1-3.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.17.5",
+   "ref": "John 17:5",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2511,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And now glorify me, thou Father, with thine own self, with the glory which I had with thee before the world was."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And nowe glorifie me, thou Father, with thine owne selfe, with the glorie which I had with thee before the world was.",
+     "source": "https://ebible.org/enggnv/JHN17.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶ νῦν δόξασόν με σύ, Πάτερ, παρὰ σεαυτῷ τῇ δόξῃ ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί.",
+     "source": "https://biblehub.com/text/john/17-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/17",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.97)",
+     "source": "https://biblehub.com/text/john/17-5.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.17.24",
+   "ref": "John 17:24",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2525,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Father, I will that they which thou hast given me, be with me even where I am, that they may behold that my glory which thou hast given me: for thou lovedst me before the foundation of the world."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft read KJV-voiced 'thou hast loved me'; seat prints the Geneva's 'thou louedst me' (modern orthography: lovedst)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Father, I will that they which thou hast giuen me, be with me euen where I am, that they may beholde that my glorie, which thou hast giuen mee: for thou louedst me before the foundation of the world.",
+     "source": "https://ebible.org/enggnv/JHN17.htm"
+    },
+    "greek_nestle": {
+     "text": "Πατήρ, ὃ δέδωκάς μοι, θέλω ἵνα ὅπου εἰμὶ ἐγὼ κἀκεῖνοι ὦσιν μετ’ ἐμοῦ, ἵνα θεωρῶσιν τὴν δόξαν τὴν ἐμὴν, ἣν δέδωκάς μοι ὅτι ἠγάπησάς με πρὸ καταβολῆς κόσμου.",
+     "source": "https://biblehub.com/text/john/17-24.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/17",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/john/17-24.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.3.13",
+   "ref": "John 3:13",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2579,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For no man ascendeth up to heaven, but he that hath descended from heaven, that Son of man which is in heaven."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.",
+     "source": "https://ebible.org/enggnv/JHN03.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ Υἱὸς τοῦ ἀνθρώπου.",
+     "source": "https://biblehub.com/text/john/3-13.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/3",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.97)",
+     "source": "https://biblehub.com/text/john/3-13.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.3.31",
+   "ref": "John 3:31",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2585,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "He that is come from an high, is above all..."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft read 'from on high'; seat prints the Geneva's 'from an hie' (modern: an high). Draft quotes only the opening clause of the verse."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Hee that is come from an hie, is aboue all: he that is of the earth, is of the earth, and speaketh of the earth: hee that is come from heauen, is aboue all.",
+     "source": "https://ebible.org/enggnv/JHN03.htm"
+    },
+    "greek_nestle": {
+     "text": "Ὁ ἄνωθεν ἐρχόμενος ἐπάνω πάντων ἐστίν· ὁ ὢν ἐκ τῆς γῆς ἐκ τῆς γῆς ἐστιν καὶ ἐκ τῆς γῆς λαλεῖ. ὁ ἐκ τοῦ οὐρανοῦ ἐρχόμενος ἐπάνω πάντων ἐστίν·",
+     "source": "https://biblehub.com/text/john/3-31.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/3",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.42)",
+     "source": "https://biblehub.com/text/john/3-31.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.42"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.6.38",
+   "ref": "John 6:38",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2601,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For I came down from heaven, not to do mine own will, but his will which hath sent me."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.",
+     "source": "https://ebible.org/enggnv/JHN06.htm"
+    },
+    "greek_nestle": {
+     "text": "ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με.",
+     "source": "https://biblehub.com/text/john/6-38.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/6",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.97)",
+     "source": "https://biblehub.com/text/john/6-38.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.6.62",
+   "ref": "John 6:62",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2607,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "What then if ye should see that Son of man ascend up where he was before?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "What then if yee should see that Sonne of man ascend vp where he was before?",
+     "source": "https://ebible.org/enggnv/JHN06.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐὰν οὖν θεωρῆτε τὸν Υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;",
+     "source": "https://biblehub.com/text/john/6-62.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/6",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
+     "source": "https://biblehub.com/text/john/6-62.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.14.28",
+   "ref": "John 14:28",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2644,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "note": "Synthesis item 17 quotes the fragment \"the Father is greater than I.\" — Geneva JHN14.28 verse text banked."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Ye haue heard howe I saide vnto you, I goe away, and will come vnto you. If ye loued me, ye would verely reioyce, because I said, I goe vnto the Father: for the Father is greater then I.",
+     "source": "https://ebible.org/enggnv/JHN14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/14",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "LUK.1.36",
+   "ref": "Luke 1:36",
+   "uses": [
+    {
+     "section": "COS-21",
+     "section_label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation",
+     "article_line": 2337,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And behold, thy cousin Elisabet, she hath also conceiued a sonne in her olde age: and this is her sixt moneth, which was called barren.",
+     "source": "https://ebible.org/enggnv/LUK01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://textusreceptusbibles.com/Geneva/42/1",
+     "checked": "2026-11-11"
     }
    },
    "note": ""

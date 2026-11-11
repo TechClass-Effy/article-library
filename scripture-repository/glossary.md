@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**210 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**244 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**381 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**415 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -540,8 +540,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 8:58 — CONFIRMED
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
-- *Checked 2026-11-11 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) · trb ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
 
 ### John 8:59 — ANCHOR
 - **Geneva 1599:** “Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.”
@@ -648,8 +648,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - *Note:* Existing banked row now also cited by THE CHRIST OF SCRIPTURE.
-- *Checked 2026-11-11 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) · trb ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
 
 ### Isaiah 45:6 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -1469,8 +1469,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - **Ruling — apply Geneva 1599 exact:** “Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) · trb ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
 
 ### Exodus 3:2 — CONFIRMED
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -2375,6 +2375,237 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Seat modernizes eBible "dipt" to "dipped" with gloss *(the Geneva prints \"dipt\")*; edition prints the name in caps emphasis (THE WORD OF GOD), seat lower-cases per draft — both recorded under the modern-spelling flag. Draft Greek (βεβαμμένον αἵματι, περιβεβλημένος...) verified vs BibleHub /text/revelation/19-13.htm ratio 1.000.
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000*
+
+## THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation
+
+### John 1:4 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “In it was life, and that life was the light of men.”
+- *Note:* Draft read "shineth in the wilderness" — seat prints the Geneva's "shineth in the darknesse" (modern orthography) per the translation-addition rule.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:5 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “And that light shineth in the darkenesse, and the darkenesse comprehended it not.”
+- *Note:* Draft read "shineth in the wilderness" — seat prints the Geneva's "shineth in the darknesse" (modern orthography) per the translation-addition rule.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:6 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “There was a man sent from God, whose name was Iohn.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:7 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “This same came for a witnesse, to beare witnesse of that light, that all men through him might beleeue.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:8 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “He was not that light, but was sent to beare witnesse of that light.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:9 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “This was that true light, which lighteth euery man that commeth into the world.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:10 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “He was in the world, and the worlde was made by him: and the worlde knewe him not.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:11 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “He came vnto his owne, and his owne receiued him not.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:12 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “But as many as receiued him, to them he gaue prerogatiue to be the sonnes of God, euen to them that beleeue in his Name.”
+- *Note:* The 1599 article 'ye' modernized to 'the' in the seat ('nor of ye wil of man' -> 'nor of the will of man').
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:13 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Which are borne not of blood, nor of the will of the flesh, nor of ye wil of man, but of God.”
+- *Note:* The 1599 article 'ye' modernized to 'the' in the seat ('nor of ye wil of man' -> 'nor of the will of man').
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.98*
+
+### John 1:15 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Iohn bare witnesse of him, and cryed, saying, This was he of whom I said, He that commeth after me, was before me: for he was better then I.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### John 1:16 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “And of his fulnesse haue all we receiued, and grace for grace.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### John 1:17 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “For the Lawe was giuen by Moses, but grace, and trueth came by Iesus Christ.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Luke 1:36 — ANCHOR
+*cited as: prose ref (anchor)*
+- **Geneva 1599:** “And behold, thy cousin Elisabet, she hath also conceiued a sonne in her olde age: and this is her sixt moneth, which was called barren.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Philippians 2:5 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Let the same minde be in you that was euen in Christ Iesus,”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### Philippians 2:6 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Who being in ye forme of God, thought it no robberie to be equall with God:”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### Philippians 2:7 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “But he made himself of no reputation, and tooke on him ye forme of a seruant, and was made like vnto men, and was founde in shape as a man.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### Philippians 2:8 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “He humbled himselfe, and became obedient vnto the death, euen the death of the Crosse.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### Philippians 2:9 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### Colossians 1:13 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Who hath deliuered vs from the power of darkenesse, and hath translated vs into the kingdome of his deare Sonne,”
+- *Note:* The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Colossians 1:14 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “In whome we haue redemption through his blood, that is, the forgiuenesse of sinnes,”
+- *Note:* The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Colossians 1:18 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.”
+- *Note:* The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Colossians 1:19 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “For it pleased the Father, that in him should all fulnesse dwell,”
+- *Note:* The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Colossians 1:20 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “And through peace made by that blood of that his crosse, to reconcile to himselfe through him, through him, I say, all thinges, both which are in earth, and which are in heauen.”
+- *Note:* The Geneva's v20 editorial doubling 'through him, I say,' was dropped in the draft; the seat prints the edition text verbatim (eBible and TRB both print the doubling; John 7:42 doubled-'that' precedent).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Hebrews 1:1 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “At sundry times and in diuers maners God spake in the olde time to our fathers by the Prophetes: in these last dayes hee hath spoken vnto vs by his Sonne,”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Hebrews 1:2 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Whom he hath made heire of al things, by whome also he made the worldes,”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### Hebrews 1:3 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Who being the brightnes of the glory, and the ingraued forme of his person, and bearing vp all things by his mightie worde, hath by himselfe purged our sinnes, and sitteth at the right hand of the Maiestie in the highest places,”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.99*
+
+### John 17:5 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “And nowe glorifie me, thou Father, with thine owne selfe, with the glorie which I had with thee before the world was.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97*
+
+### John 17:24 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Father, I will that they which thou hast giuen me, be with me euen where I am, that they may beholde that my glorie, which thou hast giuen mee: for thou louedst me before the foundation of the world.”
+- *Note:* Draft read KJV-voiced 'thou hast loved me'; seat prints the Geneva's 'thou louedst me' (modern orthography: lovedst).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### John 8:58 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
+- **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+
+### 1 Corinthians 8:6 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### John 3:13 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97*
+
+### John 3:31 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “Hee that is come from an hie, is aboue all: he that is of the earth, is of the earth, and speaketh of the earth: hee that is come from heauen, is aboue all.”
+- *Note:* Draft read 'from on high'; seat prints the Geneva's 'from an hie' (modern: an high). Draft quotes only the opening clause of the verse.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.42*
+
+### John 6:38 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97*
+
+### John 6:62 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
+- **Geneva 1599:** “What then if yee should see that Sonne of man ascend vp where he was before?”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96*
+
+### John 14:28 — ANCHOR
+*cited as: prose ref (anchor)*
+- **Geneva 1599:** “Ye haue heard howe I saide vnto you, I goe away, and will come vnto you. If ye loued me, ye would verely reioyce, because I said, I goe vnto the Father: for the Father is greater then I.”
+- *Note:* Synthesis item 17 quotes the fragment "the Father is greater than I." — Geneva JHN14.28 verse text banked.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -4190,7 +4421,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 3:16 | P1-Q8 | confirmed |
 | John 6:35 | P8 | confirmed |
 | John 8:12 | P8 | confirmed |
-| John 8:58 | P8, COS-01, COS-11 | anchor, confirmed |
+| John 8:58 | P8, COS-01, COS-11, COS-21 | anchor, confirmed |
 | John 8:59 | P8 | anchor |
 | John 10:9 | P8 | confirmed |
 | John 10:11 | P8 | confirmed |
@@ -4403,7 +4634,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 32:6 | COS-01, COS-20 | commentary, confirmed |
 | Mark 12:29 | COS-01, COS-18 | confirmed |
 | John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19 | anchor, confirmed |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19 | anchor, confirmed |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21 | anchor, confirmed |
 | John 20:17 | COS-01, COS-18 | confirmed |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
 | John 1:1 | COS-01, COS-20 | anchor, confirmed |
@@ -4518,6 +4749,40 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
 | Revelation 19:13 | COS-20 | confirmed |
+| John 1:4 | COS-21 | confirmed |
+| John 1:5 | COS-21 | confirmed |
+| John 1:6 | COS-21 | confirmed |
+| John 1:7 | COS-21 | confirmed |
+| John 1:8 | COS-21 | confirmed |
+| John 1:9 | COS-21 | confirmed |
+| John 1:10 | COS-21 | confirmed |
+| John 1:11 | COS-21 | confirmed |
+| John 1:12 | COS-21 | confirmed |
+| John 1:13 | COS-21 | confirmed |
+| John 1:15 | COS-21 | confirmed |
+| John 1:16 | COS-21 | confirmed |
+| John 1:17 | COS-21 | confirmed |
+| Philippians 2:5 | COS-21 | confirmed |
+| Philippians 2:6 | COS-21 | confirmed |
+| Philippians 2:7 | COS-21 | confirmed |
+| Philippians 2:8 | COS-21 | confirmed |
+| Philippians 2:9 | COS-21 | confirmed |
+| Colossians 1:13 | COS-21 | confirmed |
+| Colossians 1:14 | COS-21 | confirmed |
+| Colossians 1:18 | COS-21 | confirmed |
+| Colossians 1:19 | COS-21 | confirmed |
+| Colossians 1:20 | COS-21 | confirmed |
+| Hebrews 1:1 | COS-21 | confirmed |
+| Hebrews 1:2 | COS-21 | confirmed |
+| Hebrews 1:3 | COS-21 | confirmed |
+| John 17:5 | COS-21 | confirmed |
+| John 17:24 | COS-21 | confirmed |
+| John 3:13 | COS-21 | confirmed |
+| John 3:31 | COS-21 | confirmed (excerpt) |
+| John 6:38 | COS-21 | confirmed |
+| John 6:62 | COS-21 | confirmed |
+| John 14:28 | COS-21 | anchor |
+| Luke 1:36 | COS-21 | anchor |
 
 ## The editions used
 
