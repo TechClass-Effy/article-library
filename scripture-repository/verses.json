@@ -73,7 +73,8 @@
    "COS-18",
    "COS-19",
    "COS-20",
-   "COS-21"
+   "COS-21",
+   "COS-22"
   ],
   "sections": [
    {
@@ -313,6 +314,10 @@
    {
     "key": "COS-21",
     "label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation"
+   },
+   {
+    "key": "COS-22",
+    "label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis"
    }
   ],
   "double_check": {
@@ -373,9 +378,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 25195,
+  "so_far_words": 30008,
   "cos_sofar": {
-   "waves": 12
+   "waves": 13
   }
  },
  "verses": [
@@ -2005,6 +2010,19 @@
      "status": "confirmed",
      "matched_source": "brenton",
      "note": ""
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2802,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "because many dogs encircled me, a gathering of evildoers surrounded me. They gouged my hands and feet;"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:16 LXX = MT 22:16 = NETS print 17). NETS prints “They gouged my hands and feet”; the draft observation explains the ὤρυξαν wording (dig/pierce/bore) — both recorded, observation prose kept verbatim."
     }
    ],
    "verified": "2026-11-02",
@@ -2021,6 +2039,10 @@
     "kjv": {
      "text": "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.",
      "source": "https://ebible.org/eng-kjv2006/PSA22.htm"
+    },
+    "nets": {
+     "text": "because many dogs encircled me, a gathering of evildoers surrounded me. They gouged my hands and feet;",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
     }
    },
    "second_check": {
@@ -2035,6 +2057,11 @@
     "brenton": {
      "result": "agree",
      "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    },
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
     }
    }
   },
@@ -2380,6 +2407,19 @@
      "quotes": [],
      "status": "anchor",
      "note": "ANCHOR: the Suffering-Servant passage; seat waits for the Suffering-Servant wave."
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2934,
+     "cited_as": "Isaiah 52:13-15 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
     }
    ],
    "verified": "2026-11-02",
@@ -2395,6 +2435,10 @@
     "kjv": {
      "text": "¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.",
      "source": "https://ebible.org/eng-kjv2006/ISA52.htm"
+    },
+    "nets": {
+     "text": "See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
     }
    },
    "second_check": {
@@ -2409,8 +2453,14 @@
     "brenton": {
      "result": "agree",
      "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    },
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-52/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
     }
-   }
+   },
+   "note": ""
   },
   {
    "id": "ISA.53.5",
@@ -2428,6 +2478,19 @@
      "status": "confirmed",
      "matched_source": "brenton",
      "note": ""
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3032,
+     "cited_as": "Isaiah 53:4-6 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
     }
    ],
    "verified": "2026-11-02",
@@ -2443,6 +2506,10 @@
     "kjv": {
      "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.",
      "source": "https://ebible.org/eng-kjv2006/ISA53.htm"
+    },
+    "nets": {
+     "text": "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
     }
    },
    "second_check": {
@@ -2457,6 +2524,11 @@
     "brenton": {
      "result": "agree",
      "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    },
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.93 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.93 (group seat)"
     }
    }
   },
@@ -3944,6 +4016,19 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3051,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who his own self bare our sins in his body on the tree ... by whose stripes ye were healed. For ye were as sheep going astray"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
     }
    ],
    "verified": "2026-11-02",
@@ -3955,6 +4040,10 @@
     "kjv": {
      "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.",
      "source": "https://ebible.org/eng-kjv2006/1PE02.htm"
+    },
+    "greek_nestle": {
+     "text": "ὃς τὰς ἁμαρτίας ἡμῶν αὐτὸς ἀνήνεγκεν ἐν τῷ σώματι αὐτοῦ ἐπὶ τὸ ξύλον, ἵνα ταῖς ἁμαρτίαις ἀπογενόμενοι τῇ δικαιοσύνῃ ζήσωμεν· Οὗ τῷ μώλωπι ἰάθητε.",
+     "source": "https://biblehub.com/text/1_peter/2-24.htm"
     }
    },
    "second_check": {
@@ -3965,6 +4054,11 @@
     "kjv": {
      "result": "agree",
      "url": "https://biblehub.com/kjv/"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/1_peter/2-24.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)"
     }
    }
   },
@@ -13128,6 +13222,17 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #2 Claim C: reference bullet (\"the text plainly says what I quoted\"); the Gen 49:10 seat text is banked (NETS)."
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2959,
+     "cited_as": "prose/named ref",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Referenced in the Isa 52:13 observation (4) (\"cf. Gen 49:10; Ps 21:27-28\" — the nations in view)."
     }
    ],
    "verified": "2026-11-11",
@@ -16761,6 +16866,19 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: Geneva verbatim (modernized) \"Thou art my Son: this day have I begotten thee\" (bullet line 1756) and the long quote at line 1871 \"in that he raised up Jesus, even as it is written in the second Psalm, Thou art my Son: this day have I begotten thee.\" — draft voiced KJV (\"today\", comma after Son)."
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3261,
+     "cited_as": "prose/named ref",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "\"today have I begotten Thee\""
+     ],
+     "status": "confirm",
+     "matched_source": "",
+     "note": "Synthesis bullet 8 quotes the fragment \"today have I begotten Thee\" in the resurrection context (Acts 13:33)."
     }
    ],
    "verified": "2026-11-11",
@@ -16791,11 +16909,40 @@
      "quotes": [],
      "status": "anchor",
      "note": "ANCHOR: the draft cites Psalm 22 (LXX 21 = MT 22) for the suffering Psalms (1518, 1663). Seat waits for the Suffering-Servant wave."
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2712,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "God, my God, attend to me; why did you forsake me? Far away from my deliverance are the words of my transgressions."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:1 LXX = MT 22:1 = NETS print 2). The draft block opened with the Greek superscription; NETS prints it as the Psalm title line, “Regarding completion. Over the support at dawn. A Psalm. Pertaining to Dauid.”, not as verse 1."
     }
    ],
    "verified": "2026-11-11",
-   "translations": {},
-   "second_check": {}
+   "translations": {
+    "nets": {
+     "text": "God, my God, attend to me; why did you forsake me? Far away from my deliverance are the words of my transgressions.",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "To him that excelleth upon Aijeleth Hash-shahar. A Psalm of David. My God, my God, why hast thou forsaken me, and art so far from mine health, and from the words of my roaring?",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.81 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 0.81 (group seat)"
+    }
+   },
+   "note": "ANCHOR filled in Wave 13: NETS Psalm 21(22) verse seated; the COS-16 anchor note fulfilled."
   },
   {
    "id": "1CO.1.18",
@@ -17155,6 +17302,17 @@
       "text": "against thine holy Son Jesus, whom thou haddest anointed",
       "reason": "Translation-addition rule: NT seat prints Geneva verbatim (modernized spelling); the KJV-voiced draft quote is not the specified translation."
      }
+    },
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2945,
+     "cited_as": "prose/named ref",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "The Suffering-Servant wave seats Acts 4:27 for the παῖς observation (see row ACT.4.27); this range row keeps the wave-10 audit use."
     }
    ],
    "verified": "2026-11-11",
@@ -18874,6 +19032,2604 @@
     "gnv": {
      "result": "agree (eBible=TRB ratio 1.00)",
      "url": "https://textusreceptusbibles.com/Geneva/42/1",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.2.22",
+   "ref": "1 Peter 2:22",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3154,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who did no sin, neither was there guile found in his mouth."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who did no sinne, neither was there guile found in his mouth.",
+     "source": "https://ebible.org/enggnv/1PE02.htm"
+    },
+    "greek_nestle": {
+     "text": "Ὃς ἁμαρτίαν οὐκ ἐποίησεν οὐδὲ εὑρέθη δόλος ἐν τῷ στόματι αὐτοῦ·",
+     "source": "https://biblehub.com/text/1_peter/2-22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/60/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/1_peter/2-22.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.2.25",
+   "ref": "1 Peter 2:25",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3051,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who his own self bare our sins in his body on the tree ... by whose stripes ye were healed. For ye were as sheep going astray"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For ye were as sheepe going astray: but are nowe returned vnto the shepheard and Bishop of your soules.",
+     "source": "https://ebible.org/enggnv/1PE02.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἦτε γὰρ ὡς πρόβατα πλανώμενοι, ἀλλὰ ἐπεστράφητε νῦν ἐπὶ τὸν Ποιμένα καὶ Ἐπίσκοπον τῶν ψυχῶν ὑμῶν.",
+     "source": "https://biblehub.com/text/1_peter/2-25.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/60/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/1_peter/2-25.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.4.27",
+   "ref": "Acts 4:27",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2949,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For doubtless against thine holy Son Jesus, whom thou hadst anointed, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselves together."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,",
+     "source": "https://ebible.org/enggnv/ACT04.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/4",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.8.32",
+   "ref": "Acts 8:32",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3093,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Now the place of the Scripture which he read, was this, He was led as a sheep to the slaughter: and like a lamb dumb before his shearer, so opened he not his mouth ... Then Philip opened his mouth, and began at the same Scripture, and preached unto him Jesus."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Nowe the place of the Scripture which he read, was this, Hee was lead as a sheepe to the slaughter: and like a lambe domme before his shearer, so opened he not his mouth.",
+     "source": "https://ebible.org/enggnv/ACT08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/8",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.8.33",
+   "ref": "Acts 8:33",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3093,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Now the place of the Scripture which he read, was this, He was led as a sheep to the slaughter: and like a lamb dumb before his shearer, so opened he not his mouth ... Then Philip opened his mouth, and began at the same Scripture, and preached unto him Jesus.",
+      "In his humilitie his iudgement hath bene exalted: but who shall declare his generation? for his life is taken from the earth."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Two seats cite this verse: the Acts 8:32-35 cross-witness and the Isaiah 53:8 section, where the draft quoted the Greek only — the Geneva 8:33 seat was composed from the edition (eBible=TRB verified)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "In his humilitie his iudgement hath bene exalted: but who shall declare his generation? for his life is taken from the earth.",
+     "source": "https://ebible.org/enggnv/ACT08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/8",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.8.35",
+   "ref": "Acts 8:35",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3093,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Now the place of the Scripture which he read, was this, He was led as a sheep to the slaughter: and like a lamb dumb before his shearer, so opened he not his mouth ... Then Philip opened his mouth, and began at the same Scripture, and preached unto him Jesus."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then Philip opened his mouth, and began at the same Scripture, and preached vnto him Iesus.",
+     "source": "https://ebible.org/enggnv/ACT08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/8",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.2.11",
+   "ref": "Hebrews 2:11",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2883,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For he that sanctifieth, and they which are sanctified, are all of one: wherefore he is not ashamed to call them brethren, Saying, I will declare thy Name unto my brethren: in the midst of the Church will I sing praises to thee."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For he that sanctifieth, and they which are sanctified, are all of one: wherefore he is not ashamed to call them brethren,",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/2",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.2.12",
+   "ref": "Hebrews 2:12",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2883,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For he that sanctifieth, and they which are sanctified, are all of one: wherefore he is not ashamed to call them brethren, Saying, I will declare thy Name unto my brethren: in the midst of the Church will I sing praises to thee."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Saying, I will declare thy Name vnto my brethren: in the middes of the Church will I sing praises to thee.",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/2",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.9.28",
+   "ref": "Hebrews 9:28",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3206,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "So Christ was once offered to take away the sins of many"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "So Christ was once offered to take away the sinnes of many, and vnto them that looke for him, shall he appeare the second time without sinne vnto saluation.",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/9",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.12.37",
+   "ref": "John 12:37",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2991,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And though he had done so many miracles before them, yet believed they not on him, That the saying of Esaias the Prophet might be fulfilled, that he said, Lord, who believed our report? and to whom is the arm of the Lord revealed?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block wording diverged from the Geneva ('spake,'→'said,'); seat prints the Geneva wording at the differing spots."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And though he had done so many miracles before them, yet beleeued they not on him,",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.12.38",
+   "ref": "John 12:38",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2991,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And though he had done so many miracles before them, yet believed they not on him, That the saying of Esaias the Prophet might be fulfilled, that he said, Lord, who believed our report? and to whom is the arm of the Lord revealed?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block wording diverged from the Geneva ('spake,'→'said,'); seat prints the Geneva wording at the differing spots."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "That the saying of Esaias the Prophete might be fulfilled, that he sayd, Lord, who beleeued our report? and to whome is the arme of the Lord reueiled?",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.19.23",
+   "ref": "John 19:23",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2855,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Then the soldiers when they had crucified Jesus, took his garments, (and made four parts, to every soldier a part) and his coat: and the coat was without seam, woven from the top throughout. Therefore they said one to another, Let us not divide it, but cast lots for it, whose it shall be. This was that the Scripture might be fulfilled, which saith, They parted my garments among them, and on my coat did cast lots. So the souldiers did these things in deede."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block wording diverged from the Geneva (''→'So'; ''→'the'; ''→'souldiers'; ''→'did'; ''→'these'; ''→'things'); seat prints the Geneva wording at the differing spots."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then the souldiers, when they had crucified Iesus, tooke his garments (and made foure partes, to euery souldier a part) and his coat: and the coat was without seame wouen from the toppe throughout.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.19.24",
+   "ref": "John 19:24",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2855,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Then the soldiers when they had crucified Jesus, took his garments, (and made four parts, to every soldier a part) and his coat: and the coat was without seam, woven from the top throughout. Therefore they said one to another, Let us not divide it, but cast lots for it, whose it shall be. This was that the Scripture might be fulfilled, which saith, They parted my garments among them, and on my coat did cast lots. So the souldiers did these things in deede."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block wording diverged from the Geneva (''→'So'; ''→'the'; ''→'souldiers'; ''→'did'; ''→'these'; ''→'things'); seat prints the Geneva wording at the differing spots."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Therefore they sayde one to another, Let vs not deuide it, but cast lots for it, whose it shall be. This was that the Scripture might be fulfilled, which sayth, They parted my garments among them, and on my coate did cast lots. So the souldiers did these things in deede.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.19.28",
+   "ref": "John 19:28",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2789,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "After, when Jesus knew that all things were performed, that the Scripture might be fulfilled, he said, I thirst."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "After, when Iesus knew that all things were performed, that the Scripture might be fulfilled, he said, I thirst.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.20.25",
+   "ref": "John 20:25",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2829,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Except I see in his hands the print of the nails ... I will not believe ... he said to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.",
+     "source": "https://ebible.org/enggnv/JHN20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/20",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.20.26",
+   "ref": "John 20:26",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2829,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Except I see in his hands the print of the nails ... I will not believe ... he said to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And eight dayes after, againe his disciples were within, and Thomas with them. Then came Iesus, when the doores were shut, and stood in the middes, and said, Peace be vnto you.",
+     "source": "https://ebible.org/enggnv/JHN20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/20",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.20.27",
+   "ref": "John 20:27",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2829,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Except I see in his hands the print of the nails ... I will not believe ... he said to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "After saide he to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side, and be not faithlesse, but faithfull.",
+     "source": "https://ebible.org/enggnv/JHN20.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/20",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "LUK.22.37",
+   "ref": "Luke 22:37",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3216,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For I say unto you, That yet the same which is written, must be performed in me, Even with the wicked was he numbered: for doubtless those things which are written of me, have an end."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For I say vnto you, That yet the same which is written, must be perfourmed in me, Euen with the wicked was he nombred: for doubtlesse those things which are written of me, haue an ende.",
+     "source": "https://ebible.org/enggnv/LUK22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/42/22",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "LUK.24.39",
+   "ref": "Luke 24:39",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2823,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Behold mine hands and my feet: for it is I myself: handle me, and see: for a spirit hath not flesh and bones, as ye see me have. And when he had thus spoken, he showed them his hands and feet."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Beholde mine handes and my feete: for it is I my selfe: handle me, and see: for a spirit hath not flesh and bones, as ye see me haue.",
+     "source": "https://ebible.org/enggnv/LUK24.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/42/24",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "LUK.24.40",
+   "ref": "Luke 24:40",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2823,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Behold mine hands and my feet: for it is I myself: handle me, and see: for a spirit hath not flesh and bones, as ye see me have. And when he had thus spoken, he showed them his hands and feet."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when he had thus spoken, he shewed them his hands and feete.",
+     "source": "https://ebible.org/enggnv/LUK24.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/42/24",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.12",
+   "ref": "Matthew 27:12",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3107,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And when he was accused of the chief Priests and Elders, he answered nothing ... But he answered him not to one word, in so much that the governor marveled greatly."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when he was accused of the chiefe Priestes, and Elders, he answered nothing.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.14",
+   "ref": "Matthew 27:14",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3107,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And when he was accused of the chief Priests and Elders, he answered nothing ... But he answered him not to one word, in so much that the governor marveled greatly."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But he answered him not to one worde, in so much that the gouernour marueiled greatly.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.39",
+   "ref": "Matthew 27:39",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2763,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And they that passed by, reviled him, wagging their heads ... Likewise also the high Priests mocking him, with the Scribes and Elders, and Pharises, said, He saved others, but he cannot save ... He trusted in God, let him deliver him now, if he will have him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they that passed by, reuiled him, wagging their heades,",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.40",
+   "ref": "Matthew 27:40",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2763,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And they that passed by, reviled him, wagging their heads ... Likewise also the high Priests mocking him, with the Scribes and Elders, and Pharises, said, He saved others, but he cannot save ... He trusted in God, let him deliver him now, if he will have him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And saying, Thou that destroyest ye Temple, and buildest it in three dayes, saue thy selfe: if thou be ye Sonne of God, come downe from ye crosse.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.41",
+   "ref": "Matthew 27:41",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2763,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And they that passed by, reviled him, wagging their heads ... Likewise also the high Priests mocking him, with the Scribes and Elders, and Pharises, said, He saved others, but he cannot save ... He trusted in God, let him deliver him now, if he will have him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Likewise also the hie Priests mocking him, with the Scribes, and Elders, and Pharises, said,",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.42",
+   "ref": "Matthew 27:42",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2763,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And they that passed by, reviled him, wagging their heads ... Likewise also the high Priests mocking him, with the Scribes and Elders, and Pharises, said, He saved others, but he cannot save ... He trusted in God, let him deliver him now, if he will have him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He saued others, but he cannot saue him selfe: if he be ye King of Israel, let him now come downe from ye crosse, and we will beleeue in him.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.43",
+   "ref": "Matthew 27:43",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2763,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And they that passed by, reviled him, wagging their heads ... Likewise also the high Priests mocking him, with the Scribes and Elders, and Pharises, said, He saved others, but he cannot save ... He trusted in God, let him deliver him now, if he will have him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He trusted in God, let him deliuer him nowe, if he will haue him: for he saide, I am the Sonne of God.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.46",
+   "ref": "Matthew 27:46",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2725,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lamasabachthani? that is, My God, my God, why hast thou forsaken me?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft Aramaic reworded to the 1599 Geneva form: lama sabachthani(\\??)→lamasabachthani\\1"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And about ye ninth houre Iesus cryed with a loud voyce, saying, Eli, Eli, lamasabachthani? that is, My God, my God, why hast thou forsaken me?",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.57",
+   "ref": "Matthew 27:57",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3164,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And when the even was come, there came a rich man of Arimathea, named Joseph ... He went to Pilate, and asked the body of Jesus ... and put it in his new tomb"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when the euen was come, there came a riche man of Arimathea, named Ioseph, who had also himselfe bene Iesus disciple.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.58",
+   "ref": "Matthew 27:58",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3164,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And when the even was come, there came a rich man of Arimathea, named Joseph ... He went to Pilate, and asked the body of Jesus ... and put it in his new tomb"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He went to Pilate, and asked ye body of Iesus. Then Pilate commanded ye body to be deliuered.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.27.60",
+   "ref": "Matthew 27:60",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3164,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And when the even was come, there came a rich man of Arimathea, named Joseph ... He went to Pilate, and asked the body of Jesus ... and put it in his new tomb"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And put it in his new tombe, which he had hewen out in a rocke, and rolled a great stone to the doore of the sepulchre, and departed.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.8.16",
+   "ref": "Matthew 8:16",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3045,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "... and he healed all that were sick, That it might be fulfilled, which was spoken by Esaias the Prophet, saying, He took our infirmities, and bare our sicknesses."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "When the Euen was come, they brought vnto him many that were possessed with deuils: and he cast out the spirits with his worde, and healed all that were sicke,",
+     "source": "https://ebible.org/enggnv/MAT08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/8",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.8.17",
+   "ref": "Matthew 8:17",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3045,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "... and he healed all that were sick, That it might be fulfilled, which was spoken by Esaias the Prophet, saying, He took our infirmities, and bare our sicknesses."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "That it might be fulfilled, which was spoken by Esaias the Prophet, saying, He tooke our infirmities, and bare our sickenesses.",
+     "source": "https://ebible.org/enggnv/MAT08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/8",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.15.34",
+   "ref": "Mark 15:34",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2731,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lamma-sabachthani? which is by interpretation, My God, my God, why hast thou forsaken me?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft Aramaic reworded to the 1599 Geneva form: lamasabachthani(\\??)→lamma-sabachthani\\1"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And at the ninth houre Iesus cryed with a loude voyce, saying, Eloi, Eloi, lamma-sabachthani? which is by interpretation, My God, my God, why hast thou forsaken me?",
+     "source": "https://ebible.org/enggnv/MRK15.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/15",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.10.16",
+   "ref": "Romans 10:16",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2997,
+     "cited_as": "cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But they have not all obeyed the Gospel: for Esaias saith, Lord, who hath believed our report?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But they haue not all obeyed ye Gospel: for Esaias saith, Lord, who hath beleeued our report?",
+     "source": "https://ebible.org/enggnv/ROM10.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/10",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.15.20",
+   "ref": "Romans 15:20",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2969,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "... But as it is written, To whom he was not spoken of, they shall see him, and they that heard not, shall understand him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Yea, so I enforced my selfe to preach the Gospel, not where Christ was named, lest I should haue built on another mans foundation.",
+     "source": "https://ebible.org/enggnv/ROM15.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/15",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.15.21",
+   "ref": "Romans 15:21",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2969,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "... But as it is written, To whom he was not spoken of, they shall see him, and they that heard not, shall understand him."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But as it is written, To whome hee was not spoken of, they shall see him, and they that heard not, shall vnderstand him.",
+     "source": "https://ebible.org/enggnv/ROM15.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/15",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.4.25",
+   "ref": "Romans 4:25",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3073,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who was delivered to death for our sins"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who was deliuered to death for our sinnes, and is risen againe for our iustification.",
+     "source": "https://ebible.org/enggnv/ROM04.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/4",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.5.18",
+   "ref": "Romans 5:18",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3196,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "... by the justifying of one, the benefit abounded toward all men to the justification of life. For as by one man's disobedience many were made sinners, so by that obedience of that one shall many also be made righteous."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Likewise then as by the offence of one, the fault came on all men to condemnation, so by the iustifying of one, the benefite abounded toward all men to the iustification of life.",
+     "source": "https://ebible.org/enggnv/ROM05.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/5",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.5.19",
+   "ref": "Romans 5:19",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3196,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "... by the justifying of one, the benefit abounded toward all men to the justification of life. For as by one man's disobedience many were made sinners, so by that obedience of that one shall many also be made righteous."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For as by one mans disobedience many were made sinners, so by that obedience of that one shall many also be made righteous.",
+     "source": "https://ebible.org/enggnv/ROM05.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/5",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.8.32",
+   "ref": "Romans 8:32",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3067,
+     "cited_as": "cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Who spared not his own Son, but gave him for us all"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who spared not his owne Sonne, but gaue him for vs all to death, how shall he not with him giue vs all things also?",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "checked": "2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.6",
+   "ref": "Psalm 22:6",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2750,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:6 LXX = MT 22:6 = NETS print 7)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,”",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "But I am a worm, and not a man: a shame of men, and the contempt of the people. All they that see me, have me in derision: they make a mow and nod the head, saying, He trusted in the Lord, let him deliver him: let him save him, seeing he loveth him.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.97 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 0.97 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.7",
+   "ref": "Psalm 22:7",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2750,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:7 LXX = MT 22:7 = NETS print 8)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,”",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "But I am a worm, and not a man: a shame of men, and the contempt of the people. All they that see me, have me in derision: they make a mow and nod the head, saying, He trusted in the Lord, let him deliver him: let him save him, seeing he loveth him.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.97 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 0.97 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.8",
+   "ref": "Psalm 22:8",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2750,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:8 LXX = MT 22:8 = NETS print 9)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,”",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "But I am a worm, and not a man: a shame of men, and the contempt of the people. All they that see me, have me in derision: they make a mow and nod the head, saying, He trusted in the Lord, let him deliver him: let him save him, seeing he loveth him.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.97 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 0.97 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.14",
+   "ref": "Psalm 22:14",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2776,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Like water I was poured out, and all my bones were scattered; my heart became like wax melting within my belly; my strength was dried up like a potsherd, and my tongue is stuck to my throat, and to death’s dust you brought me down,"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:14 LXX = MT 22:14 = NETS print 15)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Like water I was poured out, and all my bones were scattered; my heart became like wax melting within my belly; my strength was dried up like a potsherd, and my tongue is stuck to my throat, and to death’s dust you brought me down,",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "I am like water poured out, and all my bones are out of joint: mine heart is like wax: it is molten in the midst of my bowels. My strength is dried up like a potsherd, and my tongue cleaveth to my jaws, and thou hast brought me into the dust of death.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.97 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 0.97 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.15",
+   "ref": "Psalm 22:15",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2776,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Like water I was poured out, and all my bones were scattered; my heart became like wax melting within my belly; my strength was dried up like a potsherd, and my tongue is stuck to my throat, and to death’s dust you brought me down,"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:15 LXX = MT 22:15 = NETS print 16)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Like water I was poured out, and all my bones were scattered; my heart became like wax melting within my belly; my strength was dried up like a potsherd, and my tongue is stuck to my throat, and to death’s dust you brought me down,",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "I am like water poured out, and all my bones are out of joint: mine heart is like wax: it is molten in the midst of my bowels. My strength is dried up like a potsherd, and my tongue cleaveth to my jaws, and thou hast brought me into the dust of death.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.97 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 0.97 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.18",
+   "ref": "Psalm 22:18",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2842,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "they divided my clothes among themselves, and for my clothing they cast lots."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:18 LXX = MT 22:18 = NETS print 19)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "they divided my clothes among themselves, and for my clothing they cast lots.",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "They part my garments among them, and cast lots upon my vesture.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.22",
+   "ref": "Psalm 22:22",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2870,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I will tell of your name to my kindred; in the midst of an assembly I will sing a hymn to you:"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:22 LXX = MT 22:22 = NETS print 23)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "I will tell of your name to my kindred; in the midst of an assembly I will sing a hymn to you:",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "I will declare thy Name unto my brethren: in the midst of the Congregation will I praise thee.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.27",
+   "ref": "Psalm 22:27",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2896,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "All the ends of the earth shall remember and turn to the Lord, and all the paternal families of the nations shall do obeisance *(worship)* before him, because kingship is the Lord’s, and it is he who is master over the nations."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:27 LXX = MT 22:27 = NETS print 28). Gloss *(worship)* added after “do obeisance” per VERBATIM + GLOSSES."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "All the ends of the earth shall remember and turn to the Lord, and all the paternal families of the nations shall do obeisance before him, because kingship is the Lord’s, and it is he who is master over the nations.",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "All the ends of the world shall remember themselves, and turn to the Lord: and all the kindreds of the nations shall worship before thee. For the kingdom is the Lord's, and he ruleth among the nations.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.22.28",
+   "ref": "Psalm 22:28",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2896,
+     "cited_as": "Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "All the ends of the earth shall remember and turn to the Lord, and all the paternal families of the nations shall do obeisance *(worship)* before him, because kingship is the Lord’s, and it is he who is master over the nations."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:28 LXX = MT 22:28 = NETS print 29)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "All the ends of the earth shall remember and turn to the Lord, and all the paternal families of the nations shall do obeisance before him, because kingship is the Lord’s, and it is he who is master over the nations.",
+     "source": "scraped NETS PDF master 24-ps.pdf, print Psalm 21(22) (wave-13 page-dump parse of 24-ps.pdf)"
+    },
+    "gnv": {
+     "text": "All the ends of the world shall remember themselves, and turn to the Lord: and all the kindreds of the nations shall worship before thee. For the kingdom is the Lord's, and he ruleth among the nations.",
+     "source": "https://ebible.org/enggnv/PSA022.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/psalms-lxx-21/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.52.14",
+   "ref": "Isaiah 52:14",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2934,
+     "cited_as": "Isaiah 52:13-15 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Behold, my servant shall prosper: he shall be exalted, and extolled, and be very high. As many were astonied at thee, (his visage was so deformed of men, and his form of the sons of men) so shall he sprinkle many nations: the Kings shall shut their mouths at him: for that which had not been told them, shall they see, and that which they had not heard, shall they understand.",
+     "source": "https://ebible.org/enggnv/ISA52.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-52/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.52.15",
+   "ref": "Isaiah 52:15",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2934,
+     "cited_as": "Isaiah 52:13-15 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Behold, my servant shall prosper: he shall be exalted, and extolled, and be very high. As many were astonied at thee, (his visage was so deformed of men, and his form of the sons of men) so shall he sprinkle many nations: the Kings shall shut their mouths at him: for that which had not been told them, shall they see, and that which they had not heard, shall they understand.",
+     "source": "https://ebible.org/enggnv/ISA52.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-52/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.1",
+   "ref": "Isaiah 53:1",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2978,
+     "cited_as": "Isaiah 53:1 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Lord, who has believed our report? And to whom has the arm of the Lord been revealed?"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Lord, who has believed our report? And to whom has the arm of the Lord been revealed?",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.2",
+   "ref": "Isaiah 53:2",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3010,
+     "cited_as": "Isaiah 53:2-3 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "He grew up before him like a child, like a root in a thirsty land; he has no form or glory, and we saw him, and he had no form or beauty. But his form was without honor, failing beyond all men, a man being in calamity and knowing how to bear sickness; because his face is turned away, he was dishonored and not esteemed."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "He grew up before him like a child, like a root in a thirsty land; he has no form or glory, and we saw him, and he had no form or beauty. But his form was without honor, failing beyond all men, a man being in calamity and knowing how to bear sickness; because his face is turned away, he was dishonored and not esteemed.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "But he shall grow up before him as a branch, and as a root out of a dry ground: he hath neither form nor beauty: when we shall see him, there shall be no form that we should desire him. He is despised and rejected of men: he is a man full of sorrows and hath experience of infirmities: we hid as it were our faces from him: he was despised and we esteemed him not.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.92 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.92 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.3",
+   "ref": "Isaiah 53:3",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3010,
+     "cited_as": "Isaiah 53:2-3 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "He grew up before him like a child, like a root in a thirsty land; he has no form or glory, and we saw him, and he had no form or beauty. But his form was without honor, failing beyond all men, a man being in calamity and knowing how to bear sickness; because his face is turned away, he was dishonored and not esteemed."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "He grew up before him like a child, like a root in a thirsty land; he has no form or glory, and we saw him, and he had no form or beauty. But his form was without honor, failing beyond all men, a man being in calamity and knowing how to bear sickness; because his face is turned away, he was dishonored and not esteemed.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "But he shall grow up before him as a branch, and as a root out of a dry ground: he hath neither form nor beauty: when we shall see him, there shall be no form that we should desire him. He is despised and rejected of men: he is a man full of sorrows and hath experience of infirmities: we hid as it were our faces from him: he was despised and we esteemed him not.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.92 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.92 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.4",
+   "ref": "Isaiah 53:4",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3032,
+     "cited_as": "Isaiah 53:4-6 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Surely he hath borne our infirmities, and carried our sorrows: yet we did judge him as plagued and smitten of God, and humbled. But he was wounded for our transgressions: he was broken for our iniquities: the chastisement of our peace was upon him, and with his stripes we are healed. All we like sheep have gone astray: we have turned every one to his own way, and the Lord hath laid upon him the iniquity of us all.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.93 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.93 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.6",
+   "ref": "Isaiah 53:6",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3032,
+     "cited_as": "Isaiah 53:4-6 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Surely he hath borne our infirmities, and carried our sorrows: yet we did judge him as plagued and smitten of God, and humbled. But he was wounded for our transgressions: he was broken for our iniquities: the chastisement of our peace was upon him, and with his stripes we are healed. All we like sheep have gone astray: we have turned every one to his own way, and the Lord hath laid upon him the iniquity of us all.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.93 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.93 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.7",
+   "ref": "Isaiah 53:7",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3080,
+     "cited_as": "Isaiah 53:7 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And he, because he has been ill-treated, does not open his mouth; like a sheep he was led to the slaughter, and as a lamb is silent before the one shearing it, so he does not open his mouth."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And he, because he has been ill-treated, does not open his mouth; like a sheep he was led to the slaughter, and as a lamb is silent before the one shearing it, so he does not open his mouth.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "He was oppressed and he was afflicted, yet did he not open his mouth: he is brought as a sheep to the slaughter, and as a sheep before her shearer is dumb, so he openeth not his mouth.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.95 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.95 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.8",
+   "ref": "Isaiah 53:8",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3116,
+     "cited_as": "Isaiah 53:8 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "In his humiliation his judgment was taken away. Who will describe his generation? Because his life is being taken from the earth, he was led to death on account of the acts of lawlessness of my people."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "In his humiliation his judgment was taken away. Who will describe his generation? Because his life is being taken from the earth, he was led to death on account of the acts of lawlessness of my people.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "He was taken out from prison, and from judgment: and who shall declare his age? for he was cut out of the land of the living: for the transgression of my people was he plagued.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 1.00 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 1.00 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.9",
+   "ref": "Isaiah 53:9",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3141,
+     "cited_as": "Isaiah 53:9 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And I will give the wicked for his burial and the rich for his death, because he committed no lawlessness, nor was deceit found in his mouth."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And I will give the wicked for his burial and the rich for his death, because he committed no lawlessness, nor was deceit found in his mouth.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "And he made his grave with the wicked, and with the rich in his death, though he had done no wickedness, neither was any deceit in his mouth.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.90 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.90 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.10",
+   "ref": "Isaiah 53:10",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3173,
+     "cited_as": "Isaiah 53:10-12 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And the Lord desires to cleanse him from his blow *(stroke)*. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul was given over to death, and he was reckoned among the lawless, and he bore the sins of many, and because of their sins he was given over."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters). Gloss *(stroke)* added after “blow” per VERBATIM + GLOSSES."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul was given over to death, and he was reckoned among the lawless, and he bore the sins of many, and because of their sins he was given over.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with the great, and he shall divide the spoil with the strong, because he hath poured out his soul unto death: and he was counted with the transgressors, and he bare the sin of many, and prayed for the trespassers.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.98 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.98 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.11",
+   "ref": "Isaiah 53:11",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3173,
+     "cited_as": "Isaiah 53:10-12 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And the Lord desires to cleanse him from his blow *(stroke)*. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul was given over to death, and he was reckoned among the lawless, and he bore the sins of many, and because of their sins he was given over."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul was given over to death, and he was reckoned among the lawless, and he bore the sins of many, and because of their sins he was given over.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with the great, and he shall divide the spoil with the strong, because he hath poured out his soul unto death: and he was counted with the transgressors, and he bare the sin of many, and prayed for the trespassers.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.98 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.98 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.53.12",
+   "ref": "Isaiah 53:12",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 3173,
+     "cited_as": "Isaiah 53:10-12 — NETS verbatim seat",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And the Lord desires to cleanse him from his blow *(stroke)*. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul was given over to death, and he was reckoned among the lawless, and he bore the sins of many, and because of their sins he was given over."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul was given over to death, and he was reckoned among the lawless, and he bore the sins of many, and because of their sins he was given over.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with the great, and he shall divide the spoil with the strong, because he hath poured out his soul unto death: and he was counted with the transgressors, and he bare the sin of many, and prayed for the trespassers.",
+     "source": "https://ebible.org/enggnv/ISA53.htm"
+    }
+   },
+   "second_check": {
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs Swete Rahlfs word-set coverage 0.98 (group)",
+     "url": "https://www.theancientbible.org/isaiah-lxx-53/",
+     "result": "verified 2026-11-11, coverage 0.98 (group seat)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.8.34",
+   "ref": "Acts 8:34",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "The draft's Acts 8:32-35 block skips v. 34 (the Greek ellipsis covers it)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.27.13",
+   "ref": "Matthew 27:13",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Draft block quotes vv. 12 and 14; v. 13 not part of the excerpt."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.27.59",
+   "ref": "Matthew 27:59",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Draft block quotes vv. 57-58 and 60; v. 59 not part of the excerpt."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.27.35",
+   "ref": "Matthew 27:35",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Named in the observation: the garments-dividing is \"recorded by all four Gospels\"."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MRK.15.24",
+   "ref": "Mark 15:24",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Named in the observation: quadruple witness note."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.23.34",
+   "ref": "Luke 23:34",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Named in the observation: quadruple witness note."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.3.13",
+   "ref": "Acts 3:13",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Prose designation τὸν παῖδα αὐτοῦ Ἰησοῦν (Isa 52:13 observation)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.3.26",
+   "ref": "Acts 3:26",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Prose designation τὸν παῖδα αὐτοῦ Ἰησοῦν (Isa 52:13 observation)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.4.30",
+   "ref": "Acts 4:30",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Named in Synthesis bullet 1 (παιδίον/παῖς identification)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "HEB.4.15",
+   "ref": "Hebrews 4:15",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Referenced in the Ps 21:1 observation (2): the Son had no transgressions of His own."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.12.23",
+   "ref": "John 12:23",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Referenced in the Isa 52:13 observation (2) (the hour of glorification)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.13.31-32",
+   "ref": "John 13:31-32",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Referenced in the Isa 52:13 observation (2)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.27.26-30",
+   "ref": "Matthew 27:26-30",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Summary-table row: the scourging (Isa 52:14 fulfillment)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.2",
+   "ref": "Acts 2 (chapter ref)",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Summary-table row for Ps 21:27-28: \"Acts 2; gospel to the nations\"."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "PSA.2.8",
+   "ref": "Psalm 2:8",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 0,
+     "cited_as": "prose ref (anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Referenced in the Ps 21:27-28 observation (\"the nations as Thine inheritance\")."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.12.32",
+   "ref": "John 12:32",
+   "uses": [
+    {
+     "section": "COS-22",
+     "section_label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis",
+     "article_line": 2955,
+     "cited_as": "observation prose quote (KJV-voiced) — attribution flag",
+     "quote_kind": "prose-ref",
+     "quotes": [
+      "\"And I, if I be lifted up, will draw all unto Me\""
+     ],
+     "status": "differs-minor",
+     "matched_source": "",
+     "note": "The Isa 52 observation (2) quotes the working-wording \"And I, if I be lifted up, will draw all unto Me\" — KJV-voiced. Geneva reads \"were lift up\" and \"all men\" — flag: prose attribution proposal, awaiting Gideon."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And I, if I were lift vp from the earth, will drawe all men vnto me.",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "prose wording is not Geneva; flag recorded",
+     "url": "https://ebible.org/enggnv/JHN12.htm",
      "checked": "2026-11-11"
     }
    },

@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**244 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**323 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**415 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**494 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -190,12 +190,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 52:13 — CONFIRMED
 *cited as: brenton*
+- **NETS (Septuagint, modern):** “See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.”
 - **Brenton LXX:** “Behold, my servant shall understand, and be exalted, and glorified exceedingly.”
 - **Geneva 1599:** “Beholde, my seruant shall prosper: he shall be exalted and extolled, and be very hie.”
 - **KJV:** “¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.”
 - *Note:* Exact Brenton wording
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
 
 ### John 1:29 — CONFIRMED
 *cited as: gnv*
@@ -206,26 +207,28 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Psalm 22:16 — CONFIRMED
 *cited as: brenton*
+- **NETS (Septuagint, modern):** “because many dogs encircled me, a gathering of evildoers surrounded me. They gouged my hands and feet;”
 - **Brenton LXX:** “For many dogs have compassed me: the assembly of the wicked doers has beset me round: they pierced my hands and my feet.”
 - **Geneva 1599:** “For dogges haue compassed me, and the assemblie of the wicked haue inclosed me: they perced mine hands and my feete.”
 - **KJV:** “For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
 
 ### Isaiah 53:5 — CONFIRMED
 *cited as: brenton*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
 - **Brenton LXX:** “But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.”
 - **Geneva 1599:** “But hee was wounded for our transgressions, hee was broken for our iniquities: the chastisement of our peace was vpon him, and with his stripes we are healed.”
 - **KJV:** “But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
 
 ### 1 Peter 2:24 — CONFIRMED
 *cited as: gnv*
 - **Geneva 1599:** “Who his owne selfe bare our sinnes in his body on the tree, that we being dead to sinne, should liue in righteousnesse: by whose stripes ye were healed.”
 - **KJV:** “Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)*
 
 ### 1 John 2:2 — CONFIRMED
 *cited as: gnv*
@@ -1846,17 +1849,21 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 52:13 — ANCHOR
 *cited as: range ref "Isaiah 52:13-53:12" (and "Isaiah 53" at 1663)*
+- **NETS (Septuagint, modern):** “See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.”
 - **Brenton LXX:** “Behold, my servant shall understand, and be exalted, and glorified exceedingly.”
 - **Geneva 1599:** “Beholde, my seruant shall prosper: he shall be exalted and extolled, and be very hie.”
 - **KJV:** “¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.”
 - *Note:* ANCHOR: the Suffering-Servant passage; seat waits for the Suffering-Servant wave.
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
 
 ### Psalm 22:1 — ANCHOR
 *cited as: chapter ref "Psalm 22 (LXX 21)"*
+- **NETS (Septuagint, modern):** “God, my God, attend to me; why did you forsake me? Far away from my deliverance are the words of my transgressions.”
+- **Geneva 1599:** “To him that excelleth upon Aijeleth Hash-shahar. A Psalm of David. My God, my God, why hast thou forsaken me, and art so far from mine health, and from the words of my roaring?”
 - *Note:* ANCHOR: the draft cites Psalm 22 (LXX 21 = MT 22) for the suffering Psalms (1518, 1663). Seat waits for the Suffering-Servant wave.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.81 (group seat)*
 
 ## THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn
 
@@ -2606,6 +2613,601 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Synthesis item 17 quotes the fragment "the Father is greater than I." — Geneva JHN14.28 verse text banked.
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓*
+
+## THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis
+
+### Acts 8:34 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* The draft's Acts 8:32-35 block skips v. 34 (the Greek ellipsis covers it).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 27:13 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Draft block quotes vv. 12 and 14; v. 13 not part of the excerpt.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 27:59 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Draft block quotes vv. 57-58 and 60; v. 59 not part of the excerpt.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 27:35 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Named in the observation: the garments-dividing is "recorded by all four Gospels".
+- *Checked 2026-11-11 · editions fetched: *
+
+### Mark 15:24 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Named in the observation: quadruple witness note.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 23:34 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Named in the observation: quadruple witness note.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 3:13 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Prose designation τὸν παῖδα αὐτοῦ Ἰησοῦν (Isa 52:13 observation).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 3:26 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Prose designation τὸν παῖδα αὐτοῦ Ἰησοῦν (Isa 52:13 observation).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 4:30 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Named in Synthesis bullet 1 (παιδίον/παῖς identification).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Hebrews 4:15 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Referenced in the Ps 21:1 observation (2): the Son had no transgressions of His own.
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 12:23 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Referenced in the Isa 52:13 observation (2) (the hour of glorification).
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 13:31-32 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Referenced in the Isa 52:13 observation (2).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 27:26-30 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Summary-table row: the scourging (Isa 52:14 fulfillment).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 2 (chapter ref) — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Summary-table row for Ps 21:27-28: "Acts 2; gospel to the nations".
+- *Checked 2026-11-11 · editions fetched: *
+
+### Psalm 2:8 — ANCHOR
+*cited as: prose ref (anchor)*
+- *Note:* Referenced in the Ps 21:27-28 observation ("the nations as Thine inheritance").
+- *Checked 2026-11-11 · editions fetched: *
+
+### Psalm 22:1 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “God, my God, attend to me; why did you forsake me? Far away from my deliverance are the words of my transgressions.”
+- **Geneva 1599:** “To him that excelleth upon Aijeleth Hash-shahar. A Psalm of David. My God, my God, why hast thou forsaken me, and art so far from mine health, and from the words of my roaring?”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:1 LXX = MT 22:1 = NETS print 2). The draft block opened with the Greek superscription; NETS prints it as the Psalm title line, “Regarding completion. Over the support at dawn. A Psalm. Pertaining to Dauid.”, not as verse 1.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.81 (group seat)*
+
+### Matthew 27:46 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “And about ye ninth houre Iesus cryed with a loud voyce, saying, Eli, Eli, lamasabachthani? that is, My God, my God, why hast thou forsaken me?”
+- *Note:* Draft Aramaic reworded to the 1599 Geneva form: lama sabachthani(\??)→lamasabachthani\1
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Mark 15:34 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “And at the ninth houre Iesus cryed with a loude voyce, saying, Eloi, Eloi, lamma-sabachthani? which is by interpretation, My God, my God, why hast thou forsaken me?”
+- *Note:* Draft Aramaic reworded to the 1599 Geneva form: lamasabachthani(\??)→lamma-sabachthani\1
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 22:6 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,””
+- **Geneva 1599:** “But I am a worm, and not a man: a shame of men, and the contempt of the people. All they that see me, have me in derision: they make a mow and nod the head, saying, He trusted in the Lord, let him deliver him: let him save him, seeing he loveth him.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:6 LXX = MT 22:6 = NETS print 7).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.97 (group seat)*
+
+### Psalm 22:7 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,””
+- **Geneva 1599:** “But I am a worm, and not a man: a shame of men, and the contempt of the people. All they that see me, have me in derision: they make a mow and nod the head, saying, He trusted in the Lord, let him deliver him: let him save him, seeing he loveth him.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:7 LXX = MT 22:7 = NETS print 8).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.97 (group seat)*
+
+### Psalm 22:8 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “But as for me, I am a worm and not human, a reproach of mankind and despised by people. All who saw me mocked at me; they talked with the lips; they moved the head: “He hoped in the Lord; let him rescue him; let him save him, because he wanted him,””
+- **Geneva 1599:** “But I am a worm, and not a man: a shame of men, and the contempt of the people. All they that see me, have me in derision: they make a mow and nod the head, saying, He trusted in the Lord, let him deliver him: let him save him, seeing he loveth him.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:8 LXX = MT 22:8 = NETS print 9).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.97 (group seat)*
+
+### Matthew 27:39 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “And they that passed by, reuiled him, wagging their heades,”
+- *Note:* segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:40 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “And saying, Thou that destroyest ye Temple, and buildest it in three dayes, saue thy selfe: if thou be ye Sonne of God, come downe from ye crosse.”
+- *Note:* segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:41 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Likewise also the hie Priests mocking him, with the Scribes, and Elders, and Pharises, said,”
+- *Note:* segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:42 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “He saued others, but he cannot saue him selfe: if he be ye King of Israel, let him now come downe from ye crosse, and we will beleeue in him.”
+- *Note:* segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:43 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “He trusted in God, let him deliuer him nowe, if he will haue him: for he saide, I am the Sonne of God.”
+- *Note:* segment corrected to the Geneva wording: ''→'and'; ''→'Pharises,'
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 22:14 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “Like water I was poured out, and all my bones were scattered; my heart became like wax melting within my belly; my strength was dried up like a potsherd, and my tongue is stuck to my throat, and to death’s dust you brought me down,”
+- **Geneva 1599:** “I am like water poured out, and all my bones are out of joint: mine heart is like wax: it is molten in the midst of my bowels. My strength is dried up like a potsherd, and my tongue cleaveth to my jaws, and thou hast brought me into the dust of death.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:14 LXX = MT 22:14 = NETS print 15).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.97 (group seat)*
+
+### Psalm 22:15 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “Like water I was poured out, and all my bones were scattered; my heart became like wax melting within my belly; my strength was dried up like a potsherd, and my tongue is stuck to my throat, and to death’s dust you brought me down,”
+- **Geneva 1599:** “I am like water poured out, and all my bones are out of joint: mine heart is like wax: it is molten in the midst of my bowels. My strength is dried up like a potsherd, and my tongue cleaveth to my jaws, and thou hast brought me into the dust of death.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:15 LXX = MT 22:15 = NETS print 16).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.97 (group seat)*
+
+### John 19:28 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “After, when Iesus knew that all things were performed, that the Scripture might be fulfilled, he said, I thirst.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 22:16 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “because many dogs encircled me, a gathering of evildoers surrounded me. They gouged my hands and feet;”
+- **Brenton LXX:** “For many dogs have compassed me: the assembly of the wicked doers has beset me round: they pierced my hands and my feet.”
+- **Geneva 1599:** “For dogges haue compassed me, and the assemblie of the wicked haue inclosed me: they perced mine hands and my feete.”
+- **KJV:** “For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:16 LXX = MT 22:16 = NETS print 17). NETS prints “They gouged my hands and feet”; the draft observation explains the ὤρυξαν wording (dig/pierce/bore) — both recorded, observation prose kept verbatim.
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Luke 24:39 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Beholde mine handes and my feete: for it is I my selfe: handle me, and see: for a spirit hath not flesh and bones, as ye see me haue.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Luke 24:40 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “And when he had thus spoken, he shewed them his hands and feete.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 20:25 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 20:26 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “And eight dayes after, againe his disciples were within, and Thomas with them. Then came Iesus, when the doores were shut, and stood in the middes, and said, Peace be vnto you.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 20:27 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “After saide he to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side, and be not faithlesse, but faithfull.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 22:18 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “they divided my clothes among themselves, and for my clothing they cast lots.”
+- **Geneva 1599:** “They part my garments among them, and cast lots upon my vesture.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:18 LXX = MT 22:18 = NETS print 19).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### John 19:23 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Then the souldiers, when they had crucified Iesus, tooke his garments (and made foure partes, to euery souldier a part) and his coat: and the coat was without seame wouen from the toppe throughout.”
+- *Note:* Draft block wording diverged from the Geneva (''→'So'; ''→'the'; ''→'souldiers'; ''→'did'; ''→'these'; ''→'things'); seat prints the Geneva wording at the differing spots.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 19:24 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Therefore they sayde one to another, Let vs not deuide it, but cast lots for it, whose it shall be. This was that the Scripture might be fulfilled, which sayth, They parted my garments among them, and on my coate did cast lots. So the souldiers did these things in deede.”
+- *Note:* Draft block wording diverged from the Geneva (''→'So'; ''→'the'; ''→'souldiers'; ''→'did'; ''→'these'; ''→'things'); seat prints the Geneva wording at the differing spots.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 22:22 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “I will tell of your name to my kindred; in the midst of an assembly I will sing a hymn to you:”
+- **Geneva 1599:** “I will declare thy Name unto my brethren: in the midst of the Congregation will I praise thee.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:22 LXX = MT 22:22 = NETS print 23).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Hebrews 2:11 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “For he that sanctifieth, and they which are sanctified, are all of one: wherefore he is not ashamed to call them brethren,”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Hebrews 2:12 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Saying, I will declare thy Name vnto my brethren: in the middes of the Church will I sing praises to thee.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 22:27 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “All the ends of the earth shall remember and turn to the Lord, and all the paternal families of the nations shall do obeisance before him, because kingship is the Lord’s, and it is he who is master over the nations.”
+- **Geneva 1599:** “All the ends of the world shall remember themselves, and turn to the Lord: and all the kindreds of the nations shall worship before thee. For the kingdom is the Lord's, and he ruleth among the nations.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:27 LXX = MT 22:27 = NETS print 28). Gloss *(worship)* added after “do obeisance” per VERBATIM + GLOSSES.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Psalm 22:28 — CONFIRMED
+*cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
+- **NETS (Septuagint, modern):** “All the ends of the earth shall remember and turn to the Lord, and all the paternal families of the nations shall do obeisance before him, because kingship is the Lord’s, and it is he who is master over the nations.”
+- **Geneva 1599:** “All the ends of the world shall remember themselves, and turn to the Lord: and all the kindreds of the nations shall worship before thee. For the kingdom is the Lord's, and he ruleth among the nations.”
+- *Note:* Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:28 LXX = MT 22:28 = NETS print 29).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Isaiah 52:13 — CONFIRMED
+*cited as: Isaiah 52:13-15 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.”
+- **Brenton LXX:** “Behold, my servant shall understand, and be exalted, and glorified exceedingly.”
+- **Geneva 1599:** “Beholde, my seruant shall prosper: he shall be exalted and extolled, and be very hie.”
+- **KJV:** “¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Isaiah 52:14 — CONFIRMED
+*cited as: Isaiah 52:13-15 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.”
+- **Geneva 1599:** “Behold, my servant shall prosper: he shall be exalted, and extolled, and be very high. As many were astonied at thee, (his visage was so deformed of men, and his form of the sons of men) so shall he sprinkle many nations: the Kings shall shut their mouths at him: for that which had not been told them, shall they see, and that which they had not heard, shall they understand.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Isaiah 52:15 — CONFIRMED
+*cited as: Isaiah 52:13-15 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “See, my servant shall understand, and he shall be exalted and glorified exceedingly. Just as many shall be astonished at you— so shall your appearance be without glory from men, and your glory be absent from the men— so shall many nations be astonished at him, and kings shall shut their mouth, because those who were not informed about him shall see and those who did not hear shall understand.”
+- **Geneva 1599:** “Behold, my servant shall prosper: he shall be exalted, and extolled, and be very high. As many were astonied at thee, (his visage was so deformed of men, and his form of the sons of men) so shall he sprinkle many nations: the Kings shall shut their mouths at him: for that which had not been told them, shall they see, and that which they had not heard, shall they understand.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Acts 4:25-27 — ANCHOR
+*cited as: prose/named ref*
+- **Geneva 1599:** “Which by the mouth of thy seruant Dauid hast saide, Why did the Gentiles rage, and the people imagine vaine things? The Kings of the earth assembled, and the rulers came together against the Lord, and against his Christ. For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,”
+- *Note:* The Suffering-Servant wave seats Acts 4:27 for the παῖς observation (see row ACT.4.27); this range row keeps the wave-10 audit use.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb — eBible=TRB word-for-word vv25-27 (ratio 1.00 each)*
+
+### Acts 4:27 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 12:32 — DIFFERS (MINOR)
+*cited as: observation prose quote (KJV-voiced) — attribution flag*
+- **Geneva 1599:** “And I, if I were lift vp from the earth, will drawe all men vnto me.”
+- **Flag:** The Isa 52 observation (2) quotes the working-wording "And I, if I be lifted up, will draw all unto Me" — KJV-voiced. Geneva reads "were lift up" and "all men" — flag: prose attribution proposal, awaiting Gideon.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv — prose wording is not Geneva; flag recorded*
+
+### Genesis 49:10 — ANCHOR
+*cited as: prose/named ref*
+- **NETS (Septuagint, modern):** “A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.”
+- **Brenton LXX:** “A ruler shall not fail from Juda, nor a prince from his loins, until there come the things stored up for him; and he is the expectation of nations.”
+- **Geneva 1599:** “The scepter shall not depart from Iudah, nor a Lawegiuer from betweene his feete, vntill Shiloh come, and the people shall be gathered vnto him.”
+- *Note:* Referenced in the Isa 52:13 observation (4) ("cf. Gen 49:10; Ps 21:27-28" — the nations in view).
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Romans 15:20 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Yea, so I enforced my selfe to preach the Gospel, not where Christ was named, lest I should haue built on another mans foundation.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Romans 15:21 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “But as it is written, To whome hee was not spoken of, they shall see him, and they that heard not, shall vnderstand him.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 53:1 — CONFIRMED
+*cited as: Isaiah 53:1 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
+- **Geneva 1599:** “”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### John 12:37 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “And though he had done so many miracles before them, yet beleeued they not on him,”
+- *Note:* Draft block wording diverged from the Geneva ('spake,'→'said,'); seat prints the Geneva wording at the differing spots.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 12:38 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “That the saying of Esaias the Prophete might be fulfilled, that he sayd, Lord, who beleeued our report? and to whome is the arme of the Lord reueiled?”
+- *Note:* Draft block wording diverged from the Geneva ('spake,'→'said,'); seat prints the Geneva wording at the differing spots.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Romans 10:16 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “But they haue not all obeyed ye Gospel: for Esaias saith, Lord, who hath beleeued our report?”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 53:2 — CONFIRMED
+*cited as: Isaiah 53:2-3 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “He grew up before him like a child, like a root in a thirsty land; he has no form or glory, and we saw him, and he had no form or beauty. But his form was without honor, failing beyond all men, a man being in calamity and knowing how to bear sickness; because his face is turned away, he was dishonored and not esteemed.”
+- **Geneva 1599:** “But he shall grow up before him as a branch, and as a root out of a dry ground: he hath neither form nor beauty: when we shall see him, there shall be no form that we should desire him. He is despised and rejected of men: he is a man full of sorrows and hath experience of infirmities: we hid as it were our faces from him: he was despised and we esteemed him not.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.92 (group seat)*
+
+### Isaiah 53:3 — CONFIRMED
+*cited as: Isaiah 53:2-3 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “He grew up before him like a child, like a root in a thirsty land; he has no form or glory, and we saw him, and he had no form or beauty. But his form was without honor, failing beyond all men, a man being in calamity and knowing how to bear sickness; because his face is turned away, he was dishonored and not esteemed.”
+- **Geneva 1599:** “But he shall grow up before him as a branch, and as a root out of a dry ground: he hath neither form nor beauty: when we shall see him, there shall be no form that we should desire him. He is despised and rejected of men: he is a man full of sorrows and hath experience of infirmities: we hid as it were our faces from him: he was despised and we esteemed him not.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.92 (group seat)*
+
+### Isaiah 53:5 — CONFIRMED
+*cited as: Isaiah 53:4-6 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
+- **Brenton LXX:** “But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.”
+- **Geneva 1599:** “But hee was wounded for our transgressions, hee was broken for our iniquities: the chastisement of our peace was vpon him, and with his stripes we are healed.”
+- **KJV:** “But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
+
+### Isaiah 53:4 — CONFIRMED
+*cited as: Isaiah 53:4-6 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
+- **Geneva 1599:** “Surely he hath borne our infirmities, and carried our sorrows: yet we did judge him as plagued and smitten of God, and humbled. But he was wounded for our transgressions: he was broken for our iniquities: the chastisement of our peace was upon him, and with his stripes we are healed. All we like sheep have gone astray: we have turned every one to his own way, and the Lord hath laid upon him the iniquity of us all.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
+
+### Isaiah 53:6 — CONFIRMED
+*cited as: Isaiah 53:4-6 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
+- **Geneva 1599:** “Surely he hath borne our infirmities, and carried our sorrows: yet we did judge him as plagued and smitten of God, and humbled. But he was wounded for our transgressions: he was broken for our iniquities: the chastisement of our peace was upon him, and with his stripes we are healed. All we like sheep have gone astray: we have turned every one to his own way, and the Lord hath laid upon him the iniquity of us all.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
+
+### Matthew 8:16 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “When the Euen was come, they brought vnto him many that were possessed with deuils: and he cast out the spirits with his worde, and healed all that were sicke,”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 8:17 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “That it might be fulfilled, which was spoken by Esaias the Prophet, saying, He tooke our infirmities, and bare our sickenesses.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Peter 2:24 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Who his owne selfe bare our sinnes in his body on the tree, that we being dead to sinne, should liue in righteousnesse: by whose stripes ye were healed.”
+- **KJV:** “Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.”
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)*
+
+### 1 Peter 2:25 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “For ye were as sheepe going astray: but are nowe returned vnto the shepheard and Bishop of your soules.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)*
+
+### Romans 8:32 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Who spared not his owne Sonne, but gaue him for vs all to death, how shall he not with him giue vs all things also?”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Romans 4:25 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Who was deliuered to death for our sinnes, and is risen againe for our iustification.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 53:7 — CONFIRMED
+*cited as: Isaiah 53:7 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “And he, because he has been ill-treated, does not open his mouth; like a sheep he was led to the slaughter, and as a lamb is silent before the one shearing it, so he does not open his mouth.”
+- **Geneva 1599:** “He was oppressed and he was afflicted, yet did he not open his mouth: he is brought as a sheep to the slaughter, and as a sheep before her shearer is dumb, so he openeth not his mouth.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.95 (group seat)*
+
+### Acts 8:32 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Nowe the place of the Scripture which he read, was this, Hee was lead as a sheepe to the slaughter: and like a lambe domme before his shearer, so opened he not his mouth.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Acts 8:33 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “In his humilitie his iudgement hath bene exalted: but who shall declare his generation? for his life is taken from the earth.”
+- *Note:* Two seats cite this verse: the Acts 8:32-35 cross-witness and the Isaiah 53:8 section, where the draft quoted the Greek only — the Geneva 8:33 seat was composed from the edition (eBible=TRB verified).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Acts 8:35 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Then Philip opened his mouth, and began at the same Scripture, and preached vnto him Iesus.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:12 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “And when he was accused of the chiefe Priestes, and Elders, he answered nothing.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:14 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “But he answered him not to one worde, in so much that the gouernour marueiled greatly.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 53:8 — CONFIRMED
+*cited as: Isaiah 53:8 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “In his humiliation his judgment was taken away. Who will describe his generation? Because his life is being taken from the earth, he was led to death on account of the acts of lawlessness of my people.”
+- **Geneva 1599:** “He was taken out from prison, and from judgment: and who shall declare his age? for he was cut out of the land of the living: for the transgression of my people was he plagued.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Isaiah 53:9 — CONFIRMED
+*cited as: Isaiah 53:9 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “And I will give the wicked for his burial and the rich for his death, because he committed no lawlessness, nor was deceit found in his mouth.”
+- **Geneva 1599:** “And he made his grave with the wicked, and with the rich in his death, though he had done no wickedness, neither was any deceit in his mouth.”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.90 (group seat)*
+
+### 1 Peter 2:22 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Who did no sinne, neither was there guile found in his mouth.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (group)*
+
+### Matthew 27:57 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “And when the euen was come, there came a riche man of Arimathea, named Ioseph, who had also himselfe bene Iesus disciple.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:58 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “He went to Pilate, and asked ye body of Iesus. Then Pilate commanded ye body to be deliuered.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 27:60 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “And put it in his new tombe, which he had hewen out in a rocke, and rolled a great stone to the doore of the sepulchre, and departed.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 53:10 — CONFIRMED
+*cited as: Isaiah 53:10-12 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul …”
+- **Geneva 1599:** “Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with …”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters). Gloss *(stroke)* added after “blow” per VERBATIM + GLOSSES.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.98 (group seat)*
+
+### Isaiah 53:11 — CONFIRMED
+*cited as: Isaiah 53:10-12 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul …”
+- **Geneva 1599:** “Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with …”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.98 (group seat)*
+
+### Isaiah 53:12 — CONFIRMED
+*cited as: Isaiah 53:10-12 — NETS verbatim seat*
+- **NETS (Septuagint, modern):** “And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul …”
+- **Geneva 1599:** “Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with …”
+- *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.98 (group seat)*
+
+### Romans 5:18 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “Likewise then as by the offence of one, the fault came on all men to condemnation, so by the iustifying of one, the benefite abounded toward all men to the iustification of life.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Romans 5:19 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “For as by one mans disobedience many were made sinners, so by that obedience of that one shall many also be made righteous.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Hebrews 9:28 — CONFIRMED (EXCERPT)
+*cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
+- **Geneva 1599:** “So Christ was once offered to take away the sinnes of many, and vnto them that looke for him, shall he appeare the second time without sinne vnto saluation.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Luke 22:37 — CONFIRMED
+*cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “For I say vnto you, That yet the same which is written, must be perfourmed in me, Euen with the wicked was he nombred: for doubtlesse those things which are written of me, haue an ende.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Acts 13:33 — CONFIRM
+*cited as: prose/named ref*
+- **Geneva 1599:** “God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.”
+- *Note:* Synthesis bullet 8 quotes the fragment "today have I begotten Thee" in the resurrection context (Acts 13:33).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00)*
 
 # THE BIBLICAL SABBATH
 
@@ -4397,15 +4999,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Chronicles 14:15 | P8 | anchor |
 | 2 Kings 20:20 | P1-Q4 | anchor |
 | Job 33:4 | P6 | confirmed |
-| Psalm 22:16 | P1-Q8 | confirmed |
+| Psalm 22:16 | P1-Q8, COS-22 | confirmed |
 | Psalm 104:29 | P6 | confirmed |
 | Psalm 104:30 | P6 | confirmed |
 | Psalm 124:8 | CLOSE | confirmed |
 | Proverbs 18:10 | CLOSE | confirmed |
 | Isaiah 29:13 | P7 | confirmed |
 | Isaiah 42:8 | P1-Q8 | confirmed |
-| Isaiah 52:13 | P1-Q8, COS-16 | anchor, confirmed |
-| Isaiah 53:5 | P1-Q8 | confirmed |
+| Isaiah 52:13 | P1-Q8, COS-16, COS-22 | anchor, confirmed |
+| Isaiah 53:5 | P1-Q8, COS-22 | confirmed |
 | Jeremiah 14:14 | P7 | confirmed |
 | Jeremiah 31:33 | P9 | confirmed |
 | Ezekiel 36:20 | P7 | confirmed |
@@ -4436,7 +5038,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:5 | P9 | confirmed |
 | 1 Corinthians 10:4 | P8, COS-12, COS-19 | anchor, confirmed |
 | Philippians 2:13 | P9 | confirmed |
-| 1 Peter 2:24 | P1-Q8 | confirmed |
+| 1 Peter 2:24 | P1-Q8, COS-22 | confirmed, confirmed (excerpt) |
 | 1 John 1:9 | P7 | confirmed |
 | 1 John 2:2 | P1-Q8 | confirmed |
 | 1 John 4:19 | P9 | confirmed |
@@ -4649,7 +5251,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 22:2 | COS-02, COS-19 | anchor, confirmed |
 | Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
 | Matthew 3:17 | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
-| Genesis 49:10 | COS-02, COS-19 | anchor, confirmed |
+| Genesis 49:10 | COS-02, COS-19, COS-22 | anchor, confirmed |
 | Haggai 2:7 (LXX) | COS-02, COS-19 | confirmed, confirmed (excerpt) |
 | Revelation 5:5 | COS-02, COS-19 | confirmed (excerpt) |
 | Revelation 22:16 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
@@ -4731,8 +5333,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 22:12 | COS-16 | confirmed |
 | Genesis 22:15 | COS-16 | confirmed |
 | Numbers 20:8 | COS-16 | anchor |
-| Acts 13:33 | COS-16, COS-19 | anchor, confirmed (excerpt) |
-| Psalm 22:1 | COS-16 | anchor |
+| Acts 13:33 | COS-16, COS-19, COS-22 | anchor, confirm, confirmed (excerpt) |
+| Psalm 22:1 | COS-16, COS-22 | anchor, confirmed |
 | 1 Corinthians 1:18 | COS-17 | confirmed |
 | 1 Corinthians 1:19 | COS-17 | confirmed |
 | 1 Corinthians 1:20 | COS-17 | confirmed |
@@ -4741,7 +5343,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 1:23 | COS-17 | confirmed |
 | 1 Corinthians 1:24 | COS-17 | confirmed |
 | Matthew 22:44 | COS-17 | anchor |
-| Acts 4:25-27 | COS-19 | confirmed |
+| Acts 4:25-27 | COS-19, COS-22 | anchor, confirmed |
 | Psalm 109:3 (= Hebrew 110:3) | COS-19 | differs (minor) |
 | Hebrews 1:5 | COS-19 | anchor |
 | Hebrews 7:17 | COS-19 | anchor |
@@ -4783,6 +5385,85 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 6:62 | COS-21 | confirmed |
 | John 14:28 | COS-21 | anchor |
 | Luke 1:36 | COS-21 | anchor |
+| 1 Peter 2:22 | COS-22 | confirmed |
+| 1 Peter 2:25 | COS-22 | confirmed (excerpt) |
+| Acts 4:27 | COS-22 | confirmed |
+| Acts 8:32 | COS-22 | confirmed (excerpt) |
+| Acts 8:33 | COS-22 | confirmed (excerpt) |
+| Acts 8:35 | COS-22 | confirmed (excerpt) |
+| Hebrews 2:11 | COS-22 | confirmed |
+| Hebrews 2:12 | COS-22 | confirmed |
+| Hebrews 9:28 | COS-22 | confirmed (excerpt) |
+| John 12:37 | COS-22 | confirmed |
+| John 12:38 | COS-22 | confirmed |
+| John 19:23 | COS-22 | confirmed |
+| John 19:24 | COS-22 | confirmed |
+| John 19:28 | COS-22 | confirmed |
+| John 20:25 | COS-22 | confirmed (excerpt) |
+| John 20:26 | COS-22 | confirmed (excerpt) |
+| John 20:27 | COS-22 | confirmed (excerpt) |
+| Luke 22:37 | COS-22 | confirmed |
+| Luke 24:39 | COS-22 | confirmed |
+| Luke 24:40 | COS-22 | confirmed |
+| Matthew 27:12 | COS-22 | confirmed (excerpt) |
+| Matthew 27:14 | COS-22 | confirmed (excerpt) |
+| Matthew 27:39 | COS-22 | confirmed (excerpt) |
+| Matthew 27:40 | COS-22 | confirmed (excerpt) |
+| Matthew 27:41 | COS-22 | confirmed (excerpt) |
+| Matthew 27:42 | COS-22 | confirmed (excerpt) |
+| Matthew 27:43 | COS-22 | confirmed (excerpt) |
+| Matthew 27:46 | COS-22 | confirmed |
+| Matthew 27:57 | COS-22 | confirmed (excerpt) |
+| Matthew 27:58 | COS-22 | confirmed (excerpt) |
+| Matthew 27:60 | COS-22 | confirmed (excerpt) |
+| Matthew 8:16 | COS-22 | confirmed (excerpt) |
+| Matthew 8:17 | COS-22 | confirmed (excerpt) |
+| Mark 15:34 | COS-22 | confirmed |
+| Romans 10:16 | COS-22 | confirmed |
+| Romans 15:20 | COS-22 | confirmed (excerpt) |
+| Romans 15:21 | COS-22 | confirmed (excerpt) |
+| Romans 4:25 | COS-22 | confirmed (excerpt) |
+| Romans 5:18 | COS-22 | confirmed (excerpt) |
+| Romans 5:19 | COS-22 | confirmed (excerpt) |
+| Romans 8:32 | COS-22 | confirmed (excerpt) |
+| Psalm 22:6 | COS-22 | confirmed |
+| Psalm 22:7 | COS-22 | confirmed |
+| Psalm 22:8 | COS-22 | confirmed |
+| Psalm 22:14 | COS-22 | confirmed |
+| Psalm 22:15 | COS-22 | confirmed |
+| Psalm 22:18 | COS-22 | confirmed |
+| Psalm 22:22 | COS-22 | confirmed |
+| Psalm 22:27 | COS-22 | confirmed |
+| Psalm 22:28 | COS-22 | confirmed |
+| Isaiah 52:14 | COS-22 | confirmed |
+| Isaiah 52:15 | COS-22 | confirmed |
+| Isaiah 53:1 | COS-22 | confirmed |
+| Isaiah 53:2 | COS-22 | confirmed |
+| Isaiah 53:3 | COS-22 | confirmed |
+| Isaiah 53:4 | COS-22 | confirmed |
+| Isaiah 53:6 | COS-22 | confirmed |
+| Isaiah 53:7 | COS-22 | confirmed |
+| Isaiah 53:8 | COS-22 | confirmed |
+| Isaiah 53:9 | COS-22 | confirmed |
+| Isaiah 53:10 | COS-22 | confirmed |
+| Isaiah 53:11 | COS-22 | confirmed |
+| Isaiah 53:12 | COS-22 | confirmed |
+| Acts 8:34 | COS-22 | anchor |
+| Matthew 27:13 | COS-22 | anchor |
+| Matthew 27:59 | COS-22 | anchor |
+| Matthew 27:35 | COS-22 | anchor |
+| Mark 15:24 | COS-22 | anchor |
+| Luke 23:34 | COS-22 | anchor |
+| Acts 3:13 | COS-22 | anchor |
+| Acts 3:26 | COS-22 | anchor |
+| Acts 4:30 | COS-22 | anchor |
+| Hebrews 4:15 | COS-22 | anchor |
+| John 12:23 | COS-22 | anchor |
+| John 13:31-32 | COS-22 | anchor |
+| Matthew 27:26-30 | COS-22 | anchor |
+| Acts 2 (chapter ref) | COS-22 | anchor |
+| Psalm 2:8 | COS-22 | anchor |
+| John 12:32 | COS-22 | differs (minor) |
 
 ## The editions used
 

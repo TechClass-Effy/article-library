@@ -37,3 +37,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 
 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses (John 1:1, 2-3, 14, 18; Psalm 32:6 LXX; 1 John 1:1-2; Revelation 19:13)
 25. John 1 Completed — Every Verse Re-read (John 1:4-13, 15-18); the Whole-Counsel Cross-Witness Survey of the Son's Pre-existence (Philippians 2; Colossians 1; Hebrews 1; John 3, 6, 8, 14, 17; 1 Corinthians 8:6); the Corrected and Established Foundation
+26. The Suffering Servant — Psalm 21 LXX (22 MT): the Cry of Forsakenness, the Mocking, the Piercing of Hands and Feet, the Garments Divided; Isaiah 52:13—53:12: the Exalted Servant, the Substitutionary Suffering, the Cut-Off, the Vindication; Their Explicit NT Cross-Witnesses; the Synthesis of the Whole Counsel
