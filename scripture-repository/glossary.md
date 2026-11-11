@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**323 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**373 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**494 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**544 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -239,10 +239,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Zechariah 12:10 — CONFIRMED
 *cited as: brenton*
+- **NETS (Septuagint, modern):** “And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.”
 - **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
 - **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
 - **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
 
 ### Isaiah 42:8 — CONFIRMED
@@ -1628,11 +1629,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Zechariah 12:10 — PROSE-REF
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.”
 - **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
 - **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
 - **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
 - **Ruling — PARAPHRASE:** 
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
 
 ### John 1:29 — ANCHOR
@@ -3208,6 +3210,399 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Synthesis bullet 8 quotes the fragment "today have I begotten Thee" in the resurrection context (Acts 13:33).
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00)*
+
+## THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry
+
+### Isaiah 7:14 — CONFIRMED
+*cited as: 1.1 seat (NETS re-seated)*
+- **NETS (Septuagint, modern):** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
+- **Brenton LXX:** “Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.”
+- **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
+- *Note:* Seat reused from the banked COS-01/COS-19 NETS text.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### MIC 5 2 — CONFIRMED
+*cited as: 1.1 seat (NETS re-seated)*
+- **NETS (Septuagint, modern):** “And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.”
+- *Note:* Seat reused from the Wave-3 NETS seat.
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+- *Double-checked (second source): nets ✓*
+
+### Matthew 1:22 — CONFIRMED
+*cited as: 1.1 GNV seat (joins into 1:23)*
+- **Geneva 1599:** “And al this was done that it might be fulfilled, which is spoken of the Lord by ye Prophet, saying,”
+- *Note:* 1.1 GNV seat (joins into 1:23)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 1:23 — CONFIRMED
+*cited as: 1.1 GNV seat (joined from 1:22)*
+- **Geneva 1599:** “Behold, a virgine shalbe with childe, and shall beare a sonne, and they shall call his name Emmanuel, which is by interpretation, God with vs.”
+- *Note:* 1.1 GNV seat (joined from 1:22) — BibleHub /text/ Greek exact: Idou he parthenos ... Meth' hemon ho Theos.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — he parthenos + Meth' hemon ho Theos confirmed exact*
+
+### MAT 2 5 — ANCHOR
+*cited as: 1.1 mention (already examined)*
+- **Geneva 1599:** “And they saide vnto him, At Beth-leem in Iudea: for so it is written by the Prophet,”
+- *Note:* Draft points back to the Wave-3 GNV Matthew 2:3-6 seats.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### MAT 2 6 — ANCHOR
+*cited as: 1.1 mention (already examined)*
+- **Geneva 1599:** “And thou Beth-leem in the lande of Iuda, art not the least among the Princes of Iuda: For out of thee shall come the gouernour that shall feede that my people Israel.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### Hosea 11:1 LXX (11:1 MT) — CONFIRMED
+*cited as: 1.2 seat*
+- **NETS (Septuagint, modern):** “For Israel was an infant, and I loved him, and out of Egypt I recalled his children.”
+- *Note:* Wave-14 cache repair: the wave-6 walk glued the 10:15 tail “Israel’s king was cast out.” onto 11:1; the print (p10) shows “15 … evil deeds. 11 At dawn they were cast out; Israel’s king was cast out. (1) For Israel was an infant …” — so “At dawn … cast out.” is 10:15’s tail and “(1)” opens 11:1. Draft quoted the Greek from Διότι (the print’s own opening); Swete prints ὅτι.
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+
+### Matthew 2:14 — CONFIRMED
+*cited as: 1.2 GNV seat (joins into 2:15)*
+- **Geneva 1599:** “So he arose and tooke the babe and his mother by night, and departed into Egypt,”
+- *Note:* 1.2 GNV seat (joins into 2:15)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 2:15 — DIFFERS (MINOR)
+*cited as: 1.2 GNV seat (joined from 2:14)*
+- **Geneva 1599:** “And was there vnto the death of Herod, that that might be fulfilled, which is spoken of the Lord by the Prophet, saying, Out of Egypt haue I called my sonne.”
+- **Flag:** 1.2 GNV seat (joined from 2:14) — Draft reads "that it might be fulfilled"; eBible==TRB both print "that that" (the JHN 7:42 doubled-that class) — seat keeps the editions.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Isaiah 40:3 — CONFIRMED
+*cited as: 1.3 seat*
+- **NETS (Septuagint, modern):** “A voice of one crying out in the wilderness: “Prepare the way of the Lord; make straight the paths of our God.”
+- *Note:* The NETS print leaves the 40:3 speech quotation mark unclosed (raw p30; the close mark never prints in v3) — seat verbatim to the print.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Matthew 3:1 — ANCHOR
+*cited as: 1.3 cited range (draft quotes 3:3 only)*
+- **Geneva 1599:** “And in those dayes, Iohn the Baptist came and preached in the wildernes of Iudea,”
+- *Note:* 1.3 cited range (draft quotes 3:3 only)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 3:2 — ANCHOR
+*cited as: 1.3 cited range (draft quotes 3:3 only)*
+- **Geneva 1599:** “And said, Repent: for the kingdome of heauen is at hand.”
+- *Note:* 1.3 cited range (draft quotes 3:3 only)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 3:3 — CONFIRMED
+*cited as: 1.3 GNV seat (cited as Matthew 3:1-3)*
+- **Geneva 1599:** “For this is he of whome it is spoken by the Prophet Esaias, saying, The voyce of him that crieth in the wildernes, Prepare ye the way of the Lord: make his pathes straight.”
+- *Note:* 1.3 GNV seat (cited as Matthew 3:1-3)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Mark 1:2 — ANCHOR
+*cited as: 1.3 mention (anchor)*
+- **Geneva 1599:** “As it is written in the Prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.”
+- *Note:* 1.3 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Mark 1:3 — ANCHOR
+*cited as: 1.3 mention (anchor)*
+- **Geneva 1599:** “The voyce of him that cryeth in the wildernesse is, Prepare the way of the Lord: make his paths straight.”
+- *Note:* 1.3 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 3:4 — ANCHOR
+*cited as: 1.3 mention (anchor)*
+- **Geneva 1599:** “As it is written in the booke of the sayings of Esaias the Prophet, which saith, The voyce of him that crieth in the wildernes is, Prepare ye the way of the Lord: make his paths straight.”
+- *Note:* 1.3 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 3:5 — ANCHOR
+*cited as: 1.3 mention (anchor)*
+- **Geneva 1599:** “Euery valley shalbe filled, and euery mountaine and hill shall be brought lowe, and crooked things shalbe made straight, and the rough wayes shalbe made smoothe.”
+- *Note:* 1.3 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 3:6 — ANCHOR
+*cited as: 1.3 mention (anchor)*
+- **Geneva 1599:** “And all flesh shall see the saluation of God.”
+- *Note:* 1.3 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 1:23 — ANCHOR
+*cited as: 1.3 mention (anchor)*
+- **Geneva 1599:** “He said, I am the voyce of him that cryeth in the wildernesse, Make straight the way of the Lord, as said the Prophet Esaias.”
+- *Note:* 1.3 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Isaiah 9:1 LXX (= MT 8:23) — CONFIRMED
+*cited as: 1.4 seat*
+- **NETS (Septuagint, modern):** “Do this first; do it quickly, O country of Zaboulon, the land of Nephthalime, and the rest who inhabit the seashore and beyond the Jordan, Galilee of the nations, the parts of Judea.”
+- *Note:* NETS prints Isaiah by MT-verses: print 9:1(8:23) = the Zaboulon verse, print 9:2(9:1) = the walking-in-darkness verse; the draft cites them as “Isaiah 9:1-2 LXX (8:23-9:1)”. “Nephthalime,” is the print’s own spelling (wave-14 word-mode dump of 33-esaias.pdf p8). The nets-cache ch9 blob (old walk) is a glued mega-verse — the seat was cut from the print’s own verse marks (wave-14 glued-mark dump), not from the blob.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 9:2 LXX (= MT 9:1) — CONFIRMED
+*cited as: 1.4 seat (group with 9:1)*
+- **NETS (Septuagint, modern):** “O you people who walk in darkness, see a great light! O you who live in the country and in the shadow of death, light will shine on you!”
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Matthew 4:14 — DIFFERS (MINOR)
+*cited as: 1.4 GNV seat (joins into 4:15-16)*
+- **Geneva 1599:** “That it might be fulfilled which was spoken by Esaias the Propet, saying,”
+- **Flag:** 1.4 GNV seat (joins into 4:15-16) — eBible==TRB print "Propet" (1599 digitization for "Propbet"); draft's modern "Isaiah the Prophet" kept in seat (Esaias→Isaiah, Propet→Prophet recorded).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 4:15 — CONFIRMED
+*cited as: 1.4 GNV seat*
+- **Geneva 1599:** “The land of Zabulon, and the land of Nephthalim by the way of the sea, beyond Iordan, Galile of the Gentiles:”
+- *Note:* 1.4 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 4:16 — CONFIRMED
+*cited as: 1.4 GNV seat*
+- **Geneva 1599:** “The people which sate in darkenes, sawe great light: and to them which sate in the region, and shadowe of death, light is risen vp.”
+- *Note:* 1.4 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Isaiah 53:4 — DIFFERS (MINOR)
+*cited as: 1.5 pointer (already examined)*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
+- **Geneva 1599:** “Surely he hath borne our infirmities, and carried our sorrows: yet we did judge him as plagued and smitten of God, and humbled. But he was wounded for our transgressions: he was broken for our iniquities: the chastisement of our peace was upon him, and with his stripes we are healed. All we like sheep have gone astray: we have turned every one to his own way, and the Lord hath laid upon him the iniquity of us all.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment.”
+  (Translation-addition rule: specified translation prints verbatim at the seat; the remembered KJV-voiced line recorded here, not seated.)
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
+
+### Matthew 8:16 — ANCHOR
+*cited as: 1.5 mention (already cited)*
+- **Geneva 1599:** “When the Euen was come, they brought vnto him many that were possessed with deuils: and he cast out the spirits with his worde, and healed all that were sicke,”
+- *Note:* Wave-13 row; the draft points back to it.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 35:5 — CONFIRMED
+*cited as: 1.5 seat (group with 35:6)*
+- **NETS (Septuagint, modern):** “Then the eyes of the blind shall be opened, and the ears of the deaf shall hear;”
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 35:6 — CONFIRMED
+*cited as: 1.5 seat (group with 35:5)*
+- **NETS (Septuagint, modern):** “then the lame shall leap like a deer, and the tongue of stammerers shall be clear, because water has broken forth in the wilderness and a gully in a thirsty land;”
+- *Note:* Seat gloss added at seat time: stammerers (those whose speech stammers).
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Matthew 11:2 — CONFIRMED
+*cited as: 1.5 GNV seat (group 11:2-5)*
+- **Geneva 1599:** “And when Iohn heard in the prison the woorkes of Christ, he sent two of his disciples, and sayde vnto him,”
+- *Note:* 1.5 GNV seat (group 11:2-5)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 11:3 — CONFIRMED
+*cited as: 1.5 GNV seat*
+- **Geneva 1599:** “Art thou he that shoulde come, or shall we looke for another?”
+- *Note:* 1.5 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 11:4 — CONFIRMED
+*cited as: 1.5 GNV seat*
+- **Geneva 1599:** “And Iesus answering, said vnto them, Goe, and shewe Iohn, what things ye heare, and see.”
+- *Note:* 1.5 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 11:5 — CONFIRMED
+*cited as: 1.5 GNV seat*
+- **Geneva 1599:** “The blinde receiue sight, and the halt doe walke: the lepers are clensed, and the deafe heare, the dead are raised vp, and the poore receiue the Gospel.”
+- *Note:* 1.5 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Isaiah 61:1 — CONFIRMED
+*cited as: 1.6 seat (group with 61:2)*
+- **NETS (Septuagint, modern):** “The spirit of the Lord is upon me, because he has anointed me; he has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to the captives and recovery of sight to the blind,”
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 61:2 — CONFIRMED
+*cited as: 1.6 seat (group with 61:1)*
+- **NETS (Septuagint, modern):** “to summon the acceptable year of the Lord and the day of retribution, to comfort all who mourn”
+- *Note:* NETS 61:2 includes “the day of retribution, to comfort all who mourn” — the observation’s point (He stops reading at the acceptable year) stands against the full verse. Print v2 ends without a period.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Luke 4:16 — CONFIRMED
+*cited as: 1.6 GNV seat (group 4:16-21, draft ellipses)*
+- **Geneva 1599:** “And hee came to Nazareth where hee had bene brought vp, and (as his custome was) went into the Synagogue on the Sabbath day, and stoode vp to reade.”
+- *Note:* 1.6 GNV seat (group 4:16-21, draft ellipses)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 4:17 — CONFIRMED
+*cited as: 1.6 GNV seat*
+- **Geneva 1599:** “And there was deliuered vnto him the booke of the Prophet Esaias: and when hee had opened the booke, hee founde the place, where it was written,”
+- *Note:* 1.6 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 4:18 — CONFIRMED
+*cited as: 1.6 GNV seat*
+- **Geneva 1599:** “The Spirit of the Lord is vpon mee, because he hath anoynted me, that I should preach the Gospel to the poore: he hath sent mee, that I should heale the broken hearted, that I should preach deliuerance to the captiues, and recouering of sight to the blinde, that I should set at libertie them that are bruised:”
+- *Note:* 1.6 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 4:20 — ANCHOR
+*cited as: 1.6 cited range (skipped by the draft's ellipsis, within 4:16-21)*
+- **Geneva 1599:** “And hee closed the booke, and gaue it againe to the minister, and sate downe: and the eyes of all that were in the Synagogue were fastened on him.”
+- *Note:* 1.6 cited range (skipped by the draft's ellipsis, within 4:16-21)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 4:19 — CONFIRMED
+*cited as: 1.6 GNV seat*
+- **Geneva 1599:** “And that I should preache the acceptable yeere of the Lord.”
+- *Note:* 1.6 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 4:21 — CONFIRMED
+*cited as: 1.6 GNV seat*
+- **Geneva 1599:** “Then he began to say vnto them, This day is the Scripture fulfilled in your eares.”
+- *Note:* 1.6 GNV seat
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Zechariah 9:9 LXX (9:9 MT) — CONFIRMED
+*cited as: 1.7 seat*
+- **NETS (Septuagint, modern):** “Rejoice greatly, O daughter Sion! Proclaim, O daughter Ierousalem! Behold, your king comes to you, just and salvific is he, meek and riding on a beast of burden and a young foal.”
+- *Note:* LXX 9:9 = MT 9:9 (print marks 9:9 plain). Rahlfs (Swete) matches the draft Greek; the draft’s σπούζων/πραϋς/Σιών spellings vary from Swete’s σώζων/πρᾳς/Σειών — recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+
+### Matthew 21:4 — CONFIRMED
+*cited as: 1.7 GNV seat (joins into 21:5)*
+- **Geneva 1599:** “All this was done that it might be fulfilled, which was spoken by the Prophet, saying,”
+- *Note:* 1.7 GNV seat (joins into 21:5)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 21:5 — CONFIRMED
+*cited as: 1.7 GNV seat*
+- **Geneva 1599:** “Tell ye the daughter of Sion, Beholde, thy King commeth vnto thee, meeke and sitting vpon an asse, and a colte, the foale of an asse vsed to the yoke.”
+- *Note:* 1.7 GNV seat — Draft puts a comma at "meek, and sitting"; the editions print "meeke and sitting" — seat uses the draft's modern text.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 12:14 — ANCHOR
+*cited as: 1.7 mention (anchor)*
+- **Geneva 1599:** “And Iesus found a yong asse, and sate thereon, as it is written,”
+- *Note:* 1.7 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 12:15 — ANCHOR
+*cited as: 1.7 mention (anchor)*
+- **Geneva 1599:** “Feare not, daughter of Sion: behold, thy King commeth sitting on an asses colte.”
+- *Note:* 1.7 mention (anchor)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Zechariah 11:12 LXX (11:12 MT) — CONFIRMED
+*cited as: 1.8 seat (group with 11:13)*
+- **NETS (Septuagint, modern):** “And I will say to them, “If it is good in your sight, give me my wages, or refuse.” And they set my wages at thirty pieces of silver.”
+- *Note:* LXX 11:12 = MT 11:12. NETS “give me my wages, or refuse”; Rahlfs τριάκοντα ἀργυροῦς at 11:12b covered by 11:13’s seat.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Zechariah 11:13 LXX (11:13 MT) — CONFIRMED
+*cited as: 1.8 seat (group with 11:12)*
+- **NETS (Septuagint, modern):** “And the Lord said to me, “Place them in the smelter, and I will observe whether it is genuine, as I have been proven for them.” And I took the thirty pieces of silver and threw them into the house of the Lord, into the smelter.”
+- *Note:* LXX 11:13 = MT 11:13. NETS “the smelter” = τὸ χωνευτήριον; draft’s “Cast it unto/into the potter” is the Geneva’s (non-OT) voicing. Draft Greek row drops per seat shape.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Matthew 26:14 — CONFIRMED
+*cited as: 1.8 GNV seat (joins into 26:15)*
+- **Geneva 1599:** “Then one of the twelue, called Iudas Iscariot, went vnto the chiefe Priestes,”
+- *Note:* 1.8 GNV seat (joins into 26:15)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 26:15 — DIFFERS (MINOR)
+*cited as: 1.8 GNV seat*
+- **Geneva 1599:** “And said, What will ye giue me, and I will deliuer him vnto you? and they appoynted vnto him thirtie pieces of siluer.”
+- **Flag:** 1.8 GNV seat — Draft had "and said unto them,"; eBible==TRB print "And said," — seat keeps the edition.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 27:9 — ANCHOR
+*cited as: 1.8 mention (anchor; draft does not quote)*
+- **Geneva 1599:** “(Then was fulfilled that which was spoken by Ieremias the Prophet, saying, And they tooke thirtie siluer pieces, ye price of him that was valued, whom they of ye children of Israel valued.”
+- *Note:* 1.8 mention (anchor; draft does not quote)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 27:10 — ANCHOR
+*cited as: 1.8 mention (anchor; draft does not quote)*
+- **Geneva 1599:** “And they gaue them for the potters fielde, as the Lord appointed me.)”
+- *Note:* 1.8 mention (anchor; draft does not quote)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Zechariah 12:10 — CONFIRMED
+*cited as: 1.9 seat (the standing wave-13 NETS flag resolved)*
+- **NETS (Septuagint, modern):** “And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.”
+- **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
+- **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
+- **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
+- *Note:* NETS “they shall look to me … they have danced triumphantly” (the LXX’s καταορχήσαντο-παρειληφυίας family reading) at the seat; the observation’s “look upon Me / mourn for Him” note kept as his prose; draft Greek κατωρχήσαντο = Swete καταορχήσαντο.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
+
+### John 19:34 — CONFIRMED
+*cited as: 1.9 GNV seat (ellipsis seat 19:34 + 19:36a + 19:37)*
+- **Geneva 1599:** “But one of the souldiers with a speare pearced his side, and foorthwith came there out blood and water.”
+- *Note:* 1.9 GNV seat (ellipsis seat 19:34 + 19:36a + 19:37)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 19:35 — ANCHOR
+*cited as: 1.9 cited range (skipped by the draft's ellipsis)*
+- **Geneva 1599:** “And he that sawe it, bare recorde, and his record is true: and he knoweth that he saith true, that ye might beleeue it.”
+- *Note:* 1.9 cited range (skipped by the draft's ellipsis)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 19:36 — CONFIRMED
+*cited as: 1.9 GNV seat*
+- **Geneva 1599:** “For these things were done, that the Scripture shoulde be fulfilled, Not a bone of him shalbe broken.”
+- *Note:* 1.9 GNV seat — Draft cuts the tail "Not a bone of him shalbe broken." with an ellipsis.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 19:37 — DIFFERS (MINOR)
+*cited as: 1.9 GNV seat*
+- **Geneva 1599:** “And againe an other Scripture saith, They shall see him whom they haue thrust through.”
+- **Flag:** 1.9 GNV seat — Draft reads "whom they have pierced"; eBible==TRB print "whom they haue thrust through" (exekentesan) — seat keeps the edition's words. BibleHub /text/ JHN 19:37 Greek exact.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — Opsontai eis hon exekentesan confirmed exact*
+
+### Revelation 1:7 — CONFIRMED
+*cited as: 1.9 GNV seat — full verse*
+- **Geneva 1599:** “Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.”
+- *Note:* 1.9 GNV seat — full verse — The draft's quote omitted the closing "Even so, Amen." (recorded; seat carries the full verse).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 # THE BIBLICAL SABBATH
 
@@ -5016,7 +5411,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ezekiel 37:9 | P4 | confirmed |
 | Malachi 1:6 | P7 | confirmed |
 | Zechariah 1:8 | P8 | anchor |
-| Zechariah 12:10 | P1-Q8, COS-15 | confirmed, prose-ref |
+| Zechariah 12:10 | P1-Q8, COS-15, COS-23 | confirmed, prose-ref |
 | Matthew 5:37 | P7 | confirmed |
 | Matthew 6:9 | CLOSE | confirmed |
 | John 1:29 | P1-Q8, COS-15 | anchor, confirmed |
@@ -5153,10 +5548,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -5246,7 +5641,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:10 | COS-01 | anchor |
 | Philippians 2:11 | COS-01 | anchor |
 | Genesis 3:15 | COS-01, COS-19 | anchor, confirmed |
-| Isaiah 7:14 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
+| Isaiah 7:14 | COS-01, COS-19, COS-23 | confirmed, confirmed (excerpt) |
 | Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
 | Genesis 22:2 | COS-02, COS-19 | anchor, confirmed |
 | Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
@@ -5284,11 +5679,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1CO 1 24 | COS-05 | confirmed |
 | COL 1 15 | COS-05, COS-13, COS-17 | anchor, confirmed |
 | COL 1 17 | COS-05, COS-17 | confirmed |
-| MIC 5 2 | COS-06, COS-16, COS-17, COS-19 | anchor, confirmed, confirmed (excerpt) |
+| MIC 5 2 | COS-06, COS-16, COS-17, COS-19, COS-23 | anchor, confirmed, confirmed (excerpt) |
 | MAT 2 3 | COS-06 | confirmed |
 | MAT 2 4 | COS-06 | confirmed |
-| MAT 2 5 | COS-06, COS-16, COS-17, COS-19 | anchor, confirmed |
-| MAT 2 6 | COS-06, COS-17 | anchor, confirmed |
+| MAT 2 5 | COS-06, COS-16, COS-17, COS-19, COS-23 | anchor, confirmed |
+| MAT 2 6 | COS-06, COS-17, COS-23 | anchor, confirmed |
 | JHN 7 42 | COS-06, COS-16, COS-19 | anchor, confirmed |
 | GEN 16 7 | COS-07 | confirmed |
 | GEN 16 8 | COS-07 | confirmed |
@@ -5416,7 +5811,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 27:57 | COS-22 | confirmed (excerpt) |
 | Matthew 27:58 | COS-22 | confirmed (excerpt) |
 | Matthew 27:60 | COS-22 | confirmed (excerpt) |
-| Matthew 8:16 | COS-22 | confirmed (excerpt) |
+| Matthew 8:16 | COS-22, COS-23 | anchor, confirmed (excerpt) |
 | Matthew 8:17 | COS-22 | confirmed (excerpt) |
 | Mark 15:34 | COS-22 | confirmed |
 | Romans 10:16 | COS-22 | confirmed |
@@ -5440,7 +5835,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 53:1 | COS-22 | confirmed |
 | Isaiah 53:2 | COS-22 | confirmed |
 | Isaiah 53:3 | COS-22 | confirmed |
-| Isaiah 53:4 | COS-22 | confirmed |
+| Isaiah 53:4 | COS-22, COS-23 | confirmed, differs (minor) |
 | Isaiah 53:6 | COS-22 | confirmed |
 | Isaiah 53:7 | COS-22 | confirmed |
 | Isaiah 53:8 | COS-22 | confirmed |
@@ -5464,6 +5859,56 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 2 (chapter ref) | COS-22 | anchor |
 | Psalm 2:8 | COS-22 | anchor |
 | John 12:32 | COS-22 | differs (minor) |
+| Isaiah 9:1 LXX (= MT 8:23) | COS-23 | confirmed |
+| Isaiah 9:2 LXX (= MT 9:1) | COS-23 | confirmed |
+| Isaiah 35:5 | COS-23 | confirmed |
+| Isaiah 35:6 | COS-23 | confirmed |
+| Isaiah 40:3 | COS-23 | confirmed |
+| Isaiah 61:1 | COS-23 | confirmed |
+| Isaiah 61:2 | COS-23 | confirmed |
+| Hosea 11:1 LXX (11:1 MT) | COS-23 | confirmed |
+| Zechariah 9:9 LXX (9:9 MT) | COS-23 | confirmed |
+| Zechariah 11:12 LXX (11:12 MT) | COS-23 | confirmed |
+| Zechariah 11:13 LXX (11:13 MT) | COS-23 | confirmed |
+| Matthew 1:22 | COS-23 | confirmed |
+| Matthew 1:23 | COS-23 | confirmed |
+| Matthew 2:14 | COS-23 | confirmed |
+| Matthew 2:15 | COS-23 | differs (minor) |
+| Matthew 3:1 | COS-23 | anchor |
+| Matthew 3:2 | COS-23 | anchor |
+| Matthew 3:3 | COS-23 | confirmed |
+| Matthew 4:14 | COS-23 | differs (minor) |
+| Matthew 4:15 | COS-23 | confirmed |
+| Matthew 4:16 | COS-23 | confirmed |
+| Matthew 11:2 | COS-23 | confirmed |
+| Matthew 11:3 | COS-23 | confirmed |
+| Matthew 11:4 | COS-23 | confirmed |
+| Matthew 11:5 | COS-23 | confirmed |
+| Matthew 21:4 | COS-23 | confirmed |
+| Matthew 21:5 | COS-23 | confirmed |
+| Matthew 26:14 | COS-23 | confirmed |
+| Matthew 26:15 | COS-23 | differs (minor) |
+| Matthew 27:9 | COS-23 | anchor |
+| Matthew 27:10 | COS-23 | anchor |
+| Mark 1:2 | COS-23 | anchor |
+| Mark 1:3 | COS-23 | anchor |
+| Luke 3:4 | COS-23 | anchor |
+| Luke 3:5 | COS-23 | anchor |
+| Luke 3:6 | COS-23 | anchor |
+| Luke 4:16 | COS-23 | confirmed |
+| Luke 4:17 | COS-23 | confirmed |
+| Luke 4:18 | COS-23 | confirmed |
+| Luke 4:19 | COS-23 | confirmed |
+| Luke 4:20 | COS-23 | anchor |
+| Luke 4:21 | COS-23 | confirmed |
+| John 1:23 | COS-23 | anchor |
+| John 12:14 | COS-23 | anchor |
+| John 12:15 | COS-23 | anchor |
+| John 19:34 | COS-23 | confirmed |
+| John 19:35 | COS-23 | anchor |
+| John 19:36 | COS-23 | confirmed |
+| John 19:37 | COS-23 | differs (minor) |
+| Revelation 1:7 | COS-23 | confirmed |
 
 ## The editions used
 

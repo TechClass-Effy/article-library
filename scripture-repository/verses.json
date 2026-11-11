@@ -74,7 +74,8 @@
    "COS-19",
    "COS-20",
    "COS-21",
-   "COS-22"
+   "COS-22",
+   "COS-23"
   ],
   "sections": [
    {
@@ -318,6 +319,10 @@
    {
     "key": "COS-22",
     "label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis"
+   },
+   {
+    "key": "COS-23",
+    "label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry"
    }
   ],
   "double_check": {
@@ -378,9 +383,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 30008,
+  "so_far_words": 32447,
   "cos_sofar": {
-   "waves": 13
+   "waves": 14
   }
  },
  "verses": [
@@ -2991,6 +2996,17 @@
       "version": "gnv",
       "text": ""
      }
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.9 seat (the standing wave-13 NETS flag resolved)",
+     "article_line": 3555,
+     "quotes": [
+      "\"And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.\""
+     ],
+     "status": "confirmed",
+     "note": "NETS “they shall look to me … they have danced triumphantly” (the LXX’s καταορχήσαντο-παρειληφυίας family reading) at the seat; the observation’s “look upon Me / mourn for Him” note kept as his prose; draft Greek κατωρχήσαντο = Swete καταορχήσαντο."
     }
    ],
    "verified": "2026-11-11",
@@ -3006,6 +3022,15 @@
     "kjv": {
      "text": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.",
      "source": "https://ebible.org/eng-kjv2006/ZEC12.htm"
+    },
+    "nets": {
+     "text": "And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 12:10 (pp37-42 walk) (wave-14 span walk)"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἐκχεῶ ἐπὶ τὸν οἶκον Δαυεὶδ καὶ ἐπὶ τοὺς κατοικοῦντας Ἰερουσαλὴμ πνεῖμα χάριτος καὶ οἰκτιρμοῦ · καὶ ἐπιβλέψονται πρὸς μέ ἀνθʼ ὧν καταορχήσαντο καὶ κόψονται ἐπʼ αὐτὸν κοπετὸν ὡς ἐπʼ ἀγαπητῷ καὶ ὀδυνηθήσονται ὀδύνην ὡς ἐπὶ τῷ πρωτοτόκῳ Ἱεροσόλυμα",
+     "source": "https://www.theancientbible.org/zechariah-lxx-12/",
+     "result": "draft phrases ἐπιβλέψονται πρός με + κόψονται ἐπ’ αὐτόν confirmed verbatim; draft κατωρχήσαντο vs Swete καταορχήσαντο (spelling variant); Swete page prints πνεῖμα for πνεῦμα (site spelling); page carries a trailing Ἡροσόλυμα layout-glue token"
     }
    },
    "second_check": {
@@ -3030,7 +3055,8 @@
     "kind": "needs-verification",
     "detail": "NETS Zechariah 12:10 text not in bank (XII cache unusable); the draft prose quotes the KJV/Geneva wording unattributed. When the Suffering-Servant wave seats Zechariah 12:10, verify NETS wording (or his Logos LES copy) and decide whether an attribution gloss is wanted.",
     "awaiting": "Gideon — next wave or his word"
-   }
+   },
+   "resolved_flag": "ZEC.12.10 NETS seated wave-14 (32-twelve.pdf walk + Swete Rahlfs check)"
   },
   {
    "id": "MAT.5.37",
@@ -12925,6 +12951,17 @@
      "status": "confirmed-excerpt",
      "note": "Seat: NETS verbatim \"the virgin shall be with child and bear a son\" — draft voiced KJV \"shall conceive and bear\".",
      "matched_source": "nets"
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.1 seat (NETS re-seated)",
+     "article_line": 3354,
+     "quotes": [
+      "\"Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.\""
+     ],
+     "status": "confirmed",
+     "note": "Seat reused from the banked COS-01/COS-19 NETS text."
     }
    ],
    "verified": "2026-11-11",
@@ -14753,6 +14790,17 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: NETS verbatim \"his goings forth are from of old, from days of yore *(long ago)*\" — draft voiced \"whose goings-forth ... days of eternity\". Both verse-number maps already recorded on the row. Summary item 10 lists the clause."
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.1 seat (NETS re-seated)",
+     "article_line": 3361,
+     "quotes": [
+      "\"And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.\""
+     ],
+     "status": "confirmed",
+     "note": "Seat reused from the Wave-3 NETS seat."
     }
    ],
    "verified": "2026-11-11",
@@ -14894,6 +14942,15 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #4 Claim B bullet (Matt 2:5-6 cites Micah 5:2 Bethlehem portion)."
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.1 mention (already examined)",
+     "article_line": 3372,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Draft points back to the Wave-3 GNV Matthew 2:3-6 seats."
     }
    ],
    "verified": "2026-11-11",
@@ -14940,6 +14997,14 @@
      "quotes": [],
      "status": "anchor",
      "note": "Honest Revised Position table."
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.1 mention (already examined)",
+     "article_line": 3372,
+     "quotes": [],
+     "status": "anchor"
     }
    ],
    "verified": "2026-11-11",
@@ -20126,6 +20191,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 mention (already cited)",
+     "article_line": 3458,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Wave-13 row; the draft points back to it."
     }
    ],
    "verified": "2026-11-11",
@@ -20998,6 +21072,23 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 pointer (already examined)",
+     "article_line": 3456,
+     "quotes": [
+      "\"He bore our infirmities and carried our sorrows.\""
+     ],
+     "status": "differs-minor",
+     "note": "The draft’s memo quotes a KJV/Matthew-8:17-voiced string; the seat prints the specified NETS verbatim (clause). Adjudication: seat = NETS.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment.",
+      "reason": "Translation-addition rule: specified translation prints verbatim at the seat; the remembered KJV-voiced line recorded here, not seated."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -21634,6 +21725,1479 @@
     }
    },
    "note": ""
+  },
+  {
+   "id": "ISA.9.1",
+   "ref": "Isaiah 9:1 LXX (= MT 8:23)",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.4 seat",
+     "article_line": 3434,
+     "quotes": [
+      "\"Do this first; do it quickly, O country of Zaboulon, the land of Nephthalime, and the rest who inhabit the seashore and beyond the Jordan, Galilee of the nations, the parts of Judea.\""
+     ],
+     "status": "confirmed",
+     "note": "NETS prints Isaiah by MT-verses: print 9:1(8:23) = the Zaboulon verse, print 9:2(9:1) = the walking-in-darkness verse; the draft cites them as “Isaiah 9:1-2 LXX (8:23-9:1)”. “Nephthalime,” is the print’s own spelling (wave-14 word-mode dump of 33-esaias.pdf p8). The nets-cache ch9 blob (old walk) is a glued mega-verse — the seat was cut from the print’s own verse marks (wave-14 glued-mark dump), not from the blob."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Do this first; do it quickly, O country of Zaboulon, the land of Nephthalime, and the rest who inhabit the seashore and beyond the Jordan, Galilee of the nations, the parts of Judea.",
+     "source": "scraped NETS PDF master, 33-esaias.pdf, print Isaiah 9:1 (8:23) (wave-14 glued-mark print dump)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ISA.9.2",
+   "ref": "Isaiah 9:2 LXX (= MT 9:1)",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.4 seat (group with 9:1)",
+     "article_line": 3435,
+     "quotes": [
+      "\"O you people who walk in darkness, see a great light! O you who live in the country and in the shadow of death, light will shine on you!\""
+     ],
+     "status": "confirmed"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "O you people who walk in darkness, see a great light! O you who live in the country and in the shadow of death, light will shine on you!",
+     "source": "scraped NETS PDF master, 33-esaias.pdf, print Isaiah 9:2 (9:1) (wave-14 glued-mark print dump)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ISA.35.5",
+   "ref": "Isaiah 35:5",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 seat (group with 35:6)",
+     "article_line": 3461,
+     "quotes": [
+      "\"Then the eyes of the blind shall be opened, and the ears of the deaf shall hear;\""
+     ],
+     "status": "confirmed"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Then the eyes of the blind shall be opened, and the ears of the deaf shall hear;",
+     "source": "scripture-repository/editions/nets/nets_cache.json ISA (33-esaias.pdf scrape)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ISA.35.6",
+   "ref": "Isaiah 35:6",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 seat (group with 35:5)",
+     "article_line": 3461,
+     "quotes": [
+      "\"then the lame shall leap like a deer, and the tongue of stammerers shall be clear, because water has broken forth in the wilderness and a gully in a thirsty land;\""
+     ],
+     "status": "confirmed",
+     "note": "Seat gloss added at seat time: stammerers (those whose speech stammers)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "then the lame shall leap like a deer, and the tongue of stammerers shall be clear, because water has broken forth in the wilderness and a gully in a thirsty land;",
+     "source": "scripture-repository/editions/nets/nets_cache.json ISA (33-esaias.pdf scrape)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ISA.40.3",
+   "ref": "Isaiah 40:3",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 seat",
+     "article_line": 3409,
+     "quotes": [
+      "\"A voice of one crying out in the wilderness: “Prepare the way of the Lord; make straight the paths of our God.\""
+     ],
+     "status": "confirmed",
+     "note": "The NETS print leaves the 40:3 speech quotation mark unclosed (raw p30; the close mark never prints in v3) — seat verbatim to the print."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "A voice of one crying out in the wilderness: “Prepare the way of the Lord; make straight the paths of our God.",
+     "source": "scripture-repository/editions/nets/nets_cache.json ISA (33-esaias.pdf scrape)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ISA.61.1",
+   "ref": "Isaiah 61:1",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 seat (group with 61:2)",
+     "article_line": 3485,
+     "quotes": [
+      "\"The spirit of the Lord is upon me, because he has anointed me; he has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to the captives and recovery of sight to the blind,\""
+     ],
+     "status": "confirmed"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The spirit of the Lord is upon me, because he has anointed me; he has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to the captives and recovery of sight to the blind,",
+     "source": "scripture-repository/editions/nets/nets_cache.json ISA (33-esaias.pdf scrape)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ISA.61.2",
+   "ref": "Isaiah 61:2",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 seat (group with 61:1)",
+     "article_line": 3485,
+     "quotes": [
+      "\"to summon the acceptable year of the Lord and the day of retribution, to comfort all who mourn\""
+     ],
+     "status": "confirmed",
+     "note": "NETS 61:2 includes “the day of retribution, to comfort all who mourn” — the observation’s point (He stops reading at the acceptable year) stands against the full verse. Print v2 ends without a period."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "to summon the acceptable year of the Lord and the day of retribution, to comfort all who mourn",
+     "source": "scripture-repository/editions/nets/nets_cache.json ISA (33-esaias.pdf scrape)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "HOS.11.1",
+   "ref": "Hosea 11:1 LXX (11:1 MT)",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.2 seat",
+     "article_line": 3387,
+     "quotes": [
+      "\"For Israel was an infant, and I loved him, and out of Egypt I recalled his children.\""
+     ],
+     "status": "confirmed",
+     "note": "Wave-14 cache repair: the wave-6 walk glued the 10:15 tail “Israel’s king was cast out.” onto 11:1; the print (p10) shows “15 … evil deeds. 11 At dawn they were cast out; Israel’s king was cast out. (1) For Israel was an infant …” — so “At dawn … cast out.” is 10:15’s tail and “(1)” opens 11:1. Draft quoted the Greek from Διότι (the print’s own opening); Swete prints ὅτι."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "For Israel was an infant, and I loved him, and out of Egypt I recalled his children.",
+     "source": "32-twelve.pdf print p10 (wave-14 print-verified), cache HOS (wave-6 walk, glue repaired wave-14)"
+    },
+    "greek_rahlfs": {
+     "text": "ὄρθρου ἀπερίφησαν · ἀπερίφη βασιλεὺς Ἰσραήλ Ὅτι νήπιος Ἰσραὴλ καὶ ἐγὼ ἠγάπησα αὐτόν καὶ ἐξ Αἰγύπτου μετεκάλεσα τὰ τέκνα αὐτοῦ",
+     "source": "https://www.theancientbible.org/hosea-lxx-11/",
+     "result": "substance-verified after page-glue; tokens match draft 12/14; draft “Διότι” vs Swete “ὅτι”"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ZEC.9.9",
+   "ref": "Zechariah 9:9 LXX (9:9 MT)",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.7 seat",
+     "article_line": 3513,
+     "quotes": [
+      "\"Rejoice greatly, O daughter Sion! Proclaim, O daughter Ierousalem! Behold, your king comes to you, just and salvific is he, meek and riding on a beast of burden and a young foal.\""
+     ],
+     "status": "confirmed",
+     "note": "LXX 9:9 = MT 9:9 (print marks 9:9 plain). Rahlfs (Swete) matches the draft Greek; the draft’s σπούζων/πραϋς/Σιών spellings vary from Swete’s σώζων/πρᾳς/Σειών — recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Rejoice greatly, O daughter Sion! Proclaim, O daughter Ierousalem! Behold, your king comes to you, just and salvific is he, meek and riding on a beast of burden and a young foal.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 9:9 (pp37-42 walk, mid-chapter clean) (wave-14 span walk)"
+    },
+    "greek_rahlfs": {
+     "text": "&#8211; &mdash; &#9790; &rsaquo; &rsaquo; &rsaquo; (Ζαχαρίας) &middot; &lsaquo; &rsaquo; Swete&#039;s &middot; Χαῖρε σφόδρα θύγατερ Σειών · κήρυσσε θύγατερ Ἰερουσαλήμ · ἰδοὺ ὁ βασιλεύς σου ἔρχεταί σοι δίκαιος καὶ σώζων αὐτὸς πρᾳὺς καὶ ἐπιβεβηκὼς ἐπὶ ὑποζύγιον καὶ πῶλον νέον &rsaquo;",
+     "source": "https://www.theancientbible.org/zechariah-lxx-9/",
+     "result": "tokens verified; page-layout glue around verse bounds noted"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ZEC.11.12",
+   "ref": "Zechariah 11:12 LXX (11:12 MT)",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.8 seat (group with 11:13)",
+     "article_line": 3537,
+     "quotes": [
+      "\"And I will say to them, “If it is good in your sight, give me my wages, or refuse.” And they set my wages at thirty pieces of silver.\""
+     ],
+     "status": "confirmed",
+     "note": "LXX 11:12 = MT 11:12. NETS “give me my wages, or refuse”; Rahlfs τριάκοντα ἀργυροῦς at 11:12b covered by 11:13’s seat."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And I will say to them, “If it is good in your sight, give me my wages, or refuse.” And they set my wages at thirty pieces of silver.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 11:12 (pp37-42 walk, mid-chapter clean) (wave-14 span walk)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ZEC.11.13",
+   "ref": "Zechariah 11:13 LXX (11:13 MT)",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.8 seat (group with 11:12)",
+     "article_line": 3537,
+     "quotes": [
+      "\"And the Lord said to me, “Place them in the smelter, and I will observe whether it is genuine, as I have been proven for them.” And I took the thirty pieces of silver and threw them into the house of the Lord, into the smelter.\""
+     ],
+     "status": "confirmed",
+     "note": "LXX 11:13 = MT 11:13. NETS “the smelter” = τὸ χωνευτήριον; draft’s “Cast it unto/into the potter” is the Geneva’s (non-OT) voicing. Draft Greek row drops per seat shape."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord said to me, “Place them in the smelter, and I will observe whether it is genuine, as I have been proven for them.” And I took the thirty pieces of silver and threw them into the house of the Lord, into the smelter.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 11:13 (pp37-42 walk, mid-chapter clean) (wave-14 span walk)"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "MAT.1.22",
+   "ref": "Matthew 1:22",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.1 GNV seat (joins into 1:23)",
+     "article_line": 3366,
+     "quotes": [
+      "\"And all this was done that it might be fulfilled which is spoken of the Lord by the Prophet, saying, Behold, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which is by interpretation, God with us.\""
+     ],
+     "status": "confirmed",
+     "note": "1.1 GNV seat (joins into 1:23)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And al this was done that it might be fulfilled, which is spoken of the Lord by ye Prophet, saying,",
+     "source": "https://ebible.org/enggnv/MAT01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And al this was done that it might be fulfilled, which is spoken of the Lord by ye Prophet, saying,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.1.23",
+   "ref": "Matthew 1:23",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.1 GNV seat (joined from 1:22)",
+     "article_line": 3366,
+     "quotes": [
+      "\"And all this was done that it might be fulfilled which is spoken of the Lord by the Prophet, saying, Behold, a virgin shall be with child, and shall bear a son, and they shall call his name Emmanuel, which is by interpretation, God with us.\""
+     ],
+     "status": "confirmed",
+     "note": "1.1 GNV seat (joined from 1:22) — BibleHub /text/ Greek exact: Idou he parthenos ... Meth' hemon ho Theos."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Behold, a virgine shalbe with childe, and shall beare a sonne, and they shall call his name Emmanuel, which is by interpretation, God with vs.",
+     "source": "https://ebible.org/enggnv/MAT01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Behold, a virgine shalbe with childe, and shall beare a sonne, and they shall call his name Emmanuel, which is by interpretation, God with vs.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ, ὅ ἐστιν μεθερμηνευόμενον Μεθ’ ἡμῶν ὁ Θεός.",
+     "source": "https://biblehub.com/text/matthew/1-23.htm",
+     "result": "he parthenos + Meth' hemon ho Theos confirmed exact"
+    }
+   }
+  },
+  {
+   "id": "MAT.2.14",
+   "ref": "Matthew 2:14",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.2 GNV seat (joins into 2:15)",
+     "article_line": 3392,
+     "quotes": [
+      "\"So he arose and took the babe and his mother by night, and departed into Egypt, And was there unto the death of Herod, that that might be fulfilled, which is spoken of the Lord by the Prophet, saying, Out of Egypt have I called my son.\""
+     ],
+     "status": "confirmed",
+     "note": "1.2 GNV seat (joins into 2:15)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "So he arose and tooke the babe and his mother by night, and departed into Egypt,",
+     "source": "https://ebible.org/enggnv/MAT02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "So he arose and tooke the babe and his mother by night, and departed into Egypt,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.2.15",
+   "ref": "Matthew 2:15",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.2 GNV seat (joined from 2:14)",
+     "article_line": 3392,
+     "quotes": [
+      "\"So he arose and took the babe and his mother by night, and departed into Egypt, And was there unto the death of Herod, that that might be fulfilled, which is spoken of the Lord by the Prophet, saying, Out of Egypt have I called my son.\""
+     ],
+     "status": "differs-minor",
+     "note": "1.2 GNV seat (joined from 2:14) — Draft reads \"that it might be fulfilled\"; eBible==TRB both print \"that that\" (the JHN 7:42 doubled-that class) — seat keeps the editions."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And was there vnto the death of Herod, that that might be fulfilled, which is spoken of the Lord by the Prophet, saying, Out of Egypt haue I called my sonne.",
+     "source": "https://ebible.org/enggnv/MAT02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And was there vnto the death of Herod, that that might be fulfilled, which is spoken of the Lord by the Prophet, saying, Out of Egypt haue I called my sonne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.3.1",
+   "ref": "Matthew 3:1",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 cited range (draft quotes 3:3 only)",
+     "article_line": 3416,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 cited range (draft quotes 3:3 only)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And in those dayes, Iohn the Baptist came and preached in the wildernes of Iudea,",
+     "source": "https://ebible.org/enggnv/MAT03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And in those dayes, Iohn the Baptist came and preached in the wildernes of Iudea,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.3.2",
+   "ref": "Matthew 3:2",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 cited range (draft quotes 3:3 only)",
+     "article_line": 3416,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 cited range (draft quotes 3:3 only)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And said, Repent: for the kingdome of heauen is at hand.",
+     "source": "https://ebible.org/enggnv/MAT03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And said, Repent: for the kingdome of heauen is at hand.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.3.3",
+   "ref": "Matthew 3:3",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 GNV seat (cited as Matthew 3:1-3)",
+     "article_line": 3418,
+     "quotes": [
+      "\"For this is he of whom it is spoken by the Prophet Esaias, saying, The voice of him that crieth in the wilderness, Prepare ye the way of the Lord: make his paths straight.\""
+     ],
+     "status": "confirmed",
+     "note": "1.3 GNV seat (cited as Matthew 3:1-3)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For this is he of whome it is spoken by the Prophet Esaias, saying, The voyce of him that crieth in the wildernes, Prepare ye the way of the Lord: make his pathes straight.",
+     "source": "https://ebible.org/enggnv/MAT03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For this is he of whome it is spoken by the Prophet Esaias, saying, The voyce of him that crieth in the wildernes, Prepare ye the way of the Lord: make his pathes straight.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.4.14",
+   "ref": "Matthew 4:14",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.4 GNV seat (joins into 4:15-16)",
+     "article_line": 3440,
+     "quotes": [
+      "\"That it might be fulfilled which was spoken by Isaiah the Prophet, saying, The land of Zebulun, and the land of Nephthali by the way of the sea, beyond Jordan, Galilee of the Gentiles: The people which sat in darkness, saw great light: and to them which sat in the region, and shadow of death, light is risen up.\""
+     ],
+     "status": "differs-minor",
+     "note": "1.4 GNV seat (joins into 4:15-16) — eBible==TRB print \"Propet\" (1599 digitization for \"Propbet\"); draft's modern \"Isaiah the Prophet\" kept in seat (Esaias→Isaiah, Propet→Prophet recorded)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "That it might be fulfilled which was spoken by Esaias the Propet, saying,",
+     "source": "https://ebible.org/enggnv/MAT04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That it might be fulfilled which was spoken by Esaias the Propet, saying,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.4.15",
+   "ref": "Matthew 4:15",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.4 GNV seat",
+     "article_line": 3441,
+     "quotes": [
+      "\"That it might be fulfilled which was spoken by Isaiah the Prophet, saying, The land of Zebulun, and the land of Nephthali by the way of the sea, beyond Jordan, Galilee of the Gentiles: The people which sat in darkness, saw great light: and to them which sat in the region, and shadow of death, light is risen up.\""
+     ],
+     "status": "confirmed",
+     "note": "1.4 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The land of Zabulon, and the land of Nephthalim by the way of the sea, beyond Iordan, Galile of the Gentiles:",
+     "source": "https://ebible.org/enggnv/MAT04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The land of Zabulon, and the land of Nephthalim by the way of the sea, beyond Iordan, Galile of the Gentiles:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.4.16",
+   "ref": "Matthew 4:16",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.4 GNV seat",
+     "article_line": 3441,
+     "quotes": [
+      "\"That it might be fulfilled which was spoken by Isaiah the Prophet, saying, The land of Zebulun, and the land of Nephthali by the way of the sea, beyond Jordan, Galilee of the Gentiles: The people which sat in darkness, saw great light: and to them which sat in the region, and shadow of death, light is risen up.\""
+     ],
+     "status": "confirmed",
+     "note": "1.4 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The people which sate in darkenes, sawe great light: and to them which sate in the region, and shadowe of death, light is risen vp.",
+     "source": "https://ebible.org/enggnv/MAT04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The people which sate in darkenes, sawe great light: and to them which sate in the region, and shadowe of death, light is risen vp.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.11.2",
+   "ref": "Matthew 11:2",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 GNV seat (group 11:2-5)",
+     "article_line": 3466,
+     "quotes": [
+      "\"And when John heard in the prison the works of Christ, he sent two of his disciples, and said unto him, Art thou he that should come, or shall we look for another? And Jesus answering, said unto them, Go, and show John, what things ye hear and see. The blind receive sight, and the halt do walk: the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor receive the Gospel.\""
+     ],
+     "status": "confirmed",
+     "note": "1.5 GNV seat (group 11:2-5)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when Iohn heard in the prison the woorkes of Christ, he sent two of his disciples, and sayde vnto him,",
+     "source": "https://ebible.org/enggnv/MAT11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when Iohn heard in the prison the woorkes of Christ, he sent two of his disciples, and sayde vnto him,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/11",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.11.3",
+   "ref": "Matthew 11:3",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 GNV seat",
+     "article_line": 3467,
+     "quotes": [
+      "\"And when John heard in the prison the works of Christ, he sent two of his disciples, and said unto him, Art thou he that should come, or shall we look for another? And Jesus answering, said unto them, Go, and show John, what things ye hear and see. The blind receive sight, and the halt do walk: the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor receive the Gospel.\""
+     ],
+     "status": "confirmed",
+     "note": "1.5 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Art thou he that shoulde come, or shall we looke for another?",
+     "source": "https://ebible.org/enggnv/MAT11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Art thou he that shoulde come, or shall we looke for another?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/11",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.11.4",
+   "ref": "Matthew 11:4",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 GNV seat",
+     "article_line": 3467,
+     "quotes": [
+      "\"And when John heard in the prison the works of Christ, he sent two of his disciples, and said unto him, Art thou he that should come, or shall we look for another? And Jesus answering, said unto them, Go, and show John, what things ye hear and see. The blind receive sight, and the halt do walk: the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor receive the Gospel.\""
+     ],
+     "status": "confirmed",
+     "note": "1.5 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus answering, said vnto them, Goe, and shewe Iohn, what things ye heare, and see.",
+     "source": "https://ebible.org/enggnv/MAT11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And Iesus answering, said vnto them, Goe, and shewe Iohn, what things ye heare, and see.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/11",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.11.5",
+   "ref": "Matthew 11:5",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.5 GNV seat",
+     "article_line": 3470,
+     "quotes": [
+      "\"And when John heard in the prison the works of Christ, he sent two of his disciples, and said unto him, Art thou he that should come, or shall we look for another? And Jesus answering, said unto them, Go, and show John, what things ye hear and see. The blind receive sight, and the halt do walk: the lepers are cleansed, and the deaf hear, the dead are raised up, and the poor receive the Gospel.\""
+     ],
+     "status": "confirmed",
+     "note": "1.5 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The blinde receiue sight, and the halt doe walke: the lepers are clensed, and the deafe heare, the dead are raised vp, and the poore receiue the Gospel.",
+     "source": "https://ebible.org/enggnv/MAT11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The blinde receiue sight, and the halt doe walke: the lepers are clensed, and the deafe heare, the dead are raised vp, and the poore receiue the Gospel.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/11",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.21.4",
+   "ref": "Matthew 21:4",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.7 GNV seat (joins into 21:5)",
+     "article_line": 3518,
+     "quotes": [
+      "\"All this was done that it might be fulfilled which was spoken by the Prophet, saying, Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt, the foal of an ass used to the yoke.\""
+     ],
+     "status": "confirmed",
+     "note": "1.7 GNV seat (joins into 21:5)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "All this was done that it might be fulfilled, which was spoken by the Prophet, saying,",
+     "source": "https://ebible.org/enggnv/MAT21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "All this was done that it might be fulfilled, which was spoken by the Prophet, saying,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/21",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.21.5",
+   "ref": "Matthew 21:5",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.7 GNV seat",
+     "article_line": 3522,
+     "quotes": [
+      "\"All this was done that it might be fulfilled which was spoken by the Prophet, saying, Tell ye the daughter of Sion, Behold, thy King cometh unto thee, meek, and sitting upon an ass, and a colt, the foal of an ass used to the yoke.\""
+     ],
+     "status": "confirmed",
+     "note": "1.7 GNV seat — Draft puts a comma at \"meek, and sitting\"; the editions print \"meeke and sitting\" — seat uses the draft's modern text."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Tell ye the daughter of Sion, Beholde, thy King commeth vnto thee, meeke and sitting vpon an asse, and a colte, the foale of an asse vsed to the yoke.",
+     "source": "https://ebible.org/enggnv/MAT21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Tell ye the daughter of Sion, Beholde, thy King commeth vnto thee, meeke and sitting vpon an asse, and a colte, the foale of an asse vsed to the yoke.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/21",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.26.14",
+   "ref": "Matthew 26:14",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.8 GNV seat (joins into 26:15)",
+     "article_line": 3542,
+     "quotes": [
+      "\"Then one of the twelve, called Judas Iscariot, went unto the chief Priests, and said, What will ye give me, and I will deliver him unto you? and they appointed unto him thirty pieces of silver.\""
+     ],
+     "status": "confirmed",
+     "note": "1.8 GNV seat (joins into 26:15)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then one of the twelue, called Iudas Iscariot, went vnto the chiefe Priestes,",
+     "source": "https://ebible.org/enggnv/MAT26.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then one of the twelue, called Iudas Iscariot, went vnto the chiefe Priestes,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/26",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.26.15",
+   "ref": "Matthew 26:15",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.8 GNV seat",
+     "article_line": 3543,
+     "quotes": [
+      "\"Then one of the twelve, called Judas Iscariot, went unto the chief Priests, and said, What will ye give me, and I will deliver him unto you? and they appointed unto him thirty pieces of silver.\""
+     ],
+     "status": "differs-minor",
+     "note": "1.8 GNV seat — Draft had \"and said unto them,\"; eBible==TRB print \"And said,\" — seat keeps the edition."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And said, What will ye giue me, and I will deliuer him vnto you? and they appoynted vnto him thirtie pieces of siluer.",
+     "source": "https://ebible.org/enggnv/MAT26.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And said, What will ye giue me, and I will deliuer him vnto you? and they appoynted vnto him thirtie pieces of siluer.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/26",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.27.9",
+   "ref": "Matthew 27:9",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.8 mention (anchor; draft does not quote)",
+     "article_line": 3548,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.8 mention (anchor; draft does not quote)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "(Then was fulfilled that which was spoken by Ieremias the Prophet, saying, And they tooke thirtie siluer pieces, ye price of him that was valued, whom they of ye children of Israel valued.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "(Then was fulfilled that which was spoken by Ieremias the Prophet, saying, And they tooke thirtie siluer pieces, ye price of him that was valued, whom they of ye children of Israel valued.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.27.10",
+   "ref": "Matthew 27:10",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.8 mention (anchor; draft does not quote)",
+     "article_line": 3548,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.8 mention (anchor; draft does not quote)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they gaue them for the potters fielde, as the Lord appointed me.)",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And they gaue them for the potters fielde, as the Lord appointed me.)",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/27",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MRK.1.2",
+   "ref": "Mark 1:2",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 mention (anchor)",
+     "article_line": 3420,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "As it is written in the Prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+     "source": "https://ebible.org/enggnv/MRK01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "As it is written in the Prophets, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/41/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MRK.1.3",
+   "ref": "Mark 1:3",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 mention (anchor)",
+     "article_line": 3420,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The voyce of him that cryeth in the wildernesse is, Prepare the way of the Lord: make his paths straight.",
+     "source": "https://ebible.org/enggnv/MRK01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The voyce of him that cryeth in the wildernesse is, Prepare the way of the Lord: make his paths straight.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/41/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.3.4",
+   "ref": "Luke 3:4",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 mention (anchor)",
+     "article_line": 3420,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "As it is written in the booke of the sayings of Esaias the Prophet, which saith, The voyce of him that crieth in the wildernes is, Prepare ye the way of the Lord: make his paths straight.",
+     "source": "https://ebible.org/enggnv/LUK03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "As it is written in the booke of the sayings of Esaias the Prophet, which saith, The voyce of him that crieth in the wildernes is, Prepare ye the way of the Lord: make his paths straight.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.3.5",
+   "ref": "Luke 3:5",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 mention (anchor)",
+     "article_line": 3420,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Euery valley shalbe filled, and euery mountaine and hill shall be brought lowe, and crooked things shalbe made straight, and the rough wayes shalbe made smoothe.",
+     "source": "https://ebible.org/enggnv/LUK03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Euery valley shalbe filled, and euery mountaine and hill shall be brought lowe, and crooked things shalbe made straight, and the rough wayes shalbe made smoothe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.3.6",
+   "ref": "Luke 3:6",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 mention (anchor)",
+     "article_line": 3420,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And all flesh shall see the saluation of God.",
+     "source": "https://ebible.org/enggnv/LUK03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And all flesh shall see the saluation of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.16",
+   "ref": "Luke 4:16",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 GNV seat (group 4:16-21, draft ellipses)",
+     "article_line": 3490,
+     "quotes": [
+      "\"And he came to Nazareth where he had been brought up... he stood up to read. And there was delivered unto him the book of the Prophet Isaiah... He found the place where it was written, The Spirit of the Lord is upon me, because he hath anointed me, that I should preach the Gospel to the poor: he hath sent me, that I should heal the broken hearted, that I should preach deliverance to the captives, and recovering of sight to the blind, that I should set at liberty them that are bruised, And that I should preach the acceptable year of the Lord... Then he began to say unto them, This day is the Scripture fulfilled in your ears.\""
+     ],
+     "status": "confirmed",
+     "note": "1.6 GNV seat (group 4:16-21, draft ellipses)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee came to Nazareth where hee had bene brought vp, and (as his custome was) went into the Synagogue on the Sabbath day, and stoode vp to reade.",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And hee came to Nazareth where hee had bene brought vp, and (as his custome was) went into the Synagogue on the Sabbath day, and stoode vp to reade.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.17",
+   "ref": "Luke 4:17",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 GNV seat",
+     "article_line": 3491,
+     "quotes": [
+      "\"And he came to Nazareth where he had been brought up... he stood up to read. And there was delivered unto him the book of the Prophet Isaiah... He found the place where it was written, The Spirit of the Lord is upon me, because he hath anointed me, that I should preach the Gospel to the poor: he hath sent me, that I should heal the broken hearted, that I should preach deliverance to the captives, and recovering of sight to the blind, that I should set at liberty them that are bruised, And that I should preach the acceptable year of the Lord... Then he began to say unto them, This day is the Scripture fulfilled in your ears.\""
+     ],
+     "status": "confirmed",
+     "note": "1.6 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And there was deliuered vnto him the booke of the Prophet Esaias: and when hee had opened the booke, hee founde the place, where it was written,",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And there was deliuered vnto him the booke of the Prophet Esaias: and when hee had opened the booke, hee founde the place, where it was written,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.18",
+   "ref": "Luke 4:18",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 GNV seat",
+     "article_line": 3491,
+     "quotes": [
+      "\"And he came to Nazareth where he had been brought up... he stood up to read. And there was delivered unto him the book of the Prophet Isaiah... He found the place where it was written, The Spirit of the Lord is upon me, because he hath anointed me, that I should preach the Gospel to the poor: he hath sent me, that I should heal the broken hearted, that I should preach deliverance to the captives, and recovering of sight to the blind, that I should set at liberty them that are bruised, And that I should preach the acceptable year of the Lord... Then he began to say unto them, This day is the Scripture fulfilled in your ears.\""
+     ],
+     "status": "confirmed",
+     "note": "1.6 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The Spirit of the Lord is vpon mee, because he hath anoynted me, that I should preach the Gospel to the poore: he hath sent mee, that I should heale the broken hearted, that I should preach deliuerance to the captiues, and recouering of sight to the blinde, that I should set at libertie them that are bruised:",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The Spirit of the Lord is vpon mee, because he hath anoynted me, that I should preach the Gospel to the poore: he hath sent mee, that I should heale the broken hearted, that I should preach deliuerance to the captiues, and recouering of sight to the blinde, that I should set at libertie them that are bruised:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.19",
+   "ref": "Luke 4:19",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 GNV seat",
+     "article_line": 3494,
+     "quotes": [
+      "\"And he came to Nazareth where he had been brought up... he stood up to read. And there was delivered unto him the book of the Prophet Isaiah... He found the place where it was written, The Spirit of the Lord is upon me, because he hath anointed me, that I should preach the Gospel to the poor: he hath sent me, that I should heal the broken hearted, that I should preach deliverance to the captives, and recovering of sight to the blind, that I should set at liberty them that are bruised, And that I should preach the acceptable year of the Lord... Then he began to say unto them, This day is the Scripture fulfilled in your ears.\""
+     ],
+     "status": "confirmed",
+     "note": "1.6 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And that I should preache the acceptable yeere of the Lord.",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And that I should preache the acceptable yeere of the Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.20",
+   "ref": "Luke 4:20",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 cited range (skipped by the draft's ellipsis, within 4:16-21)",
+     "article_line": 3493,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.6 cited range (skipped by the draft's ellipsis, within 4:16-21)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee closed the booke, and gaue it againe to the minister, and sate downe: and the eyes of all that were in the Synagogue were fastened on him.",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And hee closed the booke, and gaue it againe to the minister, and sate downe: and the eyes of all that were in the Synagogue were fastened on him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.21",
+   "ref": "Luke 4:21",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.6 GNV seat",
+     "article_line": 3494,
+     "quotes": [
+      "\"And he came to Nazareth where he had been brought up... he stood up to read. And there was delivered unto him the book of the Prophet Isaiah... He found the place where it was written, The Spirit of the Lord is upon me, because he hath anointed me, that I should preach the Gospel to the poor: he hath sent me, that I should heal the broken hearted, that I should preach deliverance to the captives, and recovering of sight to the blind, that I should set at liberty them that are bruised, And that I should preach the acceptable year of the Lord... Then he began to say unto them, This day is the Scripture fulfilled in your ears.\""
+     ],
+     "status": "confirmed",
+     "note": "1.6 GNV seat"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then he began to say vnto them, This day is the Scripture fulfilled in your eares.",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then he began to say vnto them, This day is the Scripture fulfilled in your eares.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.1.23",
+   "ref": "John 1:23",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.3 mention (anchor)",
+     "article_line": 3420,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.3 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He said, I am the voyce of him that cryeth in the wildernesse, Make straight the way of the Lord, as said the Prophet Esaias.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "He said, I am the voyce of him that cryeth in the wildernesse, Make straight the way of the Lord, as said the Prophet Esaias.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.12.14",
+   "ref": "John 12:14",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.7 mention (anchor)",
+     "article_line": 3524,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.7 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus found a yong asse, and sate thereon, as it is written,",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And Iesus found a yong asse, and sate thereon, as it is written,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.12.15",
+   "ref": "John 12:15",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.7 mention (anchor)",
+     "article_line": 3524,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.7 mention (anchor)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Feare not, daughter of Sion: behold, thy King commeth sitting on an asses colte.",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Feare not, daughter of Sion: behold, thy King commeth sitting on an asses colte.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.19.34",
+   "ref": "John 19:34",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.9 GNV seat (ellipsis seat 19:34 + 19:36a + 19:37)",
+     "article_line": 3560,
+     "quotes": [
+      "\"But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water... For these things were done, that the Scripture should be fulfilled... And again another Scripture saith, They shall see him whom they have thrust through.\""
+     ],
+     "status": "confirmed",
+     "note": "1.9 GNV seat (ellipsis seat 19:34 + 19:36a + 19:37)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But one of the souldiers with a speare pearced his side, and foorthwith came there out blood and water.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But one of the souldiers with a speare pearced his side, and foorthwith came there out blood and water.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.19.35",
+   "ref": "John 19:35",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.9 cited range (skipped by the draft's ellipsis)",
+     "article_line": 3560,
+     "quotes": [],
+     "status": "anchor",
+     "note": "1.9 cited range (skipped by the draft's ellipsis)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he that sawe it, bare recorde, and his record is true: and he knoweth that he saith true, that ye might beleeue it.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he that sawe it, bare recorde, and his record is true: and he knoweth that he saith true, that ye might beleeue it.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.19.36",
+   "ref": "John 19:36",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.9 GNV seat",
+     "article_line": 3560,
+     "quotes": [
+      "\"But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water... For these things were done, that the Scripture should be fulfilled... And again another Scripture saith, They shall see him whom they have thrust through.\""
+     ],
+     "status": "confirmed",
+     "note": "1.9 GNV seat — Draft cuts the tail \"Not a bone of him shalbe broken.\" with an ellipsis."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For these things were done, that the Scripture shoulde be fulfilled, Not a bone of him shalbe broken.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For these things were done, that the Scripture shoulde be fulfilled, Not a bone of him shalbe broken.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.19.37",
+   "ref": "John 19:37",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.9 GNV seat",
+     "article_line": 3561,
+     "quotes": [
+      "\"But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water... For these things were done, that the Scripture should be fulfilled... And again another Scripture saith, They shall see him whom they have thrust through.\""
+     ],
+     "status": "differs-minor",
+     "note": "1.9 GNV seat — Draft reads \"whom they have pierced\"; eBible==TRB print \"whom they haue thrust through\" (exekentesan) — seat keeps the edition's words. BibleHub /text/ JHN 19:37 Greek exact."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And againe an other Scripture saith, They shall see him whom they haue thrust through.",
+     "source": "https://ebible.org/enggnv/JHN19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And againe an other Scripture saith, They shall see him whom they haue thrust through.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ πάλιν ἑτέρα γραφὴ λέγει Ὄψονται εἰς ὃν ἐξεκέντησαν.",
+     "source": "https://biblehub.com/text/john/19-37.htm",
+     "result": "Opsontai eis hon exekentesan confirmed exact"
+    }
+   }
+  },
+  {
+   "id": "REV.1.7",
+   "ref": "Revelation 1:7",
+   "uses": [
+    {
+     "section": "COS-23",
+     "section_label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry",
+     "cited_as": "1.9 GNV seat — full verse",
+     "article_line": 3566,
+     "quotes": [
+      "\"Behold, he cometh with clouds, and every eye shall see him: yea, even they which pierced him through: and all kindreds of the earth shall wail before him, Even so, Amen.\""
+     ],
+     "status": "confirmed",
+     "note": "1.9 GNV seat — full verse — The draft's quote omitted the closing \"Even so, Amen.\" (recorded; seat carries the full verse)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
   }
  ]
 }
