@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**206 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**210 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**377 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**381 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -696,32 +696,32 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Psalm 32:6 — COMMENTARY
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “By the word of the Lord the heavens were made firm, and by the breath of his mouth all their host”
 - **Brenton LXX:** “By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “By the worde of the Lord were the heauens made, and all the hoste of them by the breath of his mouth.”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_swete, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_swete, nets*
 - *Double-checked (second source): nets ✓*
 
 ### John 1:1 — ANCHOR
 *cited as: named reference in draft prose*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “In the beginning was that Word, and that Word was with God, and that Word was God.”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓*
 
 ### John 1:2 — ANCHOR
 *cited as: named reference in draft prose*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “This same was in the beginning with God.”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓*
 
 ### John 1:3 — ANCHOR
 *cited as: named reference in draft prose*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “All things were made by it, and without it was made nothing that was made.”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓*
 
 ### Colossians 1:16 — ANCHOR
@@ -1567,7 +1567,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him.”
   ()
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
 
 ### John 6:46 — CONFIRMED
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -2308,6 +2308,73 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Seat: Geneva verbatim (modernized) "God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified" — Geneva pauses after "Lord" (comma) and carries "I say".
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
+
+## THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses
+
+### John 1:1 — CONFIRMED
+*cited as: prologue seat (verbatim blockquote)*
+- **Geneva 1599:** “In the beginning was that Word, and that Word was with God, and that Word was God.”
+- *Note:* Backfilled text from the fresh Wave-11 eBible fetch; was a text-empty anchor row.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 1:2 — CONFIRMED
+*cited as: prologue seat (one blockquote over the range; recorded on 1:2 and 1:3)*
+- **Geneva 1599:** “This same was in the beginning with God.”
+- *Note:* Backfilled from fresh eBible fetch; text-empty anchor before.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 1:3 — CONFIRMED
+*cited as: prologue seat (one blockquote over the range; recorded on 1:2 and 1:3)*
+- **Geneva 1599:** “All things were made by it, and without it was made nothing that was made.”
+- *Note:* Backfilled from fresh eBible fetch; text-empty anchor before.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Psalm 32:6 — CONFIRMED
+*cited as: cross-witness seat inside John-1 study (draft quoted LXX Greek + Geneva; seat = NETS per OT rule)*
+- **NETS (Septuagint, modern):** “By the word of the Lord the heavens were made firm, and by the breath of his mouth all their host”
+- **Brenton LXX:** “By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.”
+- **Geneva 1599:** “By the worde of the Lord were the heauens made, and all the hoste of them by the breath of his mouth.”
+- *Note:* NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: "host" vs "all their host"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings).
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### John 1:14 — CONFIRMED
+*cited as: prologue decisive-verse seat (verbatim blockquote)*
+- **Geneva 1599:** “And that Word was made flesh, and dwelt among vs, (and we sawe the glorie thereof, as the glorie of the onely begotten Sonne of the Father) full of grace and trueth.”
+- *Note:* Seat prints modernized spelling (draft wording); bank keeps 1599 orthography — standing flag. Draft Greek verified vs BibleHub /text/john/1-14.htm ratio 1.000.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000*
+
+### John 1:18 — CONFIRMED
+*cited as: prologue seat (verbatim blockquote; Geneva = TR reading)*
+- **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
+- *Note:* Draft carried BOTH readings: μονογενὴς Θεός (earlier mss, Sinaiticus/Vaticanus; verified vs BibleHub ratio 1.000) vs ὁ μονογενὴς Ὑἱός (Byzantine/TR, which the Geneva follows; eBible=TRB 1.000). Variant note stands from COS-10 use.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
+
+### 1 John 1:1 — CONFIRMED
+*cited as: apostolic-definition seat (one blockquote over the range; recorded on 1:1 and 1:2)*
+- **Geneva 1599:** “That which was from the beginning, which wee haue heard, which wee haue seene with these our eyes, which wee haue looked vpon, and these handes of ours haue handled of that Word of life,”
+- *Note:* Seat prints modernized spelling (draft wording); bank keeps 1599 orthography — standing flag. Draft Greek (neuter relatives ὃ/ὃ ἐθεασάμεθα...) verified vs BibleHub /text/1_john/1-1.htm ratio 1.000.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000*
+
+### 1 John 1:2 — CONFIRMED
+*cited as: apostolic-definition seat (one blockquote over the range; recorded on 1:1 and 1:2)*
+- **Geneva 1599:** “(For that life was made manifest, and wee haue seene it, and beare witnes, and shewe vnto you that eternall life, which was with the Father, and was made manifest vnto vs)”
+- *Note:* Seat modernized (draft wording); bank 1599. Draft Greek vs BibleHub /text/1_john/1-2.htm ratio 1.000.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000*
+
+### Revelation 19:13 — CONFIRMED
+*cited as: Word-of-God name seat (verbatim blockquote)*
+- **Geneva 1599:** “And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.”
+- *Note:* Seat modernizes eBible "dipt" to "dipped" with gloss *(the Geneva prints \"dipt\")*; edition prints the name in caps emphasis (THE WORD OF GOD), seat lower-cases per draft — both recorded under the modern-spelling flag. Draft Greek (βεβαμμένον αἵματι, περιβεβλημένος...) verified vs BibleHub /text/revelation/19-13.htm ratio 1.000.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000*
 
 # THE BIBLICAL SABBATH
 
@@ -4333,15 +4400,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 1:1 | COS-01 | anchor |
 | Genesis 1:2 | COS-01 | anchor |
 | Genesis 1:6 | COS-01 | anchor |
-| Psalm 32:6 | COS-01 | commentary |
+| Psalm 32:6 | COS-01, COS-20 | commentary, confirmed |
 | Mark 12:29 | COS-01, COS-18 | confirmed |
 | John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19 | anchor, confirmed |
 | 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19 | anchor, confirmed |
 | John 20:17 | COS-01, COS-18 | confirmed |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
-| John 1:1 | COS-01 | anchor |
-| John 1:2 | COS-01 | anchor |
-| John 1:3 | COS-01 | anchor |
+| John 1:1 | COS-01, COS-20 | anchor, confirmed |
+| John 1:2 | COS-01, COS-20 | anchor, confirmed |
+| John 1:3 | COS-01, COS-20 | anchor, confirmed |
 | Colossians 1:16 | COS-01, COS-05, COS-17 | anchor, confirmed |
 | Philippians 2:10 | COS-01 | anchor |
 | Philippians 2:11 | COS-01 | anchor |
@@ -4419,7 +4486,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 10:1 | COS-12 | confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | Jude 5 | COS-12 | confirmed |
-| John 1:18 | COS-13 | confirmed |
+| John 1:18 | COS-13, COS-20 | confirmed |
 | John 6:46 | COS-13 | confirmed |
 | Exodus 33:20 | COS-13 | prose-ref |
 | Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
@@ -4447,6 +4514,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 109:3 (= Hebrew 110:3) | COS-19 | differs (minor) |
 | Hebrews 1:5 | COS-19 | anchor |
 | Hebrews 7:17 | COS-19 | anchor |
+| John 1:14 | COS-20 | confirmed |
+| 1 John 1:1 | COS-20 | confirmed |
+| 1 John 1:2 | COS-20 | confirmed |
+| Revelation 19:13 | COS-20 | confirmed |
 
 ## The editions used
 

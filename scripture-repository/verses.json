@@ -71,7 +71,8 @@
    "COS-16",
    "COS-17",
    "COS-18",
-   "COS-19"
+   "COS-19",
+   "COS-20"
   ],
   "sections": [
    {
@@ -303,6 +304,10 @@
    {
     "key": "COS-19",
     "label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit"
+   },
+   {
+    "key": "COS-20",
+    "label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses"
    }
   ],
   "double_check": {
@@ -363,7 +368,7 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 12387,
+  "so_far_words": 20737,
   "cos_sofar": {
    "waves": 9
   }
@@ -11928,17 +11933,29 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 2021,
+     "cited_as": "cross-witness seat inside John-1 study (draft quoted LXX Greek + Geneva; seat = NETS per OT rule)",
+     "quotes": [
+      "\"τῷ λόγῳ τοῦ Κυρίου...\" LXX quote with Geneva \"By the word of the Lord were the heavens made, and all the host of them by the breath of his mouth.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: \"host\" vs \"all their host\"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings)."
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "By the word of the Lord the heavens were made firm, and by the breath of his mouth all their host",
      "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
     },
     "gnv": {
-     "text": "",
-     "source": "https://ebible.org/enggnv/PSA32.htm"
+     "text": "By the worde of the Lord were the heauens made, and all the hoste of them by the breath of his mouth.",
+     "source": "https://ebible.org/enggnv/PSA033.htm"
     },
     "brenton": {
      "text": "By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.",
@@ -12379,19 +12396,33 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 1921,
+     "cited_as": "prologue seat (verbatim blockquote)",
+     "quotes": [
+      "\"In the beginning was that Word, and that Word was with God, and that Word was God.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Backfilled text from the fresh Wave-11 eBible fetch; was a text-empty anchor row."
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
+     "text": "In the beginning was that Word, and that Word was with God, and that Word was God.",
      "source": "https://ebible.org/enggnv/JHN01.htm"
     }
    },
    "second_check": {
     "gnv": {
      "result": "agree",
-     "url": "https://www.textusreceptusbibles.com/Geneva/43/1"
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
     }
    }
   },
@@ -12416,19 +12447,33 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 1995,
+     "cited_as": "prologue seat (one blockquote over the range; recorded on 1:2 and 1:3)",
+     "quotes": [
+      "\"This same was in the beginning with God. All things were made by it, and without it was made nothing that was made.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Backfilled from fresh eBible fetch; text-empty anchor before."
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
+     "text": "This same was in the beginning with God.",
      "source": "https://ebible.org/enggnv/JHN01.htm"
     }
    },
    "second_check": {
     "gnv": {
      "result": "agree",
-     "url": "https://www.textusreceptusbibles.com/Geneva/43/1"
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
     }
    }
   },
@@ -12453,19 +12498,33 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 1995,
+     "cited_as": "prologue seat (one blockquote over the range; recorded on 1:2 and 1:3)",
+     "quotes": [
+      "\"This same was in the beginning with God. All things were made by it, and without it was made nothing that was made.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Backfilled from fresh eBible fetch; text-empty anchor before."
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
+     "text": "All things were made by it, and without it was made nothing that was made.",
      "source": "https://ebible.org/enggnv/JHN01.htm"
     }
    },
    "second_check": {
     "gnv": {
      "result": "agree",
-     "url": "https://www.textusreceptusbibles.com/Geneva/43/1"
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
     }
    }
   },
@@ -16048,6 +16107,18 @@
       "version": "gnv",
       "text": "No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him."
      }
+    },
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 2081,
+     "cited_as": "prologue seat (verbatim blockquote; Geneva = TR reading)",
+     "quotes": [
+      "\"No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft carried BOTH readings: μονογενὴς Θεός (earlier mss, Sinaiticus/Vaticanus; verified vs BibleHub ratio 1.000) vs ὁ μονογενὴς Ὑἱός (Byzantine/TR, which the Geneva follows; eBible=TRB 1.000). Variant note stands from COS-10 use."
     }
    ],
    "verified": "2026-11-11",
@@ -16066,6 +16137,12 @@
      "text": "Θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς Θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ Πατρὸς, ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: Nestle 1904 Θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς Θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ Πατρὸς, ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: Westcott and Hort 1881 θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: RP Byzantine Majority Text 2005 Θε",
      "source": "https://biblehub.com/text/john/1-18.htm",
      "result": "Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded"
+    },
+    "gnv_fresh": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
     }
    }
   },
@@ -17170,6 +17247,162 @@
      "result": "eBible=TRB word-for-word (ratio 1.0)"
     }
    }
+  },
+  {
+   "id": "JHN.1.14",
+   "ref": "John 1:14",
+   "uses": [
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 2045,
+     "cited_as": "prologue decisive-verse seat (verbatim blockquote)",
+     "quotes": [
+      "\"And that Word was made flesh, and dwelt among us, (and we saw the glory thereof, as the glory of the only begotten Son of the Father) full of grace and truth.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat prints modernized spelling (draft wording); bank keeps 1599 orthography — standing flag. Draft Greek verified vs BibleHub /text/john/1-14.htm ratio 1.000."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And that Word was made flesh, and dwelt among vs, (and we sawe the glorie thereof, as the glorie of the onely begotten Sonne of the Father) full of grace and trueth.",
+     "source": "https://ebible.org/enggnv/JHN01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
+     "source": "https://biblehub.com/text/john/1-14.htm",
+     "result": "verified 2026-11-11, ratio 1.000"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.1.1",
+   "ref": "1 John 1:1",
+   "uses": [
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 2117,
+     "cited_as": "apostolic-definition seat (one blockquote over the range; recorded on 1:1 and 1:2)",
+     "quotes": [
+      "\"That which was from the beginning, which we have heard, which we have seen with these our eyes, which we have looked upon, and these hands of ours have handled of that Word of life, (For that life was made manifest, and we have seen it, and bear witness, and show unto you that eternal life, which was with the Father, and was made manifest unto us)\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat prints modernized spelling (draft wording); bank keeps 1599 orthography — standing flag. Draft Greek (neuter relatives ὃ/ὃ ἐθεασάμεθα...) verified vs BibleHub /text/1_john/1-1.htm ratio 1.000."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "That which was from the beginning, which wee haue heard, which wee haue seene with these our eyes, which wee haue looked vpon, and these handes of ours haue handled of that Word of life,",
+     "source": "https://ebible.org/enggnv/1JN01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/62/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
+     "source": "https://biblehub.com/text/1_john/1-1.htm",
+     "result": "verified 2026-11-11, ratio 1.000"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.1.2",
+   "ref": "1 John 1:2",
+   "uses": [
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 2117,
+     "cited_as": "apostolic-definition seat (one blockquote over the range; recorded on 1:1 and 1:2)",
+     "quotes": [
+      "\"That which was from the beginning, which we have heard, which we have seen with these our eyes, which we have looked upon, and these hands of ours have handled of that Word of life, (For that life was made manifest, and we have seen it, and bear witness, and show unto you that eternal life, which was with the Father, and was made manifest unto us)\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat modernized (draft wording); bank 1599. Draft Greek vs BibleHub /text/1_john/1-2.htm ratio 1.000."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "(For that life was made manifest, and wee haue seene it, and beare witnes, and shewe vnto you that eternall life, which was with the Father, and was made manifest vnto vs)",
+     "source": "https://ebible.org/enggnv/1JN01.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/62/1",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
+     "source": "https://biblehub.com/text/1_john/1-2.htm",
+     "result": "verified 2026-11-11, ratio 1.000"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "REV.19.13",
+   "ref": "Revelation 19:13",
+   "uses": [
+    {
+     "section": "COS-20",
+     "section_label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses",
+     "article_line": 2139,
+     "cited_as": "Word-of-God name seat (verbatim blockquote)",
+     "quotes": [
+      "\"And he was clothed with a garment dipped in blood, and his name is called the Word of God.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat modernizes eBible \"dipt\" to \"dipped\" with gloss *(the Geneva prints \\\"dipt\\\")*; edition prints the name in caps emphasis (THE WORD OF GOD), seat lower-cases per draft — both recorded under the modern-spelling flag. Draft Greek (βεβαμμένον αἵματι, περιβεβλημένος...) verified vs BibleHub /text/revelation/19-13.htm ratio 1.000."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.",
+     "source": "https://ebible.org/enggnv/REV19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/66/19",
+     "checked": "2026-11-11",
+     "note": "eBible=TRB ratio 1.000 fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
+     "source": "https://biblehub.com/text/revelation/19-13.htm",
+     "result": "verified 2026-11-11, ratio 1.000"
+    }
+   },
+   "note": ""
   }
  ]
 }
