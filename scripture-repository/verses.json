@@ -75,7 +75,8 @@
    "COS-20",
    "COS-21",
    "COS-22",
-   "COS-23"
+   "COS-23",
+   "COS-24"
   ],
   "sections": [
    {
@@ -323,6 +324,10 @@
    {
     "key": "COS-23",
     "label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry"
+   },
+   {
+    "key": "COS-24",
+    "label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles"
    }
   ],
   "double_check": {
@@ -383,9 +388,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 32447,
+  "so_far_words": 33972,
   "cos_sofar": {
-   "waves": 14
+   "waves": 15
   }
  },
  "verses": [
@@ -3249,6 +3254,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3592,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And Jesus said unto them, I am that bread of life: he that cometh to me, shall not hunger, and he that believeth in me, shall never thirst."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
     }
    ],
    "verified": "2026-11-02",
@@ -3260,6 +3278,10 @@
     "kjv": {
      "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.",
      "source": "https://ebible.org/eng-kjv2006/JHN06.htm"
+    },
+    "greek_nestle": {
+     "text": "Εἶπενeipen αὐτοῖςautois ὁho ἸησοῦςIēsous ἘγώEgō εἰμιeimi ὁho ἄρτοςartos τῆςtēs ζωῆς·zōēs ὁho ἐρχόμενοςerchomenos πρὸςpros ἐμὲeme οὐou μὴmē πεινάσῃ,peinasē καὶkai ὁho πιστεύωνpisteuōn εἰςeis ἐμὲeme οὐou μὴmē διψήσειdipsēsei πώποτε.pōpote",
+     "source": "https://biblehub.com/text/john/6-35.htm"
     }
    },
    "second_check": {
@@ -3289,6 +3311,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3593,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Then spake Jesus again unto them, saying, I am that light of the world: he that followeth me, shall not walke in darkenes, but shall have that light of life."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
     }
    ],
    "verified": "2026-11-02",
@@ -3300,6 +3335,10 @@
     "kjv": {
      "text": "¶ Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.",
      "source": "https://ebible.org/eng-kjv2006/JHN08.htm"
+    },
+    "greek_nestle": {
+     "text": "ΠάλινPalin οὖνoun αὐτοῖςautois ἐλάλησενelalēsen ὁho ἸησοῦςIēsous λέγωνlegōn ἘγώEgō εἰμιeimi τὸto φῶςphōs τοῦtou κόσμου·kosmou ὁho ἀκολουθῶνakolouthōn ἐμοὶ*emoi οὐou μὴmē περιπατήσῃperipatēsē ἐνen τῇtē σκοτίᾳ,skotia ἀλλ’all’ ἕξειhexei τὸto φῶςphōs τῆςtēs ζωῆς.zōēs",
+     "source": "https://biblehub.com/text/john/8-12.htm"
     }
    },
    "second_check": {
@@ -3371,6 +3410,17 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3608,
+     "cited_as": "prose ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "The draft marks “already cited” — mention in the 2.1 absolutes list."
     }
    ],
    "verified": "2026-11-11",
@@ -3422,6 +3472,17 @@
      "status": "anchor",
      "matched_source": null,
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "prose ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "The 2.1 observation cites the stoning attempt over the absolute ἐγώ εἰμι (mention; the seat stays wave-earlier’s)."
     }
    ],
    "verified": "2026-11-02",
@@ -3462,6 +3523,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3594,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I am that door: by me if any man enter in, he shall be saved, and shall go in, and go out, and find pasture."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
     }
    ],
    "verified": "2026-11-02",
@@ -3473,6 +3547,10 @@
     "kjv": {
      "text": "I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.",
      "source": "https://ebible.org/eng-kjv2006/JHN10.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐγώegō εἰμιeimi ἡhē θύρα·thyra δι’di’ ἐμοῦemou ἐάνean τιςtis εἰσέλθῃ,eiselthē σωθήσεται,sōthēsetai καὶkai εἰσελεύσεταιeiseleusetai καὶkai ἐξελεύσεταιexeleusetai καὶkai νομὴνnomēn εὑρήσει.heurēsei",
+     "source": "https://biblehub.com/text/john/10-9.htm"
     }
    },
    "second_check": {
@@ -3502,6 +3580,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3595,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I am that good shepherd: that good shepherd giveth his life for his sheep."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
     }
    ],
    "verified": "2026-11-02",
@@ -3513,6 +3604,10 @@
     "kjv": {
      "text": "I am the good shepherd: the good shepherd giveth his life for the sheep.",
      "source": "https://ebible.org/eng-kjv2006/JHN10.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἐγώegō εἰμιeimi ὁho ποιμὴνpoimēn ὁho καλός.kalos ὁho ποιμὴνpoimēn ὁho καλὸςkalos τὴνtēn ψυχὴνpsychēn αὐτοῦautou τίθησινtithēsin ὑπὲρhyper τῶνtōn προβάτων·probatōn",
+     "source": "https://biblehub.com/text/john/10-11.htm"
     }
    },
    "second_check": {
@@ -3542,6 +3637,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3596,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto her, I am the resurrection and the life: he that believeth in me, though he were dead, yet shall he live."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
     }
    ],
    "verified": "2026-11-02",
@@ -3553,6 +3661,10 @@
     "kjv": {
      "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:",
      "source": "https://ebible.org/eng-kjv2006/JHN11.htm"
+    },
+    "greek_nestle": {
+     "text": "Εἶπενeipen αὐτῇautē ὁho ἸησοῦςIēsous ἘγώEgō εἰμιeimi ἡhē ἀνάστασιςanastasis καὶkai ἡhē ζωή·zōē ὁho πιστεύωνpisteuōn εἰςeis ἐμὲeme κἂνkan ἀποθάνῃapothanē ζήσεται,zēsetai",
+     "source": "https://biblehub.com/text/john/11-25.htm"
     }
    },
    "second_check": {
@@ -3582,6 +3694,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3597,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto him, I am that Way, and that Truth, and that Life. No man cometh unto the Father, but by me."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
     }
    ],
    "verified": "2026-11-02",
@@ -3593,6 +3718,10 @@
     "kjv": {
      "text": "Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.",
      "source": "https://ebible.org/eng-kjv2006/JHN14.htm"
+    },
+    "greek_nestle": {
+     "text": "Λέγειlegei αὐτῷautō ‹ὁ›ho ἸησοῦςIēsous ἘγώEgō εἰμιeimi ἡhē ὁδὸςhodos καὶkai ἡhē ἀλήθειαalētheia καὶkai ἡhē ζωή·zōē οὐδεὶςoudeis ἔρχεταιerchetai πρὸςpros τὸνton ΠατέραPatera εἰei μὴmē δι’di’ ἐμοῦ.emou",
+     "source": "https://biblehub.com/text/john/14-6.htm"
     }
    },
    "second_check": {
@@ -3622,6 +3751,19 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3598,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I am that true vine, and my Father is that husband man *(the vine-dresser)*."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice). The eBible Geneva page prints “I Am that true vine” — the seat prints “I am” (transcription quirk; TRB concurs ratio 1.00). Gloss *(the vine-dresser)* added after the edition’s “husband man” per VERBATIM + GLOSSES."
     }
    ],
    "verified": "2026-11-02",
@@ -3633,6 +3775,10 @@
     "kjv": {
      "text": "I am the true vine, and my Father is the husbandman.",
      "source": "https://ebible.org/eng-kjv2006/JHN15.htm"
+    },
+    "greek_nestle": {
+     "text": "ἘγώEgō εἰμιeimi ἡhē ἄμπελοςampelos ἡhē ἀληθινή,alēthinē καὶkai ὁho ΠατήρPatēr μουmou ὁho γεωργόςgeōrgos ἐστιν.estin",
+     "source": "https://biblehub.com/text/john/15-1.htm"
     }
    },
    "second_check": {
@@ -23198,6 +23344,897 @@
      "result": "EXACT (normalized per-verse, eBible==TRB)"
     }
    }
+  },
+  {
+   "id": "JHN.10.7",
+   "ref": "John 10:7",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3594,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Then said Jesus unto them again, Verily, verily I say unto you, I am that door of the sheep."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then sayd Iesus vnto them againe, Verely, verely I say vnto you, I am that doore of the sheepe.",
+     "source": "https://ebible.org/enggnv/JHN10.htm"
+    },
+    "greek_nestle": {
+     "text": "ΕἶπενEipen οὖνoun πάλινpalin ‹αὐτοῖς›autois ὁho ἸησοῦςIēsous ἈμὴνAmēn ἀμὴνamēn λέγωlegō ὑμῖνhymin ὅτιhoti ἐγώegō εἰμιeimi ἡhē θύραthyra τῶνtōn προβάτων.probatōn",
+     "source": "https://biblehub.com/text/john/10-7.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/10",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/10-7.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.10.14",
+   "ref": "John 10:14",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3595,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I am that good shepherd, and knowe mine, and am knowen of mine."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I am that good shepheard, and knowe mine, and am knowen of mine.",
+     "source": "https://ebible.org/enggnv/JHN10.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἐγώegō εἰμιeimi ὁho ποιμὴνpoimēn ὁho καλός,kalos καὶkai γινώσκωginōskō τὰta ἐμὰema καὶkai γινώσκουσίginōskousi μεme τὰta ἐμά,ema",
+     "source": "https://biblehub.com/text/john/10-14.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/10",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/10-14.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.15.5",
+   "ref": "John 15:5",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3598,
+     "cited_as": "seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I am that vine: ye are the branches: he that abideth in me, and I in him, the same bringeth forth much fruite: for without me can ye do nothing."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I am that vine: ye are the branches: he that abideth in me, and I in him, the same bringeth forth much fruite: for without me can ye doe nothing.",
+     "source": "https://ebible.org/enggnv/JHN15.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἐγώegō εἰμιeimi ἡhē ἄμπελος,ampelos ὑμεῖςhymeis τὰta κλήματα.klēmata ὁho μένωνmenōn ἐνen ἐμοὶemoi κἀγὼkagō ἐνen αὐτῷ,autō οὗτοςhoutos φέρειpherei καρπὸνkarpon πολύν,polyn ὅτιhoti χωρὶςchōris ἐμοῦemou οὐou δύνασθεdynasthe ποιεῖνpoiein οὐδέν.ouden",
+     "source": "https://biblehub.com/text/john/15-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/15",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/15-5.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.8.24",
+   "ref": "John 8:24",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3606,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I said therefore unto you, That ye shall die in your sins: for except ye believe, that I am he, ye shall die in your sins."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word at modern spelling)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I said therefore vnto you, That ye shall die in your sinnes: for except ye beleeue, that I am he, ye shall die in your sinnes.",
+     "source": "https://ebible.org/enggnv/JHN08.htm"
+    },
+    "greek_nestle": {
+     "text": "εἶπονeipon οὖνoun ὑμῖνhymin ὅτιhoti ἀποθανεῖσθεapothaneisthe ἐνen ταῖςtais ἁμαρτίαιςhamartiais ὑμῶν·hymōn ἐὰνean γὰρgar μὴmē πιστεύσητεpisteusēte ὅτιhoti ἐγώegō εἰμι,eimi ἀποθανεῖσθεapothaneisthe ἐνen ταῖςtais ἁμαρτίαιςhamartiais ὑμῶν.hymōn",
+     "source": "https://biblehub.com/text/john/8-24.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/8",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/8-24.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.13.19",
+   "ref": "John 13:19",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3614,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "From henceforth tell I you before it come, that when it is come to pass, ye might believe that I am he."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word at modern spelling)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "From henceforth tell I you before it come, that when it is come to passe, ye might beleeue that I am he.",
+     "source": "https://ebible.org/enggnv/JHN13.htm"
+    },
+    "greek_nestle": {
+     "text": "ἀπ’ap’ ἄρτιarti λέγωlegō ὑμῖνhymin πρὸpro τοῦtou γενέσθαι,genesthai ἵναhina πιστεύσητε*pisteusēte ὅτανhotan γένηταιgenētai ὅτιhoti ἐγώegō εἰμι.eimi",
+     "source": "https://biblehub.com/text/john/13-19.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/13",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/13-19.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.18.5",
+   "ref": "John 18:5",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3620,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… Jesus said unto them, I am he. ... As soon then as he had said unto them, I am he, they went away backwards, and fell to the ground."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "They answered him, Iesus of Nazareth. Iesus sayde vnto them, I am hee. Nowe Iudas also which betraied him, stoode with them.",
+     "source": "https://ebible.org/enggnv/JHN18.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἀπεκρίθησανapekrithēsan αὐτῷautō ἸησοῦνIēsoun τὸνton Ναζωραῖον.Nazōraion Λέγειlegei αὐτοῖςautois ἘγώEgō εἰμι.eimi Εἱστήκειheistēkei δὲde καὶkai ἸούδαςIoudas ὁho παραδιδοὺςparadidous αὐτὸνauton μετ’met’ αὐτῶν.autōn",
+     "source": "https://biblehub.com/text/john/18-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/18",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/18-5.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.18.6",
+   "ref": "John 18:6",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3620,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… Jesus said unto them, I am he. ... As soon then as he had said unto them, I am he, they went away backwards, and fell to the ground."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Assoone then as hee had saide vnto them, I am hee, they went away backewardes, and fell to the grounde.",
+     "source": "https://ebible.org/enggnv/JHN18.htm"
+    },
+    "greek_nestle": {
+     "text": "ὡςhōs οὖνoun εἶπενeipen αὐτοῖςautois ἘγώEgō εἰμι,eimi ἀπῆλθον*apēlthon εἰςeis τὰta ὀπίσωopisō καὶkai ἔπεσανepesan χαμαί.chamai",
+     "source": "https://biblehub.com/text/john/18-6.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/18",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/john/18-6.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.26.63",
+   "ref": "Matthew 26:63",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3648,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… the chief Priest answered, and said to him, I charge thee swear unto us by the living God, to tell us, If thou be that Christ the Son of God, or no. ... Jesus said to him, Thou hast said it: nevertheless I say unto you, hereafter shall ye see the Son of man, sitting at the right hand of the power of God, and come in the clouds of the heaven."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But Iesus helde his peace. Then the chiefe Priest answered, and saide to him, I charge thee sweare vnto vs by the liuing God, to tell vs, If thou be that Christ the Sonne of God, or no.",
+     "source": "https://ebible.org/enggnv/MAT26.htm"
+    },
+    "greek_nestle": {
+     "text": "Ὁho δὲde ἸησοῦςIēsous ἐσιώπα.esiōpa Καὶkai ὁho ἀρχιερεὺςarchiereus εἶπενeipen αὐτῷautō ἘξορκίζωExorkizō σεse κατὰkata τοῦtou ΘεοῦTheou τοῦtou ζῶντοςzōntos ἵναhina ἡμῖνhēmin εἴπῃςeipēs εἰei σὺsy εἶei ὁho ΧριστὸςChristos ὁho ΥἱὸςHuios τοῦtou Θεοῦ.Theou",
+     "source": "https://biblehub.com/text/matthew/26-63.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/26",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/matthew/26-63.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.26.64",
+   "ref": "Matthew 26:64",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3648,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… the chief Priest answered, and said to him, I charge thee swear unto us by the living God, to tell us, If thou be that Christ the Son of God, or no. ... Jesus said to him, Thou hast said it: nevertheless I say unto you, hereafter shall ye see the Son of man, sitting at the right hand of the power of God, and come in the clouds of the heaven."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.",
+     "source": "https://ebible.org/enggnv/MAT26.htm"
+    },
+    "greek_nestle": {
+     "text": "Λέγειlegei αὐτῷautō ὁho ἸησοῦςIēsous ΣὺSy εἶπας·eipas πλὴνplēn λέγωlegō ὑμῖν,hymin ἀπ’ap’ ἄρτιarti ὄψεσθεopsesthe τὸνton ΥἱὸνHuion τοῦtou ἀνθρώπουanthrōpou καθήμενονkathēmenon ἐκek δεξιῶνdexiōn τῆςtēs δυνάμεωςdynameōs καὶkai ἐρχόμενονerchomenon ἐπὶepi τῶνtōn νεφελῶνnephelōn τοῦtou οὐρανοῦ.ouranou",
+     "source": "https://biblehub.com/text/matthew/26-64.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/26",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/matthew/26-64.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.11.27",
+   "ref": "Matthew 11:27",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3674,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "All things are given unto me of my Father: and no man knoweth the Son, but ye Father: neither knoweth any man ye Father, but the Son, and he to whom ye Son will reueile him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block aligned with the Geneva edition (word-for-word at modern spelling)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "All things are giuen vnto me of my Father: and no man knoweth the Sonne, but ye Father: neither knoweth any man ye Father, but the Sonne, and he to whom ye Sonne will reueile him.",
+     "source": "https://ebible.org/enggnv/MAT11.htm"
+    },
+    "greek_nestle": {
+     "text": "ΠάνταPanta μοιmoi παρεδόθηparedothē ὑπὸhypo τοῦtou ΠατρόςPatros μου,mou καὶkai οὐδεὶςoudeis ἐπιγινώσκειepiginōskei τὸνton ΥἱὸνHuion εἰei μὴmē ὁho Πατήρ,Patēr οὐδὲoude τὸνton ΠατέραPatera τιςtis ἐπιγινώσκειepiginōskei εἰei μὴmē ὁho ΥἱὸςHuios καὶkai ᾧhō ἐὰνean βούληταιboulētai ὁho ΥἱὸςHuios ἀποκαλύψαι.apokalypsai",
+     "source": "https://biblehub.com/text/matthew/11-27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/11",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/matthew/11-27.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.13.32",
+   "ref": "Mark 13:32",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3680,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "But of that day and hour knoweth no man, no, not the Angels which are in heaven, neither the Son himself, but the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block wording diverged from the Geneva ('but'→'save'); the seat prints the Geneva verbatim."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But of that day and houre knoweth no man, no, not the Angels which are in heauen, neither the Sonne himselfe, but the Father.",
+     "source": "https://ebible.org/enggnv/MRK13.htm"
+    },
+    "greek_nestle": {
+     "text": "ΠερὶPeri δὲde τῆςtēs ἡμέραςhēmeras ἐκείνηςekeinēs ἢē τῆςtēs ὥραςhōras οὐδεὶςoudeis οἶδεν,oiden οὐδὲoude οἱhoi ἄγγελοιangeloi ἐνen οὐρανῷouranō οὐδὲoude ὁho Υἱός,Huios εἰei μὴmē ὁho Πατήρ.Patēr",
+     "source": "https://biblehub.com/text/mark/13-32.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/13",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek = BibleHub /text/ Nestle verse text",
+     "source": "https://biblehub.com/text/mark/13-32.htm",
+     "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "DAN.7.13",
+   "ref": "Daniel 7:13",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3637,
+     "cited_as": "Daniel 7:13-14 seat — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; draft LXX-Greek differences recorded",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I was watching in the night visions, and lo, as it were a son of man was coming upon the clouds of heaven. And he came as far as the ancient of days, and the attendants were present with him. And royal authority was given to him, and all the nations of the earth according to posterity, and all honor was serving him. And his authority is an everlasting authority, which shall never be removed— and his kingship, which will never perish."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets_og": {
+     "text": "I was watching in the night visions, and lo, as it were a son of man was coming upon the clouds of heaven. And he came as far as the ancient of days, and the attendants were present with him.",
+     "source": "scraped NETS PDF master 40-daniel.pdf (Penn), parallel-column print: Old Greek (DANOG) and Theodotion (DAN), wave-15 column-aware walk; Daniel 7:13-14 print-dump verified in both traditions (Old Greek)"
+    },
+    "nets_theodotion": {
+     "text": "I was watching in the night visions, and lo, as it were a son of man coming with the clouds of heaven. And he came as far as the ancient of days and was presented to him.",
+     "source": "scraped NETS PDF master 40-daniel.pdf (Penn), parallel-column print: Old Greek (DANOG) and Theodotion (DAN), wave-15 column-aware walk; Daniel 7:13-14 print-dump verified in both traditions (Theodotion; parallel column)"
+    },
+    "gnv": {
+     "text": "As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.",
+     "source": "https://ebible.org/enggnv/DAN07.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/27/7",
+     "checked": "2026-11-11"
+    },
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs wikisource Rahlfs: word-for-word except ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense",
+     "source": "wikisource Rahlfs, Daniel 7 (wave-15 fetch pass)",
+     "result": "verified 2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "DAN.7.14",
+   "ref": "Daniel 7:14",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3637,
+     "cited_as": "Daniel 7:13-14 seat — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; draft LXX-Greek differences recorded",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And royal authority was given to him, and all the nations of the earth according to posterity, and all honor was serving him. And his authority is an everlasting authority, which shall never be removed— and his kingship, which will never perish."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "note": "NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets_og": {
+     "text": "And royal authority was given to him, and all the nations of the earth according to posterity, and all honor was serving him. And his authority is an everlasting authority, which shall never be removed— and his kingship, which will never perish.",
+     "source": "scraped NETS PDF master 40-daniel.pdf (Penn), parallel-column print: Old Greek (DANOG) and Theodotion (DAN), wave-15 column-aware walk; Daniel 7:13-14 print-dump verified in both traditions (Old Greek)"
+    },
+    "nets_theodotion": {
+     "text": "And to him was given the dominion and the honor and the kingship, and all peoples, tribes, languages shall be subject him. His authority is an everlasting authority, which will not pass away, and his kingship will not be destroyed.",
+     "source": "scraped NETS PDF master 40-daniel.pdf (Penn), parallel-column print: Old Greek (DANOG) and Theodotion (DAN), wave-15 column-aware walk; Daniel 7:13-14 print-dump verified in both traditions (Theodotion; parallel column)"
+    },
+    "gnv": {
+     "text": "And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.",
+     "source": "https://ebible.org/enggnv/DAN07.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/27/7",
+     "checked": "2026-11-11"
+    },
+    "greek_rahlfs": {
+     "text": "draft LXX Greek vs wikisource Rahlfs: word-for-word except ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense",
+     "source": "wikisource Rahlfs, Daniel 7 (wave-15 fetch pass)",
+     "result": "verified 2026-11-11"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ISA.41.4",
+   "ref": "Isaiah 41:4",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "listed in the 2.1 observation’s LXX echo list"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Who has wrought and done these things? The one calling her from the beginning of generations has called her. I, God, am first, and for the things that are coming, I am.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ISA.43.10",
+   "ref": "Isaiah 43:10",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "listed in the 2.1 observation’s LXX echo list"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Be my witnesses; I too am a witness, says the Lord God, and the servant whom I have chosen so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ISA.43.13",
+   "ref": "Isaiah 43:13",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "listed in the 2.1 observation’s LXX echo list"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Even from the beginning there is also no one who rescues from my hands; I will do it, and who will turn it back?",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ISA.43.25",
+   "ref": "Isaiah 43:25",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "listed in the 2.1 observation’s LXX echo list"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "I am, I am the one who blots out your acts of lawlessness, and I will not remember them at all.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ISA.46.4",
+   "ref": "Isaiah 46:4",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "listed in the 2.1 observation’s LXX echo list"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Until your old age, I am, and until you grow old, I am; I bear with you; I have made, and I will set free; I will take up and save you.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ISA.48.12",
+   "ref": "Isaiah 48:12",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3626,
+     "cited_as": "observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "listed in the 2.1 observation’s LXX echo list"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.",
+     "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.3.29",
+   "ref": "John 3:29",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3698,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Bridegroom title: — Matt 9:15; John 3:29 (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.9.15",
+   "ref": "Matthew 9:15",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3698,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Bridegroom title: — Matt 9:15; John 3:29 (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.12.6",
+   "ref": "Matthew 12:6",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3699,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Greater than the temple (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.12.41",
+   "ref": "Matthew 12:41",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3699,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Greater than Jonah (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.12.42",
+   "ref": "Matthew 12:42",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3699,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Greater than Solomon (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MRK.2.28",
+   "ref": "Mark 2:28",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3700,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Lord of the Sabbath (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.27.11",
+   "ref": "Matthew 27:11",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3702,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "The King of the Jews — confirmed before Pilate (2.4 list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.1.7",
+   "ref": "Acts 1:7",
+   "uses": [
+    {
+     "section": "COS-24",
+     "section_label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles",
+     "article_line": 3690,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "cf. reference in the Mark 13:32 observation: the Father's kept authority."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
   }
  ]
 }

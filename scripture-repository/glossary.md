@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**373 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**400 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**544 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**571 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -502,43 +502,43 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 6:35 — CONFIRMED
 - **Geneva 1599:** “And Iesus saide vnto them, I am that bread of life: he that commeth to me, shall not hunger, and he that beleeueth in me, shall neuer thirst.”
 - **KJV:** “And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 8:12 — CONFIRMED
 - **Geneva 1599:** “Then spake Iesus againe vnto them, saying, I am that light of the worlde: hee that followeth mee, shall not walke in darkenes, but shall haue that light of life.”
 - **KJV:** “¶ Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 10:9 — CONFIRMED
 - **Geneva 1599:** “I am that doore: by me if any man enter in, he shall be saued, and shall go in, and go out, and finde pasture.”
 - **KJV:** “I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 10:11 — CONFIRMED
 - **Geneva 1599:** “I am that good shepheard: that good shepheard giueth his life for his sheepe.”
 - **KJV:** “I am the good shepherd: the good shepherd giveth his life for the sheep.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 11:25 — CONFIRMED
 - **Geneva 1599:** “Iesus saide vnto her, I am the resurrection and the life: he that beleeueth in me, though he were dead, yet shall he liue.”
 - **KJV:** “Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 14:6 — CONFIRMED
 - **Geneva 1599:** “Iesus sayd vnto him, I am that Way, and that Trueth, and that Life. No man commeth vnto the Father, but by me.”
 - **KJV:** “Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 15:1 — CONFIRMED
 - **Geneva 1599:** “I Am that true vine, and my Father is that husband man.”
 - **KJV:** “I am the true vine, and my Father is the husbandman.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### John 8:58 — CONFIRMED
@@ -3604,6 +3604,247 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
+## THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the "I AM" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles
+
+### John 6:35 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “And Iesus saide vnto them, I am that bread of life: he that commeth to me, shall not hunger, and he that beleeueth in me, shall neuer thirst.”
+- **KJV:** “And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 8:12 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “Then spake Iesus againe vnto them, saying, I am that light of the worlde: hee that followeth mee, shall not walke in darkenes, but shall haue that light of life.”
+- **KJV:** “¶ Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 10:9 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “I am that doore: by me if any man enter in, he shall be saued, and shall go in, and go out, and finde pasture.”
+- **KJV:** “I am the door: by me if any man enter in, he shall be saved, and shall go in and out, and find pasture.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 10:7 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “Then sayd Iesus vnto them againe, Verely, verely I say vnto you, I am that doore of the sheepe.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass)*
+
+### John 10:11 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “I am that good shepheard: that good shepheard giueth his life for his sheepe.”
+- **KJV:** “I am the good shepherd: the good shepherd giveth his life for the sheep.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 10:14 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “I am that good shepheard, and knowe mine, and am knowen of mine.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass)*
+
+### John 11:25 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “Iesus saide vnto her, I am the resurrection and the life: he that beleeueth in me, though he were dead, yet shall he liue.”
+- **KJV:** “Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 14:6 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “Iesus sayd vnto him, I am that Way, and that Trueth, and that Life. No man commeth vnto the Father, but by me.”
+- **KJV:** “Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 15:1 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “I Am that true vine, and my Father is that husband man.”
+- **KJV:** “I am the true vine, and my Father is the husbandman.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice). The eBible Geneva page prints “I Am that true vine” — the seat prints “I am” (transcription quirk; TRB concurs ratio 1.00). Gloss *(the vine-dresser)* added after the edition’s “husband man” per VERBATIM + GLOSSES.
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### John 15:5 — CONFIRMED
+*cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
+- **Geneva 1599:** “I am that vine: ye are the branches: he that abideth in me, and I in him, the same bringeth forth much fruite: for without me can ye doe nothing.”
+- *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass)*
+
+### John 8:24 — CONFIRMED
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “I said therefore vnto you, That ye shall die in your sinnes: for except ye beleeue, that I am he, ye shall die in your sinnes.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word at modern spelling).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### John 8:58 — ANCHOR
+*cited as: prose ref (mention)*
+- **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
+- **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+- *Note:* The draft marks “already cited” — mention in the 2.1 absolutes list.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+
+### John 13:19 — CONFIRMED
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “From henceforth tell I you before it come, that when it is come to passe, ye might beleeue that I am he.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word at modern spelling).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### John 18:5 — CONFIRMED (EXCERPT)
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “They answered him, Iesus of Nazareth. Iesus sayde vnto them, I am hee. Nowe Iudas also which betraied him, stoode with them.”
+- *Note:* Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### John 18:6 — CONFIRMED (EXCERPT)
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Assoone then as hee had saide vnto them, I am hee, they went away backewardes, and fell to the grounde.”
+- *Note:* Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### John 8:59 — ANCHOR
+*cited as: prose ref (mention)*
+- **Geneva 1599:** “Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.”
+- **KJV:** “Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.”
+- *Note:* The 2.1 observation cites the stoning attempt over the absolute ἐγώ εἰμι (mention; the seat stays wave-earlier’s).
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### Isaiah 41:4 — ANCHOR
+*cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
+- **NETS (Septuagint, modern):** “Who has wrought and done these things? The one calling her from the beginning of generations has called her. I, God, am first, and for the things that are coming, I am.”
+- *Note:* listed in the 2.1 observation’s LXX echo list
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 43:10 — ANCHOR
+*cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
+- **NETS (Septuagint, modern):** “Be my witnesses; I too am a witness, says the Lord God, and the servant whom I have chosen so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me.”
+- *Note:* listed in the 2.1 observation’s LXX echo list
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 43:13 — ANCHOR
+*cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
+- **NETS (Septuagint, modern):** “Even from the beginning there is also no one who rescues from my hands; I will do it, and who will turn it back?”
+- *Note:* listed in the 2.1 observation’s LXX echo list
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 43:25 — ANCHOR
+*cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
+- **NETS (Septuagint, modern):** “I am, I am the one who blots out your acts of lawlessness, and I will not remember them at all.”
+- *Note:* listed in the 2.1 observation’s LXX echo list
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 46:4 — ANCHOR
+*cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
+- **NETS (Septuagint, modern):** “Until your old age, I am, and until you grow old, I am; I bear with you; I have made, and I will set free; I will take up and save you.”
+- *Note:* listed in the 2.1 observation’s LXX echo list
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 48:12 — ANCHOR
+*cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
+- **NETS (Septuagint, modern):** “Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.”
+- *Note:* listed in the 2.1 observation’s LXX echo list
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Daniel 7:13 — CONFIRMED
+*cited as: Daniel 7:13-14 seat — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; draft LXX-Greek differences recorded*
+- **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
+- *Note:* NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change.
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Daniel 7:14 — CONFIRMED
+*cited as: Daniel 7:13-14 seat — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; draft LXX-Greek differences recorded*
+- **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
+- *Note:* NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change.
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Matthew 26:63 — CONFIRMED (EXCERPT)
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “But Iesus helde his peace. Then the chiefe Priest answered, and saide to him, I charge thee sweare vnto vs by the liuing God, to tell vs, If thou be that Christ the Sonne of God, or no.”
+- *Note:* Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### Matthew 26:64 — CONFIRMED (EXCERPT)
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.”
+- *Note:* Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### Matthew 11:27 — CONFIRMED
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “All things are giuen vnto me of my Father: and no man knoweth the Sonne, but ye Father: neither knoweth any man ye Father, but the Sonne, and he to whom ye Sonne will reueile him.”
+- *Note:* Draft block aligned with the Geneva edition (word-for-word at modern spelling).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### Mark 13:32 — CONFIRMED
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “But of that day and houre knoweth no man, no, not the Angels which are in heauen, neither the Sonne himselfe, but the Father.”
+- *Note:* Draft block wording diverged from the Geneva ('but'→'save'); the seat prints the Geneva verbatim.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### Acts 1:7 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* cf. reference in the Mark 13:32 observation: the Father's kept authority.
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 3:29 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* Bridegroom title: — Matt 9:15; John 3:29 (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 9:15 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* Bridegroom title: — Matt 9:15; John 3:29 (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 12:6 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* Greater than the temple (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 12:41 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* Greater than Jonah (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 12:42 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* Greater than Solomon (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Mark 2:28 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* Lord of the Sabbath (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 27:11 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* The King of the Jews — confirmed before Pilate (2.4 list).
+- *Checked 2026-11-11 · editions fetched: *
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -5416,15 +5657,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 6:9 | CLOSE | confirmed |
 | John 1:29 | P1-Q8, COS-15 | anchor, confirmed |
 | John 3:16 | P1-Q8 | confirmed |
-| John 6:35 | P8 | confirmed |
-| John 8:12 | P8 | confirmed |
-| John 8:58 | P8, COS-01, COS-11, COS-21 | anchor, confirmed |
-| John 8:59 | P8 | anchor |
-| John 10:9 | P8 | confirmed |
-| John 10:11 | P8 | confirmed |
-| John 11:25 | P8 | confirmed |
-| John 14:6 | P8 | confirmed |
-| John 15:1 | P8 | confirmed |
+| John 6:35 | P8, COS-24 | confirmed |
+| John 8:12 | P8, COS-24 | confirmed |
+| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24 | anchor, confirmed |
+| John 8:59 | P8, COS-24 | anchor |
+| John 10:9 | P8, COS-24 | confirmed |
+| John 10:11 | P8, COS-24 | confirmed |
+| John 11:25 | P8, COS-24 | confirmed |
+| John 14:6 | P8, COS-24 | confirmed |
+| John 15:1 | P8, COS-24 | confirmed |
 | John 20:22 | P4 | anchor, confirmed |
 | Acts 2:2 | P8 | anchor |
 | Acts 8:20 | P7 | confirmed |
@@ -5548,10 +5789,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -5909,6 +6150,33 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 19:36 | COS-23 | confirmed |
 | John 19:37 | COS-23 | differs (minor) |
 | Revelation 1:7 | COS-23 | confirmed |
+| John 10:7 | COS-24 | confirmed |
+| John 10:14 | COS-24 | confirmed |
+| John 15:5 | COS-24 | confirmed |
+| John 8:24 | COS-24 | confirmed |
+| John 13:19 | COS-24 | confirmed |
+| John 18:5 | COS-24 | confirmed (excerpt) |
+| John 18:6 | COS-24 | confirmed (excerpt) |
+| Matthew 26:63 | COS-24 | confirmed (excerpt) |
+| Matthew 26:64 | COS-24 | confirmed (excerpt) |
+| Matthew 11:27 | COS-24 | confirmed |
+| Mark 13:32 | COS-24 | confirmed |
+| Daniel 7:13 | COS-24 | confirmed |
+| Daniel 7:14 | COS-24 | confirmed |
+| Isaiah 41:4 | COS-24 | anchor |
+| Isaiah 43:10 | COS-24 | anchor |
+| Isaiah 43:13 | COS-24 | anchor |
+| Isaiah 43:25 | COS-24 | anchor |
+| Isaiah 46:4 | COS-24 | anchor |
+| Isaiah 48:12 | COS-24 | anchor |
+| John 3:29 | COS-24 | anchor |
+| Matthew 9:15 | COS-24 | anchor |
+| Matthew 12:6 | COS-24 | anchor |
+| Matthew 12:41 | COS-24 | anchor |
+| Matthew 12:42 | COS-24 | anchor |
+| Mark 2:28 | COS-24 | anchor |
+| Matthew 27:11 | COS-24 | anchor |
+| Acts 1:7 | COS-24 | anchor |
 
 ## The editions used
 
