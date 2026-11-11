@@ -12,6 +12,14 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 
 1. The Foundational Confession: The One God *(upload 1 — Deut 6:4; Isaiah 44–46)*
 2. A Question Now Properly Framed — POSIT #1: The Seed of the Woman *(upload 2 — Genesis 3:15; Isa 7:14; Gal 4:4)*
+3. POSIT #2 — Genesis 22: The Beloved Son Offered by the Father
+4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
+5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
+6. Summary: The Earliest Posits of the Son
+3. POSIT #2 — Genesis 22: The Beloved Son Offered by the Father
+4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
+5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
+6. Summary: The Earliest Posits of the Son
 
 ---
 
