@@ -30,6 +30,7 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 19. SUMMARY, the Picture Now Clarifying, and the Next Step
 20. A Question Arising — Let Us Be Very Circumspect: the Messenger Identification Retracted; Genesis 16 & 22 Re-read
 21. A Question Arising — Whose Wisdom Is It? — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn; the Honest Revised Position
+22. Audits of Foundations — #1: The Father is the One God (the seated witnesses re-listed)
 
 ---
 

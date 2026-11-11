@@ -653,7 +653,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 45:6 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “so that they who are from the rising of the sun and from its going down may know that there is no one besides me; I am the Lord God, and there is no other.”
 - **Brenton LXX:** “That they that come from the east and they that come from the west may know that there is no God but me. I am the Lord God, and there is none beside.”
 - **Geneva 1599:** “That they may knowe from the rising of the sunne and from the West, that there is none besides me. I am the Lord, and there is none other.”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES where significantly different (45:22 “Return upon me”; 45:23 “Unless…”).
@@ -662,7 +662,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 45:22 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Turn to me, and you shall be saved, you who are from the end of the earth! I am God, and there is no other.”
 - **Brenton LXX:** “Turn ye to me, and ye shall be saved, ye that come from the end of the earth: I am God, and there is none other.”
 - **Geneva 1599:** “Looke vnto me, and ye shall be saued: all the endes of the earth shall be saued: for I am God, and there is none other.”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES where significantly different (45:22 “Return upon me”; 45:23 “Unless…”).
@@ -776,7 +776,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Deuteronomy 6:4 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
 - **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
 - **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
@@ -789,8 +789,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus answered him, The first of all the commandements is, Heare, Israel, The Lord our God is the onely Lord.”
 - **Ruling — apply Geneva 1599 exact:** “Jesus answered him, The first of all the commandments is, Hear, Israel, The Lord our God is the only Lord.”
   (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
-- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — Re-fetched 2026-11-11 with eBible — word-for-word identical to the banked text (ratio 1.00) · greek_biblehub_fresh — Re-fetched 2026-11-11 — top block matches the banked greek_byz (word-set 100.0%; accent-folded)*
 
 ### John 17:3 — CONFIRMED
 *cited as: Greek NT + “1599 Geneva” label in draft*
@@ -826,7 +826,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 44:6 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
 - **Brenton LXX:** “Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.”
 - **Geneva 1599:** “Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
@@ -836,7 +836,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 44:8 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Do not cover yourselves; did you not give ear from the beginning, and I declared it to you? You are witnesses whether there is a god besides me, and they were not formerly.”
 - **Brenton LXX:** “Hide not yourselves, nor go astray: have ye not heard from the beginning, and have not I told you? ye are witnesses if there is a God beside me.”
 - **Geneva 1599:** “Feare ye not, neither be afraide: haue not I tolde thee of olde, and haue declared it? you are euen my witnesses, whether there be a God beside me, and that there is no God that I knowe not.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Do not cover yourselves; did you not give ear from the beginning, and I declared it to you? You are witnesses whether there is a god besides me, and they were not formerly.”
@@ -846,7 +846,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 44:24 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Thus says the Lord, who redeems you, who forms you from the womb: I am the Lord, who accomplishes all things; I alone stretched out heaven, and I bolstered earth. Who else?”
 - **Brenton LXX:** “Thus saith the Lord that redeems thee, and who formed thee from the womb, I am the Lord that performs all things: I stretched out the heaven alone, and established the earth.”
 - **Geneva 1599:** “Thus sayeth the Lord thy redeemer and he that formed thee from the wombe, I am the Lord, that made all things, that spred out the heauens alone, and stretched out the earth by my selfe.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Thus says the Lord, who redeems you, who forms you from the womb: I am the Lord, who accomplishes all things; I alone stretched out heaven, and I bolstered earth. Who else?”
@@ -856,7 +856,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 45:5 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “because I am the Lord God, and there is no other god besides me, and you did not know me,”
 - **Brenton LXX:** “For I am the Lord God, and there is no other God beside me; I strengthened thee, and thou hast not known me.”
 - **Geneva 1599:** “I am the Lord and there is none other: there is no God besides me: I girded thee though thou hast not knowen me,”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “because I am the Lord God, and there is no other god besides me, and you did not know me,”
@@ -866,7 +866,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 45:18 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Thus says the Lord, who made heaven— this is the God who displayed the earth and made it; he himself marked its limits; he did not make it to be empty but to be inhabited: I am, and there is no other.”
 - **Brenton LXX:** “Thus saith the Lord that made the heaven, this God that created the earth, and made it; he marked it out, he made it not in vain, but formed it to be inhabited: I am the Lord, and there is none beside.”
 - **Geneva 1599:** “For thus saith the Lord (that created heauen, God himselfe, that formed the earth, and made it: he that prepared it, he created it not in vaine: he formed it to be inhabited) I am the Lord, and there is none other.”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
@@ -875,7 +875,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 45:21 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “If they will declare it, let them draw near so that they may know together who made from the beginning these things that are to be heard. Then it was declared to you, I am God, and there is no other besides me; there is no righteous one or savior except me.”
 - **Brenton LXX:** “If they will declare, let them draw nigh, that they may know together, who has caused these things to be heard from the beginning: then was it told you. I am God, and there is not another beside me; a just God and a Saviour; there is none but me.”
 - **Geneva 1599:** “Tell ye and bring them, and let them take counsell together, who hath declared this from the beginning? or hath tolde it of olde? Haue not I the Lord? and there is none other God beside me, a iust God, and a Sauiour: there is none beside me.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “If they will declare it, let them draw near so that they may know together who made from the beginning these things that are to be heard. Then it was declared to you, I am God, and there is no other besides me; there is no righteous one or savior except me.”
@@ -885,7 +885,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 45:23 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “By myself I swear, “Verily righteousness shall go forth from my mouth; my words shall not be turned back, because to me every knee shall bow and every tongue shall acknowledge God,”
 - **Brenton LXX:** “By myself I swear, righteousness shall surely proceed out of my mouth; my words shall not be frustrated; that to me every knee shall bend, and every tongue shall swear by God,”
 - **Geneva 1599:** “I haue sworne by my selfe: the worde is gone out of my mouth in righteousnesse, and shall not returne, That euery knee shall bowe vnto me, and euery tongue shall sweare by me.”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
@@ -894,7 +894,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 46:9 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “and remember the former things of old, because I am God, and there is no other besides me,”
 - **Brenton LXX:** “and remember the former things that were of old: for I am God, and there is none other beside me,”
 - **Geneva 1599:** “Remember the former things of old: for I am God, and there is none other God, and there is nothing like me,”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
@@ -903,7 +903,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 46:5 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “To whom have you likened me? See, act with cunning, you who are going astray!”
 - **Brenton LXX:** “To whom have ye compared me? see, consider, ye that go astray.”
 - **Geneva 1599:** “To whom will ye make me like or make me equall, or copare me, that I should be like him?”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
@@ -1547,7 +1547,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 46:5 — PROSE-REF
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “To whom have you likened me? See, act with cunning, you who are going astray!”
 - **Brenton LXX:** “To whom have ye compared me? see, consider, ye that go astray.”
 - **Geneva 1599:** “To whom will ye make me like or make me equall, or copare me, that I should be like him?”
 - **Ruling — PARAPHRASE:** 
@@ -1642,7 +1642,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Deuteronomy 6:4 — ANCHOR
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
 - **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
 - **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
 - **Ruling — ANCHOR:** 
@@ -1776,7 +1776,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Deuteronomy 6:4 — ANCHOR
 *cited as: prose ref*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
 - **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
 - **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
 - *Note:* Established-list cite ("The Father is the One God").
@@ -1948,7 +1948,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 44:6 — ANCHOR
 *cited as: table cite "Isa 44-46"*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
 - **Brenton LXX:** “Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.”
 - **Geneva 1599:** “Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.”
 - *Note:* Honest Revised Position table.
@@ -2001,6 +2001,68 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Prose echo follows the KJV/Geneva-family wording; NETS Micah seat (COS-06) differs in phrasing ("his goings out were..."). Recorded per the rule of 10 Nov: other-family quotes in prose carry their Version italic-named — his line already names "LXX"/Micah 5:2.
 - *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
 - *Double-checked (second source): nets ✓*
+
+## THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God
+
+### Deuteronomy 6:4 — CONFIRMED
+*cited as: audit witness bullet — Greek Shema inline; KJV-voiced English in draft (book seat: NETS Confession verse 4)*
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
+  (Audit re-lists seated witnesses; seat unchanged — the full NETS verse 4 (the Shema inside v4 in the Greek Bible).)
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Mark 12:29 — CONFIRMED
+*cited as: audit witness bullet — no quote in draft (book seat: Geneva 1599 Confession full verse)*
+- **Geneva 1599:** “Iesus answered him, The first of all the commandements is, Heare, Israel, The Lord our God is the onely Lord.”
+- **Ruling — apply Geneva 1599 exact:** “Jesus answered him, The first of all the commandments is, Hear, Israel, The Lord our God is the only Lord.”
+  (Standing rule: NT seats Geneva 1599 (modernized-orthography seat practice); the audit bullet cites no quote and anchors the Confession seat.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — Re-fetched 2026-11-11 with eBible — word-for-word identical to the banked text (ratio 1.00) · greek_biblehub_fresh — Re-fetched 2026-11-11 — top block matches the banked greek_byz (word-set 100.0%; accent-folded)*
+
+### John 17:3 — CONFIRMED
+*cited as: audit witness bullet — Greek phrase inline, KJV-voiced English in draft (book seat: Geneva 1599 Confession full verse)*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- **Ruling — apply Geneva 1599 exact:** “And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.”
+  (Audit re-lists seated witnesses; seat unchanged (Confession full verse + gloss).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Corinthians 8:6 — CONFIRMED
+*cited as: audit witness bullet — KJV-voiced quote in draft (book seat: Geneva 1599 Confession full verse)*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- **Ruling — apply Geneva 1599 exact:** “Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him.”
+  (Audit re-lists seated witnesses; seat unchanged (Confession full verse).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### John 20:17 — CONFIRMED
+*cited as: audit witness bullet — Greek Θὸν-mou phrase inline (book seat: Geneva 1599 Confession full verse)*
+- **Geneva 1599:** “Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but goe to my brethren, and say vnto them, I ascend vnto my Father, and to your Father, and to my God, and your God.”
+- **Ruling — apply Geneva 1599 exact:** “Jesus saith unto her, Touch me not: for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.”
+  (Audit re-lists seated witnesses; seat unchanged (Confession full verse).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Ephesians 1:17 — CONFIRMED
+*cited as: audit witness bullet — KJV-voiced quote in draft (book seat: Geneva 1599 Confession full verse)*
+- **Geneva 1599:** “That the God of our Lord Iesus Christ, that Father of glory, might giue vnto you the Spirit of wisedome, and reuelation through the acknowledging of him,”
+- **Ruling — apply Geneva 1599 exact:** “That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,”
+  (Audit re-lists seated witnesses; seat unchanged (Confession full verse).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 44:6 — CONFIRMED
+*cited as: audit witness bullet — range cite Isa 44-46 with quoted phrase (book seat: NETS Confession verses)*
+- **NETS (Septuagint, modern):** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
+- **Brenton LXX:** “Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.”
+- **Geneva 1599:** “Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
+  (Audit re-lists seated witnesses; seat unchanged — NETS verbatim (Confession).)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -4011,8 +4073,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
-| Deuteronomy 6:4 | COS-01, COS-15, COS-16 | anchor, confirmed |
-| Isaiah 44:6 | COS-01, COS-17 | anchor, confirmed |
+| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18 | anchor, confirmed |
+| Isaiah 44:6 | COS-01, COS-17, COS-18 | anchor, confirmed |
 | Isaiah 44:8 | COS-01 | confirmed |
 | Isaiah 44:24 | COS-01 | confirmed |
 | Isaiah 45:5 | COS-01 | confirmed |
@@ -4027,11 +4089,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 1:2 | COS-01 | anchor |
 | Genesis 1:6 | COS-01 | anchor |
 | Psalm 32:6 | COS-01 | commentary |
-| Mark 12:29 | COS-01 | confirmed |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17 | anchor, confirmed |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16 | anchor, confirmed |
-| John 20:17 | COS-01 | confirmed |
-| Ephesians 1:17 | COS-01 | confirmed |
+| Mark 12:29 | COS-01, COS-18 | confirmed |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18 | anchor, confirmed |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18 | anchor, confirmed |
+| John 20:17 | COS-01, COS-18 | confirmed |
+| Ephesians 1:17 | COS-01, COS-18 | confirmed |
 | John 1:1 | COS-01 | anchor |
 | John 1:2 | COS-01 | anchor |
 | John 1:3 | COS-01 | anchor |

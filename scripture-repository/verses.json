@@ -69,7 +69,8 @@
    "COS-14",
    "COS-15",
    "COS-16",
-   "COS-17"
+   "COS-17",
+   "COS-18"
   ],
   "sections": [
    {
@@ -293,6 +294,10 @@
    {
     "key": "COS-17",
     "label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn"
+   },
+   {
+    "key": "COS-18",
+    "label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God"
    }
   ],
   "double_check": {
@@ -322,6 +327,11 @@
     "date": "2026-11-11",
     "method": "1 Cor 1:18-24, 30 + Col 1:15-17 Geneva fetched fresh from eBible and second-checked word-for-word vs textusreceptusbibles.com (14/14 ratio 1.00); draft Greek per-verse vs biblehub /text/ (cover 1.0 for all three groups; Col only the δι᾽/δι elision token).",
     "notes": "Col/1Cor seat practice: modernized-orthography rendering of the Geneva wording stands from Waves 3-7; eBible/TRB print 1599 orthography. Flagged for his word (see so-far note)."
+   },
+   "COS-18": {
+    "date": "2026-11-11",
+    "method": "Audit #1 re-lists witnesses already double-checked (NETS by Rahlfs concurrence; Geneva rows eBible=TRB 1.00). New MARK.12.29 row fetched fresh: eBible=TRB word-for-word (ratio 1.00) + biblehub Byzantine Greek. NETS cache texts asserted non-empty and corroborated against the COS-01 quotes (gloss-stripped).",
+    "notes": "KJV-voiced audit bullet quotes swapped to the specified translations (NETS/Geneva) per the translation rule; draft wordings recorded on each row."
    }
   },
   "sabbath_roundup": {
@@ -350,7 +360,7 @@
   },
   "so_far_words": 12387,
   "cos_sofar": {
-   "waves": 8
+   "waves": 9
   }
  },
  "verses": [
@@ -10886,12 +10896,31 @@
      "quotes": [],
      "status": "anchor",
      "note": "Established-list cite (\"The Father is the One God\")."
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1685,
+     "cited_as": "audit witness bullet — Greek Shema inline; KJV-voiced English in draft (book seat: NETS Confession verse 4)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [
+      "the LORD our God is one LORD."
+     ],
+     "status": "confirmed",
+     "matched": "nets",
+     "note": "The audit re-lists the Confession seat; bullet quote swapped to NETS wording (“The Lord our God is one Lord.”). Draft Greek = Rahlfs tail (recorded at COS-01, 4 Greek witnesses).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.",
+      "reason": "Audit re-lists seated witnesses; seat unchanged — the full NETS verse 4 (the Shema inside v4 in the Greek Bible)."
+     }
     }
    ],
    "verified": "2026-11-11",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/05-deut-nets.pdf"
     },
     "gnv": {
@@ -10966,12 +10995,31 @@
      "quotes": [],
      "status": "anchor",
      "note": "Honest Revised Position table."
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1691,
+     "cited_as": "audit witness bullet — range cite Isa 44-46 with quoted phrase (book seat: NETS Confession verses)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [
+      "besides Me there is no God."
+     ],
+     "status": "confirmed",
+     "matched": "nets",
+     "note": "The KJV-voiced phrase (besides Me there is no God) prints as the NETS wording at 44:6 (“besides me there is no god.”); the range re-cites the Confession seats (44:6/8/24; 45:5-6, 18, 21-23; 46:5, 9).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.",
+      "reason": "Audit re-lists seated witnesses; seat unchanged — NETS verbatim (Confession)."
+     }
     }
    ],
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11036,7 +11084,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "Do not cover yourselves; did you not give ear from the beginning, and I declared it to you? You are witnesses whether there is a god besides me, and they were not formerly.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11101,7 +11149,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "Thus says the Lord, who redeems you, who forms you from the womb: I am the Lord, who accomplishes all things; I alone stretched out heaven, and I bolstered earth. Who else?",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11166,7 +11214,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "because I am the Lord God, and there is no other god besides me, and you did not know me,",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11230,7 +11278,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "so that they who are from the rising of the sun and from its going down may know that there is no one besides me; I am the Lord God, and there is no other.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11295,7 +11343,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "If they will declare it, let them draw near so that they may know together who made from the beginning these things that are to be heard. Then it was declared to you, I am God, and there is no other besides me; there is no righteous one or savior except me.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11360,7 +11408,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "Turn to me, and you shall be saved, you who are from the end of the earth! I am God, and there is no other.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11429,7 +11477,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "Thus says the Lord, who made heaven— this is the God who displayed the earth and made it; he himself marked its limits; he did not make it to be empty but to be inhabited: I am, and there is no other.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11494,7 +11542,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "By myself I swear, “Verily righteousness shall go forth from my mouth; my words shall not be turned back, because to me every knee shall bow and every tongue shall acknowledge God,",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11580,7 +11628,7 @@
    "verified": "2026-11-11",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "To whom have you likened me? See, act with cunning, you who are going astray!",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11653,7 +11701,7 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "and remember the former things of old, because I am God, and there is no other besides me,",
      "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "gnv": {
@@ -11910,9 +11958,26 @@
      },
      "was": "And Jesus answered him, The first of all the commandments is, Hear, Israel, The Lord our God is the Lord only.",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1686,
+     "cited_as": "audit witness bullet — no quote in draft (book seat: Geneva 1599 Confession full verse)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [],
+     "status": "confirmed",
+     "matched": "gnv",
+     "note": "The audit re-lists the seated witness; the full seat stands at the Confession (COS-01, modernized GNV): “Jesus answered him, The first of all the commandments is, Hear, Israel, The Lord our God is the only Lord.”. Text re-fetched + re-verified in passing.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Jesus answered him, The first of all the commandments is, Hear, Israel, The Lord our God is the only Lord.",
+      "reason": "Standing rule: NT seats Geneva 1599 (modernized-orthography seat practice); the audit bullet cites no quote and anchors the Confession seat."
+     }
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "Iesus answered him, The first of all the commandements is, Heare, Israel, The Lord our God is the onely Lord.",
@@ -11927,6 +11992,16 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/41/12"
+    },
+    "trb_fresh": {
+     "text": "Iesus answered him, The first of all the commandements is, Heare, Israel, The Lord our God is the onely Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/41/12",
+     "result": "Re-fetched 2026-11-11 with eBible — word-for-word identical to the banked text (ratio 1.00)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀπεκρίθη ὁ Ἰησοῦς Ὅτι Πρώτη ἐστίν Ἄκουε, Ἰσραήλ, Κύριος ὁ Θεὸς ἡμῶν Κύριος εἷς ἐστιν",
+     "source": "https://biblehub.com/text/mark/12-29.htm",
+     "result": "Re-fetched 2026-11-11 — top block matches the banked greek_byz (word-set 100.0%; accent-folded)"
     }
    }
   },
@@ -11988,6 +12063,25 @@
      "quotes": [],
      "status": "anchor",
      "note": ""
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1687,
+     "cited_as": "audit witness bullet — Greek phrase inline, KJV-voiced English in draft (book seat: Geneva 1599 Confession full verse)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [
+      "the only true God."
+     ],
+     "status": "confirmed",
+     "matched": "gnv",
+     "note": "Bullet quote now prints the Geneva wording (“the only very God”) with the author’s rendering kept as the gloss (the only true God).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.",
+      "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse + gloss)."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -12056,6 +12150,25 @@
      "quotes": [],
      "status": "anchor",
      "note": "Established-list cite (\"The Father is the One God\")."
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1688,
+     "cited_as": "audit witness bullet — KJV-voiced quote in draft (book seat: Geneva 1599 Confession full verse)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [
+      "to us there is one God, the Father... and one Lord, Jesus Christ."
+     ],
+     "status": "confirmed",
+     "matched": "gnv",
+     "note": "Bullet quote swapped to the Geneva wording (“Yet unto us there is but one God, which is that Father… and one Lord Jesus Christ.”).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him.",
+      "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -12101,6 +12214,25 @@
      },
      "was": "Jesus saith unto her, ...but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1689,
+     "cited_as": "audit witness bullet — Greek Θὸν-mou phrase inline (book seat: Geneva 1599 Confession full verse)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [
+      "My God."
+     ],
+     "status": "confirmed",
+     "matched": "gnv",
+     "note": "Bullet quote now prints the Geneva phrase (“to my God, and your God.”); the draft’s “My God.” is the natural gloss of the Greek term.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Jesus saith unto her, Touch me not: for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.",
+      "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
+     }
     }
    ],
    "verified": "2026-11-07",
@@ -12146,6 +12278,25 @@
      },
      "was": "That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom...",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-18",
+     "section_label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God",
+     "article_line": 1690,
+     "cited_as": "audit witness bullet — KJV-voiced quote in draft (book seat: Geneva 1599 Confession full verse)",
+     "quote_kind": "audit-witness bullet",
+     "quotes": [
+      "the God of our Lord Jesus Christ, the Father of glory."
+     ],
+     "status": "confirmed",
+     "matched": "gnv",
+     "note": "Bullet quote swapped to the Geneva wording (“that Father of glory”) — the KJV-voiced “the Father of glory” is noted as the draft’s wording.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,",
+      "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
+     }
     }
    ],
    "verified": "2026-11-07",
