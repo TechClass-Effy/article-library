@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**164 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**175 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**335 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**346 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -414,8 +414,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And God answered Moses, I Am That I Am. Also he said, Thus shalt thou say vnto the children of Israel, I Am hath sent me vnto you.”
 - **KJV:** “And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.”
 - *Note:* Ehyeh Asher Ehyeh + renderings; all three canonical texts banked
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets — NETS 3:14 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs · trb ✓*
 
 ### Exodus 17:6 — ANCHOR
 - **Brenton LXX:** “Behold, I stand there before thou come, on the rock in Choreb, and thou shalt smite the rock, and water shall come out from it, and the people shall drink. And Moses did so before the sons of Israel.”
@@ -539,8 +539,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 8:58 — CONFIRMED
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) · trb ✓*
 
 ### John 8:59 — ANCHOR
 - **Geneva 1599:** “Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.”
@@ -647,8 +647,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - *Note:* Existing banked row now also cited by THE CHRIST OF SCRIPTURE.
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) · trb ✓*
 
 ### Isaiah 45:6 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -1401,6 +1401,111 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — ANCHOR:** 
 - *Checked 2026-11-11 · editions fetched: *
 - *Double-checked (second source): nets — anchor — referenced only*
+
+## THE CHRIST OF SCRIPTURE — 14. THE FOURTH APPEARANCE — Genesis 32: Wrestling at Peniel
+
+### Genesis 32:25 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And he sawe that he could not preuaile against him: therefore he touched the holowe of his thigh, and the holowe of Iaakobs thigh was loosed, as he wrestled with him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Iakob *(Jacob)* was left alone, and a man was wrestling with him until morning. … Then he said to him, “Your name shall no longer be called Iakob *(Jacob)*, but Israel shall be your name, because you have prevailed with a god, and with humans you are powerful.” … And Iakob *(Jacob)* called the name of that place Divine-form *(Peniel, “the face of God”)*, “For I have seen a god face to face, and my life has been …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS v24 verbatim from Penn master page dump; cache-equality asserted gloss-stripped · greek_rahlfs — Draft LXX word-set 95% vs wikisource Rahlfs (missing only koronis-bound μετ᾽) · greek_swete — unresolved parse (page is per-word glossed) — Rahlfs carries the Greek check · trb ✓*
+
+### Genesis 32:29 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Then Iaakob demaded, saying, Tell me, I pray thee, thy name. And he said, Wherefore now doest thou aske my name? and he blessed him there”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Iakob *(Jacob)* was left alone, and a man was wrestling with him until morning. … Then he said to him, “Your name shall no longer be called Iakob *(Jacob)*, but Israel shall be your name, because you have prevailed with a god, and with humans you are powerful.” … And Iakob *(Jacob)* called the name of that place Divine-form *(Peniel, “the face of God”)*, “For I have seen a god face to face, and my life has been …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS v28 verbatim from Penn master page dump · greek_rahlfs — renaming verse; draft adds ἔσῃ not in Rahlfs (recorded) · trb ✓*
+
+### Genesis 32:31 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And Iaakob called the name of the place, Peniel: for, said he, I have seene God face to face, and my life is preserued.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Iakob *(Jacob)* was left alone, and a man was wrestling with him until morning. … Then he said to him, “Your name shall no longer be called Iakob *(Jacob)*, but Israel shall be your name, because you have prevailed with a god, and with humans you are powerful.” … And Iakob *(Jacob)* called the name of that place Divine-form *(Peniel, “the face of God”)*, “For I have seen a god face to face, and my life has been …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS v30 verbatim from Penn master page dump · greek_rahlfs — Draft LXX word-set 95% vs wikisource Rahlfs (missing only koronis-bound μετ᾽) · trb ✓*
+
+### Genesis 32:26-30 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets — not seated (ellipses); NETS walk/dump carries them*
+
+### Hosea 12:4 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Hee tooke his brother by the heele in the wombe, and by his strength he had power with God,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “In the womb he kicked his brother with the heel and in his struggles prevailed against God. And he prevailed with an angel and predominated *(prevailed, overpowered)*. … ”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS Twelve book walk (Hosea pp. 5-22 of 32-twelve); 14 chapters; verbatim in cache · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs + Swete pages · greek_swete — Swete page slice around ἐπτέρνισεν agrees · trb ✓*
+
+### Hosea 12:5 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And had power ouer the Angel, and preuailed: he wept and praied unto him: he founde him in Beth-el, and there he spake with vs.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “In the womb he kicked his brother with the heel and in his struggles prevailed against God. And he prevailed with an angel and predominated *(prevailed, overpowered)*. … ”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS 12:4 core verified vs cache; tail artifact noted · greek_rahlfs — Rahlfs 12:5 opening matches draft · trb ✓*
+
+## THE CHRIST OF SCRIPTURE — 15. THE FIFTH APPEARANCE — Exodus 3: The Burning Bush
+
+### Exodus 3:14 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Brenton LXX:** “And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.”
+- **Geneva 1599:** “And God answered Moses, I Am That I Am. Also he said, Thus shalt thou say vnto the children of Israel, I Am hath sent me vnto you.”
+- **KJV:** “And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And God said to Moyses *(Moses)*, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’””
+  ()
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets — NETS 3:14 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs · trb ✓*
+
+### John 8:58 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
+- **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+- **Ruling — apply Geneva 1599 exact:** “Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) · trb ✓*
+
+### Exodus 3:2 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Then the Angel of the Lord appeared unto him in a flame of fire, out of the midst of a bush: and he looked, and behold, the bush burned with fire, and the bush was not consumed.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Now an angel of the Lord appeared to him in a fire of flame out of the bush, … Now when the Lord saw that he was drawing near to see, the Lord called him from the bush, saying, “Moyses *(Moses)*, Moyses.” And he said, “What is it?” … And he said to him, “I am the God of your father, God of Abraam *(Abraham)* and God of Isaak *(Isaac)* and God of Iakob *(Jacob)*.” … ”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS 3:2 verbatim vs fresh 02-exod walk; verse count of ch3 gated · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs (corrected ch-3 window); word-order variant noted · greek_swete — Swete page slice around βάτ captured · trb ✓*
+
+### Exodus 3:3 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets — not seated (ellipsis)*
+
+### Exodus 3:4 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And when the Lord sawe that he turned aside to see, God called unto him out of the midst of the bush, and said, Moses, Moses. And he answered, I am here.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Now an angel of the Lord appeared to him in a fire of flame out of the bush, … Now when the Lord saw that he was drawing near to see, the Lord called him from the bush, saying, “Moyses *(Moses)*, Moyses.” And he said, “What is it?” … And he said to him, “I am the God of your father, God of Abraam *(Abraham)* and God of Isaak *(Isaac)* and God of Iakob *(Jacob)*.” … ”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS 3:4 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs (corrected ch-3 window) · trb ✓*
+
+### Exodus 3:5 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets — not seated (ellipsis)*
+
+### Exodus 3:6 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Moreouer he said, I am the God of thy father, the God of Abraham, the God of Izhak, and the God of Iaakob. Then Moses hid his face: for he was afraid to looke upon God.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Now an angel of the Lord appeared to him in a fire of flame out of the bush, … Now when the Lord saw that he was drawing near to see, the Lord called him from the bush, saying, “Moyses *(Moses)*, Moyses.” And he said, “What is it?” … And he said to him, “I am the God of your father, God of Abraam *(Abraham)* and God of Isaak *(Isaac)* and God of Iakob *(Jacob)*.” … ”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS 3:6 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs (corrected ch-3 window) · trb ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -3159,7 +3264,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 22:13 | P1-Q8 | confirmed |
 | Genesis 22:14 | P1-Q8 | confirmed |
 | Genesis 22:16 | P1-Q8, COS-08 | confirmed |
-| Exodus 3:14 | P8 | anchor, commentary |
+| Exodus 3:14 | P8, COS-11 | anchor, commentary, confirmed |
 | Exodus 3:15 | P1-Q3, P2, CLOSE | confirmed |
 | Exodus 6:3 | P1-Q3 | confirmed |
 | Exodus 13:21 | P8 | anchor |
@@ -3205,7 +3310,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 3:16 | P1-Q8 | confirmed |
 | John 6:35 | P8 | confirmed |
 | John 8:12 | P8 | confirmed |
-| John 8:58 | P8, COS-01 | anchor, confirmed |
+| John 8:58 | P8, COS-01, COS-11 | anchor, confirmed |
 | John 8:59 | P8 | anchor |
 | John 10:9 | P8 | confirmed |
 | John 10:11 | P8 | confirmed |
@@ -3487,6 +3592,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 31:12 | COS-09 | anchor |
 | Genesis 31:13 | COS-09 | confirmed |
 | Genesis 28:10-22 | COS-09 | anchor |
+| Genesis 32:25 | COS-10 | confirmed |
+| Genesis 32:29 | COS-10 | confirmed |
+| Genesis 32:31 | COS-10 | confirmed |
+| Genesis 32:26-30 | COS-10 | anchor |
+| Hosea 12:4 | COS-10 | confirmed |
+| Hosea 12:5 | COS-10 | confirmed |
+| Exodus 3:2 | COS-11 | confirmed |
+| Exodus 3:3 | COS-11 | anchor |
+| Exodus 3:4 | COS-11 | confirmed |
+| Exodus 3:5 | COS-11 | anchor |
+| Exodus 3:6 | COS-11 | confirmed |
 
 ## The editions used
 

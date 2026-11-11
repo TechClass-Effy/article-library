@@ -22,7 +22,9 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)
 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)
 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel
-14. *The remaining appearances (Genesis 32; Hosea 12; Exodus 3) and the Apostolic witnesses — next wave*
+14. THE FOURTH APPEARANCE — Genesis 32: Wrestling at Peniel
+15. THE FIFTH APPEARANCE — Exodus 3: The Burning Bush
+16. *The Apostolic witnesses (1 Corinthians 10; Jude 5) and the reconciliation (John 1:18; 6:46) — next wave*
 
 ---
 
