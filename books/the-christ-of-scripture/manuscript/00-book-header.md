@@ -24,7 +24,10 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel
 14. THE FOURTH APPEARANCE — Genesis 32: Wrestling at Peniel
 15. THE FIFTH APPEARANCE — Exodus 3: The Burning Bush
-16. *The Apostolic witnesses (1 Corinthians 10; Jude 5) and the reconciliation (John 1:18; 6:46) — next wave*
+16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses (1 Corinthians 10; Jude 5)
+17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation (John 1:18; 6:46)
+18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him; John 17:11-12
+19. SUMMARY, the Picture Now Clarifying, and the Next Step
 
 ---
 

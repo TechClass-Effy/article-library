@@ -63,7 +63,11 @@
    "COS-08",
    "COS-09",
    "COS-10",
-   "COS-11"
+   "COS-11",
+   "COS-12",
+   "COS-13",
+   "COS-14",
+   "COS-15"
   ],
   "sections": [
    {
@@ -263,6 +267,22 @@
    {
     "key": "COS-11",
     "label": "THE CHRIST OF SCRIPTURE — 15. THE FIFTH APPEARANCE — Exodus 3: The Burning Bush"
+   },
+   {
+    "key": "COS-12",
+    "label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses"
+   },
+   {
+    "key": "COS-13",
+    "label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation"
+   },
+   {
+    "key": "COS-14",
+    "label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him"
+   },
+   {
+    "key": "COS-15",
+    "label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step"
    }
   ],
   "double_check": {
@@ -308,7 +328,7 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 10975
+  "so_far_words": 12387
  },
  "verses": [
   {
@@ -2800,9 +2820,26 @@
      "status": "confirmed",
      "matched_source": "brenton",
      "note": ""
+    },
+    {
+     "section": "COS-15",
+     "section_label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "They shall look upon Me whom they have pierced."
+     ],
+     "status": "prose-ref",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Prose echo (canon line 1335, Next-Step bullet) — no seat. Quote = Geneva/KJV-family wording (\"they shall look upon me, whom they haue pearced\"); NETS Zechariah NOT verifiable: the Twelve cache walk is Malachi-junk and Zech pages are not yet walked. Prose left untouched (no attribution added) — flagged for the coming Psalm 22 / Isaiah 53 wave, which will seat Zech in NETS.",
+     "adjudication": {
+      "ruling": "paraphrase",
+      "version": "gnv",
+      "text": ""
+     }
     }
    ],
-   "verified": "2026-11-02",
+   "verified": "2026-11-11",
    "translations": {
     "brenton": {
      "text": "And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.",
@@ -2829,7 +2866,16 @@
     "brenton": {
      "result": "agree",
      "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    },
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/38/12"
     }
+   },
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "NETS Zechariah 12:10 text not in bank (XII cache unusable); the draft prose quotes the KJV/Geneva wording unattributed. When the Suffering-Servant wave seats Zechariah 12:10, verify NETS wording (or his Logos LES copy) and decide whether an attribution gloss is wanted.",
+    "awaiting": "Gideon — next wave or his word"
    }
   },
   {
@@ -2928,9 +2974,24 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-15",
+     "section_label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Prose anchor (canon line 1320, the Lamb); row pre-banked.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "gnv",
+      "text": ""
+     }
     }
    ],
-   "verified": "2026-11-02",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "The next day Iohn, seeth Iesus comming vnto him, and saith, Beholde that Lambe of God, which taketh away the sinne of the world.",
@@ -3669,9 +3730,26 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-12",
+     "section_label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat within the 10:1-4, 9 group (draft ellipses also cover vv 5-8): Geneva v4 full — the edition itself carries the parenthesis. Draft-Greek word-ORDER variant: draft ἡ δὲ πέτρα vs Nestle/WH ἡ πέτρα δὲ — recorded; English seat unaffected.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
+     }
     }
    ],
-   "verified": "2026-11-02",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "And did all drinke the same spirituall drinke (for they dranke of the spiritual Rocke that folowed them: and the Rocke was Christ)",
@@ -3690,6 +3768,15 @@
     "kjv": {
      "result": "agree",
      "url": "https://biblehub.com/kjv/"
+    },
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/10"
+    },
+    "greek_biblehub": {
+     "text": "Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Nestle 1904 Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Westcott and Hort 1881 Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: RP B",
+     "source": "https://biblehub.com/text/1_corinthians/10-4.htm",
+     "result": "100% word-set; order variant ἡ δὲ πέτρα / ἡ πέτρα δὲ recorded"
     }
    }
   },
@@ -10698,9 +10785,24 @@
      },
      "was": "Hear, O Israel, The Lord our God is Lord only.",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-15",
+     "section_label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Prose anchor (canon line 1319): the One God of the Shema re-named in the Picture section; row pre-banked (empty-text backfill flag unchanged).",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "gnv",
+      "text": ""
+     }
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "",
@@ -11360,9 +11462,26 @@
       "reason": "Maxim 4: OT seats NETS verbatim; LES differences noted where captured."
      },
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-13",
+     "section_label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "To whom will you liken Me?"
+     ],
+     "status": "prose-ref",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Prose echo (canon line 1243). NETS: \"To whom have you likened me? See, act with cunning, you who are going astray!\" Geneva: \"To whom will ye make me like or make me equall, or copare me, that I should be like him?\" — draft wording his own condensed form; paraphrase recorded. NETS text also fills the row from the pre-Wave-3 empty-text backfill set.",
+     "adjudication": {
+      "ruling": "paraphrase",
+      "version": "nets",
+      "text": ""
+     }
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "",
@@ -11396,12 +11515,16 @@
      "url": "https://www.textusreceptusbibles.com/Geneva/23/46"
     },
     "nets": {
-     "result": "agree-by-Rahlfs-concurrence",
-     "url": "https://el.wikisource.org/wiki/Ησαΐας_(Rahlfs)"
+     "result": "NETS verbatim from 33-esaias walk cache",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
     },
     "greek": {
      "result": "agree",
      "url": "https://theancientbible.org/"
+    },
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/23/46"
     }
    }
   },
@@ -11734,9 +11857,24 @@
       "text": "And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.",
       "reason": "Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved)."
      }
+    },
+    {
+     "section": "COS-15",
+     "section_label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Prose anchor (canon line 1319); row pre-banked.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "gnv",
+      "text": ""
+     }
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.",
@@ -11777,9 +11915,24 @@
       "text": "Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him.",
       "reason": "Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved)."
      }
+    },
+    {
+     "section": "COS-15",
+     "section_label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Prose anchor (canon line 1319); row pre-banked.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "gnv",
+      "text": ""
+     }
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.",
@@ -13641,6 +13794,21 @@
       "version": "gnv",
       "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
      }
+    },
+    {
+     "section": "COS-13",
+     "section_label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Prose anchor (canon line 1264): εἰκὼν τοῦ Θεοῦ τοῦ ἀοράτου named load-bearing in the reconciliation prose; row already banked (existing uses kept).",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "gnv",
+      "text": ""
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -14981,6 +15149,435 @@
     "trb": {
      "result": "agree (eBible=TRB, ratio 0.99)",
      "url": "https://textusreceptusbibles.com/Geneva/2/3"
+    }
+   }
+  },
+  {
+   "id": "1CO.10.1",
+   "ref": "1 Corinthians 10:1",
+   "uses": [
+    {
+     "section": "COS-12",
+     "section_label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat (group 10:1-4, 9, one blockquote): Geneva v1 full; ellipses cover vv 2-3. Edition spelling lightly modernized to the draft form (Moreouer->Moreover, cloude->cloud); the edition's own parenthesis in v4 kept. Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881) across vv 1/4/9.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Moreouer, brethren, I woulde not that yee shoulde bee ignorant, that all our fathers were vnder that cloude, and all passed through that sea,",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/10"
+    },
+    "greek_biblehub": {
+     "text": "Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Nestle 1904 Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Westcott and Hort 1881 Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: RP B",
+     "source": "https://biblehub.com/text/1_corinthians/10-1.htm (+10-4, 10-9)",
+     "result": "Draft Greek word-set 100%% vs BibleHub (Nestle/WH), vv 1+4+9 word-for-word"
+    }
+   }
+  },
+  {
+   "id": "1CO.10.9",
+   "ref": "1 Corinthians 10:9",
+   "uses": [
+    {
+     "section": "COS-12",
+     "section_label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat tail of the 10:1-4, 9 group. Draft Greek = BibleHub Nestle word-for-word (Nestle prints Χριστόν* with an editorial star; draft omits the mark).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Neither let vs tempt Christ, as some of them also tempted him, and were destroyed of serpents.",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/10"
+    },
+    "greek_biblehub": {
+     "text": "Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Nestle 1904 Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Westcott and Hort 1881 Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] Οὐ θέλω γὰρ ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὅτι οἱ πατέρες ἡμῶν πάντες ὑπὸ τὴν νεφέλην ἦσαν καὶ πάντες διὰ τῆς θαλάσσης διῆλθον, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ 10:1 Greek NT: RP B",
+     "source": "https://biblehub.com/text/1_corinthians/10-9.htm",
+     "result": "100% word-for-word (Nestle); editorial star Χριστόν* noted"
+    }
+   }
+  },
+  {
+   "id": "JUD.1.5",
+   "ref": "Jude 5",
+   "uses": [
+    {
+     "section": "COS-12",
+     "section_label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "I will therefore put you in remembrance, forasmuch as ye once knew this, how that the Lord, after that he had delivered the people out of Egypt, destroyed them afterward which believed not."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat: Geneva full verse (\"the Lord\" reading; eBible=TRB ratio 1.00; spelling modernized wil->will, therfore->therefore, remebrance->remembrance, deliuered->delivered, destroied->destroyed, beleeued->believed). Draft Greek = the earliest reading Ἰησοῦς: BibleHub primary block prints [ὁ] Ἰησοῦς (article bracketed), while Nestle 1904 / WH 1881 / Byzantine print Κύριος = Geneva's \"the Lord\". Variant recorded; the manuscript's own Note already explains it — no seat change.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "I will therefore put you in remembrance, forasmuch as ye once knew this, how that the Lord, after that he had delivered the people out of Egypt, destroyed them afterward which believed not."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I wil therfore put you in remebrance, forasmuch as ye once knew this, how that the Lord, after that he had deliuered the people out of Egypt, destroied them afterward which beleeued not.",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/65/1"
+    },
+    "greek_biblehub": {
+     "text": "Ὑπομνῆσαι δὲ ὑμᾶς βούλομαι, εἰδότας ‹ὑμᾶς› ἅπαξ&nbsp;⇔ ««πάντα, ὅτι [ὁ] Ἰησοῦς» λαὸν ἐκ γῆς Αἰγύπτου σώσας τὸ δεύτερον τοὺς μὴ πιστεύσαντας ἀπώλεσεν,",
+     "source": "https://biblehub.com/text/jude/1-5.htm",
+     "result": "Word-set 100% vs page; reading split observed: NA28-type block Ἰησοῦς, Nestle/WH/Byzantine Κύριος — recorded"
+    }
+   }
+  },
+  {
+   "id": "JHN.1.18",
+   "ref": "John 1:18",
+   "uses": [
+    {
+     "section": "COS-13",
+     "section_label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat: Geneva full verse (modernized seene/onely/Sonne/bosome; gloss \"declared *(revealed)* him\"). Draft Greek = TR/Byzantine ὁ μονογενὴς Υἱὸς (Geneva-voiced \"only begotten Son\"); BibleHub Nestle 1904 + WH 1881 read μονογενὴς Θεός — the classic 1:18 variant, recorded; seat is Geneva per book ruling.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/1"
+    },
+    "greek_biblehub": {
+     "text": "Θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς Θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ Πατρὸς, ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: Nestle 1904 Θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς Θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ Πατρὸς, ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: Westcott and Hort 1881 θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] θεὸν οὐδεὶς ἑώρακεν πώποτε· μονογενὴς θεὸς ὁ ὢν εἰς τὸν κόλπον τοῦ πατρὸς ἐκεῖνος ἐξηγήσατο. ΚΑΤΑ ΙΩΑΝΝΗΝ 1:18 Greek NT: RP Byzantine Majority Text 2005 Θε",
+     "source": "https://biblehub.com/text/john/1-18.htm",
+     "result": "Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded"
+    }
+   }
+  },
+  {
+   "id": "JHN.6.46",
+   "ref": "John 6:46",
+   "uses": [
+    {
+     "section": "COS-13",
+     "section_label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "Not that any man hath seen the Father, save he which is of God, he hath seen the Father."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat: Geneva full verse (gloss \"save *(except)* he which is of God\"). Draft Greek word-set 100% vs BibleHub; order variant: draft TR-order τις ἑώρακεν, Nestle inverts ἑώρακέν τις — recorded.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Not that any man hath seen the Father, save he which is of God, he hath seen the Father."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Not that any man hath seene the Father, saue hee which is of God, hee hath seene the Father.",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/6"
+    },
+    "greek_biblehub": {
+     "text": "οὐχ ὅτι τὸν Πατέρα ἑώρακέν τις, εἰ μὴ ὁ ὢν παρὰ τοῦ Θεοῦ, οὗτος ἑώρακεν τὸν Πατέρα. ΚΑΤΑ ΙΩΑΝΝΗΝ 6:46 Greek NT: Nestle 1904 οὐχ ὅτι τὸν Πατέρα ἑώρακέν τις, εἰ μὴ ὁ ὢν παρὰ τοῦ Θεοῦ, οὗτος ἑώρακεν τὸν Πατέρα. ΚΑΤΑ ΙΩΑΝΝΗΝ 6:46 Greek NT: Westcott and Hort 1881 οὐχ ὅτι τὸν πατέρα ἑώρακέν τις εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ, οὗτος ἑώρακεν τὸν πατέρα. ΚΑΤΑ ΙΩΑΝΝΗΝ 6:46 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] οὐχ ὅτι τὸν πατέρα ἑώρακέν τις εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ, οὗτος ἑώρακεν τὸν πατέρα. ΚΑΤΑ ΙΩΑΝΝΗΝ 6:46 Greek NT: RP Byzantine Majority Text 2005 Οὐχ ὅτι τὸν πατέρα τις ἑώρακεν, εἰ μὴ ὁ ὢν",
+     "source": "https://biblehub.com/text/john/6-46.htm",
+     "result": "100% word-set; order variant τις ἑώρακεν / ἑώρακέν τις recorded"
+    }
+   }
+  },
+  {
+   "id": "EXO.33.20",
+   "ref": "Exodus 33:20",
+   "uses": [
+    {
+     "section": "COS-13",
+     "section_label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "No man can see Me and live"
+     ],
+     "status": "prose-ref",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Prose echo (canon line 1243), not a seat: draft condensation. NETS: \"And he said, “You shall not be able to see my face. For a person shall never see my face and live.”\" Geneva: \"Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.\" — draft wording is his own; recorded as paraphrase.",
+     "adjudication": {
+      "ruling": "paraphrase",
+      "version": "nets",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.",
+     "source": "https://ebible.org/enggnv/"
+    },
+    "nets": {
+     "text": "And he said, “You shall not be able to see my face. For a person shall never see my face and live.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "NETS verbatim from 02-exod walk cache",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
+    },
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/2/33"
+    }
+   }
+  },
+  {
+   "id": "EXO.23.20",
+   "ref": "Exodus 23:20",
+   "uses": [
+    {
+     "section": "COS-14",
+     "section_label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Seat: NETS 23:20-21 both verses full (draft ellipses cover v20's tail \"ὅπως εἰσαγάγῃ σε εἰς τὴν γῆν, ἣν ἡτοίμασά σοι\" and the whole Greek/Geneva rows — dropped per seat shape). Draft Greek = wikisource Rahlfs verbatim for all quoted words (word-set 97%; only the ἐπ᾽ apostrophe token differs — Rahlfs prints ’). Rendering note: NETS \"my name is upon him\"; Geneva \"because my name is in him\"; draft's rendering \"My Name is in Him\" — all recorded; Geneva clause added attributed in the Observation.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.",
+     "source": "https://ebible.org/enggnv/"
+    },
+    "nets": {
+     "text": "And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "NETS vv 20-21 verbatim vs 02-exod walk; seat-vs-cache asserted gloss-stripped",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "Καὶ ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ἵνα φυλάξῃ σε ἐν τῇ ὁδῷ, ὅπως εἰσαγάγῃ σε εἰς τὴν γῆν, ἣν ἡτοίμασά σοι. / πρόσεχε σεαυτῷ καὶ εἰσάκουε αὐτοῦ καὶ μὴ ἀπείθει αὐτῷ· οὐ γὰρ μὴ ὑποστείληταί σε, τὸ γὰρ ὄνομά μού ἐστιν ἐπ’ αὐτῷ.",
+     "source": "https://el.wikisource.org/wiki/Έξοδος_(Rahlfs)",
+     "result": "Draft Greek = Rahlfs verbatim (97% word-set, apostrophe token only)"
+    },
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/2/23"
+    }
+   }
+  },
+  {
+   "id": "EXO.23.21",
+   "ref": "Exodus 23:21",
+   "uses": [
+    {
+     "section": "COS-14",
+     "section_label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Seat (same group block): NETS v21 full with glosses \"Mind yourself *(take care)*\", \"hold you in undue awe *(he will not spare you)*\". Rahlfs v21 verbatim in draft. The name-clause renderings noted on the 23:20 row.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.",
+     "source": "https://ebible.org/enggnv/"
+    },
+    "nets": {
+     "text": "Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "NETS v21 verbatim",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "Καὶ ἰδοὺ ἐγὼ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου, ἵνα φυλάξῃ σε ἐν τῇ ὁδῷ, ὅπως εἰσαγάγῃ σε εἰς τὴν γῆν, ἣν ἡτοίμασά σοι. / πρόσεχε σεαυτῷ καὶ εἰσάκουε αὐτοῦ καὶ μὴ ἀπείθει αὐτῷ· οὐ γὰρ μὴ ὑποστείληταί σε, τὸ γὰρ ὄνομά μού ἐστιν ἐπ’ αὐτῷ.",
+     "source": "https://el.wikisource.org/wiki/Έξοδος_(Rahlfs)",
+     "result": "Rahlfs verbatim"
+    },
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/2/23"
+    }
+   }
+  },
+  {
+   "id": "JHN.17.11",
+   "ref": "John 17:11",
+   "uses": [
+    {
+     "section": "COS-14",
+     "section_label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat: Geneva v11 FULL verse (draft ellipsis covered the opening + \"that they may be one, as we are\" tail; full-verse rule per standing maxims). Draft Greek fragments = BibleHub Nestle word-for-word (page-coverage prints split the halves across the two verse pages; each half matches its own page 100%). WH prints lowercase πάτερ; draft caps.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/17"
+    },
+    "greek_biblehub": {
+     "text": "καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ πρὸς σὲ ἔρχομαι. Πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, ἵνα ὦσιν ἓν καθὼς ἡμεῖς. ΚΑΤΑ ΙΩΑΝΝΗΝ 17:11 Greek NT: Nestle 1904 καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ πρὸς σὲ ἔρχομαι. Πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, ἵνα ὦσιν ἓν καθὼς ἡμεῖς. ΚΑΤΑ ΙΩΑΝΝΗΝ 17:11 Greek NT: Westcott and Hort 1881 καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ πρὸς σὲ ἔρχομαι. πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ ",
+     "source": "https://biblehub.com/text/john/17-11.htm",
+     "result": "Draft v11 fragment = Nestle word-for-word"
+    }
+   }
+  },
+  {
+   "id": "JHN.17.12",
+   "ref": "John 17:12",
+   "uses": [
+    {
+     "section": "COS-14",
+     "section_label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat: Geneva v12 full (\"the child of perdition\" modernized childe->child). Draft Greek v12 fragment = Nestle word-for-word (ᾧ δέδωκάς μοι).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.",
+     "source": "https://ebible.org/enggnv/"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/43/17"
+    },
+    "greek_biblehub": {
+     "text": "ὅτε ἤμην μετ’ αὐτῶν, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. ΚΑΤΑ ΙΩΑΝΝΗΝ 17:12 Greek NT: Nestle 1904 ὅτε ἤμην μετ’ αὐτῶν, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. ΚΑΤΑ ΙΩΑΝΝΗΝ 17:12 Greek NT: Westcott and Hort 1881 Ὅτε ἤμην μετ' αὐτῶν ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπω",
+     "source": "https://biblehub.com/text/john/17-12.htm",
+     "result": "Draft v12 fragment = Nestle word-for-word"
     }
    }
   }

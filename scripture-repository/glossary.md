@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**175 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**185 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**346 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**356 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -201,7 +201,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: gnv*
 - **Geneva 1599:** “The next day Iohn, seeth Iesus comming vnto him, and saith, Beholde that Lambe of God, which taketh away the sinne of the world.”
 - **KJV:** “¶ The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
 
 ### Psalm 22:16 — CONFIRMED
@@ -239,8 +239,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
 - **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
 - **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
 
 ### Isaiah 42:8 — CONFIRMED
 *cited as: brenton*
@@ -427,8 +427,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### 1 Corinthians 10:4 — CONFIRMED
 - **Geneva 1599:** “And did all drinke the same spirituall drinke (for they dranke of the spiritual Rocke that folowed them: and the Rocke was Christ)”
 - **KJV:** “And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.”
-- *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb ✓ · greek_biblehub — 100% word-set; order variant ἡ δὲ πέτρα / ἡ πέτρα δὲ recorded*
 
 ### Exodus 13:21 — ANCHOR
 - **Brenton LXX:** “And God led them, in the day by a pillar of cloud, to show them the way, and in the night by a pillar of fire.”
@@ -780,7 +780,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
   (Maxim 4: OT seats NETS verbatim; LES row where significantly different.)
-- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### Mark 12:29 — CONFIRMED
@@ -796,7 +796,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
 - **Ruling — apply Geneva 1599 exact:** “And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.”
   (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
-- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### 1 Corinthians 8:6 — CONFIRMED
@@ -804,7 +804,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
 - **Ruling — apply Geneva 1599 exact:** “Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him.”
   (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
-- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### John 20:17 — CONFIRMED
@@ -906,8 +906,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Brenton LXX:** “To whom have ye compared me? see, consider, ye that go astray.”
 - **Geneva 1599:** “To whom will ye make me like or make me equall, or copare me, that I should be like him?”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
-- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
-- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets — NETS verbatim from 33-esaias walk cache · greek ✓ · trb ✓*
 
 ## THE CHRIST OF SCRIPTURE — 3. POSITs #2-#4: Genesis 22; Genesis 49:10; Numbers 24:17 (+ Summary)
 
@@ -1506,6 +1506,161 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
   ()
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): nets — NETS 3:6 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs (corrected ch-3 window) · trb ✓*
+
+## THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses
+
+### 1 Corinthians 10:4 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And did all drinke the same spirituall drinke (for they dranke of the spiritual Rocke that folowed them: and the Rocke was Christ)”
+- **KJV:** “And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.”
+- **Ruling — apply Geneva 1599 exact:** “Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb ✓ · greek_biblehub — 100% word-set; order variant ἡ δὲ πέτρα / ἡ πέτρα δὲ recorded*
+
+### 1 Corinthians 10:1 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Moreouer, brethren, I woulde not that yee shoulde bee ignorant, that all our fathers were vnder that cloude, and all passed through that sea,”
+- **Ruling — apply Geneva 1599 exact:** “Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft Greek word-set 100%% vs BibleHub (Nestle/WH), vv 1+4+9 word-for-word*
+
+### 1 Corinthians 10:9 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Neither let vs tempt Christ, as some of them also tempted him, and were destroyed of serpents.”
+- **Ruling — apply Geneva 1599 exact:** “Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — 100% word-for-word (Nestle); editorial star Χριστόν* noted*
+
+### Jude 5 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “I wil therfore put you in remebrance, forasmuch as ye once knew this, how that the Lord, after that he had deliuered the people out of Egypt, destroied them afterward which beleeued not.”
+- **Ruling — apply Geneva 1599 exact:** “I will therefore put you in remembrance, forasmuch as ye once knew this, how that the Lord, after that he had delivered the people out of Egypt, destroyed them afterward which believed not.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set 100% vs page; reading split observed: NA28-type block Ἰησοῦς, Nestle/WH/Byzantine Κύριος — recorded*
+
+## THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation
+
+### Isaiah 46:5 — PROSE-REF
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “To whom have ye compared me? see, consider, ye that go astray.”
+- **Geneva 1599:** “To whom will ye make me like or make me equall, or copare me, that I should be like him?”
+- **Ruling — PARAPHRASE:** 
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets — NETS verbatim from 33-esaias walk cache · greek ✓ · trb ✓*
+
+### COL 1 15 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Who is the image of the inuisible God, the first begotten of euery creature.”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### John 1:18 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
+- **Ruling — apply Geneva 1599 exact:** “No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded*
+
+### John 6:46 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Not that any man hath seene the Father, saue hee which is of God, hee hath seene the Father.”
+- **Ruling — apply Geneva 1599 exact:** “Not that any man hath seen the Father, save he which is of God, he hath seen the Father.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — 100% word-set; order variant τις ἑώρακεν / ἑώρακέν τις recorded*
+
+### Exodus 33:20 — PROSE-REF
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “And he said, “You shall not be able to see my face. For a person shall never see my face and live.””
+- **Geneva 1599:** “Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.”
+- **Ruling — PARAPHRASE:** 
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS verbatim from 02-exod walk cache · trb ✓*
+
+## THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him
+
+### Exodus 23:20 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you.”
+- **Geneva 1599:** “Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS vv 20-21 verbatim vs 02-exod walk; seat-vs-cache asserted gloss-stripped · greek_rahlfs — Draft Greek = Rahlfs verbatim (97% word-set, apostrophe token only) · trb ✓*
+
+### Exodus 23:21 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+
+### John 17:11 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
+- **Ruling — apply Geneva 1599 exact:** “And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v11 fragment = Nestle word-for-word*
+
+### John 17:12 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.”
+- **Ruling — apply Geneva 1599 exact:** “And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v12 fragment = Nestle word-for-word*
+
+## THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step
+
+### Zechariah 12:10 — PROSE-REF
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
+- **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
+- **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
+- **Ruling — PARAPHRASE:** 
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
+
+### John 1:29 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “The next day Iohn, seeth Iesus comming vnto him, and saith, Beholde that Lambe of God, which taketh away the sinne of the world.”
+- **KJV:** “¶ The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### Deuteronomy 6:4 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### John 17:3 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Corinthians 8:6 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -3303,10 +3458,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ezekiel 37:9 | P4 | confirmed |
 | Malachi 1:6 | P7 | confirmed |
 | Zechariah 1:8 | P8 | anchor |
-| Zechariah 12:10 | P1-Q8 | confirmed |
+| Zechariah 12:10 | P1-Q8, COS-15 | confirmed, prose-ref |
 | Matthew 5:37 | P7 | confirmed |
 | Matthew 6:9 | CLOSE | confirmed |
-| John 1:29 | P1-Q8 | confirmed |
+| John 1:29 | P1-Q8, COS-15 | anchor, confirmed |
 | John 3:16 | P1-Q8 | confirmed |
 | John 6:35 | P8 | confirmed |
 | John 8:12 | P8 | confirmed |
@@ -3323,7 +3478,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 19:15 | P7 | confirmed |
 | Romans 2:24 | P7 | confirmed |
 | Romans 5:5 | P9 | confirmed |
-| 1 Corinthians 10:4 | P8 | confirmed |
+| 1 Corinthians 10:4 | P8, COS-12 | confirmed |
 | Philippians 2:13 | P9 | confirmed |
 | 1 Peter 2:24 | P1-Q8 | confirmed |
 | 1 John 1:9 | P7 | confirmed |
@@ -3440,10 +3595,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -3505,7 +3660,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
-| Deuteronomy 6:4 | COS-01 | confirmed |
+| Deuteronomy 6:4 | COS-01, COS-15 | anchor, confirmed |
 | Isaiah 44:6 | COS-01 | confirmed |
 | Isaiah 44:8 | COS-01 | confirmed |
 | Isaiah 44:24 | COS-01 | confirmed |
@@ -3515,15 +3670,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 45:22 | COS-01 | confirmed |
 | Isaiah 45:18 | COS-01 | confirmed |
 | Isaiah 45:23 | COS-01 | confirmed |
-| Isaiah 46:5 | COS-01 | confirmed |
+| Isaiah 46:5 | COS-01, COS-13 | confirmed, prose-ref |
 | Isaiah 46:9 | COS-01 | confirmed |
 | Genesis 1:1 | COS-01 | anchor |
 | Genesis 1:2 | COS-01 | anchor |
 | Genesis 1:6 | COS-01 | anchor |
 | Psalm 32:6 | COS-01 | commentary |
 | Mark 12:29 | COS-01 | confirmed |
-| John 17:3 | COS-01 | confirmed |
-| 1 Corinthians 8:6 | COS-01 | confirmed |
+| John 17:3 | COS-01, COS-15 | anchor, confirmed |
+| 1 Corinthians 8:6 | COS-01, COS-15 | anchor, confirmed |
 | John 20:17 | COS-01 | confirmed |
 | Ephesians 1:17 | COS-01 | confirmed |
 | John 1:1 | COS-01 | anchor |
@@ -3569,7 +3724,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | PRO 8 27 | COS-05 | confirmed |
 | PRO 8 30 | COS-05 | confirmed |
 | 1CO 1 24 | COS-05 | confirmed |
-| COL 1 15 | COS-05 | confirmed |
+| COL 1 15 | COS-05, COS-13 | anchor, confirmed |
 | COL 1 17 | COS-05 | confirmed |
 | MIC 5 2 | COS-06 | confirmed |
 | MAT 2 3 | COS-06 | confirmed |
@@ -3603,6 +3758,16 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Exodus 3:4 | COS-11 | confirmed |
 | Exodus 3:5 | COS-11 | anchor |
 | Exodus 3:6 | COS-11 | confirmed |
+| 1 Corinthians 10:1 | COS-12 | confirmed |
+| 1 Corinthians 10:9 | COS-12 | confirmed |
+| Jude 5 | COS-12 | confirmed |
+| John 1:18 | COS-13 | confirmed |
+| John 6:46 | COS-13 | confirmed |
+| Exodus 33:20 | COS-13 | prose-ref |
+| Exodus 23:20 | COS-14 | confirmed |
+| Exodus 23:21 | COS-14 | confirmed |
+| John 17:11 | COS-14 | confirmed |
+| John 17:12 | COS-14 | confirmed |
 
 ## The editions used
 
