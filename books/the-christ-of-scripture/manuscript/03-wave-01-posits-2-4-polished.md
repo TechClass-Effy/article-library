@@ -61,9 +61,11 @@ The first prophecy of the Son's **royalty** and the **gathering of the nations**
 
 ### Two witnesses for this posit:
 
-**Haggai 2:7 (LXX):** *(the seat for this passage is being verified from the NETS Twelve volume; the drafted rows stay until then)*
+**Haggai 2:7 (LXX):**
 
-*"…καὶ ἥξει τὰ ἐκλεκτὰ πάντων τῶν ἐθνῶν, καὶ πλήσω τὸν οἶκον τοῦτον δόξης, λέγει Κύριος παντοκράτωρ."*
+> …and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty. — **Haggaios 2:7, LXX (NETS)**
+
+The clause as it rings in the older English — *"the desire of all nations shall come, and I will fill this house with glory"* — is the 1599 Geneva's rendering of this very verse (*Geneva 2:8; the Greek verse is 2:7*).
 
 **Witness #1:** The "Desire/Expectation of the nations" theme is confirmed.
 

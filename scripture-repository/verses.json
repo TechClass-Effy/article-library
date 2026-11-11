@@ -12327,10 +12327,10 @@
      "quotes": [
       "“…and the choice portions of all the nations shall come, and I will fill this house with glory, saith the Lord Almighty.” (draft LXX Greek row retained pending NETS seat)"
      ],
-     "status": "differs-minor",
+     "status": "confirmed",
      "matched_source": "nets",
      "ref_note": "Haggai 2:7 (LXX) — NETS PENDING",
-     "note": "Draft Greek = Brenton-family exact (Brenton: “the choice portions of all the nations shall come”). NUMBERING NOTE: the draft’s Geneva row (“the desire of all nations shall come”) sits at GNV 2:8, not 2:7 — Geneva’s own numbering; his LXX ref 2:7 is correct for the Greek. NETS seat pending: the Twelve-Prophets NETS volume must be parsed (slug 32-twelve) before the block seats — Haggai row stays as drafted in the polished file with a seam remark. [RESOLVED 10 Nov 2026] His word: specified translation always prints verbatim; another translation may be added only with Version attribution, as an additional recourse, when it differs significantly or aids clarity. Applied: seat NETS verbatim; prose attributed.",
+     "note": "NETS seat from 32-twelve.pdf (12-12-2009 print, p.814 col): \"7and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.\" Geneva clause (\"the desire of all nations...\") retained as attributed additional recourse (2:8 GNV vs 2:7 Greek numbering). [RESOLVED 10 Nov 2026] per translation-addition rule.",
      "adjudication": {
       "ruling": "proposed-seat",
       "version": "nets",
@@ -12338,11 +12338,9 @@
       "reason": "NETS Twelve volume parse scheduled next wave."
      },
      "applied": "2026-11-10",
-     "flag": {
-      "kind": "needs-verification",
-      "detail": "NETS seat pending (Twelve volume, slug 32-twelve). Geneva row to be replaced by NETS at the Twelve wave; the drafted LXX+Geneva rows stay in the polished file until seated。",
-      "awaiting": "pipeline (next wave)"
-     }
+     "flag": null,
+     "seat": "...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.",
+     "seat_version": "nets"
     }
    ],
    "verified": "2026-11-10",
@@ -12359,6 +12357,10 @@
     "greek_rahlfs": {
      "text": "PENDING (twelve-prophets volume parse)",
      "source": "twelve"
+    },
+    "nets": {
+     "text": "...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/32-twelve-nets.pdf"
     }
    },
    "second_check": {
