@@ -21,7 +21,8 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars
 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)
 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)
-13. *The remaining appearances (Genesis 31; 32; Hosea 12; Exodus 3) and the Apostolic witnesses — next wave*
+13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel
+14. *The remaining appearances (Genesis 32; Hosea 12; Exodus 3) and the Apostolic witnesses — next wave*
 
 ---
 
@@ -901,5 +902,18 @@ This is identical to Isaiah 45:23 LXX: **κατ᾽ ἐμαυτοῦ ὀμνύω*
 > For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously. — **Hebrews 6:13-14, 1599 Geneva**
 
 The author of Hebrews identifies the swearer as **ὁ Θεός** Himself. Therefore the **ἄγγελος Κυρίου** of Genesis 22 was speaking *as* God Himself swearing — yet without being called the LORD without qualification.
+
+---
+
+
+## **THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel**
+
+> And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. … — **Genesis 31:11-13, LXX (NETS)**
+
+### Observation of supreme importance
+
+The Messenger says plainly: **ἐγώ εἰμι ὁ Θεὸς** — *"I AM the God"* — the very **ἐγώ εἰμι** formula of Isaiah 45:18! He claims to be **ὁ Θεὸς ὁ ὀφθείς σοι** — *"the God who appeared to you"* at Bethel — referring back to Genesis 28 where Jacob saw the ladder and **YHWH** stood above it.
+
+So the same Person who appeared to Jacob as **YHWH** at Bethel now appears as **ὁ ἄγγελος τοῦ Θεοῦ** — *the Messenger of God.* He is both: **the appearing God**, and **the sent Messenger**.
 
 ---

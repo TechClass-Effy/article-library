@@ -60,7 +60,8 @@
    "COS-05",
    "COS-06",
    "COS-07",
-   "COS-08"
+   "COS-08",
+   "COS-09"
   ],
   "sections": [
    {
@@ -248,6 +249,10 @@
    {
     "key": "COS-08",
     "label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)"
+   },
+   {
+    "key": "COS-09",
+    "label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel"
    }
   ],
   "double_check": {
@@ -293,7 +298,7 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 10136
+  "so_far_words": 10316
  },
  "verses": [
   {
@@ -14295,6 +14300,159 @@
     "trb": {
      "result": "agree (normalized word-for-word, eBible=TRB)",
      "url": "https://textusreceptusbibles.com/Geneva/58/6"
+    }
+   }
+  },
+  {
+   "id": "GEN.31.11",
+   "ref": "Genesis 31:11",
+   "uses": [
+    {
+     "section": "COS-09",
+     "section_label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Group seat 31:11-13a (one blockquote): NETS v11 full through Jacob’s question \"What is it?\" + ellipsis + v13 core. Draft LXX row word-checked vs Rahlfs (96%) and Swete (93%) — draft Greek is Rahlfs-voiced verbatim; the only unmatched token is the koronis-bound καθ᾽ (punctuation, not wording). Draft Geneva OT row dropped per seat shape.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And the Angel of God said to me in a dream, Jacob. And I answered, Lo, I am here.",
+     "source": "https://ebible.org/enggnv/GEN31.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; seat cache-equality asserted gloss-stripped this wave)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "trb": {
+     "result": "agree (Geneva 31:11, ratio 1.0, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/1/31"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ εἶπέν μοι ὁ ἄγγελος τοῦ θεοῦ καθ’ ὕπνον Ιακωβ· ἐγὼ δὲ εἶπα Τί ἐστιν; καὶ εἶπεν Ἀνάβλεψον τοῖς ὀφθαλμοῖς σου καὶ ἰδὲ τοὺς τράγους καὶ τοὺς κριοὺς ἀναβαίνοντας ἐπὶ τὰ πρόβατα καὶ τὰς αἶγας διαλεύκους καὶ ποικίλους καὶ σποδοειδεῖς ῥαντούς· ἑώρακα γὰρ ὅσα σοι Λαβαν ποιεῖ. ἐγώ εἰμι ὁ θεὸς ὁ ὀφθείς σοι ἐν τόπῳ θεοῦ, οὗ ἤλειψάς μοι ἐκεῖ στήλην καὶ ηὔξω μοι ἐκεῖ εὐχήν· νῦν οὖν ἀνάστηθι καὶ ἔξελθε ἐκ τῆς γῆς ταύτης καὶ ἄπελθε εἰς τὴν γῆν τῆς γενέσεώς σου, καὶ ἔσομαι μετὰ σοῦ.",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "word-check pass — draft LXX row is Rahlfs-voiced verbatim (word-set 96%, only koronis-bound token differs)"
+    },
+    "greek_swete": {
+     "text": "ὁ δὲ θεὸς τοῦ πατρός μου ἦν μετ ’ ἐμοῦ · 6 καὶ αὐταὶ δὲ οἴδατε ὅτι ἐν πάσῃ ἰσχύι μου δεδούλευκα τῷ πατρὶ ὑμῶν . 7 δὲ πατὴρ ὑμῶν παρεκρούσατό με , καὶ ἤλλαξεν τὸν μισθόν μου τῶν δέκα ἀμνῶν , καὶ οὐκ ἔδωκεν αὐτῷ ὁ θεὸς κακοποιῆσαί με . 8 ἐὰν οὕτως εἴπῃ Τὰ ποικίλα ἔσται σου μισθός , καὶ τέξεται τὰ πρόβατα ποικίλα · ἐὰν δὲ εἴπῃ Τὰ λευκὰ ἔσται σου μισθός , καὶ τέξεται πάντα τὰ πρόβατα λευκά · 9 καὶ ἀφείλατο ὁ θεὸς πάντα κτήνη τοῦ πατρὸς ὑμῶν καὶ ἔδωκέν μοι αὐτά . 10 καὶ ἐγένετο ἐνεκίσσων τὰ πρόβατα , καὶ ἴδον ἐν τοῖς ὀφθαλμοῖς ἐν τῷ ὕπνῳ , καὶ ἰδοὺ οἱ τράγοι καὶ οἱ κριοὶ ἀναβαίνοντες ἦσαν ἐπὶ τὰ πρόβατα καὶ τὰς αἶγας διάλευκοι καὶ ποικίλοι καὶ σποδοειδεῖς ῥαντοί . 11 καὶ εἶπέν ὁ ἄγγελος τοῦ θεοῦ καθ ’ ὕπνον Ἰακὼβ Ἰακώβ . ἐγὼ δὲ εἶπα Τί ἐστιν ; 12 καὶ εἶπεν Ἀνάβλεψον τοῖς ὀφθαλμοῖς σου , καὶ ἴδε τοὺς τράγους τοὺς κριοὺς ἀναβαίνοντας § ἐπὶ τὰ πρόβατα καὶ τὰς αἶγας διαλεύκους καὶ ποικίλους καὶ σποδοειδεῖς ῥαντούς · ἑώρακα γὰρ ὅσα σοι λαβὰν ποιεῖ . 13 ἐγώ εἰμι ὁ θεὸς ὁ ὀφθείς σοι ἐν τῷ τόπῳ ᾧ ἤλειψάς μοι ἐκεῖ στήλην καὶ ηὔξω μοι ἐκεῖ εὐχήν · νῦν οὖν ἀν ’ ἀνάστηθι καὶ ἄπελθε ἐκ τῆς γῆς ταύτης καὶ ἄπελθε εἰς τὴν γῆν τῆς γενέσεως σου , καὶ μετὰ σοῦ . 14 καὶ ἀποκριθεῖσα Ῥαχὴλ καὶ Λεία εἶπαν ἡμῖν ἔτι μερὶς ἢ κληρονομία ἐν τῷ οἴκῳ τοῦ πατρὸς ἡμῶν ; 15 οὐχ ὡς αἱ § ἀλλότριαι λελογίσμεθα αὐτῷ ; πέπρακεν γὰρ ἡμᾶς , καὶ κατέφαγεν καταβρώσει τὸ ἀργύριον ἡμῶν . 16 πάντα τὸν πλοῦτον καὶ τὴν ἣν ἀφείλατο ὁ θεὸς τοῦ πατρὸς ἡμῶν , ἡμῖν ἔσται καὶ τοῖς ἡμῶν · νῦν οὖν ὅσα εἴρηκεν ὁ θεός σοι ποίει . 17 Ἀνα",
+     "source": "https://www.theancientbible.org/genesis-lxx-31/",
+     "result": "word-check pass — draft LXX row vs Swete window (word-set 93%)"
+    }
+   }
+  },
+  {
+   "id": "GEN.31.12",
+   "ref": "Genesis 31:12",
+   "uses": [
+    {
+     "section": "COS-09",
+     "section_label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "ref_note": "",
+     "note": "Ellipsis-covered: the draft 31:11-13 quote skips v12 (the flock-vision detail); not seated. Geneva text banked alongside.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he said, Lift up now thine eyes, and see all the hee goats leaping upon ye shee goats that are party coloured, spotted with little and great spots: for I have seene all that Laban doeth unto thee.",
+     "source": "https://ebible.org/enggnv/GEN31.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "not seated (ellipsis); NETS Genesis cache carries v12",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "GEN.31.13",
+   "ref": "Genesis 31:13",
+   "uses": [
+    {
+     "section": "COS-09",
+     "section_label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 31:11-13 group seat; NETS core through \"made a vow to me there.\" (ellipsis; v13 tail \"Now therefore rise, and go forth … and I will be with you\" not seated, matching the draft cut). Edition note: LXX reads \"at a divine place\" (ἐν τόπῳ θεοῦ); the Geneva/MT print reads \"I am the God of Beth-el\" — both recorded; eBible=TRB on the Geneva (ratio 1.0).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I am the God of Beth-el, where thou anointedst the pillar, where thou vowedst a vow unto me. Nowe arise, get thee out of this country and returne unto ye land where thou wast borne.",
+     "source": "https://ebible.org/enggnv/GEN31.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; seat cache-equality asserted gloss-stripped this wave)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "trb": {
+     "result": "agree (Geneva 31:13, ratio 1.0, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/1/31"
+    }
+   }
+  },
+  {
+   "id": "GEN.28.10-22",
+   "ref": "Genesis 28:10-22",
+   "uses": [
+    {
+     "section": "COS-09",
+     "section_label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "ref_note": "",
+     "note": "Anchor: the Third-Appearance observation refers back to \"Genesis 28 where Jacob saw the ladder and YHWH stood above it\" (the Bethel episode; ladder vision 28:12, YHWH above it 28:13). Referenced, not quoted; unseated so far.",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {
+    "nets": {
+     "result": "anchor — referenced only",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
     }
    }
   }

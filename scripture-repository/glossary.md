@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**160 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**164 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**331 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**335 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -1370,6 +1370,37 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
   ()
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): trb ✓*
+
+## THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel
+
+### Genesis 31:11 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And the Angel of God said to me in a dream, Jacob. And I answered, Lo, I am here.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · trb ✓ · greek_rahlfs — word-check pass — draft LXX row is Rahlfs-voiced verbatim (word-set 96%, only koronis-bound token differs) · greek_swete — word-check pass — draft LXX row vs Swete window (word-set 93%)*
+
+### Genesis 31:12 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And he said, Lift up now thine eyes, and see all the hee goats leaping upon ye shee goats that are party coloured, spotted with little and great spots: for I have seene all that Laban doeth unto thee.”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — not seated (ellipsis); NETS Genesis cache carries v12*
+
+### Genesis 31:13 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “I am the God of Beth-el, where thou anointedst the pillar, where thou vowedst a vow unto me. Nowe arise, get thee out of this country and returne unto ye land where thou wast borne.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · trb ✓*
+
+### Genesis 28:10-22 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets — anchor — referenced only*
 
 # THE BIBLICAL SABBATH
 
@@ -3452,6 +3483,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | GEN 22 18 | COS-08 | anchor |
 | HEB 6 13 | COS-08 | confirmed |
 | HEB 6 14 | COS-08 | confirmed |
+| Genesis 31:11 | COS-09 | confirmed |
+| Genesis 31:12 | COS-09 | anchor |
+| Genesis 31:13 | COS-09 | confirmed |
+| Genesis 28:10-22 | COS-09 | anchor |
 
 ## The editions used
 

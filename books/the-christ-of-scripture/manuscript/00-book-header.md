@@ -21,7 +21,8 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars
 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)
 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)
-13. *The remaining appearances (Genesis 31; 32; Hosea 12; Exodus 3) and the Apostolic witnesses — next wave*
+13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel
+14. *The remaining appearances (Genesis 32; Hosea 12; Exodus 3) and the Apostolic witnesses — next wave*
 
 ---
 
