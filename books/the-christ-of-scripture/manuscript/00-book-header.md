@@ -33,4 +33,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 22. Audits of Foundations — #1: The Father is the One God (the seated witnesses re-listed)
 
 ---
-
+23. Audits of Foundations — #2-#5: the Earliest Prophetic Posits; Psalm 2 and Psalm 109 LXX; Proverbs 8 and Micah 5:2; the Angel of the LORD — and the Summary of the Audit

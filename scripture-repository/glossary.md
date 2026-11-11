@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**202 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**206 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**373 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**377 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -753,7 +753,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — proposed (awaiting apply):** LXX family reads "watch your head" (NETS/Brenton; Greek τηρέω); his prose carries "crush" (Geneva/Hebrew family). Options: (a) keep NETS + LES rows and his prose; (b) adjust prose to "keep watch at the serpent's head"; (c) record a Geneva-family exception for this seat. His word decides.
 - **Ruling — apply NETS (Septuagint, modern) exact:** “And I will put enmity between you and between the woman and between your offspring and between her offspring; he will watch your head, and you will watch his heel.”
   (Standing rule 1: OT seats NETS verbatim; LES row (sourced) where significantly different (offspring vs seed).)
-- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### Isaiah 7:14 — CONFIRMED
@@ -763,7 +763,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
   (Standing rule 1: OT seats NETS verbatim; LES row noted (not significantly different — both say "the virgin").)
-- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### Galatians 4:4 — CONFIRMED
@@ -771,7 +771,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,”
 - **Ruling — apply Geneva 1599 exact:** “But when the fulness of time was come, God sent forth his Son made of a woman, and made under the Law,”
   (Standing rule: NT seats Geneva 1599 (modernized spelling).)
-- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### Deuteronomy 6:4 — CONFIRMED
@@ -930,7 +930,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And he said, Take nowe thine onely sonne Izhak whom thou louest, and get thee vnto the land of Moriah, and offer him there for a burnt offering vpon one of the mountaines, which I will shewe thee.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “And he said, “Take your beloved son Isaak, whom you love, and go into the high land, and offer him as a whole burnt offering on one of the mountains, whichever I mention to you.””
   (Standing rule 1: OT seats NETS verbatim.)
-- *Checked 2026-11-10 · editions fetched: brenton, gnv, greek_rahlfs, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓*
 
 ### Hebrews 11:17-19 — CONFIRMED
@@ -938,7 +938,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “By faith Abraham offered vp Isaac, when he was tryed, and he that had receiued the promises, offered his onely begotten sonne. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he receiued him also after a sort.”
 - **Ruling — apply Geneva 1599 exact:** “By faith Abraham offered vp Isaac, when he was tried, and he that had received the promises, offered his only begotten son. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he received him also after a sort.”
   (Standing rule: NT seats Geneva verbatim (modernized).)
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### Matthew 3:17 — DIFFERS (MINOR)
@@ -946,7 +946,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And loe, a voyce came from heauen, saying, This is my beloued Sonne, in whome I am well pleased.”
 - **Ruling — apply Geneva 1599 exact:** “And loe, a voyce came from heaven, saying, This is my beloved Son, in whom I am well pleased.”
   (Standing rule: NT seats Geneva verbatim.)
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### Genesis 49:10 — CONFIRMED
@@ -956,7 +956,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “The scepter shall not depart from Iudah, nor a Lawegiuer from betweene his feete, vntill Shiloh come, and the people shall be gathered vnto him.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.”
   (Standing rule 1: OT seats NETS verbatim.)
-- *Checked 2026-11-10 · editions fetched: brenton, gnv, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
 - *Double-checked (second source): gnv ✓*
 
 ### Haggai 2:7 (LXX) — CONFIRMED
@@ -966,7 +966,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And I will moue all nations, and the desire of all nations shall come, and I will fill this House with glory, sayth the Lord of hostes.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “PENDING-NETS-TWELVE”
   (NETS Twelve volume parse scheduled next wave.)
-- *Checked 2026-11-10 · editions fetched: brenton, gnv, greek_blb-lxx, greek_rahlfs, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_blb-lxx, greek_rahlfs, nets*
 - *Double-checked (second source): gnv ✓*
 
 ### Revelation 5:5 — CONFIRMED (EXCERPT)
@@ -974,7 +974,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.”
 - **Ruling — apply Geneva 1599 exact:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that root of David, hath obtained to open the Book, and to loose the seven seals thereof.”
   (Standing rule: NT seats Geneva verbatim.)
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### Revelation 22:16 — CONFIRMED
@@ -982,7 +982,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
 - **Ruling — apply Geneva 1599 exact:** “I Jesus haue sent mine Angel, to testify vnto you these things in the Churches: I am the root and the generation of David, and the bright morning star.”
   (Standing rule: NT seats Geneva verbatim.)
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### Numbers 24:17 — CONFIRMED
@@ -992,7 +992,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “I shall see him, but not nowe: I shall behold him, but not neere: there shall come a starre of Iaakob, and a scepter shall rise of Israel, and shall smite the coastes of Moab, and destroy all the sonnes of Sheth.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.”
   (Standing rule 1: OT seats NETS verbatim.)
-- *Checked 2026-11-10 · editions fetched: brenton, gnv, nets*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
 - *Double-checked (second source): gnv ✓*
 
 ### Matthew 2:2 (Geneva) — DIFFERS (MINOR)
@@ -1000,7 +1000,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Saying, Where is that King of the Iewes that is borne? for wee haue seene his starre in the East, and are come to worship him.”
 - **Ruling — apply Geneva 1599 exact:** “Saying, Where is that King of the Jews that is born? for wee have seene his star in the East, and are come to worship him.”
   (Standing rule: NT seats Geneva verbatim.)
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ## THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father
@@ -1038,7 +1038,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
 - **Ruling — apply Geneva 1599 exact:** “For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified.”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### ACT 13 32-33 — CONFIRMED
@@ -1054,7 +1054,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh, And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)”
 - **Ruling — apply Geneva 1599 exact:** “Concerning his Son Jesus Christ our Lord (which was made of the seed of David according to the flesh, And declared mightily to be the Son of God, touching the Spirit of sanctification by the resurrection from the dead)”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### MAT 28 18 — CONFIRMED
@@ -1100,7 +1100,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “While the Pharises were gathered together, Iesus asked them, Saying, What thinke ye of Christ? whose sonne is he? They sayd vnto him, Dauids. He sayd vnto them, How then doeth Dauid in spirit call him Lord, saying, The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole? If then Dauid call him Lord, howe is he his sonne?”
 - **Ruling — apply Geneva 1599 exact:** “While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They said unto him, Davids. He said unto them, How then doth David in spirit call him Lord, saying, The Lord said to my Lord, Sit at my right hand, till I make thine enemies thy footstool? If then David call him Lord, how is he his son?”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### ACT 2 34-36 — CONFIRMED
@@ -1108,7 +1108,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
 - **Ruling — apply Geneva 1599 exact:** “For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified.”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### HEB 5 5-6 — DIFFERS (MINOR)
@@ -1116,7 +1116,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “So likewise Christ tooke not to him selfe this honour, to be made the hie Priest, but hee that sayd vnto him, Thou art my Sonne, this day begate I thee, gaue it him. As he also in another place speaketh, Thou art a Priest for euer, after ye order of Melchi-sedec.”
 - **Ruling — apply Geneva 1599 exact:** “So likewise Christ took not to himself this honor, to be made the high Priest, but he that said unto him, Thou art my Son, this day begat I thee, gave it him. As he also in another place speaketh, Thou art a Priest for ever, after ye order of Melchisedek.”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### HEB 7 21 — DIFFERS (MINOR)
@@ -1124,7 +1124,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)”
 - **Ruling — apply Geneva 1599 exact:** “But this is made with an oath by him that said unto him, The Lord hath sworn, and will not repent, Thou art a Priest for ever, after the order of Melchisedek)”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ## THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses
@@ -1807,7 +1807,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prose ref*
 - **Geneva 1599:** “Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
 - *Note:* "made Lord and Christ ... (Acts 2:36; 13:33)".
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### PS 109 1 — ANCHOR
@@ -1965,7 +1965,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: table cite*
 - **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
 - *Note:* Honest Revised Position table (COS-04 seats hold the verses).
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
 ### Matthew 22:44 — ANCHOR
@@ -2063,6 +2063,251 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
   (Audit re-lists seated witnesses; seat unchanged — NETS verbatim (Confession).)
 - *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+## THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit
+
+### Genesis 3:15 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “And I will put enmity between you and between the woman and between your offspring and between her offspring; he will watch your head, and you will watch his heel.””
+- **Brenton LXX:** “And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.”
+- **Geneva 1599:** “I will also put enimitie betweene thee and the woman, and betweene thy seede and her seede. He shall breake thine head, and thou shalt bruise his heele.”
+- *Note:* Audit #2 Claim A: the masculine αὐτός observation bullet — reference only; NETS/Greek banked.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Galatians 4:4 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,”
+- *Note:* Seat: Geneva verbatim (modernized) "God sent forth his Son made of a woman" — draft had KJV comma after "Son" and capitalized "His"; the comma is the KJV's clause punctuation, GNV joins "Sonne made of a woman".
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 7:14 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **NETS (Septuagint, modern):** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
+- **Brenton LXX:** “Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.”
+- **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
+- *Note:* Seat: NETS verbatim "the virgin shall be with child and bear a son" — draft voiced KJV "shall conceive and bear".
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Hebrews 11:17-19 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “By faith Abraham offered vp Isaac, when he was tryed, and he that had receiued the promises, offered his onely begotten sonne. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he receiued him also after a sort.”
+- *Note:* Seat: Geneva verbatim (modernized) "after a sort" — the draft quoted the KJV "in a figure"; the Greek phrase ἐν παραβολῇ kept in the bullet with gloss "in a parable". Summary item 5 (line 1842) seats the same wording.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Genesis 22:2 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “And he said, “Take your beloved son Isaak, whom you love, and go into the high land, and offer him as a whole burnt offering on one of the mountains, whichever I mention to you.””
+- **Brenton LXX:** “And he said, Take thy son, the beloved one, whom thou hast loved—Isaac, and go into the high land, and offer him there for a whole-burnt-offering on one of the mountains which I will tell thee of.”
+- **Geneva 1599:** “And he said, Take nowe thine onely sonne Izhak whom thou louest, and get thee vnto the land of Moriah, and offer him there for a burnt offering vpon one of the mountaines, which I will shewe thee.”
+- *Note:* Audit #2 Claim B: "same ὁ Υἱός μου ὁ ἀγαπητός language as Gen 22:2 LXX" — reference only.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓*
+
+### Matthew 3:17 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “And loe, a voyce came from heauen, saying, This is my beloued Sonne, in whome I am well pleased.”
+- *Note:* Good-reason exception: fragment exact to Geneva (modernized) "my beloved Son" modulo quote-initial capital — kept verbatim, recorded why.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Genesis 49:10 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.”
+- **Brenton LXX:** “A ruler shall not fail from Juda, nor a prince from his loins, until there come the things stored up for him; and he is the expectation of nations.”
+- **Geneva 1599:** “The scepter shall not depart from Iudah, nor a Lawegiuer from betweene his feete, vntill Shiloh come, and the people shall be gathered vnto him.”
+- *Note:* Audit #2 Claim C: reference bullet ("the text plainly says what I quoted"); the Gen 49:10 seat text is banked (NETS).
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Revelation 5:5 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.”
+- *Note:* Seat: Geneva verbatim (modernized) "that Lion which is of the tribe of Judah" — draft voiced KJV "the Lion of the tribe of Judah".
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Haggai 2:7 (LXX) — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **NETS (Septuagint, modern):** “...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.”
+- **Brenton LXX:** “and I will shake all nations, and the choice portions of all the nations shall come: and I will fill this house with glory, saith the Lord Almighty.”
+- **Geneva 1599:** “And I will moue all nations, and the desire of all nations shall come, and I will fill this House with glory, sayth the Lord of hostes.”
+- *Note:* Seat: NETS verbatim "the choice things of all the nations shall come" — draft voiced KJV "the desire of all nations".
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_blb-lxx, greek_rahlfs, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Numbers 24:17 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.”
+- **Brenton LXX:** “I will point to him, but not now; I bless him, but he draws not near: a star shall rise out of Jacob, a man shall spring out of Israel; and shall crush the princes of Moab, and shall spoil all the sons of Seth.”
+- **Geneva 1599:** “I shall see him, but not nowe: I shall behold him, but not neere: there shall come a starre of Iaakob, and a scepter shall rise of Israel, and shall smite the coastes of Moab, and destroy all the sonnes of Sheth.”
+- *Note:* Audit #2 Claim D: reference bullet ("the text says what I quoted"); NETS text banked.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 2:2 (Geneva) — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “Saying, Where is that King of the Iewes that is borne? for wee haue seene his starre in the East, and are come to worship him.”
+- *Note:* Good-reason exception: fragment exact to Geneva "his star" modulo quote-initial capital — kept verbatim, recorded why.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Revelation 22:16 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
+- *Note:* Seat: Geneva verbatim (modernized) "I am the root and the generation of David, and the bright morning star." — draft voiced KJV fragment; Geneva carries the full sentence and lowercase "star".
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Acts 4:25-27 — CONFIRMED
+*cited as: audit #3 Claim A bullet (Acts 4:25-27)*
+- **Geneva 1599:** “Which by the mouth of thy seruant Dauid hast saide, Why did the Gentiles rage, and the people imagine vaine things? The Kings of the earth assembled, and the rulers came together against the Lord, and against his Christ. For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,”
+- **Ruling — apply Geneva 1599 exact:** “against thine holy Son Jesus, whom thou haddest anointed”
+  (Translation-addition rule: NT seat prints Geneva verbatim (modernized spelling); the KJV-voiced draft quote is not the specified translation.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb — eBible=TRB word-for-word vv25-27 (ratio 1.00 each)*
+
+### Acts 13:33 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.”
+- *Note:* Seat: Geneva verbatim (modernized) "Thou art my Son: this day have I begotten thee" (bullet line 1756) and the long quote at line 1871 "in that he raised up Jesus, even as it is written in the second Psalm, Thou art my Son: this day have I begotten thee." — draft voiced KJV ("today", comma after Son).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00)*
+
+### Hebrews 1:5 — ANCHOR
+*cited as: audit #3 Claim A bullet (Heb 1:5) — reference only*
+- **Geneva 1599:** “For vnto which of the Angels saide he at any time, Thou art my Sonne, this day begate I thee? and againe, I will be his Father, and he shalbe my Sonne?”
+- *Note:* Backfill (opportunistic): GNV text banked; bullet is a reference bullet, no seat.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.0)*
+
+### HEB 5 5-6 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “So likewise Christ tooke not to him selfe this honour, to be made the hie Priest, but hee that sayd vnto him, Thou art my Sonne, this day begate I thee, gaue it him. As he also in another place speaketh, Thou art a Priest for euer, after ye order of Melchi-sedec.”
+- *Note:* Audit #3 Claim A bullet (Heb 5:5) — reference only; Geneva 5:5-6 banked ("after ye order of Melchi-sedec" noted on the row).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### MAT 22 41-45 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “While the Pharises were gathered together, Iesus asked them, Saying, What thinke ye of Christ? whose sonne is he? They sayd vnto him, Dauids. He sayd vnto them, How then doeth Dauid in spirit call him Lord, saying, The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole? If then Dauid call him Lord, howe is he his sonne?”
+- *Note:* Audit #3 Claim B: reference bullet (Jesus cites Psalm 110:1); Geneva 41-45 text banked.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### ACT 2 34-36 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- *Note:* Audit #3 Claim B: reference bullet (Peter cites Psalm 110:1); Geneva 34-36 text banked.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### HEB 7 21 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)”
+- *Note:* Audit #3 Claim B bullet (Heb 7:21) — reference only; Geneva banked. Summary item 3 + Refined point 4 re-list it.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Hebrews 7:17 — ANCHOR
+*cited as: audit #3 Claim B bullet (Heb 5:6, 7:17, 7:21) — reference only*
+- **Geneva 1599:** “For hee testifieth thus, Thou art a Priest for euer, after the order of Melchi-sedec.”
+- *Note:* Backfill (opportunistic): GNV text banked. Note the row order variant "after the order" (5:6 prints "after ye order of Melchi-sedec" — recorded on HEB.5.5-6 and the earlier note).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.0)*
+
+### Psalm 109:3 (= Hebrew 110:3) — DIFFERS (MINOR)
+*cited as: audit #3 Claim C heading quote*
+- **NETS (Septuagint, modern):** “With you is rule on a day of your power among the splendors of the holy ones. From the womb, before Morning-star, I brought you forth.”
+- **Brenton LXX:** “With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “With you is rule on a day of your power among the splendors of the holy ones. From the womb, before Morning-star, I brought you forth.”
+  (Translation-addition rule: NETS prints verbatim at the seat; Brenton kept as the attributed second recourse covering the draft voicing.)
+- *Checked 2026-11-11 · editions fetched: brenton, nets*
+- *Double-checked (second source): nets_dump — NETS text recovered from the Oxford PDF master (poetry layout; cache book-empty for PSA). Line-by-line dump verified verbatim.*
+
+### PRO 8 22 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me.”
+- *Note:* Audit #4 Claim A: reference (no NT text cites Proverbs 8; claim not established).
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### MAT 2 5 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “And they saide vnto him, At Beth-leem in Iudea: for so it is written by the Prophet,”
+- *Note:* Audit #4 Claim B bullet (Matt 2:5-6 cites Micah 5:2 Bethlehem portion).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### JHN 7 42 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “Saith not the Scripture that that Christ shall come of the seede of Dauid, and out of the towne of Beth-leem, where Dauid was?”
+- *Note:* Audit #4 Claim B bullet (John 7:42 alludes to the Bethlehem expectation).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### MIC 5 2 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **NETS (Septuagint, modern):** “And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.”
+- *Note:* Seat: NETS verbatim "his goings forth are from of old, from days of yore *(long ago)*" — draft voiced "whose goings-forth ... days of eternity". Both verse-number maps already recorded on the row. Summary item 10 lists the clause.
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+- *Double-checked (second source): nets ✓*
+
+### 1 Corinthians 10:4 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “And did all drinke the same spirituall drinke (for they dranke of the spiritual Rocke that folowed them: and the Rocke was Christ)”
+- **KJV:** “And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.”
+- *Note:* Audit #5: retraction reference (Rock = Christ; Messenger not identified).
+- *Checked 2026-11-11 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb ✓ · greek_biblehub — 100% word-set; order variant ἡ δὲ πέτρα / ἡ πέτρα δὲ recorded*
+
+### Exodus 23:21 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* Audit #5 established-observations list (bears the LORD's Name).
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+
+### Deuteronomy 6:4 — ANCHOR
+*cited as: audit bullet — reference only*
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- *Note:* Summary of the Audit, item 1 (one God: the Father).
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### John 17:3 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* Summary of the Audit, item 1.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Corinthians 8:6 — ANCHOR
+*cited as: audit bullet — reference only*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Note:* Summary of the Audit, item 1.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### ROM 1 3-4 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh, And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)”
+- *Note:* Seat: Geneva verbatim (modernized) "declared mightily to be the Son of God ... by the resurrection from the dead" — draft voiced KJV "with power"; the elided Geneva clause is "touching the Spirit of sanctification".
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### ACT 2 36 — CONFIRMED (EXCERPT)
+*cited as: audit bullet quote (specified translation seated)*
+- **Geneva 1599:** “Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- *Note:* Seat: Geneva verbatim (modernized) "God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified" — Geneva pauses after "Lord" (comma) and carries "I say".
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -3891,7 +4136,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 19:15 | P7 | confirmed |
 | Romans 2:24 | P7 | confirmed |
 | Romans 5:5 | P9 | confirmed |
-| 1 Corinthians 10:4 | P8, COS-12 | confirmed |
+| 1 Corinthians 10:4 | P8, COS-12, COS-19 | anchor, confirmed |
 | Philippians 2:13 | P9 | confirmed |
 | 1 Peter 2:24 | P1-Q8 | confirmed |
 | 1 John 1:9 | P7 | confirmed |
@@ -4073,7 +4318,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
-| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18 | anchor, confirmed |
+| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19 | anchor, confirmed |
 | Isaiah 44:6 | COS-01, COS-17, COS-18 | anchor, confirmed |
 | Isaiah 44:8 | COS-01 | confirmed |
 | Isaiah 44:24 | COS-01 | confirmed |
@@ -4090,8 +4335,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 1:6 | COS-01 | anchor |
 | Psalm 32:6 | COS-01 | commentary |
 | Mark 12:29 | COS-01, COS-18 | confirmed |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18 | anchor, confirmed |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18 | anchor, confirmed |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19 | anchor, confirmed |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19 | anchor, confirmed |
 | John 20:17 | COS-01, COS-18 | confirmed |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
 | John 1:1 | COS-01 | anchor |
@@ -4100,35 +4345,35 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:16 | COS-01, COS-05, COS-17 | anchor, confirmed |
 | Philippians 2:10 | COS-01 | anchor |
 | Philippians 2:11 | COS-01 | anchor |
-| Genesis 3:15 | COS-01 | confirmed |
-| Isaiah 7:14 | COS-01 | confirmed |
-| Galatians 4:4 | COS-01 | confirmed |
-| Genesis 22:2 | COS-02 | confirmed |
-| Hebrews 11:17-19 | COS-02 | confirmed |
-| Matthew 3:17 | COS-02 | differs (minor) |
-| Genesis 49:10 | COS-02 | confirmed |
-| Haggai 2:7 (LXX) | COS-02 | confirmed |
-| Revelation 5:5 | COS-02 | confirmed (excerpt) |
-| Revelation 22:16 | COS-02 | confirmed |
-| Numbers 24:17 | COS-02 | confirmed |
-| Matthew 2:2 (Geneva) | COS-02 | differs (minor) |
+| Genesis 3:15 | COS-01, COS-19 | anchor, confirmed |
+| Isaiah 7:14 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
+| Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
+| Genesis 22:2 | COS-02, COS-19 | anchor, confirmed |
+| Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
+| Matthew 3:17 | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
+| Genesis 49:10 | COS-02, COS-19 | anchor, confirmed |
+| Haggai 2:7 (LXX) | COS-02, COS-19 | confirmed, confirmed (excerpt) |
+| Revelation 5:5 | COS-02, COS-19 | confirmed (excerpt) |
+| Revelation 22:16 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
+| Numbers 24:17 | COS-02, COS-19 | anchor, confirmed |
+| Matthew 2:2 (Geneva) | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
 | PS 2 1-2 | COS-03, COS-16 | anchor, confirmed |
 | PS 2 6-7 | COS-03, COS-17 | anchor, confirmed |
 | PS 2 8 | COS-03 | confirmed |
 | PS 2 12 | COS-03 | confirmed |
-| ACT 2 36 | COS-03, COS-16 | anchor, confirmed |
+| ACT 2 36 | COS-03, COS-16, COS-19 | anchor, confirmed, confirmed (excerpt) |
 | ACT 13 32-33 | COS-03 | confirmed |
-| ROM 1 3-4 | COS-03 | confirmed |
+| ROM 1 3-4 | COS-03, COS-19 | confirmed, confirmed (excerpt) |
 | MAT 28 18 | COS-03 | confirmed |
 | PS 109 1 | COS-04, COS-16 | anchor, confirmed |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
-| MAT 22 41-45 | COS-04 | confirmed |
-| ACT 2 34-36 | COS-04, COS-17 | anchor, confirmed |
-| HEB 5 5-6 | COS-04 | differs (minor) |
-| HEB 7 21 | COS-04 | differs (minor) |
-| PRO 8 22 | COS-05 | confirmed |
+| MAT 22 41-45 | COS-04, COS-19 | anchor, confirmed |
+| ACT 2 34-36 | COS-04, COS-17, COS-19 | anchor, confirmed |
+| HEB 5 5-6 | COS-04, COS-19 | anchor, differs (minor) |
+| HEB 7 21 | COS-04, COS-19 | anchor, differs (minor) |
+| PRO 8 22 | COS-05, COS-19 | anchor, confirmed |
 | PRO 8 23 | COS-05 | confirmed |
 | PRO 8 24 | COS-05 | confirmed |
 | PRO 8 25 | COS-05 | confirmed |
@@ -4139,12 +4384,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1CO 1 24 | COS-05 | confirmed |
 | COL 1 15 | COS-05, COS-13, COS-17 | anchor, confirmed |
 | COL 1 17 | COS-05, COS-17 | confirmed |
-| MIC 5 2 | COS-06, COS-16, COS-17 | anchor, confirmed |
+| MIC 5 2 | COS-06, COS-16, COS-17, COS-19 | anchor, confirmed, confirmed (excerpt) |
 | MAT 2 3 | COS-06 | confirmed |
 | MAT 2 4 | COS-06 | confirmed |
-| MAT 2 5 | COS-06, COS-16, COS-17 | anchor, confirmed |
+| MAT 2 5 | COS-06, COS-16, COS-17, COS-19 | anchor, confirmed |
 | MAT 2 6 | COS-06, COS-17 | anchor, confirmed |
-| JHN 7 42 | COS-06, COS-16 | anchor, confirmed |
+| JHN 7 42 | COS-06, COS-16, COS-19 | anchor, confirmed |
 | GEN 16 7 | COS-07 | confirmed |
 | GEN 16 8 | COS-07 | confirmed |
 | GEN 16 10 | COS-07 | confirmed |
@@ -4178,7 +4423,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 6:46 | COS-13 | confirmed |
 | Exodus 33:20 | COS-13 | prose-ref |
 | Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16 | confirmed |
+| Exodus 23:21 | COS-14, COS-16, COS-19 | anchor, confirmed |
 | John 17:11 | COS-14 | confirmed |
 | John 17:12 | COS-14 | confirmed |
 | Genesis 16:7 | COS-16 | confirmed |
@@ -4188,7 +4433,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 22:12 | COS-16 | confirmed |
 | Genesis 22:15 | COS-16 | confirmed |
 | Numbers 20:8 | COS-16 | anchor |
-| Acts 13:33 | COS-16 | anchor |
+| Acts 13:33 | COS-16, COS-19 | anchor, confirmed (excerpt) |
 | Psalm 22:1 | COS-16 | anchor |
 | 1 Corinthians 1:18 | COS-17 | confirmed |
 | 1 Corinthians 1:19 | COS-17 | confirmed |
@@ -4198,6 +4443,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 1:23 | COS-17 | confirmed |
 | 1 Corinthians 1:24 | COS-17 | confirmed |
 | Matthew 22:44 | COS-17 | anchor |
+| Acts 4:25-27 | COS-19 | confirmed |
+| Psalm 109:3 (= Hebrew 110:3) | COS-19 | differs (minor) |
+| Hebrews 1:5 | COS-19 | anchor |
+| Hebrews 7:17 | COS-19 | anchor |
 
 ## The editions used
 

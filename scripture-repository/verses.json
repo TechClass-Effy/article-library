@@ -70,7 +70,8 @@
    "COS-15",
    "COS-16",
    "COS-17",
-   "COS-18"
+   "COS-18",
+   "COS-19"
   ],
   "sections": [
    {
@@ -298,6 +299,10 @@
    {
     "key": "COS-18",
     "label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God"
+   },
+   {
+    "key": "COS-19",
+    "label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit"
    }
   ],
   "double_check": {
@@ -3814,6 +3819,15 @@
       "version": "gnv",
       "text": "Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1819,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #5: retraction reference (Rock = Christ; Messenger not identified)."
     }
    ],
    "verified": "2026-11-11",
@@ -10915,6 +10929,15 @@
       "text": "And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.",
       "reason": "Audit re-lists seated witnesses; seat unchanged — the full NETS verse 4 (the Shema inside v4 in the Greek Bible)."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1838,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Summary of the Audit, item 1 (one God: the Father)."
     }
    ],
    "verified": "2026-11-11",
@@ -12082,6 +12105,15 @@
       "text": "And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.",
       "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse + gloss)."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1838,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Summary of the Audit, item 1."
     }
    ],
    "verified": "2026-11-11",
@@ -12169,6 +12201,15 @@
       "text": "Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him.",
       "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1838,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Summary of the Audit, item 1."
     }
    ],
    "verified": "2026-11-11",
@@ -12611,9 +12652,18 @@
       "detail": "LXX family reads \"watch your head\" (NETS/Brenton; Greek τηρέω); his prose carries \"crush\" (Geneva/Hebrew family). Options: (a) keep NETS + LES rows and his prose; (b) adjust prose to \"keep watch at the serpent's head\"; (c) record a Geneva-family exception for this seat. His word decides.",
       "awaiting": "Gideon approval"
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1702,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #2 Claim A: the masculine αὐτός observation bullet — reference only; NETS/Greek banked."
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "And I will put enmity between you and between the woman and between your offspring and between her offspring; he will watch your head, and you will watch his heel.”",
@@ -12675,9 +12725,21 @@
       "text": "Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.",
       "reason": "Standing rule 1: OT seats NETS verbatim; LES row noted (not significantly different — both say \"the virgin\")."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1704,
+     "quotes": [
+      "\"the virgin shall conceive and bear a son\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: NETS verbatim \"the virgin shall be with child and bear a son\" — draft voiced KJV \"shall conceive and bear\".",
+     "matched_source": "nets"
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.",
@@ -12743,9 +12805,20 @@
       "text": "But when the fulness of time was come, God sent forth his Son made of a woman, and made under the Law,",
       "reason": "Standing rule: NT seats Geneva 1599 (modernized spelling)."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1703,
+     "quotes": [
+      "\"God sent forth His Son, made of a woman\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"God sent forth his Son made of a woman\" — draft had KJV comma after \"Son\" and capitalized \"His\"; the comma is the KJV's clause punctuation, GNV joins \"Sonne made of a woman\"."
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,",
@@ -12784,9 +12857,18 @@
       "text": "And he said, “Take your beloved son Isaak, whom you love, and go into the high land, and offer him as a whole burnt offering on one of the mountains, whichever I mention to you.”",
       "reason": "Standing rule 1: OT seats NETS verbatim."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1716,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #2 Claim B: \"same ὁ Υἱός μου ὁ ἀγαπητός language as Gen 22:2 LXX\" — reference only."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "And he said, “Take your beloved son Isaak, whom you love, and go into the high land, and offer him as a whole burnt offering on one of the mountains, whichever I mention to you.”",
@@ -12837,9 +12919,20 @@
       "text": "By faith Abraham offered vp Isaac, when he was tried, and he that had received the promises, offered his only begotten son. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he received him also after a sort.",
       "reason": "Standing rule: NT seats Geneva verbatim (modernized)."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1715,
+     "quotes": [
+      "\"in a figure\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"after a sort\" — the draft quoted the KJV \"in a figure\"; the Greek phrase ἐν παραβολῇ kept in the bullet with gloss \"in a parable\". Summary item 5 (line 1842) seats the same wording."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "By faith Abraham offered vp Isaac, when he was tryed, and he that had receiued the promises, offered his onely begotten sonne. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he receiued him also after a sort.",
@@ -12879,9 +12972,21 @@
       "reason": "Standing rule: NT seats Geneva verbatim."
      },
      "applied": "2026-11-10"
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1716,
+     "quotes": [
+      "\"My beloved Son\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Good-reason exception: fragment exact to Geneva (modernized) \"my beloved Son\" modulo quote-initial capital — kept verbatim, recorded why.",
+     "matched_source": "gnv"
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "And loe, a voyce came from heauen, saying, This is my beloued Sonne, in whome I am well pleased.",
@@ -12920,9 +13025,18 @@
       "text": "A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.",
       "reason": "Standing rule 1: OT seats NETS verbatim."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1727,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #2 Claim C: reference bullet (\"the text plainly says what I quoted\"); the Gen 49:10 seat text is banked (NETS)."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.",
@@ -12969,9 +13083,21 @@
      "flag": null,
      "seat": "...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.",
      "seat_version": "nets"
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1729,
+     "quotes": [
+      "\"the desire of all nations shall come\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: NETS verbatim \"the choice things of all the nations shall come\" — draft voiced KJV \"the desire of all nations\".",
+     "matched_source": "nets"
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "And I will moue all nations, and the desire of all nations shall come, and I will fill this House with glory, sayth the Lord of hostes.",
@@ -13024,9 +13150,20 @@
       "text": "And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that root of David, hath obtained to open the Book, and to loose the seven seals thereof.",
       "reason": "Standing rule: NT seats Geneva verbatim."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1728,
+     "quotes": [
+      "\"the Lion of the tribe of Judah\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"that Lion which is of the tribe of Judah\" — draft voiced KJV \"the Lion of the tribe of Judah\"."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.",
@@ -13065,9 +13202,20 @@
       "text": "I Jesus haue sent mine Angel, to testify vnto you these things in the Churches: I am the root and the generation of David, and the bright morning star.",
       "reason": "Standing rule: NT seats Geneva verbatim."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1742,
+     "quotes": [
+      "\"I am the bright morning Star.\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"I am the root and the generation of David, and the bright morning star.\" — draft voiced KJV fragment; Geneva carries the full sentence and lowercase \"star\"."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.",
@@ -13106,9 +13254,18 @@
       "text": "I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.",
       "reason": "Standing rule 1: OT seats NETS verbatim."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1740,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #2 Claim D: reference bullet (\"the text says what I quoted\"); NETS text banked."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.",
@@ -13152,9 +13309,21 @@
       "reason": "Standing rule: NT seats Geneva verbatim."
      },
      "applied": "2026-11-10"
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1741,
+     "quotes": [
+      "\"His star.\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Good-reason exception: fragment exact to Geneva \"his star\" modulo quote-initial capital — kept verbatim, recorded why.",
+     "matched_source": "gnv"
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "Saying, Where is that King of the Iewes that is borne? for wee haue seene his starre in the East, and are come to worship him.",
@@ -13346,9 +13515,20 @@
      "quotes": [],
      "status": "anchor",
      "note": "\"made Lord and Christ ... (Acts 2:36; 13:33)\"."
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1873,
+     "quotes": [
+      "\"God hath made him both Lord and Christ, this Jesus whom ye have crucified\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified\" — Geneva pauses after \"Lord\" (comma) and carries \"I say\"."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.",
@@ -13426,9 +13606,20 @@
       "version": "gnv",
       "text": "Concerning his Son Jesus Christ our Lord (which was made of the seed of David according to the flesh, And declared mightily to be the Son of God, touching the Spirit of sanctification by the resurrection from the dead)"
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1872,
+     "quotes": [
+      "\"declared to be the Son of God with power... by the resurrection from the dead.\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"declared mightily to be the Son of God ... by the resurrection from the dead\" — draft voiced KJV \"with power\"; the elided Geneva clause is \"touching the Spirit of sanctification\"."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh, And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)",
@@ -13652,9 +13843,18 @@
       "version": "gnv",
       "text": "While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They said unto him, Davids. He said unto them, How then doth David in spirit call him Lord, saying, The Lord said to my Lord, Sit at my right hand, till I make thine enemies thy footstool? If then David call him Lord, how is he his son?"
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1767,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #3 Claim B: reference bullet (Jesus cites Psalm 110:1); Geneva 41-45 text banked."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "While the Pharises were gathered together, Iesus asked them, Saying, What thinke ye of Christ? whose sonne is he? They sayd vnto him, Dauids. He sayd vnto them, How then doeth Dauid in spirit call him Lord, saying, The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole? If then Dauid call him Lord, howe is he his sonne?",
@@ -13702,9 +13902,18 @@
      "quotes": [],
      "status": "anchor",
      "note": "Honest Revised Position table (COS-04 seats hold the verses)."
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1768,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #3 Claim B: reference bullet (Peter cites Psalm 110:1); Geneva 34-36 text banked."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.",
@@ -13742,9 +13951,18 @@
       "version": "gnv",
       "text": "So likewise Christ took not to himself this honor, to be made the high Priest, but he that said unto him, Thou art my Son, this day begat I thee, gave it him. As he also in another place speaketh, Thou art a Priest for ever, after ye order of Melchisedek."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1758,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #3 Claim A bullet (Heb 5:5) — reference only; Geneva 5:5-6 banked (\"after ye order of Melchi-sedec\" noted on the row)."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "So likewise Christ tooke not to him selfe this honour, to be made the hie Priest, but hee that sayd vnto him, Thou art my Sonne, this day begate I thee, gaue it him. As he also in another place speaketh, Thou art a Priest for euer, after ye order of Melchi-sedec.",
@@ -13782,9 +14000,18 @@
       "version": "gnv",
       "text": "But this is made with an oath by him that said unto him, The Lord hath sworn, and will not repent, Thou art a Priest for ever, after the order of Melchisedek)"
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1770,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #3 Claim B bullet (Heb 7:21) — reference only; Geneva banked. Summary item 3 + Refined point 4 re-list it."
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "gnv": {
      "text": "But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)",
@@ -13822,6 +14049,15 @@
       "version": "nets",
       "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
      }
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1796,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #4 Claim A: reference (no NT text cites Proverbs 8; claim not established)."
     }
    ],
    "verified": "2026-11-11",
@@ -14307,6 +14543,17 @@
      ],
      "status": "confirmed",
      "note": "Prose echo follows the KJV/Geneva-family wording; NETS Micah seat (COS-06) differs in phrasing (\"his goings out were...\"). Recorded per the rule of 10 Nov: other-family quotes in prose carry their Version italic-named — his line already names \"LXX\"/Micah 5:2."
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1808,
+     "quotes": [
+      "\"whose goings-forth are from of old, from days of eternity.\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: NETS verbatim \"his goings forth are from of old, from days of yore *(long ago)*\" — draft voiced \"whose goings-forth ... days of eternity\". Both verse-number maps already recorded on the row. Summary item 10 lists the clause."
     }
    ],
    "verified": "2026-11-11",
@@ -14439,6 +14686,15 @@
      "quotes": [],
      "status": "anchor",
      "note": "Honest Revised Position table."
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1805,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #4 Claim B bullet (Matt 2:5-6 cites Micah 5:2 Bethlehem portion)."
     }
    ],
    "verified": "2026-11-11",
@@ -14531,6 +14787,15 @@
      "quotes": [],
      "status": "anchor",
      "note": "Birthplace cite."
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1806,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #4 Claim B bullet (John 7:42 alludes to the Bethlehem expectation)."
     }
    ],
    "verified": "2026-11-11",
@@ -15981,6 +16246,15 @@
      "status": "confirmed",
      "note": "Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat (\"my name is upon him\") with the attributed Geneva clause noted.",
      "matched_source": "gnv"
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet — reference only",
+     "article_line": 1827,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Audit #5 established-observations list (bears the LORD's Name)."
     }
    ],
    "verified": "2026-11-11",
@@ -16363,6 +16637,18 @@
      "quotes": [],
      "status": "anchor",
      "note": "\"Thou art my Sonne; this day haue I begotten thee.\" — the Ps 2 begetting cite; text banked for later witnessing."
+    },
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit bullet quote (specified translation seated)",
+     "article_line": 1756,
+     "quotes": [
+      "\"Thou art my Son, today have I begotten thee\"",
+      "\"in that he raised up Jesus, as it is also written in the second Psalm, Thou art my Son, today have I begotten thee.\""
+     ],
+     "status": "confirmed-excerpt",
+     "note": "Seat: Geneva verbatim (modernized) \"Thou art my Son: this day have I begotten thee\" (bullet line 1756) and the long quote at line 1871 \"in that he raised up Jesus, even as it is written in the second Psalm, Thou art my Son: this day have I begotten thee.\" — draft voiced KJV (\"today\", comma after Son)."
     }
    ],
    "verified": "2026-11-11",
@@ -16734,6 +17020,154 @@
      "text": "The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole?",
      "source": "https://www.textusreceptusbibles.com/Geneva/40/22",
      "result": "eBible=TRB (ratio 1.00)"
+    }
+   }
+  },
+  {
+   "id": "ACT.4.25-27",
+   "ref": "Acts 4:25-27",
+   "uses": [
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit #3 Claim A bullet (Acts 4:25-27)",
+     "article_line": 1755,
+     "quotes": [
+      "\"thy holy child Jesus, whom thou hast anointed.\""
+     ],
+     "status": "confirmed",
+     "note": "Seat swapped to Geneva verbatim (modernized): \"against thine holy Son Jesus, whom thou haddest anointed\" — the draft quoted the KJV voicing \"thy holy child Jesus...\".",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "against thine holy Son Jesus, whom thou haddest anointed",
+      "reason": "Translation-addition rule: NT seat prints Geneva verbatim (modernized spelling); the KJV-voiced draft quote is not the specified translation."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Which by the mouth of thy seruant Dauid hast saide, Why did the Gentiles rage, and the people imagine vaine things? The Kings of the earth assembled, and the rulers came together against the Lord, and against his Christ. For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,",
+     "source": "https://ebible.org/enggnv/ACT04.htm"
+    },
+    "greek_byz": {
+     "text": "ὁ τοῦ πατρὸς ἡμῶν διὰ Πνεύματος Ἁγίου στόματος Δαυὶδ παιδός σου εἰπών Ἵνα‿ Τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: Nestle 1904 ὁ τοῦ πατρὸς ἡμῶν διὰ Πνεύματος Ἁγίου στόματος Δαυεὶδ παιδός σου εἰπών Ἵνα τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: Westcott and Hort 1881 ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυεὶδ παιδός σου εἰπών Ἵνα τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυεὶδ / Δαυὶδ παιδός σου εἰπών Ἵνα ͜ τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: RP Byzantine Majority Text 2005 ὁ διὰ στόματος Δαυὶδ παιδός σου εἰπών, Ἵνα τί ἐφρύαξαν ἔθνη, καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: Greek Orthodox Church ὁ διὰ στόματος Δαυῒδ παιδός σου εἰπών· ἵνα τί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: Tischendorf 8th Edition ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυεὶδ παιδός σου εἰπών, ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; ΠΡΑΞΕΙΣ 4:25 Greek NT: Scrivener's Textus Receptus 1894 ὁ διὰ στόματος Δαβὶδ τοῦ παιδός σου εἰπών, Ἱνατί ἐφρύαξαν ἔθνη, καὶ λαοὶ ἐμελέτησαν κενά ΠΡΑΞΕΙΣ 4:25 Greek NT: Stephanus Textus Receptus 1550 ὁ διὰ στόματος Δαβὶδ τοῦ παιδός σου εἰπών Ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά ὁ τοῦ πατρὸς ἡμῶν διὰ πνεύματος ἁγίου στόματος Δαυὶδ παιδός σου εἰπών· ἱνατί ἐφρύαξαν ἔθνη καὶ λαοὶ ἐμελέτησαν κενά; | παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ Κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ. ΠΡΑΞΕΙΣ 4:26 Greek NT: Nestle 1904 παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ Κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ. ΠΡΑΞΕΙΣ 4:26 Greek NT: Westcott and Hort 1881 παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ. ΠΡΑΞΕΙΣ 4:26 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ. ΠΡΑΞΕΙΣ 4:26 Greek NT: RP Byzantine Majority Text 2005 Παρέστησαν οἱ βασιλεῖς τῆς γῆς, καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου, καὶ κατὰ τοῦ χριστοῦ αὐτοῦ· ΠΡΑΞΕΙΣ 4:26 Greek NT: Greek Orthodox Church παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ Κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ. ΠΡΑΞΕΙΣ 4:26 Greek NT: Tischendorf 8th Edition παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ. ΠΡΑΞΕΙΣ 4:26 Greek NT: Scrivener's Textus Receptus 1894 παρέστησαν οἱ βασιλεῖς τῆς γῆς, καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ Κυρίου, καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ· ΠΡΑΞΕΙΣ 4:26 Greek NT: Stephanus Textus Receptus 1550 παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ Χριστοῦ αὐτοῦ παρέστησαν οἱ βασιλεῖς τῆς γῆς καὶ οἱ ἄρχοντες συνήχθησαν ἐπὶ τὸ αὐτὸ κατὰ τοῦ κυρίου καὶ κατὰ τοῦ χριστοῦ αὐτοῦ. | Συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον Παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Nestle 1904 συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον Παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πειλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Westcott and Hort 1881 συνήχθησαν γὰρ ἐπ' ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πειλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] συνήχθησαν γὰρ ἐπ' ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πειλᾶτος / Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: RP Byzantine Majority Text 2005 συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλάτος, σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Greek Orthodox Church συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσι καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Tischendorf 8th Edition συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πειλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Scrivener's Textus Receptus 1894 συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν, ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλάτος, σὺν ἔθνεσι καὶ λαοῖς Ἰσραήλ, ΠΡΑΞΕΙΣ 4:27 Greek NT: Stephanus Textus Receptus 1550 συνήχθησαν γὰρ ἐπ' ἀληθείας ἐπὶ τὸν ἅγιον παῖδά σου Ἰησοῦν ὃν ἔχρισας Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ συνήχθησαν γὰρ ἐπ’ ἀληθείας ἐν τῇ πόλει ταύτῃ ἐπὶ τὸν ἅγιον παῖδα σου Ἰησοῦν ὃν ἔχρισας, Ἡρῴδης τε καὶ Πόντιος Πιλᾶτος σὺν ἔθνεσιν καὶ λαοῖς Ἰσραήλ,",
+     "source": "https://biblehub.com/text/acts/4-25.htm (+4-26, 4-27)"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "Which by the mouth of thy seruant Dauid hast saide, Why did the Gentiles rage, and the people imagine vaine things? | The Kings of the earth assembled, and the rulers came together against the Lord, and against his Christ. | For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,",
+     "source": "https://textusreceptusbibles.com/Geneva/44/4",
+     "result": "eBible=TRB word-for-word vv25-27 (ratio 1.00 each)"
+    }
+   }
+  },
+  {
+   "id": "PSA.109.3",
+   "ref": "Psalm 109:3 (= Hebrew 110:3)",
+   "uses": [
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit #3 Claim C heading quote",
+     "article_line": 1776,
+     "quotes": [
+      "\"From the womb, before the morning star, I have begotten Thee\""
+     ],
+     "status": "differs-minor",
+     "note": "Draft quote is Brenton-voiced (word-order re-set). Seat: NETS verbatim \"From the womb, before Morning-star, I brought you forth\" with Brenton recourse attributed (Brenton base text reads \"I have begotten thee from the womb before the morning\"). NETS footnote marker d (Or: be) after \"is\" removed as apparatus, not text.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "With you is rule on a day of your power among the splendors of the holy ones. From the womb, before Morning-star, I brought you forth.",
+      "reason": "Translation-addition rule: NETS prints verbatim at the seat; Brenton kept as the attributed second recourse covering the draft voicing."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "With you is rule on a day of your power among the splendors of the holy ones. From the womb, before Morning-star, I brought you forth.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf (NETS Psalm 109 = Hebrew 110, p. 603)"
+    },
+    "brenton": {
+     "text": "With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.",
+     "source": "https://ebible.org/eng-Brenton/PSA109.htm"
+    }
+   },
+   "second_check": {
+    "nets_dump": {
+     "text": "[24-ps.pdf pp603-604 line dump, cos_w10_ps109.txt]",
+     "source": "scratch/nets/24-ps.pdf",
+     "result": "NETS text recovered from the Oxford PDF master (poetry layout; cache book-empty for PSA). Line-by-line dump verified verbatim."
+    }
+   }
+  },
+  {
+   "id": "HEB.1.5",
+   "ref": "Hebrews 1:5",
+   "uses": [
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit #3 Claim A bullet (Heb 1:5) — reference only",
+     "article_line": 1757,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Backfill (opportunistic): GNV text banked; bullet is a reference bullet, no seat."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For vnto which of the Angels saide he at any time, Thou art my Sonne, this day begate I thee? and againe, I will be his Father, and he shalbe my Sonne?",
+     "source": "https://ebible.org/enggnv/HEB01.htm"
+    },
+    "greek_byz": {
+     "text": "Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; Καὶ πάλιν Ἐγὼ ἔσομαι αὐτῷ εἰς Πατέρα, καὶ αὐτὸς ἔσται μοι εἰς Υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Nestle 1904 Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; καὶ πάλιν Ἐγὼ ἔσομαι αὐτῷ εἰς Πατέρα, καὶ αὐτὸς ἔσται μοι εἰς Υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Westcott and Hort 1881 Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε, καὶ πάλιν Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε, καὶ πάλιν Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: RP Byzantine Majority Text 2005 Tίνι γὰρ εἴπέν ποτε τῶν ἀγγέλων, Υἱός μου εἴ σύ, ἐγὼ σήμερον γεγέννηκά σε; Καὶ πάλιν, Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Greek Orthodox Church τίνι γὰρ εἶπέ ποτε τῶν ἀγγέλων· υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; καὶ πάλιν· ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Tischendorf 8th Edition τίς γάρ λέγω ποτέ ὁ ἄγγελος υἱός ἐγώ εἰμί σύ ἐγώ σήμερον γεννάω σύ καί πάλιν ἐγώ εἰμί αὐτός εἰς πατήρ καί αὐτός εἰμί ἐγώ εἰς υἱός ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Scrivener's Textus Receptus 1894 τίνι γὰρ εἶπέ ποτε τῶν ἀγγέλων, Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε; Καὶ πάλιν, Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν; ΠΡΟΣ ΕΒΡΑΙΟΥΣ 1:5 Greek NT: Stephanus Textus Receptus 1550 Τίνι γὰρ εἶπέν ποτε τῶν ἀγγέλων Υἱός μου εἶ σύ ἐγὼ σήμερον γεγέννηκά σε καὶ πάλιν Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα καὶ αὐτὸς ἔσται μοι εἰς υἱόν Τίνι γὰρ εἶπεν ποτε τῶν ἀγγέλων· Ὑιος μου ει συ, ἐγὼ σήμερον γεγέννηκά σε; καὶ πάλιν, Ἐγὼ ἔσομαι αὐτῷ εἰς πατέρα, καὶ αὐτὸς ἔσται μοι εἰς υἱόν;",
+     "source": "https://biblehub.com/text/hebrews/1-5.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "For vnto which of the Angels saide he at any time, Thou art my Sonne, this day begate I thee? and againe, I will be his Father, and he shalbe my Sonne?",
+     "source": "https://textusreceptusbibles.com/Geneva/58/1",
+     "result": "eBible=TRB word-for-word (ratio 1.0)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.17",
+   "ref": "Hebrews 7:17",
+   "uses": [
+    {
+     "section": "COS-19",
+     "section_label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit",
+     "cited_as": "audit #3 Claim B bullet (Heb 5:6, 7:17, 7:21) — reference only",
+     "article_line": 1770,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Backfill (opportunistic): GNV text banked. Note the row order variant \"after the order\" (5:6 prints \"after ye order of Melchi-sedec\" — recorded on HEB.5.5-6 and the earlier note)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For hee testifieth thus, Thou art a Priest for euer, after the order of Melchi-sedec.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    },
+    "greek_byz": {
+     "text": "μαρτυρεῖται γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Nestle 1904 μαρτυρεῖται γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Westcott and Hort 1881 μαρτυρεῖται γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Westcott and Hort / [NA27 and UBS4 variants] μαρτυρεῖται γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: RP Byzantine Majority Text 2005 μαρτυρεῖ γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Greek Orthodox Church μαρτυρεῖ γὰρ ὅτι σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισεδέκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Tischendorf 8th Edition μαρτυρέω γάρ ὅτι σύ ἱερεύς εἰς ὁ αἰών κατά ὁ τάξις Μελχισέδεκ ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Scrivener's Textus Receptus 1894 μαρτυρεῖ γὰρ, ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ 7:17 Greek NT: Stephanus Textus Receptus 1550 μαρτυρεῖ γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ μαρτυρεῖται γὰρ ὅτι Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ",
+     "source": "https://biblehub.com/text/hebrews/7-17.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "For hee testifieth thus, Thou art a Priest for euer, after the order of Melchi-sedec.",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB word-for-word (ratio 1.0)"
     }
    }
   }
