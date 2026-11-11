@@ -54,7 +54,9 @@
    "SAB12",
    "SAB13",
    "COS-01",
-   "COS-02"
+   "COS-02",
+   "COS-03",
+   "COS-04"
   ],
   "sections": [
    {
@@ -218,6 +220,14 @@
    {
     "key": "COS-02",
     "label": "THE CHRIST OF SCRIPTURE — 3. POSITs #2-#4: Genesis 22; Genesis 49:10; Numbers 24:17 (+ Summary)"
+   },
+   {
+    "key": "COS-03",
+    "label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father"
+   },
+   {
+    "key": "COS-04",
+    "label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation"
    }
   ],
   "double_check": {
@@ -12361,6 +12371,11 @@
     "nets": {
      "text": "...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/32-twelve-nets.pdf"
+    },
+    "greek_blb-lxx": {
+     "text": "καὶ συσσείσω πάντα τὰ ἔθνη καὶ ἥξει τὰ ἐκλεκτὰ",
+     "source": "https://www.blueletterbible.org/verse/lxx/hag/2/7/",
+     "note": "window around the clause; confirms ἥξει τὰ ἐκλεκτά"
     }
    },
    "second_check": {
@@ -12536,6 +12551,574 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/40/2"
+    }
+   }
+  },
+  {
+   "id": "PS.2.1-2",
+   "ref": "PS 2 1-2",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "LXX Greek + Geneva rows in draft (book seat: NETS)",
+     "quotes": [
+      "Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Draft Greek exact Rahlfs-family; NET prints \"his anointed\"; Interlude-line (Διάψαλμα) not verse text, dropped from seat.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "PS.2.6-7",
+   "ref": "PS 2 6-7",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "LXX Greek + Geneva rows in draft",
+     "quotes": [
+      "\"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, \"My son you are; today I have begotten you.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS: \"I was established king by him\" — the draft's κατεστάθην ὑπ᾽ αὐτοῦ observation verified verbatim; \"My son you are; today I have begotten you.\"",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "\"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, \"My son you are; today I have begotten you.\""
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "\"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, \"My son you are; today I have begotten you.\"",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "PS.2.8",
+   "ref": "PS 2 8",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "LXX Greek + Geneva rows in draft",
+     "quotes": [
+      "Ask of me, and I will give you nations as your heritage, and as your possession the ends of the earth."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Geneva row verbatim-mod; NETS \"nations as your heritage\".",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Ask of me, and I will give you nations as your heritage, and as your possession the ends of the earth."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "Ask of me, and I will give you nations as your heritage, and as your possession the ends of the earth.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "PS.2.12",
+   "ref": "PS 2 12",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "LXX Greek + Geneva rows in draft",
+     "quotes": [
+      "Seize upon instruction *(grasp discipline)*, lest the Lord be angry, and you will perish from the righteous way, when his anger quickly blazes out. Happy are all who trust in him."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS \"Seize upon instruction\"; Geneva \"Kiss the Son\" retained in the note as attributed Hebrew-family wording (translation-addition rule).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Seize upon instruction *(grasp discipline)*, lest the Lord be angry, and you will perish from the righteous way, when his anger quickly blazes out. Happy are all who trust in him."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "Seize upon instruction *(grasp discipline)*, lest the Lord be angry, and you will perish from the righteous way, when his anger quickly blazes out. Happy are all who trust in him.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ACT.2.36",
+   "ref": "ACT 2 36",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "Greek + Geneva rows",
+     "quotes": [
+      "let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat = full 2:34-36 context in COS-04 use; 2:36 standalone here. Greek = exact Byzantine (biblehub 2-36).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "greek_byz": {
+     "text": "Ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ Κύριον αὐτὸν καὶ Χριστὸν ἐποίησεν ὁ Θεός, τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε.",
+     "source": "https://biblehub.com/text/acts/2-36.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/2"
+    }
+   }
+  },
+  {
+   "id": "ACT.13.32-33",
+   "ref": "ACT 13 32-33",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "Greek + Geneva rows",
+     "quotes": [
+      "And we declare unto you, that touching the promise made unto the fathers, God hath fulfilled it unto us their children, in that he raised vp Jesus, even as it is written in the second Psalm, Thou art my Son: this day have I begotten thee."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Greek = exact Byzantine (vs Paul's Psalm-2 quote).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And we declare unto you, that touching the promise made unto the fathers, God hath fulfilled it unto us their children, in that he raised vp Jesus, even as it is written in the second Psalm, Thou art my Son: this day have I begotten thee."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "And we declare vnto you, that touching the promise made vnto the fathers, God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.",
+     "source": "https://ebible.org/enggnv/ACT13.htm"
+    },
+    "greek_byz": {
+     "text": "ὅτι ταύτην ὁ Θεὸς ἐκπεπλήρωκεν τοῖς τέκνοις [αὐτῶν] ἡμῶν ἀναστήσας Ἰησοῦν, ὡς καὶ ἐν τῷ ψαλμῷ γέγραπται τῷ δευτέρῳ Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε.",
+     "source": "https://biblehub.com/text/acts/13-33.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/13"
+    }
+   }
+  },
+  {
+   "id": "ROM.1.3-4",
+   "ref": "ROM 1 3-4",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "Greek + Geneva rows",
+     "quotes": [
+      "Concerning his Son Jesus Christ our Lord (which was made of the seed of David according to the flesh, And declared mightily to be the Son of God, touching the Spirit of sanctification by the resurrection from the dead)"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Greek = exact Byzantine.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Concerning his Son Jesus Christ our Lord (which was made of the seed of David according to the flesh, And declared mightily to be the Son of God, touching the Spirit of sanctification by the resurrection from the dead)"
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh, And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)",
+     "source": "https://ebible.org/enggnv/ROM01.htm"
+    },
+    "greek_byz": {
+     "text": "περὶ τοῦ Υἱοῦ αὐτοῦ τοῦ γενομένου ἐκ σπέρματος Δαυὶδ κατὰ σάρκα, τοῦ ὁρισθέντος Υἱοῦ Θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν, Ἰησοῦ Χριστοῦ τοῦ Κυρίου ἡμῶν,",
+     "source": "https://biblehub.com/text/romans/1-3.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/1"
+    }
+   }
+  },
+  {
+   "id": "MAT.28.18",
+   "ref": "MAT 28 18",
+   "uses": [
+    {
+     "section": "COS-03",
+     "section_label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father",
+     "cited_as": "Greek excerpt row",
+     "quotes": [
+      "And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Seat = full verse (draft excerpted); Greek κοι exact (\"Ἐδόθη μοι πᾶσα ἐξουσία...\").",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.",
+     "source": "https://ebible.org/enggnv/MAT28.htm"
+    },
+    "greek_byz": {
+     "text": "Καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς.",
+     "source": "https://biblehub.com/text/matthew/28-18.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/28"
+    }
+   }
+  },
+  {
+   "id": "PS.109.1",
+   "ref": "PS 109 1",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "LXX Greek + Geneva rows",
+     "quotes": [
+      "The Lord said to my lord, \"Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS: \"Sit on my right\" (vs Greek ἐκ δεξιῶν μου \"at my right\"); superscription line not verse text.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord said to my lord, \"Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet.\""
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "The Lord said to my lord, \"Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet.\"",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "PS.109.3",
+   "ref": "PS 109 3",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "LXX Greek + Geneva rows",
+     "quotes": [
+      "With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth."
+     ],
+     "status": "differs-significant",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS: \"I brought you forth\" (ἐγέννησά σε); Brenton renders \"I have begotten thee\" — Brenton clause attributed in the note (his begotten observation load-bearing). Geneva follows the Hebrew here (110:3) — noted inline, per translation-addition rule.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "PS.109.4",
+   "ref": "PS 109 4",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "LXX Greek + Geneva rows",
+     "quotes": [
+      "The Lord swore and will not change his mind, \"You are a priest forever according to the order of Melchisedek *(Melchizedek)*.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Geneva row verbatim-modern (\"sware\", \"Metchi\"); NETS \"will not change his mind\".",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord swore and will not change his mind, \"You are a priest forever according to the order of Melchisedek *(Melchizedek)*.\""
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "The Lord swore and will not change his mind, \"You are a priest forever according to the order of Melchisedek *(Melchizedek)*.\"",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "PS.109.5",
+   "ref": "PS 109 5",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "LXX Greek + Geneva rows",
+     "quotes": [
+      "The Lord at your right *(your right hand)* shattered kings on a day of his wrath."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS \"The Lord at your right shattered kings\" — the inversion observation verified in the Greek.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The Lord at your right *(your right hand)* shattered kings on a day of his wrath."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "nets": {
+     "text": "The Lord at your right *(your right hand)* shattered kings on a day of his wrath.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "MAT.22.41-45",
+   "ref": "MAT 22 41-45",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "Greek + Geneva rows",
+     "quotes": [
+      "While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They said unto him, Davids. He said unto them, How then doth David in spirit call him Lord, saying, The Lord said to my Lord, Sit at my right hand, till I make thine enemies thy footstool? If then David call him Lord, how is he his son?"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Greek = exact Byzantine for v44; full vv41-45 seated per standing rule.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They said unto him, Davids. He said unto them, How then doth David in spirit call him Lord, saying, The Lord said to my Lord, Sit at my right hand, till I make thine enemies thy footstool? If then David call him Lord, how is he his son?"
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "While the Pharises were gathered together, Iesus asked them, Saying, What thinke ye of Christ? whose sonne is he? They sayd vnto him, Dauids. He sayd vnto them, How then doeth Dauid in spirit call him Lord, saying, The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole? If then Dauid call him Lord, howe is he his sonne?",
+     "source": "https://ebible.org/enggnv/MAT22.htm"
+    },
+    "greek_byz": {
+     "text": "Εἶπεν Κύριος τῷ Κυρίῳ μου Κάθου ἐκ δεξιῶν μου Ἕως ἂν θῶ τοὺς ἐχθρούς σου Ὑποκάτω τῶν ποδῶν σου;",
+     "source": "https://biblehub.com/text/matthew/22-44.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/22"
+    }
+   }
+  },
+  {
+   "id": "ACT.2.34-36",
+   "ref": "ACT 2 34-36",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "Greek + Geneva rows",
+     "quotes": [
+      "For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Greek = exact Byzantine (34, 35, 36).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "greek_byz": {
+     "text": "Οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς, λέγει δὲ αὐτός Εἶπεν ‹ὁ› Κύριος τῷ Κυρίῳ μου Κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου. Ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ Κύριον αὐτὸν καὶ Χριστὸν ἐποίησεν ὁ Θεός, τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε.",
+     "source": "https://biblehub.com/text/acts/2-36.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/2"
+    }
+   }
+  },
+  {
+   "id": "HEB.5.5-6",
+   "ref": "HEB 5 5-6",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "Greek + Geneva rows",
+     "quotes": [
+      "So likewise Christ took not to himself this honor, to be made the high Priest, but he that said unto him, Thou art my Son, this day begat I thee, gave it him. As he also in another place speaketh, Thou art a Priest for ever, after ye order of Melchisedek."
+     ],
+     "status": "differs-minor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Geneva 5:6 prints \"after ye order of Melchi-sedec\" (TRB concurs; cf. 5:10 \"after the order\") — seat verbatim with gloss; draft's \"Melchi-zedek\" modernization replaced.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "So likewise Christ took not to himself this honor, to be made the high Priest, but he that said unto him, Thou art my Son, this day begat I thee, gave it him. As he also in another place speaketh, Thou art a Priest for ever, after ye order of Melchisedek."
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "So likewise Christ tooke not to him selfe this honour, to be made the hie Priest, but hee that sayd vnto him, Thou art my Sonne, this day begate I thee, gaue it him. As he also in another place speaketh, Thou art a Priest for euer, after ye order of Melchi-sedec.",
+     "source": "https://ebible.org/enggnv/HEB05.htm"
+    },
+    "greek_byz": {
+     "text": "Οὕτως καὶ ὁ Χριστὸς οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα, ἀλλ’ ὁ λαλήσας πρὸς αὐτόν Υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε· Καθὼς καὶ ἐν ἑτέρῳ λέγει Σὺ ἱερεὺς εἰς τὸν αἰῶνα κατὰ τὴν τάξιν Μελχισέδεκ.",
+     "source": "https://biblehub.com/text/hebrews/5-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/5"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.21",
+   "ref": "HEB 7 21",
+   "uses": [
+    {
+     "section": "COS-04",
+     "section_label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation",
+     "cited_as": "Greek excerpt + Geneva rows",
+     "quotes": [
+      "But this is made with an oath by him that said unto him, The Lord hath sworn, and will not repent, Thou art a Priest for ever, after the order of Melchisedek)"
+     ],
+     "status": "differs-minor",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Geneva 7:21 = \"But this is made with an oath...\" (TRB concurs); draft excerpt = its second half; seated in entirety; Greek = exact (the draft's excerpt matches).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "But this is made with an oath by him that said unto him, The Lord hath sworn, and will not repent, Thou art a Priest for ever, after the order of Melchisedek)"
+     }
+    }
+   ],
+   "verified": "2026-11-10",
+   "translations": {
+    "gnv": {
+     "text": "But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    },
+    "greek_byz": {
+     "text": "ὁ δὲ μετὰ ὁρκωμοσίας διὰ τοῦ λέγοντος πρὸς αὐτόν Ὤμοσεν Κύριος, καὶ οὐ μεταμεληθήσεται Σὺ ἱερεὺς εἰς τὸν αἰῶνα·—",
+     "source": "https://biblehub.com/text/hebrews/7-21.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/7"
     }
    }
   }

@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**116 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**132 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**287 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**303 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -958,14 +958,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-10 · editions fetched: brenton, gnv, nets*
 - *Double-checked (second source): gnv ✓*
 
-### Haggai 2:7 (LXX) — DIFFERS (MINOR)
+### Haggai 2:7 (LXX) — CONFIRMED
 *cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **NETS (Septuagint, modern):** “...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.”
 - **Brenton LXX:** “and I will shake all nations, and the choice portions of all the nations shall come: and I will fill this house with glory, saith the Lord Almighty.”
 - **Geneva 1599:** “And I will moue all nations, and the desire of all nations shall come, and I will fill this House with glory, sayth the Lord of hostes.”
-- **Second pass pending:** NETS seat pending (Twelve). Geneva row to be replaced by NETS at the Twelve wave; GNV clause sits at 2:8 (Geneva numbering).
 - **Ruling — apply NETS (Septuagint, modern) exact:** “PENDING-NETS-TWELVE”
   (NETS Twelve volume parse scheduled next wave.)
-- *Checked 2026-11-10 · editions fetched: brenton, gnv, greek_rahlfs*
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, greek_blb-lxx, greek_rahlfs, nets*
 - *Double-checked (second source): gnv ✓*
 
 ### Revelation 5:5 — CONFIRMED (EXCERPT)
@@ -999,6 +999,130 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Saying, Where is that King of the Iewes that is borne? for wee haue seene his starre in the East, and are come to worship him.”
 - **Ruling — apply Geneva 1599 exact:** “Saying, Where is that King of the Jews that is born? for wee have seene his star in the East, and are come to worship him.”
   (Standing rule: NT seats Geneva verbatim.)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+## THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father
+
+### PS 2 1-2 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed.”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### PS 2 6-7 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft*
+- **NETS (Septuagint, modern):** “"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, "My son you are; today I have begotten you."”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, "My son you are; today I have begotten you."”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### PS 2 8 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft*
+- **NETS (Septuagint, modern):** “Ask of me, and I will give you nations as your heritage, and as your possession the ends of the earth.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Ask of me, and I will give you nations as your heritage, and as your possession the ends of the earth.”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### PS 2 12 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft*
+- **NETS (Septuagint, modern):** “Seize upon instruction *(grasp discipline)*, lest the Lord be angry, and you will perish from the righteous way, when his anger quickly blazes out. Happy are all who trust in him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Seize upon instruction *(grasp discipline)*, lest the Lord be angry, and you will perish from the righteous way, when his anger quickly blazes out. Happy are all who trust in him.”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### ACT 2 36 — CONFIRMED
+*cited as: Greek + Geneva rows*
+- **Geneva 1599:** “Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- **Ruling — apply Geneva 1599 exact:** “For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified.”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### ACT 13 32-33 — CONFIRMED
+*cited as: Greek + Geneva rows*
+- **Geneva 1599:** “And we declare vnto you, that touching the promise made vnto the fathers, God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.”
+- **Ruling — apply Geneva 1599 exact:** “And we declare unto you, that touching the promise made unto the fathers, God hath fulfilled it unto us their children, in that he raised vp Jesus, even as it is written in the second Psalm, Thou art my Son: this day have I begotten thee.”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### ROM 1 3-4 — CONFIRMED
+*cited as: Greek + Geneva rows*
+- **Geneva 1599:** “Concerning his Sonne Iesus Christ our Lord (which was made of the seede of Dauid according to the flesh, And declared mightily to be the Sonne of God, touching the Spirit of sanctification by the resurrection from the dead)”
+- **Ruling — apply Geneva 1599 exact:** “Concerning his Son Jesus Christ our Lord (which was made of the seed of David according to the flesh, And declared mightily to be the Son of God, touching the Spirit of sanctification by the resurrection from the dead)”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### MAT 28 18 — CONFIRMED
+*cited as: Greek excerpt row*
+- **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
+- **Ruling — apply Geneva 1599 exact:** “And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth.”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+## THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
+
+### PS 109 1 — CONFIRMED
+*cited as: LXX Greek + Geneva rows*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### PS 109 3 — DIFFERS-SIGNIFICANT
+*cited as: LXX Greek + Geneva rows*
+- **NETS (Septuagint, modern):** “With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth.”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### PS 109 4 — CONFIRMED
+*cited as: LXX Greek + Geneva rows*
+- **NETS (Septuagint, modern):** “The Lord swore and will not change his mind, "You are a priest forever according to the order of Melchisedek *(Melchizedek)*."”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord swore and will not change his mind, "You are a priest forever according to the order of Melchisedek *(Melchizedek)*."”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### PS 109 5 — CONFIRMED
+*cited as: LXX Greek + Geneva rows*
+- **NETS (Septuagint, modern):** “The Lord at your right *(your right hand)* shattered kings on a day of his wrath.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord at your right *(your right hand)* shattered kings on a day of his wrath.”
+  ()
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### MAT 22 41-45 — CONFIRMED
+*cited as: Greek + Geneva rows*
+- **Geneva 1599:** “While the Pharises were gathered together, Iesus asked them, Saying, What thinke ye of Christ? whose sonne is he? They sayd vnto him, Dauids. He sayd vnto them, How then doeth Dauid in spirit call him Lord, saying, The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole? If then Dauid call him Lord, howe is he his sonne?”
+- **Ruling — apply Geneva 1599 exact:** “While the Pharisees were gathered together, Jesus asked them, Saying, What think ye of Christ? whose son is he? They said unto him, Davids. He said unto them, How then doth David in spirit call him Lord, saying, The Lord said to my Lord, Sit at my right hand, till I make thine enemies thy footstool? If then David call him Lord, how is he his son?”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### ACT 2 34-36 — CONFIRMED
+*cited as: Greek + Geneva rows*
+- **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- **Ruling — apply Geneva 1599 exact:** “For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified.”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### HEB 5 5-6 — DIFFERS (MINOR)
+*cited as: Greek + Geneva rows*
+- **Geneva 1599:** “So likewise Christ tooke not to him selfe this honour, to be made the hie Priest, but hee that sayd vnto him, Thou art my Sonne, this day begate I thee, gaue it him. As he also in another place speaketh, Thou art a Priest for euer, after ye order of Melchi-sedec.”
+- **Ruling — apply Geneva 1599 exact:** “So likewise Christ took not to himself this honor, to be made the high Priest, but he that said unto him, Thou art my Son, this day begat I thee, gave it him. As he also in another place speaketh, Thou art a Priest for ever, after ye order of Melchisedek.”
+  ()
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### HEB 7 21 — DIFFERS (MINOR)
+*cited as: Greek excerpt + Geneva rows*
+- **Geneva 1599:** “But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)”
+- **Ruling — apply Geneva 1599 exact:** “But this is made with an oath by him that said unto him, The Lord hath sworn, and will not repent, Thou art a Priest for ever, after the order of Melchisedek)”
+  ()
 - *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
 
@@ -2922,10 +3046,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -3021,11 +3145,27 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 11:17-19 | COS-02 | confirmed |
 | Matthew 3:17 | COS-02 | differs (minor) |
 | Genesis 49:10 | COS-02 | confirmed |
-| Haggai 2:7 (LXX) | COS-02 | differs (minor) |
+| Haggai 2:7 (LXX) | COS-02 | confirmed |
 | Revelation 5:5 | COS-02 | confirmed (excerpt) |
 | Revelation 22:16 | COS-02 | confirmed |
 | Numbers 24:17 | COS-02 | confirmed |
 | Matthew 2:2 (Geneva) | COS-02 | differs (minor) |
+| PS 2 1-2 | COS-03 | confirmed |
+| PS 2 6-7 | COS-03 | confirmed |
+| PS 2 8 | COS-03 | confirmed |
+| PS 2 12 | COS-03 | confirmed |
+| ACT 2 36 | COS-03 | confirmed |
+| ACT 13 32-33 | COS-03 | confirmed |
+| ROM 1 3-4 | COS-03 | confirmed |
+| MAT 28 18 | COS-03 | confirmed |
+| PS 109 1 | COS-04 | confirmed |
+| PS 109 3 | COS-04 | differs-significant |
+| PS 109 4 | COS-04 | confirmed |
+| PS 109 5 | COS-04 | confirmed |
+| MAT 22 41-45 | COS-04 | confirmed |
+| ACT 2 34-36 | COS-04 | confirmed |
+| HEB 5 5-6 | COS-04 | differs (minor) |
+| HEB 7 21 | COS-04 | differs (minor) |
 
 ## The editions used
 

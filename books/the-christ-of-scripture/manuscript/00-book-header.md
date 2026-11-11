@@ -16,10 +16,16 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
 5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
 6. Summary: The Earliest Posits of the Son
+7. PSALM 2 (LXX): The Anointed Son Begotten by the Father
+8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
+9. *A Question Arising: Proverbs 8 and Micah 5:2 (chat-framed; their wave)*
 3. POSIT #2 — Genesis 22: The Beloved Son Offered by the Father
 4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
 5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
 6. Summary: The Earliest Posits of the Son
+7. PSALM 2 (LXX): The Anointed Son Begotten by the Father
+8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
+9. *A Question Arising: Proverbs 8 and Micah 5:2 (chat-framed; their wave)*
 
 ---
 
