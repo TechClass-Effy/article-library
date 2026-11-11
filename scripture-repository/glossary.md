@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**149 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**160 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**320 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**331 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -185,8 +185,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Brenton LXX:** “saying, I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son,”
 - **Geneva 1599:** “And saide, By my selfe haue I sworne (saith ye Lord) because thou hast done this thing, and hast not spared thine onely sonne,”
 - **KJV:** “And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets ✓*
 
 ### Isaiah 52:13 — CONFIRMED
 *cited as: brenton*
@@ -1268,6 +1268,107 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “Saith not the Scripture that that Christ shall come of the seed of David, and out of the town of Beth-leem, where David was?”
   ()
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+## THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)
+
+### GEN 16 7 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “But the Angel of the Lord found her beside a fountain of water in the wilderness by the fountain in the way to Shur,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour *(Shur)*. And the angel of the Lord said to her, “Hagar, slave-girl of Sara *(Sarai)*, where are you coming from, and where are you going?””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · greek_rahlfs ✓ · greek_swete ✓*
+
+### GEN 16 8 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And he said, Hagar Sarai's maid, whence comest thou? and whither wilt thou go? And she said, I flie from my dame Sarai.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour *(Shur)*. And the angel of the Lord said to her, “Hagar, slave-girl of Sara *(Sarai)*, where are you coming from, and where are you going?””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓*
+
+### GEN 16 10 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Again the Angel of the Lord said unto her, I will so greatly increase thy seed, that it shall not be numbered for multitude.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · greek_rahlfs ✓ · greek_swete ✓*
+
+### GEN 16 13 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Then she called the name of the Lord, that spake unto her, Thou God lookest on me: for she said, Have I not also here looked after him that seeth me?”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*,” because she said, “For truly I saw him face to face when he appeared to me.””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · greek_rahlfs ✓ · greek_swete ✓*
+
+## THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)
+
+### Genesis 22:16 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Brenton LXX:** “saying, I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son,”
+- **Geneva 1599:** “And saide, By my selfe haue I sworne (saith ye Lord) because thou hast done this thing, and hast not spared thine onely sonne,”
+- **KJV:** “And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …””
+  ()
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets ✓*
+
+### GEN 22 11 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “But the Angel of the Lord called unto him from heaven, saying, Abraham, Abraham. And he answered, Here am I.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called him from the sky *(heaven)* and said to him, “Abraam *(Abraham)*, Abraam!” And he said, “Here I am.” And he said, “Do not lay your hand on the youngster *(the boy)* nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · greek_rahlfs ✓ · greek_swete ✓*
+
+### GEN 22 12 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Then he said, Lay not thine hand upon the child, neither do any thing unto him: for now I know that thou fearest God, seeing for my sake thou hast not spared thine only son.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called him from the sky *(heaven)* and said to him, “Abraam *(Abraham)*, Abraam!” And he said, “Here I am.” And he said, “Do not lay your hand on the youngster *(the boy)* nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓*
+
+### GEN 22 15 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And the Angel of the Lord cried unto Abraham from heaven the second time,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · greek_rahlfs ✓ · greek_swete ✓*
+
+### GEN 22 17 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Therefore will I surely bless thee, and will greatly multiply thy seed, as the stars of the heaven, and as the sand which is upon the seashore, and thy seed shall possesse the gate of his enemies.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …””
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓*
+
+### GEN 22 18 — ANCHOR
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “And in thy seed shall all the nations of the earth be blessed, because thou hast obeyed my voyce.”
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓*
+
+### HEB 6 13 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself,”
+- **Ruling — apply Geneva 1599 exact:** “For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### HEB 6 14 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **Geneva 1599:** “Saying, Surely I will abundantly bless thee and multiply thee marvelously.”
+- **Ruling — apply Geneva 1599 exact:** “For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously.”
+  ()
+- *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): trb ✓*
 
 # THE BIBLICAL SABBATH
@@ -3026,7 +3127,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 22:8 | P1-Q8, COS-02 | confirmed |
 | Genesis 22:13 | P1-Q8 | confirmed |
 | Genesis 22:14 | P1-Q8 | confirmed |
-| Genesis 22:16 | P1-Q8 | confirmed |
+| Genesis 22:16 | P1-Q8, COS-08 | confirmed |
 | Exodus 3:14 | P8 | anchor, commentary |
 | Exodus 3:15 | P1-Q3, P2, CLOSE | confirmed |
 | Exodus 6:3 | P1-Q3 | confirmed |
@@ -3340,6 +3441,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | MAT 2 5 | COS-06 | confirmed |
 | MAT 2 6 | COS-06 | confirmed |
 | JHN 7 42 | COS-06 | confirmed |
+| GEN 16 7 | COS-07 | confirmed |
+| GEN 16 8 | COS-07 | confirmed |
+| GEN 16 10 | COS-07 | confirmed |
+| GEN 16 13 | COS-07 | confirmed |
+| GEN 22 11 | COS-08 | confirmed |
+| GEN 22 12 | COS-08 | confirmed |
+| GEN 22 15 | COS-08 | confirmed |
+| GEN 22 17 | COS-08 | confirmed |
+| GEN 22 18 | COS-08 | anchor |
+| HEB 6 13 | COS-08 | confirmed |
+| HEB 6 14 | COS-08 | confirmed |
 
 ## The editions used
 

@@ -58,7 +58,9 @@
    "COS-03",
    "COS-04",
    "COS-05",
-   "COS-06"
+   "COS-06",
+   "COS-07",
+   "COS-08"
   ],
   "sections": [
    {
@@ -238,6 +240,14 @@
    {
     "key": "COS-06",
     "label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars"
+   },
+   {
+    "key": "COS-07",
+    "label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)"
+   },
+   {
+    "key": "COS-08",
+    "label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)"
    }
   ],
   "double_check": {
@@ -282,7 +292,8 @@
     "known remaining interior gaps (not cited in this book): EXO 37-39, ISA 9, JER 52"
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
-  }
+  },
+  "so_far_words": 10136
  },
  "verses": [
   {
@@ -622,9 +633,26 @@
      "status": "confirmed",
      "matched_source": "brenton",
      "note": ""
+    },
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 22:15-18 group seat (ellipsis tail).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
+     }
     }
    ],
-   "verified": "2026-11-02",
+   "verified": "2026-11-11",
    "translations": {
     "brenton": {
      "text": "saying, I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son,",
@@ -651,6 +679,10 @@
     "brenton": {
      "result": "agree",
      "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    },
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
     }
    }
   },
@@ -13819,6 +13851,450 @@
     "trb": {
      "result": "agree (normalized word-for-word, eBible=TRB)",
      "url": "https://textusreceptusbibles.com/Geneva/43/7"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.7",
+   "ref": "GEN 16 7",
+   "uses": [
+    {
+     "section": "COS-07",
+     "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour *(Shur)*. And the angel of the Lord said to her, “Hagar, slave-girl of Sara *(Sarai)*, where are you coming from, and where are you going?”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Group seat 16:7-8a (draft quote ends at \"where are you going?\"; v8 answer-tail not seated). Draft LXX row word-checked vs Rahlfs (100%) and Swete (100%); draft Geneva OT row dropped per seat shape. Draft Geneva row added \"that is\" (\"by the fountain that is in the way\") vs the Geneva print \"by the fountain in the way\" — edition stands.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour *(Shur)*. And the angel of the Lord said to her, “Hagar, slave-girl of Sara *(Sarai)*, where are you coming from, and where are you going?”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But the Angel of the Lord found her beside a fountain of water in the wilderness by the fountain in the way to Shur,",
+     "source": "https://ebible.org/enggnv/GEN16.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "Εὗρεν δὲ αὐτὴν ἄγγελος κυρίου ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ, ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σουρ. καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Αγαρ παιδίσκη Σαρας, πόθεν ἔρχῃ καὶ ποῦ πορεύῃ; καὶ εἶπεν Ἀπὸ προσώπου Σαρας τῆς κυρίας μου ἐγὼ ἀποδιδράσκω.",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    },
+    "greek_swete": {
+     "text": "39;s Septuagint &middot; every word parsed 1 Σάρα δὲ ἡ γυνὴ Ἀβρὰμ οὐκ ἔτικτεν αὐτῷ ἦν δὲ αὐτῇ παιδίσκη Αἰγυπτία ᾗ ὄνομα Ἁγάρ . 2 εἶπεν δὲ Σάρα πρὸς Ἀβράμ ἰδοὺ συνέκλεισέν με Κύριος τοῦ μὴ τίκτειν · εἴσελθε οὖν πρὸς τὴν παιδίσκην μου , ἴνα τεκνοποιήσεις ἐξ αὐτῆς . ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς . 3 καὶ λαβοῦσα Σάρα ἡ γυνὴ Ἀβρὰμ Ἁγὰρ τὴν Αἰγυπτίαν τὴν ἑαυτῆς παιδίσκην , μετὰ δέκα ἔτη τοῦ οἰκῆσαι Ἀβρὰμ ἐν γῇ Χανάαν , καὶ ἔδωκεν αὐτὴν τῷ Ἀβρὰμ ἀνδρὶ αὐτῆς αὐτῷ γυναῖκα . 4 καὶ εἰσῆλθεν πρὸς Ἁγάρ , καὶ συνέλαβεν · καὶ ἴδεν ὅτι ἐν γαστρὶ ὦι , καὶ ἡ κυρία ἐναντίον αὐτῆς . 5 εἶπεν δὲ Σάρα πρὸς Ἀβράμ Ἀδικοῦμαι ἐκ σοῦ · ἐγὼ δέδωκα τὴν παιδίσκην μου εἰς τὸν κόλπον σου · ἰδοῦσα δὲ ὄτι ἐν γαατρὶ ὦι , ἠτιμάσθην ἐναντίον αὐτῆς . κρίναι ὁ θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ . 6 εἶπεν δὲ Ἀβρὰμ πρὸς Σάραν Ἴδου ἡ παιδίσκη ¶ Α σου ἐναντίον ¶ σου · χρῶ αὐτῇ ὡς δ ’ ἄν σοι ἀρεστὸν ᾖ . καὶ ἐκάκωσεν αὐτὴν Σάρα , καὶ ἀπέδρα ἀπὸ προσώπου αὐτῆς . 7 εὗρεν δὲ αὐτὴν ἄἡλος κυρίου τοῦ θεοῦ ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ , ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σούρ . 8 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Ἅγαρ παιδίσκη Σάρας , πόθεν ἔρχῃ ; καὶ ποῦ πορεύῃ ; καὶ εἶπεν Ἀπὸ προσώπου Σάραςτῆς κυρίας μου ἐγὼ ἀποδιδράσκω . 9 εἶπεν δὲ αὐτῇ ὁ ἄγγελος κυρίου Ἀποστράφηθι πρὸς τὴν κυρίαν σου καὶ ταπεινώθητι ὑπὸ τὰς § Α χεῖρας αὐτῆς . § 10 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου πληθύνων πληθυνῶ τὸ σπέρμα σου , καὶ οὐκ ἀριθμήσεται ἀπὸ τοῦ πλήθους . 11 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου ἰδοὺ σὺ ἐν γαστρὶ ἔχεις , καὶ τέξῃ υἱόν , καὶ κολέσεις τὸ ὄνομα α",
+     "source": "https://www.theancientbible.org/genesis-lxx-16/",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.8",
+   "ref": "GEN 16 8",
+   "uses": [
+    {
+     "section": "COS-07",
+     "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour *(Shur)*. And the angel of the Lord said to her, “Hagar, slave-girl of Sara *(Sarai)*, where are you coming from, and where are you going?”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 16:7-8 group seat; seated to the question (draft cut); v8 answer-tail not seated.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour *(Shur)*. And the angel of the Lord said to her, “Hagar, slave-girl of Sara *(Sarai)*, where are you coming from, and where are you going?”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he said, Hagar Sarai's maid, whence comest thou? and whither wilt thou go? And she said, I flie from my dame Sarai.",
+     "source": "https://ebible.org/enggnv/GEN16.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.10",
+   "ref": "GEN 16 10",
+   "uses": [
+    {
+     "section": "COS-07",
+     "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Draft LXX row word-checked vs Rahlfs (100%) and Swete (94%); draft Geneva OT row dropped per seat shape.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Again the Angel of the Lord said unto her, I will so greatly increase thy seed, that it shall not be numbered for multitude.",
+     "source": "https://ebible.org/enggnv/GEN16.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Πληθύνων πληθυνῶ τὸ σπέρμα σου, καὶ οὐκ ἀριθμηθήσεται ἀπὸ τοῦ πλήθους.",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    },
+    "greek_swete": {
+     "text": "39;s Septuagint &middot; every word parsed 1 Σάρα δὲ ἡ γυνὴ Ἀβρὰμ οὐκ ἔτικτεν αὐτῷ ἦν δὲ αὐτῇ παιδίσκη Αἰγυπτία ᾗ ὄνομα Ἁγάρ . 2 εἶπεν δὲ Σάρα πρὸς Ἀβράμ ἰδοὺ συνέκλεισέν με Κύριος τοῦ μὴ τίκτειν · εἴσελθε οὖν πρὸς τὴν παιδίσκην μου , ἴνα τεκνοποιήσεις ἐξ αὐτῆς . ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς . 3 καὶ λαβοῦσα Σάρα ἡ γυνὴ Ἀβρὰμ Ἁγὰρ τὴν Αἰγυπτίαν τὴν ἑαυτῆς παιδίσκην , μετὰ δέκα ἔτη τοῦ οἰκῆσαι Ἀβρὰμ ἐν γῇ Χανάαν , καὶ ἔδωκεν αὐτὴν τῷ Ἀβρὰμ ἀνδρὶ αὐτῆς αὐτῷ γυναῖκα . 4 καὶ εἰσῆλθεν πρὸς Ἁγάρ , καὶ συνέλαβεν · καὶ ἴδεν ὅτι ἐν γαστρὶ ὦι , καὶ ἡ κυρία ἐναντίον αὐτῆς . 5 εἶπεν δὲ Σάρα πρὸς Ἀβράμ Ἀδικοῦμαι ἐκ σοῦ · ἐγὼ δέδωκα τὴν παιδίσκην μου εἰς τὸν κόλπον σου · ἰδοῦσα δὲ ὄτι ἐν γαατρὶ ὦι , ἠτιμάσθην ἐναντίον αὐτῆς . κρίναι ὁ θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ . 6 εἶπεν δὲ Ἀβρὰμ πρὸς Σάραν Ἴδου ἡ παιδίσκη ¶ Α σου ἐναντίον ¶ σου · χρῶ αὐτῇ ὡς δ ’ ἄν σοι ἀρεστὸν ᾖ . καὶ ἐκάκωσεν αὐτὴν Σάρα , καὶ ἀπέδρα ἀπὸ προσώπου αὐτῆς . 7 εὗρεν δὲ αὐτὴν ἄἡλος κυρίου τοῦ θεοῦ ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ , ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σούρ . 8 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Ἅγαρ παιδίσκη Σάρας , πόθεν ἔρχῃ ; καὶ ποῦ πορεύῃ ; καὶ εἶπεν Ἀπὸ προσώπου Σάραςτῆς κυρίας μου ἐγὼ ἀποδιδράσκω . 9 εἶπεν δὲ αὐτῇ ὁ ἄγγελος κυρίου Ἀποστράφηθι πρὸς τὴν κυρίαν σου καὶ ταπεινώθητι ὑπὸ τὰς § Α χεῖρας αὐτῆς . § 10 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου πληθύνων πληθυνῶ τὸ σπέρμα σου , καὶ οὐκ ἀριθμήσεται ἀπὸ τοῦ πλήθους . 11 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου ἰδοὺ σὺ ἐν γαστρὶ ἔχεις , καὶ τέξῃ υἱόν , καὶ κολέσεις τὸ ὄνομα α",
+     "source": "https://www.theancientbible.org/genesis-lxx-16/",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.13",
+   "ref": "GEN 16 13",
+   "uses": [
+    {
+     "section": "COS-07",
+     "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*,” because she said, “For truly I saw him face to face when he appeared to me.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Draft LXX row word-checked vs Rahlfs (100%) and Swete (91%); draft Geneva OT row dropped per seat shape. NETS prints the LXX compound name; glossed at the spot.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*,” because she said, “For truly I saw him face to face when he appeared to me.”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then she called the name of the Lord, that spake unto her, Thou God lookest on me: for she said, Have I not also here looked after him that seeth me?",
+     "source": "https://ebible.org/enggnv/GEN16.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἐκάλεσεν Αγαρ τὸ ὄνομα κυρίου τοῦ λαλοῦντος πρὸς αὐτήν Σὺ ὁ θεὸς ὁ ἐπιδών με· ὅτι εἶπεν Καὶ γὰρ ἐνώπιον εἶδον ὀφθέντα μοι.",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    },
+    "greek_swete": {
+     "text": "39;s Septuagint &middot; every word parsed 1 Σάρα δὲ ἡ γυνὴ Ἀβρὰμ οὐκ ἔτικτεν αὐτῷ ἦν δὲ αὐτῇ παιδίσκη Αἰγυπτία ᾗ ὄνομα Ἁγάρ . 2 εἶπεν δὲ Σάρα πρὸς Ἀβράμ ἰδοὺ συνέκλεισέν με Κύριος τοῦ μὴ τίκτειν · εἴσελθε οὖν πρὸς τὴν παιδίσκην μου , ἴνα τεκνοποιήσεις ἐξ αὐτῆς . ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς . 3 καὶ λαβοῦσα Σάρα ἡ γυνὴ Ἀβρὰμ Ἁγὰρ τὴν Αἰγυπτίαν τὴν ἑαυτῆς παιδίσκην , μετὰ δέκα ἔτη τοῦ οἰκῆσαι Ἀβρὰμ ἐν γῇ Χανάαν , καὶ ἔδωκεν αὐτὴν τῷ Ἀβρὰμ ἀνδρὶ αὐτῆς αὐτῷ γυναῖκα . 4 καὶ εἰσῆλθεν πρὸς Ἁγάρ , καὶ συνέλαβεν · καὶ ἴδεν ὅτι ἐν γαστρὶ ὦι , καὶ ἡ κυρία ἐναντίον αὐτῆς . 5 εἶπεν δὲ Σάρα πρὸς Ἀβράμ Ἀδικοῦμαι ἐκ σοῦ · ἐγὼ δέδωκα τὴν παιδίσκην μου εἰς τὸν κόλπον σου · ἰδοῦσα δὲ ὄτι ἐν γαατρὶ ὦι , ἠτιμάσθην ἐναντίον αὐτῆς . κρίναι ὁ θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ . 6 εἶπεν δὲ Ἀβρὰμ πρὸς Σάραν Ἴδου ἡ παιδίσκη ¶ Α σου ἐναντίον ¶ σου · χρῶ αὐτῇ ὡς δ ’ ἄν σοι ἀρεστὸν ᾖ . καὶ ἐκάκωσεν αὐτὴν Σάρα , καὶ ἀπέδρα ἀπὸ προσώπου αὐτῆς . 7 εὗρεν δὲ αὐτὴν ἄἡλος κυρίου τοῦ θεοῦ ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ , ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σούρ . 8 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Ἅγαρ παιδίσκη Σάρας , πόθεν ἔρχῃ ; καὶ ποῦ πορεύῃ ; καὶ εἶπεν Ἀπὸ προσώπου Σάραςτῆς κυρίας μου ἐγὼ ἀποδιδράσκω . 9 εἶπεν δὲ αὐτῇ ὁ ἄγγελος κυρίου Ἀποστράφηθι πρὸς τὴν κυρίαν σου καὶ ταπεινώθητι ὑπὸ τὰς § Α χεῖρας αὐτῆς . § 10 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου πληθύνων πληθυνῶ τὸ σπέρμα σου , καὶ οὐκ ἀριθμήσεται ἀπὸ τοῦ πλήθους . 11 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου ἰδοὺ σὺ ἐν γαστρὶ ἔχεις , καὶ τέξῃ υἱόν , καὶ κολέσεις τὸ ὄνομα α",
+     "source": "https://www.theancientbible.org/genesis-lxx-16/",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.11",
+   "ref": "GEN 22 11",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the Lord’s angel called him from the sky *(heaven)* and said to him, “Abraam *(Abraham)*, Abraam!” And he said, “Here I am.” And he said, “Do not lay your hand on the youngster *(the boy)* nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Group seat 22:11-12. Draft LXX row word-checked vs Rahlfs (97%) and Swete (97%); draft Geneva OT row dropped per seat shape.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called him from the sky *(heaven)* and said to him, “Abraam *(Abraham)*, Abraam!” And he said, “Here I am.” And he said, “Do not lay your hand on the youngster *(the boy)* nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But the Angel of the Lord called unto him from heaven, saying, Abraham, Abraham. And he answered, Here am I.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Αβρααμ, Αβρααμ. ὁ δὲ εἶπεν Ἰδοὺ ἐγώ. καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον μηδὲ ποιήσῃς αὐτῷ μηδέν· νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σὺ καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι’ ἐμέ.",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    },
+    "greek_swete": {
+     "text": "ν αὐτοῦ . 11 καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Ἀβραὰμ Ἀβραάμ . ὁ δὲ εἶπεν ἰδοὺ ἐγώ . 12 καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον , μηδὲ ποιήσης αὐτῷ μηδέν · νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σύ , καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ . 13 καὶ ἀναβλέψας Ἀβραὰμ τοῖς ὀφθαλμοῖς αὐτοῦ ἴδεν , καὶ ἰδοὺ κριὸς εἷς κατεχόμενος ἐν φυτῷ σαβὲκ τῶν κεράτων . καὶ ἐπορεύθη Ἀβραὰμ καὶ ἔλαβεν τὸν κριόν , καὶ ἀνήνεγκεν αὐτὸν εἰς ὁλοκάρπωσιν ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ . 14 καὶ ἐκάλεσεν Ἀβραὰμ τὸ ὄνομα τοῦ τόπου ἐκείνου κύριος ἴδεν · ἵνα εἴπωσιν σήμερον Ἐν τῷ ὄρει κύριος ὤφθη . 15 καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Ἀβραὰμ τερον ἐκ τοῦ οὐρανοῦ λέγων 16 Κατ᾿ ἐμαυτοῦ ὤμοσα , λέγει κύριος , οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ , 17 εἰ μὴν μὴν εὐλογῶν εὐλογήσω σε , καὶ πλῆ πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης · καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων . 18 καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματι ¶ σου πάντα τὰ ἔθνη , ἀνθ ’ ὦν ὑπήκουσας τῆς ἐμῆς φωνῆς . 19 ἀπεστράφη δὲ Ἀβραὰμ πρὸς τοὺς παῖδας αὐτοῦ , καὶ ἀναστάντες ἐπορεύθησαν ἐπὶ τὸ φρέαρ τοῦ ὅρκου · καὶ κατῴκησεν Ἀβραὰμ ἐπὶ τῷ φρέατι τοῦ ὅρκου . 20 Ἐγένετο δὲ μετὰ τὰ ῥήματα ταῦτα καὶ ἀνηηέλη τῷ Ἀβραὰμ λέγοντες Ἰδοὺ τέτοκεν Μελχὰ καὶ αὐτὴ υἱοὺς Ναχώρ τῷ ἀδελφῷ σου , 21 τὸν Ὢξ πρωτότοκον καὶ τὸν Βαὺξ ἀδελφὸν αὐτοῦ , καὶ τὸν Καμουὴλ πατέρα Σύρων , § 22 καὶ τὸν Χάσζαδ καὶ τὸν Ἁζαῦ καὶ τὸν φαλδὰ",
+     "source": "https://www.theancientbible.org/genesis-lxx-22/",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.12",
+   "ref": "GEN 22 12",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the Lord’s angel called him from the sky *(heaven)* and said to him, “Abraam *(Abraham)*, Abraam!” And he said, “Here I am.” And he said, “Do not lay your hand on the youngster *(the boy)* nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 22:11-12 group seat (one blockquote). Swete reads ποιήσης where Rahlfs (and NETS) have ποιήσῃς.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called him from the sky *(heaven)* and said to him, “Abraam *(Abraham)*, Abraam!” And he said, “Here I am.” And he said, “Do not lay your hand on the youngster *(the boy)* nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then he said, Lay not thine hand upon the child, neither do any thing unto him: for now I know that thou fearest God, seeing for my sake thou hast not spared thine only son.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.15",
+   "ref": "GEN 22 15",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Group seat 22:15-18: draft quote (and seat) cut at the seashore clause; ellipsis covers rest of v17 + v18. Draft LXX row word-checked vs Rahlfs (96%) and Swete (89%); draft Geneva OT row dropped per seat shape.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And the Angel of the Lord cried unto Abraham from heaven the second time,",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Αβρααμ δεύτερον ἐκ τοῦ οὐρανοῦ λέγων Κατ’ ἐμαυτοῦ ὤμοσα, λέγει κύριος, οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι’ ἐμέ, ἦ μὴν εὐλογῶν εὐλογήσω σε καὶ πληθύνων πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν ἄμμον τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης, καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων·",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    },
+    "greek_swete": {
+     "text": "ν αὐτοῦ . 11 καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Ἀβραὰμ Ἀβραάμ . ὁ δὲ εἶπεν ἰδοὺ ἐγώ . 12 καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον , μηδὲ ποιήσης αὐτῷ μηδέν · νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σύ , καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ . 13 καὶ ἀναβλέψας Ἀβραὰμ τοῖς ὀφθαλμοῖς αὐτοῦ ἴδεν , καὶ ἰδοὺ κριὸς εἷς κατεχόμενος ἐν φυτῷ σαβὲκ τῶν κεράτων . καὶ ἐπορεύθη Ἀβραὰμ καὶ ἔλαβεν τὸν κριόν , καὶ ἀνήνεγκεν αὐτὸν εἰς ὁλοκάρπωσιν ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ . 14 καὶ ἐκάλεσεν Ἀβραὰμ τὸ ὄνομα τοῦ τόπου ἐκείνου κύριος ἴδεν · ἵνα εἴπωσιν σήμερον Ἐν τῷ ὄρει κύριος ὤφθη . 15 καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Ἀβραὰμ τερον ἐκ τοῦ οὐρανοῦ λέγων 16 Κατ᾿ ἐμαυτοῦ ὤμοσα , λέγει κύριος , οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ , 17 εἰ μὴν μὴν εὐλογῶν εὐλογήσω σε , καὶ πλῆ πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης · καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων . 18 καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματι ¶ σου πάντα τὰ ἔθνη , ἀνθ ’ ὦν ὑπήκουσας τῆς ἐμῆς φωνῆς . 19 ἀπεστράφη δὲ Ἀβραὰμ πρὸς τοὺς παῖδας αὐτοῦ , καὶ ἀναστάντες ἐπορεύθησαν ἐπὶ τὸ φρέαρ τοῦ ὅρκου · καὶ κατῴκησεν Ἀβραὰμ ἐπὶ τῷ φρέατι τοῦ ὅρκου . 20 Ἐγένετο δὲ μετὰ τὰ ῥήματα ταῦτα καὶ ἀνηηέλη τῷ Ἀβραὰμ λέγοντες Ἰδοὺ τέτοκεν Μελχὰ καὶ αὐτὴ υἱοὺς Ναχώρ τῷ ἀδελφῷ σου , 21 τὸν Ὢξ πρωτότοκον καὶ τὸν Βαὺξ ἀδελφὸν αὐτοῦ , καὶ τὸν Καμουὴλ πατέρα Σύρων , § 22 καὶ τὸν Χάσζαδ καὶ τὸν Ἁζαῦ καὶ τὸν φαλδὰ",
+     "source": "https://www.theancientbible.org/genesis-lxx-22/",
+     "result": "agree (draft-Greek vs witness word-check pass)"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.17",
+   "ref": "GEN 22 17",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Verse in the 22:15-18 group seat (ellipsis tail).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Therefore will I surely bless thee, and will greatly multiply thy seed, as the stars of the heaven, and as the sand which is upon the seashore, and thy seed shall possesse the gate of his enemies.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.18",
+   "ref": "GEN 22 18",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "Ellipsis: the draft 22:15-18 quote cuts at the seashore clause; v18 not seated (anchor).",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "nets",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And in thy seed shall all the nations of the earth be blessed, because thou hast obeyed my voyce.",
+     "source": "https://ebible.org/enggnv/GEN22.htm"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
+     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "HEB.6.13",
+   "ref": "HEB 6 13",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "NT seat (Hebrews 6:13-14 group seat). eBible + TRB agree word-for-word (normalized). Draft wording identical to the edition.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself,",
+     "source": "https://ebible.org/enggnv/HEB06.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/58/6"
+    }
+   }
+  },
+  {
+   "id": "HEB.6.14",
+   "ref": "HEB 6 14",
+   "uses": [
+    {
+     "section": "COS-08",
+     "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS for OT / Geneva 1599 for NT)",
+     "quotes": [
+      "For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "NT seat (Hebrews 6:13-14 group seat). eBible + TRB agree word-for-word (normalized). Draft wording identical to the edition.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For when God made the promise to Abraham, because he had no greater to swear by, he sware by himself, Saying, Surely I will abundantly bless thee and multiply thee marvelously."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Saying, Surely I will abundantly bless thee and multiply thee marvelously.",
+     "source": "https://ebible.org/enggnv/HEB06.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "result": "agree (normalized word-for-word, eBible=TRB)",
+     "url": "https://textusreceptusbibles.com/Geneva/58/6"
     }
    }
   }

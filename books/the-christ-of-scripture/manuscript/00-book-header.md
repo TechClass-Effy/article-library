@@ -19,7 +19,9 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses (1 Cor 1; Col 1)
 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars
-11. *A Question Now Properly Opened: the Angel of the LORD (next wave)*
+11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)
+12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)
+13. *The remaining appearances (Genesis 31; 32; Hosea 12; Exodus 3) and the Apostolic witnesses — next wave*
 
 ---
 
