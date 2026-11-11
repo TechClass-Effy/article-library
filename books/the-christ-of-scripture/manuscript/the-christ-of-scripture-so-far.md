@@ -16,6 +16,10 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
 5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
 6. Summary: The Earliest Posits of the Son
+3. POSIT #2 — Genesis 22: The Beloved Son Offered by the Father
+4. POSIT #3 — Genesis 49:10: The Scepter and Shiloh
+5. POSIT #4 — Numbers 24:17: The Star Out of Jacob
+6. Summary: The Earliest Posits of the Son
 
 ---
 
@@ -240,7 +244,7 @@ The Lexham English Septuagint keeps the older English for **σπέρμα** *(see
 
 > **A HISTORICAL NOTE:** *The Greek Old Testament was rendered in the third through second centuries before Christ, for Greek-speaking Jews — long before any Christian influence could have shaped its words.*
 
-This is the first prophetic posit of the coming **One** — a single human Person, born of a woman, who will crush the head of the serpent.
+This is the first prophetic posit of the coming **One** — a single human Person, born of a woman, who will crush the head of the serpent *(the Hebrew wording as Geneva renders it; the LXX seat above reads, "he will watch your head")*.
 
 **(2)** "**The seed of the woman**" — not of the man. In the entire patriarchal framework of Scripture, seed is reckoned through the father. This phrase is anomalous — it anticipates a birth not according to the line of a human father. The two witnesses for this anomaly being fulfilled:
 
@@ -286,7 +290,7 @@ This is the first time Scripture uses the word **ἀγαπητός** *(beloved �
 - A father offering his **beloved only son** (**τὸν υἱόν σου τὸν ἀγαπητόν**).
 - On a mountain (later called Moriah — the same range as Jerusalem, where the Christ will be slain).
 - The son **carries the wood of his own sacrifice** (v. 6) — as Christ carried His own cross.
-- The father declares **"God will provide for Himself the lamb"** — the very title John the Baptist will give Jesus: **"ἴδε ὁ ἀμνὸς τοῦ Θεοῦ"** *(behold, the Lamb of God)* (John 1:29).
+- The father declares *"God will see to a sheep as a whole burnt offering for himself" *(NETS)*, which Brenton prints, *"God will provide himself a sheep for a whole-burnt-offering, my son"* — the very title John the Baptist will give Jesus: **"ἴδε ὁ ἀμνὸς τοῦ Θεοῦ"** *(behold, the Lamb of God)* (John 1:29).
 
 **(2) The two witnesses confirming Genesis 22 as a posit of the Son:**
 
@@ -409,4 +413,3 @@ From these four foundational texts — given centuries before any council, any c
 This is the **proper foundation**. Whatever further glories Scripture reveals about the Son must be built upon **this** foundation — not in violation of the Father's exclusive deity declared in Isaiah 44-46, but in the manner Scripture itself unfolds.
 
 Psalm 2 and Psalm 110 (LXX 109) are the most quoted Old Testament texts in the New Testament concerning the Son. They are the keystone of the apostolic preaching about who Jesus is and what office He holds in relation to the One God, the Father.
-

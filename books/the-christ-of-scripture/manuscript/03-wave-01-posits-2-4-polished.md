@@ -16,7 +16,7 @@ This is the first time Scripture uses the word **ἀγαπητός** *(beloved �
 - A father offering his **beloved only son** (**τὸν υἱόν σου τὸν ἀγαπητόν**).
 - On a mountain (later called Moriah — the same range as Jerusalem, where the Christ will be slain).
 - The son **carries the wood of his own sacrifice** (v. 6) — as Christ carried His own cross.
-- The father declares **"God will provide for Himself the lamb"** — the very title John the Baptist will give Jesus: **"ἴδε ὁ ἀμνὸς τοῦ Θεοῦ"** *(behold, the Lamb of God)* (John 1:29).
+- The father declares *"God will see to a sheep as a whole burnt offering for himself" *(NETS)*, which Brenton prints, *"God will provide himself a sheep for a whole-burnt-offering, my son"* — the very title John the Baptist will give Jesus: **"ἴδε ὁ ἀμνὸς τοῦ Θεοῦ"** *(behold, the Lamb of God)* (John 1:29).
 
 **(2) The two witnesses confirming Genesis 22 as a posit of the Son:**
 

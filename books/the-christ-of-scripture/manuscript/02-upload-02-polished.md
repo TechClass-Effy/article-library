@@ -24,7 +24,7 @@ The Lexham English Septuagint keeps the older English for **σπέρμα** *(see
 
 > **A HISTORICAL NOTE:** *The Greek Old Testament was rendered in the third through second centuries before Christ, for Greek-speaking Jews — long before any Christian influence could have shaped its words.*
 
-This is the first prophetic posit of the coming **One** — a single human Person, born of a woman, who will crush the head of the serpent.
+This is the first prophetic posit of the coming **One** — a single human Person, born of a woman, who will crush the head of the serpent *(the Hebrew wording as Geneva renders it; the LXX seat above reads, "he will watch your head")*.
 
 **(2)** "**The seed of the woman**" — not of the man. In the entire patriarchal framework of Scripture, seed is reckoned through the father. This phrase is anomalous — it anticipates a birth not according to the line of a human father. The two witnesses for this anomaly being fulfilled:
 

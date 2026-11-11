@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**77 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**116 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**248 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**287 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -157,10 +157,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Genesis 22:8 — CONFIRMED
 *cited as: brenton*
+- **NETS (Septuagint, modern):** “And Abraam said, “God will see to a sheep as a whole burnt offering for himself, child.” And as both walked on together”
 - **Brenton LXX:** “And Abraam said, God will provide himself a sheep for a whole-burnt-offering, my son. And both having gone together,”
 - **Geneva 1599:** “Then Abraham answered, My sonne, God will prouide him a lambe for a burnt offering: so they went both together.”
 - **KJV:** “And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
 
 ### Genesis 22:13 — CONFIRMED
@@ -638,6 +639,368 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **KJV:** “After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.”
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓*
+
+## THE CHRIST OF SCRIPTURE — 1. The Foundational Confession: The One God (Deut 6:4; Isa 44–46)
+
+### John 8:58 — ANCHOR
+*cited as: named reference (ἐγώ εἰμι formula)*
+- **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
+- **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+- *Note:* Existing banked row now also cited by THE CHRIST OF SCRIPTURE.
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### Isaiah 45:6 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “That they that come from the east and they that come from the west may know that there is no God but me. I am the Lord God, and there is none beside.”
+- **Geneva 1599:** “That they may knowe from the rising of the sunne and from the West, that there is none besides me. I am the Lord, and there is none other.”
+- **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES where significantly different (45:22 “Return upon me”; 45:23 “Unless…”).
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 45:22 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Turn ye to me, and ye shall be saved, ye that come from the end of the earth: I am God, and there is none other.”
+- **Geneva 1599:** “Looke vnto me, and ye shall be saued: all the endes of the earth shall be saued: for I am God, and there is none other.”
+- **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES where significantly different (45:22 “Return upon me”; 45:23 “Unless…”).
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Genesis 1:1 — ANCHOR
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “In the beginning God made the heaven and the earth.”
+- **Geneva 1599:** “In the beginning God created the heauen and the earth.”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### Genesis 1:2 — ANCHOR
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Geneva 1599:** “And the earth was without forme and void, and darkenesse was vpon the deepe, and the Spirit of God mooued vpon the waters.”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### Genesis 1:6 — ANCHOR
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Geneva 1599:** “Againe God said, Let there be a firmament in the mids of the waters: and let it separate the waters from the waters.”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### Psalm 32:6 — COMMENTARY
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.”
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_swete, nets*
+- *Double-checked (second source): nets ✓*
+
+### John 1:1 — ANCHOR
+*cited as: named reference in draft prose*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 1:2 — ANCHOR
+*cited as: named reference in draft prose*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 1:3 — ANCHOR
+*cited as: named reference in draft prose*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Colossians 1:16 — ANCHOR
+*cited as: named reference in draft prose*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Philippians 2:10 — ANCHOR
+*cited as: named reference in draft prose*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Philippians 2:11 — ANCHOR
+*cited as: named reference in draft prose*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** 
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Genesis 3:15 — CONFIRMED
+*cited as: draft "LXX + 1599 Geneva" rows (book seat: NETS/LES for OT, Geneva for NT)*
+- **NETS (Septuagint, modern):** “And I will put enmity between you and between the woman and between your offspring and between her offspring; he will watch your head, and you will watch his heel.””
+- **Brenton LXX:** “And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.”
+- **Geneva 1599:** “I will also put enimitie betweene thee and the woman, and betweene thy seede and her seede. He shall breake thine head, and thou shalt bruise his heele.”
+- **Ruling — proposed (awaiting apply):** LXX family reads "watch your head" (NETS/Brenton; Greek τηρέω); his prose carries "crush" (Geneva/Hebrew family). Options: (a) keep NETS + LES rows and his prose; (b) adjust prose to "keep watch at the serpent's head"; (c) record a Geneva-family exception for this seat. His word decides.
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And I will put enmity between you and between the woman and between your offspring and between her offspring; he will watch your head, and you will watch his heel.”
+  (Standing rule 1: OT seats NETS verbatim; LES row (sourced) where significantly different (offspring vs seed).)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 7:14 — CONFIRMED
+*cited as: draft "LXX + 1599 Geneva" rows (book seat: NETS/LES for OT, Geneva for NT)*
+- **NETS (Septuagint, modern):** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
+- **Brenton LXX:** “Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.”
+- **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
+  (Standing rule 1: OT seats NETS verbatim; LES row noted (not significantly different — both say "the virgin").)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Galatians 4:4 — CONFIRMED
+*cited as: draft "LXX + 1599 Geneva" rows (book seat: NETS/LES for OT, Geneva for NT)*
+- **Geneva 1599:** “But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,”
+- **Ruling — apply Geneva 1599 exact:** “But when the fulness of time was come, God sent forth his Son made of a woman, and made under the Law,”
+  (Standing rule: NT seats Geneva 1599 (modernized spelling).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Deuteronomy 6:4 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
+  (Maxim 4: OT seats NETS verbatim; LES row where significantly different.)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Mark 12:29 — CONFIRMED
+*cited as: Greek NT + “1599 Geneva” label in draft*
+- **Geneva 1599:** “Iesus answered him, The first of all the commandements is, Heare, Israel, The Lord our God is the onely Lord.”
+- **Ruling — apply Geneva 1599 exact:** “Jesus answered him, The first of all the commandments is, Hear, Israel, The Lord our God is the only Lord.”
+  (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### John 17:3 — CONFIRMED
+*cited as: Greek NT + “1599 Geneva” label in draft*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- **Ruling — apply Geneva 1599 exact:** “And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.”
+  (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Corinthians 8:6 — CONFIRMED
+*cited as: Greek NT + “1599 Geneva” label in draft*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- **Ruling — apply Geneva 1599 exact:** “Yet unto us there is but one God, which is that Father, of whom are all things, and we in him: and one Lord Jesus Christ, by whom are all things, and we by him.”
+  (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### John 20:17 — CONFIRMED
+*cited as: Greek NT + “1599 Geneva” label in draft*
+- **Geneva 1599:** “Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but goe to my brethren, and say vnto them, I ascend vnto my Father, and to your Father, and to my God, and your God.”
+- **Ruling — apply Geneva 1599 exact:** “Jesus saith unto her, Touch me not: for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.”
+  (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Ephesians 1:17 — CONFIRMED
+*cited as: Greek NT + “1599 Geneva” label in draft*
+- **Geneva 1599:** “That the God of our Lord Iesus Christ, that Father of glory, might giue vnto you the Spirit of wisedome, and reuelation through the acknowledging of him,”
+- **Ruling — apply Geneva 1599 exact:** “That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,”
+  (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 44:6 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.”
+- **Geneva 1599:** “Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
+  (Maxim 4: OT seats NETS verbatim; LES row where significantly different.)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 44:8 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Hide not yourselves, nor go astray: have ye not heard from the beginning, and have not I told you? ye are witnesses if there is a God beside me.”
+- **Geneva 1599:** “Feare ye not, neither be afraide: haue not I tolde thee of olde, and haue declared it? you are euen my witnesses, whether there be a God beside me, and that there is no God that I knowe not.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Do not cover yourselves; did you not give ear from the beginning, and I declared it to you? You are witnesses whether there is a god besides me, and they were not formerly.”
+  (Maxim 4: OT seats NETS verbatim; LES row where significantly different.)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 44:24 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Thus saith the Lord that redeems thee, and who formed thee from the womb, I am the Lord that performs all things: I stretched out the heaven alone, and established the earth.”
+- **Geneva 1599:** “Thus sayeth the Lord thy redeemer and he that formed thee from the wombe, I am the Lord, that made all things, that spred out the heauens alone, and stretched out the earth by my selfe.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Thus says the Lord, who redeems you, who forms you from the womb: I am the Lord, who accomplishes all things; I alone stretched out heaven, and I bolstered earth. Who else?”
+  (Maxim 4: OT seats NETS verbatim; LES row where significantly different.)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 45:5 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “For I am the Lord God, and there is no other God beside me; I strengthened thee, and thou hast not known me.”
+- **Geneva 1599:** “I am the Lord and there is none other: there is no God besides me: I girded thee though thou hast not knowen me,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “because I am the Lord God, and there is no other god besides me, and you did not know me,”
+  (Maxim 4: OT seats NETS verbatim; LES where significantly different (45:22 “Return upon me”; 45:23 “Unless…”).)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 45:18 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Thus saith the Lord that made the heaven, this God that created the earth, and made it; he marked it out, he made it not in vain, but formed it to be inhabited: I am the Lord, and there is none beside.”
+- **Geneva 1599:** “For thus saith the Lord (that created heauen, God himselfe, that formed the earth, and made it: he that prepared it, he created it not in vaine: he formed it to be inhabited) I am the Lord, and there is none other.”
+- **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 45:21 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “If they will declare, let them draw nigh, that they may know together, who has caused these things to be heard from the beginning: then was it told you. I am God, and there is not another beside me; a just God and a Saviour; there is none but me.”
+- **Geneva 1599:** “Tell ye and bring them, and let them take counsell together, who hath declared this from the beginning? or hath tolde it of olde? Haue not I the Lord? and there is none other God beside me, a iust God, and a Sauiour: there is none beside me.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “If they will declare it, let them draw near so that they may know together who made from the beginning these things that are to be heard. Then it was declared to you, I am God, and there is no other besides me; there is no righteous one or savior except me.”
+  (Maxim 4: OT seats NETS verbatim; LES where significantly different (45:22 “Return upon me”; 45:23 “Unless…”).)
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 45:23 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “By myself I swear, righteousness shall surely proceed out of my mouth; my words shall not be frustrated; that to me every knee shall bend, and every tongue shall swear by God,”
+- **Geneva 1599:** “I haue sworne by my selfe: the worde is gone out of my mouth in righteousnesse, and shall not returne, That euery knee shall bowe vnto me, and euery tongue shall sweare by me.”
+- **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 46:9 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “and remember the former things that were of old: for I am God, and there is none other beside me,”
+- **Geneva 1599:** “Remember the former things of old: for I am God, and there is none other God, and there is nothing like me,”
+- **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Isaiah 46:5 — CONFIRMED
+*cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “To whom have ye compared me? see, consider, ye that go astray.”
+- **Geneva 1599:** “To whom will ye make me like or make me equall, or copare me, that I should be like him?”
+- **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+## THE CHRIST OF SCRIPTURE — 3. POSITs #2-#4: Genesis 22; Genesis 49:10; Numbers 24:17 (+ Summary)
+
+### Genesis 22:8 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **NETS (Septuagint, modern):** “And Abraam said, “God will see to a sheep as a whole burnt offering for himself, child.” And as both walked on together”
+- **Brenton LXX:** “And Abraam said, God will provide himself a sheep for a whole-burnt-offering, my son. And both having gone together,”
+- **Geneva 1599:** “Then Abraham answered, My sonne, God will prouide him a lambe for a burnt offering: so they went both together.”
+- **KJV:** “And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Abraam said, “God will see to a sheep as a whole burnt offering for himself, child.” And as both walked on together”
+  (Standing rule 1: OT seats NETS verbatim.)
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+
+### Genesis 22:2 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **NETS (Septuagint, modern):** “And he said, “Take your beloved son Isaak, whom you love, and go into the high land, and offer him as a whole burnt offering on one of the mountains, whichever I mention to you.””
+- **Brenton LXX:** “And he said, Take thy son, the beloved one, whom thou hast loved—Isaac, and go into the high land, and offer him there for a whole-burnt-offering on one of the mountains which I will tell thee of.”
+- **Geneva 1599:** “And he said, Take nowe thine onely sonne Izhak whom thou louest, and get thee vnto the land of Moriah, and offer him there for a burnt offering vpon one of the mountaines, which I will shewe thee.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And he said, “Take your beloved son Isaak, whom you love, and go into the high land, and offer him as a whole burnt offering on one of the mountains, whichever I mention to you.””
+  (Standing rule 1: OT seats NETS verbatim.)
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, greek_rahlfs, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓*
+
+### Hebrews 11:17-19 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **Geneva 1599:** “By faith Abraham offered vp Isaac, when he was tryed, and he that had receiued the promises, offered his onely begotten sonne. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he receiued him also after a sort.”
+- **Ruling — apply Geneva 1599 exact:** “By faith Abraham offered vp Isaac, when he was tried, and he that had received the promises, offered his only begotten son. (To whom it was said, In Isaac shall thy seede be called.) For he considered that God was able to raise him vp euen from the dead: from whence he received him also after a sort.”
+  (Standing rule: NT seats Geneva verbatim (modernized).)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 3:17 — DIFFERS (MINOR)
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **Geneva 1599:** “And loe, a voyce came from heauen, saying, This is my beloued Sonne, in whome I am well pleased.”
+- **Ruling — apply Geneva 1599 exact:** “And loe, a voyce came from heaven, saying, This is my beloved Son, in whom I am well pleased.”
+  (Standing rule: NT seats Geneva verbatim.)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Genesis 49:10 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **NETS (Septuagint, modern):** “A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.”
+- **Brenton LXX:** “A ruler shall not fail from Juda, nor a prince from his loins, until there come the things stored up for him; and he is the expectation of nations.”
+- **Geneva 1599:** “The scepter shall not depart from Iudah, nor a Lawegiuer from betweene his feete, vntill Shiloh come, and the people shall be gathered vnto him.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.”
+  (Standing rule 1: OT seats NETS verbatim.)
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Haggai 2:7 (LXX) — DIFFERS (MINOR)
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **Brenton LXX:** “and I will shake all nations, and the choice portions of all the nations shall come: and I will fill this house with glory, saith the Lord Almighty.”
+- **Geneva 1599:** “And I will moue all nations, and the desire of all nations shall come, and I will fill this House with glory, sayth the Lord of hostes.”
+- **Second pass pending:** NETS seat pending (Twelve). Geneva row to be replaced by NETS at the Twelve wave; GNV clause sits at 2:8 (Geneva numbering).
+- **Ruling — apply NETS (Septuagint, modern) exact:** “PENDING-NETS-TWELVE”
+  (NETS Twelve volume parse scheduled next wave.)
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, greek_rahlfs*
+- *Double-checked (second source): gnv ✓*
+
+### Revelation 5:5 — CONFIRMED (EXCERPT)
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **Geneva 1599:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.”
+- **Ruling — apply Geneva 1599 exact:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that root of David, hath obtained to open the Book, and to loose the seven seals thereof.”
+  (Standing rule: NT seats Geneva verbatim.)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Revelation 22:16 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
+- **Ruling — apply Geneva 1599 exact:** “I Jesus haue sent mine Angel, to testify vnto you these things in the Churches: I am the root and the generation of David, and the bright morning star.”
+  (Standing rule: NT seats Geneva verbatim.)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Numbers 24:17 — CONFIRMED
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **NETS (Septuagint, modern):** “I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.”
+- **Brenton LXX:** “I will point to him, but not now; I bless him, but he draws not near: a star shall rise out of Jacob, a man shall spring out of Israel; and shall crush the princes of Moab, and shall spoil all the sons of Seth.”
+- **Geneva 1599:** “I shall see him, but not nowe: I shall behold him, but not neere: there shall come a starre of Iaakob, and a scepter shall rise of Israel, and shall smite the coastes of Moab, and destroy all the sonnes of Sheth.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.”
+  (Standing rule 1: OT seats NETS verbatim.)
+- *Checked 2026-11-10 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 2:2 (Geneva) — DIFFERS (MINOR)
+*cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
+- **Geneva 1599:** “Saying, Where is that King of the Iewes that is borne? for wee haue seene his starre in the East, and are come to worship him.”
+- **Ruling — apply Geneva 1599 exact:** “Saying, Where is that King of the Jews that is born? for wee have seene his star in the East, and are come to worship him.”
+  (Standing rule: NT seats Geneva verbatim.)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -2379,7 +2742,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 2:7 | P4 | confirmed |
 | Genesis 4:26 | P1-Q3 | confirmed |
 | Genesis 22:7 | P1-Q8 | confirmed |
-| Genesis 22:8 | P1-Q8 | confirmed |
+| Genesis 22:8 | P1-Q8, COS-02 | confirmed |
 | Genesis 22:13 | P1-Q8 | confirmed |
 | Genesis 22:14 | P1-Q8 | confirmed |
 | Genesis 22:16 | P1-Q8 | confirmed |
@@ -2429,7 +2792,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 3:16 | P1-Q8 | confirmed |
 | John 6:35 | P8 | confirmed |
 | John 8:12 | P8 | confirmed |
-| John 8:58 | P8 | confirmed |
+| John 8:58 | P8, COS-01 | anchor, confirmed |
 | John 8:59 | P8 | anchor |
 | John 10:9 | P8 | confirmed |
 | John 10:11 | P8 | confirmed |
@@ -2624,6 +2987,45 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
+| Deuteronomy 6:4 | COS-01 | confirmed |
+| Isaiah 44:6 | COS-01 | confirmed |
+| Isaiah 44:8 | COS-01 | confirmed |
+| Isaiah 44:24 | COS-01 | confirmed |
+| Isaiah 45:5 | COS-01 | confirmed |
+| Isaiah 45:6 | COS-01 | confirmed |
+| Isaiah 45:21 | COS-01 | confirmed |
+| Isaiah 45:22 | COS-01 | confirmed |
+| Isaiah 45:18 | COS-01 | confirmed |
+| Isaiah 45:23 | COS-01 | confirmed |
+| Isaiah 46:5 | COS-01 | confirmed |
+| Isaiah 46:9 | COS-01 | confirmed |
+| Genesis 1:1 | COS-01 | anchor |
+| Genesis 1:2 | COS-01 | anchor |
+| Genesis 1:6 | COS-01 | anchor |
+| Psalm 32:6 | COS-01 | commentary |
+| Mark 12:29 | COS-01 | confirmed |
+| John 17:3 | COS-01 | confirmed |
+| 1 Corinthians 8:6 | COS-01 | confirmed |
+| John 20:17 | COS-01 | confirmed |
+| Ephesians 1:17 | COS-01 | confirmed |
+| John 1:1 | COS-01 | anchor |
+| John 1:2 | COS-01 | anchor |
+| John 1:3 | COS-01 | anchor |
+| Colossians 1:16 | COS-01 | anchor |
+| Philippians 2:10 | COS-01 | anchor |
+| Philippians 2:11 | COS-01 | anchor |
+| Genesis 3:15 | COS-01 | confirmed |
+| Isaiah 7:14 | COS-01 | confirmed |
+| Galatians 4:4 | COS-01 | confirmed |
+| Genesis 22:2 | COS-02 | confirmed |
+| Hebrews 11:17-19 | COS-02 | confirmed |
+| Matthew 3:17 | COS-02 | differs (minor) |
+| Genesis 49:10 | COS-02 | confirmed |
+| Haggai 2:7 (LXX) | COS-02 | differs (minor) |
+| Revelation 5:5 | COS-02 | confirmed (excerpt) |
+| Revelation 22:16 | COS-02 | confirmed |
+| Numbers 24:17 | COS-02 | confirmed |
+| Matthew 2:2 (Geneva) | COS-02 | differs (minor) |
 
 ## The editions used
 
