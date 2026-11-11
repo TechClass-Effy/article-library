@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**400 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**423 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**571 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**594 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -527,7 +527,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus saide vnto her, I am the resurrection and the life: he that beleeueth in me, though he were dead, yet shall he liue.”
 - **KJV:** “Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:”
 - *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
 
 ### John 14:6 — CONFIRMED
 - **Geneva 1599:** “Iesus sayd vnto him, I am that Way, and that Trueth, and that Life. No man commeth vnto the Father, but by me.”
@@ -737,14 +737,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Philippians 2:10 — ANCHOR
 *cited as: named reference in draft prose*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
 - **Ruling — SEAT:** 
 - *Checked 2026-11-07 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓*
 
 ### Philippians 2:11 — ANCHOR
 *cited as: named reference in draft prose*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “And that euery tongue shoulde confesse that Iesus Christ is the Lord, vnto the glory of God the Father.”
 - **Ruling — SEAT:** 
 - *Checked 2026-11-07 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓*
@@ -3658,7 +3658,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **KJV:** “Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:”
 - *Note:* Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice).
 - *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
 
 ### John 14:6 — CONFIRMED
 *cited as: seat composed from the 1599 Geneva (modern spelling; the draft names the Greek and a brief gloss); wording word-for-word Geneva; eBible=TRB*
@@ -3844,6 +3844,175 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prose ref (mention-anchor)*
 - *Note:* The King of the Jews — confirmed before Pilate (2.4 list).
 - *Checked 2026-11-11 · editions fetched: *
+
+## THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit
+
+### Mark 2:5 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Nowe when Iesus sawe their faith, he saide to the sicke of the palsie, Sonne, thy sinnes are forgiuen thee.”
+- *Note:* Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Mark 2:6 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “And there were certaine of the Scribes sitting there, and reasoning in their hearts,”
+- *Note:* Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Mark 2:7 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Why doeth this man speake such blasphemies? who can forgiue sinnes, but God onely?”
+- *Note:* Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Mark 2:10 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “But that ye may knowe, that the Sonne of man hath authoritie in earth to forgiue sinnes, (he sayde vnto the sicke of the palsie.)”
+- *Note:* Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Mark 4:39 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “And hee rose vp, and rebuked the winde, and saide vnto the sea, Peace, and be still. So the winde ceased, and it was a great calme.”
+- *Note:* Draft block wording: v. 39 omits the Geneva’s opening “And” — the seat prints the Geneva words over the draft’s span; v. 41 aligned with the Geneva word-for-word.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Mark 4:41 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “And they feared exceedingly, and said one to another, Who is this, that both the winde and sea obey him?”
+- *Note:* Draft block wording: v. 39 omits the Geneva’s opening “And” — the seat prints the Geneva words over the draft’s span; v. 41 aligned with the Geneva word-for-word.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Psalm 107:28 — ANCHOR
+*cited as: observation mention (anchor): the sea-stilling divine prerogative — only the LORD calms the sea (Ps 107:28-29)*
+- **NETS (Septuagint, modern):** “And they cried to the Lord when they were being afflicted, and out of their anguish he brought them,”
+- *Note:* MT Psalm 107 = NETS/LXX Psalm 106; verse numbers coincide (107:28 = NETS 106:28, print dump wave-16).
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Psalm 107:29 — ANCHOR
+*cited as: observation mention (anchor): the sea-stilling divine prerogative — only the LORD calms the sea (Ps 107:28-29)*
+- **NETS (Septuagint, modern):** “and he ordered the tempest, and it subsided to a breeze, and its waves became silent.”
+- *Note:* MT Psalm 107 = NETS/LXX Psalm 106; verse numbers coincide (107:29 = NETS 106:29, print dump wave-16).
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Mark 5:35-43 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* the 3.3 bullet names the raising of Jairus’ daughter (Mark 5:35-43) without quoting
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 7:11-17 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* the 3.3 bullet names the widow’s son at Nain (Luke 7:11-17) without quoting
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 11:25 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Iesus saide vnto her, I am the resurrection and the life: he that beleeueth in me, though he were dead, yet shall he liue.”
+- **KJV:** “Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:”
+- *Note:* Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag.
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 11:26 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “And whosoeuer liueth, and beleeueth in me, shall neuer die: Beleeuest thou this?”
+- *Note:* Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 11:43 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “As hee had spoken these things, hee cried with a loude voyce, Lazarus, come foorth.”
+- *Note:* Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 11:44 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Then he that was dead, came forth, bound hande and foote with bandes, and his face was bound with a napkin. Iesus said vnto them, Loose him, and let him goe.”
+- *Note:* Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Deuteronomy 32:39 — ANCHOR
+*cited as: observation reference (anchor): only the LORD gives life (Deut 32:39)*
+- **NETS (Septuagint, modern):** “See, see that I am, and there is no god except me. I will kill, and I will make alive; I will strike, and I will heal, and there is no one who will deliver from my hands.”
+- *Note:* the 3.3 observation lists Deut 32:39 among the divine life-giving prerogatives
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### 1 Samuel 2:6 — ANCHOR
+*cited as: observation reference (anchor): only the LORD gives life (1 Sam 2:6)*
+- *Note:* draft paren reference; NETS 1 Kingdoms not yet in the cache — pure anchor per wave-15 mention-anchor practice
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 5:22 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “For the Father iudgeth no man, but hath committed all iudgement vnto the Sonne,”
+- *Note:* Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 5:23 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Because that all men shoulde honour the Sonne, as they honour the Father: he that honoureth not the Sonne, the same honoureth not the Father, which hath sent him.”
+- *Note:* Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 5:26 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “For as the Father hath life in himselfe, so likewise hath he giuen to the Sonne to haue life in himselfe,”
+- *Note:* Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag. The 3.3 Observation’s inline quote (line 3757) is word-for-word this Geneva wording at modern spelling — good-reason exception, kept (rule of 10 Nov 2026, "already exact to a Version").
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 5:27 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “And hath giuen him power also to execute iudgement, in that he is the Sonne of man.”
+- *Note:* Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### Philippians 2:11 — ANCHOR
+*cited as: prose snippet quoted in the 3.4 observation — exact to the Geneva (good-reason) — (Phil 2:11, "to the glory of God the Father")*
+- **Geneva 1599:** “And that euery tongue shoulde confesse that Iesus Christ is the Lord, vnto the glory of God the Father.”
+- *Note:* good-reason exception per the rule of 10 Nov 2026: quoted wording already exact to a Version
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 7:37 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Nowe in the last and great day of the feast, Iesus stoode and cried, saying, If any man thirst, let him come vnto me, and drinke.”
+- *Note:* Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)*
+
+### John 7:38 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “Hee that beleeueth in mee, as saith the Scripture, out of his bellie shall flowe riuers of water of life.”
+- *Note:* Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)*
+
+### John 7:39 — CONFIRMED (EXCERPT)
+*cited as: seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)*
+- **Geneva 1599:** “(This spake hee of the Spirite which they that beleeued in him, should receiue: for the holy Ghost was not yet giuen, because that Iesus was not yet glorified.)”
+- *Note:* Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)*
+
+### Acts 2:33 — CONFIRMED
+*cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
+- **Geneva 1599:** “Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.”
+- *Note:* Draft block exact to the Geneva, word-for-word at modern spelling (eBible=TRB).
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
 
 # THE BIBLICAL SABBATH
 
@@ -5663,7 +5832,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 8:59 | P8, COS-24 | anchor |
 | John 10:9 | P8, COS-24 | confirmed |
 | John 10:11 | P8, COS-24 | confirmed |
-| John 11:25 | P8, COS-24 | confirmed |
+| John 11:25 | P8, COS-24, COS-25 | confirmed, confirmed (excerpt) |
 | John 14:6 | P8, COS-24 | confirmed |
 | John 15:1 | P8, COS-24 | confirmed |
 | John 20:22 | P4 | anchor, confirmed |
@@ -5880,7 +6049,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 1:3 | COS-01, COS-20 | anchor, confirmed |
 | Colossians 1:16 | COS-01, COS-05, COS-17 | anchor, confirmed |
 | Philippians 2:10 | COS-01 | anchor |
-| Philippians 2:11 | COS-01 | anchor |
+| Philippians 2:11 | COS-01, COS-25 | anchor |
 | Genesis 3:15 | COS-01, COS-19 | anchor, confirmed |
 | Isaiah 7:14 | COS-01, COS-19, COS-23 | confirmed, confirmed (excerpt) |
 | Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
@@ -6177,6 +6346,29 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 2:28 | COS-24 | anchor |
 | Matthew 27:11 | COS-24 | anchor |
 | Acts 1:7 | COS-24 | anchor |
+| Mark 2:5 | COS-25 | confirmed (excerpt) |
+| Mark 2:6 | COS-25 | confirmed (excerpt) |
+| Mark 2:7 | COS-25 | confirmed (excerpt) |
+| Mark 2:10 | COS-25 | confirmed (excerpt) |
+| Mark 4:39 | COS-25 | confirmed (excerpt) |
+| Mark 4:41 | COS-25 | confirmed (excerpt) |
+| John 11:26 | COS-25 | confirmed (excerpt) |
+| John 11:43 | COS-25 | confirmed (excerpt) |
+| John 11:44 | COS-25 | confirmed (excerpt) |
+| John 5:22 | COS-25 | confirmed (excerpt) |
+| John 5:23 | COS-25 | confirmed (excerpt) |
+| John 5:26 | COS-25 | confirmed (excerpt) |
+| John 5:27 | COS-25 | confirmed (excerpt) |
+| John 7:37 | COS-25 | confirmed (excerpt) |
+| John 7:38 | COS-25 | confirmed (excerpt) |
+| John 7:39 | COS-25 | confirmed (excerpt) |
+| Acts 2:33 | COS-25 | confirmed |
+| Psalm 107:28 | COS-25 | anchor |
+| Psalm 107:29 | COS-25 | anchor |
+| Deuteronomy 32:39 | COS-25 | anchor |
+| 1 Samuel 2:6 | COS-25 | anchor |
+| Mark 5:35-43 | COS-25 | anchor |
+| Luke 7:11-17 | COS-25 | anchor |
 
 ## The editions used
 

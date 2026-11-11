@@ -76,7 +76,8 @@
    "COS-21",
    "COS-22",
    "COS-23",
-   "COS-24"
+   "COS-24",
+   "COS-25"
   ],
   "sections": [
    {
@@ -328,6 +329,10 @@
    {
     "key": "COS-24",
     "label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles"
+   },
+   {
+    "key": "COS-25",
+    "label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit"
    }
   ],
   "double_check": {
@@ -388,9 +393,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 33972,
+  "so_far_words": 34813,
   "cos_sofar": {
-   "waves": 15
+   "waves": 16
   }
  },
  "verses": [
@@ -3650,6 +3655,19 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Seat composed from the edition: the draft’s predicate bullet names the Greek phrase and its gloss only (wave-15 seat practice)."
+    },
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3751,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto her, I am the resurrection and the life: he that believeth in me, though he were dead, yet shall he live. And whosoever liveth, and believeth in me, shall never die ... As he had spoken these things, he cried with a loud voice, Lazarus, come forth. Then he that was dead, came forth …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag."
     }
    ],
    "verified": "2026-11-02",
@@ -3675,6 +3693,11 @@
     "kjv": {
      "result": "agree",
      "url": "https://biblehub.com/kjv/"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/11-25.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
     }
    }
   },
@@ -12936,14 +12959,16 @@
    "verified": "2026-11-07",
    "translations": {
     "gnv": {
-     "text": "",
-     "source": "https://ebible.org/enggnv/PHP02.htm"
+     "text": "That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,",
+     "source": "https://ebible.org/enggnv/PHP02.htm",
+     "backfilled": "2026-11-11 alongside the wave-16 2:11 backfill (draft cites Phil 2:11 only)"
     }
    },
    "second_check": {
     "gnv": {
-     "result": "agree",
-     "url": "https://www.textusreceptusbibles.com/Geneva/50/2"
+     "result": "agree (eBible=TRB ratio 1.00, fresh check on the wave-16 fetch)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
     }
    }
   },
@@ -12968,21 +12993,35 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3780,
+     "cited_as": "prose snippet quoted in the 3.4 observation — exact to the Geneva (good-reason) — (Phil 2:11, \"to the glory of God the Father\")",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "gnv",
+     "note": "good-reason exception per the rule of 10 Nov 2026: quoted wording already exact to a Version"
     }
    ],
    "verified": "2026-11-07",
    "translations": {
     "gnv": {
-     "text": "",
-     "source": "https://ebible.org/enggnv/PHP02.htm"
+     "text": "And that euery tongue shoulde confesse that Iesus Christ is the Lord, vnto the glory of God the Father.",
+     "source": "https://ebible.org/enggnv/PHP02.htm",
+     "backfilled": "2026-11-11 from the wave-16 COS-25 fetch pass"
     }
    },
    "second_check": {
     "gnv": {
-     "result": "agree",
-     "url": "https://www.textusreceptusbibles.com/Geneva/50/2"
+     "result": "agree (eBible=TRB ratio 1.00",
+     "url": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "checked": "2026-11-11"
     }
-   }
+   },
+   "note": "GNV text backfilled 2026-11-11 (wave-16): the 3.4 observation's snippet \"to the glory of God the Father\" (line 3780) is word-for-word the Geneva tail — the standing no-GNV-text flag resolves for 2:11."
   },
   {
    "id": "GEN.3.15",
@@ -24229,6 +24268,878 @@
      "status": "anchor",
      "matched_source": "",
      "note": "cf. reference in the Mark 13:32 observation: the Father's kept authority."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MRK.2.5",
+   "ref": "Mark 2:5",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3714,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… Now when Jesus saw their faith, he said to the sick of the palsy, Son, thy sins are forgiven thee. ... And there were certain of the Scribes sitting there, and reasoning in their hearts, Why doth this man speak such blasphemies? who can forgive sins, but God only? ... But that ye may know, that the Son of man hath authority in earth to forgive sins …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Nowe when Iesus sawe their faith, he saide to the sicke of the palsie, Sonne, thy sinnes are forgiuen thee.",
+     "source": "https://ebible.org/enggnv/MRK02.htm"
+    },
+    "greek_nestle": {
+     "text": "Καὶkai ἰδὼνidōn ὁho ἸησοῦςIēsous τὴνtēn πίστινpistin αὐτῶνautōn λέγειlegei τῷtō παραλυτικῷ·paralytikō Τέκνον,Teknon ἀφίενταίaphientai σουsou αἱhai ἁμαρτίαι.hamartiai",
+     "source": "https://biblehub.com/text/mark/2-5.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/mark/2-5.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.2.6",
+   "ref": "Mark 2:6",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3714,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… Now when Jesus saw their faith, he said to the sick of the palsy, Son, thy sins are forgiven thee. ... And there were certain of the Scribes sitting there, and reasoning in their hearts, Why doth this man speak such blasphemies? who can forgive sins, but God only? ... But that ye may know, that the Son of man hath authority in earth to forgive sins …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And there were certaine of the Scribes sitting there, and reasoning in their hearts,",
+     "source": "https://ebible.org/enggnv/MRK02.htm"
+    },
+    "greek_nestle": {
+     "text": "Ἦσανēsan δέde τινεςtines τῶνtōn γραμματέωνgrammateōn ἐκεῖekei καθήμενοιkathēmenoi καὶkai διαλογιζόμενοιdialogizomenoi ἐνen ταῖςtais καρδίαιςkardiais αὐτῶνautōn",
+     "source": "https://biblehub.com/text/mark/2-6.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/mark/2-6.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.2.7",
+   "ref": "Mark 2:7",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3714,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… Now when Jesus saw their faith, he said to the sick of the palsy, Son, thy sins are forgiven thee. ... And there were certain of the Scribes sitting there, and reasoning in their hearts, Why doth this man speak such blasphemies? who can forgive sins, but God only? ... But that ye may know, that the Son of man hath authority in earth to forgive sins …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Why doeth this man speake such blasphemies? who can forgiue sinnes, but God onely?",
+     "source": "https://ebible.org/enggnv/MRK02.htm"
+    },
+    "greek_nestle": {
+     "text": "ΤίTi οὗτοςhoutos οὕτωςhoutōs λαλεῖ;lalei βλασφημεῖ·blasphēmei τίςtis δύναταιdynatai ἀφιέναιaphienai ἁμαρτίαςhamartias εἰei μὴmē εἷςheis ὁho Θεός;Theos",
+     "source": "https://biblehub.com/text/mark/2-7.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/mark/2-7.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.2.10",
+   "ref": "Mark 2:10",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3714,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… Now when Jesus saw their faith, he said to the sick of the palsy, Son, thy sins are forgiven thee. ... And there were certain of the Scribes sitting there, and reasoning in their hearts, Why doth this man speak such blasphemies? who can forgive sins, but God only? ... But that ye may know, that the Son of man hath authority in earth to forgive sins …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 5 opens “When Jesus saw…” (the Geneva prints “Now when”, “said to”) — the seat prints the Geneva words over the draft’s span; v. 10 keeps the Geneva’s “hath authority in earth” and cuts before the parenthetical “(he sayde vnto the sicke of the palsie.)”, as the draft’s ellipsis shows. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: ἀφέωνταί→ἀφίενταί; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But that ye may knowe, that the Sonne of man hath authoritie in earth to forgiue sinnes, (he sayde vnto the sicke of the palsie.)",
+     "source": "https://ebible.org/enggnv/MRK02.htm"
+    },
+    "greek_nestle": {
+     "text": "ἵναhina δὲde εἰδῆτεeidēte ὅτιhoti ἐξουσίανexousian ἔχειechei ὁho ΥἱὸςHuios τοῦtou ἀνθρώπουanthrōpou ««ἀφιέναιaphienai ἁμαρτίας» ⇔hamartias ««ἐπὶepi τῆςtēs γῆς»,—gēs λέγειlegei τῷtō παραλυτικῷparalytikō",
+     "source": "https://biblehub.com/text/mark/2-10.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/mark/2-10.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.4.39",
+   "ref": "Mark 4:39",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3730,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… And he rose up, and rebuked the wind, and said unto the sea, Peace, and be still. So the wind ceased, and it was a great calm. ... And they feared exceedingly, and said one to another, Who is this, that both the wind and sea obey him?"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 39 omits the Geneva’s opening “And” — the seat prints the Geneva words over the draft’s span; v. 41 aligned with the Geneva word-for-word."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee rose vp, and rebuked the winde, and saide vnto the sea, Peace, and be still. So the winde ceased, and it was a great calme.",
+     "source": "https://ebible.org/enggnv/MRK04.htm"
+    },
+    "greek_nestle": {
+     "text": "Καὶkai διεγερθεὶςdiegertheis ἐπετίμησενepetimēsen τῷtō ἀνέμῳanemō καὶkai εἶπενeipen τῇtē θαλάσσῃthalassē Σιώπα,Siōpa πεφίμωσο.pephimōso καὶkai ἐκόπασενekopasen ὁho ἄνεμος,anemos καὶkai ἐγένετοegeneto γαλήνηgalēnē μεγάλη.megalē",
+     "source": "https://biblehub.com/text/mark/4-39.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/4",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/mark/4-39.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MRK.4.41",
+   "ref": "Mark 4:41",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3730,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… And he rose up, and rebuked the wind, and said unto the sea, Peace, and be still. So the wind ceased, and it was a great calm. ... And they feared exceedingly, and said one to another, Who is this, that both the wind and sea obey him?"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 39 omits the Geneva’s opening “And” — the seat prints the Geneva words over the draft’s span; v. 41 aligned with the Geneva word-for-word."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they feared exceedingly, and said one to another, Who is this, that both the winde and sea obey him?",
+     "source": "https://ebible.org/enggnv/MRK04.htm"
+    },
+    "greek_nestle": {
+     "text": "Καὶkai ἐφοβήθησανephobēthēsan φόβονphobon μέγαν,megan καὶkai ἔλεγονelegon πρὸςpros ἀλλήλουςallēlous ΤίςTis ἄραara οὗτόςhoutos ἐστιν,estin ὅτιhoti καὶkai ὁho ἄνεμοςanemos καὶkai ἡhē θάλασσαthalassa ὑπακούειhypakouei αὐτῷ;autō",
+     "source": "https://biblehub.com/text/mark/4-41.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/41/4",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/mark/4-41.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.11.26",
+   "ref": "John 11:26",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3751,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto her, I am the resurrection and the life: he that believeth in me, though he were dead, yet shall he live. And whosoever liveth, and believeth in me, shall never die ... As he had spoken these things, he cried with a loud voice, Lazarus, come forth. Then he that was dead, came forth …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And whosoeuer liueth, and beleeueth in me, shall neuer die: Beleeuest thou this?",
+     "source": "https://ebible.org/enggnv/JHN11.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶkai πᾶςpas ὁho ζῶνzōn καὶkai πιστεύωνpisteuōn εἰςeis ἐμὲeme οὐou μὴmē ἀποθάνῃapothanē εἰςeis τὸνton αἰῶνα·aiōna πιστεύειςpisteueis τοῦτο;touto",
+     "source": "https://biblehub.com/text/john/11-26.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/11",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/11-26.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.11.43",
+   "ref": "John 11:43",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3751,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto her, I am the resurrection and the life: he that believeth in me, though he were dead, yet shall he live. And whosoever liveth, and believeth in me, shall never die ... As he had spoken these things, he cried with a loud voice, Lazarus, come forth. Then he that was dead, came forth …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "As hee had spoken these things, hee cried with a loude voyce, Lazarus, come foorth.",
+     "source": "https://ebible.org/enggnv/JHN11.htm"
+    },
+    "greek_nestle": {
+     "text": "Καὶkai ταῦταtauta εἰπὼνeipōn φωνῇphōnē μεγάλῃmegalē ἐκραύγασενekraugasen Λάζαρε,Lazare δεῦροdeuro ἔξω.exō",
+     "source": "https://biblehub.com/text/john/11-43.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/11",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/11-43.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.11.44",
+   "ref": "John 11:44",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3751,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Jesus said unto her, I am the resurrection and the life: he that believeth in me, though he were dead, yet shall he live. And whosoever liveth, and believeth in me, shall never die ... As he had spoken these things, he cried with a loud voice, Lazarus, come forth. Then he that was dead, came forth …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 43 draft “And when he had thus spoken” vs the Geneva “As he had spoken these things”; vv. 25-26 and the v. 44 head seat the Geneva verbatim; v. 26 and v. 44 cut where the draft’s ellipses cut (v. 44 continues “bound hand and foot with bandes…” in the Geneva). Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τεθνηκώς→τεθνηκὼς; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then he that was dead, came forth, bound hande and foote with bandes, and his face was bound with a napkin. Iesus said vnto them, Loose him, and let him goe.",
+     "source": "https://ebible.org/enggnv/JHN11.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐξῆλθενexēlthen ὁho τεθνηκὼςtethnēkōs δεδεμένοςdedemenos τοὺςtous πόδαςpodas καὶkai τὰςtas χεῖραςcheiras κειρίαις,keiriais καὶkai ἡhē ὄψιςopsis αὐτοῦautou σουδαρίῳsoudariō περιεδέδετο.periededeto Λέγειlegei αὐτοῖςautois ὁho ἸησοῦςIēsous ΛύσατεLysate αὐτὸνauton καὶkai ἄφετεaphete αὐτὸνauton ὑπάγειν.hypagein",
+     "source": "https://biblehub.com/text/john/11-44.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/11",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/11-44.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.5.22",
+   "ref": "John 5:22",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3767,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For the Father judgeth no man, but hath committed all judgment unto the Son, Because that all men should honor the Son, as they honor the Father ... For as the Father hath life in himself, so likewise hath he given to the Son to have life in himself, And hath given him power also to execute judgment, in that he is the Son of man."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Father iudgeth no man, but hath committed all iudgement vnto the Sonne,",
+     "source": "https://ebible.org/enggnv/JHN05.htm"
+    },
+    "greek_nestle": {
+     "text": "οὐδὲoude γὰρgar ὁho ΠατὴρPatēr κρίνειkrinei οὐδένα,oudena ἀλλὰalla τὴνtēn κρίσινkrisin πᾶσανpasan δέδωκενdedōken τῷtō Υἱῷ,Huiō",
+     "source": "https://biblehub.com/text/john/5-22.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/5",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/5-22.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.5.23",
+   "ref": "John 5:23",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3767,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For the Father judgeth no man, but hath committed all judgment unto the Son, Because that all men should honor the Son, as they honor the Father ... For as the Father hath life in himself, so likewise hath he given to the Son to have life in himself, And hath given him power also to execute judgment, in that he is the Son of man."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Because that all men shoulde honour the Sonne, as they honour the Father: he that honoureth not the Sonne, the same honoureth not the Father, which hath sent him.",
+     "source": "https://ebible.org/enggnv/JHN05.htm"
+    },
+    "greek_nestle": {
+     "text": "ἵναhina πάντεςpantes τιμῶσιtimōsi τὸνton ΥἱὸνHuion καθὼςkathōs τιμῶσιtimōsi τὸνton Πατέρα.Patera ὁho μὴmē τιμῶνtimōn τὸνton ΥἱὸνHuion οὐou τιμᾷtima τὸνton ΠατέραPatera τὸνton πέμψανταpempsanta αὐτόν.auton",
+     "source": "https://biblehub.com/text/john/5-23.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/5",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/5-23.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.5.26",
+   "ref": "John 5:26",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3767,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For the Father judgeth no man, but hath committed all judgment unto the Son, Because that all men should honor the Son, as they honor the Father ... For as the Father hath life in himself, so likewise hath he given to the Son to have life in himself, And hath given him power also to execute judgment, in that he is the Son of man."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag. The 3.3 Observation’s inline quote (line 3757) is word-for-word this Geneva wording at modern spelling — good-reason exception, kept (rule of 10 Nov 2026, \"already exact to a Version\")."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For as the Father hath life in himselfe, so likewise hath he giuen to the Sonne to haue life in himselfe,",
+     "source": "https://ebible.org/enggnv/JHN05.htm"
+    },
+    "greek_nestle": {
+     "text": "ὥσπερhōsper γὰρgar ὁho ΠατὴρPatēr ἔχειechei ζωὴνzōēn ἐνen ἑαυτῷ,heautō οὕτωςhoutōs καὶkai τῷtō ΥἱῷHuiō ἔδωκενedōken ζωὴνzōēn ἔχεινechein ἐνen ἑαυτῷ.heautō",
+     "source": "https://biblehub.com/text/john/5-26.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/5",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/5-26.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.5.27",
+   "ref": "John 5:27",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3767,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For the Father judgeth no man, but hath committed all judgment unto the Son, Because that all men should honor the Son, as they honor the Father ... For as the Father hath life in himself, so likewise hath he given to the Son to have life in himself, And hath given him power also to execute judgment, in that he is the Son of man."
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hath giuen him power also to execute iudgement, in that he is the Sonne of man.",
+     "source": "https://ebible.org/enggnv/JHN05.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶkai ἐξουσίανexousian ἔδωκενedōken αὐτῷautō κρίσινkrisin ποιεῖν,poiein ὅτιhoti ΥἱὸςHuios ἀνθρώπουanthrōpou ἐστίν.estin",
+     "source": "https://biblehub.com/text/john/5-27.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/5",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/5-27.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.7.37",
+   "ref": "John 7:37",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3790,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… If any man thirst, let him come unto me, and drink. He that believeth in me, as saith the Scripture, out of his belly shall flow rivers of water of life. ... (This spake he of the Spirit which they that believed in him, should receive …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Nowe in the last and great day of the feast, Iesus stoode and cried, saying, If any man thirst, let him come vnto me, and drinke.",
+     "source": "https://ebible.org/enggnv/JHN07.htm"
+    },
+    "greek_nestle": {
+     "text": "ἘνEn δὲde τῇtē ἐσχάτῃeschatē ἡμέρᾳhēmera τῇtē μεγάλῃmegalē τῆςtēs ἑορτῆςheortēs εἱστήκειheistēkei ὁho Ἰησοῦς,Iēsous καὶkai ἔκραξενekraxen λέγωνlegōn ἘάνEan τιςtis διψᾷ,dipsa ἐρχέσθωerchesthō πρόςpros μεme καὶkai πινέτω.pinetō",
+     "source": "https://biblehub.com/text/john/7-37.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/7",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/7-37.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.7.38",
+   "ref": "John 7:38",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3790,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… If any man thirst, let him come unto me, and drink. He that believeth in me, as saith the Scripture, out of his belly shall flow rivers of water of life. ... (This spake he of the Spirit which they that believed in him, should receive …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Hee that beleeueth in mee, as saith the Scripture, out of his bellie shall flowe riuers of water of life.",
+     "source": "https://ebible.org/enggnv/JHN07.htm"
+    },
+    "greek_nestle": {
+     "text": "ὁho πιστεύωνpisteuōn εἰςeis ἐμέ,eme καθὼςkathōs εἶπενeipen ἡhē γραφή,graphē Ποταμοὶpotamoi ἐκek τῆςtēs κοιλίαςkoilias αὐτοῦautou ῥεύσουσινrheusousin ὕδατοςhydatos ζῶντος.zōntos",
+     "source": "https://biblehub.com/text/john/7-38.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/7",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/7-38.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.7.39",
+   "ref": "John 7:39",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3790,
+     "cited_as": "seat, excerpt (Geneva 1599, modern spelling; ellipses as the draft blocks; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "… If any man thirst, let him come unto me, and drink. He that believeth in me, as saith the Scripture, out of his belly shall flow rivers of water of life. ... (This spake he of the Spirit which they that believed in him, should receive …"
+     ],
+     "status": "confirmed-excerpt",
+     "matched_source": "gnv",
+     "note": "Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "(This spake hee of the Spirite which they that beleeued in him, should receiue: for the holy Ghost was not yet giuen, because that Iesus was not yet glorified.)",
+     "source": "https://ebible.org/enggnv/JHN07.htm"
+    },
+    "greek_nestle": {
+     "text": "τοῦτοtouto δὲde εἶπενeipen περὶperi τοῦtou ΠνεύματοςPneumatos οὗhou ἔμελλονemellon λαμβάνεινlambanein οἱhoi πιστεύσαντεςpisteusantes εἰςeis αὐτόν·auton οὔπωoupō γὰρgar ἦνēn Πνεῦμα,Pneuma ὅτιhoti ἸησοῦςIēsous οὐδέπωoudepō ἐδοξάσθη.edoxasthē",
+     "source": "https://biblehub.com/text/john/7-39.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/7",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/john/7-39.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.2.33",
+   "ref": "Acts 2:33",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3796,
+     "cited_as": "seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Since then that he by the right hand of God hath been exalted, and hath received of his Father the promise of the holy Ghost, he hath shed forth this which ye now see and hear."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft block exact to the Geneva, word-for-word at modern spelling (eBible=TRB)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "greek_nestle": {
+     "text": "τῇtē δεξιᾷdexia οὖνoun τοῦtou ΘεοῦTheou ὑψωθεὶςhypsōtheis τήνtēn τεte ἐπαγγελίανepangelian τοῦtou ΠνεύματοςPneumatos τοῦtou ἉγίουHagiou λαβὼνlabōn παρὰpara τοῦtou ΠατρὸςPatros ἐξέχεενexecheen τοῦτοtouto ὃho ὑμεῖςhymeis καὶkai βλέπετεblepete καὶkai ἀκούετε.akouete",
+     "source": "https://biblehub.com/text/acts/2-33.htm"
+    }
+   },
+   "second_check": {
+    "gnv": {
+     "result": "agree (eBible=TRB ratio 1.00)",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/2",
+     "checked": "2026-11-11"
+    },
+    "greek_nestle": {
+     "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
+     "source": "https://biblehub.com/text/acts/2-33.htm",
+     "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "PSA.107.28",
+   "ref": "Psalm 107:28",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3736,
+     "cited_as": "observation mention (anchor): the sea-stilling divine prerogative — only the LORD calms the sea (Ps 107:28-29)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "MT Psalm 107 = NETS/LXX Psalm 106; verse numbers coincide (107:28 = NETS 106:28, print dump wave-16)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And they cried to the Lord when they were being afflicted, and out of their anguish he brought them,",
+     "source": "scraped NETS PDF master 24-ps.pdf (Penn), psalm 106(107) print region p.61 dump (cos_w16_ps106.txt)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "PSA.107.29",
+   "ref": "Psalm 107:29",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3736,
+     "cited_as": "observation mention (anchor): the sea-stilling divine prerogative — only the LORD calms the sea (Ps 107:28-29)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "MT Psalm 107 = NETS/LXX Psalm 106; verse numbers coincide (107:29 = NETS 106:29, print dump wave-16)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "and he ordered the tempest, and it subsided to a breeze, and its waves became silent.",
+     "source": "scraped NETS PDF master 24-ps.pdf (Penn), psalm 106(107) print region p.61 dump (cos_w16_ps106.txt)"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "DEU.32.39",
+   "ref": "Deuteronomy 32:39",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3757,
+     "cited_as": "observation reference (anchor): only the LORD gives life (Deut 32:39)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "nets",
+     "note": "the 3.3 observation lists Deut 32:39 among the divine life-giving prerogatives"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "See, see that I am, and there is no god except me. I will kill, and I will make alive; I will strike, and I will heal, and there is no one who will deliver from my hands.",
+     "source": "NETS Deuteronomy cache (scraped NETS PDF masters) 05-deut.pdf"
+    }
+   },
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "1SA.2.6",
+   "ref": "1 Samuel 2:6",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3757,
+     "cited_as": "observation reference (anchor): only the LORD gives life (1 Sam 2:6)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "draft paren reference; NETS 1 Kingdoms not yet in the cache — pure anchor per wave-15 mention-anchor practice"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MRK.5.35-43",
+   "ref": "Mark 5:35-43",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3743,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "the 3.3 bullet names the raising of Jairus’ daughter (Mark 5:35-43) without quoting"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.7.11-17",
+   "ref": "Luke 7:11-17",
+   "uses": [
+    {
+     "section": "COS-25",
+     "section_label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit",
+     "article_line": 3744,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "the 3.3 bullet names the widow’s son at Nain (Luke 7:11-17) without quoting"
     }
    ],
    "verified": "2026-11-11",
