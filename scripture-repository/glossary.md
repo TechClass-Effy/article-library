@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**185 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**202 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**356 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**373 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -418,10 +418,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets — NETS 3:14 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs · trb ✓*
 
 ### Exodus 17:6 — ANCHOR
+- **NETS (Septuagint, modern):** “I here have taken my stand, before you came, on the rock at Choreb. And you shall strike the rock, and water will come out of it, and the people will drink.” And Moyses did so before the sons of Israel.”
 - **Brenton LXX:** “Behold, I stand there before thou come, on the rock in Choreb, and thou shalt smite the rock, and water shall come out from it, and the people shall drink. And Moses did so before the sons of Israel.”
 - **Geneva 1599:** “Behold, I will stand there before thee vpon the rocke in Horeb, and thou shalt smite on the rocke, and water shall come out of it, that the people may drinke. And Moses did so in the sight of the Elders of Israel.”
 - **KJV:** “Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
 
 ### 1 Corinthians 10:4 — CONFIRMED
@@ -1661,6 +1662,345 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — ANCHOR:** 
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓*
+
+## THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read
+
+### Genesis 22:16 — ANCHOR
+*cited as: prose ref*
+- **Brenton LXX:** “saying, I have sworn by myself, says the Lord, because thou hast done this thing, and on my account hast not spared thy beloved son,”
+- **Geneva 1599:** “And saide, By my selfe haue I sworne (saith ye Lord) because thou hast done this thing, and hast not spared thine onely sonne,”
+- **KJV:** “And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:”
+- *Note:* Witness list (1373-1376) cites 22:16; re-read 1475-1481 re-quotes the 15-16 head cut. Book seat unchanged from Wave 4 (COS-08).
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets ✓*
+
+### Genesis 31:13 — ANCHOR
+*cited as: prose ref*
+- **Geneva 1599:** “I am the God of Beth-el, where thou anointedst the pillar, where thou vowedst a vow unto me. Nowe arise, get thee out of this country and returne unto ye land where thou wast borne.”
+- *Note:* Witness list cites Gen 31:13.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets ✓ · trb ✓*
+
+### Exodus 3:6 — ANCHOR
+*cited as: prose ref*
+- **Geneva 1599:** “Moreouer he said, I am the God of thy father, the God of Abraham, the God of Izhak, and the God of Iaakob. Then Moses hid his face: for he was afraid to looke upon God.”
+- *Note:* Witness list cites Ex 3:6 (COS-11 seat).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): nets — NETS 3:6 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs (corrected ch-3 window) · trb ✓*
+
+### Genesis 32:26-30 — ANCHOR
+*cited as: prose ref*
+- *Note:* Witness list cites 32:30 (group row 26-30, COS-10).
+- *Checked 2026-11-11 · editions fetched: *
+- *Double-checked (second source): nets — not seated (ellipses); NETS walk/dump carries them*
+
+### Exodus 17:6 — ANCHOR
+*cited as: prose ref (Ex 17:6)*
+- **NETS (Septuagint, modern):** “I here have taken my stand, before you came, on the rock at Choreb. And you shall strike the rock, and water will come out of it, and the people will drink.” And Moyses did so before the sons of Israel.”
+- **Brenton LXX:** “Behold, I stand there before thou come, on the rock in Choreb, and thou shalt smite the rock, and water shall come out from it, and the people shall drink. And Moses did so before the sons of Israel.”
+- **Geneva 1599:** “Behold, I will stand there before thee vpon the rocke in Horeb, and thou shalt smite on the rocke, and water shall come out of it, that the people may drinke. And Moses did so in the sight of the Elders of Israel.”
+- **KJV:** “Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.”
+- *Note:* Rock at Horeb; NETS text backfilled from cache in passing.
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+
+### Numbers 20:8 — ANCHOR
+*cited as: chapter ref (Ex 17 / Num 20)*
+- **NETS (Septuagint, modern):** “”
+- *Note:* Rock at Meribah — anchor for the "(Ex 17 / Num 20)" cite; cache for Numbers not yet parsed (open backfill flag).
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Exodus 23:21 — CONFIRMED
+*cited as: prose quoted clause "My Name is in Him"*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat ("my name is upon him") with the attributed Geneva clause noted.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+
+### Exodus 23:20 — ANCHOR
+*cited as: prose ref*
+- **NETS (Septuagint, modern):** “And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you.”
+- **Geneva 1599:** “Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.”
+- *Note:* ESTABLISHED block re-cites Ex 23:20.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS vv 20-21 verbatim vs 02-exod walk; seat-vs-cache asserted gloss-stripped · greek_rahlfs — Draft Greek = Rahlfs verbatim (97% word-set, apostrophe token only) · trb ✓*
+
+### Genesis 16:7 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “But the Lord God’s angel found her by the spring of water in the wilderness …”
+  (Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape.)
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets — NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)*
+
+### Genesis 16:10 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.””
+  (Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape.)
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets — NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)*
+
+### Genesis 16:13 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …”
+  (Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape.)
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets — NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)*
+
+### Genesis 22:11 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.”
+  (Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape.)
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets — NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)*
+
+### Genesis 22:12 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.””
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.”
+  (Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape.)
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets — NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)*
+
+### Genesis 22:15 — CONFIRMED
+*cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS)*
+- **NETS (Septuagint, modern):** “And the Lord’s angel called Abraam a second time from the sky, saying,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …””
+  (Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape.)
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets — NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)*
+
+### Deuteronomy 6:4 — ANCHOR
+*cited as: prose ref*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- *Note:* Established-list cite ("The Father is the One God").
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### John 17:3 — ANCHOR
+*cited as: prose ref*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* Established-list cite ("The Father is the One God").
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Corinthians 8:6 — ANCHOR
+*cited as: prose ref*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Note:* Established-list cite ("The Father is the One God").
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### PS 2 1-2 — ANCHOR
+*cited as: prose ref "Ps 2" (and table 1629)*
+- **NETS (Septuagint, modern):** “Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed.”
+- *Note:* Ps 2 cited as established (COS-03 seats).
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### ACT 2 36 — ANCHOR
+*cited as: prose ref*
+- **Geneva 1599:** “Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- *Note:* "made Lord and Christ ... (Acts 2:36; 13:33)".
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### PS 109 1 — ANCHOR
+*cited as: prose ref "Ps 109/110 LXX"*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- *Note:* Ps 110 cited as established (COS-04 seats).
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### Acts 13:33 — ANCHOR
+*cited as: prose ref "Acts 2:36; 13:33" (and table 1629)*
+- **Geneva 1599:** “God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.”
+- *Note:* "Thou art my Sonne; this day haue I begotten thee." — the Ps 2 begetting cite; text banked for later witnessing.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00)*
+
+### MIC 5 2 — ANCHOR
+*cited as: prose ref*
+- **NETS (Septuagint, modern):** “And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.”
+- *Note:* "fulfilled at Bethlehem (Matt 2; John 7:42)" — COS-06 seats hold the verse.
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+- *Double-checked (second source): nets ✓*
+
+### MAT 2 5 — ANCHOR
+*cited as: prose ref "Matt 2"*
+- **Geneva 1599:** “And they saide vnto him, At Beth-leem in Iudea: for so it is written by the Prophet,”
+- *Note:* Birthplace cite.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### JHN 7 42 — ANCHOR
+*cited as: prose ref*
+- **Geneva 1599:** “Saith not the Scripture that that Christ shall come of the seede of Dauid, and out of the towne of Beth-leem, where Dauid was?”
+- *Note:* Birthplace cite.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### Isaiah 52:13 — ANCHOR
+*cited as: range ref "Isaiah 52:13-53:12" (and "Isaiah 53" at 1663)*
+- **Brenton LXX:** “Behold, my servant shall understand, and be exalted, and glorified exceedingly.”
+- **Geneva 1599:** “Beholde, my seruant shall prosper: he shall be exalted and extolled, and be very hie.”
+- **KJV:** “¶ Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.”
+- *Note:* ANCHOR: the Suffering-Servant passage; seat waits for the Suffering-Servant wave.
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+
+### Psalm 22:1 — ANCHOR
+*cited as: chapter ref "Psalm 22 (LXX 21)"*
+- *Note:* ANCHOR: the draft cites Psalm 22 (LXX 21 = MT 22) for the suffering Psalms (1518, 1663). Seat waits for the Suffering-Servant wave.
+- *Checked 2026-11-11 · editions fetched: *
+
+## THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn
+
+### John 17:3 — ANCHOR
+*cited as: prose ref (already banked arc 1 too)*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Corinthians 1:18 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “For that preaching of the crosse is to them that perish, foolishnesse: but vnto vs, which are saued, it is the power of God.”
+- **Ruling — apply Geneva 1599 exact:** “For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the …”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### 1 Corinthians 1:19 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “For it is written, I will destroy the wisedome of the wise, and will cast away the vnderstanding of the prudent.”
+- **Ruling — apply Geneva 1599 exact:** “For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the …”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### 1 Corinthians 1:20 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “Where is the wise? where is the Scribe? where is the disputer of this worlde? hath not God made the wisedome of this worlde foolishnesse?”
+- **Ruling — apply Geneva 1599 exact:** “For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the …”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### 1 Corinthians 1:21 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “For seeing the worlde by wisedome knewe not God in the wisedome of GOD, it pleased God by the foolishnesse of preaching to saue them that beleeue:”
+- **Ruling — apply Geneva 1599 exact:** “For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the …”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### 1 Corinthians 1:22 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “Seeing also that the Iewes require a signe, and the Grecians seeke after wisdome.”
+- **Ruling — apply Geneva 1599 exact:** “Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### 1 Corinthians 1:23 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “But wee preach Christ crucified: vnto the Iewes, euen a stumbling blocke, and vnto the Grecians, foolishnesse:”
+- **Ruling — apply Geneva 1599 exact:** “Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### 1 Corinthians 1:24 — CONFIRMED
+*cited as: no translation label in draft; work spec: Geneva 1599 NT*
+- **Geneva 1599:** “But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.”
+- **Ruling — apply Geneva 1599 exact:** “Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.”
+  (Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24.)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.00) · greek_biblehub — Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note*
+
+### Colossians 1:16 — CONFIRMED
+*cited as: Greek + Geneva label in draft (book seat: Geneva 1599)*
+- **Geneva 1599:** “For by him were all things created, which are in heauen, and which are in earth, thinges visible and inuisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him,”
+- **Ruling — apply Geneva 1599 exact:** “Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.”
+  (Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb ✓*
+
+### COL 1 15 — CONFIRMED
+*cited as: Greek + Geneva label in draft (book seat: Geneva 1599)*
+- **Geneva 1599:** “Who is the image of the inuisible God, the first begotten of euery creature.”
+- **Ruling — apply Geneva 1599 exact:** “Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.”
+  (Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### COL 1 17 — CONFIRMED
+*cited as: Greek + Geneva label in draft (book seat: Geneva 1599)*
+- **Geneva 1599:** “And hee is before all things, and in him all things consist.”
+- **Ruling — apply Geneva 1599 exact:** “Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.”
+  (Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+### Isaiah 44:6 — ANCHOR
+*cited as: table cite "Isa 44-46"*
+- **NETS (Septuagint, modern):** “”
+- **Brenton LXX:** “Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.”
+- **Geneva 1599:** “Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.”
+- *Note:* Honest Revised Position table.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### PS 2 6-7 — ANCHOR
+*cited as: table cite "Acts 13:33 cites it"*
+- **NETS (Septuagint, modern):** “"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, "My son you are; today I have begotten you."”
+- *Note:* Table row: the Father's Begotten/Anointed in Ps 2 (Acts 13:33 cites it).
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### ACT 2 34-36 — ANCHOR
+*cited as: table cite*
+- **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- *Note:* Honest Revised Position table (COS-04 seats hold the verses).
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Matthew 22:44 — ANCHOR
+*cited as: table cite "Acts 2:34-36; Matt 22:44"*
+- **Geneva 1599:** “The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole?”
+- *Note:* Text banked for the Ps 110 apostolic-citation witness (modernized: The Lord said to my Lord, Sit at my right hand, till I make ...)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb — eBible=TRB (ratio 1.00)*
+
+### MAT 2 5 — ANCHOR
+*cited as: table cite "Matt 2:5-6"*
+- **Geneva 1599:** “And they saide vnto him, At Beth-leem in Iudea: for so it is written by the Prophet,”
+- *Note:* Honest Revised Position table.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### MAT 2 6 — ANCHOR
+*cited as: table cite "Matt 2:5-6"*
+- **Geneva 1599:** “And thou Beth-leem in the lande of Iuda, art not the least among the Princes of Iuda: For out of thee shall come the gouernour that shall feede that my people Israel.”
+- *Note:* Honest Revised Position table.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓*
+
+### PS 109 3 — CONFIRMED
+*cited as: prose quoted clause "From the womb, before the morning star, I have begotten Thee." (Psalm 109:3 LXX)*
+- **NETS (Septuagint, modern):** “With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth.”
+- *Note:* Prose echo renders the Brenton-family wording ("before the morning star"); attribution "LXX" already in his line. The Wave-2 COS-04 seat (NETS Greek) stands. Les/Swete rows unchanged.
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### MIC 5 2 — CONFIRMED
+*cited as: prose quoted clause "whose goings-forth are from the beginning, from days of old/eternity."*
+- **NETS (Septuagint, modern):** “And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*.”
+- *Note:* Prose echo follows the KJV/Geneva-family wording; NETS Micah seat (COS-06) differs in phrasing ("his goings out were..."). Recorded per the rule of 10 Nov: other-family quotes in prose carry their Version italic-named — his line already names "LXX"/Micah 5:2.
+- *Checked 2026-11-11 · editions fetched: greek_rahlfs, nets*
+- *Double-checked (second source): nets ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -3406,6 +3746,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
 - *Double-checked (second source): trb ✓*
 
+## THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn
+
+### 1 Corinthians 1:30 — CONFIRMED
+*cited as: Greek + Geneva label in draft (book seat: Geneva 1599)*
+- **Geneva 1599:** “But ye are of him in Christ Iesus, who of God is made vnto vs wisedome and righteousnesse, and sanctification, and redemption,”
+- **KJV:** “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:”
+- **Ruling — apply Geneva 1599 exact:** “But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,”
+  (Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): trb ✓*
+
 ---
 
 ## Master index (by book)
@@ -3418,13 +3769,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 22:8 | P1-Q8, COS-02 | confirmed |
 | Genesis 22:13 | P1-Q8 | confirmed |
 | Genesis 22:14 | P1-Q8 | confirmed |
-| Genesis 22:16 | P1-Q8, COS-08 | confirmed |
+| Genesis 22:16 | P1-Q8, COS-08, COS-16 | anchor, confirmed |
 | Exodus 3:14 | P8, COS-11 | anchor, commentary, confirmed |
 | Exodus 3:15 | P1-Q3, P2, CLOSE | confirmed |
 | Exodus 6:3 | P1-Q3 | confirmed |
 | Exodus 13:21 | P8 | anchor |
 | Exodus 14:21 | P8 | anchor |
-| Exodus 17:6 | P8 | anchor |
+| Exodus 17:6 | P8, COS-16 | anchor |
 | Exodus 17:14 | P1-Q4 | confirmed |
 | Exodus 20:7 | P1-Q3, P7 | confirmed |
 | Exodus 31:18 | P1-Q3 | confirmed |
@@ -3448,7 +3799,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Proverbs 18:10 | CLOSE | confirmed |
 | Isaiah 29:13 | P7 | confirmed |
 | Isaiah 42:8 | P1-Q8 | confirmed |
-| Isaiah 52:13 | P1-Q8 | confirmed |
+| Isaiah 52:13 | P1-Q8, COS-16 | anchor, confirmed |
 | Isaiah 53:5 | P1-Q8 | confirmed |
 | Jeremiah 14:14 | P7 | confirmed |
 | Jeremiah 31:33 | P9 | confirmed |
@@ -3595,10 +3946,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -3628,7 +3979,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 21:3 | SAB12 | confirmed (excerpt) |
 | Revelation 12:17 | SAB12 | confirmed (excerpt) |
 | Revelation 14:12 | SAB12 | confirmed |
-| 1 Corinthians 1:30 | SAB7, COS-05 | anchor, confirmed |
+| 1 Corinthians 1:30 | SAB7, COS-05, COS-17 | anchor, confirmed |
 | 1 Corinthians 12:27 | SAB11 | anchor |
 | Acts 2:46 | SAB9 | anchor |
 | Acts 20:16 | SAB11 | anchor |
@@ -3660,8 +4011,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
-| Deuteronomy 6:4 | COS-01, COS-15 | anchor, confirmed |
-| Isaiah 44:6 | COS-01 | confirmed |
+| Deuteronomy 6:4 | COS-01, COS-15, COS-16 | anchor, confirmed |
+| Isaiah 44:6 | COS-01, COS-17 | anchor, confirmed |
 | Isaiah 44:8 | COS-01 | confirmed |
 | Isaiah 44:24 | COS-01 | confirmed |
 | Isaiah 45:5 | COS-01 | confirmed |
@@ -3677,14 +4028,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 1:6 | COS-01 | anchor |
 | Psalm 32:6 | COS-01 | commentary |
 | Mark 12:29 | COS-01 | confirmed |
-| John 17:3 | COS-01, COS-15 | anchor, confirmed |
-| 1 Corinthians 8:6 | COS-01, COS-15 | anchor, confirmed |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17 | anchor, confirmed |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16 | anchor, confirmed |
 | John 20:17 | COS-01 | confirmed |
 | Ephesians 1:17 | COS-01 | confirmed |
 | John 1:1 | COS-01 | anchor |
 | John 1:2 | COS-01 | anchor |
 | John 1:3 | COS-01 | anchor |
-| Colossians 1:16 | COS-01, COS-05 | anchor, confirmed |
+| Colossians 1:16 | COS-01, COS-05, COS-17 | anchor, confirmed |
 | Philippians 2:10 | COS-01 | anchor |
 | Philippians 2:11 | COS-01 | anchor |
 | Genesis 3:15 | COS-01 | confirmed |
@@ -3699,20 +4050,20 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:16 | COS-02 | confirmed |
 | Numbers 24:17 | COS-02 | confirmed |
 | Matthew 2:2 (Geneva) | COS-02 | differs (minor) |
-| PS 2 1-2 | COS-03 | confirmed |
-| PS 2 6-7 | COS-03 | confirmed |
+| PS 2 1-2 | COS-03, COS-16 | anchor, confirmed |
+| PS 2 6-7 | COS-03, COS-17 | anchor, confirmed |
 | PS 2 8 | COS-03 | confirmed |
 | PS 2 12 | COS-03 | confirmed |
-| ACT 2 36 | COS-03 | confirmed |
+| ACT 2 36 | COS-03, COS-16 | anchor, confirmed |
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03 | confirmed |
 | MAT 28 18 | COS-03 | confirmed |
-| PS 109 1 | COS-04 | confirmed |
-| PS 109 3 | COS-04 | differs-significant |
+| PS 109 1 | COS-04, COS-16 | anchor, confirmed |
+| PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
 | MAT 22 41-45 | COS-04 | confirmed |
-| ACT 2 34-36 | COS-04 | confirmed |
+| ACT 2 34-36 | COS-04, COS-17 | anchor, confirmed |
 | HEB 5 5-6 | COS-04 | differs (minor) |
 | HEB 7 21 | COS-04 | differs (minor) |
 | PRO 8 22 | COS-05 | confirmed |
@@ -3724,14 +4075,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | PRO 8 27 | COS-05 | confirmed |
 | PRO 8 30 | COS-05 | confirmed |
 | 1CO 1 24 | COS-05 | confirmed |
-| COL 1 15 | COS-05, COS-13 | anchor, confirmed |
-| COL 1 17 | COS-05 | confirmed |
-| MIC 5 2 | COS-06 | confirmed |
+| COL 1 15 | COS-05, COS-13, COS-17 | anchor, confirmed |
+| COL 1 17 | COS-05, COS-17 | confirmed |
+| MIC 5 2 | COS-06, COS-16, COS-17 | anchor, confirmed |
 | MAT 2 3 | COS-06 | confirmed |
 | MAT 2 4 | COS-06 | confirmed |
-| MAT 2 5 | COS-06 | confirmed |
-| MAT 2 6 | COS-06 | confirmed |
-| JHN 7 42 | COS-06 | confirmed |
+| MAT 2 5 | COS-06, COS-16, COS-17 | anchor, confirmed |
+| MAT 2 6 | COS-06, COS-17 | anchor, confirmed |
+| JHN 7 42 | COS-06, COS-16 | anchor, confirmed |
 | GEN 16 7 | COS-07 | confirmed |
 | GEN 16 8 | COS-07 | confirmed |
 | GEN 16 10 | COS-07 | confirmed |
@@ -3745,29 +4096,46 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 6 14 | COS-08 | confirmed |
 | Genesis 31:11 | COS-09 | confirmed |
 | Genesis 31:12 | COS-09 | anchor |
-| Genesis 31:13 | COS-09 | confirmed |
+| Genesis 31:13 | COS-09, COS-16 | anchor, confirmed |
 | Genesis 28:10-22 | COS-09 | anchor |
 | Genesis 32:25 | COS-10 | confirmed |
 | Genesis 32:29 | COS-10 | confirmed |
 | Genesis 32:31 | COS-10 | confirmed |
-| Genesis 32:26-30 | COS-10 | anchor |
+| Genesis 32:26-30 | COS-10, COS-16 | anchor |
 | Hosea 12:4 | COS-10 | confirmed |
 | Hosea 12:5 | COS-10 | confirmed |
 | Exodus 3:2 | COS-11 | confirmed |
 | Exodus 3:3 | COS-11 | anchor |
 | Exodus 3:4 | COS-11 | confirmed |
 | Exodus 3:5 | COS-11 | anchor |
-| Exodus 3:6 | COS-11 | confirmed |
+| Exodus 3:6 | COS-11, COS-16 | anchor, confirmed |
 | 1 Corinthians 10:1 | COS-12 | confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | Jude 5 | COS-12 | confirmed |
 | John 1:18 | COS-13 | confirmed |
 | John 6:46 | COS-13 | confirmed |
 | Exodus 33:20 | COS-13 | prose-ref |
-| Exodus 23:20 | COS-14 | confirmed |
-| Exodus 23:21 | COS-14 | confirmed |
+| Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
+| Exodus 23:21 | COS-14, COS-16 | confirmed |
 | John 17:11 | COS-14 | confirmed |
 | John 17:12 | COS-14 | confirmed |
+| Genesis 16:7 | COS-16 | confirmed |
+| Genesis 16:10 | COS-16 | confirmed |
+| Genesis 16:13 | COS-16 | confirmed |
+| Genesis 22:11 | COS-16 | confirmed |
+| Genesis 22:12 | COS-16 | confirmed |
+| Genesis 22:15 | COS-16 | confirmed |
+| Numbers 20:8 | COS-16 | anchor |
+| Acts 13:33 | COS-16 | anchor |
+| Psalm 22:1 | COS-16 | anchor |
+| 1 Corinthians 1:18 | COS-17 | confirmed |
+| 1 Corinthians 1:19 | COS-17 | confirmed |
+| 1 Corinthians 1:20 | COS-17 | confirmed |
+| 1 Corinthians 1:21 | COS-17 | confirmed |
+| 1 Corinthians 1:22 | COS-17 | confirmed |
+| 1 Corinthians 1:23 | COS-17 | confirmed |
+| 1 Corinthians 1:24 | COS-17 | confirmed |
+| Matthew 22:44 | COS-17 | anchor |
 
 ## The editions used
 

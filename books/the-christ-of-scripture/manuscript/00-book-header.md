@@ -28,6 +28,8 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation (John 1:18; 6:46)
 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him; John 17:11-12
 19. SUMMARY, the Picture Now Clarifying, and the Next Step
+20. A Question Arising — Let Us Be Very Circumspect: the Messenger Identification Retracted; Genesis 16 & 22 Re-read
+21. A Question Arising — Whose Wisdom Is It? — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn; the Honest Revised Position
 
 ---
 

@@ -67,7 +67,9 @@
    "COS-12",
    "COS-13",
    "COS-14",
-   "COS-15"
+   "COS-15",
+   "COS-16",
+   "COS-17"
   ],
   "sections": [
    {
@@ -283,6 +285,14 @@
    {
     "key": "COS-15",
     "label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step"
+   },
+   {
+    "key": "COS-16",
+    "label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read"
+   },
+   {
+    "key": "COS-17",
+    "label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn"
    }
   ],
   "double_check": {
@@ -302,6 +312,16 @@
     "date": "2026-11-07",
     "method": "GNV rows double-checked vs textusreceptusbibles.com (all agree); NETS verified via Rahlfs concurrence + raw PDF page spot-checks; Greek notes vs Swete + Rahlfs (OT) and biblehub /text/ (NT).",
     "notes": "LES rows captured from public citations; full LES pass awaits the author’s Logos copy."
+   },
+   "COS-16": {
+    "date": "2026-11-11",
+    "method": "GEN 16/22 re-seats: seat text pulled from the Wave-4 COS-07/08 rows, cut gloss-stripped, compared to the NETS cache (Rahlfs/Swete concurrence of Wave 4). GNV rows eBible=TRB 1.00. Draft Greek 1 Cor 1 via biblehub /text/ verse pages (Nestle/WH).",
+    "notes": ""
+   },
+   "COS-17": {
+    "date": "2026-11-11",
+    "method": "1 Cor 1:18-24, 30 + Col 1:15-17 Geneva fetched fresh from eBible and second-checked word-for-word vs textusreceptusbibles.com (14/14 ratio 1.00); draft Greek per-verse vs biblehub /text/ (cover 1.0 for all three groups; Col only the δι᾽/δι elision token).",
+    "notes": "Col/1Cor seat practice: modernized-orthography rendering of the Geneva wording stands from Waves 3-7; eBible/TRB print 1599 orthography. Flagged for his word (see so-far note)."
    }
   },
   "sabbath_roundup": {
@@ -328,7 +348,10 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 12387
+  "so_far_words": 12387,
+  "cos_sofar": {
+   "waves": 8
+  }
  },
  "verses": [
   {
@@ -685,6 +708,16 @@
       "version": "nets",
       "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn, says the Lord: Inasmuch as you have carried out this matter and for my sake have not spared your beloved son, I will indeed bless you with blessings, and I will make your offspring as numerously numerous *(greatly multiplied)* as the stars of the sky and as the sand that is by the seashore, …”"
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1373,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Witness list (1373-1376) cites 22:16; re-read 1475-1481 re-quotes the 15-16 head cut. Book seat unchanged from Wave 4 (COS-08)."
     }
    ],
    "verified": "2026-11-11",
@@ -1059,6 +1092,16 @@
      "status": "anchor",
      "matched_source": null,
      "note": ""
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1390,
+     "cited_as": "prose ref (Ex 17:6)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Rock at Horeb; NETS text backfilled from cache in passing."
     }
    ],
    "verified": "2026-11-02",
@@ -1074,6 +1117,10 @@
     "kjv": {
      "text": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.",
      "source": "https://ebible.org/eng-kjv2006/EXO17.htm"
+    },
+    "nets": {
+     "text": "I here have taken my stand, before you came, on the rock at Choreb. And you shall strike the rock, and water will come out of it, and the people will drink.” And Moyses did so before the sons of Israel.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/02-exod-nets.pdf"
     }
    },
    "second_check": {
@@ -2298,6 +2345,16 @@
      "status": "confirmed",
      "matched_source": "brenton",
      "note": "Exact Brenton wording"
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1518,
+     "cited_as": "range ref \"Isaiah 52:13-53:12\" (and \"Isaiah 53\" at 1663)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "ANCHOR: the Suffering-Servant passage; seat waits for the Suffering-Servant wave."
     }
    ],
    "verified": "2026-11-02",
@@ -9950,6 +10007,25 @@
       "version": "gnv",
       "text": "But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God. … But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,"
      }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1560,
+     "cited_as": "Greek + Geneva label in draft (book seat: Geneva 1599)",
+     "quote_kind": "greek+geneva rows (seat GNV)",
+     "quotes": [
+      "But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,"
+     ],
+     "status": "confirmed",
+     "note": "Draft Greek 100% vs BibleHub. Row keeps the Wave-3 COS-05 seat history (1 Cor 1:24,30 witness pair, now withdrawn by the retraction).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,",
+      "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -10800,6 +10876,16 @@
       "version": "gnv",
       "text": ""
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1507,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Established-list cite (\"The Father is the One God\")."
     }
    ],
    "verified": "2026-11-11",
@@ -10870,6 +10956,16 @@
      },
      "was": "Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1628,
+     "cited_as": "table cite \"Isa 44-46\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Honest Revised Position table."
     }
    ],
    "verified": "2026-11-07",
@@ -11872,6 +11968,26 @@
       "version": "gnv",
       "text": ""
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1507,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Established-list cite (\"The Father is the One God\")."
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1507,
+     "cited_as": "prose ref (already banked arc 1 too)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -11930,6 +12046,16 @@
       "version": "gnv",
       "text": ""
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1507,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Established-list cite (\"The Father is the One God\")."
     }
    ],
    "verified": "2026-11-11",
@@ -12188,6 +12314,25 @@
       "ruling": "seat",
       "version": "gnv",
       "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1606,
+     "cited_as": "Greek + Geneva label in draft (book seat: Geneva 1599)",
+     "quote_kind": "greek+geneva rows (seat GNV)",
+     "quotes": [
+      "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans 1:15-17 (Wave-3 seat text, no ellipsis). Draft Greek re-verified vs BibleHub (0.958 word-set; only the δι᾽/δι elision token — no variant).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.",
+      "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage)."
      }
     }
    ],
@@ -12896,6 +13041,16 @@
       "version": "nets",
       "text": "Why did nations grow insolent, and peoples contemplate vain things? The kings of the earth stood side by side, and the rulers gathered together, against the Lord and against his anointed."
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1508,
+     "cited_as": "prose ref \"Ps 2\" (and table 1629)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Ps 2 cited as established (COS-03 seats)."
     }
    ],
    "verified": "2026-11-10",
@@ -12927,6 +13082,16 @@
       "version": "nets",
       "text": "\"But I was established king by him, on Sion *(Zion)*, his holy mountain, by proclaiming the Lord’s ordinance: The Lord said to me, \"My son you are; today I have begotten you.\""
      }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1629,
+     "cited_as": "table cite \"Acts 13:33 cites it\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table row: the Father's Begotten/Anointed in Ps 2 (Acts 13:33 cites it)."
     }
    ],
    "verified": "2026-11-10",
@@ -13020,6 +13185,16 @@
       "version": "gnv",
       "text": "For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified."
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1508,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "\"made Lord and Christ ... (Acts 2:36; 13:33)\"."
     }
    ],
    "verified": "2026-11-10",
@@ -13180,6 +13355,16 @@
       "version": "nets",
       "text": "The Lord said to my lord, \"Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet.\""
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1508,
+     "cited_as": "prose ref \"Ps 109/110 LXX\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Ps 110 cited as established (COS-04 seats)."
     }
    ],
    "verified": "2026-11-10",
@@ -13211,6 +13396,18 @@
       "version": "nets",
       "text": "With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth."
      }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1641,
+     "cited_as": "prose quoted clause \"From the womb, before the morning star, I have begotten Thee.\" (Psalm 109:3 LXX)",
+     "quote_kind": "prose-echo",
+     "quotes": [
+      "From the womb, before the morning star, I have begotten Thee."
+     ],
+     "status": "confirmed",
+     "note": "Prose echo renders the Brenton-family wording (\"before the morning star\"); attribution \"LXX\" already in his line. The Wave-2 COS-04 seat (NETS Greek) stands. Les/Swete rows unchanged."
     }
    ],
    "verified": "2026-11-10",
@@ -13344,6 +13541,16 @@
       "version": "gnv",
       "text": "For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footstool. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified."
      }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1630,
+     "cited_as": "table cite",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Honest Revised Position table (COS-04 seats hold the verses)."
     }
    ],
    "verified": "2026-11-10",
@@ -13809,6 +14016,25 @@
       "version": "gnv",
       "text": ""
      }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1606,
+     "cited_as": "Greek + Geneva label in draft (book seat: Geneva 1599)",
+     "quote_kind": "greek+geneva rows (seat GNV)",
+     "quotes": [
+      "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans 1:15-17 (Wave-3 seat text, no ellipsis). Draft Greek re-verified vs BibleHub (0.958 word-set; only the δι᾽/δι elision token — no variant).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.",
+      "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage)."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -13848,6 +14074,25 @@
       "ruling": "seat",
       "version": "gnv",
       "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1606,
+     "cited_as": "Greek + Geneva label in draft (book seat: Geneva 1599)",
+     "quote_kind": "greek+geneva rows (seat GNV)",
+     "quotes": [
+      "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans 1:15-17 (Wave-3 seat text, no ellipsis). Draft Greek re-verified vs BibleHub (0.958 word-set; only the δι᾽/δι elision token — no variant).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.",
+      "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage)."
      }
     }
    ],
@@ -13889,6 +14134,28 @@
       "version": "nets",
       "text": "And you, O Bethleem *(Bethlehem)*, house of Ephratha *(Ephrathah)*, are very few in number to be among the thousands of Ioudas *(Judah)*; one from you shall come forth for me to become a ruler in Israel, and his goings forth are from of old, from days of yore *(long ago)*."
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1510,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "\"fulfilled at Bethlehem (Matt 2; John 7:42)\" — COS-06 seats hold the verse."
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1643,
+     "cited_as": "prose quoted clause \"whose goings-forth are from the beginning, from days of old/eternity.\"",
+     "quote_kind": "prose-echo",
+     "quotes": [
+      "whose goings-forth are from the beginning, from days of old/eternity."
+     ],
+     "status": "confirmed",
+     "note": "Prose echo follows the KJV/Geneva-family wording; NETS Micah seat (COS-06) differs in phrasing (\"his goings out were...\"). Recorded per the rule of 10 Nov: other-family quotes in prose carry their Version italic-named — his line already names \"LXX\"/Micah 5:2."
     }
    ],
    "verified": "2026-11-11",
@@ -14001,6 +14268,26 @@
       "version": "gnv",
       "text": "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1510,
+     "cited_as": "prose ref \"Matt 2\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Birthplace cite."
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1631,
+     "cited_as": "table cite \"Matt 2:5-6\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Honest Revised Position table."
     }
    ],
    "verified": "2026-11-11",
@@ -14037,6 +14324,16 @@
       "version": "gnv",
       "text": "When King Herod heard this, he was troubled, and all Jerusalem with him. And gathering together all the chief Priests and Scribes of the people, he asked of them, where Christ should be born. And they said unto him, At Beth-leem in Judea: for so it is written by the Prophet, And thou Beth-leem in the land of Judah, art not the least among the Princes of Judah: For out of thee shall come the governor that shall feed that my people Israel."
      }
+    },
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1631,
+     "cited_as": "table cite \"Matt 2:5-6\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Honest Revised Position table."
     }
    ],
    "verified": "2026-11-11",
@@ -14073,6 +14370,16 @@
       "version": "gnv",
       "text": "Saith not the Scripture that that Christ shall come of the seed of David, and out of the town of Beth-leem, where David was?"
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1510,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Birthplace cite."
     }
    ],
    "verified": "2026-11-11",
@@ -14641,6 +14948,16 @@
       "version": "nets",
       "text": "And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. …"
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1373,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Witness list cites Gen 31:13."
     }
    ],
    "verified": "2026-11-11",
@@ -14848,6 +15165,16 @@
       "version": "",
       "text": ""
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1374,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Witness list cites 32:30 (group row 26-30, COS-10)."
     }
    ],
    "verified": "2026-11-11",
@@ -15127,6 +15454,16 @@
       "version": "nets",
       "text": "Now an angel of the Lord appeared to him in a fire of flame out of the bush, … Now when the Lord saw that he was drawing near to see, the Lord called him from the bush, saying, “Moyses *(Moses)*, Moyses.” And he said, “What is it?” … And he said to him, “I am the God of your father, God of Abraam *(Abraham)* and God of Isaak *(Isaac)* and God of Iakob *(Jacob)*.” … "
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1373,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Witness list cites Ex 3:6 (COS-11 seat)."
     }
    ],
    "verified": "2026-11-11",
@@ -15421,6 +15758,16 @@
       "version": "nets",
       "text": "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1407,
+     "cited_as": "prose ref",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "ESTABLISHED block re-cites Ex 23:20."
     }
    ],
    "verified": "2026-11-11",
@@ -15470,6 +15817,19 @@
       "version": "nets",
       "text": "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
      }
+    },
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1406,
+     "cited_as": "prose quoted clause \"My Name is in Him\"",
+     "quote_kind": "prose-echo",
+     "quotes": [
+      "My Name is in Him"
+     ],
+     "status": "confirmed",
+     "note": "Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat (\"my name is upon him\") with the attributed Geneva clause noted.",
+     "matched_source": "gnv"
     }
    ],
    "verified": "2026-11-11",
@@ -15578,6 +15938,651 @@
      "text": "ὅτε ἤμην μετ’ αὐτῶν, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. ΚΑΤΑ ΙΩΑΝΝΗΝ 17:12 Greek NT: Nestle 1904 ὅτε ἤμην μετ’ αὐτῶν, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. ΚΑΤΑ ΙΩΑΝΝΗΝ 17:12 Greek NT: Westcott and Hort 1881 Ὅτε ἤμην μετ' αὐτῶν ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπω",
      "source": "https://biblehub.com/text/john/17-12.htm",
      "result": "Draft v12 fragment = Nestle word-for-word"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.7",
+   "ref": "Genesis 16:7",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1437,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "But the Lord God’s angel found her by the spring of water in the wilderness …"
+     ],
+     "status": "confirmed",
+     "note": "Draft Greek = Rahlfs verbatim (checked Wave 4). Seat cut at \"wilderness …\" per the draft ellipsis.",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "But the Lord God’s angel found her by the spring of water in the wilderness …",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.10",
+   "ref": "Genesis 16:10",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1443,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”"
+     ],
+     "status": "confirmed",
+     "note": "Same seat as Wave 4 (COS-07); re-seated in the re-read.",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "text": "The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
+    }
+   }
+  },
+  {
+   "id": "GEN.16.13",
+   "ref": "Genesis 16:13",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1449,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …"
+     ],
+     "status": "confirmed",
+     "note": "Seat cut at the compound name …\" per the draft ellipsis (the She-sees clause of the verse follows the ellipsis).",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.11",
+   "ref": "Genesis 22:11",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1471,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son."
+     ],
+     "status": "confirmed",
+     "note": "One seat spans 22:11-12; draft ellipsis covers the summons and the \"Do not lay your hand\" half of v12.",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "text": "And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.12",
+   "ref": "Genesis 22:12",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1471,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son."
+     ],
+     "status": "confirmed",
+     "note": "Same group seat as 22:11; the draft quotes v12 from \"for now I know\" through \"for my sake (δι᾽ ἐμέ)\".",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "text": "And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
+    }
+   }
+  },
+  {
+   "id": "GEN.22.15",
+   "ref": "Genesis 22:15",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1475,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …”"
+     ],
+     "status": "confirmed",
+     "note": "One seat spans 22:15-16 head; the draft quotes through λέγει Κύριος (\"says the Lord:\"). The oath-body (v16) and blessing (v17-18) sit under the ellipsis — the full seat is Wave 4 (COS-08).",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …”",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord’s angel called Abraam a second time from the sky, saying,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "nets": {
+     "text": "And the Lord’s angel called Abraam a second time from the sky, saying,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
+    }
+   }
+  },
+  {
+   "id": "NUM.20.8",
+   "ref": "Numbers 20:8",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1390,
+     "cited_as": "chapter ref (Ex 17 / Num 20)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Rock at Meribah — anchor for the \"(Ex 17 / Num 20)\" cite; cache for Numbers not yet parsed (open backfill flag)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/04-num-nets.pdf"
+    }
+   },
+   "second_check": {}
+  },
+  {
+   "id": "ACT.13.33",
+   "ref": "Acts 13:33",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1508,
+     "cited_as": "prose ref \"Acts 2:36; 13:33\" (and table 1629)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "\"Thou art my Sonne; this day haue I begotten thee.\" — the Ps 2 begetting cite; text banked for later witnessing."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.",
+     "source": "https://ebible.org/enggnv/ACT13.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "God hath fulfilled it vnto vs their children, in that he raised vp Iesus, euen as it is written in the seconde Psalme, Thou art my Sonne: this day haue I begotten thee.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/13",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    }
+   }
+  },
+  {
+   "id": "PSA.22.1",
+   "ref": "Psalm 22:1",
+   "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1518,
+     "cited_as": "chapter ref \"Psalm 22 (LXX 21)\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "ANCHOR: the draft cites Psalm 22 (LXX 21 = MT 22) for the suffering Psalms (1518, 1663). Seat waits for the Suffering-Servant wave."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "1CO.1.18",
+   "ref": "1 Corinthians 1:18",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1529,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:"
+     ],
+     "status": "confirmed",
+     "note": "Seat spans vv 18-21 (one blockquote). Draft Greek for the span verified 100% vs BibleHub.",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For that preaching of the crosse is to them that perish, foolishnesse: but vnto vs, which are saued, it is the power of God.",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "For that preaching of the crosse is to them that perish, foolishnesse: but vnto vs, which are saued, it is the power of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-18.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.19",
+   "ref": "1 Corinthians 1:19",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1529,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:"
+     ],
+     "status": "confirmed",
+     "note": "Same group seat (18-21).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For it is written, I will destroy the wisedome of the wise, and will cast away the vnderstanding of the prudent.",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "For it is written, I will destroy the wisedome of the wise, and will cast away the vnderstanding of the prudent.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-19.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.20",
+   "ref": "1 Corinthians 1:20",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1529,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:"
+     ],
+     "status": "confirmed",
+     "note": "Same group seat (18-21).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Where is the wise? where is the Scribe? where is the disputer of this worlde? hath not God made the wisedome of this worlde foolishnesse?",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "Where is the wise? where is the Scribe? where is the disputer of this worlde? hath not God made the wisedome of this worlde foolishnesse?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-20.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.21",
+   "ref": "1 Corinthians 1:21",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1529,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:"
+     ],
+     "status": "confirmed",
+     "note": "Same group seat (18-21).",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For that preaching of the cross is to them that perish, foolishness: but unto us, which are saued, it is the power of God. For it is written, I will destroy the wisdom of the wise, and will cast away the vnderstanding of the prudent. Where is the wise? where is the Scribe? where is the disputer of this world? hath not God made the wisdom of this world foolishness? For seeing the world by wisdom knewe not God in the wisdom of GOD, it pleased God by the foolishness of preaching to save them that believe:",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:18-21."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For seeing the worlde by wisedome knewe not God in the wisedome of GOD, it pleased God by the foolishnesse of preaching to saue them that beleeue:",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "For seeing the worlde by wisedome knewe not God in the wisedome of GOD, it pleased God by the foolishnesse of preaching to saue them that beleeue:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-21.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.22",
+   "ref": "1 Corinthians 1:22",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1536,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans vv 22-24 (one blockquote). Draft Greek 100% vs BibleHub. (v24 history: coded row 1CO 1 24 carries the Wave-3 1:24,30 seat.)",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Seeing also that the Iewes require a signe, and the Grecians seeke after wisdome.",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "Seeing also that the Iewes require a signe, and the Grecians seeke after wisdome.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-22.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.23",
+   "ref": "1 Corinthians 1:23",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1536,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans vv 22-24 (one blockquote). Draft Greek 100% vs BibleHub. (v24 history: coded row 1CO 1 24 carries the Wave-3 1:24,30 seat.)",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But wee preach Christ crucified: vnto the Iewes, euen a stumbling blocke, and vnto the Grecians, foolishnesse:",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "But wee preach Christ crucified: vnto the Iewes, euen a stumbling blocke, and vnto the Grecians, foolishnesse:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-23.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "1CO.1.24",
+   "ref": "1 Corinthians 1:24",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1536,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans vv 22-24 (one blockquote). Draft Greek 100% vs BibleHub. (v24 history: coded row 1CO 1 24 carries the Wave-3 1:24,30 seat.)",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.",
+     "source": "https://ebible.org/enggnv/1CO01.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-24.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
+    }
+   }
+  },
+  {
+   "id": "MAT.22.44",
+   "ref": "Matthew 22:44",
+   "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1630,
+     "cited_as": "table cite \"Acts 2:34-36; Matt 22:44\"",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "note": "Text banked for the Ps 110 apostolic-citation witness (modernized: The Lord said to my Lord, Sit at my right hand, till I make ...)"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole?",
+     "source": "https://ebible.org/enggnv/MAT22.htm"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "The Lord sayd to my Lord, Sit at my right hand, till I make thine enemies thy footestoole?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/22",
+     "result": "eBible=TRB (ratio 1.00)"
     }
    }
   }
