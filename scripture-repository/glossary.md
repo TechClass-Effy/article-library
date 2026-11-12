@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1052 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1057 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1223 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1228 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -11789,6 +11789,63 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
 
+## PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life
+
+### John 4:24 — CONFIRMED
+*cited as: John 4:23-24 seat (re-present; seat of record COS-53)*
+- **Geneva 1599:** “God is a Spirite, and they that worship him, must worship him in spirit and trueth.”
+- *Note:* joined blockquote; v24 print == banked (banked==fresh assert passed); folds only
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim (‹αὐτὸν› bracket is WH apparatus, not text)*
+
+### John 4:23 — CONFIRMED
+*cited as: John 4:23-24 seat (joined blockquote; v24 seat of record COS-53)*
+- **Geneva 1599:** “But the houre commeth, and nowe is, when the true worshippers shall worship the Father in spirit, and trueth: for the Father requireth euen such to worship him.”
+- *Note:* draft GNV exact-modern vs the 1599 print — no splice (houre/commeth/nowe/trueth/euen/Spirite folds); the draft Greek head dropped per seat shape and the Greek survives in the observation prose
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 13:15 — CONFIRMED
+*cited as: Hebrews 13:15 seat (1599 print comma restored)*
+- **Geneva 1599:** “Let vs therefore by him offer the sacrifice of prayse alwaies to God, that is, the fruite of the lippes, which confesse his Name.”
+- *Note:* SPLICE: the draft drops the print comma — "that is the fruit" seated per 1599 "that is, the fruite"; 1599 prints vs/prayse/alwaies/fruite/lippes/confesse — modern spelling class
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Ephesians 5:18 — CONFIRMED
+*cited as: Ephesians 5:18-20 seat (re-present; seat of record COS-70)*
+- **Geneva 1599:** “And be not drunke with wine, wherein is excesse: but be fulfilled with the Spirit,”
+- *Note:* the draft ellipsis covers the v18 drunkard head (not repeated); v18 tail keeps the 1599 "fulfilled" + *(filled)* gloss (COS-70 precedent); banked==fresh assert passed
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 1.0*
+
+### Ephesians 5:19 — CONFIRMED
+*cited as: Ephesians 5:18-20 seat (span member)*
+- **Geneva 1599:** “Speaking vnto your selues in psalmes, and hymnes, and spirituall songs, singing, and making melodie to the Lord in your hearts,”
+- *Note:* draft exact-modern vs the print (vnto/your selues→yourselves/psalmes/hymnes/spirituall/melodie folds); the three song categories live in the observation prose per seat shape
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Ephesians 5:20 — CONFIRMED
+*cited as: Ephesians 5:18-20 seat (span member; the through-the-Son-to-the-Father pattern)*
+- **Geneva 1599:** “Giuing thankes alwaies for all thinges vnto God euen the Father, in the Name of our Lord Iesus Christ,”
+- *Note:* draft exact-modern vs the print (Giuing/thankes/alwaies/thinges/vnto/euen/Iesus folds)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 12:1 — ANCHOR
+*cited as: narrative mention 'as Romans 12:1 established' (Worship in Daily Life intro)*
+- **Geneva 1599:** “I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.955)*
+
+### Proverbs 3:6 — PROSE-REF
+*cited as: Worship in Daily Life bullet — *"In all thy ways acknowledge him, and he shall direct thy paths"* (Prov 3:6 Geneva)*
+- **Geneva 1599:** “In all thy wayes acknowledge him, and he shall direct thy wayes.”
+- *Note:* flag below — the quote tail is KJV-voiced; the 1599 prints "he shall direct thy wayes" (twice).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -13667,7 +13724,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -13769,7 +13826,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -14092,7 +14149,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -14197,7 +14254,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 3:29 | COS-24 | anchor |
 | John 3:31 | COS-21 | confirmed (excerpt) |
 | John 1:4 | COS-21 | confirmed |
-| John 4:24 | COS-50, COS-53, COS-56, COS-58 | anchor, prose-ref, seat |
+| John 4:24 | COS-50, COS-53, COS-56, COS-58, COS-77 | anchor, confirmed, prose-ref, seat |
 | John 4:25-26 | COS-28 | anchor |
 | John 1:5 | COS-21 | confirmed |
 | John 5:19 | COS-26, COS-43 | confirmed, prose-ref |
@@ -14384,7 +14441,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -14723,7 +14780,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:21 | COS-69 | anchor |
 | Romans 6:19 | COS-69 | anchor |
 | Romans 8:13 | COS-69, COS-70 | anchor, confirmed |
-| Romans 12:1 | COS-69, COS-70, COS-71 | anchor, confirmed |
+| Romans 12:1 | COS-69, COS-70, COS-71, COS-77 | anchor, confirmed |
 | 2 Corinthians 10:5 | COS-69 | anchor |
 | Galatians 5:22 | COS-69, COS-70, COS-72 | anchor, confirmed |
 | Galatians 5:23 | COS-69, COS-70, COS-72 | anchor, confirmed |
@@ -14753,7 +14810,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 8:39 | COS-70 | confirmed |
 | Galatians 5:16 | COS-70 | confirmed |
 | Galatians 5:17 | COS-70 | confirmed |
-| Ephesians 5:18 | COS-70 | confirmed |
+| Ephesians 5:18 | COS-70, COS-77 | confirmed |
 | Philippians 2:12 | COS-70 | confirmed |
 | Romans 12:2 | COS-71, COS-76 | anchor, confirmed |
 | Romans 12:9 | COS-71 | confirmed |
@@ -14823,6 +14880,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 1:1 (LXX = MT) | COS-76 | confirmed (excerpt) |
 | Psalm 1:2 (LXX = MT) | COS-76 | confirmed |
 | Psalm 119:11 (MT; LXX 118:11) | COS-76 | confirmed |
+| John 4:23 | COS-77 | confirmed |
+| Hebrews 13:15 | COS-77 | confirmed |
+| Ephesians 5:19 | COS-77 | confirmed |
+| Ephesians 5:20 | COS-77 | confirmed |
+| Proverbs 3:6 | COS-77 | prose-ref |
 
 ## The editions used
 

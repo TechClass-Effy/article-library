@@ -133,3 +133,9 @@ seat verbatim — draft excerpt honored); Memorizing (Psalm 118:11 LXX (= MT 119
 "promise", NETS "sayings"); Studying; Applying/Obeying (James 1:22-25 selections); the Practical
 Implications with the commentary warning; all four NT seats exact-modern vs the 1599 print — no splices;
 the Greek rows drop and the load-bearing Greek survives in the observations).
+73. (C) PART 3 — WORSHIP AND PRAISE (COS-77 — the Foundation: Worship in Spirit and Truth
+(John 4:23-24, re-present — seat of record COS-53; joined blockquote, draft exact-modern, no splice)
+and the Sacrifice of Praise (Hebrews 13:15 — the 1599 print comma "that is," restored); the Modes of
+Worship (Ephesians 5:18-20 span — draft excerpt honored, the 1599 "fulfilled" seated verbatim with the
+*(filled)* gloss); Worship in Daily Life (Prov 3:6 inline — KJV echo "paths" vs 1599 "wayes" twice,
+row-flagged; Romans 12:1 mention). EB==TRB 7/7 fresh; WH Greek 1.000 on all three blocks).

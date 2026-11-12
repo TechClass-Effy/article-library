@@ -128,7 +128,8 @@
    "COS-73",
    "COS-74",
    "COS-75",
-   "COS-76"
+   "COS-76",
+   "COS-77"
   ],
   "sections": [
    {
@@ -588,6 +589,10 @@
    {
     "key": "COS-76",
     "label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND — The Nature of Scripture; the Word's Active Power; the Modes of Engaging the Word; Practical Implications"
+   },
+   {
+    "key": "COS-77",
+    "label": "PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life"
    }
   ],
   "double_check": {
@@ -648,11 +653,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 106331,
+  "so_far_words": 106853,
   "cos_sofar": {
-   "waves": 46
+   "waves": 47
   },
-  "glossary": 1223
+  "glossary": 1228
  },
  "verses": [
   {
@@ -28475,6 +28480,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "the Father is Spirit by Nature (wave-27 seat verse)."
+    },
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12082,
+     "cited_as": "John 4:23-24 seat (re-present; seat of record COS-53)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "joined blockquote; v24 print == banked (banked==fresh assert passed); folds only",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50538,6 +50553,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12151,
+     "cited_as": "narrative mention 'as Romans 12:1 established' (Worship in Daily Life intro)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
     }
    ],
    "verified": "2026-11-12",
@@ -51561,6 +51586,16 @@
      ],
      "status": "confirmed",
      "note": "1599 prints \"be fulfilled with the Spirit\" (= filled; eBible==TRB both); draft KJV-voiced \"filled\" — print seated + *(filled)* gloss.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12124,
+     "cited_as": "Ephesians 5:18-20 seat (re-present; seat of record COS-70)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "the draft ellipsis covers the v18 drunkard head (not repeated); v18 tail keeps the 1599 \"fulfilled\" + *(filled)* gloss (COS-70 precedent); banked==fresh assert passed",
      "quote_kind": "seat"
     }
    ],
@@ -53913,6 +53948,183 @@
     }
    },
    "diff_notes": "GNV \"sinne/I haue\" 1599 orthography; draft modern spelling"
+  },
+  {
+   "id": "JHN.4.23",
+   "ref": "John 4:23",
+   "uses": [
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12082,
+     "cited_as": "John 4:23-24 seat (joined blockquote; v24 seat of record COS-53)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft GNV exact-modern vs the 1599 print — no splice (houre/commeth/nowe/trueth/euen/Spirite folds); the draft Greek head dropped per seat shape and the Greek survives in the observation prose",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But the houre commeth, and nowe is, when the true worshippers shall worship the Father in spirit, and trueth: for the Father requireth euen such to worship him.",
+     "source": "https://ebible.org/enggnv/JHN04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But the houre commeth, and nowe is, when the true worshippers shall worship the Father in spirit, and trueth: for the Father requireth euen such to worship him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΚΑΤΑ ΙΩΑΝΝΗΝ ἀλλὰ ἔρχεται ὥρα καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ Πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ καὶ γὰρ ὁ Πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν ΚΑΤΑ ΙΩΑΝΝΗΝ ἀλλὰ ἔρχεται ὥρα καὶ νῦν ἐστίν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ, καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν ΚΑΤΑ ΙΩΑΝΝΗΝ ἀλλὰ ἔρχεται ὥρα καὶ νῦν ἐστίν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ, καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν ΚΑΤΑ ΙΩΑΝΝΗΝ Ἀλλ’ ἔρχεται ὥρα καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀλλ’ ἔρχεται ὥρα, καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσι τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀλλὰ ἔρχεται ὥρα καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀλλ’ ἔρχεται ὥρα καὶ νῦν ἐστιν, ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσι τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἔρχεται ὥρα καὶ νῦν ἐστιν ὅτε οἱ ἀληθινοὶ προσκυνηταὶ προσκυνήσουσιν τῷ πατρὶ ἐν πνεύματι καὶ ἀληθείᾳ καὶ γὰρ ὁ πατὴρ τοιούτους ζητεῖ τοὺς προσκυνοῦντας αὐτόν ΚΑΤΑ ΙΩΑΝΝΗΝ Πνεῦμα ὁ Θεός, καὶ τοὺς προσκυνοῦντας ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. ΚΑΤΑ ΙΩΑΝΝΗΝ πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. ΚΑΤΑ ΙΩΑΝΝΗΝ πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. ΚΑΤΑ ΙΩΑΝΝΗΝ Πνεῦμα ὁ θεός καὶ τοὺς προσκυνοῦντας αὐτόν, ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. ΚΑΤΑ ΙΩΑΝΝΗΝ πνεῦμα ὁ Θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. ΚΑΤΑ ΙΩΑΝΝΗΝ πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας ἐν πνεύματι καὶ ἀληθείᾳ προσκυνεῖν δεῖ. ΚΑΤΑ ΙΩΑΝΝΗΝ Πνεῦμα ὁ Θεός καὶ τοὺς προσκυνοῦντας αὐτόν, ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν. ΚΑΤΑ ΙΩΑΝΝΗΝ πνεῦμα ὁ θεός καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν",
+     "source": "https://biblehub.com/text/john/4-23 + 4-24 (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "1599 prints houre/commeth/nowe/euen/trueth/Spirite — modern spelling class"
+  },
+  {
+   "id": "HEB.13.15",
+   "ref": "Hebrews 13:15",
+   "uses": [
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12106,
+     "cited_as": "Hebrews 13:15 seat (1599 print comma restored)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SPLICE: the draft drops the print comma — \"that is the fruit\" seated per 1599 \"that is, the fruite\"; 1599 prints vs/prayse/alwaies/fruite/lippes/confesse — modern spelling class",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let vs therefore by him offer the sacrifice of prayse alwaies to God, that is, the fruite of the lippes, which confesse his Name.",
+     "source": "https://ebible.org/enggnv/HEB13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let vs therefore by him offer the sacrifice of prayse alwaies to God, that is, the fruite of the lippes, which confesse his Name.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/13",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ δι’ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ Θεῷ, τοῦτ’ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ αὐτοῦ ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, τοῦτ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ αὐτοῦ [οὖν] ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, τοῦτ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ Δι’ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, τοῦτ’ ἔστιν, καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ δι’ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ Θεῷ, τοῦτ’ ἔστι καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ διά αὐτός οὖν ἀναφέρω θυσία αἴνεσις διαπαντός ὁ θεός οὗτος εἰμί καρπός χεῖλος ὁμολογέω ὁ ὄνομα αὐτός ΠΡΟΣ ΕΒΡΑΙΟΥΣ δι’ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ Θεῷ, τοῦτ’ ἔστι καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ. ΠΡΟΣ ΕΒΡΑΙΟΥΣ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διαπαντός τῷ θεῷ τοῦτ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ",
+     "source": "https://biblehub.com/text/hebrews/13-15.htm (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print comma restored; else folds only"
+  },
+  {
+   "id": "EPH.5.19",
+   "ref": "Ephesians 5:19",
+   "uses": [
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12124,
+     "cited_as": "Ephesians 5:18-20 seat (span member)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft exact-modern vs the print (vnto/your selues→yourselves/psalmes/hymnes/spirituall/melodie folds); the three song categories live in the observation prose per seat shape",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Speaking vnto your selues in psalmes, and hymnes, and spirituall songs, singing, and making melodie to the Lord in your hearts,",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Speaking vnto your selues in psalmes, and hymnes, and spirituall songs, singing, and making melodie to the Lord in your hearts,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΦΕΣΙΟΥΣ καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, ΠΡΟΣ ΕΦΕΣΙΟΥΣ καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι, ΠΡΟΣ ΕΦΕΣΙΟΥΣ καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι, ΠΡΟΣ ΕΦΕΣΙΟΥΣ Καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι, ΠΡΟΣ ΕΦΕΣΙΟΥΣ καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, ΠΡΟΣ ΕΦΕΣΙΟΥΣ καί μή μεθύσκω οἶνος ἐν ὅς εἰμί ἀσωτία ἀλλά πληρόω ἐν πνεῦμα ΠΡΟΣ ΕΦΕΣΙΟΥΣ καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, ΠΡΟΣ ΕΦΕΣΙΟΥΣ καὶ μὴ μεθύσκεσθε οἴνῳ ἐν ᾧ ἐστιν ἀσωτία ἀλλὰ πληροῦσθε ἐν πνεύματι ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς [ἐν] ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλέω ἑαυτοῦ ψαλμός καί ὕμνος καί ᾠδή πνευματικός ᾄδω καί ψάλλω ὁ καρδία ὑμεῖς ὁ κύριος ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς, ᾄδοντες καὶ ψάλλοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ Κυρίῳ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ λαλοῦντες ἑαυτοῖς ψαλμοῖς καὶ ὕμνοις καὶ ᾠδαῖς πνευματικαῖς ᾄδοντες καὶ ψάλλοντες ἐν τῇ καρδίᾳ ὑμῶν τῷ κυρίῳ ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ Θεῷ καὶ Πατρί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ θεῷ καὶ πατρί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ θεῷ καὶ πατρί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ χριστοῦ τῷ θεῷ καὶ πατρί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ Θεῷ καὶ πατρί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστέω πάντοτε ὑπέρ πᾶς ἐν ὄνομα ὁ κύριος ἡμᾶς Ἰησοῦς Χριστός ὁ θεός καί πατήρ ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ Θεῷ καὶ πατρί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ εὐχαριστοῦντες πάντοτε ὑπὲρ πάντων ἐν ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῷ θεῷ καὶ πατρί",
+     "source": "https://biblehub.com/text/ephesians/5-18,5-19,5-20 (WH, joined)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print \"your selues\" = modern yourselves; else folds only"
+  },
+  {
+   "id": "EPH.5.20",
+   "ref": "Ephesians 5:20",
+   "uses": [
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12124,
+     "cited_as": "Ephesians 5:18-20 seat (span member; the through-the-Son-to-the-Father pattern)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft exact-modern vs the print (Giuing/thankes/alwaies/thinges/vnto/euen/Iesus folds)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Giuing thankes alwaies for all thinges vnto God euen the Father, in the Name of our Lord Iesus Christ,",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Giuing thankes alwaies for all thinges vnto God euen the Father, in the Name of our Lord Iesus Christ,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": "folds only"
+  },
+  {
+   "id": "PRO.3.6",
+   "ref": "Proverbs 3:6",
+   "uses": [
+    {
+     "section": "COS-77",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life",
+     "article_line": 12153,
+     "cited_as": "Worship in Daily Life bullet — *\"In all thy ways acknowledge him, and he shall direct thy paths\"* (Prov 3:6 Geneva)",
+     "quotes": [
+      "In all thy ways acknowledge him, and he shall direct thy paths"
+     ],
+     "status": "prose-ref",
+     "note": "flag below — the quote tail is KJV-voiced; the 1599 prints \"he shall direct thy wayes\" (twice).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In all thy wayes acknowledge him, and he shall direct thy wayes.",
+     "source": "https://ebible.org/enggnv/PRO03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In all thy wayes acknowledge him, and he shall direct thy wayes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/20/3",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Worship-in-Daily-Life bullet (canon 12153) quotes \"…he shall direct thy paths\" under the label (Prov 3:6 Geneva) — the 1599 Geneva prints \"…he shall direct thy wayes\" (eBible AND textusreceptusbibles both). \"paths\" is the KJV echo. Propose italic version-name (KJV) in line or re-voice to the Geneva wording — awaits Gideon (10 Nov 2026 attribution class).",
+    "awaiting": "Gideon"
+   },
+   "diff_notes": "draft \"ways…paths\" vs 1599 \"wayes…wayes\" — real tail-wording diff, flagged"
   }
  ]
 }
