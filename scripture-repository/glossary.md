@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1057 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1091 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1228 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1262 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -11846,6 +11846,242 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
+## PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the "One Another" Commands; Practical Implications
+
+### Romans 12:5 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 12170)*
+- **Geneva 1599:** “So we being many are one body in Christ, and euery one, one anothers members.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Hebrews 10:24 — CONFIRMED
+*cited as: 1599 Geneva seat — Hebrews 10:24-25 joined range (canon 12182)*
+- **Geneva 1599:** “And let vs consider one another, to prouoke vnto loue, and to good workes,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Hebrews 10:25 — CONFIRMED
+*cited as: 1599 Geneva seat — Hebrews 10:24-25 joined range (canon 12182)*
+- **Geneva 1599:** “Not forsaking the fellowship that we haue among our selues, as the maner of some is: but let vs exhort one another, and that so much the more, because ye see that the day draweth neere.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 12:10 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “Be affectioned to loue one another with brotherly loue. In giuing honour, goe one before another,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.875)*
+
+### Romans 13:8 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “Owe nothing to any man, but to loue one another: for he that loueth another, hath fulfilled the Lawe.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### John 13:34 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “A newe commandement giue I vnto you, that ye loue one another: as I haue loued you, that ye also loue one another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### John 13:35 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “By this shall all men knowe that ye are my disciples, if ye haue loue one to another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Thessalonians 4:9 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “But as touching brotherly loue, ye neede not that I write vnto you: for ye are taught of God to loue one another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 1:22 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “Hauing purified your soules in obeying the trueth through the spirite, to loue brotherly without faining, loue one another with a pure heart feruently,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 John 3:11 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “For this is the message, that ye heard from the beginning, that we should loue one another,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 John 3:23 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “This is then his commandement, That we beleeue in the Name of his Sonne Iesus Christ, and loue one another as hee gaue commandement.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 John 4:7 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)*
+- **Geneva 1599:** “Beloued, let vs loue one another: for loue commeth of God, and euery one that loueth, is borne of God, and knoweth God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 John 4:11 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12); bullet cites the range 4:11-12*
+- **Geneva 1599:** “Beloued, if God so loued vs, we ought also to loue one another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 John 4:12 — PROSE-REF
+*cited as: one-another bullet "Love one another" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12); bullet cites the range 4:11-12*
+- **Geneva 1599:** “No man hath seene God at any time. If we loue one another, God dwelleth in vs, and his loue is perfect in vs.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 4:32 — PROSE-REF
+*cited as: one-another bullet "Forgive one another"*
+- **Geneva 1599:** “Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH text recorded (anchor; no draft Greek)*
+
+### Colossians 3:13 — PROSE-REF
+*cited as: one-another bullet "Forgive one another"*
+- **Geneva 1599:** “Forbearing one another, and forgiuing one another, if any man haue a quarel to another: euen as Christ forgaue, euen so doe ye.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.569)*
+
+### Ephesians 4:2 — PROSE-REF
+*cited as: Bear with one another*
+- **Geneva 1599:** “With all humblenesse of minde, and meekenesse, with long suffering, supporting one an other through loue,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 6:2 — PROSE-REF
+*cited as: Bear one another's burdens*
+- **Geneva 1599:** “Beare ye one anothers burden, and so fulfill the Lawe of Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Thessalonians 4:18 — PROSE-REF
+*cited as: Comfort one another*
+- **Geneva 1599:** “Wherefore, comfort your selues one another with these wordes.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Thessalonians 5:11 — PROSE-REF
+*cited as: Comfort one another*
+- **Geneva 1599:** “Wherefore exhort one another, and edifie one another, euen as ye doe.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Hebrews 3:13 — PROSE-REF
+*cited as: Encourage / exhort one another*
+- **Geneva 1599:** “But exhort one another dayly, while it is called to day, lest any of you be hardened through the deceitfulnes of sinne.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 14:19 — PROSE-REF
+*cited as: Build up one another*
+- **Geneva 1599:** “Let vs then follow those things which concerne peace, and wherewith one may edifie another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 5:13 — PROSE-REF
+*cited as: one-another bullet "Serve one another"*
+- **Geneva 1599:** “For brethren, ye haue bene called vnto libertie: onely vse not your libertie as an occasion vnto the flesh, but by loue serue one another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.853)*
+
+### 1 Peter 4:10 — PROSE-REF
+*cited as: Serve one another*
+- **Geneva 1599:** “Let euery man as hee hath receiued the gift, minister the same one to another, as good disposers of the manifolde grace of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 5:21 — PROSE-REF
+*cited as: Submit to one another*
+- **Geneva 1599:** “Submitting your selues one to another in the feare of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 5:5 — PROSE-REF
+*cited as: Submit to one another*
+- **Geneva 1599:** “Likewise ye yonger, submit your selues vnto the elders, and submit your selues euery man, one to another: decke your selues inwardly in lowlinesse of minde: for God resisteth the proude, and giueth grace to the humble.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 4:9 — PROSE-REF
+*cited as: Be hospitable to one another*
+- **Geneva 1599:** “Be ye harberous one to another, without grudging.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### James 5:16 — PROSE-REF
+*cited as: Pray for one another*
+- **Geneva 1599:** “Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Colossians 3:16 — PROSE-REF
+*cited as: Teach and admonish one another*
+- **Geneva 1599:** “Let the worde of Christ dwell in you plenteously in all wisdome, teaching and admonishing your owne selues, in Psalmes, and hymnes, and spirituall songs, singing with a grace in your hearts to the Lord.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 16:20 — PROSE-REF
+*cited as: Greet one another (Rom 16:16; 1 Cor 16:20; 2 Cor 13:12; 1 Pet 5:14)*
+- **Geneva 1599:** “All the brethren greete you. Greete ye one another, with an holy kisse.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 16:16 — PROSE-REF
+*cited as: Greet one another (Rom 16:16; 1 Cor 16:20; 2 Cor 13:12; 1 Pet 5:14)*
+- **Geneva 1599:** “Salute one another with an holy kisse. The Churches of Christ salute you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Corinthians 13:12 — PROSE-REF
+*cited as: Greet one another (Rom 16:16; 1 Cor 16:20; 2 Cor 13:12; 1 Pet 5:14)*
+- **Geneva 1599:** “Greete one another with an holy kisse. All the Saintes salute you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 5:15 — PROSE-REF
+*cited as: one-another bullet "Do not bite and devour one another"*
+- **Geneva 1599:** “If ye bite and deuoure one another, take heede least ye be consumed one of another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Colossians 3:9 — PROSE-REF
+*cited as: one-another bullet "Do not lie to one another"*
+- **Geneva 1599:** “Lie not one to another, seeing that yee haue put off the olde man with his workes,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
+
+### James 4:11 — PROSE-REF
+*cited as: Do not speak evil of one another*
+- **Geneva 1599:** “Speake not euill one of another, brethren. He that speaketh euill of his brother, or he that condemneth his brother, speaketh euill of ye Law, and condemneth the Lawe: and if thou condemnest the Lawe, thou art not an obseruer of the Lawe, but a iudge.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 4:11 — PROSE-REF
+*cited as: Practical Implications item 3 — gifts (1 Pet 4:10-11)*
+- **Geneva 1599:** “If any man speake, let him speake as the wordes of God. If any man minister, let him do it as of the abilitie which God ministreth, that God in al things may be glorified through Iesus Christ, to whome is prayse and dominion for euer, and euer, Amen.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 12 (chapter) — PROSE-REF
+*cited as: Practical Implications item 3 — chapter mention (Romans 12) (mention-anchor)*
+- *Checked 2026-11-12 · editions fetched: *
+
+### 1 Corinthians 12 (chapter) — PROSE-REF
+*cited as: Practical Implications item 3 — chapter mention (1 Corinthians 12) (mention-anchor)*
+- *Checked 2026-11-12 · editions fetched: *
+
+### Ephesians 4 (chapter) — PROSE-REF
+*cited as: Practical Implications item 3 — chapter mention (Ephesians 4) (mention-anchor)*
+- *Checked 2026-11-12 · editions fetched: *
+
+### Hebrews 13:17 — PROSE-REF
+*cited as: Practical Implications item 7 — submit to godly leaders*
+- **Geneva 1599:** “Obey them that haue the ouersight of you, and submit your selues: for they watche for your soules, as they that must giue accountes, that they may doe it with ioy, and not with griefe: for that is vnprofitable for you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -14702,7 +14938,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 20:6 | COS-66 | confirmed |
 | Ephesians 1:5 | COS-66, COS-69 | anchor, prose-ref |
 | Ephesians 1:11 | COS-66 | prose-ref |
-| Ephesians 4:32 | COS-66 | prose-ref |
+| Ephesians 4:32 | COS-66, COS-78 | prose-ref |
 | Colossians 2:13 | COS-66 | prose-ref |
 | Colossians 1:14 | COS-66 | prose-ref |
 | Matthew 5:10 | COS-68 | confirmed |
@@ -14814,27 +15050,27 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:12 | COS-70 | confirmed |
 | Romans 12:2 | COS-71, COS-76 | anchor, confirmed |
 | Romans 12:9 | COS-71 | confirmed |
-| Romans 12:10 | COS-71 | confirmed |
+| Romans 12:10 | COS-71, COS-78 | confirmed, prose-ref |
 | Romans 12:14 | COS-71 | confirmed |
 | Romans 12:17 | COS-71 | confirmed |
 | Romans 12:19 | COS-71 | confirmed |
 | Romans 12:21 | COS-71 | confirmed |
 | Romans 12:18 | COS-71 | anchor |
 | Galatians 5:1 | COS-72 | confirmed |
-| Galatians 5:13 | COS-72 | confirmed |
+| Galatians 5:13 | COS-72, COS-78 | confirmed, prose-ref |
 | Galatians 5:14 | COS-72 | confirmed |
-| Galatians 5:15 | COS-72 | confirmed |
+| Galatians 5:15 | COS-72, COS-78 | confirmed, prose-ref |
 | Galatians 5:19 | COS-72 | confirmed |
 | Galatians 5:20 | COS-72 | confirmed |
 | Galatians 5:21 | COS-72 | confirmed |
 | Colossians 3:6 | COS-73 | confirmed |
 | Colossians 3:7 | COS-73 | confirmed |
 | Colossians 3:8 | COS-73 | confirmed |
-| Colossians 3:9 | COS-73 | confirmed |
+| Colossians 3:9 | COS-73, COS-78 | confirmed, prose-ref |
 | Colossians 3:10 | COS-73 | confirmed |
 | Colossians 3:11 | COS-73 | confirmed |
 | Colossians 3:12 | COS-73 | confirmed |
-| Colossians 3:13 | COS-73 | confirmed |
+| Colossians 3:13 | COS-73, COS-78 | confirmed, prose-ref |
 | Colossians 3:14 | COS-73 | confirmed |
 | Colossians 3:15 | COS-73 | confirmed |
 | Colossians 3:17 | COS-73 | confirmed |
@@ -14885,6 +15121,40 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 5:19 | COS-77 | confirmed |
 | Ephesians 5:20 | COS-77 | confirmed |
 | Proverbs 3:6 | COS-77 | prose-ref |
+| Romans 12:5 | COS-78 | confirmed, prose-ref |
+| Hebrews 10:24 | COS-78 | confirmed |
+| Hebrews 10:25 | COS-78 | confirmed |
+| Romans 13:8 | COS-78 | prose-ref |
+| John 13:34 | COS-78 | prose-ref |
+| John 13:35 | COS-78 | prose-ref |
+| 1 Thessalonians 4:9 | COS-78 | prose-ref |
+| 1 Peter 1:22 | COS-78 | prose-ref |
+| 1 John 3:11 | COS-78 | prose-ref |
+| 1 John 3:23 | COS-78 | prose-ref |
+| 1 John 4:7 | COS-78 | prose-ref |
+| 1 John 4:11 | COS-78 | prose-ref |
+| 1 John 4:12 | COS-78 | prose-ref |
+| Ephesians 4:2 | COS-78 | prose-ref |
+| Galatians 6:2 | COS-78 | prose-ref |
+| 1 Thessalonians 4:18 | COS-78 | prose-ref |
+| 1 Thessalonians 5:11 | COS-78 | prose-ref |
+| Hebrews 3:13 | COS-78 | prose-ref |
+| Romans 14:19 | COS-78 | prose-ref |
+| 1 Peter 4:10 | COS-78 | prose-ref |
+| 1 Peter 4:11 | COS-78 | prose-ref |
+| Ephesians 5:21 | COS-78 | prose-ref |
+| 1 Peter 5:5 | COS-78 | prose-ref |
+| 1 Peter 4:9 | COS-78 | prose-ref |
+| James 5:16 | COS-78 | prose-ref |
+| Colossians 3:16 | COS-78 | prose-ref |
+| 1 Corinthians 16:20 | COS-78 | prose-ref |
+| Romans 16:16 | COS-78 | prose-ref |
+| 2 Corinthians 13:12 | COS-78 | prose-ref |
+| James 4:11 | COS-78 | prose-ref |
+| Hebrews 13:17 | COS-78 | prose-ref |
+| Romans 12 (chapter) | COS-78 | prose-ref |
+| 1 Corinthians 12 (chapter) | COS-78 | prose-ref |
+| Ephesians 4 (chapter) | COS-78 | prose-ref |
 
 ## The editions used
 

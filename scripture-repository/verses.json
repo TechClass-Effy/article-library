@@ -129,7 +129,8 @@
    "COS-74",
    "COS-75",
    "COS-76",
-   "COS-77"
+   "COS-77",
+   "COS-78"
   ],
   "sections": [
    {
@@ -593,6 +594,10 @@
    {
     "key": "COS-77",
     "label": "PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life"
+   },
+   {
+    "key": "COS-78",
+    "label": "PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications"
    }
   ],
   "double_check": {
@@ -653,11 +658,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 106853,
+  "so_far_words": 107550,
   "cos_sofar": {
-   "waves": 47
+   "waves": 48
   },
-  "glossary": 1228
+  "glossary": 1262
  },
  "verses": [
   {
@@ -47665,6 +47670,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12205,
+     "cited_as": "one-another bullet \"Forgive one another\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51744,6 +51759,26 @@
      "status": "confirmed",
      "note": "draft ellipsis covers vv11-13 (not seated)",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12213,
+     "cited_as": "one-another bullet \"Honor one another\" (Rom 12:10)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51991,6 +52026,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12211,
+     "cited_as": "one-another bullet \"Serve one another\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -52063,6 +52108,16 @@
      "status": "confirmed",
      "note": "RESTORED: draft omitted v15 though the heading covers 13-15 — full print verse seated; print \"least\" seat-verbatim + *(lest)* gloss (1599 spelling of lest); print \"deuoure\" folded",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12219,
+     "cited_as": "one-another bullet \"Do not bite and devour one another\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -52310,6 +52365,16 @@
      "status": "confirmed",
      "note": "print trailing comma kept (v10 continues)",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12220,
+     "cited_as": "one-another bullet \"Do not lie to one another\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -52454,6 +52519,16 @@
      "status": "confirmed",
      "note": "SPLICE: draft added \"you\" — print \"even as Christ forgave, even so do ye.\"",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12205,
+     "cited_as": "one-another bullet \"Forgive one another\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -54125,6 +54200,1093 @@
     "awaiting": "Gideon"
    },
    "diff_notes": "draft \"ways…paths\" vs 1599 \"wayes…wayes\" — real tail-wording diff, flagged"
+  },
+  {
+   "id": "ROM.12.5",
+   "ref": "Romans 12:5",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12170,
+     "cited_as": "1599 Geneva seat (canon 12170)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12) — body-oneness background",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "So we being many are one body in Christ, and euery one, one anothers members.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "So we being many are one body in Christ, and euery one, one anothers members.",
+     "source": "https://textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΡΩΜΑΙΟΥΣ οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, τὸ δὲ καθ’ εἷς ἀλλήλων μέλη. ΠΡΟΣ ΡΩΜΑΙΟΥΣ οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, τὸ δὲ καθ εἷς ἀλλήλων μέλη. ΠΡΟΣ ΡΩΜΑΙΟΥΣ οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, τὸ δὲ καθ εἷς ἀλλήλων μέλη. ΠΡΟΣ ΡΩΜΑΙΟΥΣ οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν χριστῷ, ὁ δὲ καθ’ εἷς ἀλλήλων μέλη. ΠΡΟΣ ΡΩΜΑΙΟΥΣ οὕτως οἱ πολλοὶ ἓν σῶμά ἐσμεν ἐν Χριστῷ, τὸ δὲ καθ’ ε",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "the 1599 print (BOTH eBible and TRB) reads \"So we being many are one body\" — no comma after \"many\"; and \"one anothers members\" (no apostrophe) where the draft modernized \"many, are\" + \"one another's\": seat follows the print VERBATIM, row-noted"
+  },
+  {
+   "id": "HEB.10.24",
+   "ref": "Hebrews 10:24",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12182,
+     "cited_as": "1599 Geneva seat — Hebrews 10:24-25 joined range (canon 12182)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And let vs consider one another, to prouoke vnto loue, and to good workes,",
+     "source": "https://ebible.org/enggnv/HEB10.htm == textusreceptusbibles.com/Geneva/58/10 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And let vs consider one another, to prouoke vnto loue, and to good workes,",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, ΠΡΟΣ ΕΒΡΑΙΟΥΣ καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, ΠΡΟΣ ΕΒΡΑΙΟΥΣ καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, ΠΡΟΣ ΕΒΡΑΙΟΥΣ καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, ΠΡΟΣ ΕΒΡΑΙΟΥΣ καὶ κατανοῶμεν ἀλλήλους εἰς παροξυσμὸν ἀγάπης καὶ καλῶν ἔργων, ΠΡΟΣ ΕΒΡΑΙΟΥΣ κ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "agree (1.000) — joined span"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.10.25",
+   "ref": "Hebrews 10:25",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12182,
+     "cited_as": "1599 Geneva seat — Hebrews 10:24-25 joined range (canon 12182)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Not forsaking the fellowship that we haue among our selues, as the maner of some is: but let vs exhort one another, and that so much the more, because ye see that the day draweth neere.",
+     "source": "https://ebible.org/enggnv/HEB10.htm == textusreceptusbibles.com/Geneva/58/10 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Not forsaking the fellowship that we haue among our selues, as the maner of some is: but let vs exhort one another, and that so much the more, because ye see that the day draweth neere.",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-78 Observations (3)/(4)/(5) quote Heb 10:24-25 KJV-voiced — \"Not forsaking the assembling of ourselves together\" / \"Exhorting one another\" / \"As ye see the day approaching\" (canon 12192/12194/12196); the seated 1599 print reads \"Not forsaking the fellowship that we have among ourselves\" / \"let us exhort one another\" / \"the day draweth near\". Italic KJV attribution in line or re-voice to the Geneva wording — awaits Gideon (10 Nov 2026 attribution class).",
+    "awaiting": "Gideon"
+   },
+   "diff_notes": "draft Observation KJV fragments vs 1599 \"the fellowship that we have among ourselves\" / \"let us exhort\" / \"the day draweth near\" — real wording diff, flagged"
+  },
+  {
+   "id": "ROM.13.8",
+   "ref": "Romans 13:8",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Owe nothing to any man, but to loue one another: for he that loueth another, hath fulfilled the Lawe.",
+     "source": "https://ebible.org/enggnv/ROM13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Owe nothing to any man, but to loue one another: for he that loueth another, hath fulfilled the Lawe.",
+     "source": "https://textusreceptusbibles.com/Geneva/45/13",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.13.34",
+   "ref": "John 13:34",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "A newe commandement giue I vnto you, that ye loue one another: as I haue loued you, that ye also loue one another.",
+     "source": "https://ebible.org/enggnv/JHN13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "A newe commandement giue I vnto you, that ye loue one another: as I haue loued you, that ye also loue one another.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/13",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.13.35",
+   "ref": "John 13:35",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "By this shall all men knowe that ye are my disciples, if ye haue loue one to another.",
+     "source": "https://ebible.org/enggnv/JHN13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "By this shall all men knowe that ye are my disciples, if ye haue loue one to another.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/13",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1TH.4.9",
+   "ref": "1 Thessalonians 4:9",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But as touching brotherly loue, ye neede not that I write vnto you: for ye are taught of God to loue one another.",
+     "source": "https://ebible.org/enggnv/1TH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But as touching brotherly loue, ye neede not that I write vnto you: for ye are taught of God to loue one another.",
+     "source": "https://textusreceptusbibles.com/Geneva/52/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.1.22",
+   "ref": "1 Peter 1:22",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Hauing purified your soules in obeying the trueth through the spirite, to loue brotherly without faining, loue one another with a pure heart feruently,",
+     "source": "https://ebible.org/enggnv/1PE01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Hauing purified your soules in obeying the trueth through the spirite, to loue brotherly without faining, loue one another with a pure heart feruently,",
+     "source": "https://textusreceptusbibles.com/Geneva/60/1",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.3.11",
+   "ref": "1 John 3:11",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For this is the message, that ye heard from the beginning, that we should loue one another,",
+     "source": "https://ebible.org/enggnv/1JN03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For this is the message, that ye heard from the beginning, that we should loue one another,",
+     "source": "https://textusreceptusbibles.com/Geneva/62/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.3.23",
+   "ref": "1 John 3:23",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "This is then his commandement, That we beleeue in the Name of his Sonne Iesus Christ, and loue one another as hee gaue commandement.",
+     "source": "https://ebible.org/enggnv/1JN03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "This is then his commandement, That we beleeue in the Name of his Sonne Iesus Christ, and loue one another as hee gaue commandement.",
+     "source": "https://textusreceptusbibles.com/Geneva/62/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.4.7",
+   "ref": "1 John 4:7",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beloued, let vs loue one another: for loue commeth of God, and euery one that loueth, is borne of God, and knoweth God.",
+     "source": "https://ebible.org/enggnv/1JN04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beloued, let vs loue one another: for loue commeth of God, and euery one that loueth, is borne of God, and knoweth God.",
+     "source": "https://textusreceptusbibles.com/Geneva/62/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.4.11",
+   "ref": "1 John 4:11",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12); bullet cites the range 4:11-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beloued, if God so loued vs, we ought also to loue one another.",
+     "source": "https://ebible.org/enggnv/1JN04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beloued, if God so loued vs, we ought also to loue one another.",
+     "source": "https://textusreceptusbibles.com/Geneva/62/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1JN.4.12",
+   "ref": "1 John 4:12",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12204,
+     "cited_as": "one-another bullet \"Love one another\" (John 13:34; Rom 12:10; 13:8; 1 Thess 4:9; 1 Pet 1:22; 1 John 3:11, 23; 4:7, 11-12); bullet cites the range 4:11-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "No man hath seene God at any time. If we loue one another, God dwelleth in vs, and his loue is perfect in vs.",
+     "source": "https://ebible.org/enggnv/1JN04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "No man hath seene God at any time. If we loue one another, God dwelleth in vs, and his loue is perfect in vs.",
+     "source": "https://textusreceptusbibles.com/Geneva/62/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "EPH.4.2",
+   "ref": "Ephesians 4:2",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12206,
+     "cited_as": "Bear with one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "With all humblenesse of minde, and meekenesse, with long suffering, supporting one an other through loue,",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "With all humblenesse of minde, and meekenesse, with long suffering, supporting one an other through loue,",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GAL.6.2",
+   "ref": "Galatians 6:2",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12207,
+     "cited_as": "Bear one another's burdens",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beare ye one anothers burden, and so fulfill the Lawe of Christ.",
+     "source": "https://ebible.org/enggnv/GAL06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beare ye one anothers burden, and so fulfill the Lawe of Christ.",
+     "source": "https://textusreceptusbibles.com/Geneva/48/6",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1TH.4.18",
+   "ref": "1 Thessalonians 4:18",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12208,
+     "cited_as": "Comfort one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore, comfort your selues one another with these wordes.",
+     "source": "https://ebible.org/enggnv/1TH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore, comfort your selues one another with these wordes.",
+     "source": "https://textusreceptusbibles.com/Geneva/52/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1TH.5.11",
+   "ref": "1 Thessalonians 5:11",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12208,
+     "cited_as": "Comfort one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12209,
+     "cited_as": "Encourage / exhort one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12210,
+     "cited_as": "Build up one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore exhort one another, and edifie one another, euen as ye doe.",
+     "source": "https://ebible.org/enggnv/1TH05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore exhort one another, and edifie one another, euen as ye doe.",
+     "source": "https://textusreceptusbibles.com/Geneva/52/5",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.3.13",
+   "ref": "Hebrews 3:13",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12209,
+     "cited_as": "Encourage / exhort one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But exhort one another dayly, while it is called to day, lest any of you be hardened through the deceitfulnes of sinne.",
+     "source": "https://ebible.org/enggnv/HEB03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But exhort one another dayly, while it is called to day, lest any of you be hardened through the deceitfulnes of sinne.",
+     "source": "https://textusreceptusbibles.com/Geneva/58/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.14.19",
+   "ref": "Romans 14:19",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12210,
+     "cited_as": "Build up one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let vs then follow those things which concerne peace, and wherewith one may edifie another.",
+     "source": "https://ebible.org/enggnv/ROM14.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let vs then follow those things which concerne peace, and wherewith one may edifie another.",
+     "source": "https://textusreceptusbibles.com/Geneva/45/14",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.4.10",
+   "ref": "1 Peter 4:10",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12211,
+     "cited_as": "Serve one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12233,
+     "cited_as": "Practical Implications item 3 — gifts (1 Pet 4:10-11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let euery man as hee hath receiued the gift, minister the same one to another, as good disposers of the manifolde grace of God.",
+     "source": "https://ebible.org/enggnv/1PE04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let euery man as hee hath receiued the gift, minister the same one to another, as good disposers of the manifolde grace of God.",
+     "source": "https://textusreceptusbibles.com/Geneva/60/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.4.11",
+   "ref": "1 Peter 4:11",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12233,
+     "cited_as": "Practical Implications item 3 — gifts (1 Pet 4:10-11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If any man speake, let him speake as the wordes of God. If any man minister, let him do it as of the abilitie which God ministreth, that God in al things may be glorified through Iesus Christ, to whome is prayse and dominion for euer, and euer, Amen.",
+     "source": "https://ebible.org/enggnv/1PE04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If any man speake, let him speake as the wordes of God. If any man minister, let him do it as of the abilitie which God ministreth, that God in al things may be glorified through Iesus Christ, to whome is prayse and dominion for euer, and euer, Amen.",
+     "source": "https://textusreceptusbibles.com/Geneva/60/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "EPH.5.21",
+   "ref": "Ephesians 5:21",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12212,
+     "cited_as": "Submit to one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Submitting your selues one to another in the feare of God.",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Submitting your selues one to another in the feare of God.",
+     "source": "https://textusreceptusbibles.com/Geneva/49/5",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.5.5",
+   "ref": "1 Peter 5:5",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12212,
+     "cited_as": "Submit to one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Likewise ye yonger, submit your selues vnto the elders, and submit your selues euery man, one to another: decke your selues inwardly in lowlinesse of minde: for God resisteth the proude, and giueth grace to the humble.",
+     "source": "https://ebible.org/enggnv/1PE05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Likewise ye yonger, submit your selues vnto the elders, and submit your selues euery man, one to another: decke your selues inwardly in lowlinesse of minde: for God resisteth the proude, and giueth grace to the humble.",
+     "source": "https://textusreceptusbibles.com/Geneva/60/5",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1PE.4.9",
+   "ref": "1 Peter 4:9",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12214,
+     "cited_as": "Be hospitable to one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Be ye harberous one to another, without grudging.",
+     "source": "https://ebible.org/enggnv/1PE04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Be ye harberous one to another, without grudging.",
+     "source": "https://textusreceptusbibles.com/Geneva/60/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JAM.5.16",
+   "ref": "James 5:16",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12215,
+     "cited_as": "Pray for one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12216,
+     "cited_as": "Confess sins to one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.",
+     "source": "https://ebible.org/enggnv/JAS05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.",
+     "source": "https://textusreceptusbibles.com/Geneva/59/5",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.16",
+   "ref": "Colossians 3:16",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12217,
+     "cited_as": "Teach and admonish one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let the worde of Christ dwell in you plenteously in all wisdome, teaching and admonishing your owne selues, in Psalmes, and hymnes, and spirituall songs, singing with a grace in your hearts to the Lord.",
+     "source": "https://ebible.org/enggnv/COL03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let the worde of Christ dwell in you plenteously in all wisdome, teaching and admonishing your owne selues, in Psalmes, and hymnes, and spirituall songs, singing with a grace in your hearts to the Lord.",
+     "source": "https://textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1CO.16.20",
+   "ref": "1 Corinthians 16:20",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12218,
+     "cited_as": "Greet one another (Rom 16:16; 1 Cor 16:20; 2 Cor 13:12; 1 Pet 5:14)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "All the brethren greete you. Greete ye one another, with an holy kisse.",
+     "source": "https://ebible.org/enggnv/1CO16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "All the brethren greete you. Greete ye one another, with an holy kisse.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/16",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.16.16",
+   "ref": "Romans 16:16",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12218,
+     "cited_as": "Greet one another (Rom 16:16; 1 Cor 16:20; 2 Cor 13:12; 1 Pet 5:14)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Salute one another with an holy kisse. The Churches of Christ salute you.",
+     "source": "https://ebible.org/enggnv/ROM16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Salute one another with an holy kisse. The Churches of Christ salute you.",
+     "source": "https://textusreceptusbibles.com/Geneva/45/16",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "2CO.13.12",
+   "ref": "2 Corinthians 13:12",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12218,
+     "cited_as": "Greet one another (Rom 16:16; 1 Cor 16:20; 2 Cor 13:12; 1 Pet 5:14)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Greete one another with an holy kisse. All the Saintes salute you.",
+     "source": "https://ebible.org/enggnv/2CO13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Greete one another with an holy kisse.",
+     "source": "https://textusreceptusbibles.com/Geneva/47/13",
+     "result": "agree (joined with TRB 13:13, 1.000) — edition verse-split: eBible prints \"All the Saintes salute you.\" inside v12; TRB carries it as 13:13; same wording"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JAM.4.11",
+   "ref": "James 4:11",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12221,
+     "cited_as": "Do not speak evil of one another",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Speake not euill one of another, brethren. He that speaketh euill of his brother, or he that condemneth his brother, speaketh euill of ye Law, and condemneth the Lawe: and if thou condemnest the Lawe, thou art not an obseruer of the Lawe, but a iudge.",
+     "source": "https://ebible.org/enggnv/JAS04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Speake not euill one of another, brethren. He that speaketh euill of his brother, or he that condemneth his brother, speaketh euill of ye Law, and condemneth the Lawe: and if thou condemnest the Lawe, thou art not an obseruer of the Lawe, but a iudge.",
+     "source": "https://textusreceptusbibles.com/Geneva/59/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "HEB.13.17",
+   "ref": "Hebrews 13:17",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12241,
+     "cited_as": "Practical Implications item 7 — submit to godly leaders",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Obey them that haue the ouersight of you, and submit your selues: for they watche for your soules, as they that must giue accountes, that they may doe it with ioy, and not with griefe: for that is vnprofitable for you.",
+     "source": "https://ebible.org/enggnv/HEB13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Obey them that haue the ouersight of you, and submit your selues: for they watche for your soules, as they that must giue accountes, that they may doe it with ioy, and not with griefe: for that is vnprofitable for you.",
+     "source": "https://textusreceptusbibles.com/Geneva/58/13",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.12",
+   "ref": "Romans 12 (chapter)",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12233,
+     "cited_as": "Practical Implications item 3 — chapter mention (Romans 12) (mention-anchor)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "1CO.12",
+   "ref": "1 Corinthians 12 (chapter)",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12233,
+     "cited_as": "Practical Implications item 3 — chapter mention (1 Corinthians 12) (mention-anchor)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "EPH.4",
+   "ref": "Ephesians 4 (chapter)",
+   "uses": [
+    {
+     "section": "COS-78",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications",
+     "article_line": 12233,
+     "cited_as": "Practical Implications item 3 — chapter mention (Ephesians 4) (mention-anchor)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "note": ""
   }
  ]
 }

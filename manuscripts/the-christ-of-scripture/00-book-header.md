@@ -139,3 +139,12 @@ and the Sacrifice of Praise (Hebrews 13:15 — the 1599 print comma "that is," r
 Worship (Ephesians 5:18-20 span — draft excerpt honored, the 1599 "fulfilled" seated verbatim with the
 *(filled)* gloss); Worship in Daily Life (Prov 3:6 inline — KJV echo "paths" vs 1599 "wayes" twice,
 row-flagged; Romans 12:1 mention). EB==TRB 7/7 fresh; WH Greek 1.000 on all three blocks).
+
+74. (D) PART 4 — FELLOWSHIP WITH THE SAINTS (COS-78 — the Foundation: We Belong to One Another
+(Romans 12:5 — the 1599 print seat EXACT-MODERN: the draft comma after "many" dropped, the print
+"one anothers members" kept verbatim, "every" folded); the Necessity of Assembling (Hebrews 10:24-25
+span — EXACT-MODERN, orthography folds only: workes/haue/our selues/maner/neere; Observations keep the
+KJV-voiced fragments of (3)/(4)/(5) VERBATIM — row-flagged); the "One Another" Commands (17 bullet
+families VERBATIM — mention-anchors banked); Practical Implications (items 1-7 incl. Heb 13:17).
+EB==TRB 39/40 (2Co 13:12 = edition verse-split, joined and recorded); WH Greek 1.000 on both draft
+blocks).
