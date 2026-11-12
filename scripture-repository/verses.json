@@ -98,7 +98,13 @@
    "COS-43",
    "COS-44",
    "COS-45",
-   "COS-46"
+   "COS-46",
+   "COS-47",
+   "COS-48",
+   "COS-49",
+   "COS-50",
+   "COS-51",
+   "COS-52"
   ],
   "sections": [
    {
@@ -438,6 +444,30 @@
    {
     "key": "COS-46",
     "label": "50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne"
+   },
+   {
+    "key": "COS-47",
+    "label": "51. (D) Revelation 19:11-16: The Returning King"
+   },
+   {
+    "key": "COS-48",
+    "label": "52. (D) Revelation 21:5-7: The One on the Throne Speaks"
+   },
+   {
+    "key": "COS-49",
+    "label": "53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type"
+   },
+   {
+    "key": "COS-50",
+    "label": "54. (D) Revelation 22:1-5: The Throne of God and of the Lamb"
+   },
+   {
+    "key": "COS-51",
+    "label": "55. (D) Revelation 22:7, 20: The Final Words"
+   },
+   {
+    "key": "COS-52",
+    "label": "56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands"
    }
   ],
   "double_check": {
@@ -498,9 +528,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 51843,
+  "so_far_words": 55383,
   "cos_sofar": {
-   "waves": 25
+   "waves": 26
   }
  },
  "verses": [
@@ -2633,6 +2663,16 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis item 20 recap: His life a ransom for many — echoing Isaiah 53."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "Isa 53 — the slain Lamb (Rev 5, 13)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-02",
@@ -3174,6 +3214,16 @@
      "status": "confirmed",
      "note": "synthesis table: 'Israel sees Him whom they pierced'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "the pierced One — Zech 12:10 (Rev 1:7)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -11559,6 +11609,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table echo."
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5799,
+     "cited_as": "besides Me there is no God (Isa 44:6)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-07",
@@ -11924,6 +11984,16 @@
      },
      "was": "who hath declared this from the beginning? or hath told it of old? Have not I the Lord? and there is none other God beside me, a just God, and a Saviour: there is none beside me.",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5848,
+     "cited_as": "the Father is the Saviour (Isa 45:21)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-07",
@@ -13066,6 +13136,16 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Backfilled text from the fresh Wave-11 eBible fetch; was a text-empty anchor row."
+    },
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5729,
+     "cited_as": "directly tying back to John 1:1 (\"In the beginning was the Word\")",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -13187,6 +13267,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 prose mention."
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5840,
+     "cited_as": "through whom all things were made (John 1:3)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -13281,6 +13371,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 prose mention."
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5840,
+     "cited_as": "through whom all things were made (Col 1:16)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -13477,6 +13577,16 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #2 Claim A: the masculine αὐτός observation bullet — reference only; NETS/Greek banked."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "the seed of the woman — fulfilled in Rev 12, 20 (mention-anchor)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close upsert use."
     }
    ],
    "verified": "2026-11-11",
@@ -13882,6 +13992,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-45 observation anchor (NETS); the scepter-tail of Gen 49:9-10."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5930,
+     "cited_as": "the Lion of Judah — Gen 49:10 fulfilled (Rev 5:5)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -14039,6 +14159,16 @@
      "status": "confirmed",
      "note": "5:1-7 seat — v5 part; \"saide/Iuda/roote/obteined\" modern-fold to the draft’s \"said/Judah/root/obtained\".",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5930,
+     "cited_as": "The Lion of the Tribe of Judah — Rev 5:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -14105,9 +14235,29 @@
      "status": "confirmed",
      "note": "(D) preview list reference",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5936,
+     "cited_as": "The Bright Morning Star — Rev 22:16 (title-table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5825,
+     "cited_as": "(D) GNV seat — Rev 22:16 (resumed examination)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Re-presented in the (D)-close seat; see polish 28-wave-26."
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.",
@@ -14122,6 +14272,19 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/66/22"
+    },
+    "trb_fresh": {
+     "text": "I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": {
+      "url": "https://biblehub.com/text/revelation/22-16.htm",
+      "text": "Ἐγὼ Egō Ἰησοῦς Iēsous ἔπεμψα epempsa τὸν ton ἄγγελόν angelon μου mou μαρτυρῆσαι martyrēsai ὑμῖν hymin ταῦτα tauta ἐπὶ epi ταῖς tais ἐκκλησίαις. ekklēsiais ἐγώ egō εἰμι eimi ἡ hē ῥίζα rhiza καὶ kai τὸ to γένος genos Δαυίδ, Dauid ὁ ho ἀστὴρ astēr ὁ ho λαμπρός, lampros ὁ ho πρωϊνός. prōinos"
+     },
+     "source": "https://biblehub.com/text/revelation/22-16.htm",
+     "result": "1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
     }
    }
   },
@@ -14155,6 +14318,16 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #2 Claim D: reference bullet (\"the text says what I quoted\"); NETS text banked."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5936,
+     "cited_as": "'the Star' (Num 24:17 fulfilled — Rev 22:16)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "Title-table row; NETS text was already banked (Numbers 24:17 Star-of-Iakob reading verified earlier); GNV verified vs TRB this wave."
     }
    ],
    "verified": "2026-11-11",
@@ -14760,6 +14933,16 @@
      "status": "confirmed",
      "note": "pattern list: reign (1 Cor 15:25; Ps 110:1)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "Ps 110 — the Anointed at the right hand (Rev 1, 5, 22)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close upsert use."
     }
    ],
    "verified": "2026-11-11",
@@ -15614,6 +15797,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 prose mention."
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5840,
+     "cited_as": "the firstborn over creation (Col 1:15)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -17383,6 +17576,16 @@
      "status": "confirmed",
      "note": "obs (3): the face no man has seen (John 1:18; Ex 33:20)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5879,
+     "cited_as": "the face that no man has ever seen (John 1:18)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -17480,6 +17683,16 @@
      "status": "confirmed",
      "note": "obs (3) same mention",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5879,
+     "cited_as": "the face that no man has ever seen (Ex 33:20; reference)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close upsert use."
     }
    ],
    "verified": "2026-11-11",
@@ -17624,6 +17837,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "prose-ref cross in (D) Revelation-1 wave"
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5881,
+     "cited_as": "The Name borne by the Son (Ex 23:21)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -17683,6 +17906,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "prose-ref cross in (D) Revelation-1 wave"
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5881,
+     "cited_as": "The Name borne by the Son (John 17:11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -18503,9 +18736,29 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Seat modernizes eBible \"dipt\" to \"dipped\" with gloss *(the Geneva prints \\\"dipt\\\")*; edition prints the name in caps emphasis (THE WORD OF GOD), seat lower-cases per draft — both recorded under the modern-spelling flag. Draft Greek (βεβαμμένον αἵματι, περιβεβλημένος...) verified vs BibleHub /text/revelation/19-13.htm ratio 1.000."
+    },
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5711,
+     "cited_as": "(D) GNV seat re-presented — REV.19.13 (prior seat text kept)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "Re-presented in the (D)-close seat; see polish.",
+     "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5711,
+     "cited_as": "(D) GNV seat re-presented — Rev 19:13 (dipt gloss in polish; prior seat text kept)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Re-presented in the (D)-close seat; see polish 28-wave-26."
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.",
@@ -18523,6 +18776,11 @@
      "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
      "source": "https://biblehub.com/text/revelation/19-13.htm",
      "result": "verified 2026-11-11, ratio 1.000"
+    },
+    "trb_fresh": {
+     "text": "And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
     }
    },
    "note": ""
@@ -24337,6 +24595,16 @@
      "status": "confirmed",
      "note": "1599 prints \"pearced him thorowe… kinreds… Euen so, Amen.\" — draft \"pierced\" is the modern of \"pearced\"; \"kindreds\" is the drift → seat carries edition word + approved gloss; edition comma kept before \"Even so, Amen.\" (draft had a period).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "the pierced One — Rev 1:7",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -25005,6 +25273,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-45 prose mention (span covers Dan 7:14)."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "Dan 7 — the Son of Man before the Ancient of Days (Rev 1, 5)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -25081,6 +25359,16 @@
      "status": "confirmed",
      "note": "synthesis (2): receives the Kingdom from the Ancient of Days",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5921,
+     "cited_as": "Ruler of the Kings of the Earth — Dan 7:14 fulfilled",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -29051,6 +29339,16 @@
      "status": "confirmed",
      "note": "synthesis (4): the Man, the Mediator — eternally",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5956,
+     "cited_as": "the Man Christ Jesus, the one Mediator (1 Tim 2:5)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -30027,6 +30325,16 @@
      "status": "confirmed",
      "note": "5:1-7 seat — v6 part; print \"Labe\" with gloss *(Lamb)* (both sources agree on the 1599 print form); verse tail after \"killed,\" sits in the draft’s ellipsis.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5932,
+     "cited_as": "The Lamb as having been slain — Rev 5:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -30722,6 +31030,16 @@
      "status": "confirmed",
      "note": "consummation bullet seated to NETS",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5875,
+     "cited_as": "one LORD and His Name one (Zech 14:9)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -31861,6 +32179,16 @@
      "quotes": [
       "> But now is Christ risen from the dead, and was made the first fruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive."
      ]
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5801,
+     "cited_as": "the firstfruits of those who sleep (1 Cor 15:20)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -32175,6 +32503,16 @@
      "quotes": [
       "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
      ]
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5801,
+     "cited_as": "that God may be all in all (1 Cor 15:28)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -32259,6 +32597,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-46 prose mention."
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5862,
+     "cited_as": "(D) GNV seat re-presented — REV.22.1 (prior seat text kept)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "Re-presented in the (D)-close seat; see polish.",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32306,6 +32654,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-46 prose mention."
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5862,
+     "cited_as": "(D) GNV seat re-presented — REV.22.3 (prior seat text kept)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "Re-presented in the (D)-close seat; see polish.",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32343,6 +32701,16 @@
      "quotes": [
       "> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads."
      ]
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5862,
+     "cited_as": "(D) GNV seat re-presented — REV.22.4 (prior seat text kept)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "Re-presented in the (D)-close seat; see polish.",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32723,6 +33091,16 @@
      "status": "confirmed",
      "note": "WH Rev 1:8 prints ἡ ἀρχὴ καὶ τὸ τέλος between the Alpha-Omega clause and λέγει κύριος ὁ θεός — the draft's Greek block omits it while the English Geneva carries the clause in words (\"the beginning and the ending\"); variant recorded, no flag (draft Greek row drops per seat shape).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5945,
+     "cited_as": "the Pantokrator list (Rev 1:8)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -32779,6 +33157,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table echo."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5922,
+     "cited_as": "First and the Last — Rev 1:17; 2:8; 22:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -32835,6 +33223,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table echo."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5923,
+     "cited_as": "The Living One who was dead — Rev 1:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -32886,13 +33284,48 @@
      "status": "confirmed",
      "note": "(D) preview-list reference",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5922,
+     "cited_as": "First and the Last — Rev 22:13 (title-table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5764,
+     "cited_as": "(D) GNV seat — Rev 22:12-13 (the careful textual examination)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Re-presented in the (D)-close seat; see polish 28-wave-26."
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
      "source": "https://ebible.org/enggnv/REV22.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": {
+      "url": "https://biblehub.com/text/revelation/22-13.htm",
+      "text": "ἐγὼ egō τὸ to Ἄλφα Alpha καὶ kai τὸ to Ὦ, Ō ὁ ho πρῶτος prōtos καὶ kai ὁ ho ἔσχατος, eschatos ἡ hē ἀρχὴ archē καὶ kai τὸ to τέλος. telos"
+     },
+     "source": "https://biblehub.com/text/revelation/22-13.htm",
+     "result": "0.952 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
     }
    }
   },
@@ -32913,9 +33346,19 @@
       "detail": "\"Yea, I come quickly.\" (draft bullet) vs GNV \"Surely, I come quickly.\" (eBible=TRB 1.000) — await Gideon's word to seat Geneva",
       "awaiting": "Gideon"
      }
+    },
+    {
+     "section": "COS-51",
+     "section_label": "THE CHRIST OF SCRIPTURE — 55. (D) Revelation 22:7, 20: The Final Words",
+     "article_line": 5898,
+     "cited_as": "(D) GNV seat — Rev 22:20 (Greek Ναί, 1599 'Surely' — they agree)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Re-presented in the (D)-close seat; see polish 28-wave-26."
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.",
@@ -32927,6 +33370,21 @@
       "source": "https://textusreceptusbibles.com/Geneva/66/22",
       "result": "1.000"
      }
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": {
+      "url": "https://biblehub.com/text/revelation/22-20.htm",
+      "text": "Λέγει Legei ὁ ho μαρτυρῶν martyrōn ταῦτα tauta Ναί, Nai ἔρχομαι erchomai ταχύ. tachy Ἀμήν, Amēn ἔρχου erchou Κύριε Kyrie Ἰησοῦ. Iēsou"
+     },
+     "source": "https://biblehub.com/text/revelation/22-20.htm",
+     "result": "1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
     }
    }
   },
@@ -32945,6 +33403,16 @@
      "status": "confirmed",
      "note": "1:1 GNV seat — full verse; draft quote exact to Geneva modulo orthography (Reuelation, gaue, shewe…).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5948,
+     "cited_as": "He gives the revelation to His Son (Rev 1:1)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -32992,6 +33460,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table echo."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5946,
+     "cited_as": "the eternally being One (Rev 1:4)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33029,6 +33507,16 @@
      "status": "confirmed",
      "note": "1:4-5 seat part 2 opens mid-v5 (\"Unto him that loved us…\" is v5b); v5 head sits in the REV.1.4 seat range; verse quoted verbatim.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5919,
+     "cited_as": "Faithful and True Witness / Firstborn — Rev 1:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33367,6 +33855,16 @@
      "status": "anchor",
      "quote_kind": "mention",
      "note": "Prose mention in Rev 1:12-16 observation (Lamb-lamp of the city); seat/verify at the Rev 21 wave."
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5883,
+     "cited_as": "Compare with Rev 21:23 — the glory and the lamp",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33449,6 +33947,16 @@
      "status": "anchor",
      "quote_kind": "mention",
      "note": "prose cross-ref in the (D) Revelation-1 wave observation"
+    },
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5881,
+     "cited_as": "The Name borne by the Son (Phil 2:9)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33467,6 +33975,16 @@
      "status": "anchor",
      "quote_kind": "mention",
      "note": "prose cross-ref in the (D) Revelation-1 wave observation"
+    },
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5801,
+     "cited_as": "the firstborn from the dead (Col 1:18)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33495,6 +34013,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table echo."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5920,
+     "cited_as": "Firstborn from the Dead — Ps 2:7 fulfilled in resurrection",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33515,6 +34043,16 @@
      "status": "confirmed",
      "note": "3:14 GNV seat — full verse; draft already edition word-for-word (saieth→saith, faithfull, witnesse modern-fold); draft’s end colon vs the print’s period — seat keeps the print.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5928,
+     "cited_as": "The Amen — Rev 3:14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33580,6 +34118,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 church-title table anchor (Smyrna row title-carrier); the table cell \"The First and the Last, which was dead, and is alive\" matches the Geneva title modulo \"he that is\" vs \"The\"."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5922,
+     "cited_as": "First and the Last — Rev 2:8",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33640,6 +34188,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 church-title table anchor (Thyatira row title-carrier); cell \"The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass\" is KJV-voiced vs the Geneva \"which hath his eyes like unto a flame of fire, and his feete like fine brasse\" — table kept verbatim per his word."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5925,
+     "cited_as": "The Son of God — Rev 2:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33670,6 +34228,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 church-title table anchor (Philadelphia row title-carrier); cell titles echo the Geneva’s \"he that is Holy, and True, which hath the key of Dauid\" + Isa 22:22."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5926,
+     "cited_as": "The Holy One, the True One (Rev 3:7)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33771,6 +34339,16 @@
      "status": "confirmed",
      "note": "4:2-3, 8, 11 seat — v8 part; print \"Holy, holy, holy Lord\" (no comma before Lord) vs draft \"Holy, holy, holy, Lord\" — seat keeps the print.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5945,
+     "cited_as": "the Pantokrator list (Rev 4:8)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -33803,6 +34381,16 @@
      "status": "confirmed",
      "note": "4:2-3, 8, 11 seat — v11 part; draft already edition modulo ortho (haue→have, beene→been); \"honour\" kept, \"wils\" → \"will’s\".",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5947,
+     "cited_as": "worshipped as the Creator (Rev 4:11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -34310,6 +34898,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table-echo anchor (NETS): \"the true God... swear by the true God\" — the Amen echo."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5928,
+     "cited_as": "the Amen — Isa 65:16 (Rev 3:14)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -34356,6 +34954,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-45 observation anchor (NETS)."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5931,
+     "cited_as": "the Root — Isa 11:1 fulfilled (Rev 22:16)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -34379,6 +34987,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-45 observation anchor (NETS)."
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5931,
+     "cited_as": "the Root — Isa 11:10 fulfilled",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
     }
    ],
    "verified": "2026-11-11",
@@ -34409,6 +35027,1055 @@
     "nets": {
      "text": "A lion’s whelp you are, Ioudas; from a shoot, my son, you went up. When you reclined, you slept like a lion and like a whelp. Who will rouse him?",
      "source": "NETS Genesis (Oxford PDF master, GEN cache)"
+    }
+   }
+  },
+  {
+   "id": "REV.19.11",
+   "ref": "Revelation 19:11",
+   "uses": [
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5711,
+     "cited_as": "(D) GNV seat — Revelation 19:11",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 19:11-16 (ellipsis over vv. 14-15 per draft). Seat prints the 1599 modern-spelled; the print's lowercase 'true' and the comma after 'called' kept (draft prints 'Faithful and True').",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I sawe heauen open, and behold, a white horse, and he that sate vpon him, was called, Faithfull and true, and he iudgeth and fighteth righteously.",
+     "source": "https://ebible.org/enggnv/REV19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I sawe heauen open, and behold, a white horse, and he that sate vpon him, was called, Faithfull and true, and he iudgeth and fighteth righteously.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ Kai εἶδον eidon τὸν ton οὐρανὸν ouranon ἠνεῳγμένον, ēneōgmenon καὶ kai ἰδοὺ idou ἵππος hippos λευκός, leukos καὶ kai ὁ ho καθήμενος kathēmenos ἐπ’ ep’ αὐτὸν auton καλούμενος ⇔ kaloumenos Πιστὸς Pistos καὶ kai Ἀληθινός, Alēthinos καὶ kai ἐν en δικαιοσύνῃ dikaiosynē κρίνει krinei καὶ kai πολεμεῖ. polemei",
+     "source": "https://biblehub.com/text/revelation/19-11.htm",
+     "result": "0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.19.12",
+   "ref": "Revelation 19:12",
+   "uses": [
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5711,
+     "cited_as": "(D) GNV seat — Revelation 19:12",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 19:11-16; draft matches the print (sawe→saw fold class).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And his eyes were as a flame of fire, and on his head were many crownes: and he had a name written, that no man knewe but himselfe.",
+     "source": "https://ebible.org/enggnv/REV19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And his eyes were as a flame of fire, and on his head were many crownes: and he had a name written, that no man knewe but himselfe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οἱ hoi δὲ de ὀφθαλμοὶ ophthalmoi αὐτοῦ autou [ὡς] hōs φλὸξ phlox πυρός, pyros καὶ kai ἐπὶ epi τὴν tēn κεφαλὴν kephalēn αὐτοῦ autou διαδήματα diadēmata πολλά, polla ἔχων echōn ὄνομα onoma γεγραμμένον gegrammenon ὃ ho οὐδεὶς oudeis οἶδεν oiden εἰ ei μὴ mē αὐτός, autos",
+     "source": "https://biblehub.com/text/revelation/19-12.htm",
+     "result": "0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.19.16",
+   "ref": "Revelation 19:16",
+   "uses": [
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5711,
+     "cited_as": "(D) GNV seat — Revelation 19:16",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 19:11-16; the 1599 print reads THE KINGS OF KINGS for our modern KING OF KINGS — seat keeps the print with gloss *(KING)*; Greek Βασιλεὺς βασιλέων = King of kings; draft prints KING OF KINGS (recorded, no flag).",
+     "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5933,
+     "cited_as": "King of kings and Lord of lords — Rev 19:16 (title-table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "(D)-close mention-anchor."
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.",
+     "source": "https://ebible.org/enggnv/REV19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/19",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai ἔχει echei ἐπὶ epi τὸ to ἱμάτιον himation καὶ kai ἐπὶ epi τὸν ton μηρὸν mēron αὐτοῦ autou ὄνομα onoma γεγραμμένον gegrammenon ΒΑΣΙΛΕΥΣ BASILEUS ΒΑΣΙΛΕΩΝ BASILEŌN ΚΑΙ KAI ΚΥΡΙΟΣ KYRIOS ΚΥΡΙΩΝ. KYRIŌN",
+     "source": "https://biblehub.com/text/revelation/19-16.htm",
+     "result": "0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.21.5",
+   "ref": "Revelation 21:5",
+   "uses": [
+    {
+     "section": "COS-48",
+     "section_label": "THE CHRIST OF SCRIPTURE — 52. (D) Revelation 21:5-7: The One on the Throne Speaks",
+     "article_line": 5737,
+     "cited_as": "(D) GNV seat — Revelation 21:5",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 21:5-7 full span; draft reads KJV-voiced 'for these things are' where the 1599 prints 'for these wordes are' — seat prints the 1599 (recorded).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he that sate vpon the throne, sayd, Behold, I make all things newe: and he sayde vnto me, Write: for these wordes are faithfull and true.",
+     "source": "https://ebible.org/enggnv/REV21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he that sate vpon the throne, sayd, Behold, I make all things newe: and he sayde vnto me, Write: for these wordes are faithfull and true.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/21",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ kai εἶπεν eipen ὁ ho καθήμενος kathēmenos ἐπὶ epi τῷ tō θρόνῳ thronō Ἰδοὺ Idou καινὰ kaina ποιῶ poiō πάντα. panta καὶ kai λέγει legei Γράψον, Grapson ὅτι hoti οὗτοι houtoi οἱ hoi λόγοι logoi πιστοὶ pistoi καὶ kai ἀληθινοί alēthinoi εἰσιν. eisin",
+     "source": "https://biblehub.com/text/revelation/21-5.htm",
+     "result": "1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.21.6",
+   "ref": "Revelation 21:6",
+   "uses": [
+    {
+     "section": "COS-48",
+     "section_label": "THE CHRIST OF SCRIPTURE — 52. (D) Revelation 21:5-7: The One on the Throne Speaks",
+     "article_line": 5737,
+     "cited_as": "(D) GNV seat — Revelation 21:6",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 21:5-7 full span; 'a thirst' glossed *(the Geneva prints \"a thirst\"; our modern \"athirst\")*.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he said vnto me, It is done, I am Alpha and Omega, the beginning and the ende. I wil giue to him that is a thirst, of the well of the water of life freely.",
+     "source": "https://ebible.org/enggnv/REV21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he said vnto me, It is done, I am Alpha and Omega, the beginning and the ende. I wil giue to him that is a thirst, of the well of the water of life freely.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/21",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai εἶπέν eipen μοι moi Γέγοναν. Gegonan ἐγὼ egō [εἰμι] eimi τὸ to Ἄλφα Alpha καὶ kai τὸ to Ὦ, Ō ἡ hē ἀρχὴ archē καὶ kai τὸ to τέλος. telos ἐγὼ egō τῷ tō διψῶντι dipsōnti δώσω dōsō ἐκ ek τῆς tēs πηγῆς pēgēs τοῦ tou ὕδατος hydatos τῆς tēs ζωῆς zōēs δωρεάν. dōrean",
+     "source": "https://biblehub.com/text/revelation/21-6.htm",
+     "result": "1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.21.7",
+   "ref": "Revelation 21:7",
+   "uses": [
+    {
+     "section": "COS-48",
+     "section_label": "THE CHRIST OF SCRIPTURE — 52. (D) Revelation 21:5-7: The One on the Throne Speaks",
+     "article_line": 5737,
+     "cited_as": "(D) GNV seat — Revelation 21:7",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 21:5-7 full span; draft matches the print.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "He that ouercommeth, shall inherit all things, and I will be his God, and he shall be my sonne.",
+     "source": "https://ebible.org/enggnv/REV21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "He that ouercommeth, shall inherit all things, and I will be his God, and he shall be my sonne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/21",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ ho νικῶν nikōn κληρονομήσει klēronomēsei ταῦτα, tauta καὶ kai ἔσομαι esomai αὐτῷ autō Θεὸς Theos καὶ kai αὐτὸς autos ἔσται estai μοι moi υἱός. huios",
+     "source": "https://biblehub.com/text/revelation/21-7.htm",
+     "result": "1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.22.12",
+   "ref": "Revelation 22:12",
+   "uses": [
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5764,
+     "cited_as": "(D) GNV seat — Revelation 22:12",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 22:12-13; draft matches the print (Greek μετ᾽ = standing koronis class in the group check).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And beholde, I come shortly, and my reward is with mee, to giue euery man according as his worke shall be.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And beholde, I come shortly, and my reward is with mee, to giue euery man according as his worke shall be.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἰδοὺ Idou ἔρχομαι erchomai ταχύ, tachy καὶ kai ὁ ho μισθός misthos μου mou μετ’ met’ ἐμοῦ, emou ἀποδοῦναι apodounai ἑκάστῳ hekastō ὡς hōs τὸ to ἔργον ergon ἐστὶν estin αὐτοῦ. autou",
+     "source": "https://biblehub.com/text/revelation/22-12.htm",
+     "result": "0.952 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.22.2",
+   "ref": "Revelation 22:2",
+   "uses": [
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5862,
+     "cited_as": "(D) GNV seat — Revelation 22:2",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 22:1-5 full span (wave-23's 22:1/3/4 re-presented with 22:2 and 22:5 newly seated); 'ye' = the y^e print artifact, glossed *(the)*.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In the middes of the street of it, and of either side of ye riuer, was the tree of life, which bare twelue maner of fruits, and gaue fruit euery moneth: and the leaues of the tree serued to heale the nations with.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In the middes of the street of it, and of either side of ye riuer, was the tree of life, which bare twelue maner of fruits, and gaue fruit euery moneth: and the leaues of the tree serued to heale the nations with.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐν en μέσῳ mesō τῆς tēs πλατείας plateias αὐτῆς autēs καὶ kai τοῦ tou ποταμοῦ potamou ἐντεῦθεν enteuthen καὶ kai ἐκεῖθεν ekeithen ξύλον xylon ζωῆς zōēs ποιοῦν poioun καρποὺς karpous δώδεκα, dōdeka κατὰ kata μῆνα mēna ἕκαστον hekaston ἀποδιδοῦν apodidoun τὸν ton καρπὸν karpon αὐτοῦ, autou καὶ kai τὰ ta φύλλα phylla τοῦ tou ξύλου xylou εἰς eis θεραπείαν therapeian τῶν tōn ἐθνῶν. ethnōn",
+     "source": "https://biblehub.com/text/revelation/22-2.htm",
+     "result": "0.987 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.22.5",
+   "ref": "Revelation 22:5",
+   "uses": [
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5862,
+     "cited_as": "(D) GNV seat — Revelation 22:5",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat 22:1-5 full span; draft matches the print.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And there shalbe no night there, and they neede no candle, neither light of the sunne: for the Lord God giueth them light, and they shall reigne for euermore.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And there shalbe no night there, and they neede no candle, neither light of the sunne: for the Lord God giueth them light, and they shall reigne for euermore.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai νὺξ nyx οὐκ ouk ἔσται estai ἔτι, eti καὶ kai οὐκ ouk ἔχουσιν echousin χρείαν chreian φωτὸς phōtos λύχνου lychnou καὶ kai φωτὸς phōtos ἡλίου, hēliou ὅτι hoti Κύριος Kyrios ὁ ho Θεὸς Theos φωτίσει phōtisei ἐπ’ ep’ αὐτούς, autous καὶ kai βασιλεύσουσιν basileusousin εἰς eis τοὺς tous αἰῶνας aiōnas τῶν tōn αἰώνων. aiōnōn",
+     "source": "https://biblehub.com/text/revelation/22-5.htm",
+     "result": "0.987 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "REV.22.7",
+   "ref": "Revelation 22:7",
+   "uses": [
+    {
+     "section": "COS-51",
+     "section_label": "THE CHRIST OF SCRIPTURE — 55. (D) Revelation 22:7, 20: The Final Words",
+     "article_line": 5892,
+     "cited_as": "(D) GNV seat — Revelation 22:7",
+     "quotes": [
+      "(D) seat — Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Seat v. 7; draft matches the print (Greek 1.0 vs WH).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beholde, I come shortly. Blessed is hee that keepeth the woordes of the prophecie of this booke.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beholde, I come shortly. Blessed is hee that keepeth the woordes of the prophecie of this booke.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/22",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ kai Ἰδοὺ Idou ἔρχομαι erchomai ταχύ. tachy μακάριος makarios ὁ ho τηρῶν tērōn τοὺς tous λόγους logous τῆς tēs προφητείας prophēteias τοῦ tou βιβλίου bibliou τούτου. toutou",
+     "source": "https://biblehub.com/text/revelation/22-7.htm",
+     "result": "1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+    }
+   }
+  },
+  {
+   "id": "EPH.1.10",
+   "ref": "Ephesians 1:10",
+   "uses": [
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5801,
+     "cited_as": "the One in whom \"all things are gathered up\" (Eph 1:10)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Typological-principle bullet mention (Eph 1:10 — the gathering of all things in the Son).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That in the dispensation of the fulnesse of the times, he might gather together in one all things, both which are in heauen, and which are in earth, euen in Christ:",
+     "source": "https://ebible.org/enggnv/EPH01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That in the dispensation of the fulnesse of the times, he might gather together in one all things, both which are in heauen, and which are in earth, euen in Christ:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.13.8",
+   "ref": "Revelation 13:8",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5932,
+     "cited_as": "'The Lamb as having been slain' — Rev 5:6, 12; 13:8",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Title-table row; the slain-Lamb thread.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore all that dwell vpon the earth, shall worship him, whose names are not written in the booke of life of that Lambe, which was slaine from the beginning of the world.",
+     "source": "https://ebible.org/enggnv/REV13.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore all that dwell vpon the earth, shall worship him, whose names are not written in the booke of life of that Lambe, which was slaine from the beginning of the world.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/13",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.17.14",
+   "ref": "Revelation 17:14",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5933,
+     "cited_as": "King of kings and Lord of lords — Rev 17:14; 19:16 (also 1 Tim 6:15)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Title-table row; title true to type (shared with the Father per 1 Tim 6:15).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "These shall fight with the Lambe, and the Lambe shall ouercome them: for he is Lord of Lordes, and King of Kings: and they that are on his side, called, and chosen, and faithfull.",
+     "source": "https://ebible.org/enggnv/REV17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "These shall fight with the Lambe, and the Lambe shall ouercome them: for he is Lord of Lordes, and King of Kings: and they that are on his side, called, and chosen, and faithfull.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.15.3",
+   "ref": "Revelation 15:3",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5945,
+     "cited_as": "He is the Pantokrator throughout (Rev 1:8; 4:8; 11:17; 15:3; 16:7; 19:6; 21:22)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Pantokrator mention-list anchor (21:22 banked wave-23).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And they sung the song of Moses the seruant of God, and the song of the Lambe, saying, Great and marueilous are thy workes, Lord God almightie: iust and true are thy wayes, King of Saints.",
+     "source": "https://ebible.org/enggnv/REV15.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And they sung the song of Moses the seruant of God, and the song of the Lambe, saying, Great and marueilous are thy workes, Lord God almightie: iust and true are thy wayes, King of Saints.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/15",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.16.7",
+   "ref": "Revelation 16:7",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5945,
+     "cited_as": "the Pantokrator list",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Pantokrator mention-list anchor.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I heard another out of the Sanctuarie say, Euen so, Lord God almightie, true and righteous are thy iudgements.",
+     "source": "https://ebible.org/enggnv/REV16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I heard another out of the Sanctuarie say, Euen so, Lord God almightie, true and righteous are thy iudgements.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/16",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.19.6",
+   "ref": "Revelation 19:6",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5945,
+     "cited_as": "the Pantokrator list",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Pantokrator mention-list anchor.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I heard like a voyce of a great multitude, and as the voyce of many waters, and as the voyce of strong thundrings, saying, Hallelu-iah: for the Lord that God that almightie God hath reigned.",
+     "source": "https://ebible.org/enggnv/REV19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I heard like a voyce of a great multitude, and as the voyce of many waters, and as the voyce of strong thundrings, saying, Hallelu-iah: for the Lord that God that almightie God hath reigned.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/19",
+     "result": "DIFF — see row note"
+    }
+   }
+  },
+  {
+   "id": "REV.11.17",
+   "ref": "Revelation 11:17",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5945,
+     "cited_as": "the Pantokrator list",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Pantokrator mention-list anchor.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Saying, We giue thee thankes, Lord God almightie, Which art, and Which wast, and Which art to come: for thou hast receiued thy great might, and hast obteined thy kingdome.",
+     "source": "https://ebible.org/enggnv/REV11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Saying, We giue thee thankes, Lord God almightie, Which art, and Which wast, and Which art to come: for thou hast receiued thy great might, and hast obteined thy kingdome.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/11",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "ISA.6.3",
+   "ref": "Isaiah 6:3",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5926,
+     "cited_as": "Echoes the Father's titles (Isa 6:3; 65:16)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Title-table row (Rev 3:7 echo).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And they cried out one to another and said: “Holy, holy, holy is the Lord Sabaoth; the whole earth is full of his glory.”",
+     "source": "NETS (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.40.10",
+   "ref": "Isaiah 40:10",
+   "uses": [
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5780,
+     "cited_as": "direct echo — \"My reward is with Me\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "The honest-examination bullet cites Isaiah 40:10 LXX (no quote); NETS banked.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "See, the Lord comes with strength, and his arm with authority; see, his reward is with him, and his work before him.",
+     "source": "NETS (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.62.11",
+   "ref": "Isaiah 62:11",
+   "uses": [
+    {
+     "section": "COS-49",
+     "section_label": "THE CHRIST OF SCRIPTURE — 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type",
+     "article_line": 5780,
+     "cited_as": "direct echo — \"His reward with him\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "The honest-examination bullet cites Isaiah 62:11 LXX (no quote); NETS banked.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "For see, the Lord has made it to be heard to the end of the earth: Say to daughter Sion, “See, your Savior comes to you, having his own reward and his work before him.”",
+     "source": "NETS (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "JHN.4.24",
+   "ref": "John 4:24",
+   "uses": [
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5871,
+     "cited_as": "\"God is Spirit\" cross-ref",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Observation (1); the draft's 'God is Spirit' is his condensed rendering — Part E seats John 4:24 properly (next wave); prose untouched.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "God is a Spirite, and they that worship him, must worship him in spirit and trueth.",
+     "source": "https://ebible.org/enggnv/JHN04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "God is a Spirite, and they that worship him, must worship him in spirit and trueth.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.14.23",
+   "ref": "John 14:23",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5988,
+     "cited_as": "F-preview: \"We will come unto him, and make Our abode with him\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "F-preview quote is KJV-voiced; the 1599 prints \"we wil come vnto him, and wil dwell with him\".",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus answered, and sayd vnto him, If any man loue me, he will keepe my worde, and my Father will loue him, and we wil come vnto him, and wil dwell with him.",
+     "source": "https://ebible.org/enggnv/JHN14.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus answered, and sayd vnto him, If any man loue me, he will keepe my worde, and my Father will loue him, and we wil come vnto him, and wil dwell with him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "F-preview John 14:23 quote is KJV-voiced (\"make Our abode with him\"); the 1599 prints \"and wil dwell with him\". Propose italic version-name in line or re-voice to the Geneva — his word.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "JHN.17.21",
+   "ref": "John 17:21",
+   "uses": [
+    {
+     "section": "COS-50",
+     "section_label": "THE CHRIST OF SCRIPTURE — 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb",
+     "article_line": 5875,
+     "cited_as": "\"that they all may be one\" cross-ref",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.",
+     "source": "https://ebible.org/enggnv/JHN17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "(F)-preview quotes John 17:20-23 in KJV voice; the 1599 differs in wording. Propose attribution or re-voice — his word.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "EPH.3.19",
+   "ref": "Ephesians 3:19",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5990,
+     "cited_as": "F-preview: \"that ye might be filled with all the fullness of God\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "The 1599 prints 'that ye may be filled with all fulnesse of God' — the draft's 'might be filled' is KJV-voiced.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And to knowe the loue of Christ, which passeth knowledge, that ye may be filled with all fulnesse of God.",
+     "source": "https://ebible.org/enggnv/EPH03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And to knowe the loue of Christ, which passeth knowledge, that ye may be filled with all fulnesse of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "F-preview Eph 3:14-19 quote KJV-voiced (\"might be filled\"); the 1599 prints \"may be filled\". Propose attribution — his word.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "2CO.6.16",
+   "ref": "2 Corinthians 6:16",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5991,
+     "cited_as": "F-preview: \"I will dwell in them, and walk in them\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "This fragment is exact to the 1599 print (KJV coincides); the Geneva continues 'I will be their God, and they shall be my people'.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And what agreement hath the Temple of God with idols? for ye are the Temple of the liuing God: as God hath said, I will dwell among them, and walke there: and I will be their God, and they shalbe my people.",
+     "source": "https://ebible.org/enggnv/2CO06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And what agreement hath the Temple of God with idols? for ye are the Temple of the liuing God: as God hath said, I will dwell among them, and walke there: and I will be their God, and they shalbe my people.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/6",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "2CO.6.18",
+   "ref": "2 Corinthians 6:18",
+   "uses": [
+    {
+     "section": "COS-48",
+     "section_label": "THE CHRIST OF SCRIPTURE — 52. (D) Revelation 21:5-7: The One on the Throne Speaks",
+     "article_line": 5758,
+     "cited_as": "cited of believers in 2 Cor 6:18 (reference only)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "The adoption-formula bullet references 2 Cor 6:18; no quote — anchor only.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I will be a Father vnto you, and ye shalbe my sonnes and daughters, saith the Lord almightie.",
+     "source": "https://ebible.org/enggnv/2CO06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I will be a Father vnto you, and ye shalbe my sonnes and daughters, saith the Lord almightie.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/6",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "1TI.6.15",
+   "ref": "1 Timothy 6:15",
+   "uses": [
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5733,
+     "cited_as": "'the King of kings and Lord of lords' shared title (1 Tim 6:15)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Observation (4) — the draft's inline quote runs 6:15-16 in KJV voice.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,",
+     "source": "https://ebible.org/enggnv/1TI06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Rev 19 observation quotes 1 Tim 6:15-16 in KJV voice ('whom no man hath seen, nor can see'); the 1599 prints 'whom neuer man saw, neither can see'. Propose italic version-name or re-voice — his word.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "1TI.6.16",
+   "ref": "1 Timothy 6:16",
+   "uses": [
+    {
+     "section": "COS-47",
+     "section_label": "THE CHRIST OF SCRIPTURE — 51. (D) Revelation 19:11-16: The Returning King",
+     "article_line": 5733,
+     "cited_as": "'the King of kings and Lord of lords... whom no man hath seen, nor can see'",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Observation (4) + the face-no-one-sees trio; Part E seats 1 Tim 6:15-16 properly (next wave).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.",
+     "source": "https://ebible.org/enggnv/1TI06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Same KJV-voiced quote as 1TI.6.15 — one ruling for both.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "2SA.7.14",
+   "ref": "2 Samuel 7:14",
+   "uses": [
+    {
+     "section": "COS-48",
+     "section_label": "THE CHRIST OF SCRIPTURE — 52. (D) Revelation 21:5-7: The One on the Throne Speaks",
+     "article_line": 5758,
+     "cited_as": "echoes the Davidic covenant promise (2 Sam 7:14)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Reference only (no quote); NETS Kingdoms not cached — GNV banked and TRB-verified.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I will be his father, and hee shall bee my sonne: and if he sinne, I will chasten him with the rod of men, and with the plagues of the children of men.",
+     "source": "https://ebible.org/enggnv/2SA07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I will be his father, and hee shall bee my sonne: and if he sinne, I will chasten him with the rod of men, and with the plagues of the children of men.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/10/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAT.1.21",
+   "ref": "Matthew 1:21",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5848,
+     "cited_as": "the Son is the Saviour (Matt 1:21)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "True-to-type pattern reference; no quote.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And she shall bring foorth a sonne, and thou shalt call his name JESUS: for hee shall saue his people from their sinnes.",
+     "source": "https://ebible.org/enggnv/MAT01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And she shall bring foorth a sonne, and thou shalt call his name JESUS: for hee shall saue his people from their sinnes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "MAL.4.2",
+   "ref": "Malachi 4:2",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5964,
+     "cited_as": "Mal 4:2 — the Sun of Righteousness (Rev 22:16 the Morning Star)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Thread-table row; NETS Twelve Malachi region junk (standing flag).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But vnto you that feare my Name, shall the sunne of righteousnesse arise, and health shall be vnder his wings, and ye shall goe forth, and growe vp as fat calues.",
+     "source": "https://ebible.org/enggnv/MAL04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But vnto you that feare my Name, shall the sunne of righteousnesse arise, and health shall be vnder his wings, and ye shall goe forth, and growe vp as fat calues.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/39/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "NETS Twelve cache Malachi junk (standing) — NETS not banked; GNV verified. A 32-twelve.pdf print dump can settle it in a later wave.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "REV.21.3",
+   "ref": "Revelation 21:3",
+   "uses": [
+    {
+     "section": "COS-52",
+     "section_label": "THE CHRIST OF SCRIPTURE — 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands",
+     "article_line": 5993,
+     "cited_as": "F-preview: \"the tabernacle of God is with men, and He will dwell with them\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "The 1599 prints 'he will dwell with them' (lowercase he); the draft's capital-He is his editorial emphasis. Part F seats the verse.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I heard a great voice out of heauen, saying, Behold, the Tabernacle of God is with men, and he will dwell with them: and they shalbe his people, and God himselfe shalbe their God with them.",
+     "source": "https://ebible.org/enggnv/REV21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I heard a great voice out of heauen, saying, Behold, the Tabernacle of God is with men, and he will dwell with them: and they shalbe his people, and God himselfe shalbe their God with them.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/21",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
     }
    }
   }

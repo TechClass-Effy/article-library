@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**631 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**663 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**802 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**834 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -986,8 +986,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
 - **Ruling — apply Geneva 1599 exact:** “I Jesus haue sent mine Angel, to testify vnto you these things in the Churches: I am the root and the generation of David, and the bright morning star.”
   (Standing rule: NT seats Geneva verbatim.)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
 
 ### Numbers 24:17 — CONFIRMED
 *cited as: LXX Greek + Geneva rows in draft (book seat: NETS OT / Geneva NT)*
@@ -2182,8 +2182,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: audit bullet quote (specified translation seated)*
 - **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
 - *Note:* Seat: Geneva verbatim (modernized) "I am the root and the generation of David, and the bright morning star." — draft voiced KJV fragment; Geneva carries the full sentence and lowercase "star".
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
 
 ### Acts 4:25-27 — CONFIRMED
 *cited as: audit #3 Claim A bullet (Acts 4:25-27)*
@@ -2396,8 +2396,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Word-of-God name seat (verbatim blockquote)*
 - **Geneva 1599:** “And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.”
 - *Note:* Seat modernizes eBible "dipt" to "dipped" with gloss *(the Geneva prints \"dipt\")*; edition prints the name in caps emphasis (THE WORD OF GOD), seat lower-cases per draft — both recorded under the modern-spelling flag. Draft Greek (βεβαμμένον αἵματι, περιβεβλημένος...) verified vs BibleHub /text/revelation/19-13.htm ratio 1.000.
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ## THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation
 
@@ -6022,8 +6022,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
 - *Note:* (D) preview list reference
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
 
 ### Revelation 1:8 — CONFIRMED
 *cited as: mention-anchor*
@@ -6056,14 +6056,16 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention-anchor*
 - **Geneva 1599:** “I am Alpha and Omega, the beginning and the end, the first and the last.”
 - *Note:* (D) preview-list reference
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.952 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
 
 ### Revelation 22:20 — CONFIRMED
 *cited as: KJV-voiced fragment, flagged*
 - **Geneva 1599:** “He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.”
 - **Needs Gideon's ruling:** "Yea, I come quickly." (draft bullet) vs GNV "Surely, I come quickly." (eBible=TRB 1.000) — await Gideon's word to seat Geneva
 - *Note:* draft's '(D) preview' bullet quotes 'Yea, I come quickly.' — GNV prints 'Surely, I come quickly.' — prose untouched per proposals-before-changes; propose seating the Geneva wording in the (D) wave
-- *Checked 2026-11-11 · editions fetched: gnv, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
 
 ## 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last
 
@@ -6651,6 +6653,619 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.”
 - *Note:* COS-46 prose mention.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+## 51. (D) Revelation 19:11-16: The Returning King
+
+### Revelation 19:13 — CONFIRMED
+*cited as: (D) GNV seat re-presented — REV.19.13 (prior seat text kept)*
+- **Geneva 1599:** “And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.”
+- *Note:* Re-presented in the (D)-close seat; see polish.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 19:11 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 19:11*
+- **Geneva 1599:** “And I sawe heauen open, and behold, a white horse, and he that sate vpon him, was called, Faithfull and true, and he iudgeth and fighteth righteously.”
+- *Note:* Seat 19:11-16 (ellipsis over vv. 14-15 per draft). Seat prints the 1599 modern-spelled; the print's lowercase 'true' and the comma after 'called' kept (draft prints 'Faithful and True').
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 19:12 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 19:12*
+- **Geneva 1599:** “And his eyes were as a flame of fire, and on his head were many crownes: and he had a name written, that no man knewe but himselfe.”
+- *Note:* Seat 19:11-16; draft matches the print (sawe→saw fold class).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 19:16 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 19:16*
+- **Geneva 1599:** “And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.”
+- *Note:* Seat 19:11-16; the 1599 print reads THE KINGS OF KINGS for our modern KING OF KINGS — seat keeps the print with gloss *(KING)*; Greek Βασιλεὺς βασιλέων = King of kings; draft prints KING OF KINGS (recorded, no flag).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### John 1:1 — PROSE-REF
+*cited as: directly tying back to John 1:1 ("In the beginning was the Word")*
+- **Geneva 1599:** “In the beginning was that Word, and that Word was with God, and that Word was God.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### 1 Timothy 6:15 — PROSE-REF
+*cited as: 'the King of kings and Lord of lords' shared title (1 Tim 6:15)*
+- **Geneva 1599:** “Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,”
+- *Note:* Observation (4) — the draft's inline quote runs 6:15-16 in KJV voice.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 1 Timothy 6:16 — PROSE-REF
+*cited as: 'the King of kings and Lord of lords... whom no man hath seen, nor can see'*
+- **Geneva 1599:** “Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.”
+- *Note:* Observation (4) + the face-no-one-sees trio; Part E seats 1 Tim 6:15-16 properly (next wave).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+## 52. (D) Revelation 21:5-7: The One on the Throne Speaks
+
+### Revelation 21:5 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 21:5*
+- **Geneva 1599:** “And he that sate vpon the throne, sayd, Behold, I make all things newe: and he sayde vnto me, Write: for these wordes are faithfull and true.”
+- *Note:* Seat 21:5-7 full span; draft reads KJV-voiced 'for these things are' where the 1599 prints 'for these wordes are' — seat prints the 1599 (recorded).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 21:6 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 21:6*
+- **Geneva 1599:** “And he said vnto me, It is done, I am Alpha and Omega, the beginning and the ende. I wil giue to him that is a thirst, of the well of the water of life freely.”
+- *Note:* Seat 21:5-7 full span; 'a thirst' glossed *(the Geneva prints "a thirst"; our modern "athirst")*.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 21:7 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 21:7*
+- **Geneva 1599:** “He that ouercommeth, shall inherit all things, and I will be his God, and he shall be my sonne.”
+- *Note:* Seat 21:5-7 full span; draft matches the print.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### 2 Corinthians 6:18 — PROSE-REF
+*cited as: cited of believers in 2 Cor 6:18 (reference only)*
+- **Geneva 1599:** “And I will be a Father vnto you, and ye shalbe my sonnes and daughters, saith the Lord almightie.”
+- *Note:* The adoption-formula bullet references 2 Cor 6:18; no quote — anchor only.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 2 Samuel 7:14 — PROSE-REF
+*cited as: echoes the Davidic covenant promise (2 Sam 7:14)*
+- **Geneva 1599:** “I will be his father, and hee shall bee my sonne: and if he sinne, I will chasten him with the rod of men, and with the plagues of the children of men.”
+- *Note:* Reference only (no quote); NETS Kingdoms not cached — GNV banked and TRB-verified.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+## 53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type
+
+### Revelation 22:13 — CONFIRMED
+*cited as: (D) GNV seat — Rev 22:12-13 (the careful textual examination)*
+- **Geneva 1599:** “I am Alpha and Omega, the beginning and the end, the first and the last.”
+- *Note:* Re-presented in the (D)-close seat; see polish 28-wave-26.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.952 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 22:12 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 22:12*
+- **Geneva 1599:** “And beholde, I come shortly, and my reward is with mee, to giue euery man according as his worke shall be.”
+- *Note:* Seat 22:12-13; draft matches the print (Greek μετ᾽ = standing koronis class in the group check).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.952 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Isaiah 40:10 — PROSE-REF
+*cited as: direct echo — "My reward is with Me"*
+- **NETS (Septuagint, modern):** “See, the Lord comes with strength, and his arm with authority; see, his reward is with him, and his work before him.”
+- *Note:* The honest-examination bullet cites Isaiah 40:10 LXX (no quote); NETS banked.
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 62:11 — PROSE-REF
+*cited as: direct echo — "His reward with him"*
+- **NETS (Septuagint, modern):** “For see, the Lord has made it to be heard to the end of the earth: Say to daughter Sion, “See, your Savior comes to you, having his own reward and his work before him.””
+- *Note:* The honest-examination bullet cites Isaiah 62:11 LXX (no quote); NETS banked.
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 44:6 — PROSE-REF
+*cited as: besides Me there is no God (Isa 44:6)*
+- **NETS (Septuagint, modern):** “Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.”
+- **Brenton LXX:** “Thus saith God the King of Israel, and the God of hosts that delivered him; I am the first, and I am hereafter: beside me there is no God.”
+- **Geneva 1599:** “Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓ · trb_fresh — primary fetch (eBible ISA44 v6 parse glitch — TRB text banked; eBible re-fetch pending)*
+
+### 1 Corinthians 15:20 — PROSE-REF
+*cited as: the firstfruits of those who sleep (1 Cor 15:20)*
+- **Geneva 1599:** “But nowe is Christ risen from the dead, and was made the first fruites of them that slept.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### 1 Corinthians 15:28 — PROSE-REF
+*cited as: that God may be all in all (1 Cor 15:28)*
+- **Geneva 1599:** “And when all things shalbe subdued vnto him, then shall the Sonne also himselfe be subiect vnto him, that did subdue all things vnder him, that God may be all in all.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Colossians 1:18 — PROSE-REF
+*cited as: the firstborn from the dead (Col 1:18)*
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Ephesians 1:10 — PROSE-REF
+*cited as: the One in whom "all things are gathered up" (Eph 1:10)*
+- **Geneva 1599:** “That in the dispensation of the fulnesse of the times, he might gather together in one all things, both which are in heauen, and which are in earth, euen in Christ:”
+- *Note:* Typological-principle bullet mention (Eph 1:10 — the gathering of all things in the Son).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 22:16 — CONFIRMED
+*cited as: (D) GNV seat — Rev 22:16 (resumed examination)*
+- **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
+- *Note:* Re-presented in the (D)-close seat; see polish 28-wave-26.
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### John 1:3 — PROSE-REF
+*cited as: through whom all things were made (John 1:3)*
+- **Geneva 1599:** “All things were made by it, and without it was made nothing that was made.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Colossians 1:16 — PROSE-REF
+*cited as: through whom all things were made (Col 1:16)*
+- **Geneva 1599:** “For by him were all things created, which are in heauen, and which are in earth, thinges visible and inuisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb ✓*
+
+### COL 1 15 — PROSE-REF
+*cited as: the firstborn over creation (Col 1:15)*
+- **Geneva 1599:** “Who is the image of the inuisible God, the first begotten of euery creature.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb ✓*
+
+## 54. (D) Revelation 22:1-5: The Throne of God and of the Lamb
+
+### Revelation 22:1 — CONFIRMED
+*cited as: (D) GNV seat re-presented — REV.22.1 (prior seat text kept)*
+- **Geneva 1599:** “And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.”
+- *Note:* Re-presented in the (D)-close seat; see polish.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Revelation 22:3 — CONFIRMED
+*cited as: (D) GNV seat re-presented — REV.22.3 (prior seat text kept)*
+- **Geneva 1599:** “And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.”
+- *Note:* Re-presented in the (D)-close seat; see polish.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Revelation 22:4 — CONFIRMED
+*cited as: (D) GNV seat re-presented — REV.22.4 (prior seat text kept)*
+- **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
+- *Note:* Re-presented in the (D)-close seat; see polish.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Revelation 22:2 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 22:2*
+- **Geneva 1599:** “In the middes of the street of it, and of either side of ye riuer, was the tree of life, which bare twelue maner of fruits, and gaue fruit euery moneth: and the leaues of the tree serued to heale the nations with.”
+- *Note:* Seat 22:1-5 full span (wave-23's 22:1/3/4 re-presented with 22:2 and 22:5 newly seated); 'ye' = the y^e print artifact, glossed *(the)*.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.987 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 22:5 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 22:5*
+- **Geneva 1599:** “And there shalbe no night there, and they neede no candle, neither light of the sunne: for the Lord God giueth them light, and they shall reigne for euermore.”
+- *Note:* Seat 22:1-5 full span; draft matches the print.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.987 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### John 4:24 — PROSE-REF
+*cited as: "God is Spirit" cross-ref*
+- **Geneva 1599:** “God is a Spirite, and they that worship him, must worship him in spirit and trueth.”
+- *Note:* Observation (1); the draft's 'God is Spirit' is his condensed rendering — Part E seats John 4:24 properly (next wave); prose untouched.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Zechariah 14:9 — PROSE-REF
+*cited as: one LORD and His Name one (Zech 14:9)*
+- **NETS (Septuagint, modern):** “And the Lord will become king over all the earth; on that day the Lord will be one and his name one.”
+- **Geneva 1599:** “And the Lord shall bee King ouer all the earth: in that day shall there bee one Lord, and his Name shalbe one.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### John 17:21 — PROSE-REF
+*cited as: "that they all may be one" cross-ref*
+- **Geneva 1599:** “That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.”
+- *Note:* Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 1:18 — PROSE-REF
+*cited as: the face that no man has ever seen (John 1:18)*
+- **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
+
+### Exodus 33:20 — PROSE-REF
+*cited as: the face that no man has ever seen (Ex 33:20; reference)*
+- **NETS (Septuagint, modern):** “And he said, “You shall not be able to see my face. For a person shall never see my face and live.””
+- **Geneva 1599:** “Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.”
+- *Note:* (D)-close upsert use.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS verbatim from 02-exod walk cache · trb ✓*
+
+### Exodus 23:21 — PROSE-REF
+*cited as: The Name borne by the Son (Ex 23:21)*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+
+### John 17:11 — PROSE-REF
+*cited as: The Name borne by the Son (John 17:11)*
+- **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v11 fragment = Nestle word-for-word*
+
+### Philippians 2:9 — PROSE-REF
+*cited as: The Name borne by the Son (Phil 2:9)*
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Revelation 21:23 — PROSE-REF
+*cited as: Compare with Rev 21:23 — the glory and the lamp*
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: *
+
+## 55. (D) Revelation 22:7, 20: The Final Words
+
+### Revelation 22:7 — CONFIRMED
+*cited as: (D) GNV seat — Revelation 22:7*
+- **Geneva 1599:** “Beholde, I come shortly. Blessed is hee that keepeth the woordes of the prophecie of this booke.”
+- *Note:* Seat v. 7; draft matches the print (Greek 1.0 vs WH).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 22:20 — CONFIRMED
+*cited as: (D) GNV seat — Rev 22:20 (Greek Ναί, 1599 'Surely' — they agree)*
+- **Geneva 1599:** “He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.”
+- *Note:* Re-presented in the (D)-close seat; see polish 28-wave-26.
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+## 56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands
+
+### Isaiah 45:21 — PROSE-REF
+*cited as: the Father is the Saviour (Isa 45:21)*
+- **NETS (Septuagint, modern):** “If they will declare it, let them draw near so that they may know together who made from the beginning these things that are to be heard. Then it was declared to you, I am God, and there is no other besides me; there is no righteous one or savior except me.”
+- **Brenton LXX:** “If they will declare, let them draw nigh, that they may know together, who has caused these things to be heard from the beginning: then was it told you. I am God, and there is not another beside me; a just God and a Saviour; there is none but me.”
+- **Geneva 1599:** “Tell ye and bring them, and let them take counsell together, who hath declared this from the beginning? or hath tolde it of olde? Haue not I the Lord? and there is none other God beside me, a iust God, and a Sauiour: there is none beside me.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Matthew 1:21 — PROSE-REF
+*cited as: the Son is the Saviour (Matt 1:21)*
+- **Geneva 1599:** “And she shall bring foorth a sonne, and thou shalt call his name JESUS: for hee shall saue his people from their sinnes.”
+- *Note:* True-to-type pattern reference; no quote.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 1:5 — PROSE-REF
+*cited as: Faithful and True Witness / Firstborn — Rev 1:5*
+- **Geneva 1599:** “And from Iesus Christ, which is that faithful witnes, and that first begotten of the dead, and that Prince of the Kings of the earth, vnto him that loued vs, and washed vs from our sinnes in his blood,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — draft Greek = WH incl λύσαντι; TR-underlying λούσαντι is the basis of the Geneva "washed" — variant row-noted*
+
+### Psalm 2:7 — PROSE-REF
+*cited as: Firstborn from the Dead — Ps 2:7 fulfilled in resurrection*
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Daniel 7:14 — PROSE-REF
+*cited as: Ruler of the Kings of the Earth — Dan 7:14 fulfilled*
+- **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Revelation 1:17 — PROSE-REF
+*cited as: First and the Last — Rev 1:17; 2:8; 22:13*
+- **Geneva 1599:** “And when I saw him, I fell at his feete as dead: then he laid his right hand vpon me, saying vnto me, Feare not: I am that first and that last,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — fair-cut 0.938 (koronis Apostrophe επ᾽/επ + case only)*
+
+### Revelation 22:13 — PROSE-REF
+*cited as: First and the Last — Rev 22:13 (title-table)*
+- **Geneva 1599:** “I am Alpha and Omega, the beginning and the end, the first and the last.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.952 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 2:8 — PROSE-REF
+*cited as: First and the Last — Rev 2:8*
+- **Geneva 1599:** “And vnto the Angel of the Church of the Smyrnians write, These things saith he that is first, and last, which was dead and is aliue.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 1:18 — PROSE-REF
+*cited as: The Living One who was dead — Rev 1:18*
+- **Geneva 1599:** “And am aliue, but I was dead: and beholde, I am aliue for euermore, Amen: and I haue the keyes of hell and of death.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 2:18 — PROSE-REF
+*cited as: The Son of God — Rev 2:18*
+- **Geneva 1599:** “And vnto ye Angel of the Church which is at Thyatira write, These things saith the Sonne of God, which hath his eyes like vnto a flame of fire, and his feete like fine brasse.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 3:7 — PROSE-REF
+*cited as: The Holy One, the True One (Rev 3:7)*
+- **Geneva 1599:** “And write vnto ye Angel of ye Church which is of Philadelphia, These things saith he that is Holy, and True, which hath ye keye of Dauid, which openeth and no man shutteth, and shutteth and no man openeth,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Isaiah 6:3 — PROSE-REF
+*cited as: Echoes the Father's titles (Isa 6:3; 65:16)*
+- **NETS (Septuagint, modern):** “And they cried out one to another and said: “Holy, holy, holy is the Lord Sabaoth; the whole earth is full of his glory.””
+- *Note:* Title-table row (Rev 3:7 echo).
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Revelation 3:14 — PROSE-REF
+*cited as: The Amen — Rev 3:14*
+- **Geneva 1599:** “And vnto the Angell of the Church of the Laodiceans write, These things saieth Amen, the faithfull and true witnesse, that beginning of the creatures of God.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 (draft Greek exact vs WH) — "that beginning of the creatures of God" is the 1599 rendering of ἡ ἀρχὴ τῆς κτίσεως τοῦ Θεοῦ*
+
+### Isaiah 65:16 — PROSE-REF
+*cited as: the Amen — Isa 65:16 (Rev 3:14)*
+- **NETS (Septuagint, modern):** “which shall be blessed on the earth; for they shall bless the true God, and those who swear on the earth shall swear by the true God, for they shall forget their first affliction, and it shall not come up into their heart.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Genesis 49:10 — PROSE-REF
+*cited as: the Lion of Judah — Gen 49:10 fulfilled (Rev 5:5)*
+- **NETS (Septuagint, modern):** “A ruler shall not be wanting from Ioudas and a leader from his thighs until the things stored up for him come, and he is the expectation of nations.”
+- **Brenton LXX:** “A ruler shall not fail from Juda, nor a prince from his loins, until there come the things stored up for him; and he is the expectation of nations.”
+- **Geneva 1599:** “The scepter shall not depart from Iudah, nor a Lawegiuer from betweene his feete, vntill Shiloh come, and the people shall be gathered vnto him.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Revelation 5:5 — PROSE-REF
+*cited as: The Lion of the Tribe of Judah — Rev 5:5*
+- **Geneva 1599:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Isaiah 11:1 — PROSE-REF
+*cited as: the Root — Isa 11:1 fulfilled (Rev 22:16)*
+- **NETS (Septuagint, modern):** “And a rod shall come out of the root of Iessai, and a blossom shall come up out of his root.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 11:10 — PROSE-REF
+*cited as: the Root — Isa 11:10 fulfilled*
+- **NETS (Septuagint, modern):** “And there shall be on that day the root of Iessai, even the one who stands up to rule nations; nations shall hope in him, and his rest shall be honor.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### REV 5 6 — PROSE-REF
+*cited as: The Lamb as having been slain — Rev 5:6*
+- **Geneva 1599:** “Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+### Revelation 13:8 — PROSE-REF
+*cited as: 'The Lamb as having been slain' — Rev 5:6, 12; 13:8*
+- **Geneva 1599:** “Therefore all that dwell vpon the earth, shall worship him, whose names are not written in the booke of life of that Lambe, which was slaine from the beginning of the world.”
+- *Note:* Title-table row; the slain-Lamb thread.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 19:16 — PROSE-REF
+*cited as: King of kings and Lord of lords — Rev 19:16 (title-table)*
+- **Geneva 1599:** “And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 17:14 — PROSE-REF
+*cited as: King of kings and Lord of lords — Rev 17:14; 19:16 (also 1 Tim 6:15)*
+- **Geneva 1599:** “These shall fight with the Lambe, and the Lambe shall ouercome them: for he is Lord of Lordes, and King of Kings: and they that are on his side, called, and chosen, and faithfull.”
+- *Note:* Title-table row; title true to type (shared with the Father per 1 Tim 6:15).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 22:16 — PROSE-REF
+*cited as: The Bright Morning Star — Rev 22:16 (title-table)*
+- **Geneva 1599:** “I Iesus haue sent mine Angell, to testifie vnto you these things in the Churches: I am the root and the generation of Dauid, and the bright morning starre.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Numbers 24:17 — PROSE-REF
+*cited as: 'the Star' (Num 24:17 fulfilled — Rev 22:16)*
+- **NETS (Septuagint, modern):** “I will point to him, and not now; I deem him happy, but he is not at hand. A star shall dawn out of Iakob, and a person shall rise up out of Israel, and he shall crush the chiefs of Moab, and he shall plunder all Seth’s sons.”
+- **Brenton LXX:** “I will point to him, but not now; I bless him, but he draws not near: a star shall rise out of Jacob, a man shall spring out of Israel; and shall crush the princes of Moab, and shall spoil all the sons of Seth.”
+- **Geneva 1599:** “I shall see him, but not nowe: I shall behold him, but not neere: there shall come a starre of Iaakob, and a scepter shall rise of Israel, and shall smite the coastes of Moab, and destroy all the sonnes of Sheth.”
+- *Note:* Title-table row; NETS text was already banked (Numbers 24:17 Star-of-Iakob reading verified earlier); GNV verified vs TRB this wave.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, nets*
+- *Double-checked (second source): gnv ✓*
+
+### Revelation 1:8 — PROSE-REF
+*cited as: the Pantokrator list (Rev 1:8)*
+- **Geneva 1599:** “I am Alpha and Omega, the beginning and the ending, saith the Lord, Which is, and Which was, and Which is to come, euen the Almightie.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.933 — WH-only clause ἡ ἀρχὴ καὶ τὸ τέλος row-noted*
+
+### Revelation 4:8 — PROSE-REF
+*cited as: the Pantokrator list (Rev 4:8)*
+- **Geneva 1599:** “And the foure beasts had eche one of them sixe wings about him, and they were full of eyes within, and they ceased not day nor night, saying, Holy, holy, holy Lord God almighty, Which Was, and Which Is, and Which Is to come.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 15:3 — PROSE-REF
+*cited as: He is the Pantokrator throughout (Rev 1:8; 4:8; 11:17; 15:3; 16:7; 19:6; 21:22)*
+- **Geneva 1599:** “And they sung the song of Moses the seruant of God, and the song of the Lambe, saying, Great and marueilous are thy workes, Lord God almightie: iust and true are thy wayes, King of Saints.”
+- *Note:* Pantokrator mention-list anchor (21:22 banked wave-23).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 16:7 — PROSE-REF
+*cited as: the Pantokrator list*
+- **Geneva 1599:** “And I heard another out of the Sanctuarie say, Euen so, Lord God almightie, true and righteous are thy iudgements.”
+- *Note:* Pantokrator mention-list anchor.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 19:6 — PROSE-REF
+*cited as: the Pantokrator list*
+- **Geneva 1599:** “And I heard like a voyce of a great multitude, and as the voyce of many waters, and as the voyce of strong thundrings, saying, Hallelu-iah: for the Lord that God that almightie God hath reigned.”
+- *Note:* Pantokrator mention-list anchor.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — DIFF — see row note*
+
+### Revelation 11:17 — PROSE-REF
+*cited as: the Pantokrator list*
+- **Geneva 1599:** “Saying, We giue thee thankes, Lord God almightie, Which art, and Which wast, and Which art to come: for thou hast receiued thy great might, and hast obteined thy kingdome.”
+- *Note:* Pantokrator mention-list anchor.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 1:4 — PROSE-REF
+*cited as: the eternally being One (Rev 1:4)*
+- **Geneva 1599:** “Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 case-only (Ταις/Χαρις/Πνευματων caps); draft elides v5b tail*
+
+### Revelation 4:11 — PROSE-REF
+*cited as: worshipped as the Creator (Rev 4:11)*
+- **Geneva 1599:** “Thou art worthy, O Lord, to receiue glory and honour, and power: for thou hast created all things, and for thy wils sake they are, and haue beene created.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 1:1 — PROSE-REF
+*cited as: He gives the revelation to His Son (Rev 1:1)*
+- **Geneva 1599:** “The Reuelation of Iesus Christ, which God gaue vnto him, to shewe vnto his seruants things which must shortly be done: which he sent, and shewed by his Angel vnto his seruant Iohn,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 (draft Greek exact vs WH)*
+
+### 1TI 2 5 — PROSE-REF
+*cited as: the Man Christ Jesus, the one Mediator (1 Tim 2:5)*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### Isaiah 53:5 — PROSE-REF
+*cited as: Isa 53 — the slain Lamb (Rev 5, 13)*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
+- **Brenton LXX:** “But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.”
+- **Geneva 1599:** “But hee was wounded for our transgressions, hee was broken for our iniquities: the chastisement of our peace was vpon him, and with his stripes we are healed.”
+- **KJV:** “But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
+
+### Zechariah 12:10 — PROSE-REF
+*cited as: the pierced One — Zech 12:10 (Rev 1:7)*
+- **NETS (Septuagint, modern):** “And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.”
+- **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
+- **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
+- **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
+
+### Genesis 3:15 — PROSE-REF
+*cited as: the seed of the woman — fulfilled in Rev 12, 20 (mention-anchor)*
+- **NETS (Septuagint, modern):** “And I will put enmity between you and between the woman and between your offspring and between her offspring; he will watch your head, and you will watch his heel.””
+- **Brenton LXX:** “And I will put enmity between thee and the woman and between thy seed and her seed, he shall watch against thy head, and thou shalt watch against his heel.”
+- **Geneva 1599:** “I will also put enimitie betweene thee and the woman, and betweene thy seede and her seede. He shall breake thine head, and thou shalt bruise his heele.”
+- *Note:* (D)-close upsert use.
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### PS 109 1 — PROSE-REF
+*cited as: Ps 110 — the Anointed at the right hand (Rev 1, 5, 22)*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
+- *Note:* (D)-close upsert use.
+- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+
+### Revelation 1:7 — PROSE-REF
+*cited as: the pierced One — Rev 1:7*
+- **Geneva 1599:** “Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.96 (25/25 tokens; 1 token case/diff) — draft Greek row drops per seat shape*
+
+### Daniel 7:13 — PROSE-REF
+*cited as: Dan 7 — the Son of Man before the Ancient of Days (Rev 1, 5)*
+- **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
+- *Note:* (D)-close mention-anchor.
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Malachi 4:2 — PROSE-REF
+*cited as: Mal 4:2 — the Sun of Righteousness (Rev 22:16 the Morning Star)*
+- **Geneva 1599:** “But vnto you that feare my Name, shall the sunne of righteousnesse arise, and health shall be vnder his wings, and ye shall goe forth, and growe vp as fat calues.”
+- *Note:* Thread-table row; NETS Twelve Malachi region junk (standing flag).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 14:23 — PROSE-REF
+*cited as: F-preview: "We will come unto him, and make Our abode with him"*
+- **Geneva 1599:** “Iesus answered, and sayd vnto him, If any man loue me, he will keepe my worde, and my Father will loue him, and we wil come vnto him, and wil dwell with him.”
+- *Note:* F-preview quote is KJV-voiced; the 1599 prints "we wil come vnto him, and wil dwell with him".
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Ephesians 3:19 — PROSE-REF
+*cited as: F-preview: "that ye might be filled with all the fullness of God"*
+- **Geneva 1599:** “And to knowe the loue of Christ, which passeth knowledge, that ye may be filled with all fulnesse of God.”
+- *Note:* The 1599 prints 'that ye may be filled with all fulnesse of God' — the draft's 'might be filled' is KJV-voiced.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 2 Corinthians 6:16 — PROSE-REF
+*cited as: F-preview: "I will dwell in them, and walk in them"*
+- **Geneva 1599:** “And what agreement hath the Temple of God with idols? for ye are the Temple of the liuing God: as God hath said, I will dwell among them, and walke there: and I will be their God, and they shalbe my people.”
+- *Note:* This fragment is exact to the 1599 print (KJV coincides); the Geneva continues 'I will be their God, and they shall be my people'.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 21:3 — PROSE-REF
+*cited as: F-preview: "the tabernacle of God is with men, and He will dwell with them"*
+- **Geneva 1599:** “And I heard a great voice out of heauen, saying, Behold, the Tabernacle of God is with men, and he will dwell with them: and they shalbe his people, and God himselfe shalbe their God with them.”
+- *Note:* The 1599 prints 'he will dwell with them' (lowercase he); the draft's capital-He is his editorial emphasis. Part F seats the verse.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 # THE BIBLICAL SABBATH
 
@@ -8450,7 +9065,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 29:13 | P7 | confirmed |
 | Isaiah 42:8 | P1-Q8 | confirmed |
 | Isaiah 52:13 | P1-Q8, COS-16, COS-22 | anchor, confirmed |
-| Isaiah 53:5 | P1-Q8, COS-22, COS-28 | anchor, confirmed |
+| Isaiah 53:5 | P1-Q8, COS-22, COS-28, COS-52 | anchor, confirmed, prose-ref |
 | Jeremiah 14:14 | P7 | confirmed |
 | Jeremiah 31:33 | P9 | confirmed |
 | Ezekiel 36:20 | P7 | confirmed |
@@ -8459,7 +9074,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ezekiel 37:9 | P4 | confirmed |
 | Malachi 1:6 | P7 | confirmed |
 | Zechariah 1:8 | P8 | anchor |
-| Zechariah 12:10 | P1-Q8, COS-15, COS-23, COS-36, COS-37, COS-39 | confirmed, prose-ref |
+| Zechariah 12:10 | P1-Q8, COS-15, COS-23, COS-36, COS-37, COS-39, COS-52 | confirmed, prose-ref |
 | Matthew 5:37 | P7 | confirmed |
 | Matthew 6:9 | CLOSE | confirmed |
 | John 1:29 | P1-Q8, COS-15 | anchor, confirmed |
@@ -8662,12 +9277,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
 | Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-36, COS-40 | anchor, confirmed, prose-ref |
-| Isaiah 44:6 | COS-01, COS-17, COS-18, COS-40, COS-43, COS-44 | anchor, confirmed, prose-ref |
+| Isaiah 44:6 | COS-01, COS-17, COS-18, COS-40, COS-43, COS-44, COS-49 | anchor, confirmed, prose-ref |
 | Isaiah 44:8 | COS-01 | confirmed |
 | Isaiah 44:24 | COS-01, COS-36, COS-40, COS-45 | confirmed, prose-ref |
 | Isaiah 45:5 | COS-01 | confirmed |
 | Isaiah 45:6 | COS-01 | confirmed |
-| Isaiah 45:21 | COS-01 | confirmed |
+| Isaiah 45:21 | COS-01, COS-52 | confirmed, prose-ref |
 | Isaiah 45:22 | COS-01 | confirmed |
 | Isaiah 45:18 | COS-01 | confirmed |
 | Isaiah 45:23 | COS-01, COS-35, COS-40 | anchor, confirmed |
@@ -8682,23 +9297,23 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45 | anchor, confirmed, prose-ref |
 | John 20:17 | COS-01, COS-18 | confirmed |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
-| John 1:1 | COS-01, COS-20 | anchor, confirmed |
+| John 1:1 | COS-01, COS-20, COS-47 | anchor, confirmed, prose-ref |
 | John 1:2 | COS-01, COS-20 | anchor, confirmed |
-| John 1:3 | COS-01, COS-20, COS-42, COS-44 | anchor, confirmed, prose-ref |
-| Colossians 1:16 | COS-01, COS-05, COS-17, COS-42, COS-44 | anchor, confirmed, prose-ref |
+| John 1:3 | COS-01, COS-20, COS-42, COS-44, COS-49 | anchor, confirmed, prose-ref |
+| Colossians 1:16 | COS-01, COS-05, COS-17, COS-42, COS-44, COS-49 | anchor, confirmed, prose-ref |
 | Philippians 2:10 | COS-01, COS-35, COS-42 | anchor, confirmed |
 | Philippians 2:11 | COS-01, COS-25, COS-35, COS-40 | anchor, confirmed |
-| Genesis 3:15 | COS-01, COS-19 | anchor, confirmed |
+| Genesis 3:15 | COS-01, COS-19, COS-52 | anchor, confirmed, prose-ref |
 | Isaiah 7:14 | COS-01, COS-19, COS-23 | confirmed, confirmed (excerpt) |
 | Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
 | Genesis 22:2 | COS-02, COS-19 | anchor, confirmed |
 | Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
 | Matthew 3:17 | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
-| Genesis 49:10 | COS-02, COS-19, COS-22, COS-45 | anchor, confirmed, prose-ref |
+| Genesis 49:10 | COS-02, COS-19, COS-22, COS-45, COS-52 | anchor, confirmed, prose-ref |
 | Haggai 2:7 (LXX) | COS-02, COS-19 | confirmed, confirmed (excerpt) |
-| Revelation 5:5 | COS-02, COS-19, COS-30, COS-45 | confirmed, confirmed (excerpt) |
-| Revelation 22:16 | COS-02, COS-19, COS-42 | confirmed, confirmed (excerpt) |
-| Numbers 24:17 | COS-02, COS-19 | anchor, confirmed |
+| Revelation 5:5 | COS-02, COS-19, COS-30, COS-45, COS-52 | confirmed, confirmed (excerpt), prose-ref |
+| Revelation 22:16 | COS-02, COS-19, COS-42, COS-49, COS-52 | confirmed, confirmed (excerpt), prose-ref |
+| Numbers 24:17 | COS-02, COS-19, COS-52 | anchor, confirmed, prose-ref |
 | Matthew 2:2 (Geneva) | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
 | PS 2 1-2 | COS-03, COS-16 | anchor, confirmed |
 | PS 2 6-7 | COS-03, COS-17 | anchor, confirmed |
@@ -8708,7 +9323,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03, COS-19, COS-42 | confirmed, confirmed (excerpt) |
 | MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40 | anchor, confirmed, prose-ref |
-| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39, COS-40, COS-41, COS-42 | anchor, confirmed |
+| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39, COS-40, COS-41, COS-42, COS-52 | anchor, confirmed, prose-ref |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04, COS-29 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
@@ -8725,7 +9340,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | PRO 8 27 | COS-05 | confirmed |
 | PRO 8 30 | COS-05 | confirmed |
 | 1 Corinthians 1:24 | COS-05, COS-17 | confirmed |
-| COL 1 15 | COS-05, COS-13, COS-17, COS-43, COS-44 | anchor, confirmed, prose-ref |
+| COL 1 15 | COS-05, COS-13, COS-17, COS-43, COS-44, COS-49 | anchor, confirmed, prose-ref |
 | COL 1 17 | COS-05, COS-17 | confirmed |
 | MIC 5 2 | COS-06, COS-16, COS-17, COS-19, COS-23 | anchor, confirmed, confirmed (excerpt) |
 | MAT 2 3 | COS-06 | confirmed |
@@ -8762,12 +9377,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 10:1 | COS-12 | confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | Jude 5 | COS-12 | confirmed |
-| John 1:18 | COS-13, COS-20, COS-41 | confirmed |
+| John 1:18 | COS-13, COS-20, COS-41, COS-50 | confirmed, prose-ref |
 | John 6:46 | COS-13 | confirmed |
-| Exodus 33:20 | COS-13, COS-41 | confirmed, prose-ref |
+| Exodus 33:20 | COS-13, COS-41, COS-50 | confirmed, prose-ref |
 | Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43 | anchor, confirmed, prose-ref |
-| John 17:11 | COS-14, COS-43 | confirmed, prose-ref |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50 | anchor, confirmed, prose-ref |
+| John 17:11 | COS-14, COS-43, COS-50 | confirmed, prose-ref |
 | John 17:12 | COS-14 | confirmed |
 | Numbers 20:8 | COS-16 | anchor |
 | Acts 13:33 | COS-16, COS-19, COS-22, COS-42, COS-43 | anchor, confirm, confirmed, confirmed (excerpt), prose-ref |
@@ -8786,7 +9401,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 1:14 | COS-20, COS-42 | confirmed |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
-| Revelation 19:13 | COS-20 | confirmed |
+| Revelation 19:13 | COS-20, COS-47 | confirmed |
 | John 1:4 | COS-21 | confirmed |
 | John 1:5 | COS-21 | confirmed |
 | John 1:6 | COS-21 | confirmed |
@@ -8949,7 +9564,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 19:35 | COS-23 | anchor |
 | John 19:36 | COS-23 | confirmed |
 | John 19:37 | COS-23, COS-36 | differs (minor), prose-ref |
-| Revelation 1:7 | COS-23, COS-35, COS-36, COS-39, COS-43 | anchor, confirmed, prose-ref |
+| Revelation 1:7 | COS-23, COS-35, COS-36, COS-39, COS-43, COS-52 | anchor, confirmed, prose-ref |
 | John 10:7 | COS-24 | confirmed |
 | John 10:14 | COS-24 | confirmed |
 | John 15:5 | COS-24 | confirmed |
@@ -8961,8 +9576,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 26:64 | COS-24, COS-28, COS-35, COS-39 | anchor, confirmed, confirmed (excerpt) |
 | Matthew 11:27 | COS-24 | confirmed |
 | Mark 13:32 | COS-24, COS-36, COS-37, COS-39, COS-42, COS-43 | confirmed, prose-ref |
-| Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45 | confirmed, prose-ref |
-| Daniel 7:14 | COS-24, COS-35, COS-39, COS-42 | confirmed |
+| Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52 | confirmed, prose-ref |
+| Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Isaiah 41:4 | COS-24 | anchor |
 | Isaiah 43:10 | COS-24 | anchor |
 | Isaiah 43:13 | COS-24 | anchor |
@@ -9066,7 +9681,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 9 25 | COS-32 | confirmed |
 | HEB 9 26 | COS-32 | confirmed |
 | HEB 9 27 | COS-32 | confirmed |
-| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41 | anchor, confirmed |
+| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52 | anchor, confirmed, prose-ref |
 | HEB 10 1 | COS-33 | confirmed |
 | HEB 10 2 | COS-33 | confirmed |
 | HEB 10 3 | COS-33 | confirmed |
@@ -9089,7 +9704,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | MAT 27 51 | COS-33 | confirmed |
 | MRK 16 19 | COS-34 | confirmed |
 | COL 3 1 | COS-34 | confirmed |
-| REV 5 6 | COS-34, COS-45 | confirmed |
+| REV 5 6 | COS-34, COS-45, COS-52 | confirmed, prose-ref |
 | HEB 12 24 | COS-34 | confirmed |
 | MAR 13 32 | COS-34 | confirmed |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
@@ -9106,7 +9721,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Zechariah 14:3 | COS-36 | confirmed |
 | Zechariah 14:4 | COS-36, COS-38, COS-39, COS-42 | confirmed |
 | Zechariah 14:5 | COS-36, COS-38, COS-39 | confirmed |
-| Zechariah 14:9 | COS-36, COS-39, COS-40 | confirmed |
+| Zechariah 14:9 | COS-36, COS-39, COS-40, COS-50 | confirmed, prose-ref |
 | Matthew 26:31 | COS-36 | confirmed |
 | 1 Thessalonians 3:13 | COS-36, COS-39 | confirmed |
 | Jude 1:14 | COS-36, COS-39 | confirmed |
@@ -9139,7 +9754,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 13:10 (NETS) | COS-37 | confirmed |
 | Revelation 6:12-14 (range) | COS-37 | confirmed |
 | 1 Corinthians 15:24-28 (range) | COS-39 | confirmed |
-| 1 Corinthians 15:20 | COS-40 | confirmed |
+| 1 Corinthians 15:20 | COS-40, COS-49 | confirmed, prose-ref |
 | 1 Corinthians 15:21 | COS-40 | confirmed |
 | 1 Corinthians 15:22 | COS-40 | confirmed |
 | 1 Corinthians 15:23 | COS-40, COS-42 | confirmed |
@@ -9147,11 +9762,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 15:25 | COS-40, COS-42 | confirmed |
 | 1 Corinthians 15:26 | COS-40 | confirmed |
 | 1 Corinthians 15:27 | COS-40 | confirmed |
-| 1 Corinthians 15:28 | COS-40 | confirmed |
+| 1 Corinthians 15:28 | COS-40, COS-49 | confirmed, prose-ref |
 | Revelation 21:22 (GNV; spans WH 21:22-23) | COS-41 | confirmed |
-| Revelation 22:1 | COS-41, COS-46 | confirmed, prose-ref |
-| Revelation 22:3 | COS-41, COS-46 | confirmed, prose-ref |
-| Revelation 22:4 | COS-41 | confirmed |
+| Revelation 22:1 | COS-41, COS-46, COS-50 | confirmed, prose-ref |
+| Revelation 22:3 | COS-41, COS-46, COS-50 | confirmed, prose-ref |
+| Revelation 22:4 | COS-41, COS-50 | confirmed |
 | Hebrews 2:6 | COS-40 | confirmed |
 | Hebrews 2:8 | COS-40 | confirmed |
 | Hebrews 2:9 | COS-40 | confirmed |
@@ -9162,15 +9777,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 15:54 | COS-40 | confirmed |
 | Philippians 2:9 | COS-42 | confirmed |
 | Hebrews 1:2 | COS-42, COS-44 | confirmed, prose-ref |
-| Revelation 1:8 | COS-42, COS-43 | confirmed |
-| Revelation 1:17 | COS-42, COS-43, COS-44 | confirmed, prose-ref |
-| Revelation 1:18 | COS-42, COS-43, COS-44 | confirmed, prose-ref |
+| Revelation 1:8 | COS-42, COS-43, COS-52 | confirmed, prose-ref |
+| Revelation 1:17 | COS-42, COS-43, COS-44, COS-52 | confirmed, prose-ref |
+| Revelation 1:18 | COS-42, COS-43, COS-44, COS-52 | confirmed, prose-ref |
 | Revelation 2:23 | COS-42 | confirmed |
-| Revelation 22:13 | COS-42 | confirmed |
-| Revelation 22:20 | COS-42 | confirmed |
-| Revelation 1:1 | COS-43 | confirmed |
-| Revelation 1:4 | COS-43, COS-44 | confirmed, prose-ref |
-| Revelation 1:5 | COS-43 | confirmed |
+| Revelation 22:13 | COS-42, COS-49, COS-52 | confirmed, prose-ref |
+| Revelation 22:20 | COS-42, COS-51 | confirmed |
+| Revelation 1:1 | COS-43, COS-52 | confirmed, prose-ref |
+| Revelation 1:4 | COS-43, COS-44, COS-52 | confirmed, prose-ref |
+| Revelation 1:5 | COS-43, COS-52 | confirmed, prose-ref |
 | Revelation 1:6 | COS-43, COS-45 | confirmed, prose-ref |
 | Revelation 1:12 | COS-43 | confirmed |
 | Revelation 1:13 | COS-43, COS-44 | confirmed, prose-ref |
@@ -9178,23 +9793,23 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 1:15 | COS-43, COS-44 | confirmed, prose-ref |
 | Revelation 1:16 | COS-43, COS-44 | confirmed, prose-ref |
 | John 5:20 | COS-43 | anchor |
-| Revelation 21:23 | COS-43 | anchor |
+| Revelation 21:23 | COS-43, COS-50 | anchor, prose-ref |
 | Psalm 89:37 | COS-43 | anchor |
 | Psalm 89:27 | COS-43 | anchor |
 | Isaiah 55:4 | COS-43 | anchor |
-| Philippians 2:9 | COS-43 | anchor |
-| Colossians 1:18 | COS-43 | anchor |
-| Psalm 2:7 | COS-43, COS-44 | anchor, prose-ref |
-| Revelation 3:14 | COS-44 | confirmed |
+| Philippians 2:9 | COS-43, COS-50 | anchor, prose-ref |
+| Colossians 1:18 | COS-43, COS-49 | anchor, prose-ref |
+| Psalm 2:7 | COS-43, COS-44, COS-52 | anchor, prose-ref |
+| Revelation 3:14 | COS-44, COS-52 | confirmed, prose-ref |
 | Revelation 2:1 | COS-44 | prose-ref |
-| Revelation 2:8 | COS-44 | prose-ref |
+| Revelation 2:8 | COS-44, COS-52 | prose-ref |
 | Revelation 2:12 | COS-44 | prose-ref |
-| Revelation 2:18 | COS-44 | prose-ref |
-| Revelation 3:7 | COS-44 | prose-ref |
+| Revelation 2:18 | COS-44, COS-52 | prose-ref |
+| Revelation 3:7 | COS-44, COS-52 | prose-ref |
 | Revelation 4:2-3, 8, 11 | COS-45 | confirmed |
 | Revelation 4:3 | COS-45 | confirmed |
-| Revelation 4:8 | COS-45 | confirmed |
-| Revelation 4:11 | COS-45 | confirmed |
+| Revelation 4:8 | COS-45, COS-52 | confirmed, prose-ref |
+| Revelation 4:11 | COS-45, COS-52 | confirmed, prose-ref |
 | Revelation 5:1-7 | COS-45 | confirmed |
 | Revelation 5:2 | COS-45 | confirmed |
 | Revelation 5:7 | COS-45 | confirmed |
@@ -9210,11 +9825,43 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 7:17 | COS-46 | confirmed |
 | Isaiah 49:2 | COS-44 | prose-ref |
 | Isaiah 22:22 | COS-44 | prose-ref |
-| Isaiah 65:16 | COS-44 | prose-ref |
+| Isaiah 65:16 | COS-44, COS-52 | prose-ref |
 | Isaiah 11:2 | COS-44 | prose-ref |
-| Isaiah 11:1 | COS-45 | prose-ref |
-| Isaiah 11:10 | COS-45 | prose-ref |
+| Isaiah 11:1 | COS-45, COS-52 | prose-ref |
+| Isaiah 11:10 | COS-45, COS-52 | prose-ref |
 | Genesis 49:9 | COS-45 | prose-ref |
+| Revelation 19:11 | COS-47 | confirmed |
+| Revelation 19:12 | COS-47 | confirmed |
+| Revelation 19:16 | COS-47, COS-52 | confirmed, prose-ref |
+| Revelation 21:5 | COS-48 | confirmed |
+| Revelation 21:6 | COS-48 | confirmed |
+| Revelation 21:7 | COS-48 | confirmed |
+| Revelation 22:12 | COS-49 | confirmed |
+| Revelation 22:2 | COS-50 | confirmed |
+| Revelation 22:5 | COS-50 | confirmed |
+| Revelation 22:7 | COS-51 | confirmed |
+| Ephesians 1:10 | COS-49 | prose-ref |
+| Revelation 13:8 | COS-52 | prose-ref |
+| Revelation 17:14 | COS-52 | prose-ref |
+| Revelation 15:3 | COS-52 | prose-ref |
+| Revelation 16:7 | COS-52 | prose-ref |
+| Revelation 19:6 | COS-52 | prose-ref |
+| Revelation 11:17 | COS-52 | prose-ref |
+| Isaiah 6:3 | COS-52 | prose-ref |
+| Isaiah 40:10 | COS-49 | prose-ref |
+| Isaiah 62:11 | COS-49 | prose-ref |
+| John 4:24 | COS-50 | prose-ref |
+| John 14:23 | COS-52 | prose-ref |
+| John 17:21 | COS-50 | prose-ref |
+| Ephesians 3:19 | COS-52 | prose-ref |
+| 2 Corinthians 6:16 | COS-52 | prose-ref |
+| 2 Corinthians 6:18 | COS-48 | prose-ref |
+| 1 Timothy 6:15 | COS-47 | prose-ref |
+| 1 Timothy 6:16 | COS-47 | prose-ref |
+| 2 Samuel 7:14 | COS-48 | prose-ref |
+| Matthew 1:21 | COS-52 | prose-ref |
+| Malachi 4:2 | COS-52 | prose-ref |
+| Revelation 21:3 | COS-52 | prose-ref |
 
 ## The editions used
 
