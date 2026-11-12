@@ -598,9 +598,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 81201,
+  "so_far_words": 83217,
   "cos_sofar": {
-   "waves": 38
+   "waves": 39
   },
   "glossary": 887
  },
@@ -1040,6 +1040,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-6 Sanctified seat (draft exact-modern — no splice; \"wisdom and righteousness\" = print word order)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -1297,6 +1307,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-8 seat — draft exact-modern vs the 1599 print (\"members for your part.\" IS the print); row pre-banked KJV-only from THE SABBATH OF SCRIPTURE (SAB11) — Geneva translation added now"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-04",
@@ -2518,6 +2538,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9205,
+     "cited_as": "Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)",
+     "quotes": [
+      "> ...but we know that when he shall be made manifest, we shall be like him: for we shall see him as he is."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -2532,11 +2564,16 @@
      "text": "Dearely beloued, nowe are we the sonnes of God, but yet it is not made manifest what we shall be: and we know that when he shalbe made manifest, we shalbe like him: for we shall see him as he is.",
      "source": "textusreceptusbibles.com/Geneva/62/3",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀγαπητοί, νῦν τέκνα θεοῦ ἐσμέν, καὶ οὔπω ἐφανερώθη τί ἐσόμεθα· οἴδαμεν δὲ ὅτι ἐὰν φανερωθῇ, ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν. ΙΩΑΝΝΟΥ Α΄",
+     "source": "https://biblehub.com/text/1-john/3-2.htm",
+     "result": "agree (1.000)"
     }
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "draft quote head is KJV-voiced (\"when he shall appear\" vs 1599 \"when he shalbe made manifest\"); italic version-name or re-voice awaits Gideon",
+    "detail": "wave-34-era prose head reads \"when he shall appear\" (KJV-voiced) vs the 1599 \"when he shalbe made manifest\"; the wave-39 Point-13 quote IS the print exact-modern — flag scopes the earlier prose echo; italic attribution awaits Gideon",
     "awaiting": "Gideon"
    }
   },
@@ -3304,9 +3341,21 @@
      "quotes": [
       "> For the Lord himself shall descend from heaven with a shout, and with the voice of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first: Then shall we which live and remain, be caught up with them also in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
      ]
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9211,
+     "cited_as": "Geneva tail-clause seat (Point 13 — Appearing with Him in Glory; head elided per draft)",
+     "quotes": [
+      "> ...and so shall we ever be with the Lord."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.",
@@ -3323,6 +3372,13 @@
      "text": "ἔπειταepeita ἡμεῖςhēmeis οἱhoi ζῶντεςzōntes οἱhoi περιλειπόμενοιperileipomenoi ἅμαhama σὺνsyn αὐτοῖςautois ἁρπαγησόμεθαharpagēsometha ἐνen νεφέλαιςnephelais εἰςeis ἀπάντησινapantēsin τοῦtou ΚυρίουKyriou εἰςeis ἀέρα·aera καὶkai οὕτωςhoutōs πάντοτεpantote σὺνsyn ΚυρίῳKyriō ἐσόμεθα.esometha",
      "source": "https://biblehub.com/text/1_thessalonians/4-17.htm",
      "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   },
+   "second_check": {
+    "greek_biblehub_fresh": {
+     "text": "ἔπειτα ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι ἅμα σὺν αὐτοῖς ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ Κυρίου εἰς ἀέρα· καὶ οὕτως πάντοτε σὺν Κυρίῳ ἐσόμεθα. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄",
+     "source": "https://biblehub.com/text/1-thessalonians/4-17.htm",
+     "result": "agree (1.000)"
     }
    }
   },
@@ -3797,6 +3853,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9155,
+     "cited_as": "Geneva seat (Point 11 — Conformed to the Image of the Son; draft exact-modern)",
+     "quotes": [
+      "> But we all behold as in a mirror the glory of the Lord with open face, and are changed into the same image, from glory to glory, as by the Spirit of the Lord."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -3811,11 +3879,16 @@
      "text": "But we al behold as in a mirrour the glory of the Lord with open face, and are changed into the same image, from glorie to glorie, as by the Spirit of the Lord.",
      "source": "textusreceptusbibles.com/Geneva/47/3",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἡμεῖς δὲ πάντες ἀνακεκαλυμμένῳ προσώπῳ τὴν δόξαν Κυρίου κατοπτριζόμενοι τὴν αὐτὴν εἰκόνα μεταμορφούμεθα ἀπὸ δόξης εἰς δόξαν, καθάπερ ἀπὸ Κυρίου Πνεύματος. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄",
+     "source": "https://biblehub.com/text/2-corinthians/3-18.htm",
+     "result": "agree (1.000)"
     }
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "draft echo reworded (\"changed into\" vs the 1599 print — see row text); italic version-name awaits Gideon",
+    "detail": "wave-34 John-17-era prose echo (canon 8080) compresses/rewords (\"we all... beholding... are changed into the same image from glory to glory\") — the 1599 print reads \"we al behold as in a mirrour... are changed into the same image, from glorie to glorie, as by the Spirit of the Lord\"; the wave-39 Point-11 quote IS the print exact-modern; echo attribution in italics awaits Gideon",
     "awaiting": "Gideon"
    }
   },
@@ -3842,6 +3915,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "POINT-6 New-Creation already-cited fragment — kept in the polish verbatim per the already-cited class (wave-36 precedent)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -7589,6 +7672,26 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ]
   },
@@ -7883,6 +7986,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-4 seat (draft exact-modern; draft \"sitteth at\" matches the 1599 print)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -7986,6 +8099,26 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-2 seat (draft exact-modern — no splice)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ]
   },
@@ -8004,6 +8137,11 @@
     "trb_fresh": {
      "text": "When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.",
      "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ",
+     "source": "https://biblehub.com/text/colossians/3-4.htm",
      "result": "agree (1.000)"
     }
    },
@@ -8029,12 +8167,34 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9199,
+     "cited_as": "Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)",
+     "quotes": [
+      "> When Christ, which is our life, shall appear, then shall ye also appear with him in glory."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "flag": {
     "kind": "needs-authorization",
-    "awaiting": "Gideon",
-    "detail": "prose fragment \"who is our life\" KJV-voiced; the 1599 prints \"which is our life\". Propose italic version-name (KJV) in line — his word."
+    "detail": "wave-33-era prose quote reads \"who is our life\" vs the 1599 print \"which is our life\" (prose untouched); the wave-39 Point-13 quote IS the print exact-modern — flag scopes the earlier prose echo only; italic attribution awaits Gideon",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -9171,6 +9331,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-6 Sealed seat (draft exact-modern — no splice; print \"wherein ... the holy Spirit\" = draft at modern spelling)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "diff_notes": ""
@@ -9311,6 +9481,26 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-6 Chosen seat (draft exact-modern — no splice)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -9356,6 +9546,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-6 Accepted seat — print \"freely accepted\" seated verbatim (draft dropped \"freely\")"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -12717,11 +12917,41 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "the joined 2:19-20 blockquote; the seat (any more / in that that)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "flag": {
     "kind": "needs-authorization",
-    "detail": "the cross-witness fragment opens \"Thus I live, yet not I anymore\" where 1599 prints \"but I liue, yet not I any more\" (the \"yet not I anymore\" IS the 1599 wording, print \"any more\"); the bridge echo at canon 8570 reads KJV-voiced \"yet not I, but Christ liveth in me\" — italic version-name or re-voice awaits Gideon",
+    "detail": "the cross-witness fragment opens \"Thus I live, yet not I anymore\" where 1599 prints \"but I liue, yet not I any more\" (the \"yet not I anymore\" IS the 1599 wording, print \"any more\"); the bridge echo at canon 8570 reads KJV-voiced \"yet not I, but Christ liveth in me\" — italic version-name or re-voice awaits Gideon | The \"Galatians 2:20 — Revisited\" section (canon 9328-9338) quotes five KJV-voiced fragments (\"I have been crucified with Christ\", \"It is no longer I who live\", \"But Christ lives in me\", \"I live by faith in the Son of God\", \"Who loved me and gave Himself for me\") vs the 1599 print (canon 9312 also) — italic attribution awaits Gideon.",
     "awaiting": "Gideon"
    }
   },
@@ -25155,6 +25385,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "clause-4 prose: the same preposition Jesus used (\"and I in you\")"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ]
   },
@@ -41581,9 +41821,19 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (Trajectory: \"beholding His face forever\" — Rev 22:4-5)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And they shall see his face, and his Name shalbe in their foreheads.",
@@ -41625,6 +41875,28 @@
      "status": "confirmed",
      "note": "Seat 22:1-5 full span; draft matches the print.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9241,
+     "cited_as": "Geneva tail-clause seat (Point 14 — Reigning with Him)",
+     "quotes": [
+      "> ...and they shall reign for evermore."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -41645,7 +41917,8 @@
      "source": "https://biblehub.com/text/revelation/22-5.htm",
      "result": "0.987 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
     }
-   }
+   },
+   "note": "Point-14 draft collapses the print \"for evermore\" to \"forevermore\" (space class); seat prints the print"
   },
   {
    "id": "REV.22.7",
@@ -43337,6 +43610,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "v4 tail quoted in the POINT-4 span seat (ellipsis head per draft)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "flag": {
@@ -43411,6 +43704,16 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -43626,6 +43929,36 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-10 span seat — the 1599 print agrees with the draft at modern spelling; the KJV-voiced residue is the canon-8884 Point-5 observation quote only"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9175,
+     "cited_as": "Point-12 \"already cited\" quote (KJV-voiced — flagged, prose untouched)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9374,
+     "cited_as": "Seeker bridge quote (canon 9374) — 1599-worded verbatim",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -43649,7 +43982,7 @@
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "draft quote tail KJV-voiced (\"glorified together\" vs 1599 \"glorified with him\"); awaits Gideon — scope UPDATED Nov 12: the Point-5 observation quote (canon 8884) carries the same KJV wording — scope UPDATED Nov 12: the POINT-10 span seat (canon 9117) now seats the 1599 print verbatim (\"heirs annexed with Christ… glorified with him\"); the KJV-voiced residue is the canon-8884 Point-5 observation quote only",
+    "detail": "KJV-voiced quotes awaiting italic attribution (prose untouched): Point-5 observation canon 8884 (\"joint-heirs... glorified together\" vs 1599 \"heires annexed with Christ... may also be glorified with him\"); Point-12 \"already cited\" line canon 9175 (\"that we may be also glorified together\" vs 1599 \"that we may also be glorified with him\"); Closing-Observation echo \"children of God, joint-heirs with Christ\". The Seeker bridge quote canon 9374 is 1599-worded verbatim (no flag).",
     "awaiting": "Gideon"
    }
   },
@@ -43666,6 +43999,28 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9149,
+     "cited_as": "Geneva seat (Point 11 — Conformed to the Image of the Son)",
+     "quotes": [
+      "> For those which he knew before, he also predestinate *(predestinated)* to be made like to the image of his Son, that he might be the first born among many brethren."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -43680,8 +44035,14 @@
      "text": "For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.",
      "source": "textusreceptusbibles.com/Geneva/45/8",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅτι οὓς προέγνω, καὶ προώρισεν συμμόρφους τῆς εἰκόνος τοῦ Υἱοῦ αὐτοῦ, εἰς τὸ εἶναι αὐτὸν πρωτότοκον ἐν πολλοῖς ἀδελφοῖς· ΠΡΟΣ ΡΩΜΑΙΟΥΣ",
+     "source": "https://biblehub.com/text/romans/8-29.htm",
+     "result": "agree (1.000)"
     }
-   }
+   },
+   "note": "Point-11 seat: draft smoothed the print verbform to \"predestinated\"; the 1599 prints \"predestinate\" — seat keeps the print + *\"(predestinated)\"* gloss"
   },
   {
    "id": "ROM.8.30",
@@ -45155,6 +45516,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45190,6 +45561,16 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -45263,6 +45644,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45299,6 +45690,26 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45334,6 +45745,26 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -45407,6 +45838,38 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9229,
+     "cited_as": "Geneva first-clause seat (Point 14 — Reigning with Him; draft ellipsis covers the denial clause)",
+     "quotes": [
+      "> If we suffer, we shall also reign together with him..."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9296,
+     "cited_as": "synthesized-identification table mention (\"The Trajectory of Identification\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45421,9 +45884,14 @@
      "text": "If we suffer, we shall also reigne together with him: if we denie him, he also will denie vs.",
      "source": "textusreceptusbibles.com/Geneva/55/2",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ ὑπομένομεν, καὶ συνβασιλεύσομεν· εἰ ἀρνησόμεθα, κἀκεῖνος ἀρνήσεται ἡμᾶς·",
+     "source": "https://biblehub.com/text/2-timothy/2-12.htm",
+     "result": "agree (draft fwd 0.75/rev 0.444 — fragment class; tokens all in WH)"
     }
    },
-   "note": "POINT-5 observation quote anchor (fragment; prose untouched)",
+   "note": "POINT-5 observation quote anchor (fragment; prose untouched) | Point-14 quote = the print exact-modern (\"reign together with him...\"); the earlier KJV-voiced quote (Point-5 observation, canon 8884) keeps its flag",
    "flag": {
     "kind": "needs-authorization",
     "detail": "Point-5 observation quote is KJV-voiced: \"if we suffer, we shall also reign with him\" vs 1599 \"we shall also reigne together with him\" (draft drops \"together\" and elides v12's second clause)",
@@ -45442,6 +45910,16 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -45479,6 +45957,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45514,6 +46002,16 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -45551,6 +46049,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45586,6 +46094,16 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -45623,6 +46141,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45658,6 +46186,16 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -45767,6 +46305,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -45788,7 +46336,12 @@
      "result": "agree (draft tokens fwd 1.000; draft Greek omits the ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ tail WH carries)"
     }
    },
-   "note": "POINT-8 seat — draft exact-modern vs the 1599 print (\"of his flesh, and of his bones.\" both); draft Greek carries only ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ — WH adds the ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ tail (recorded); the Point-8 obs quote (canon 9082) matches the seat at modern spelling = good-reason"
+   "note": "POINT-8 seat — draft exact-modern vs the 1599 print (\"of his flesh, and of his bones.\" both); draft Greek carries only ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ — WH adds the ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ tail (recorded); the Point-8 obs quote (canon 9082) matches the seat at modern spelling = good-reason",
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Closing-Observation echo reads \"we are members of His body, of His flesh, of His bones\" — the 1599 print has \"and\" before \"of his bones\"; prose untouched, italic attribution awaits Gideon",
+    "awaiting": "Gideon"
+   }
   },
   {
    "id": "1CO.6.17",
@@ -45802,6 +46355,16 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
      "note": ""
     }
    ],
@@ -46085,6 +46648,368 @@
     "kind": "proposed-correction",
     "detail": "Point-9 observation (canon 9100) quotes \"a man shall cleave to his wife, and they shall be one flesh\" under its \"Gen 2:24 LXX\" label — but that wording is KJV-voiced (\"shall cleave\"; the Geneva 1599 prints \"shall be joined unto his wife\") and NETS reads \"Therefore a man will leave his father and mother and will be joined to his wife, and the two will be…\" — proposal per the 10 Nov translation-attribution rule: bring the quote to the seated NETS wording, or keep the KJV wording with its Version name in italics in line. Awaiting Gideon.",
     "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "PHP.3.10",
+   "ref": "Philippians 3:10",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9173,
+     "cited_as": "Geneva seat (Point 12 — Sharers in His Sufferings and Glory; span 3:10-11)",
+     "quotes": [
+      "> That I may know him, and the virtue of his resurrection, and the fellowship of his afflictions, and be made conformable unto his death, If by any means I might attain unto the resurrection of the dead."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That I may know him, and the vertue of his resurrection, and the fellowship of his afflictions, and be made conformable vnto his death,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That I may know him, and the vertue of his resurrection, and the fellowship of his afflictions, and be made conformable vnto his death,",
+     "source": "https://textusreceptusbibles.com/Geneva/50/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "span 3:10-11 seated as ONE draft quote; seat-end prints the draft period (print verse-final \":\" spans 3:10→3:12 — Rom 8:14-17 span class)"
+  },
+  {
+   "id": "PHP.3.11",
+   "ref": "Philippians 3:11",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9173,
+     "cited_as": "Geneva seat (Point 12 — Sharers in His Sufferings and Glory; span 3:10-11)",
+     "quotes": [
+      "> That I may know him, and the virtue of his resurrection, and the fellowship of his afflictions, and be made conformable unto his death, If by any means I might attain unto the resurrection of the dead."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If by any meanes I might attaine vnto the resurrection of the dead:",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If by any meanes I might attaine vnto the resurrection of the dead:",
+     "source": "https://textusreceptusbibles.com/Geneva/50/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "draft \"might attain\" IS the 1599 print (verified eBible==TRB); seat-end period same span-class note as PHP.3.10"
+  },
+  {
+   "id": "1PE.4.13",
+   "ref": "1 Peter 4:13",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9181,
+     "cited_as": "Geneva seat (Point 12 — Sharers in His Sufferings and Glory)",
+     "quotes": [
+      "> But rejoice, inasmuch as ye are partakers of Christ's sufferings, that when his glory shall appear, ye may be glad and rejoice."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But reioyce, in asmuch as ye are partakers of Christs suffrings, that when his glory shall appeare, ye may be glad and reioyce.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But reioyce, in asmuch as ye are partakers of Christs suffrings, that when his glory shall appeare, ye may be glad and reioyce.",
+     "source": "https://textusreceptusbibles.com/Geneva/60/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "1599 \"reioyce/suffrings/Christes\" modern-folded (rejoice, sufferings, Christ’s) — orthographic class"
+  },
+  {
+   "id": "REV.20.6",
+   "ref": "Revelation 20:6",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9235,
+     "cited_as": "Geneva seat (Point 14 — Reigning with Him; draft quotes the tail clause)",
+     "quotes": [
+      "> Blessed and holy is he, that hath part in the first resurrection: for on such the second death hath no power: but they shall be the Priests of God and of Christ, and shall reigne with him a thousand yeere *(years)*."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Blessed and holy is hee, that hath part in the first resurrection: for on such the second death hath no power: but they shalbe the Priests of God and of Christ, and shall reigne with him a thousand yeere.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Blessed and holy is hee, that hath part in the first resurrection: for on such the second death hath no power: but they shalbe the Priests of God and of Christ, and shall reigne with him a thousand yeere.",
+     "source": "https://textusreceptusbibles.com/Geneva/66/20",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "draft \"a thousand years\" — BOTH editions print \"a thousand yeere\" (sic); seat keeps the print + *\"(years)\"* gloss (JHN 7:42 doubled-that class); draft tail span, print head elided"
+  },
+  {
+   "id": "EPH.1.5",
+   "ref": "Ephesians 1:5",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9277,
+     "cited_as": "synthesized-identification table mention (\"Predestined in Christ\" — Eph 1:5, 11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who hath predestinate vs, to be adopted through Iesus Christ in him selfe, according to the good pleasure of his will,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who hath predestinate vs, to be adopted through Iesus Christ in him selfe, according to the good pleasure of his will,",
+     "source": "https://textusreceptusbibles.com/Geneva/49/1",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "προορίσας ἡμᾶς εἰς υἱοθεσίαν διὰ Ἰησοῦ Χριστοῦ εἰς αὐτόν, κατὰ τὴν εὐδοκίαν τοῦ θελήματος αὐτοῦ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ",
+     "source": "https://biblehub.com/text/ephesians/1-5.htm",
+     "result": "WH text recorded (anchor; no draft Greek)"
+    }
+   }
+  },
+  {
+   "id": "EPH.1.11",
+   "ref": "Ephesians 1:11",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9277,
+     "cited_as": "synthesized-identification table mention (\"Predestined in Christ\" — Eph 1:5, 11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In whom also we are chosen when we were predestinate according to ye purpose of him, which worketh all things after the counsell of his owne will,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In whom also we are chosen when we were predestinate according to ye purpose of him, which worketh all things after the counsell of his owne will,",
+     "source": "https://textusreceptusbibles.com/Geneva/49/1",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐν αὐτῷ, ἐν ᾧ καὶ ἐκληρώθημεν προορισθέντες κατὰ πρόθεσιν τοῦ τὰ πάντα ἐνεργοῦντος κατὰ τὴν βουλὴν τοῦ θελήματος αὐτοῦ, ΠΡΟΣ ΕΦΕΣΙΟΥΣ",
+     "source": "https://biblehub.com/text/ephesians/1-11.htm",
+     "result": "WH text recorded (anchor; no draft Greek)"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.32",
+   "ref": "Ephesians 4:32",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9280,
+     "cited_as": "synthesized-identification table mention (\"Forgiven in Christ\" — Eph 1:7; 4:32)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9274,
+     "cited_as": "synthesized-identification table mention (\"The In Christ Realities\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you.",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "γίνεσθε δὲ εἰς ἀλλήλους χρηστοί, εὔσπλαγχνοι, χαριζόμενοι ἑαυτοῖς καθὼς καὶ ὁ Θεὸς ἐν Χριστῷ ἐχαρίσατο ὑμῖν. ΠΡΟΣ ΕΦΕΣΙΟΥΣ",
+     "source": "https://biblehub.com/text/ephesians/4-32.htm",
+     "result": "WH text recorded (anchor; no draft Greek)"
+    }
+   }
+  },
+  {
+   "id": "COL.2.13",
+   "ref": "Colossians 2:13",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9260,
+     "cited_as": "synthesized-identification table mention (\"Made alive with Christ\" — Eph 2:5; Col 2:13)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9255,
+     "cited_as": "synthesized-identification table mention (\"By the whole counsel\" table)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And you which were dead in sinnes, and in the vncircumcision of your flesh, hath he quickened together with him, forgiuing you all your trespasses,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And you which were dead in sinnes, and in the vncircumcision of your flesh, hath he quickened together with him, forgiuing you all your trespasses,",
+     "source": "https://textusreceptusbibles.com/Geneva/51/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ὑμᾶς νεκροὺς ὄντας [ἐν] τοῖς παραπτώμασιν καὶ τῇ ἀκροβυστίᾳ τῆς σαρκὸς ὑμῶν, συνεζωοποίησεν ὑμᾶς σὺν αὐτῷ· χαρισάμενος ἡμῖν πάντα τὰ παραπτώματα, ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ",
+     "source": "https://biblehub.com/text/colossians/2-13.htm",
+     "result": "WH text recorded (anchor; no draft Greek)"
+    }
+   }
+  },
+  {
+   "id": "COL.1.14",
+   "ref": "Colossians 1:14",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9279,
+     "cited_as": "synthesized-identification table mention (\"Redeemed in Christ\" — Eph 1:7; Col 1:14)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In whome we haue redemption through his blood, that is, the forgiuenesse of sinnes,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In whome we haue redemption through his blood, that is, the forgiuenesse of sinnes,",
+     "source": "https://textusreceptusbibles.com/Geneva/51/1",
+     "result": "agree (1.000)"
+    }
    }
   }
  ]

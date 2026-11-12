@@ -105,8 +105,15 @@ no longer I; Christ lives in me; by the faith in/of the Son of God; who hath lov
 himself for me); cross-witnesses Romans 6:6 and 2 Corinthians 5:17 Geneva seats; the synthesis
 of the believer's identification)
 
-62. (F) The Full Counsel — The Believer's Identification in Christ (OPEN — fourteen Points;
-Point 1 Co-Crucified seated: Galatians 2:20 re-presented; Romans 6:6 re-presented;
-Galatians 5:24 seat — "the affections and the lusts" per the print; Galatians 6:14 seat — the
-full verse restored per the 1599 print, "whereby the world is crucified"; Points 2-14 continue
+62. (F) The Full Counsel — The Believer's Identification in Christ (COMPLETE — all fourteen
+ Points seated: Galatians 2:20 foundation + Point 1 Co-Crucified (Gal 2:20, Rom 6:6, Gal 5:24,
+Gal 6:14); Points 2-5 Died/Buried/Made-Alive/Raised/Hidden (Rom 6:8, 2 Tim 2:11, Rom 6:4,
+Col 2:12, Col 2:20-22, Col 3:1-3, Eph 2:5-6); Points 6-7 Chosen/Accepted/Redeemed/Justified/
+New-Creation/Sanctified/Sealed (Eph 1:3/1:4/1:6/1:7, Phil 3:9, 2 Cor 5:17, 1 Cor 1:2/1:30,
+Eph 1:13, Gal 2:17, Gal 3:27, Rom 6:3, 1 Cor 12:13); Points 8-10 Members/One-Spirit/
+Children-Heirs (1 Cor 12:12+12:27, Eph 5:30, 1 Cor 6:17, Rom 8:14-17, Gal 4:4-7); Points 11-14
+Conformed/Co-Sufferers/Appearing/Reigning (Rom 8:29, 2 Cor 3:18, Phil 3:10-11, 1 Peter 4:13,
+Col 3:4, 1 John 3:2, 1 Thess 4:17 tail, 2 Tim 2:12, Rev 20:6, Rev 22:5 tail); the Grand
+Synthesis identification tables + "In Christ" realities + Trajectory; the Closing Observation;
+and the (D) Seeker bridge — the Romans 8:17 "sufferings of the modern believer" arc opens
 next wave)

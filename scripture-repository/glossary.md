@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**868 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**877 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1039 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1048 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -5369,7 +5369,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: full-verse seat v17*
 - **Geneva 1599:** “Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.”
 - *Note:* draft Greek 1.000
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+- *Double-checked (second source): greek_biblehub_fresh ✓*
 
 ### Zechariah 14:4 — CONFIRMED
 *cited as: mention*
@@ -5787,7 +5788,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Revelation 22:4 — CONFIRMED
 *cited as: seat*
 - **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 - *Double-checked (second source): trb_fresh ✓*
 
 ### PS 109 1 — CONFIRMED
@@ -6858,7 +6859,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: (D) GNV seat re-presented — REV.22.4 (prior seat text kept)*
 - **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
 - *Note:* Re-presented in the (D)-close seat; see polish.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 - *Double-checked (second source): trb_fresh ✓*
 
 ### Revelation 22:5 — CONFIRMED
@@ -9043,7 +9044,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prose fragment*
 - **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### 1 John 5:11 — FLAGGED
 *cited as: prose quote*
@@ -9334,7 +9335,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation echo (also 8186): draft "are changed into the same image from glory to glory"*
 - **Geneva 1599:** “But we al behold as in a mirrour the glory of the Lord with open face, and are changed into the same image, from glorie to glorie, as by the Spirit of the Lord.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### 2 Thessalonians 2:14 — PROSE-REF
 *cited as: observation quote "to the obtaining of the glory of our Lord Jesus Christ" — 1599 prints "to obtaine the glory"*
@@ -9424,18 +9425,18 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation span tail (standing wave-33 flag unchanged)*
 - **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### 1 John 3:2 — PROSE-REF
 *cited as: observation quote: tail exact ("for we shall see him as he is"); head "when he shall appear" is KJV — 1599 reads "when he shalbe made manifest"*
 - **Geneva 1599:** “Dearely beloued, nowe are we the sonnes of God, but yet it is not made manifest what we shall be: and we know that when he shalbe made manifest, we shalbe like him: for we shall see him as he is.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Revelation 22:4 — PROSE-REF
 *cited as: observation quote; draft ";" where 1599 prints "," and drops the opening "And"*
 - **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 - *Double-checked (second source): trb_fresh ✓*
 
 ### John 17:25 — PROSE-REF
@@ -9702,7 +9703,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention (being conformed to the image of the Son)*
 - **Geneva 1599:** “For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Matthew 25:34 — PROSE-REF
 *cited as: mention (the Kingdom prepared from the foundation of the world)*
@@ -9890,7 +9891,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Point-5 observation quote — 2 Timothy 2:12*
 - **Geneva 1599:** “If we suffer, we shall also reigne together with him: if we denie him, he also will denie vs.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Romans 8:17 — PROSE-REF
 *cited as: Point-5 observation quote — Romans 8:17*
@@ -10071,6 +10072,120 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And he saide, Abba, Father, all things are possible vnto thee: take away this cup from me: neuertheles not that I will, but that thou wilt, be done.”
 - *Note:* POINT-10 obs (2) — the Gethsemane Abba-address mentioned, no quoted text in the draft; 1599 print banked
 - *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:29 — CONFIRMED
+*cited as: Geneva seat (Point 11 — Conformed to the Image of the Son)*
+- **Geneva 1599:** “For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 3:18 — CONFIRMED
+*cited as: Geneva seat (Point 11 — Conformed to the Image of the Son; draft exact-modern)*
+- **Geneva 1599:** “But we al behold as in a mirrour the glory of the Lord with open face, and are changed into the same image, from glorie to glorie, as by the Spirit of the Lord.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Philippians 3:10 — CONFIRMED
+*cited as: Geneva seat (Point 12 — Sharers in His Sufferings and Glory; span 3:10-11)*
+- **Geneva 1599:** “That I may know him, and the vertue of his resurrection, and the fellowship of his afflictions, and be made conformable vnto his death,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Philippians 3:11 — CONFIRMED
+*cited as: Geneva seat (Point 12 — Sharers in His Sufferings and Glory; span 3:10-11)*
+- **Geneva 1599:** “If by any meanes I might attaine vnto the resurrection of the dead:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 4:13 — CONFIRMED
+*cited as: Geneva seat (Point 12 — Sharers in His Sufferings and Glory)*
+- **Geneva 1599:** “But reioyce, in asmuch as ye are partakers of Christs suffrings, that when his glory shall appeare, ye may be glad and reioyce.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Colossians 3:4 — CONFIRMED
+*cited as: Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)*
+- **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 1 John 3:2 — CONFIRMED
+*cited as: Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)*
+- **Geneva 1599:** “Dearely beloued, nowe are we the sonnes of God, but yet it is not made manifest what we shall be: and we know that when he shalbe made manifest, we shalbe like him: for we shall see him as he is.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 1 Thessalonians 4:17 — CONFIRMED
+*cited as: Geneva tail-clause seat (Point 13 — Appearing with Him in Glory; head elided per draft)*
+- **Geneva 1599:** “Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.”
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+- *Double-checked (second source): greek_biblehub_fresh ✓*
+
+### Revelation 20:6 — CONFIRMED
+*cited as: Geneva seat (Point 14 — Reigning with Him; draft quotes the tail clause)*
+- **Geneva 1599:** “Blessed and holy is hee, that hath part in the first resurrection: for on such the second death hath no power: but they shalbe the Priests of God and of Christ, and shall reigne with him a thousand yeere.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Revelation 22:5 — CONFIRMED
+*cited as: Geneva tail-clause seat (Point 14 — Reigning with Him)*
+- **Geneva 1599:** “And there shalbe no night there, and they neede no candle, neither light of the sunne: for the Lord God giueth them light, and they shall reigne for euermore.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.987 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Romans 6:6 — PROSE-REF
+*cited as: synthesized-identification table mention ("By the whole counsel" table)*
+- **Geneva 1599:** “Knowing this, that our old man is crucified with him, that the body of sinne might be destroied, that henceforth we should not serue sinne.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 2:13 — PROSE-REF
+*cited as: synthesized-identification table mention ("By the whole counsel" table)*
+- **Geneva 1599:** “And you which were dead in sinnes, and in the vncircumcision of your flesh, hath he quickened together with him, forgiuing you all your trespasses,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH text recorded (anchor; no draft Greek)*
+
+### Colossians 1:27 — PROSE-REF
+*cited as: synthesized-identification table mention ("The In Christ Realities" table)*
+- **Geneva 1599:** “To whome God woulde make knowen what is the riches of his glorious mysterie among the Gentiles, which riches is Christ in you, the hope of glory,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### John 14:20 — PROSE-REF
+*cited as: synthesized-identification table mention ("The In Christ Realities" table)*
+- **Geneva 1599:** “At that day shall ye knowe that I am in my Father, and you in me, and I in you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — ratio 1.0 — draft == WH verbatim (punctuation only)*
+
+### Ephesians 1:5 — PROSE-REF
+*cited as: synthesized-identification table mention ("The In Christ Realities" table)*
+- **Geneva 1599:** “Who hath predestinate vs, to be adopted through Iesus Christ in him selfe, according to the good pleasure of his will,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH text recorded (anchor; no draft Greek)*
+
+### Ephesians 1:11 — PROSE-REF
+*cited as: synthesized-identification table mention ("The In Christ Realities" table)*
+- **Geneva 1599:** “In whom also we are chosen when we were predestinate according to ye purpose of him, which worketh all things after the counsell of his owne will,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH text recorded (anchor; no draft Greek)*
+
+### Ephesians 4:32 — PROSE-REF
+*cited as: synthesized-identification table mention ("The In Christ Realities" table)*
+- **Geneva 1599:** “Be ye courteous one to another, and tender hearted, freely forgiuing one another, euen as God for Christes sake, freely forgaue you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH text recorded (anchor; no draft Greek)*
+
+### Colossians 1:14 — PROSE-REF
+*cited as: synthesized-identification table mention ("Redeemed in Christ" — Eph 1:7; Col 1:14)*
+- **Geneva 1599:** “In whome we haue redemption through his blood, that is, the forgiuenesse of sinnes,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Revelation 22:4 — PROSE-REF
+*cited as: synthesized-identification table mention (Trajectory: "beholding His face forever" — Rev 22:4-5)*
+- **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 - *Double-checked (second source): trb_fresh ✓*
 
 # THE BIBLICAL SABBATH
@@ -11862,12 +11977,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 1:22 | COS-17 | confirmed |
 | 1 Corinthians 1:23 | COS-17 | confirmed |
 | 1 Corinthians 1:24 | COS-05, COS-17 | confirmed |
-| 1 Corinthians 1:30 | SAB7, COS-05, COS-17, COS-66 | anchor, confirmed |
+| 1 Corinthians 1:30 | SAB7, COS-05, COS-17, COS-66 | anchor, confirmed, prose-ref |
 | 1 Corinthians 10:1 | COS-12 | confirmed |
 | 1 Corinthians 10:4 | P8, COS-12, COS-19 | anchor, confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | 1 Corinthians 12:11 | COS-58 | prose-ref |
-| 1 Corinthians 12:27 | SAB11, COS-66 | anchor, confirmed |
+| 1 Corinthians 12:27 | SAB11, COS-66 | anchor, confirmed, prose-ref |
 | 1 Corinthians 15:20 | COS-40, COS-49 | confirmed, prose-ref |
 | 1 Corinthians 15:21 | COS-40 | confirmed |
 | 1 Corinthians 15:22 | COS-40 | confirmed |
@@ -11895,7 +12010,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 John 1:2 | COS-20 | confirmed |
 | 1 John 1:9 | P7 | confirmed |
 | 1 John 2:2 | P1-Q8 | confirmed |
-| 1 John 3:2 | COS-62 | prose-ref |
+| 1 John 3:2 | COS-62, COS-66 | confirmed, prose-ref |
 | 1 John 4:19 | P9 | confirmed |
 | 1 John 4:6 | COS-60 | prose-ref |
 | 1 John 5:11 | COS-60 | flagged |
@@ -11915,7 +12030,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Samuel 2:6 | COS-25 | anchor |
 | 1 Thessalonians 3:13 | COS-36, COS-39 | confirmed |
 | 1 Thessalonians 4:16 | COS-38, COS-42 | confirmed |
-| 1 Thessalonians 4:17 | COS-38 | confirmed |
+| 1 Thessalonians 4:17 | COS-38, COS-66 | confirmed |
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
 | 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
@@ -11923,7 +12038,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
 | 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
-| 2 Corinthians 3:18 | COS-62 | prose-ref |
+| 2 Corinthians 3:18 | COS-62, COS-66 | confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
 | 2 Corinthians 6:16 | COS-52, COS-60, COS-62 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
@@ -12008,7 +12123,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:16 | COS-01, COS-05, COS-17, COS-42, COS-44, COS-49 | anchor, confirmed, prose-ref |
 | COL 1 17 | COS-05, COS-17 | confirmed |
 | Colossians 1:18 | COS-43, COS-49, COS-56 | anchor, prose-ref |
-| Colossians 1:27 | COS-60, COS-62 | confirmed, prose-ref |
+| Colossians 1:27 | COS-60, COS-62, COS-66 | confirmed, prose-ref |
 | Colossians 1:13 | COS-21 | confirmed |
 | Colossians 1:14 | COS-21 | confirmed |
 | Colossians 1:18 | COS-21 | confirmed |
@@ -12017,8 +12132,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66 | confirmed, prose-ref |
 | Colossians 3:2 | COS-62 | prose-ref |
-| Colossians 3:3 | COS-60, COS-66 | confirmed |
-| Colossians 3:4 | COS-60, COS-62 | flagged, prose-ref |
+| Colossians 3:3 | COS-60, COS-66 | confirmed, prose-ref |
+| Colossians 3:4 | COS-60, COS-62, COS-66 | confirmed, flagged, prose-ref |
 | Dan 7:10 | COS-35, COS-38 | confirmed |
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
@@ -12393,7 +12508,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 14:18 | COS-60 | confirmed |
 | John 14:19 | COS-60 | confirmed |
 | John 14:2 | COS-60 | flagged |
-| John 14:20 | COS-60, COS-63, COS-65 | confirmed, prose-ref |
+| John 14:20 | COS-60, COS-63, COS-65, COS-66 | confirmed, prose-ref |
 | John 14:21 | COS-60 | confirmed |
 | John 14:22 | COS-60 | confirmed |
 | John 14:23 | COS-52, COS-59, COS-60, COS-63 | prose-ref |
@@ -12781,8 +12896,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:2 | COS-50 | confirmed |
 | Revelation 22:20 | COS-42, COS-51 | confirmed |
 | Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
-| Revelation 22:4 | COS-41, COS-50, COS-62 | confirmed, prose-ref |
-| Revelation 22:5 | COS-50 | confirmed |
+| Revelation 22:4 | COS-41, COS-50, COS-62, COS-66 | confirmed, prose-ref |
+| Revelation 22:5 | COS-50, COS-66 | confirmed, prose-ref |
 | Revelation 22:7 | COS-51 | confirmed |
 | Revelation 3:1 | COS-57 | confirmed |
 | Revelation 3:14 | COS-44, COS-52 | confirmed, prose-ref |
@@ -12825,13 +12940,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 6:4 | COS-60, COS-66 | confirmed, flagged, prose-ref |
 | Romans 6:5 | COS-60, COS-66 | flagged, prose-ref |
-| Romans 6:6 | COS-65 | prose-ref |
+| Romans 6:6 | COS-65, COS-66 | prose-ref |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
 | Romans 8:17 | COS-62, COS-66 | confirmed, prose-ref |
-| Romans 8:29 | COS-63 | prose-ref |
+| Romans 8:29 | COS-63, COS-66 | confirmed, prose-ref |
 | Romans 8:30 | COS-62 | prose-ref |
 | Romans 8:32 | COS-22, COS-42 | confirmed, confirmed (excerpt) |
 | ROM 8 34 | COS-30, COS-62 | confirmed, prose-ref |
@@ -12866,25 +12981,25 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Zechariah 4:3 | COS-57 | prose-ref |
 | Zechariah 4:6 | COS-57 | confirmed |
 | Zechariah 9:9 LXX (9:9 MT) | COS-23 | confirmed |
-| Romans 6:8 | COS-66 | confirmed |
-| 2 Timothy 2:11 | COS-66 | confirmed |
+| Romans 6:8 | COS-66 | confirmed, prose-ref |
+| 2 Timothy 2:11 | COS-66 | confirmed, prose-ref |
 | Colossians 2:20 | COS-66 | confirmed |
-| Colossians 2:12 | COS-66 | confirmed |
-| Ephesians 2:5 | COS-66 | confirmed |
-| Ephesians 2:6 | COS-66 | confirmed |
+| Colossians 2:12 | COS-66 | confirmed, prose-ref |
+| Ephesians 2:5 | COS-66 | confirmed, prose-ref |
+| Ephesians 2:6 | COS-66 | confirmed, prose-ref |
 | Revelation 3:21 | COS-66 | prose-ref |
-| 2 Timothy 2:12 | COS-66 | prose-ref |
-| Ephesians 1:3 | COS-66 | confirmed |
-| Ephesians 1:7 | COS-66 | confirmed |
-| Galatians 2:17 | COS-66 | confirmed |
-| Philippians 3:9 | COS-66 | confirmed |
-| 1 Corinthians 1:2 | COS-66 | confirmed |
-| Galatians 3:27 | COS-66 | confirmed |
-| Romans 6:3 | COS-66 | confirmed |
+| 2 Timothy 2:12 | COS-66 | confirmed, prose-ref |
+| Ephesians 1:3 | COS-66 | confirmed, prose-ref |
+| Ephesians 1:7 | COS-66 | confirmed, prose-ref |
+| Galatians 2:17 | COS-66 | confirmed, prose-ref |
+| Philippians 3:9 | COS-66 | confirmed, prose-ref |
+| 1 Corinthians 1:2 | COS-66 | confirmed, prose-ref |
+| Galatians 3:27 | COS-66 | confirmed, prose-ref |
+| Romans 6:3 | COS-66 | confirmed, prose-ref |
 | 1 Corinthians 12:13 | COS-66 | confirmed |
 | 1 Corinthians 12:12 | COS-66 | confirmed |
-| Ephesians 5:30 | COS-66 | confirmed |
-| 1 Corinthians 6:17 | COS-66 | confirmed |
+| Ephesians 5:30 | COS-66 | confirmed, prose-ref |
+| 1 Corinthians 6:17 | COS-66 | confirmed, prose-ref |
 | Romans 8:14 | COS-66 | confirmed |
 | Romans 8:15 | COS-66 | confirmed |
 | Romans 8:16 | COS-66 | confirmed |
@@ -12893,6 +13008,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 14:36 | COS-66 | prose-ref |
 | Genesis 2:23 | COS-66 | prose-ref |
 | Genesis 2:24 | COS-66 | prose-ref |
+| Philippians 3:10 | COS-66 | confirmed, prose-ref |
+| Philippians 3:11 | COS-66 | confirmed, prose-ref |
+| 1 Peter 4:13 | COS-66 | confirmed |
+| Revelation 20:6 | COS-66 | confirmed |
+| Ephesians 1:5 | COS-66 | prose-ref |
+| Ephesians 1:11 | COS-66 | prose-ref |
+| Ephesians 4:32 | COS-66 | prose-ref |
+| Colossians 2:13 | COS-66 | prose-ref |
+| Colossians 1:14 | COS-66 | prose-ref |
 
 ## The editions used
 
