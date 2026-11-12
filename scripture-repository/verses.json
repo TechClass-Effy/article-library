@@ -108,7 +108,8 @@
    "COS-53",
    "COS-54",
    "COS-55",
-   "COS-56"
+   "COS-56",
+   "COS-57"
   ],
   "sections": [
    {
@@ -488,6 +489,10 @@
    {
     "key": "COS-56",
     "label": "60. (E) Grand Synthesis — Part E Completed: The Nature and Essence of the Father as Eternal Spirit"
+   },
+   {
+    "key": "COS-57",
+    "label": "61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness"
    }
   ],
   "double_check": {
@@ -548,9 +553,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 59326,
+  "so_far_words": 61749,
   "cos_sofar": {
-   "waves": 29
+   "waves": 30
   },
   "glossary": 887
  },
@@ -11512,6 +11517,16 @@
      "status": "anchor",
      "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6652,
+     "cited_as": "The Most Honest Reading bullet — Shema honor mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -26710,6 +26725,16 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag."
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6657,
+     "cited_as": "Honest-reading close mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -26779,6 +26804,16 @@
      "status": "anchor",
      "note": "Wave-16 seat row re-referenced.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6657,
+     "cited_as": "Honest-reading close — “the Lamb has the Spirit and pours it out (Acts 2:33; John 7:39; Rev 5:6)”",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -30594,6 +30629,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6497,
+     "cited_as": "(seat re-present) Rev 5:6",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-25 seat re-presented full-verse; “Labe *(Lamb)*” print artifact + gloss carried per wave-25 class"
     }
    ],
    "verified": "2026-11-11",
@@ -30608,6 +30655,11 @@
      "text": "",
      "source": "https://textusreceptusbibles.com/Geneva/66/5",
      "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ εἶδον ἐν μέσῳ τοῦ θρόνου καὶ τῶν τεσσάρων ζῴων καὶ ἐν μέσῳ τῶν πρεσβυτέρων Ἀρνίον ἑστηκὸς ὡς ἐσφαγμένον, ἔχων κέρατα ἑπτὰ καὶ ὀφθαλμοὺς ἑπτά, οἵ εἰσιν τὰ ἑπτὰ Πνεύματα τοῦ Θεοῦ ἀπεσταλμένοι εἰς πᾶσαν τὴν γῆν.",
+     "source": "https://biblehub.com/text/revelation/5-6.htm (WH)",
+     "result": "draft Greek == WH word-for-word 1.000 (full verse)"
     }
    }
   },
@@ -33759,6 +33811,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6461,
+     "cited_as": "(seat re-present) Rev 1:4",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-24 full-verse seat re-presented on the draft’s partial excerpt (head “Iohn, to the seuen Churches...” lies outside the draft’s span, ellipsis kept)"
     }
    ],
    "verified": "2026-11-11",
@@ -33775,10 +33839,15 @@
      "result": "EXACT (normalized per-verse, eBible==TRB)"
     },
     "greek_biblehub_fresh": {
-     "text": "Ἰωάννης Iōannēs Ταῖς tais ἑπτὰ hepta ἐκκλησίαις ekklēsiais ταῖς tais ἐν en τῇ tē Ἀσίᾳ· Asia Χάρις charis ὑμῖν hymin καὶ kai εἰρήνη eirēnē ἀπὸ apo ὁ ho ὢν ōn καὶ kai ὁ ho ἦν ēn καὶ kai ὁ ho ἐρχόμενος, erchomenos καὶ kai ἀπὸ apo τῶν tōn ἑπτὰ hepta Πνευμάτων Pneumatōn ἃ ha ἐνώπιον enōpion τοῦ tou θρόνου thronou αὐτοῦ, autou",
-     "source": "https://biblehub.com/text/revelation/1-4.htm",
-     "result": "1.0 case-only (Ταις/Χαρις/Πνευματων caps); draft elides v5b tail"
+     "text": "Ἰωάννης Ταῖς ἑπτὰ ἐκκλησίαις ταῖς ἐν τῇ Ἀσίᾳ· Χάρις ὑμῖν καὶ εἰρήνη ἀπὸ ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος, καὶ ἀπὸ τῶν ἑπτὰ Πνευμάτων ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ,",
+     "source": "https://biblehub.com/text/revelation/1-4.htm (WH)",
+     "result": "draft Greek span == WH word-for-word (draft-side 1.000); the WH ἀπᾀ ὁ ἦν feature stands as printed"
     }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Section intro (canon 6457) says the phrase “occurs four times in the Apocalypse” while the heading (canon 6455) reads “THE FIVE TEXTUAL OCCURRENCES IN REVELATION” and the section lists four (1:4, 3:1, 4:5, 5:6). Propose “Five”→“Four” (or he may be counting five including a fifth form he has in mind) — his word, never silently corrected.",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -35260,6 +35329,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 table-echo anchor (NETS): the sevenfold spirit-name."
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6540,
+     "cited_as": "Cross-witness #1 — Isa 11:2 NETS",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-15 NETS cache text re-presented as the cross-witness #1 seat (print==cache verified 2026-11-12, 33-esaias.pdf p833); the draft’s Greek/Geneva OT blocks dropped per seat shape"
     }
    ],
    "verified": "2026-11-11",
@@ -35273,6 +35354,13 @@
     "kind": "needs-authorization",
     "detail": "Observation bullet (canon 6355) quotes Brenton-voiced wording (\"the Spirit of God shall rest upon Him\") under an \"LXX\" label; NETS prints \"will rest on him\". Per the 10 Nov attribution rule propose italic \"(Brenton)\" in line or a NETS re-voice — his word.",
     "awaiting": "Gideon"
+   },
+   "second_check": {
+    "nets_print_check": {
+     "text": "print==cache verified 2026-11-12 (33-esaias.pdf print p833, page-index 10)",
+     "source": "NETS Isaiah print master",
+     "result": "exact"
+    }
    }
   },
   {
@@ -36801,6 +36889,16 @@
      "status": "anchor",
      "note": "Pattern-table mention; re-cited at 6403.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6620,
+     "cited_as": "Cross-witness #4 — Jer 23:24 LXX mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -36837,6 +36935,11 @@
      "source": "Oxford NETS PDF jeremias 23–24 p25 print; dump scratch/cos_wave27_jer_p25.txt",
      "result": "print==seated NETS text (compose-equality)"
     }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Cross-witness #4 (canon 6620) quotes “Do I not fill heaven and earth?” — KJV/Brenton-voiced; the banked NETS prints “Do I not fill the sky and the earth?” Per the 10 Nov attribution rule propose an italic version-name in line — *(KJV)* — or a NETS re-voice; his word.",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -36924,6 +37027,16 @@
      "status": "anchor",
      "note": "GS range cite; draft cites \"Ps 138:7-10 LXX\" = MT Ps 139:7-10 (rows PSA.139.7/.8/.9/.10).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6619,
+     "cited_as": "Cross-witness #4 — Ps 138:7-10 LXX label, “Whither shall I go from Thy Spirit?” quote",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -36950,9 +37063,9 @@
     }
    },
    "flag": {
-    "kind": "numbering-note",
-    "detail": "BOTH-MAPS: NETS/Psalter prints LXX 138:7-10 with MT tags (139.7-139.10); GNV chapters by MT 139:7-10. Row id follows the MT map like the bank's Psalm practice.",
-    "awaiting": "—"
+    "kind": "needs-authorization",
+    "detail": "Cross-witness #4 (canon 6619) quotes “Whither shall I go from Thy Spirit?” under a “Ps 138:7-10 LXX” label — Brenton/KJV-voiced; NETS prints “Where shall I go from your Spirit...?” Per the 10 Nov attribution rule propose italic *(Brenton)* or *(KJV)* in line, or a NETS re-voice; his word.",
+    "awaiting": "Gideon"
    },
    "second_checks": {
     "trb_fresh": {
@@ -36990,6 +37103,16 @@
      "status": "anchor",
      "note": "Sibling of PSA.139.7.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6619,
+     "cited_as": "Cross-witness #4 range mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -37056,6 +37179,16 @@
      "status": "anchor",
      "note": "Sibling of PSA.139.7.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6619,
+     "cited_as": "Cross-witness #4 range mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -37122,6 +37255,16 @@
      "status": "anchor",
      "note": "Sibling of PSA.139.7.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6619,
+     "cited_as": "Cross-witness #4 range mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -37670,6 +37813,16 @@
      "status": "anchor",
      "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6621,
+     "cited_as": "Cross-witness #4 — Acts 17:28 mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the observation echo “in Him we live and move and have our being” matches the Geneva at modern spelling (also KJV — identical clause); good-reason, no flag."
     }
    ],
    "verified": "2026-11-12",
@@ -38905,6 +39058,301 @@
    "verified": "2026-11-12",
    "translations": {},
    "second_check": {}
+  },
+  {
+   "id": "REV.3.1",
+   "ref": "Revelation 3:1",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "ANd write vnto the Angel of the Church which is at Sardis, These things saith he that hath the seuen Spirits of God, and the seuen starres, I knowe thy workes: for thou hast a name that thou liuest, but thou art dead.",
+     "source": "https://ebible.org/enggnv/REV03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "ANd write vnto the Angel of the Church which is at Sardis, These things saith he that hath the seuen Spirits of God, and the seuen starres, I knowe thy workes: for thou hast a name that thou liuest, but thou art dead.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/3",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ τῷ ἀγγέλῳ τῆς ἐν Σάρδεσιν ἐκκλησίας γράψον Τάδε λέγει ὁ ἔχων τὰ ἑπτὰ Πνεύματα τοῦ Θεοῦ καὶ τοὺς ἑπτὰ ἀστέρας Οἶδά σου τὰ ἔργα, ὅτι ὄνομα ἔχεις ὅτι ζῇς, καὶ νεκρὸς εἶ.",
+     "source": "https://biblehub.com/text/revelation/3-1.htm (WH)",
+     "result": "draft Greek span == WH word-for-word (draft-side 1.000; WH v1 tail elided by the draft ellipsis); Byz caps Πνεύματα/Θεοῦ noted"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6473,
+     "cited_as": "(seat) Rev 3:1",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Geneva-modern verbatim excerpt; seat restores the print’s word order “And write unto the Angel...” over the draft’s reordered “And unto the Angel... write”; draft excerpt cut at “the seven stars,” per its own ellipsis; draft Greek block dropped per seat shape (Greek survives in prose)."
+    }
+   ],
+   "diff_notes": "Draft Geneva “And unto the Angel of the Church which is at Sardis write,” vs 1599 print “ANd write vnto the Angel of the Church which is at Sardis,” — seat follows the print (“And write unto...”); starres stars modern-fold; seuen seven; vnto unto."
+  },
+  {
+   "id": "REV.4.5",
+   "ref": "Revelation 4:5",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And out of the throne proceeded lightnings, and thundrings, and voyces, and there were seuen lampes of fire burning before the throne, which are the seuen spirits of God.",
+     "source": "https://ebible.org/enggnv/REV04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And out of the throne proceeded lightnings, and thundrings, and voyces, and there were seuen lampes of fire burning before the throne, which are the seuen spirits of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ ἐκ τοῦ θρόνου ἐκπορεύονται ἀστραπαὶ καὶ φωναὶ καὶ βρονταί· καὶ ἑπτὰ λαμπάδες πυρὸς καιόμεναι ἐνώπιον τοῦ θρόνου, ἅ εἰσιν τὰ ἑπτὰ Πνεύματα τοῦ Θεοῦ·",
+     "source": "https://biblehub.com/text/revelation/4-5.htm (WH)",
+     "result": "draft Greek span == WH word-for-word (draft-side 1.000; head lightnings/thundrings elided by the draft ellipsis); Byz caps kept"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6485,
+     "cited_as": "(seat) Rev 4:5",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Geneva-modern verbatim excerpt; the print’s lowercase “before the throne” kept over the draft’s capped “before the Throne”; the lead … covers the print’s head “And out of the throne proceeded lightnings, and thundrings, and voyces,” per the draft’s own excerpt; draft Greek block dropped."
+    }
+   ],
+   "diff_notes": "Draft caps “Throne” — 1599 print lowercase “throne”; seat keeps the print. Draft caps “Spirits” matches print’s “spirits” at lowercase — wait: print “the seuen spirits of God” lowercase; draft “the seven spirits of God” lowercase — match."
+  },
+  {
+   "id": "ISA.11.3",
+   "ref": "Isaiah 11:3 LXX",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "The spirit of the fear of God will fill him. He shall not judge on the basis of repute or convict on the basis of report,",
+     "source": "NETS Isaiah (Oxford PDF master; ISA cache; print==cache verified 33-esaias.pdf print p833, 2026-11-12)"
+    },
+    "gnv": {
+     "text": "And shall make him prudent in the feare of the Lord: for he shall not iudge after the sight of his eies, neither reproue by ye hearing of his eares.",
+     "source": "https://ebible.org/enggnv/ISA11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And shall make him prudent in the feare of the Lord: for he shall not iudge after the sight of his eies, neither reproue by ye hearing of his eares.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/23/11",
+     "result": "exact per-verse (eBible==TRB 1.000; TRB prints “by ye hearing” — the 1599 “ye” artifact, row-noted)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6540,
+     "cited_as": "Cross-witness #1 — Isa 11:2-3a LXX",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "NETS seat covers LXX 11:2 + the 11:3 head clause (“The spirit of the fear of God will fill him.”) cut at the draft’s span (the ἐμπλήσει clause); MT 11:3 content differs (“prudent in the fear of the LORD” in the Geneva) — numbering coincides, content differs (BOTH-MAPS note)."
+    }
+   ],
+   "diff_notes": "NETS/Rahlfs 11:3 opens with the ἐμπλήσει clause; the MT/Geneva 11:3 reads differently (Gideon’s Geneva label “Isa 11:2-3” spans both editions’ numbering). Draft Greek vs Swete isaiah-lxx-11: draft-side 0.933 — only the ἐπ´ koronis apostrophe class (ἐπὴ vs ἐπʼ); substance-confirmed."
+  },
+  {
+   "id": "ZEC.4.2",
+   "ref": "Zechariah 4:2",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And he said to me, “What do you see?” And I said, “I have seen, and behold, a lampstand all of gold and the torch on it, and there are seven lamps on it and seven pouring vessels for the lamps on it.",
+     "source": "NETS Zechariah (Oxford PDF master; ZEC ch4 cache; print==cache verified 32-twelve.pdf print p815, 2026-11-12)"
+    },
+    "gnv": {
+     "text": "And saide vnto me, What seest thou? And I said, I haue looked, and beholde, a candlesticke all of gold with a bowle vpon the toppe of it, and his seuen lampes therein, and seuen pipes to the lampes, which were vpon the toppe thereof.",
+     "source": "https://ebible.org/enggnv/ZEC04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And saide vnto me, What seest thou? And I said, I haue looked, and beholde, a candlesticke all of gold with a bowle vpon the toppe of it, and his seuen lampes therein, and seuen pipes to the lampes, which were vpon the toppe thereof.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/38/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6572,
+     "cited_as": "Cross-witness #2 — Zech 4:2 NETS",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "NETS selections seat (2ab…2b over the draft’s internal ellipsis for “the torch on it”); LXX/NETS verse numbers coincide with MT for Zechariah 4 vv1-12; draft Greek/Geneva OT blocks dropped per seat shape."
+    }
+   ],
+   "diff_notes": "Both-maps: LXX/NETS Zec 4 numbering == MT numbering for vv1-12; LXX 4:13 = MT 4:14 (the “sons of fattiness” verse). NETS wording “seven pouring vessels” vs MT/Geneva “seven pipes.”"
+  },
+  {
+   "id": "ZEC.4.3",
+   "ref": "Zechariah 4:3",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And on it are two olive trees, one on the right of the torch and one on the left.",
+     "source": "NETS Zechariah (Oxford PDF master; ZEC ch4 cache; print==cache verified 32-twelve.pdf print p815, 2026-11-12)"
+    },
+    "gnv": {
+     "text": "And two oliue trees ouer it, one vpon the right side of the bowle, and the other vpon the left side thereof.",
+     "source": "https://ebible.org/enggnv/ZEC04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And two oliue trees ouer it, one vpon the right side of the bowle, and the other vpon the left side thereof.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/38/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6572,
+     "cited_as": "Cross-witness #2 — Zech 4:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "draft’s Geneva label cites 4:2-3; the draft’s own ellipsis covers the 4:3 olive-trees clause in his Greek selection — NETS text banked from print==cache; not seated."
+    }
+   ],
+   "diff_notes": "Both-maps coincide (see ZEC.4.2)."
+  },
+  {
+   "id": "ZEC.4.6",
+   "ref": "Zechariah 4:6",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And he answered and said to me, saying, “This is the word of the Lord to Zorobabel, saying, Not by great power nor by strength, but by my spirit, says the Lord Almighty.",
+     "source": "NETS Zechariah (Oxford PDF master; ZEC ch4 cache; print==cache verified 32-twelve.pdf print p815, 2026-11-12)"
+    },
+    "gnv": {
+     "text": "Then he answered and spake vnto me, saying, This is the word of the Lord vnto Zerubbabel, saying, Neither by an armie nor strength, but by my Spirit, saith the Lord of hostes.",
+     "source": "https://ebible.org/enggnv/ZEC04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then he answered and spake vnto me, saying, This is the word of the Lord vnto Zerubbabel, saying, Neither by an armie nor strength, but by my Spirit, saith the Lord of hostes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/38/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6572,
+     "cited_as": "Cross-witness #2 — Zech 4:6 NETS",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "NETS 4:6 full verse seated (the draft’s Greek span opens at καὠ ἀπεκρίθη = the verse’s own opening); the print’s speech-quote closes after v7 (“grace for it”) — the span ends verbatim with the quote still open, as the print carries it."
+    }
+   ],
+   "diff_notes": "NETS “by my spirit” lower-case; Geneva 1599 prints “by my Spirit” (MT). Draft Greek vs Swete zechariah-lxx-4: draft-side 0.956 — misses ἀλλὴ (κορωνις apostrophe class: ἀλλʼ vs ἀλλὴʼ) and εἴδον (Swete prints ἡώρακα-family at 4:2 — one-token variant), substance-confirmed."
+  },
+  {
+   "id": "ZEC.4.10",
+   "ref": "Zechariah 4:10",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "For who has despised the small days? And they shall rejoice and see the ctin stonec in the hand of Zorobabel. “These seven are the eyes of the Lord that watch the whole earth.”",
+     "source": "NETS Zechariah (Oxford PDF master; ZEC ch4 cache; print==cache verified 32-twelve.pdf print p815, 2026-11-12)"
+    },
+    "gnv": {
+     "text": "For who hath despised the day of the small thinges? but they shall reioyce, and shall see the stone of tinne in the hand of Zerubbabel: these seuen are the eyes of the Lord, which go thorow the whole world.",
+     "source": "https://ebible.org/enggnv/ZEC04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For who hath despised the day of the small thinges? but they shall reioyce, and shall see the stone of tinne in the hand of Zerubbabel: these seuen are the eyes of the Lord, which go thorow the whole world.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/38/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6572,
+     "cited_as": "Cross-witness #2 — Zech 4:10 NETS",
+     "quotes": [
+      "COS-57 seat — see polish 32-wave-30"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "NETS 4:10b fragment seated (“These seven are the eyes of the Lord that watch the whole earth.”) over the draft’s ellipsis (his selection covers 4:7-10a); the earlier clause’s print footnote-sigla “ctin stonec” stay verbatim on the banked verse text, off-seat."
+    }
+   ],
+   "diff_notes": "Both-maps coincide (see ZEC.4.2). NETS sigla “c tin stone c” (spaced in the cache walk) = print “ctin stonec” footnote markers — kept verbatim per wave-21 spaced-siglum practice."
+  },
+  {
+   "id": "2CH.16.9",
+   "ref": "2 Chronicles 16:9",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the eyes of the Lord beholde all the earth to shewe him selfe strong with them that are of perfite heart towarde him: thou hast then done foolishly in this: therefore from henceforth thou shalt haue warres.",
+     "source": "https://ebible.org/enggnv/2CH16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the eyes of the Lord beholde all the earth to shewe him selfe strong with them that are of perfite heart towarde him: thou hast then done foolishly in this: therefore from henceforth thou shalt haue warres.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/14/16",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-57",
+     "section_label": "THE CHRIST OF SCRIPTURE — 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness",
+     "article_line": 6599,
+     "cited_as": "Cross-witness #3 — 2 Chron 16:9",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "draft carries Greek+Geneva blocks; KEPT VERBATIM in the polish — no NETS master for Paraleipomenon II is scraped. Draft Greek substance-checked vs Swete (theancientbible.org/2-chronicles-lxx-16/): word-for-word except Swete’s ἐπὠ τοῦ before πρὸς αὐτόν."
+    }
+   ],
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "NETS (Paraleipomenon II) not in the NETS cache and no Oxford PDF master scraped — the cross-witness #3 seat cannot be brought to NETS until the master PDF is fetched. Seat GNV is banked and TRB-verified; draft Greek Swete-confirmed. Proposal: scrape 2-Paraleipomenon next session and re-seat the 2 Chr 16:9 blocks NETS like the neighboring cross-witnesses.",
+    "awaiting": "next run / Gideon word on the seat proposal"
+   },
+   "diff_notes": "GNV/MT prints the whole verse (“thou hast then done foolishly...”); the draft’s excerpts use only the eyes-of-the-Lord head clause. TRB OT book number 14 confirmed against eBible==TRB 1.000."
   }
  ]
 }

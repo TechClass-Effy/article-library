@@ -5209,3 +5209,691 @@ This is the crowning glory of the entire revelation:
 - Rev 21:3 — *"the tabernacle of God is with men, and He will dwell with them"* — the final fulfillment
 
 Shall we proceed to **(E) — the Nature and Essence of the Father as Eternal Spirit** — which will properly prepare us for the indwelling theme in (F)?
+
+## **Part E — The Nature and Essence of the Father as Eternal Spirit; Question 1 — What Does Scripture Establish About the Father as Eternal Spirit?**
+
+> Yes, by way of all three follow up questions you have suggested above
+
+We now proceed to **(E) — The Nature and Essence of the Father as Eternal Spirit.**
+
+We will address this through your three follow-up questions:
+
+1. **What does Scripture establish about the Father as Eternal Spirit?**
+2. **How does the Father's Spirit-Nature undergird His invisibility yet His presence in all things?**
+3. **What is the relation between the Father (Spirit) and the Son (Image, Word made flesh, Man at the right hand)?**
+
+We will let the whole counsel of the God-breathed Word establish what is to be established — strictly by two-or-more witnesses, per our maxims.
+
+---
+# **PART E — THE NATURE AND ESSENCE OF THE FATHER AS ETERNAL SPIRIT**
+
+## **QUESTION 1 — What does Scripture establish about the Father as Eternal Spirit?**
+
+---
+
+### **The Direct Witness — John 4:24**
+
+### **1599 Geneva:**
+*"God is a Spirit, and they that worship him, must worship him in spirit and truth."*
+
+---
+
+### Observation of foundational importance
+
+**Πνεῦμα ὁ Θεός** — *"Spirit is God"* (the predicate **Πνεῦμα** is placed first for emphasis). This is **Jesus' own direct statement** about the Father's essential Nature.
+
+Note the careful grammar: **Πνεῦμα** is anarthrous (no article) — qualitative — telling us **what God is in His essence**, not identifying Him as one Spirit among others. **The Father is Spirit by nature** — that is His fundamental essence.
+
+This is spoken to the Samaritan woman in the context of Jesus distinguishing **true worship** from worship located in a specific place (Mount Gerizim or Jerusalem). His point: **the Father is not confined to a geographic location** because **He is Spirit** — and therefore must be worshipped **in spirit and truth**, not by being approached in a particular place.
+
+---
+
+### **Cross-witness — 1 Timothy 1:17**
+
+### **1599 Geneva:**
+*"Now unto the King everlasting, immortal, invisible, unto God only wise, be honour and glory, for ever, and ever, Amen."*
+
+---
+
+### Observations
+
+The Father is described as:
+- **Βασιλεὺς τῶν αἰώνων** — *"King of the ages"* — eternal in dominion.
+- **ἄφθαρτος** — *"incorruptible / immortal"* — not subject to decay or change.
+- **ἀόρατος** — *"invisible"* — cannot be seen.
+- **μόνος Θεός** — *"the only God"* — preserving the Shema (cf. John 17:3 — **τὸν μόνον ἀληθινὸν Θεὸν**).
+
+**Two witnesses now agree on a key point:** the Father is **invisible** because **He is Spirit**. Spirit is, by its nature, not visible to physical sight.
+
+---
+
+### **Cross-witness — 1 Timothy 6:15-16**
+
+### **1599 Geneva:**
+*"Which in due time he shall show, that is blessed and Prince only, the King of Kings and Lord of Lords, Who only hath immortality, and dwelleth in the light that none can attain unto, whom never man saw, neither can see, unto whom be honour and power everlasting, Amen."*
+
+---
+
+### Observations
+
+The Father is:
+- **ὁ μόνος ἔχων ἀθανασίαν** — *"the only One having immortality."* This is a strong statement — the Father alone has immortality as His own essential possession.
+- **φῶς οἰκῶν ἀπρόσιτον** — *"dwelling in unapproachable light."*
+- **ὃν εἶδεν οὐδεὶς ἀνθρώπων οὐδὲ ἰδεῖν δύναται** — *"whom no man has seen, nor can see."*
+
+**Three witnesses now establish:** the Father is **invisible** (John 1:18; 1 Tim 1:17; 1 Tim 6:16). And the reason is His essential Nature: **He is Spirit, dwelling in unapproachable light.**
+
+---
+
+### **OT Foundation — The Father as Spirit**
+
+### **Genesis 1:2 LXX:**
+### **NETS:**
+
+> Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water. — **Genesis 1:2 LXX, NETS**
+
+*(the NETS renders πνεῦμα "a divine wind"; the 1599 Geneva reads: "…and the Spirit of God moved upon the waters.")*
+
+The Spirit of God is present at creation — active, moving, hovering. This is **the Father's own Spirit** — not a separate Person in the post-Nicene sense (which we have set aside per maxim #3), but **the Father's own essential being and active presence**.
+
+---
+
+### **Numbers 16:22 LXX (Korah's rebellion):**
+
+### **NETS:**
+
+> …O God, God of the spirits and of all flesh, … — **Numbers 16:22 LXX, NETS**
+
+The Father is **"the God of the spirits of all flesh"** — He is the source and Lord of all spirits. He is Spirit Himself and the originator of every other spirit.
+
+---
+
+### **Isaiah 31:3 LXX:**
+
+### **NETS:**
+
+> an Egyptian, a man and not God— the flesh of horses, and there is no help. But the Lord will turn his hand against them, … — **Isaiah 31:3 LXX, NETS**
+
+The contrast: **men are flesh; God is Spirit.** The Father is categorically distinct from all flesh in His essential being.
+
+---
+
+### **Psalm 138:7-10 LXX (139:7-10 MT) — The Spirit-Presence of the Father**
+
+### **NETS:**
+
+> Where should I go from your spirit? And from your face where should I flee? If I ascend to the sky, you are there; if I descend to Hades, you are present. If I were to take up my wings at dawn and make my covert *(the hiding place)* at the farthest limits of the sea, indeed, there your hand shall guide me, and your right hand shall hold me fast. — **Psalm 138:7-10 LXX (139:7-10 MT), NETS**
+
+---
+
+### Observations
+
+**The Father's Spirit is identified with His presence.** *"Whither shall I go from Thy Spirit?"* is paralleled with *"whither shall I flee from Thy presence?"* — they are the same thing. **The Father's Spirit is the Father's presence**, omnipresent throughout heaven, earth, and the depths.
+
+This is foundational. The Father, **as Spirit**, is **everywhere present** — not as a diffused force, but as the personal, conscious, all-knowing Lord who is fully present in every place at once.
+
+---
+
+### **Jeremiah 23:23-24 LXX:**
+
+### **NETS:**
+
+> I am a god nearby, says the Lord, and not a god far off. If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord. — **Jeremiah 23:23-24 LXX, NETS**
+
+---
+
+### Observation
+
+**μὴ οὐχὶ τὸν οὐρανὸν καὶ τὴν γῆν ἐγὼ πληρῶ** — *"Do I not fill heaven and earth?"* The Father, as Spirit, **fills heaven and earth**. He is omnipresent.
+
+---
+
+### **1 Kings 8:27 LXX (3 Kingdoms 8:27 LXX) — Solomon's Prayer:**
+
+*"...εἰ ἀληθῶς κατοικήσει ὁ Θεὸς μετὰ ἀνθρώπων ἐπὶ τῆς γῆς; ἰδοὺ ὁ οὐρανὸς καὶ ὁ οὐρανὸς τοῦ οὐρανοῦ οὐκ ἀρκέσουσίν σοι..."*
+
+### **1599 Geneva (1 Kings 8:27):**
+*"But will God in deed dwell on the earth? behold, the heavens, and the heavens of heavens are not able to contain thee: how much more unable is this house that I have built?"*
+
+---
+
+### Observation
+
+Solomon's prayer establishes: **the heavens cannot contain the Father.** No location, no temple, no structure can hold Him. He is Spirit — uncontainable, unconfinable.
+
+---
+
+### **Two Witnesses Confirmed: The Father is Eternal Spirit, Invisible, Omnipresent, Uncontainable**
+
+| Truth | OT Witness | NT Witness |
+|---|---|---|
+| God is Spirit by Nature | Gen 1:2; Num 16:22; Isa 31:3 | John 4:24 |
+| God is invisible | (Implicit in Ex 33:20) | John 1:18; 1 Tim 1:17; 6:16; Col 1:15 |
+| God dwells in unapproachable light | Ps 104:2 LXX | 1 Tim 6:16 |
+| God is omnipresent (fills heaven and earth) | Ps 138:7-10; Jer 23:23-24; 1 Kgs 8:27 | Acts 17:24-28 |
+| God is uncontainable | 1 Kgs 8:27; Isa 66:1 | Acts 7:48-49; 17:24 |
+| God is the Father of spirits | Num 16:22; Heb 12:9 | Heb 12:9 |
+| God is immortal/incorruptible | (Implicit) | 1 Tim 1:17; 6:16; Rom 1:23 |
+
+---
+
+## **QUESTION 2 — How does the Father's Spirit-Nature undergird His invisibility yet His presence in all things?**
+
+---
+
+### **The Theological Resolution**
+
+The Father's Spirit-Nature is the metaphysical key that resolves what otherwise seems paradoxical:
+
+1. **He is invisible** (no man has seen Him — John 1:18; 1 Tim 6:16) **because Spirit is not visible to physical sight.** Physical eyes perceive physical light; Spirit is of a different order of being.
+
+2. **He is omnipresent** (fills heaven and earth — Jer 23:24) **because Spirit is not confined to a location.** Bodies occupy space; Spirit pervades it.
+
+3. **He is uncontainable** (the heavens cannot contain Him — 1 Kgs 8:27) **because Spirit cannot be enclosed by created boundaries.** Spatial structures cannot bound what is essentially non-spatial.
+
+4. **He can dwell** in His temple (1 Kgs 8:10-11), among His people (Ex 25:8), and ultimately in the redeemed (1 Cor 3:16-17; Eph 2:21-22) — **because Spirit can pervade and indwell what physical bodies cannot.**
+
+5. **He has no body parts** in the literal sense — when Scripture speaks of His "hand," "arm," "face," "eyes," "feet" — these are **anthropomorphic accommodations** to creatures who think in physical terms. **The Father, as Spirit, does not have a physical body**, and the anthropomorphisms are metaphors of His action, presence, and disposition toward us.
+
+---
+
+### **Cross-witness — Acts 17:24-28**
+
+### **1599 Geneva:**
+*"God that made the world, and all things that are therein, seeing that he is Lord of heaue *(heaven)* and earth, dwelleth not in temples made with hands, Neither is worshipped with men's hands, as though he needed any thing, seeing he giveth to all life and breath and all things, ... For in him we live, and move, and have our being, ..."*
+
+---
+
+### Observation of foundational importance
+
+Paul declares to the Athenians:
+- The Father **does not dwell in temples made with hands** — because He cannot be contained.
+- He **gives life and breath and all things** to every creature — He is the Source.
+- **ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν** — *"in Him we live, and move, and have our being."* **All creation exists within Him.**
+
+This is profound. The Father, as Spirit, is the **all-encompassing reality** within whom every created thing has its being. We are *in Him* — He is not in us (in our created spatiality); we are in His Spirit-presence which fills all things.
+
+---
+
+### **Resolving the "Singular Throne" of the Apocalypse**
+
+Now we can see clearly why the throne in the Apocalypse is **one throne** shared by **God and the Lamb** (Rev 22:1, 3), without strangeness:
+
+- **The Father, as Spirit**, is not seated *on* the throne in the way a body would be. He fills the throne, surrounds it, pervades it, and **is enthroned upon it as Spirit** — His glory radiating, His presence saturating the heavenly reality.
+
+- **The Lamb, as the exalted Man Christ Jesus**, occupies the visible center of the throne in His glorified humanity — **bodily enthroned at the place of supreme honor** (Ps 110:1; Heb 1:3; Heb 10:12).
+
+- **The throne is one** because the Father's Spirit-presence and the Lamb's bodily presence are not in spatial competition — the Lamb is *at the right hand* of the Father whose Spirit fills all things.
+
+- **This is why John can describe** *"the Lamb in the midst of the throne"* (Rev 7:17), *"the throne of God and of the Lamb"* (Rev 22:1, 3), and *"the One sitting on the throne"* (Rev 4-5) — without contradiction. The Father is on the throne as Spirit; the Lamb is on the throne as the glorified Man. **One throne, two distinct figures, perfect harmony — because Spirit and embodied Man are not in spatial conflict.**
+
+This is precisely what your observation about the Father as Eternal Spirit illuminates. **The post-Nicene struggle to explain "one substance in three Persons" entirely misses this simpler and more biblical resolution:** the Father is Spirit, the Son is the embodied Image of the Father, and there is no spatial paradox because Spirit and Body operate on different orders of being.
+
+---
+
+### **The Father's Spirit-Nature and the Old Testament Theophanies**
+
+We can now also offer a careful, honest reflection on a question we left properly unresolved earlier — the **Messenger of the LORD** passages.
+
+Per maxim #3, we declined to identify the Messenger with the Son as the early Fathers did, because no direct NT witness made that identification explicitly. But we can now note something honestly grounded in the text:
+
+- **The Father, as invisible Spirit, cannot be seen** (John 1:18; 1 Tim 6:16; Ex 33:20).
+- **Yet someone is seen** in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7 — figures the OT calls "the LORD," "the Angel of the LORD," "the God of Bethel," etc.
+- **By strict logic from John 1:18:** Whoever was seen, it was not the Father directly.
+
+We will leave it there, per our discipline — observing the pattern without forcing a single resolution. **What we have established is that the Father's Spirit-Nature means He cannot be seen directly**, and so any "seeing of God" in Scripture must be through some mediation or accommodation.
+
+---
+
+## **QUESTION 3 — The Relation Between the Father (Spirit) and the Son (Image, Word made flesh, Man at the right hand)**
+
+This is the synthesis that draws together our entire study.
+
+---
+
+### **The Pattern Established**
+
+| The Father | The Son |
+|---|---|
+| Eternal Spirit (John 4:24) | The Word made flesh (John 1:14) |
+| Invisible (John 1:18; 1 Tim 6:16) | The Image of the invisible God (Col 1:15) |
+| Dwells in unapproachable light (1 Tim 6:16) | The Radiance of the Father's glory (Heb 1:3) |
+| Whom no man has seen (John 1:18) | He who has seen the Son has seen the Father (John 14:9) |
+| Fills heaven and earth as Spirit (Jer 23:24) | The Man Christ Jesus at the right hand (1 Tim 2:5; Heb 10:12) |
+| The Father of spirits (Heb 12:9) | The Firstborn from the dead (Col 1:18; Rev 1:5) |
+| The only true God (John 17:3) | The one Mediator (1 Tim 2:5) |
+| The Source (ἐξ οὗ τὰ πάντα, 1 Cor 8:6) | The Agent (δι᾽ οὗ τὰ πάντα, 1 Cor 8:6) |
+
+---
+
+### **John 14:9-11 — The Direct Statement**
+
+### **1599 Geneva:**
+*"Jesus said unto him, I have been so long time with you, and hast thou not known me, Philip? he that hath seen me, hath seen my Father: how then sayest thou, Show us thy Father? Believest thou not, that I am in the Father, and the Father is in me? The words that I speak unto you, I speak not of myself: but the Father that dwelleth in me, he doeth the works. Believe me, that I am in the Father, and the Father is in me: at the least, believe me for the very works' sake."*
+
+---
+
+### Observations of supreme importance for our study
+
+**(1)** **ὁ ἑωρακὼς ἐμὲ ἑώρακεν τὸν Πατέρα** — *"He that has seen Me has seen the Father."*
+
+How can this be true, given that **no man has seen the Father** (John 1:18)?
+
+**The resolution lies in the Spirit-Image relation:**
+- The Father is invisible Spirit.
+- The Son is the **Image** of that invisible Father (Col 1:15) — bearing the Father's character, will, words, and works visibly.
+- Seeing Jesus is *seeing the Father* in the only way the Father can be seen by creatures — through His perfect Image. Not seeing the Father's essence directly (which remains invisible), but seeing **what the Father is like, what He wills, what He says, what He does** — fully and accurately, in His Son.
+
+This is exactly what John 1:18 prepared us for: *"No man hath seen God at any time: the only begotten Son... He hath declared Him."* **The Son exegetes the invisible Father** to His creatures.
+
+**(2)** **ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί** — *"I am in the Father, and the Father is in Me."*
+
+This is the **mutual indwelling** that prepares for the indwelling theme of Part F. The Father (as Spirit) indwells the Son; the Son is in the Father (in His Spirit-presence). This is **not a paradox** — it is the natural relation of Spirit and embodied Image.
+
+**(3)** **ὁ δὲ Πατὴρ ὁ ἐν ἐμοὶ μένων ποιεῖ τὰ ἔργα αὐτοῦ** — *"the Father that dwelleth in Me, He doeth the works."*
+
+**This is the decisive theological statement.** Jesus does not say *"I do the works."* He says *"the Father, dwelling in Me, does His works."*
+
+**The Father (Spirit) dwells in the Son (Image) and accomplishes the Father's works through the Son.** This is the entire pattern of redemption:
+
+- The Father wills; the Son obeys.
+- The Father speaks; the Son utters.
+- The Father sends; the Son comes.
+- The Father acts; the Son is the medium of His action.
+- The Father is glorified; the Son is the One in whom the Father is glorified.
+
+Throughout Jesus' ministry, **the Father (Spirit) was dwelling in the Son (Man) and accomplishing the Father's works**. Jesus' miracles, His teachings, His self-giving on the cross — all of these were **the Father's works done through the Son.**
+
+---
+
+### **The Father's Indwelling of the Son — Established by Multiple Witnesses**
+
+### **John 8:28-29**
+
+### **1599 Geneva:**
+*"…I do nothing of myself, but as my Father hath taught me, so I speak these things. For he that sent me, is with me: the Father hath not left me alone, because I do always those things that please him."*
+
+### **John 10:38**
+
+### **1599 Geneva:**
+*"But if I do, then though ye believe not me, yet believe the works, that ye may know and believe, that the Father is in me, and I in him."*
+
+### **John 17:21 — the indwelling theme:**
+
+### **1599 Geneva:**
+*"That they all may be one, as thou, O Father, art in me, and I in thee: even that they may be also one in us, that the world may believe that thou hast sent me."*
+
+---
+
+### Observation
+
+**Multiple direct witnesses from Jesus' own mouth** establish: **The Father is in the Son; the Son is in the Father.** This is the **prototype mutual indwelling** that will be extended to the redeemed in Part F.
+
+---
+
+### **The Spirit's Anointing of the Son**
+
+### **Acts 10:38**
+
+### **1599 Geneva:**
+*"To wit, how God anointed Jesus of Nazareth with the holy Ghost, and with power: who went about doing good, and healing all that were oppressed of the devil: for God was with him."*
+
+---
+
+### Observation
+
+**The Father anointed the Son with the Holy Spirit and with power.** Throughout His ministry, the Son operated **by the Spirit of the Father**. This is consistent with:
+
+- **Isaiah 11:2 LXX** — *"the Spirit of God shall rest upon Him..."*
+- **Isaiah 61:1 LXX** — *"the Spirit of the Lord is upon Me, because He has anointed Me..."*
+- **Matthew 3:16** — the Spirit descending on Jesus at His baptism.
+- **Luke 4:1** — *"Jesus, being full of the Holy Ghost, returned from Jordan."*
+- **Luke 4:14** — *"And Jesus returned in the power of the Spirit."*
+
+**The Son, as embodied Man, was filled with and operated by the Father's Spirit.** This is the model and prototype of how the Father (Spirit) dwells in His Image (the Son, Man), and through Him accomplishes His works.
+
+---
+
+### **The Theological Coherence — A Summary**
+
+Here is what the whole counsel establishes about the Father-Son relation in light of the Father's Spirit-Nature:
+
+**1. The Father, as Eternal Spirit, is invisible, omnipresent, and uncontainable.**
+
+**2. The Son is the Father's perfect Image — the embodied expression of the invisible Father.**
+- In His pre-incarnate state: the Word with God (John 1:1), the Radiance of His glory (Heb 1:3).
+- In His incarnate state: the Word made flesh (John 1:14), the Image of the invisible God in human form (Col 1:15; 2:9).
+- In His exalted state: the Man Christ Jesus at the right hand (1 Tim 2:5; Heb 10:12), the Lamb on the throne (Rev 5; 22).
+
+**3. The Father (Spirit) indwells the Son (Image) — "the Father dwells in Me" (John 14:10).**
+- The Father's Spirit anointed the Son for His ministry (Acts 10:38; Luke 4:14).
+- The Father's works were done through the Son (John 14:10).
+- The Father's words were spoken by the Son (John 8:28; 12:49-50).
+
+**4. The Son is in the Father — "I in Him" (John 10:38; 14:11).**
+- Drawing from the Father's life (John 5:26; 6:57).
+- Living unto the Father's glory (John 17:1, 4).
+- Subjected to the Father in eternal order (1 Cor 15:28).
+
+**5. This Father-Son union — Spirit-Image, indweller-indwelt — is the prototype for the union the Father intends with the redeemed.**
+
+And this brings us beautifully to your next thread, which we will take up in Part F.
+
+---
+
+# **GRAND SYNTHESIS — PART E COMPLETED**
+
+## **What is Decisively Established**
+
+By the whole counsel of Scripture — OT and NT, by direct witness from Jesus Himself and from the Apostles — we have established:
+
+### **The Nature and Essence of the Father:**
+1. **He is Spirit by Nature** (John 4:24; Gen 1:2; Num 16:22).
+2. **He is invisible** (John 1:18; 1 Tim 1:17; 6:16; Col 1:15).
+3. **He is immortal/incorruptible** (1 Tim 1:17; 6:16; Rom 1:23).
+4. **He dwells in unapproachable light** (1 Tim 6:16; Ps 104:2 LXX).
+5. **He is omnipresent — fills heaven and earth** (Jer 23:24; Ps 138:7-10; Acts 17:28).
+6. **He is uncontainable — no place can hold Him** (1 Kgs 8:27; Isa 66:1; Acts 7:48-49).
+7. **He is the Father of spirits** (Num 16:22; Heb 12:9).
+8. **He is the One God** (Deut 6:4; Isa 44-46; John 17:3; 1 Cor 8:6; 1 Tim 2:5).
+
+### **The Implications for Our Understanding:**
+
+1. **The "singular throne" of the Apocalypse is no oddity** — the Father (Spirit) fills the throne and surrounds it; the Lamb (embodied Man) occupies the visible center; there is no spatial conflict.
+
+2. **The Old Testament theophanies must be mediated** — the Father, as invisible Spirit, cannot be seen directly; any "seeing of God" is through accommodation, image, or representation.
+
+3. **The Father's omnipresence undergirds His ability to indwell** — He indwelt the temple, indwelt His Son, indwells His Church, and will eternally dwell with His redeemed.
+
+4. **The Father-Son union is Spirit-Image: the Eternal Spirit indwelling and operating through His perfect, embodied Image — the Man Christ Jesus.** This is the prototype of the indwelling we will examine in Part F.
+
+5. **The Shema is preserved unbroken** — the Father remains the One God; the Son is the Father's Beloved Only-Begotten through whom the Father acts; the Spirit is the Father's own essential being and active presence.
+
+---
+
+## **A Note on the "Holy Spirit" Question**
+
+You have rightly noted at the outset of our study that the formalization of "the Holy Spirit as the third Person of the Trinity" was a post-Nicene addition. Per maxim #3, we have set that aside. But honest reading of Scripture requires us to note what *is* there:
+
+- **The Spirit of God** (Gen 1:2; Ps 51:11; Isa 11:2; etc.) — the Father's own Spirit, His essential being and active presence.
+- **The Spirit of the LORD** (Judg 3:10; 1 Sam 10:6; Isa 61:1; etc.) — the same.
+- **The Holy Spirit / Holy Spirit of God** (Ps 51:11; Eph 4:30) — the Father's Spirit, marked as set apart, holy.
+- **The Spirit of Christ / Spirit of His Son** (Rom 8:9; Gal 4:6) — interestingly, the same Spirit is called both the Father's Spirit and the Son's Spirit, because the Father (Spirit) indwells the Son and pours forth that same Spirit upon the redeemed through Him.
+
+The honest, undogmatic, biblical reading is this: **the Holy Spirit is the Father's own Spirit** — His essential being and active presence — which is poured out through the exalted Son upon the redeemed (Acts 2:33), so that the Father may indwell His people **in Christ** by His Spirit.
+
+This will become explicit and beautifully clear in Part F.
+
+---
+
+## **READY FOR PART F**
+
+We are now properly prepared for **Part F — The Indwelling: That We Should Be the Habitation of God in Christ.**
+
+Having established that **the Father is Eternal Spirit who indwelt His Son**, we can now see the breathtaking design: **the Father purposes that we, the elect, should likewise become the habitation of God in Christ** — drawn into the very Father-Son union that has existed from eternity.
+
+Shall we proceed to **Part F**, beginning with **John 17:20-26 (the High Priestly Prayer)** and **John 14:16-23 (the promise of mutual indwelling)** as the foundation?
+
+---
+
+How does the Father's Spirit-Nature inform our understanding of the 'seven Spirits before the throne' in Revelation — can we say anything honest about them without overreaching?
+
+
+exactly the kind of careful probe our maxims require. Let us proceed with strict discipline: examining every text where the phrase occurs, cross-referencing all relevant OT and NT witnesses, and being honest about what we can and cannot establish.
+
+---
+
+# **THE "SEVEN SPIRITS" — A Careful Examination**
+
+## **THE FIVE TEXTUAL OCCURRENCES IN REVELATION**
+
+The phrase **τὰ ἑπτὰ πνεύματα** (*the seven Spirits*) — or close variants — occurs four times in the Apocalypse. Let us gather them all.
+
+---
+
+### **Revelation 1:4**
+
+> …Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seven Spirits which are before his Throne, — **Revelation 1:4, 1599 Geneva**
+
+**Observation:** The seven Spirits are **before the throne** (the Father's throne — established by v. 4a). They are sources of grace and peace in the salutation, listed *between* the Father and the Son (v. 5).
+
+---
+
+### **Revelation 3:1**
+
+> And write unto the Angel of the Church which is at Sardis, These things saith he that hath the seven Spirits of God, and the seven stars, … — **Revelation 3:1, 1599 Geneva**
+
+**Observation:** The Son **has** (**ὁ ἔχων**) the seven Spirits of God. They are designated as **belonging to God** (**τοῦ Θεοῦ** — the Father's). The Son holds them.
+
+---
+
+### **Revelation 4:5**
+
+> …and there were seven lamps of fire burning before the throne, which are the seven spirits of God. — **Revelation 4:5, 1599 Geneva**
+
+**Observation:** The seven Spirits are **visually represented as seven burning lamps of fire before the throne.** This is a crucial visual identification.
+
+---
+
+### **Revelation 5:6**
+
+> Then I beheld, and lo, in the midst of the throne, and of the four beasts, and in the midst of the Elders, stood a Labe *(Lamb)* as though he had been killed, which had seven horns, and seven eyes, which are the seven spirits of God, sent into all the world. — **Revelation 5:6, 1599 Geneva**
+
+**Observation:** The seven Spirits are **the seven eyes of the Lamb** — and are **sent forth into all the earth.** They belong to the Lamb (as His eyes) and to God (as His Spirits).
+
+---
+
+## **SUMMARY OF THE TEXTUAL DATA**
+
+| Reference | Location/Form | Relation |
+|---|---|---|
+| Rev 1:4 | Before His throne | Source of grace/peace with the Father and Jesus |
+| Rev 3:1 | "Of God" | The Son has them |
+| Rev 4:5 | Seven burning lamps before the throne | Visually identified as the seven Spirits of God |
+| Rev 5:6 | Seven eyes of the Lamb | Sent into all the earth |
+
+---
+
+## **WHAT THE TEXT STRICTLY ESTABLISHES**
+
+Per our maxims, let us note exactly what the text says — no more, no less:
+
+1. **There are "seven Spirits"** — designated as such.
+2. **They are "of God"** — belonging to / from the Father.
+3. **They are "before the throne"** — positioned in the Father's presence.
+4. **The Son "has" them** (Rev 3:1) — He possesses or holds them.
+5. **They are visually represented as seven burning lamps** (Rev 4:5).
+6. **They are also visually represented as the Lamb's seven eyes** (Rev 5:6).
+7. **They are sent into all the earth** (Rev 5:6).
+
+---
+
+## **CROSS-REFERENCES TO HELP US UNDERSTAND**
+
+Now we must look for parallel imagery and language elsewhere in Scripture.
+
+---
+
+### **Cross-witness #1 — Isaiah 11:2 LXX (The Sevenfold Spirit of the LORD)**
+
+> And the spirit of God shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and godliness. The spirit of the fear of God will fill him. — **Isaiah 11:2-3 LXX, NETS**
+
+---
+
+### Observation of significant weight
+
+The LXX of Isaiah 11:2 lists **seven attributes / aspects of the Spirit of the LORD** that rest upon the Messianic Branch (the Son):
+
+1. **Πνεῦμα τοῦ Θεοῦ** — *Spirit of God*
+2. **Πνεῦμα σοφίας** — *Spirit of wisdom*
+3. **Πνεῦμα συνέσεως** — *Spirit of understanding*
+4. **Πνεῦμα βουλῆς** — *Spirit of counsel*
+5. **Πνεῦμα ἰσχύος** — *Spirit of strength*
+6. **Πνεῦμα γνώσεως** — *Spirit of knowledge*
+7. **Πνεῦμα εὐσεβείας** / **φόβου Θεοῦ** — *Spirit of godliness / fear of God*
+
+**Seven designations of the Father's Spirit resting on the Anointed One.** This is the most natural and direct OT background for the "seven Spirits" of the Apocalypse — especially given that:
+
+- They belong to **God / the Father**.
+- They are connected with the **Messianic Branch (the Son)**.
+- They are conceptually **a fullness of the Father's own Spirit** in its manifold operations.
+
+**Honest assessment:** Isaiah 11:2 LXX gives us a strong, direct parallel — *seven aspects of the Spirit of the LORD on the Messiah.*
+
+---
+
+### **Cross-witness #2 — Zechariah 4:1-10 LXX (The Lampstand and the Seven Lamps)**
+
+> …I have seen, and behold, a lampstand all of gold … and there are seven lamps on it and seven pouring vessels for the lamps on it. … And he answered and said to me, saying, “This is the word of the Lord to Zorobabel, saying, Not by great power nor by strength, but by my spirit, says the Lord Almighty. … “These seven are the eyes of the Lord that watch the whole earth.” — **Zechariah 4:2-3, 6, 10 LXX, NETS**
+
+---
+
+### Observation of decisive weight
+
+**This is a stunning OT parallel.** Zechariah's vision contains:
+
+1. **A lampstand with seven lamps** — directly paralleling **Rev 4:5** (*"seven lamps of fire before the throne, which are the seven Spirits of God"*).
+2. **The interpretive word: "by My Spirit, saith the LORD"** — directly tying the lamps to **the LORD's Spirit**.
+3. **"Seven eyes of the LORD that range through all the earth"** — directly paralleling **Rev 5:6** (*"seven eyes... sent into all the earth"*).
+
+**Three remarkable correspondences:**
+- Seven lamps (Zech 4:2 / Rev 4:5)
+- Connected to the LORD's Spirit (Zech 4:6 / Rev 4:5)
+- Seven eyes of the LORD ranging the whole earth (Zech 4:10 / Rev 5:6)
+
+**John in the Apocalypse is clearly drawing on Zechariah 4.** The seven lamps before the throne and the seven eyes of the Lamb are **Zechariah's lampstand and eyes-of-the-LORD imagery taken up and applied.**
+
+---
+
+### **Cross-witness #3 — 2 Chronicles 16:9 LXX (The Eyes of the LORD)**
+
+### **Greek:**
+*"ὅτι οἱ ὀφθαλμοὶ Κυρίου ἐπιβλέπουσιν ἐν πάσῃ τῇ γῇ κατισχῦσαι ἐν πάσῃ καρδίᾳ πλήρει πρὸς αὐτόν..."*
+
+### **1599 Geneva (2 Chron 16:9):**
+*"For the eyes of the Lord behold all the earth to show himself strong with them, that are of perfect heart toward him..."*
+
+---
+
+### Observation
+
+**"The eyes of the LORD range through all the earth"** is an OT theme. It signifies the LORD's omniscient, omnipresent observation of all things — His Spirit-presence active throughout the creation. In the Apocalypse, this is now expressed as **the seven eyes of the Lamb** — meaning **the Father's omniscient, omnipresent Spirit-vision is now exercised through the Son.**
+
+---
+
+### **Cross-witness #4 — The Father's Omnipresent Spirit in OT**
+
+We already examined under (E) Question 2:
+
+- **Ps 138:7-10 LXX** — *"Whither shall I go from Thy Spirit?"* — the Father's Spirit is His omnipresent presence.
+- **Jer 23:24 LXX** — *"Do I not fill heaven and earth?"*
+- **Acts 17:28** — *"in Him we live and move and have our being."*
+
+**The Father's Spirit is His omnipresent, all-seeing, all-acting Presence throughout creation.**
+
+---
+
+## **WHAT WE CAN HONESTLY SAY (PER OUR MAXIMS)**
+
+Now let us be careful and honest about what is established and what is not.
+
+---
+
+### **Established by Cross-Witness (Two or More Honest Parallels):**
+
+**1. The "seven Spirits" are directly tied to the imagery of Zechariah 4** — the seven lamps and the seven eyes of the LORD that range through all the earth.
+
+**2. The "seven Spirits" are directly tied to the Spirit of the LORD on the Messiah in Isaiah 11:2 LXX** — which lists seven aspects/operations of the one Spirit of the Father.
+
+**3. The "seven Spirits" belong to the Father** (Rev 3:1; 4:5; 5:6 — *"of God"*) — they are His.
+
+**4. The "seven Spirits" are now held by the Son** (Rev 3:1) and represented as His **eyes** (Rev 5:6) — meaning the Father's omniscient Spirit-vision is now exercised through the exalted Son.
+
+**5. The number "seven" in Apocalyptic usage is the number of completeness / fullness** — seven churches (representing the whole Church), seven seals (representing the complete unfolding of judgment), seven trumpets (the complete proclamation), seven bowls (the complete outpouring of wrath), etc. Per this consistent symbolic usage, **"seven Spirits" most naturally signifies the *fullness* or *completeness* of God's Spirit** — His Spirit in its perfect, complete operation.
+
+---
+
+### **The Most Honest Reading That Honors the Whole Counsel**
+
+**The "seven Spirits before the throne" are the Father's own Spirit in its sevenfold fullness — the complete, perfect operation of the One Spirit of God — now held and sent forth by the Lamb into all the earth.**
+
+This reading:
+- Honors the Shema (one God, the Father — Deut 6:4) — the Spirit is *His Spirit*, not seven separate Spirits.
+- Honors Isaiah 11:2 LXX — seven aspects of the one Spirit of the LORD.
+- Honors Zechariah 4:6, 10 — the LORD's Spirit and the LORD's seven eyes through the earth.
+- Honors the consistent Apocalyptic symbolism of "seven" as fullness/completeness.
+- Honors what we established in Part E — the Father's Spirit is His omnipresent essential being.
+- Honors the Son's role — the Lamb has the Spirit and pours it out (Acts 2:33; John 7:39; Rev 5:6).
+
+---
+
+### **What We Should NOT Say (Overreaching)**
+
+**1. We should not say** the seven Spirits are **seven distinct persons** of a sevenfold Spirit-Godhead. There is no Scriptural warrant for this. The text gives us *seven* as a symbol of fullness, not as a literal count of distinct personal entities.
+
+**2. We should not say** the seven Spirits are **the "Holy Spirit" of post-Nicene Trinitarian theology** — that is, the supposed "Third Person of the Trinity, co-equal with the Father and the Son." Per maxim #3, we have set aside that formulation. Scripture itself uses *"Spirit of God,"* *"Spirit of the LORD,"* *"Holy Spirit,"* etc., to refer to the Father's own essential being and active presence — not a separately-personal Deity.
+
+**3. We should not say** the seven Spirits are **seven angels** or **the seven archangels** of some intertestamental traditions. While some have proposed this (because the text says they are "sent into all the earth"), the cross-references to Isaiah 11 and Zechariah 4 establish them as **the Father's Spirit in His sevenfold operation**, not as created angelic beings.
+
+**4. We should not press the imagery beyond what it warrants.** The text uses *symbolic visual language*: seven lamps, seven eyes, seven horns. These are not to be flattened into mechanical literal descriptions. They are John's visionary representations of spiritual realities.
+
+---
+
+## **THE THEOLOGICAL COHERENCE**
+
+When we put this together with everything we have established in Part E, here is what we have:
+
+1. **The Father is Eternal Spirit** (John 4:24) — invisible, omnipresent, uncontainable.
+
+2. **The Father's Spirit is His own essential being and active presence** throughout creation — His omnipresent, all-seeing, all-knowing Presence.
+
+3. **The "seven Spirits of God"** in the Apocalypse are the symbolic representation of this Spirit in His **complete fullness** (per Isa 11:2 LXX) and **omnipresent operation through all the earth** (per Zech 4:10).
+
+4. **The seven Spirits are "before the throne"** — i.e., they are the Father's own Spirit in His full operation, proceeding from His presence.
+
+5. **The Son has the seven Spirits** (Rev 3:1) and they are His **eyes** (Rev 5:6) — meaning the exalted Son now holds and exercises the Father's omniscient Spirit-vision, having received the Father's Spirit at His exaltation (Acts 2:33) and now pouring it forth.
+
+6. **They are "sent into all the earth"** — the Father's Spirit, through the Son, goes forth into all the creation to accomplish His purposes.
+
+---
+
+### **The Beautiful Picture**
+
+What emerges, when we read with the lens you have given us, is breathtaking:
+
+- **The Father (Spirit)** fills heaven and earth, but His throne is in heaven.
+- **The Lamb (the Man Christ Jesus)** sits at the right hand of the throne in glorified humanity.
+- **The Father's Spirit, in His sevenfold fullness**, proceeds from the throne — symbolized as **seven lamps of fire** before the throne (the Father's Spirit-presence radiating outward) and as **the seven eyes of the Lamb** (the Father's Spirit now operating through the exalted Son).
+- **The Spirit is sent into all the earth** — to convict, to seal, to indwell the redeemed, to accomplish the Father's saving purposes through the Son.
+
+**This is one God, the Father, acting through His Beloved Only-Begotten Son, by His own Spirit** — the consistent pattern from Genesis to Revelation, now fully revealed at the climax of all prophecy.
+
+---
+
+## **A FINAL HONEST NOTE**
+
+We have done what our maxims allow:
+- We have noted what the text **plainly says.**
+- We have cross-referenced **OT and NT witnesses with clear parallels** (Isaiah 11, Zechariah 4, 2 Chron 16:9, Ps 138).
+- We have identified **the most natural reading** that honors the whole counsel.
+- We have refused to **flatten the symbolism into either literal seven-person-spirits or post-Nicene Trinitarian categories.**
+- We have acknowledged that **even the most natural reading remains a reading** — the text uses symbolic apocalyptic imagery, and we should hold our interpretation with appropriate humility.
+
+What we **can** firmly say is this: **The seven Spirits are most naturally understood as the Father's own Spirit in His sevenfold fullness — present before the throne, held and exercised by the exalted Lamb, sent into all the earth to accomplish the Father's purposes.** This is consistent with the Shema, with Isaiah 11:2, with Zechariah 4:6, 10, with the Father's Spirit-Nature established in Part E, and with the consistent pattern of the Father acting through His Son by His Spirit.
+
+What we **cannot** assert with full witness-establishment is the precise metaphysical nature of these seven Spirits beyond this — and we ought not to try.
+
+---
+
+## **READY TO RETURN TO PART F**
+
+We have now properly addressed the "seven Spirits" question without overreach. Our Part E foundation is complete:
+
+- The Father is Eternal Spirit (established).
+- The seven Spirits are the Father's Spirit in sevenfold fullness (established as the most natural reading).
+- The Father (Spirit) indwells the Son and operates through Him (established).
+- The Spirit is sent into all the earth through the exalted Lamb (established).
+
+This now perfectly sets us up for **Part F — The Indwelling: That We Should Be the Habitation of God in Christ.** The Father's Spirit, having dwelt fully in the Son, is now poured out through the Son upon the elect, so that **we may become the habitation of the Father in His Son by His Spirit** — drawn into the very Father-Son union that has existed from eternity.
+
+Shall we now proceed to **Part F**?

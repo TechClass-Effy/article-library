@@ -80,3 +80,8 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 ---
 
 53. (E) Grand Synthesis — Part E Completed: The Nature and Essence of the Father (Spirit by Nature; invisible; immortal; unapproachable light; omnipresent; uncontainable; the Holy-Spirit note; READY FOR PART F)
+
+---
+
+54. (E) A Question Concerning the "Seven Spirits" — A Careful Examination (Revelation 1:4, 3:1, 4:5, 5:6 Geneva seats; Isaiah 11:2-3 NETS; Zechariah 4 NETS selections; 2 Chronicles 16:9 draft blocks + Swete Greek note; Psalm 138(139):7-10; Jeremiah 23:24; Acts 17:28; what we can honestly say; what we should not say; The Beautiful Picture; READY TO RETURN TO PART F)
+

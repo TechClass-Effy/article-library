@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**716 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**724 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**887 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**895 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4877,7 +4877,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub_fresh — draft Greek == WH word-for-word 1.000 (full verse)*
 
 ### HEB 12 24 — CONFIRMED
 *cited as: Geneva anchor*
@@ -6102,7 +6102,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,”
 - *Note:* 1:4-5 seat part 1 (with REV.1.5); "his Throne" is the 1599 print caps in BOTH sources — seat keeps the print.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 case-only (Ταις/Χαρις/Πνευματων caps); draft elides v5b tail*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — draft Greek span == WH word-for-word (draft-side 1.000); the WH ἀπᾀ ὁ ἦν feature stands as printed*
 
 ### Revelation 1:5 — CONFIRMED
 *cited as: (D) GNV seat — full verse in the Revelation-1 seat*
@@ -6373,13 +6373,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,”
 - *Note:* COS-44 table echo.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 case-only (Ταις/Χαρις/Πνευματων caps); draft elides v5b tail*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — draft Greek span == WH word-for-word (draft-side 1.000); the WH ἀπᾀ ὁ ἦν feature stands as printed*
 
 ### Isaiah 11:2 — PROSE-REF
 *cited as: Sardis row — "the seven Spirits of God"*
 - **NETS (Septuagint, modern):** “And the spirit of God shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and godliness.”
 - *Note:* COS-44 table-echo anchor (NETS): the sevenfold spirit-name.
 - *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets_print_check — exact*
 
 ### Revelation 3:7 — PROSE-REF
 *cited as: *
@@ -6506,7 +6507,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.”
 - *Note:* 5:1-7 seat — v6 part; print "Labe" with gloss *(Lamb)* (both sources agree on the 1599 print form); verse tail after "killed," sits in the draft’s ellipsis.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub_fresh — draft Greek == WH word-for-word 1.000 (full verse)*
 
 ### Revelation 5:1-7 — CONFIRMED
 *cited as: (D) GNV seat*
@@ -7073,7 +7074,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.”
 - *Note:* (D)-close mention-anchor.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub_fresh — draft Greek == WH word-for-word 1.000 (full verse)*
 
 ### Revelation 13:8 — PROSE-REF
 *cited as: 'The Lamb as having been slain' — Rev 5:6, 12; 13:8*
@@ -7159,7 +7160,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,”
 - *Note:* (D)-close mention-anchor.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 case-only (Ταις/Χαρις/Πνευματων caps); draft elides v5b tail*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — draft Greek span == WH word-for-word (draft-side 1.000); the WH ἀπᾀ ὁ ἦν feature stands as printed*
 
 ### Revelation 4:11 — PROSE-REF
 *cited as: worshipped as the Creator (Rev 4:11)*
@@ -8087,6 +8088,152 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Holy-Spirit note close — "…poured out through the exalted Son upon the redeemed (Acts 2:33)" (mention)*
 - **Geneva 1599:** “Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.”
 - *Note:* Wave-16 seat row re-referenced.
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+## 61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness
+
+### Revelation 1:4 — CONFIRMED
+*cited as: (seat re-present) Rev 1:4*
+- **Geneva 1599:** “Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,”
+- *Note:* wave-24 full-verse seat re-presented on the draft’s partial excerpt (head “Iohn, to the seuen Churches...” lies outside the draft’s span, ellipsis kept)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — draft Greek span == WH word-for-word (draft-side 1.000); the WH ἀπᾀ ὁ ἦν feature stands as printed*
+
+### Revelation 3:1 — CONFIRMED
+*cited as: (seat) Rev 3:1*
+- **Geneva 1599:** “ANd write vnto the Angel of the Church which is at Sardis, These things saith he that hath the seuen Spirits of God, and the seuen starres, I knowe thy workes: for thou hast a name that thou liuest, but thou art dead.”
+- *Note:* Geneva-modern verbatim excerpt; seat restores the print’s word order “And write unto the Angel...” over the draft’s reordered “And unto the Angel... write”; draft excerpt cut at “the seven stars,” per its own ellipsis; draft Greek block dropped per seat shape (Greek survives in prose).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — draft Greek span == WH word-for-word (draft-side 1.000; WH v1 tail elided by the draft ellipsis); Byz caps Πνεύματα/Θεοῦ noted*
+
+### Revelation 4:5 — CONFIRMED
+*cited as: (seat) Rev 4:5*
+- **Geneva 1599:** “And out of the throne proceeded lightnings, and thundrings, and voyces, and there were seuen lampes of fire burning before the throne, which are the seuen spirits of God.”
+- *Note:* Geneva-modern verbatim excerpt; the print’s lowercase “before the throne” kept over the draft’s capped “before the Throne”; the lead … covers the print’s head “And out of the throne proceeded lightnings, and thundrings, and voyces,” per the draft’s own excerpt; draft Greek block dropped.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — draft Greek span == WH word-for-word (draft-side 1.000; head lightnings/thundrings elided by the draft ellipsis); Byz caps kept*
+
+### REV 5 6 — CONFIRMED
+*cited as: (seat re-present) Rev 5:6*
+- **Geneva 1599:** “Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.”
+- *Note:* wave-25 seat re-presented full-verse; “Labe *(Lamb)*” print artifact + gloss carried per wave-25 class
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub_fresh — draft Greek == WH word-for-word 1.000 (full verse)*
+
+### Isaiah 11:2 — CONFIRMED
+*cited as: Cross-witness #1 — Isa 11:2 NETS*
+- **NETS (Septuagint, modern):** “And the spirit of God shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and godliness.”
+- *Note:* wave-15 NETS cache text re-presented as the cross-witness #1 seat (print==cache verified 2026-11-12, 33-esaias.pdf p833); the draft’s Greek/Geneva OT blocks dropped per seat shape
+- *Checked 2026-11-11 · editions fetched: nets*
+- *Double-checked (second source): nets_print_check — exact*
+
+### Isaiah 11:3 LXX — CONFIRMED
+*cited as: Cross-witness #1 — Isa 11:2-3a LXX*
+- **NETS (Septuagint, modern):** “The spirit of the fear of God will fill him. He shall not judge on the basis of repute or convict on the basis of report,”
+- **Geneva 1599:** “And shall make him prudent in the feare of the Lord: for he shall not iudge after the sight of his eies, neither reproue by ye hearing of his eares.”
+- *Note:* NETS seat covers LXX 11:2 + the 11:3 head clause (“The spirit of the fear of God will fill him.”) cut at the draft’s span (the ἐμπλήσει clause); MT 11:3 content differs (“prudent in the fear of the LORD” in the Geneva) — numbering coincides, content differs (BOTH-MAPS note).
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000; TRB prints “by ye hearing” — the 1599 “ye” artifact, row-noted)*
+
+### Zechariah 4:2 — CONFIRMED
+*cited as: Cross-witness #2 — Zech 4:2 NETS*
+- **NETS (Septuagint, modern):** “And he said to me, “What do you see?” And I said, “I have seen, and behold, a lampstand all of gold and the torch on it, and there are seven lamps on it and seven pouring vessels for the lamps on it.”
+- **Geneva 1599:** “And saide vnto me, What seest thou? And I said, I haue looked, and beholde, a candlesticke all of gold with a bowle vpon the toppe of it, and his seuen lampes therein, and seuen pipes to the lampes, which were vpon the toppe thereof.”
+- *Note:* NETS selections seat (2ab…2b over the draft’s internal ellipsis for “the torch on it”); LXX/NETS verse numbers coincide with MT for Zechariah 4 vv1-12; draft Greek/Geneva OT blocks dropped per seat shape.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Zechariah 4:3 — PROSE-REF
+*cited as: Cross-witness #2 — Zech 4:3*
+- **NETS (Septuagint, modern):** “And on it are two olive trees, one on the right of the torch and one on the left.”
+- **Geneva 1599:** “And two oliue trees ouer it, one vpon the right side of the bowle, and the other vpon the left side thereof.”
+- *Note:* draft’s Geneva label cites 4:2-3; the draft’s own ellipsis covers the 4:3 olive-trees clause in his Greek selection — NETS text banked from print==cache; not seated.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Zechariah 4:6 — CONFIRMED
+*cited as: Cross-witness #2 — Zech 4:6 NETS*
+- **NETS (Septuagint, modern):** “And he answered and said to me, saying, “This is the word of the Lord to Zorobabel, saying, Not by great power nor by strength, but by my spirit, says the Lord Almighty.”
+- **Geneva 1599:** “Then he answered and spake vnto me, saying, This is the word of the Lord vnto Zerubbabel, saying, Neither by an armie nor strength, but by my Spirit, saith the Lord of hostes.”
+- *Note:* NETS 4:6 full verse seated (the draft’s Greek span opens at καὠ ἀπεκρίθη = the verse’s own opening); the print’s speech-quote closes after v7 (“grace for it”) — the span ends verbatim with the quote still open, as the print carries it.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Zechariah 4:10 — CONFIRMED
+*cited as: Cross-witness #2 — Zech 4:10 NETS*
+- **NETS (Septuagint, modern):** “For who has despised the small days? And they shall rejoice and see the ctin stonec in the hand of Zorobabel. “These seven are the eyes of the Lord that watch the whole earth.””
+- **Geneva 1599:** “For who hath despised the day of the small thinges? but they shall reioyce, and shall see the stone of tinne in the hand of Zerubbabel: these seuen are the eyes of the Lord, which go thorow the whole world.”
+- *Note:* NETS 4:10b fragment seated (“These seven are the eyes of the Lord that watch the whole earth.”) over the draft’s ellipsis (his selection covers 4:7-10a); the earlier clause’s print footnote-sigla “ctin stonec” stay verbatim on the banked verse text, off-seat.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 2 Chronicles 16:9 — PROSE-REF
+*cited as: Cross-witness #3 — 2 Chron 16:9*
+- **Geneva 1599:** “For the eyes of the Lord beholde all the earth to shewe him selfe strong with them that are of perfite heart towarde him: thou hast then done foolishly in this: therefore from henceforth thou shalt haue warres.”
+- *Note:* draft carries Greek+Geneva blocks; KEPT VERBATIM in the polish — no NETS master for Paraleipomenon II is scraped. Draft Greek substance-checked vs Swete (theancientbible.org/2-chronicles-lxx-16/): word-for-word except Swete’s ἐπὠ τοῦ before πρὸς αὐτόν.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Psalm 139:7 (LXX 138:7) — PROSE-REF
+*cited as: Cross-witness #4 — Ps 138:7-10 LXX label, “Whither shall I go from Thy Spirit?” quote*
+- **NETS (Septuagint, modern):** “Where should I go from your spirit? And from your face where should I flee?”
+- **Geneva 1599:** “Whither shall I goe from thy Spirite? or whither shall I flee from thy presence?”
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Psalm 139:8 (LXX 138:8) — PROSE-REF
+*cited as: Cross-witness #4 range mention*
+- **NETS (Septuagint, modern):** “If I ascend to the sky, you are there; if I descend to Hades, you are present.”
+- **Geneva 1599:** “If I ascende into heauen, thou art there: if I lye downe in hell, thou art there.”
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Psalm 139:9 (LXX 138:9) — PROSE-REF
+*cited as: Cross-witness #4 range mention*
+- **NETS (Septuagint, modern):** “If I were to take up my wings at dawn and make my covert at the farthest limits of the sea,”
+- **Geneva 1599:** “Let mee take the winges of the morning, and dwell in the vttermost parts of the sea:”
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Psalm 139:10 (LXX 138:10) — PROSE-REF
+*cited as: Cross-witness #4 range mention*
+- **NETS (Septuagint, modern):** “indeed, there your hand shall guide me, and your right hand shall hold me fast.”
+- **Geneva 1599:** “Yet thither shall thine hand leade me, and thy right hand holde me.”
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Jeremiah 23:24 (LXX = MT 23:24) — PROSE-REF
+*cited as: Cross-witness #4 — Jer 23:24 LXX mention*
+- **NETS (Septuagint, modern):** “If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord.”
+- **Geneva 1599:** “Can any hide him selfe in secrete places, that I shall not see him, sayth the Lord? Do not I fill heauen and earth, saieth the Lord?”
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — print==seat fresh 2026-11-12*
+
+### Acts 17:28 — PROSE-REF
+*cited as: Cross-witness #4 — Acts 17:28 mention*
+- **Geneva 1599:** “For in him we liue, and mooue, and haue our being, as also certaine of your owne Poets haue sayd, for we are also his generation.”
+- *Note:* the observation echo “in Him we live and move and have our being” matches the Geneva at modern spelling (also KJV — identical clause); good-reason, no flag.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek head == WH verbatim up to ἐσμέν (WH's tail ὡς τῶν καθ' ὑμᾶς ποιητῶν clause = the elided print tail)*
+
+### Deuteronomy 6:4 — PROSE-REF
+*cited as: The Most Honest Reading bullet — Shema honor mention*
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### John 7:39 — PROSE-REF
+*cited as: Honest-reading close mention*
+- **Geneva 1599:** “(This spake hee of the Spirite which they that beleeued in him, should receiue: for the holy Ghost was not yet giuen, because that Iesus was not yet glorified.)”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)*
+
+### Acts 2:33 — PROSE-REF
+*cited as: Honest-reading close — “the Lamb has the Spirit and pours it out (Acts 2:33; John 7:39; Rev 5:6)”*
+- **Geneva 1599:** “Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.”
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
 
@@ -10034,10 +10181,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -10099,7 +10246,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 9:21 | SAB7 | anchor |
-| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-36, COS-40, COS-56 | anchor, confirmed, prose-ref |
+| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-36, COS-40, COS-56, COS-57 | anchor, confirmed, prose-ref |
 | Isaiah 44:6 | COS-01, COS-17, COS-18, COS-40, COS-43, COS-44, COS-49, COS-56 | anchor, confirmed, prose-ref |
 | Isaiah 44:8 | COS-01 | confirmed |
 | Isaiah 44:24 | COS-01, COS-36, COS-40, COS-45 | confirmed, prose-ref |
@@ -10430,8 +10577,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 5:27 | COS-25, COS-37, COS-40, COS-42 | confirmed, confirmed (excerpt) |
 | John 7:37 | COS-25 | confirmed (excerpt) |
 | John 7:38 | COS-25 | confirmed (excerpt) |
-| John 7:39 | COS-25 | confirmed (excerpt) |
-| Acts 2:33 | COS-25, COS-34, COS-56 | anchor, confirmed |
+| John 7:39 | COS-25, COS-57 | confirmed (excerpt), prose-ref |
+| Acts 2:33 | COS-25, COS-34, COS-56, COS-57 | anchor, confirmed, prose-ref |
 | Psalm 107:28 | COS-25 | anchor |
 | Psalm 107:29 | COS-25 | anchor |
 | Deuteronomy 32:39 | COS-25 | anchor |
@@ -10527,7 +10674,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | MAT 27 51 | COS-33 | confirmed |
 | MRK 16 19 | COS-34 | confirmed |
 | COL 3 1 | COS-34 | confirmed |
-| REV 5 6 | COS-34, COS-45, COS-52 | confirmed, prose-ref |
+| REV 5 6 | COS-34, COS-45, COS-52, COS-57 | confirmed, prose-ref |
 | HEB 12 24 | COS-34 | confirmed |
 | MAR 13 32 | COS-34 | confirmed |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
@@ -10607,7 +10754,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:13 | COS-42, COS-49, COS-52 | confirmed, prose-ref |
 | Revelation 22:20 | COS-42, COS-51 | confirmed |
 | Revelation 1:1 | COS-43, COS-52 | confirmed, prose-ref |
-| Revelation 1:4 | COS-43, COS-44, COS-52 | confirmed, prose-ref |
+| Revelation 1:4 | COS-43, COS-44, COS-52, COS-57 | confirmed, prose-ref |
 | Revelation 1:5 | COS-43, COS-52, COS-56 | anchor, confirmed, prose-ref |
 | Revelation 1:6 | COS-43, COS-45 | confirmed, prose-ref |
 | Revelation 1:12 | COS-43 | confirmed |
@@ -10649,7 +10796,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 49:2 | COS-44 | prose-ref |
 | Isaiah 22:22 | COS-44 | prose-ref |
 | Isaiah 65:16 | COS-44, COS-52 | prose-ref |
-| Isaiah 11:2 | COS-44 | prose-ref |
+| Isaiah 11:2 | COS-44, COS-57 | confirmed, prose-ref |
 | Isaiah 11:1 | COS-45, COS-52 | prose-ref |
 | Isaiah 11:10 | COS-45, COS-52 | prose-ref |
 | Genesis 49:9 | COS-45 | prose-ref |
@@ -10689,12 +10836,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Numbers 16:22 | COS-53, COS-56 | anchor, seat |
 | Isaiah 31:3 | COS-53 | seat |
 | Jeremiah 23:23 (LXX = MT 23:23) | COS-53 | seat |
-| Jeremiah 23:24 (LXX = MT 23:24) | COS-53, COS-54, COS-56 | anchor, seat |
+| Jeremiah 23:24 (LXX = MT 23:24) | COS-53, COS-54, COS-56, COS-57 | anchor, prose-ref, seat |
 | 1 Kings 8:27 (LXX 3 Kingdoms 8:27) | COS-53, COS-54, COS-56 | anchor, seat |
-| Psalm 139:7 (LXX 138:7) | COS-53, COS-56 | anchor, seat |
-| Psalm 139:8 (LXX 138:8) | COS-53, COS-56 | anchor, seat |
-| Psalm 139:9 (LXX 138:9) | COS-53, COS-56 | anchor, seat |
-| Psalm 139:10 (LXX 138:10) | COS-53, COS-56 | anchor, seat |
+| Psalm 139:7 (LXX 138:7) | COS-53, COS-56, COS-57 | anchor, prose-ref, seat |
+| Psalm 139:8 (LXX 138:8) | COS-53, COS-56, COS-57 | anchor, prose-ref, seat |
+| Psalm 139:9 (LXX 138:9) | COS-53, COS-56, COS-57 | anchor, prose-ref, seat |
+| Psalm 139:10 (LXX 138:10) | COS-53, COS-56, COS-57 | anchor, prose-ref, seat |
 | Isaiah 66:1 | COS-53, COS-56 | anchor, seat |
 | Hebrews 12:9 | COS-53, COS-56 | anchor, seat |
 | Romans 1:23 | COS-53, COS-56 | anchor, seat |
@@ -10704,7 +10851,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 17:25 | COS-53, COS-54 | anchor, seat |
 | Acts 17:26 | COS-53, COS-54 | anchor, seat |
 | Acts 17:27 | COS-53, COS-54 | anchor, seat |
-| Acts 17:28 | COS-53, COS-54, COS-56 | anchor, seat |
+| Acts 17:28 | COS-53, COS-54, COS-56, COS-57 | anchor, prose-ref, seat |
 | Exodus 25:8 | COS-54 | seat |
 | 1 Kings 8:10 | COS-54 | anchor |
 | 1 Kings 8:11 | COS-54 | anchor |
@@ -10738,6 +10885,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 51:11 | COS-55 | anchor |
 | Judges 3:10 | COS-55 | anchor |
 | 1 Samuel 10:6 | COS-55 | anchor |
+| Revelation 3:1 | COS-57 | confirmed |
+| Revelation 4:5 | COS-57 | confirmed |
+| Isaiah 11:3 LXX | COS-57 | confirmed |
+| Zechariah 4:2 | COS-57 | confirmed |
+| Zechariah 4:3 | COS-57 | prose-ref |
+| Zechariah 4:6 | COS-57 | confirmed |
+| Zechariah 4:10 | COS-57 | confirmed |
+| 2 Chronicles 16:9 | COS-57 | prose-ref |
 
 ## The editions used
 
