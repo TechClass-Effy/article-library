@@ -87,7 +87,8 @@
    "COS-32",
    "COS-33",
    "COS-34",
-   "COS-35"
+   "COS-35",
+   "COS-36"
   ],
   "sections": [
    {
@@ -383,6 +384,10 @@
    {
     "key": "COS-35",
     "label": "39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)"
+   },
+   {
+    "key": "COS-36",
+    "label": "40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)"
    }
   ],
   "double_check": {
@@ -443,9 +448,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 41380,
+  "so_far_words": 41949,
   "cos_sofar": {
-   "waves": 19
+   "waves": 21
   }
  },
  "verses": [
@@ -3089,6 +3094,18 @@
      ],
      "status": "confirmed",
      "note": "NETS “they shall look to me … they have danced triumphantly” (the LXX’s καταορχήσαντο-παρειληφυίας family reading) at the seat; the observation’s “look upon Me / mourn for Him” note kept as his prose; draft Greek κατωρχήσαντο = Swete καταορχήσαντο."
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4557,
+     "cited_as": "12:9-10 NETS seat re-presents the verse (wave-14 1.9 seat unchanged)",
+     "quotes": [
+      "And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn."
+     ],
+     "status": "confirmed",
+     "note": "NETS Zec 12-14 print re-verified at the page dump this wave; print == walk.",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -3134,9 +3151,9 @@
     }
    },
    "flag": {
-    "kind": "needs-verification",
-    "detail": "NETS Zechariah 12:10 text not in bank (XII cache unusable); the draft prose quotes the KJV/Geneva wording unattributed. When the Suffering-Servant wave seats Zechariah 12:10, verify NETS wording (or his Logos LES copy) and decide whether an attribution gloss is wanted.",
-    "awaiting": "Gideon — next wave or his word"
+    "kind": "proposed-correction",
+    "detail": "Observation quotes \"they shall look upon Me whom they have pierced\" (KJV/Geneva family) while the NETS seat prints \"look to me because they have danced triumphantly\" — propose italic version-name in line for the observation quote per the 10 Nov 2026 attribution rule.",
+    "awaiting": "Gideon"
    },
    "resolved_flag": "ZEC.12.10 NETS seated wave-14 (32-twelve.pdf walk + Swete Rahlfs check)"
   },
@@ -11326,6 +11343,17 @@
      "quotes": [],
      "status": "anchor",
      "note": "Summary of the Audit, item 1 (one God: the Father)."
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4717,
+     "cited_as": "mention (Shema cross-ref in the 14:9 observation)",
+     "quotes": [
+      "the LORD our God, the LORD is one"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -11555,6 +11583,18 @@
      },
      "was": "Thus saith the Lord thy redeemer, and he that formed thee from the womb, I am the Lord, that made all things, that spread out the heavens alone, and stretched out the earth by myself.",
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4549,
+     "cited_as": "mention (Creator observation cross-ref)",
+     "quotes": [
+      "I stretched out the heavens alone"
+     ],
+     "status": "prose-ref",
+     "note": "Draft quote nearest Brenton “I alone stretched out the heavens”; NETS “I alone stretched out heaven” — propose italic version-name, flagged.",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-07",
@@ -13155,7 +13195,12 @@
      "checked": "2026-11-11"
     }
    },
-   "note": "GNV text backfilled 2026-11-11 (wave-16): the 3.4 observation's snippet \"to the glory of God the Father\" (line 3780) is word-for-word the Geneva tail — the standing no-GNV-text flag resolves for 2:11."
+   "note": "GNV text backfilled 2026-11-11 (wave-16): the 3.4 observation's snippet \"to the glory of God the Father\" (line 3780) is word-for-word the Geneva tail — the standing no-GNV-text flag resolves for 2:11.",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Observation (Zec 14:9 section) quotes \"every tongue shall confess that Jesus Christ is Lord, to the glory of God the Father.\" — KJV-voiced (Geneva prints \"is the Lord, unto the glory\"); propose italic version-name in line.",
+    "awaiting": "Gideon"
+   }
   },
   {
    "id": "GEN.3.15",
@@ -14271,6 +14316,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4693,
+     "cited_as": "mention (LORD-acting-through-his-Sent-One note)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-10",
@@ -15055,8 +15109,27 @@
   },
   {
    "id": "1CO.1.24",
-   "ref": "1CO 1 24",
+   "ref": "1 Corinthians 1:24",
    "uses": [
+    {
+     "section": "COS-17",
+     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
+     "article_line": 1536,
+     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
+     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
+     "quotes": [
+      "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God."
+     ],
+     "status": "confirmed",
+     "note": "Seat spans vv 22-24 (one blockquote). Draft Greek 100% vs BibleHub. (v24 history: coded row 1CO 1 24 carries the Wave-3 1:24,30 seat.)",
+     "matched_source": "gnv",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.",
+      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24."
+     }
+    },
     {
      "section": "COS-05",
      "section_label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses",
@@ -15088,8 +15161,14 @@
    },
    "second_check": {
     "trb": {
-     "result": "agree (normalized word-for-word, eBible=TRB)",
-     "url": "https://textusreceptusbibles.com/Geneva/46/1"
+     "text": "But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
+     "result": "eBible=TRB word-for-word (ratio 1.00)"
+    },
+    "greek_biblehub": {
+     "text": "",
+     "source": "https://biblehub.com/text/1_corinthians/1-24.htm",
+     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
     }
    }
   },
@@ -15571,8 +15650,27 @@
   },
   {
    "id": "GEN.16.7",
-   "ref": "GEN 16 7",
+   "ref": "Genesis 16:7",
    "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1437,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "But the Lord God’s angel found her by the spring of water in the wilderness …"
+     ],
+     "status": "confirmed",
+     "note": "Draft Greek = Rahlfs verbatim (checked Wave 4). Seat cut at \"wilderness …\" per the draft ellipsis.",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "But the Lord God’s angel found her by the spring of water in the wilderness …",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    },
     {
      "section": "COS-07",
      "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
@@ -15593,6 +15691,10 @@
    ],
    "verified": "2026-11-11",
    "translations": {
+    "nets": {
+     "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
     "gnv": {
      "text": "But the Angel of the Lord found her beside a fountain of water in the wilderness by the fountain in the way to Shur,",
      "source": "https://ebible.org/enggnv/GEN16.htm"
@@ -15600,18 +15702,9 @@
    },
    "second_check": {
     "nets": {
-     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
-     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    },
-    "greek_rahlfs": {
-     "text": "Εὗρεν δὲ αὐτὴν ἄγγελος κυρίου ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ, ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σουρ. καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Αγαρ παιδίσκη Σαρας, πόθεν ἔρχῃ καὶ ποῦ πορεύῃ; καὶ εἶπεν Ἀπὸ προσώπου Σαρας τῆς κυρίας μου ἐγὼ ἀποδιδράσκω.",
-     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
-     "result": "agree (draft-Greek vs witness word-check pass)"
-    },
-    "greek_swete": {
-     "text": "39;s Septuagint &middot; every word parsed 1 Σάρα δὲ ἡ γυνὴ Ἀβρὰμ οὐκ ἔτικτεν αὐτῷ ἦν δὲ αὐτῇ παιδίσκη Αἰγυπτία ᾗ ὄνομα Ἁγάρ . 2 εἶπεν δὲ Σάρα πρὸς Ἀβράμ ἰδοὺ συνέκλεισέν με Κύριος τοῦ μὴ τίκτειν · εἴσελθε οὖν πρὸς τὴν παιδίσκην μου , ἴνα τεκνοποιήσεις ἐξ αὐτῆς . ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς . 3 καὶ λαβοῦσα Σάρα ἡ γυνὴ Ἀβρὰμ Ἁγὰρ τὴν Αἰγυπτίαν τὴν ἑαυτῆς παιδίσκην , μετὰ δέκα ἔτη τοῦ οἰκῆσαι Ἀβρὰμ ἐν γῇ Χανάαν , καὶ ἔδωκεν αὐτὴν τῷ Ἀβρὰμ ἀνδρὶ αὐτῆς αὐτῷ γυναῖκα . 4 καὶ εἰσῆλθεν πρὸς Ἁγάρ , καὶ συνέλαβεν · καὶ ἴδεν ὅτι ἐν γαστρὶ ὦι , καὶ ἡ κυρία ἐναντίον αὐτῆς . 5 εἶπεν δὲ Σάρα πρὸς Ἀβράμ Ἀδικοῦμαι ἐκ σοῦ · ἐγὼ δέδωκα τὴν παιδίσκην μου εἰς τὸν κόλπον σου · ἰδοῦσα δὲ ὄτι ἐν γαατρὶ ὦι , ἠτιμάσθην ἐναντίον αὐτῆς . κρίναι ὁ θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ . 6 εἶπεν δὲ Ἀβρὰμ πρὸς Σάραν Ἴδου ἡ παιδίσκη ¶ Α σου ἐναντίον ¶ σου · χρῶ αὐτῇ ὡς δ ’ ἄν σοι ἀρεστὸν ᾖ . καὶ ἐκάκωσεν αὐτὴν Σάρα , καὶ ἀπέδρα ἀπὸ προσώπου αὐτῆς . 7 εὗρεν δὲ αὐτὴν ἄἡλος κυρίου τοῦ θεοῦ ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ , ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σούρ . 8 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Ἅγαρ παιδίσκη Σάρας , πόθεν ἔρχῃ ; καὶ ποῦ πορεύῃ ; καὶ εἶπεν Ἀπὸ προσώπου Σάραςτῆς κυρίας μου ἐγὼ ἀποδιδράσκω . 9 εἶπεν δὲ αὐτῇ ὁ ἄγγελος κυρίου Ἀποστράφηθι πρὸς τὴν κυρίαν σου καὶ ταπεινώθητι ὑπὸ τὰς § Α χεῖρας αὐτῆς . § 10 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου πληθύνων πληθυνῶ τὸ σπέρμα σου , καὶ οὐκ ἀριθμήσεται ἀπὸ τοῦ πλήθους . 11 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου ἰδοὺ σὺ ἐν γαστρὶ ἔχεις , καὶ τέξῃ υἱόν , καὶ κολέσεις τὸ ὄνομα α",
-     "source": "https://www.theancientbible.org/genesis-lxx-16/",
-     "result": "agree (draft-Greek vs witness word-check pass)"
+     "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
     }
    }
   },
@@ -15653,8 +15746,27 @@
   },
   {
    "id": "GEN.16.10",
-   "ref": "GEN 16 10",
+   "ref": "Genesis 16:10",
    "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1443,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”"
+     ],
+     "status": "confirmed",
+     "note": "Same seat as Wave 4 (COS-07); re-seated in the re-read.",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    },
     {
      "section": "COS-07",
      "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
@@ -15675,6 +15787,10 @@
    ],
    "verified": "2026-11-11",
    "translations": {
+    "nets": {
+     "text": "The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
     "gnv": {
      "text": "Again the Angel of the Lord said unto her, I will so greatly increase thy seed, that it shall not be numbered for multitude.",
      "source": "https://ebible.org/enggnv/GEN16.htm"
@@ -15682,25 +15798,35 @@
    },
    "second_check": {
     "nets": {
-     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
-     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    },
-    "greek_rahlfs": {
-     "text": "καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Πληθύνων πληθυνῶ τὸ σπέρμα σου, καὶ οὐκ ἀριθμηθήσεται ἀπὸ τοῦ πλήθους.",
-     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
-     "result": "agree (draft-Greek vs witness word-check pass)"
-    },
-    "greek_swete": {
-     "text": "39;s Septuagint &middot; every word parsed 1 Σάρα δὲ ἡ γυνὴ Ἀβρὰμ οὐκ ἔτικτεν αὐτῷ ἦν δὲ αὐτῇ παιδίσκη Αἰγυπτία ᾗ ὄνομα Ἁγάρ . 2 εἶπεν δὲ Σάρα πρὸς Ἀβράμ ἰδοὺ συνέκλεισέν με Κύριος τοῦ μὴ τίκτειν · εἴσελθε οὖν πρὸς τὴν παιδίσκην μου , ἴνα τεκνοποιήσεις ἐξ αὐτῆς . ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς . 3 καὶ λαβοῦσα Σάρα ἡ γυνὴ Ἀβρὰμ Ἁγὰρ τὴν Αἰγυπτίαν τὴν ἑαυτῆς παιδίσκην , μετὰ δέκα ἔτη τοῦ οἰκῆσαι Ἀβρὰμ ἐν γῇ Χανάαν , καὶ ἔδωκεν αὐτὴν τῷ Ἀβρὰμ ἀνδρὶ αὐτῆς αὐτῷ γυναῖκα . 4 καὶ εἰσῆλθεν πρὸς Ἁγάρ , καὶ συνέλαβεν · καὶ ἴδεν ὅτι ἐν γαστρὶ ὦι , καὶ ἡ κυρία ἐναντίον αὐτῆς . 5 εἶπεν δὲ Σάρα πρὸς Ἀβράμ Ἀδικοῦμαι ἐκ σοῦ · ἐγὼ δέδωκα τὴν παιδίσκην μου εἰς τὸν κόλπον σου · ἰδοῦσα δὲ ὄτι ἐν γαατρὶ ὦι , ἠτιμάσθην ἐναντίον αὐτῆς . κρίναι ὁ θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ . 6 εἶπεν δὲ Ἀβρὰμ πρὸς Σάραν Ἴδου ἡ παιδίσκη ¶ Α σου ἐναντίον ¶ σου · χρῶ αὐτῇ ὡς δ ’ ἄν σοι ἀρεστὸν ᾖ . καὶ ἐκάκωσεν αὐτὴν Σάρα , καὶ ἀπέδρα ἀπὸ προσώπου αὐτῆς . 7 εὗρεν δὲ αὐτὴν ἄἡλος κυρίου τοῦ θεοῦ ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ , ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σούρ . 8 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Ἅγαρ παιδίσκη Σάρας , πόθεν ἔρχῃ ; καὶ ποῦ πορεύῃ ; καὶ εἶπεν Ἀπὸ προσώπου Σάραςτῆς κυρίας μου ἐγὼ ἀποδιδράσκω . 9 εἶπεν δὲ αὐτῇ ὁ ἄγγελος κυρίου Ἀποστράφηθι πρὸς τὴν κυρίαν σου καὶ ταπεινώθητι ὑπὸ τὰς § Α χεῖρας αὐτῆς . § 10 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου πληθύνων πληθυνῶ τὸ σπέρμα σου , καὶ οὐκ ἀριθμήσεται ἀπὸ τοῦ πλήθους . 11 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου ἰδοὺ σὺ ἐν γαστρὶ ἔχεις , καὶ τέξῃ υἱόν , καὶ κολέσεις τὸ ὄνομα α",
-     "source": "https://www.theancientbible.org/genesis-lxx-16/",
-     "result": "agree (draft-Greek vs witness word-check pass)"
+     "text": "The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
     }
    }
   },
   {
    "id": "GEN.16.13",
-   "ref": "GEN 16 13",
+   "ref": "Genesis 16:13",
    "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1449,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …"
+     ],
+     "status": "confirmed",
+     "note": "Seat cut at the compound name …\" per the draft ellipsis (the She-sees clause of the verse follows the ellipsis).",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    },
     {
      "section": "COS-07",
      "section_label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)",
@@ -15721,6 +15847,10 @@
    ],
    "verified": "2026-11-11",
    "translations": {
+    "nets": {
+     "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
     "gnv": {
      "text": "Then she called the name of the Lord, that spake unto her, Thou God lookest on me: for she said, Have I not also here looked after him that seeth me?",
      "source": "https://ebible.org/enggnv/GEN16.htm"
@@ -15728,25 +15858,35 @@
    },
    "second_check": {
     "nets": {
-     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
-     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    },
-    "greek_rahlfs": {
-     "text": "καὶ ἐκάλεσεν Αγαρ τὸ ὄνομα κυρίου τοῦ λαλοῦντος πρὸς αὐτήν Σὺ ὁ θεὸς ὁ ἐπιδών με· ὅτι εἶπεν Καὶ γὰρ ἐνώπιον εἶδον ὀφθέντα μοι.",
-     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
-     "result": "agree (draft-Greek vs witness word-check pass)"
-    },
-    "greek_swete": {
-     "text": "39;s Septuagint &middot; every word parsed 1 Σάρα δὲ ἡ γυνὴ Ἀβρὰμ οὐκ ἔτικτεν αὐτῷ ἦν δὲ αὐτῇ παιδίσκη Αἰγυπτία ᾗ ὄνομα Ἁγάρ . 2 εἶπεν δὲ Σάρα πρὸς Ἀβράμ ἰδοὺ συνέκλεισέν με Κύριος τοῦ μὴ τίκτειν · εἴσελθε οὖν πρὸς τὴν παιδίσκην μου , ἴνα τεκνοποιήσεις ἐξ αὐτῆς . ὑπήκουσεν δὲ Ἀβρὰμ τῆς φωνῆς αὐτῆς . 3 καὶ λαβοῦσα Σάρα ἡ γυνὴ Ἀβρὰμ Ἁγὰρ τὴν Αἰγυπτίαν τὴν ἑαυτῆς παιδίσκην , μετὰ δέκα ἔτη τοῦ οἰκῆσαι Ἀβρὰμ ἐν γῇ Χανάαν , καὶ ἔδωκεν αὐτὴν τῷ Ἀβρὰμ ἀνδρὶ αὐτῆς αὐτῷ γυναῖκα . 4 καὶ εἰσῆλθεν πρὸς Ἁγάρ , καὶ συνέλαβεν · καὶ ἴδεν ὅτι ἐν γαστρὶ ὦι , καὶ ἡ κυρία ἐναντίον αὐτῆς . 5 εἶπεν δὲ Σάρα πρὸς Ἀβράμ Ἀδικοῦμαι ἐκ σοῦ · ἐγὼ δέδωκα τὴν παιδίσκην μου εἰς τὸν κόλπον σου · ἰδοῦσα δὲ ὄτι ἐν γαατρὶ ὦι , ἠτιμάσθην ἐναντίον αὐτῆς . κρίναι ὁ θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ . 6 εἶπεν δὲ Ἀβρὰμ πρὸς Σάραν Ἴδου ἡ παιδίσκη ¶ Α σου ἐναντίον ¶ σου · χρῶ αὐτῇ ὡς δ ’ ἄν σοι ἀρεστὸν ᾖ . καὶ ἐκάκωσεν αὐτὴν Σάρα , καὶ ἀπέδρα ἀπὸ προσώπου αὐτῆς . 7 εὗρεν δὲ αὐτὴν ἄἡλος κυρίου τοῦ θεοῦ ἐπὶ τῆς πηγῆς τοῦ ὕδατος ἐν τῇ ἐρήμῳ , ἐπὶ τῆς πηγῆς ἐν τῇ ὁδῷ Σούρ . 8 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου Ἅγαρ παιδίσκη Σάρας , πόθεν ἔρχῃ ; καὶ ποῦ πορεύῃ ; καὶ εἶπεν Ἀπὸ προσώπου Σάραςτῆς κυρίας μου ἐγὼ ἀποδιδράσκω . 9 εἶπεν δὲ αὐτῇ ὁ ἄγγελος κυρίου Ἀποστράφηθι πρὸς τὴν κυρίαν σου καὶ ταπεινώθητι ὑπὸ τὰς § Α χεῖρας αὐτῆς . § 10 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου πληθύνων πληθυνῶ τὸ σπέρμα σου , καὶ οὐκ ἀριθμήσεται ἀπὸ τοῦ πλήθους . 11 καὶ εἶπεν αὐτῇ ὁ ἄγγελος κυρίου ἰδοὺ σὺ ἐν γαστρὶ ἔχεις , καὶ τέξῃ υἱόν , καὶ κολέσεις τὸ ὄνομα α",
-     "source": "https://www.theancientbible.org/genesis-lxx-16/",
-     "result": "agree (draft-Greek vs witness word-check pass)"
+     "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
     }
    }
   },
   {
    "id": "GEN.22.11",
-   "ref": "GEN 22 11",
+   "ref": "Genesis 22:11",
    "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1471,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son."
+     ],
+     "status": "confirmed",
+     "note": "One seat spans 22:11-12; draft ellipsis covers the summons and the \"Do not lay your hand\" half of v12.",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    },
     {
      "section": "COS-08",
      "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
@@ -15767,6 +15907,10 @@
    ],
    "verified": "2026-11-11",
    "translations": {
+    "nets": {
+     "text": "And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
     "gnv": {
      "text": "But the Angel of the Lord called unto him from heaven, saying, Abraham, Abraham. And he answered, Here am I.",
      "source": "https://ebible.org/enggnv/GEN22.htm"
@@ -15774,25 +15918,35 @@
    },
    "second_check": {
     "nets": {
-     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
-     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    },
-    "greek_rahlfs": {
-     "text": "καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Αβρααμ, Αβρααμ. ὁ δὲ εἶπεν Ἰδοὺ ἐγώ. καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον μηδὲ ποιήσῃς αὐτῷ μηδέν· νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σὺ καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι’ ἐμέ.",
-     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
-     "result": "agree (draft-Greek vs witness word-check pass)"
-    },
-    "greek_swete": {
-     "text": "ν αὐτοῦ . 11 καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Ἀβραὰμ Ἀβραάμ . ὁ δὲ εἶπεν ἰδοὺ ἐγώ . 12 καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον , μηδὲ ποιήσης αὐτῷ μηδέν · νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σύ , καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ . 13 καὶ ἀναβλέψας Ἀβραὰμ τοῖς ὀφθαλμοῖς αὐτοῦ ἴδεν , καὶ ἰδοὺ κριὸς εἷς κατεχόμενος ἐν φυτῷ σαβὲκ τῶν κεράτων . καὶ ἐπορεύθη Ἀβραὰμ καὶ ἔλαβεν τὸν κριόν , καὶ ἀνήνεγκεν αὐτὸν εἰς ὁλοκάρπωσιν ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ . 14 καὶ ἐκάλεσεν Ἀβραὰμ τὸ ὄνομα τοῦ τόπου ἐκείνου κύριος ἴδεν · ἵνα εἴπωσιν σήμερον Ἐν τῷ ὄρει κύριος ὤφθη . 15 καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Ἀβραὰμ τερον ἐκ τοῦ οὐρανοῦ λέγων 16 Κατ᾿ ἐμαυτοῦ ὤμοσα , λέγει κύριος , οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ , 17 εἰ μὴν μὴν εὐλογῶν εὐλογήσω σε , καὶ πλῆ πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης · καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων . 18 καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματι ¶ σου πάντα τὰ ἔθνη , ἀνθ ’ ὦν ὑπήκουσας τῆς ἐμῆς φωνῆς . 19 ἀπεστράφη δὲ Ἀβραὰμ πρὸς τοὺς παῖδας αὐτοῦ , καὶ ἀναστάντες ἐπορεύθησαν ἐπὶ τὸ φρέαρ τοῦ ὅρκου · καὶ κατῴκησεν Ἀβραὰμ ἐπὶ τῷ φρέατι τοῦ ὅρκου . 20 Ἐγένετο δὲ μετὰ τὰ ῥήματα ταῦτα καὶ ἀνηηέλη τῷ Ἀβραὰμ λέγοντες Ἰδοὺ τέτοκεν Μελχὰ καὶ αὐτὴ υἱοὺς Ναχώρ τῷ ἀδελφῷ σου , 21 τὸν Ὢξ πρωτότοκον καὶ τὸν Βαὺξ ἀδελφὸν αὐτοῦ , καὶ τὸν Καμουὴλ πατέρα Σύρων , § 22 καὶ τὸν Χάσζαδ καὶ τὸν Ἁζαῦ καὶ τὸν φαλδὰ",
-     "source": "https://www.theancientbible.org/genesis-lxx-22/",
-     "result": "agree (draft-Greek vs witness word-check pass)"
+     "text": "And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
     }
    }
   },
   {
    "id": "GEN.22.12",
-   "ref": "GEN 22 12",
+   "ref": "Genesis 22:12",
    "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1471,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son."
+     ],
+     "status": "confirmed",
+     "note": "Same group seat as 22:11; the draft quotes v12 from \"for now I know\" through \"for my sake (δι᾽ ἐμέ)\".",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    },
     {
      "section": "COS-08",
      "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
@@ -15813,6 +15967,10 @@
    ],
    "verified": "2026-11-11",
    "translations": {
+    "nets": {
+     "text": "And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
     "gnv": {
      "text": "Then he said, Lay not thine hand upon the child, neither do any thing unto him: for now I know that thou fearest God, seeing for my sake thou hast not spared thine only son.",
      "source": "https://ebible.org/enggnv/GEN22.htm"
@@ -15820,15 +15978,35 @@
    },
    "second_check": {
     "nets": {
-     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
-     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+     "text": "And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
     }
    }
   },
   {
    "id": "GEN.22.15",
-   "ref": "GEN 22 15",
+   "ref": "Genesis 22:15",
    "uses": [
+    {
+     "section": "COS-16",
+     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
+     "article_line": 1475,
+     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
+     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
+     "quotes": [
+      "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …”"
+     ],
+     "status": "confirmed",
+     "note": "One seat spans 22:15-16 head; the draft quotes through λέγει Κύριος (\"says the Lord:\"). The oath-body (v16) and blessing (v17-18) sit under the ellipsis — the full seat is Wave 4 (COS-08).",
+     "matched_source": "nets",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …”",
+      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
+     }
+    },
     {
      "section": "COS-08",
      "section_label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)",
@@ -15849,6 +16027,10 @@
    ],
    "verified": "2026-11-11",
    "translations": {
+    "nets": {
+     "text": "And the Lord’s angel called Abraam a second time from the sky, saying,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    },
     "gnv": {
      "text": "And the Angel of the Lord cried unto Abraham from heaven the second time,",
      "source": "https://ebible.org/enggnv/GEN22.htm"
@@ -15856,18 +16038,9 @@
    },
    "second_check": {
     "nets": {
-     "result": "agree (NETS Genesis renders Rahlfs; draft-Greek vs Rahlfs+Swete word-check pass)",
-     "url": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    },
-    "greek_rahlfs": {
-     "text": "καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Αβρααμ δεύτερον ἐκ τοῦ οὐρανοῦ λέγων Κατ’ ἐμαυτοῦ ὤμοσα, λέγει κύριος, οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι’ ἐμέ, ἦ μὴν εὐλογῶν εὐλογήσω σε καὶ πληθύνων πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν ἄμμον τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης, καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων·",
-     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
-     "result": "agree (draft-Greek vs witness word-check pass)"
-    },
-    "greek_swete": {
-     "text": "ν αὐτοῦ . 11 καὶ ἐκάλεσεν αὐτὸν ἄγγελος κυρίου ἐκ τοῦ οὐρανοῦ καὶ εἶπεν αὐτῷ Ἀβραὰμ Ἀβραάμ . ὁ δὲ εἶπεν ἰδοὺ ἐγώ . 12 καὶ εἶπεν Μὴ ἐπιβάλῃς τὴν χεῖρά σου ἐπὶ τὸ παιδάριον , μηδὲ ποιήσης αὐτῷ μηδέν · νῦν γὰρ ἔγνων ὅτι φοβῇ τὸν θεὸν σύ , καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ . 13 καὶ ἀναβλέψας Ἀβραὰμ τοῖς ὀφθαλμοῖς αὐτοῦ ἴδεν , καὶ ἰδοὺ κριὸς εἷς κατεχόμενος ἐν φυτῷ σαβὲκ τῶν κεράτων . καὶ ἐπορεύθη Ἀβραὰμ καὶ ἔλαβεν τὸν κριόν , καὶ ἀνήνεγκεν αὐτὸν εἰς ὁλοκάρπωσιν ἀντὶ Ἰσαὰκ τοῦ υἱοῦ αὐτοῦ . 14 καὶ ἐκάλεσεν Ἀβραὰμ τὸ ὄνομα τοῦ τόπου ἐκείνου κύριος ἴδεν · ἵνα εἴπωσιν σήμερον Ἐν τῷ ὄρει κύριος ὤφθη . 15 καὶ ἐκάλεσεν ἄγγελος κυρίου τὸν Ἀβραὰμ τερον ἐκ τοῦ οὐρανοῦ λέγων 16 Κατ᾿ ἐμαυτοῦ ὤμοσα , λέγει κύριος , οὗ εἵνεκεν ἐποίησας τὸ ῥῆμα τοῦτο καὶ οὐκ ἐφείσω τοῦ υἱοῦ σου τοῦ ἀγαπητοῦ δι ’ ἐμέ , 17 εἰ μὴν μὴν εὐλογῶν εὐλογήσω σε , καὶ πλῆ πληθυνῶ τὸ σπέρμα σου ὡς τοὺς ἀστέρας τοῦ οὐρανοῦ καὶ ὡς τὴν τὴν παρὰ τὸ χεῖλος τῆς θαλάσσης · καὶ κληρονομήσει τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων . 18 καὶ ἐνευλογηθήσονται ἐν τῷ σπέρματι ¶ σου πάντα τὰ ἔθνη , ἀνθ ’ ὦν ὑπήκουσας τῆς ἐμῆς φωνῆς . 19 ἀπεστράφη δὲ Ἀβραὰμ πρὸς τοὺς παῖδας αὐτοῦ , καὶ ἀναστάντες ἐπορεύθησαν ἐπὶ τὸ φρέαρ τοῦ ὅρκου · καὶ κατῴκησεν Ἀβραὰμ ἐπὶ τῷ φρέατι τοῦ ὅρκου . 20 Ἐγένετο δὲ μετὰ τὰ ῥήματα ταῦτα καὶ ἀνηηέλη τῷ Ἀβραὰμ λέγοντες Ἰδοὺ τέτοκεν Μελχὰ καὶ αὐτὴ υἱοὺς Ναχώρ τῷ ἀδελφῷ σου , 21 τὸν Ὢξ πρωτότοκον καὶ τὸν Βαὺξ ἀδελφὸν αὐτοῦ , καὶ τὸν Καμουὴλ πατέρα Σύρων , § 22 καὶ τὸν Χάσζαδ καὶ τὸν Ἁζαῦ καὶ τὸν φαλδὰ",
-     "source": "https://www.theancientbible.org/genesis-lxx-22/",
-     "result": "agree (draft-Greek vs witness word-check pass)"
+     "text": "And the Lord’s angel called Abraam a second time from the sky, saying,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
+     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
     }
    }
   },
@@ -17138,240 +17311,6 @@
    }
   },
   {
-   "id": "GEN.16.7",
-   "ref": "Genesis 16:7",
-   "uses": [
-    {
-     "section": "COS-16",
-     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
-     "article_line": 1437,
-     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
-     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
-     "quotes": [
-      "But the Lord God’s angel found her by the spring of water in the wilderness …"
-     ],
-     "status": "confirmed",
-     "note": "Draft Greek = Rahlfs verbatim (checked Wave 4). Seat cut at \"wilderness …\" per the draft ellipsis.",
-     "matched_source": "nets",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "nets",
-      "text": "But the Lord God’s angel found her by the spring of water in the wilderness …",
-      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "nets": {
-     "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    }
-   },
-   "second_check": {
-    "nets": {
-     "text": "But the Lord God’s angel found her by the spring of water in the wilderness, by the spring on the way to Sour.",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
-     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
-    }
-   }
-  },
-  {
-   "id": "GEN.16.10",
-   "ref": "Genesis 16:10",
-   "uses": [
-    {
-     "section": "COS-16",
-     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
-     "article_line": 1443,
-     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
-     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
-     "quotes": [
-      "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”"
-     ],
-     "status": "confirmed",
-     "note": "Same seat as Wave 4 (COS-07); re-seated in the re-read.",
-     "matched_source": "nets",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "nets",
-      "text": "The angel of the Lord also said to her, “I will multitudinously *(greatly)* multiply your offspring, and it will not be counted for multitude.”",
-      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "nets": {
-     "text": "The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    }
-   },
-   "second_check": {
-    "nets": {
-     "text": "The angel of the Lord also said to her, “I will multitudinously multiply your offspring, and it will not be counted for multitude.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
-     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
-    }
-   }
-  },
-  {
-   "id": "GEN.16.13",
-   "ref": "Genesis 16:13",
-   "uses": [
-    {
-     "section": "COS-16",
-     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
-     "article_line": 1449,
-     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
-     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
-     "quotes": [
-      "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …"
-     ],
-     "status": "confirmed",
-     "note": "Seat cut at the compound name …\" per the draft ellipsis (the She-sees clause of the verse follows the ellipsis).",
-     "matched_source": "nets",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "nets",
-      "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me *(You are the God who sees me)*” …",
-      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "nets": {
-     "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    }
-   },
-   "second_check": {
-    "nets": {
-     "text": "And Hagar called the name of the Lord who was speaking to her, “You-are-the-God-who-looksupon-me,” because she said, “For truly I saw him face to face when he appeared to me.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
-     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
-    }
-   }
-  },
-  {
-   "id": "GEN.22.11",
-   "ref": "Genesis 22:11",
-   "uses": [
-    {
-     "section": "COS-16",
-     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
-     "article_line": 1471,
-     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
-     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
-     "quotes": [
-      "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son."
-     ],
-     "status": "confirmed",
-     "note": "One seat spans 22:11-12; draft ellipsis covers the summons and the \"Do not lay your hand\" half of v12.",
-     "matched_source": "nets",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "nets",
-      "text": "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.",
-      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "nets": {
-     "text": "And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    }
-   },
-   "second_check": {
-    "nets": {
-     "text": "And the Lord’s angel called him from the sky and said to him, “Abraam, Abraam!” And he said, “Here I am.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
-     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
-    }
-   }
-  },
-  {
-   "id": "GEN.22.12",
-   "ref": "Genesis 22:12",
-   "uses": [
-    {
-     "section": "COS-16",
-     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
-     "article_line": 1471,
-     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
-     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
-     "quotes": [
-      "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son."
-     ],
-     "status": "confirmed",
-     "note": "Same group seat as 22:11; the draft quotes v12 from \"for now I know\" through \"for my sake (δι᾽ ἐμέ)\".",
-     "matched_source": "nets",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "nets",
-      "text": "And the Lord’s angel called him from the sky *(heaven) … for now I know that you do fear God, and for my sake you have not spared your beloved son.",
-      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "nets": {
-     "text": "And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    }
-   },
-   "second_check": {
-    "nets": {
-     "text": "And he said, “Do not lay your hand on the youngster nor do anything to him. For now I know that you do fear God, and for my sake you have not spared your beloved son.”",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
-     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
-    }
-   }
-  },
-  {
-   "id": "GEN.22.15",
-   "ref": "Genesis 22:15",
-   "uses": [
-    {
-     "section": "COS-16",
-     "section_label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read",
-     "article_line": 1475,
-     "cited_as": "LXX Greek + \"1599 Geneva\" label in draft (book seat: NETS)",
-     "quote_kind": "greek+geneva rows in draft (book seat: NETS OT; LXX numbering = MT here)",
-     "quotes": [
-      "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …”"
-     ],
-     "status": "confirmed",
-     "note": "One seat spans 22:15-16 head; the draft quotes through λέγει Κύριος (\"says the Lord:\"). The oath-body (v16) and blessing (v17-18) sit under the ellipsis — the full seat is Wave 4 (COS-08).",
-     "matched_source": "nets",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "nets",
-      "text": "And the Lord’s angel called Abraam *(Abraham)* a second time from the sky *(heaven)*, saying, “By myself I have sworn,says the Lord: …”",
-      "reason": "Standing rule: OT seats NETS verbatim; draft LXX/Geneva rows drop per approved seat shape."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "nets": {
-     "text": "And the Lord’s angel called Abraam a second time from the sky, saying,",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
-    }
-   },
-   "second_check": {
-    "nets": {
-     "text": "And the Lord’s angel called Abraam a second time from the sky, saying,",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf",
-     "result": "NETS cache text equals the Wave-4 COS seats already double-checked (Rahlfs/Swete concurrence; seat cut gloss-stripped and compared to cache)"
-    }
-   }
-  },
-  {
    "id": "NUM.20.8",
    "ref": "Numbers 20:8",
    "uses": [
@@ -17758,50 +17697,6 @@
     "greek_biblehub": {
      "text": "",
      "source": "https://biblehub.com/text/1_corinthians/1-23.htm",
-     "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
-    }
-   }
-  },
-  {
-   "id": "1CO.1.24",
-   "ref": "1 Corinthians 1:24",
-   "uses": [
-    {
-     "section": "COS-17",
-     "section_label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn",
-     "article_line": 1536,
-     "cited_as": "no translation label in draft; work spec: Geneva 1599 NT",
-     "quote_kind": "greek+geneva rows in draft (book seat: Geneva 1599)",
-     "quotes": [
-      "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God."
-     ],
-     "status": "confirmed",
-     "note": "Seat spans vv 22-24 (one blockquote). Draft Greek 100% vs BibleHub. (v24 history: coded row 1CO 1 24 carries the Wave-3 1:24,30 seat.)",
-     "matched_source": "gnv",
-     "adjudication": {
-      "ruling": "seat",
-      "version": "gnv",
-      "text": "Seeing also that the Jews require a signe, and the Grecians seeke after wisdome. But wee preach Christ crucified: unto the Jews, euen a stumbling block, and unto the Grecians, foolishness: But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God.",
-      "reason": "Standing rule: NT Geneva 1599 seats verbatim (Wave 3-7 modernized-orthography seat practice; eBible/TRB fetch verified). Group seat 1 Corinthians 1:22-24."
-     }
-    }
-   ],
-   "verified": "2026-11-11",
-   "translations": {
-    "gnv": {
-     "text": "But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.",
-     "source": "https://ebible.org/enggnv/1CO01.htm"
-    }
-   },
-   "second_check": {
-    "trb": {
-     "text": "But vnto them which are called, both of the Iewes and Grecians, we preach Christ, the power of God, and the wisedome of God.",
-     "source": "https://www.textusreceptusbibles.com/Geneva/46/1",
-     "result": "eBible=TRB word-for-word (ratio 1.00)"
-    },
-    "greek_biblehub": {
-     "text": "",
-     "source": "https://biblehub.com/text/1_corinthians/1-24.htm",
      "result": "Draft Greek word-for-word vs BibleHub (Nestle/WH) — see row note"
     }
    }
@@ -19992,6 +19887,18 @@
       "text": "For Christ is not entered into the holy places that are made",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4603,
+     "cited_as": "mention (two-fulfillments note)",
+     "quotes": [
+      "He shall appear a second time, without sin, unto salvation"
+     ],
+     "status": "prose-ref",
+     "note": "Draft paraphrase is KJV/Geneva-voiced (“shall he appear the second time without sin unto salvation” Geneva); propose italic version-name — flagged.",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -20196,6 +20103,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4621,
+     "cited_as": "mention (wounds cross-ref in the 13:6 observation)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -20230,6 +20146,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4621,
+     "cited_as": "mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -20264,6 +20189,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4621,
+     "cited_as": "mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -23799,6 +23733,15 @@
      ],
      "status": "differs-minor",
      "note": "1.9 GNV seat — Draft reads \"whom they have pierced\"; eBible==TRB print \"whom they haue thrust through\" (exekentesan) — seat keeps the edition's words. BibleHub /text/ JHN 19:37 Greek exact."
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4581,
+     "cited_as": "1.9 cross-witness seat re-presented in the (B)-arc block",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -23846,6 +23789,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4588,
+     "cited_as": "cross-witness seat re-presented",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24354,6 +24306,15 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block wording diverged from the Geneva ('but'→'save'); the seat prints the Geneva verbatim."
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4693,
+     "cited_as": "mention (Father’s appointed time)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24830,6 +24791,15 @@
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4693,
+     "cited_as": "mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -26126,6 +26096,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4669,
+     "cited_as": "mention (Mount of Olives return binding)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29433,6 +29412,547 @@
     }
    ],
    "verified": "2026-11-11"
+  },
+  {
+   "id": "ZEC.12.1",
+   "ref": "Zechariah 12:1",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4539,
+     "cited_as": "seat (12:1-3 group), NETS verbatim",
+     "quotes": [
+      "An issue of the Lord’s word regarding Israel. The Lord, as he stretches out heaven and founds earth and forms the human spirit with-in, says:"
+     ],
+     "status": "confirmed",
+     "note": "NETS print verbatim from the wave-21 page dump; the NETS cache 12.1 had the chapter-boundary head cut/glued to the ch-11 tail — repaired from the print (cache tail == print asserted).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "An issue of the Lord’s word regarding Israel. The Lord, as he stretches out heaven and founds earth and forms the human spirit with-in, says:",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 12.1 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "The burden of the worde of the Lord vpon Israel, sayth the Lord, which spred the heauens, and layed the foundation of the earth, and formed the spirite of man within him.",
+     "source": "https://ebible.org/enggnv/ZEC12.htm"
+    },
+    "greek_rahlfs": {
+     "text": "Λῆμμα λόγου Κυρίου ἐπὶ τὸν Ἰσραήλ Λέγει Κύριος ἐκτείνων οὐρανόν καὶ θεμελιῶν γῆν καὶ πλάσσων πνεῦμα ἀνθρώπου ἐν αὐτῷ Ἰδοὺ ἐγὼ τίθημι τὴν Ἰερουσαλὴμ ὡς πρόθυρα σαλευόμενα πᾶσι τοῖς λαοῖς κύκλῳ καὶ ἐν τῇ Ἰουδαίᾳ ἔσται περιοχὴ ἐπὶ Ἰερουσαλήμ Ἱερουσαλήμ καταπατέω παντοκράτωρ πατάσσω ἵππος δέ χιλίαρχος θεός πῦρ ἐκ μεγαλύνω λῆμμα λόγος Ἰσραήλ ἐκτείνω οὐρανός θεμέλιος πλάσσω πνεῦμα spirit/breath: ἄνθρωπος ἰδού πρόθυρον σαλεύω κύκλῳ Ἰουδαία περιοχή λίθος ἐμπαίζω ἐπισυνάγω ἔκστασις ἀναβάτης παραφρονέω διανοίγω ὀφθαλμός καρδία εὑρίσκω find/meet δαλός ξύλον λαμπάς καλάμη straw/stubble δεξιός εὐώνυμος left/south κυκλόθεν ἔτι σῴζω σκήνωμα καθώς as/just ἀπό ἀρχή ὅπως μή καύχημα ἔπαρσις ὑπερασπίζω ὑπέρ above/for ἀσθενέω ἄγγελος ἐνώπιον ζητέω ἐξαίρω ἔρχομαι come/go ἐκχέω χάρις οἰκτιρμός ἐπιβλέπω upon/at πρός to/with ἀντί ὅς κόπτω cut/mourn ἀγαπητός ὀδύνη πρωτότοκος πεδίον ἐκκόπτω Ναθάν Λευΐ Συμεών &copy; | &lsaquo; καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ θήσομαι τὴν Ἰερουσαλὴμ λίθον καταπατούμενον πᾶσιν τοῖς ἔθνεσιν · πᾶς ὁ καταπατῶν αὐτὴν ἐμπαίζων ἐμπαίξεται καὶ ἐπισυναχθήσεται ἐπʼ αὐτὴν πάντα τὰ ἔθνη τῆς γῆς ἐγώ I/we τίθημι λαός ἔθνος κοπετός λέγω",
+     "source": "https://www.theancientbible.org/zechariah-lxx-12/",
+     "result": "draft 12:1-3 Greek 38 tok, Swete/Rahlfs overlap 38/38 (1.00) — draft Rahlfs-verbatim (token-level)"
+    }
+   }
+  },
+  {
+   "id": "ZEC.12.2",
+   "ref": "Zechariah 12:2",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4539,
+     "cited_as": "seat (12:1-3 group), NETS verbatim",
+     "quotes": [
+      "Behold, I set Ierousalem as shaking doorways for all the peoples round about, and in Judea there will be a siege against Ierousalem."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Behold, I set Ierousalem as shaking doorways for all the peoples round about, and in Judea there will be a siege against Ierousalem.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 12.2 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "Beholde, I will make Ierusalem a cuppe of poyson vnto all the people round about: and also with Iudah will he be, in ye siege against Ierusalem.",
+     "source": "https://ebible.org/enggnv/ZEC12.htm"
+    },
+    "greek_rahlfs": {
+     "text": "Ἰδοὺ ἐγὼ τίθημι τὴν Ἰερουσαλὴμ ὡς πρόθυρα σαλευόμενα πᾶσι τοῖς λαοῖς κύκλῳ καὶ ἐν τῇ Ἰουδαίᾳ ἔσται περιοχὴ ἐπὶ Ἰερουσαλήμ Ἱερουσαλήμ καταπατέω παντοκράτωρ πατάσσω ἵππος δέ χιλίαρχος θεός πῦρ ἐκ μεγαλύνω λῆμμα λόγος Ἰσραήλ ἐκτείνω οὐρανός θεμέλιος πλάσσω πνεῦμα spirit/breath: ἄνθρωπος ἰδού πρόθυρον σαλεύω κύκλῳ Ἰουδαία περιοχή λίθος ἐμπαίζω ἐπισυνάγω ἔκστασις ἀναβάτης παραφρονέω διανοίγω ὀφθαλμός καρδία εὑρίσκω find/meet δαλός ξύλον λαμπάς καλάμη straw/stubble δεξιός εὐώνυμος left/south κυκλόθεν ἔτι σῴζω σκήνωμα καθώς as/just ἀπό ἀρχή ὅπως μή καύχημα ἔπαρσις ὑπερασπίζω ὑπέρ above/for ἀσθενέω ἄγγελος ἐνώπιον ζητέω ἐξαίρω ἔρχομαι come/go ἐκχέω χάρις οἰκτιρμός ἐπιβλέπω upon/at πρός to/with ἀντί ὅς κόπτω cut/mourn ἀγαπητός ὀδύνη πρωτότοκος πεδίον ἐκκόπτω Ναθάν Λευΐ Συμεών &copy; | &lsaquo;",
+     "source": "https://www.theancientbible.org/zechariah-lxx-12/",
+     "result": "substance confirmed"
+    }
+   }
+  },
+  {
+   "id": "ZEC.12.3",
+   "ref": "Zechariah 12:3",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4539,
+     "cited_as": "seat (12:1-3 group), NETS verbatim",
+     "quotes": [
+      "And it shall be on that day, I will make Ierousalem a trampled stone for all the nations; everyone who tramples it when mocking shall mock. And all the nations of the earth shall be gathered against it."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And it shall be on that day, I will make Ierousalem a trampled stone for all the nations; everyone who tramples it when mocking shall mock. And all the nations of the earth shall be gathered against it.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 12.3 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "And in that day will I make Ierusalem an heauie stone for all people: all that lift it vp, shall be torne, though all the people of the earth be gathered together against it.",
+     "source": "https://ebible.org/enggnv/ZEC12.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ θήσομαι τὴν Ἰερουσαλὴμ λίθον καταπατούμενον πᾶσιν τοῖς ἔθνεσιν · πᾶς ὁ καταπατῶν αὐτὴν ἐμπαίζων ἐμπαίξεται καὶ ἐπισυναχθήσεται ἐπʼ αὐτὴν πάντα τὰ ἔθνη τῆς γῆς ἐγώ I/we τίθημι λαός ἔθνος κοπετός λέγω",
+     "source": "https://www.theancientbible.org/zechariah-lxx-12/",
+     "result": "substance confirmed"
+    }
+   }
+  },
+  {
+   "id": "ZEC.12.9",
+   "ref": "Zechariah 12:9",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4557,
+     "cited_as": "seat (12:9-10 group), NETS verbatim",
+     "quotes": [
+      "And it shall be on that day, I will seek to destroy all the nations that come against Ierousalem."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And it shall be on that day, I will seek to destroy all the nations that come against Ierousalem.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 12.9 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "And in that day will I seeke to destroy all the nations that come against Ierusalem.",
+     "source": "https://ebible.org/enggnv/ZEC12.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἔσται ἐν τῇ ἡμέρᾳ ἐκείνῃ ζητήσω ἐξᾶραι πάντα τὰ ἔθνη τὰ ἐρχόμενα ἐπὶ Ἰερουσαλήμ ὡς as/when πᾶς κύριος",
+     "source": "https://www.theancientbible.org/zechariah-lxx-12/",
+     "result": "substance confirmed"
+    }
+   }
+  },
+  {
+   "id": "ZEC.13.1",
+   "ref": "Zechariah 13:1",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4610,
+     "cited_as": "seat (13:1, 6 group), NETS verbatim",
+     "quotes": [
+      "On that day every place will be opened for the house of Dauid."
+     ],
+     "status": "confirmed",
+     "note": "NETS print ends 13:1 at “the house of Dauid.” (oldest-witness short text); Rahlfs/Swete continue “and for the inhabitants of Ierousalem…” — the draft’s Greek follows Rahlfs; recorded. The NETS cache 13.1 was the head-cut tail fragment; repaired from the print.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "On that day every place will be opened for the house of Dauid.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 13.1 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "In that day there shall be a fountaine opened to the house of Dauid, and to the inhabitants of Ierusalem, for sinne and for vncleannesse.",
+     "source": "https://ebible.org/enggnv/ZEC13.htm"
+    },
+    "greek_rahlfs": {
+     "text": "Ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔσται πᾶς τόπος διανοιγόμενος τῷ οἴκῳ Δαυεὶδ καὶ τοῖς κατοικοῦσιν Ἰερουσαλὴμ εἰς τὴν μετακίνησιν καὶ εἰς τὸν χωρισμόν",
+     "source": "https://www.theancientbible.org/zechariah-lxx-13/",
+     "result": "Rahlfs continues “καὶ τοῖς κατοικοῦσιν… χωρισμόν” (19/23 tokens; the draft’s Greek follows Rahlfs) — NETS print is the short oldest-witness text"
+    }
+   }
+  },
+  {
+   "id": "ZEC.13.6",
+   "ref": "Zechariah 13:6",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4610,
+     "cited_as": "seat (13:1, 6 group), NETS verbatim; the print’s footnote siglum “b” (“Or arms”) drops from the seat, kept in the banked text",
+     "quotes": [
+      "And I will say to him, “What are these blows between your hands?” And he will say, “Those with which I was beaten in my beloved house.”"
+     ],
+     "status": "confirmed",
+     "note": "Banked NETS text keeps the print siglum (“between your hands b?”); the seat drops the apparatus siglum. Swete’s page spells χειρῶαν/Ἀs (site artifacts); the draft’s χειρῶν/὘ν substance confirmed.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And I will say to him, “What are these blows between your hands b?” And he will say, “Those with which I was beaten in my beloved house.”",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 13.6 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "And one shall say vnto him, What are these woundes in thine hands? Then he shall answere, Thus was I wounded in the house of my friendes.",
+     "source": "https://ebible.org/enggnv/ZEC13.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἐρεῖ πρὸς αὐτόν Τί αἱ πληγαὶ αὗται ἀνὰ μέσον τῶν χειρῶαν σου καὶ ἐρεῖ Ἀs ἐπλήγην ἐν τῶ οἴκῳ τῷ ἀγαπητῷ μου",
+     "source": "https://www.theancientbible.org/zechariah-lxx-13/",
+     "result": "substance confirmed; Swete page artifacts (χειρῶαν, Ἀs) recorded"
+    }
+   }
+  },
+  {
+   "id": "ZEC.13.7",
+   "ref": "Zechariah 13:7",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4628,
+     "cited_as": "seat, NETS verbatim",
+     "quotes": [
+      "“Awake, O sword, against my shepherds and against his fellow citizen,” says the Lord Almighty. Smite the shepherds, and remove the sheep, and I will bring my hand against the shepherds."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "“Awake, O sword, against my shepherds and against his fellow citizen,” says the Lord Almighty. Smite the shepherds, and remove the sheep, and I will bring my hand against the shepherds.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 13.7 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "Arise, O sword, vpon my shepheard, and vpon the man, that is my fellow, sayth the Lord of hostes: smite the shepheard, and the sheepe shall be scattered: and I will turne mine hand vpon the litle ones.",
+     "source": "https://ebible.org/enggnv/ZEC13.htm"
+    },
+    "greek_rahlfs": {
+     "text": "Ῥομφαία ἐξεγέρθητι ἐπὶ τοὺς ποιμένας μου καὶ ἐπ᾿ ἄνδρα πολίτην μου λέγει Κύριος ΙΙαντοκράτωρ · πατάξατε τοὺς ποιμένας καὶ ἐκσπάσατε τὰ πρόβατα καὶ ἐπάξω τὴν χεῖρά μου ἐπὶ τοὺς μικρούς",
+     "source": "https://www.theancientbible.org/zechariah-lxx-13/",
+     "result": "18/20 tokens — substance confirmed (Swete page spelling variants)"
+    }
+   }
+  },
+  {
+   "id": "ZEC.14.3",
+   "ref": "Zechariah 14:3",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4656,
+     "cited_as": "seat (14:3-5 group), NETS verbatim",
+     "quotes": [
+      "And the Lord will go forth and draw up in battle order against those nations like a day of his marshaling in a day of battle."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord will go forth and draw up in battle order against those nations like a day of his marshaling in a day of battle.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 14.3 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "Then shall the Lord goe foorth, and fight against those nations, as when he fought in the day of battell.",
+     "source": "https://ebible.org/enggnv/ZEC14.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἐξελεύσεται Κύριος καὶ παρατάξεται ἐν τοῖς ἔθνεσιν ἐκείνοις καθὼς ἡμέρα παρατάξεως αὐτοῦ ἐν ἡμέρᾳ πολέμου πόλις ἐξέρχομαι δέ λαός ἐγώ I/we ἅγιος γῆ κατά πύλη ἄν ἑορτή σκηνοπηγία Feast|Festival ἀναβαίνω σύ",
+     "source": "https://www.theancientbible.org/zechariah-lxx-14/",
+     "result": "substance confirmed"
+    }
+   }
+  },
+  {
+   "id": "ZEC.14.4",
+   "ref": "Zechariah 14:4",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4656,
+     "cited_as": "seat (14:3-5 group), NETS verbatim",
+     "quotes": [
+      "And on that day his feet shall stand on the Mount of Olives, which is opposite Ierousalem on the east, and the mount of Olives shall be split, half of it to the east and half of it to the sea, an exceedingly great chasm, and half of the Mount shall incline northward and half of it southward."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And on that day his feet shall stand on the Mount of Olives, which is opposite Ierousalem on the east, and the mount of Olives shall be split, half of it to the east and half of it to the sea, an exceedingly great chasm, and half of the Mount shall incline northward and half of it southward.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 14.4 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "And his feete shall stand in that day vpon the mount of oliues, which is before Ierusalem on the Eastside, and the mount of oliues shall cleaue in the middes thereof: toward the East and toward the West there shalbe a very great valley, and halfe of ye mountaine shall remooue toward the North, and halfe of the mountaine towarde the South.",
+     "source": "https://ebible.org/enggnv/ZEC14.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ στήσονται οἱ πόδες αὐτοῦ ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐπὶ τὸ ὄρος τῶν ἐλαιῶν τὸ κατέναντι Ἰερουσαλὴμ ἐξ ἀνατολῶν · καὶ σχισθήσεται τὸ ὄρος τῶν ἐλαιῶν τὸ ἥμισυ αὐτοῦ πρὸς ἀνατολὰς καὶ θάλασσαν χάος μέγα σφόδρα · καὶ κλινεῖ τὸ ἥμισυ τοῦ ὄρους πρὸς βορρᾶν καὶ τὸ ἥμισυ αὐτοῦ πρὸς νότον · ἔρχομαι come/go",
+     "source": "https://www.theancientbible.org/zechariah-lxx-14/",
+     "result": "substance confirmed"
+    }
+   }
+  },
+  {
+   "id": "ZEC.14.5",
+   "ref": "Zechariah 14:5",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4656,
+     "cited_as": "seat (14:3-5 group), NETS verbatim; gloss *(Uzziah)* on the print’s “Ozias”",
+     "quotes": [
+      "And the valley of my mountains shall be blocked up, and the valley of the mountains shall be joined up to Iasol, and it shall be blocked up as it was blocked in the days of the earthquake in the days of King Ozias of Ioudas. And the Lord my God will come and all the holy ones with him."
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the valley of my mountains shall be blocked up, and the valley of the mountains shall be joined up to Iasol, and it shall be blocked up as it was blocked in the days of the earthquake in the days of King Ozias of Ioudas. And the Lord my God will come and all the holy ones with him.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 14.5 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "And yee shall flee vnto the valley of the mountaines: for the valley of the mountaines shall reache vnto Azal: yea, yee shall flee like as ye fled from the earthquake in the daies of Vzziah King of Iudah: and the Lord my God shall come, and all the Saints with thee.",
+     "source": "https://ebible.org/enggnv/ZEC14.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ φραχθήσεται ἡ φάραγξ ὀρέων μου καὶ ἐνκολληθήσεται φάραγξ ὀρέων ἕως Ἰασόδ καὶ ἐνφραχθήσεται καθὼς ἐνεφράγη ἐν ταῖς ἡμέραις τοῦ σεισμοῦ ἐν ἡμέραις ζείου βασιλέως Τοὐδα · καὶ ἤξει Κύριος ὁ θεός μου καὶ πάντες οἱ ἅγιοι μετʼ αὐτοῦ μή ὄρος πρός to/with βασιλεύς ὅσος as/how πτῶσις",
+     "source": "https://www.theancientbible.org/zechariah-lxx-14/",
+     "result": "41/42 tokens — substance confirmed"
+    }
+   }
+  },
+  {
+   "id": "ZEC.14.9",
+   "ref": "Zechariah 14:9",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4702,
+     "cited_as": "seat, NETS verbatim",
+     "quotes": [
+      "And the Lord will become king over all the earth; on that day the Lord will be one and his name one."
+     ],
+     "status": "confirmed",
+     "note": "The NETS cache walk stopped at 14:8 (its walker glued the page’s footnote block); 14:9 taken from the wave-21 print dump of the next print page (819/820).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the Lord will become king over all the earth; on that day the Lord will be one and his name one.",
+     "source": "scraped NETS PDF master, 32-twelve.pdf, print Zechariah 14.9 (wave-21 page-dump parse; NETS cache walk pp37-42, wave-14, equality asserted except the repaired v1 heads)"
+    },
+    "gnv": {
+     "text": "And the Lord shall bee King ouer all the earth: in that day shall there bee one Lord, and his Name shalbe one.",
+     "source": "https://ebible.org/enggnv/ZEC14.htm"
+    },
+    "greek_rahlfs": {
+     "text": "καὶ ἔσται Κύριος εἰς βασιλέα ἐπὶ πᾶσαν τὴν γῆν · ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔσται Κύριος εἰς καὶ τὸ ὄνομα αὐτοῦ ἕν",
+     "source": "https://www.theancientbible.org/zechariah-lxx-14/",
+     "result": "16/16 tokens; Swete page prints ἔσται Κύριος εἰς where the draft/Rahlfs print εἷς (“one”) — page spelling, noted"
+    }
+   }
+  },
+  {
+   "id": "MAT.26.31",
+   "ref": "Matthew 26:31",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4638,
+     "cited_as": "cross-witness seat, 1599 Geneva verbatim (modern-spelled)",
+     "quotes": [
+      "Then said Jesus unto them, All ye shall be offended by me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered."
+     ],
+     "status": "confirmed",
+     "note": "Draft quote == Geneva at modern spelling; Greek Πάντες ὑμεῖς… checked against BibleHub Nestle/WH 1.00 this wave.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then saide Iesus vnto them, All yee shall be offended by me this night: for it is written, I wil smite the shepheard, and the sheepe of the flocke shalbe scattered.",
+     "source": "https://ebible.org/enggnv/MAT26.htm"
+    },
+    "greek_nestle": {
+     "text": "ΤότεTote λέγειlegei αὐτοῖςautois ὁho ἸησοῦςIēsous ΠάντεςPantes ὑμεῖςhymeis σκανδαλισθήσεσθεskandalisthēsesthe ἐνen ἐμοὶemoi ἐνen τῇtē νυκτὶnykti ταύτῃ·tautē γέγραπταιgegraptai γάρgar ΠατάξωPataxō τὸνton ποιμένα,poimena Καὶkai διασκορπισθήσονταιdiaskorpisthēsontai τὰta πρόβαταprobata τῆςtēs ποίμνης·poimnēs",
+     "source": "https://biblehub.com/text/matthew/26-31.htm",
+     "result": "draft 24 tok vs BibleHub WH, 100% overlap of draft tokens"
+    }
+   }
+  },
+  {
+   "id": "1TH.3.13",
+   "ref": "1 Thessalonians 3:13",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4676,
+     "cited_as": "cross-witness seat, 1599 Geneva verbatim (modern-spelled); gloss *(firm)* on “stable”",
+     "quotes": [
+      "To make your hearts stable and unblameable in holiness before God even our Father, at the coming of our Lord Jesus Christ with all his Saints."
+     ],
+     "status": "confirmed",
+     "note": "Draft quotes the v13 tail; seat = full verse. TRB /Geneva/52 (1 Thessalonians) confirmed.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "To make your hearts stable and vnblameable in holines before God euen our Father, at the comming of our Lord Iesus Christ with all his Saints. 1",
+     "source": "https://ebible.org/enggnv/1TH03.htm"
+    },
+    "greek_nestle": {
+     "text": "εἰςeis τὸto στηρίξαιstērixai ὑμῶνhymōn τὰςtas καρδίαςkardias ἀμέμπτουςamemptous ἐνen ἁγιωσύνῃhagiōsynē ἔμπροσθενemprosthen τοῦtou ΘεοῦTheou καὶkai πατρὸςpatros ἡμῶνhēmōn ἐνen τῇtē παρουσίᾳparousia τοῦtou ΚυρίουKyriou ἡμῶνhēmōn ἸησοῦIēsou μετὰmeta πάντωνpantōn τῶνtōn ἁγίωνhagiōn αὐτοῦ.autou [ἀμήν]amēn",
+     "source": "https://biblehub.com/text/1_thessalonians/3-13.htm",
+     "result": "draft 12 tok vs BibleHub WH, 100% overlap of draft tokens"
+    }
+   }
+  },
+  {
+   "id": "JUD.1.14",
+   "ref": "Jude 1:14",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4681,
+     "cited_as": "cross-witness seat, 1599 Geneva verbatim (modern-spelled)",
+     "quotes": [
+      "And Enoch also the seventh from Adam, prophesied of such, saying, Beholde, the Lord cometh with thousands of his Saints,"
+     ],
+     "status": "confirmed",
+     "note": "TRB book number 65 confirmed via the “Enoch” verse print; BibleHub Greek 1.00 on the draft’s tokens.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And Enoch also the seuenth from Adam, prophecied of such, saying, Beholde, the Lord commeth with thousands of his Saints,",
+     "source": "https://ebible.org/enggnv/JUD01.htm"
+    },
+    "greek_nestle": {
+     "text": "Προεφήτευσεν*Proephēteusen δὲde καὶkai τούτοιςtoutois ἕβδομοςhebdomos ἀπὸapo ἈδὰμAdam ἙνὼχHenōch λέγωνlegōn ἸδοὺIdou ἦλθενēlthen ΚύριοςKyrios ἐνen ἁγίαιςhagiais μυριάσινmyriasin αὐτοῦ,autou",
+     "source": "https://biblehub.com/text/jude/1-14.htm",
+     "result": "draft 7 tok vs BibleHub WH, 100% overlap of draft tokens"
+    }
+   }
+  },
+  {
+   "id": "JHN.10.30",
+   "ref": "John 10:30",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4649,
+     "cited_as": "mention (observation prose quote)",
+     "quotes": [
+      "I and the Father are one"
+     ],
+     "status": "prose-ref",
+     "note": "Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution.",
+     "quote_kind": "mention"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I and my Father are one.",
+     "source": "https://ebible.org/enggnv/JHN10.htm"
+    },
+    "greek_nestle": {
+     "text": "ἐγὼegō καὶkai ὁho ΠατὴρPatēr ἕνhen ἐσμεν.esmen",
+     "source": "https://biblehub.com/text/john/10-30.htm"
+    }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Observation (Zech 13:7 section) quotes \"I and the Father are one\"; Geneva 1599 prints \"I and my Father are one\" — propose italic version-name in line per the 10 Nov 2026 attribution rule.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "EPH.4.5",
+   "ref": "Ephesians 4:5",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4718,
+     "cited_as": "mention (observation quote)",
+     "quotes": [
+      "one Lord, one faith, one baptism"
+     ],
+     "status": "prose-ref",
+     "note": "Good-reason: the draft’s quote is word-for-word Geneva at modern spelling (opening clause; the edition continues \"which is above all, and through all, and in you all.\") — recorded (wave-16 precedent).",
+     "quote_kind": "mention"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "There is one Lord, one Faith, one Baptisme,",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.6",
+   "ref": "Ephesians 4:6",
+   "uses": [
+    {
+     "section": "COS-36",
+     "section_label": "THE CHRIST OF SCRIPTURE — 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)",
+     "article_line": 4718,
+     "cited_as": "mention (observation quote)",
+     "quotes": [
+      "one God and Father of all"
+     ],
+     "status": "prose-ref",
+     "note": "Same good-reason record as EPH.4.5 — Geneva wording at modern spelling, truncated opening clause.",
+     "quote_kind": "mention"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "One God and Father of all, which is aboue all, and through all, and in you all.",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   }
   }
  ]
 }

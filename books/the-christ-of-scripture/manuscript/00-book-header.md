@@ -51,3 +51,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)
 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return
 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)
+40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)
