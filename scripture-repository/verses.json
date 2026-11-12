@@ -130,7 +130,8 @@
    "COS-75",
    "COS-76",
    "COS-77",
-   "COS-78"
+   "COS-78",
+   "COS-79"
   ],
   "sections": [
    {
@@ -598,6 +599,10 @@
    {
     "key": "COS-78",
     "label": "PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications"
+   },
+   {
+    "key": "COS-79",
+    "label": "PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications"
    }
   ],
   "double_check": {
@@ -658,11 +663,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 107550,
+  "so_far_words": 107971,
   "cos_sofar": {
    "waves": 48
   },
-  "glossary": 1262
+  "glossary": 1270
  },
  "verses": [
   {
@@ -55286,6 +55291,300 @@
    "verified": "2026-11-12",
    "translations": {},
    "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "1CO.11.23",
+   "ref": "1 Corinthians 11:23",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12255,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I haue receiued of the Lord that which I also haue deliuered vnto you, to wit, That the Lord Iesus in the night when he was betrayed, tooke bread:",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I haue receiued of the Lord that which I also haue deliuered vnto you, to wit, That the Lord Iesus in the night when he was betrayed, tooke bread:",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1CO.11.24",
+   "ref": "1 Corinthians 11:24",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12255,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And when hee had giuen thankes, hee brake it, and sayde, Take, eate: this is my body, which is broken for you: this doe ye in remembrance of me.",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when hee had giuen thankes, hee brake it, and sayde, Take, eate: this is my body, which is broken for you: this doe ye in remembrance of me.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1CO.11.25",
+   "ref": "1 Corinthians 11:25",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12255,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12268,
+     "cited_as": "Observations — prose echo of the seated verse",
+     "quotes": [
+      "as often as you drink it."
+     ],
+     "status": "prose-ref",
+     "note": "Geneva-voiced at modern folds (ye/you; oft→often); capital He = draft style. No flag.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "After the same maner also he tooke the cup, when he had supped, saying, This cup is the Newe Testament in my blood: this doe as oft as ye drinke it, in remembrance of me.",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "After the same maner also he tooke the cup, when he had supped, saying, This cup is the Newe Testament in my blood: this doe as oft as ye drinke it, in remembrance of me.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "Observation prose echo row-noted (Geneva at modern folds)."
+  },
+  {
+   "id": "1CO.11.26",
+   "ref": "1 Corinthians 11:26",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12255,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12266,
+     "cited_as": "Observations — prose echo of the seated verse",
+     "quotes": [
+      "you show the Lord's death till He come."
+     ],
+     "status": "prose-ref",
+     "note": "Geneva-voiced at modern folds (ye/you; oft→often); capital He = draft style. No flag.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For as often as ye shall eate this bread, and drinke this cup, ye shewe the Lords death till hee come.",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For as often as ye shall eate this bread, and drinke this cup, ye shewe the Lords death till hee come.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "Observation prose echo row-noted (Geneva at modern folds)."
+  },
+  {
+   "id": "1CO.11.27",
+   "ref": "1 Corinthians 11:27",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12278,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:27-29 joined range (canon 12278)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore, whosoeuer shall eate this bread, and drinke the cup of the Lord vnworthily, shall be guiltie of the body and blood of the Lord.",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore, whosoeuer shall eate this bread, and drinke the cup of the Lord vnworthily, shall be guiltie of the body and blood of the Lord.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "WH adds τοῦτον after τὸν ἄρτον; draft = TR (lacks it). Draft Greek v27 cap Κυρίου vs WH page lowercase κυρίου (case class)."
+  },
+  {
+   "id": "1CO.11.28",
+   "ref": "1 Corinthians 11:28",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12278,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:27-29 joined range (canon 12278)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12284,
+     "cited_as": "Self-Examination Observation (1) — prose echo (KJV-voiced; flagged)",
+     "quotes": [
+      "let a man examine himself."
+     ],
+     "status": "prose-ref",
+     "note": "KJV-voiced: the 1599 prints \"Let euery man therefore examine himselfe\"; \"let a man examine himself\" is exact KJV wording. Row flag holds this for the italic-attribution/re-voice ruling.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let euery man therefore examine himselfe, and so let him eate of this bread, and drinke of this cup.",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let euery man therefore examine himselfe, and so let him eate of this bread, and drinke of this cup.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-79 Self-Examination Observation (1) (canon 12284) quotes \"let a man examine himself\" — KJV-voiced; the specified Geneva prints \"Let euery man therefore examine himselfe\" (eBible==TRB). Per the 10 Nov 2026 attribution rule: add the italic KJV attribution in line, or re-voice to the Geneva wording — awaiting Gideon's word (same class as PRO.3.6/1TH.5.17).",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "1CO.11.29",
+   "ref": "1 Corinthians 11:29",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12278,
+     "cited_as": "1599 Geneva seat — 1 Corinthians 11:27-29 joined range (canon 12278)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For he that eateth and drinketh vnworthily, eateth and drinketh his owne damnation, because he discerneth not the Lords body.",
+     "source": "https://ebible.org/enggnv/1CO11.htm == textusreceptusbibles.com/Geneva/46/11 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For he that eateth and drinketh vnworthily, eateth and drinketh his owne damnation, because he discerneth not the Lords body.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/11",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "Draft Greek block (canon 12275) ends at τὸ σῶμα — WH continues μὴ διακρίνων τὸ σῶμα τοῦ κυρίου."
+  },
+  {
+   "id": "ACT.20.7",
+   "ref": "Acts 20:7",
+   "uses": [
+    {
+     "section": "COS-79",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications",
+     "article_line": 12268,
+     "cited_as": "Observations (3) — the NT frequency mention \"perhaps weekly (Acts 20:7)\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "The suppers-observance mention; no verse quoted in line (Greek: Ἐν δὲ τῇ μιᾷ τῶν σαββάτων — BibleHub WH fetched).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And the first day of the weeke, the disciples being come together to breake bread, Paul preached vnto them, ready to depart on the morrow, and continued the preaching vnto midnight.",
+     "source": "https://ebible.org/enggnv/ACT20.htm == textusreceptusbibles.com/Geneva/44/20"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And the first day of the weeke, the disciples being come together to breake bread, Paul preached vnto them, ready to depart on the morrow, and continued the preaching vnto midnight.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/20",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐν δὲ τῇ μιᾷ τῶν σαββάτων συνηγμένων τῶν μαθητῶν τοῦ κλάσαι ἄρτον ὁ Παῦλος διελέγετο αὐτοῖς μέλλων ἐξιέναι τῇ ἐπαύριον παρέτεινέ τε τὸν λόγον μέχρι μεσονυκτίου",
+     "source": "https://biblehub.com/text/acts/20-7.htm",
+     "result": "wh fetched (tr-family echo not asserted)"
+    }
+   },
    "note": ""
   }
  ]

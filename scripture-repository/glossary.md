@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1091 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1099 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1262 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1270 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -12082,6 +12082,57 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
+## PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications
+
+### 1 Corinthians 11:23 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)*
+- **Geneva 1599:** “For I haue receiued of the Lord that which I also haue deliuered vnto you, to wit, That the Lord Iesus in the night when he was betrayed, tooke bread:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 11:24 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)*
+- **Geneva 1599:** “And when hee had giuen thankes, hee brake it, and sayde, Take, eate: this is my body, which is broken for you: this doe ye in remembrance of me.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 11:25 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)*
+- **Geneva 1599:** “After the same maner also he tooke the cup, when he had supped, saying, This cup is the Newe Testament in my blood: this doe as oft as ye drinke it, in remembrance of me.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 11:26 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:23-26 joined range (canon 12255)*
+- **Geneva 1599:** “For as often as ye shall eate this bread, and drinke this cup, ye shewe the Lords death till hee come.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Acts 20:7 — PROSE-REF
+*cited as: Observations (3) — the NT frequency mention "perhaps weekly (Acts 20:7)"*
+- **Geneva 1599:** “And the first day of the weeke, the disciples being come together to breake bread, Paul preached vnto them, ready to depart on the morrow, and continued the preaching vnto midnight.”
+- *Note:* The suppers-observance mention; no verse quoted in line (Greek: Ἐν δὲ τῇ μιᾷ τῶν σαββάτων — BibleHub WH fetched).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — wh fetched (tr-family echo not asserted)*
+
+### 1 Corinthians 11:27 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:27-29 joined range (canon 12278)*
+- **Geneva 1599:** “Wherefore, whosoeuer shall eate this bread, and drinke the cup of the Lord vnworthily, shall be guiltie of the body and blood of the Lord.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 11:28 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:27-29 joined range (canon 12278)*
+- **Geneva 1599:** “Let euery man therefore examine himselfe, and so let him eate of this bread, and drinke of this cup.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 11:29 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Corinthians 11:27-29 joined range (canon 12278)*
+- **Geneva 1599:** “For he that eateth and drinketh vnworthily, eateth and drinketh his owne damnation, because he discerneth not the Lords body.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -15155,6 +15206,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 12 (chapter) | COS-78 | prose-ref |
 | 1 Corinthians 12 (chapter) | COS-78 | prose-ref |
 | Ephesians 4 (chapter) | COS-78 | prose-ref |
+| 1 Corinthians 11:23 | COS-79 | confirmed |
+| 1 Corinthians 11:24 | COS-79 | confirmed |
+| 1 Corinthians 11:25 | COS-79 | confirmed, prose-ref |
+| 1 Corinthians 11:26 | COS-79 | confirmed, prose-ref |
+| 1 Corinthians 11:27 | COS-79 | confirmed |
+| 1 Corinthians 11:28 | COS-79 | confirmed, prose-ref |
+| 1 Corinthians 11:29 | COS-79 | confirmed |
+| Acts 20:7 | COS-79 | prose-ref |
 
 ## The editions used
 

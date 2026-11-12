@@ -7,7 +7,6 @@ The believer is not designed for isolation. The Father has placed him in the Bod
 ### **Romans 12:5 — Geneva 1599:**
 
 *"So we being many are one body in Christ, and every one, one anothers members."*
-*"So we being many, are one body in Christ, and every one, one another's members."*
 
 The believer is **a member of the Body** — and **members of one another.** The body image insists on mutual interdependence.
 
@@ -17,7 +16,6 @@ The believer is **a member of the Body** — and **members of one another.** The
 
 ### **Hebrews 10:24-25 — Geneva 1599:**
 
-*"And let us consider one another, to provoke unto love, and to good works, Not forsaking the fellowship that we have among ourselves, as the manner of some is: but let us exhort one another, and that so much the more, because ye see that the day draweth near."*
 *"And let us consider one another, to provoke unto love, and to good works, Not forsaking the fellowship that we have among ourselves, as the manner of some is: but let us exhort one another, and that so much the more, because ye see that the day draweth near."*
 
 ---

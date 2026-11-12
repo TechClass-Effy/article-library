@@ -184,3 +184,12 @@ KJV-voiced fragments of (3)/(4)/(5) VERBATIM — row-flagged); the "One Another"
 families VERBATIM — mention-anchors banked); Practical Implications (items 1-7 incl. Heb 13:17).
 EB==TRB 39/40 (2Co 13:12 = edition verse-split, joined and recorded); WH Greek 1.000 on both draft
 blocks).
+
+75. (C) PART 5 — THE LORD'S SUPPER (COS-79 — the Institution (1 Corinthians 11:23-26 — the
+1599 print seat EXACT-MODERN, the draft ellipsis opening honored; the Self-Examination (1 Corinthians
+11:27-29 — EXACT-MODERN, zero splices: cupp/guiltie/bodie/eate/drinke/hee/thankes/sayde/newe folds);
+Observations verbatim (the Acts 20:7 frequency mention banked as a prose-ref); Practical Implications
+items 1-5. EB==TRB 8/8 fresh; WH Greek row-noted: the draft is TR-voiced (v23 παρεδίδετο vs WH
+παρεδίδοτο; v24 lacks WH's Λάβετε φάγετε and κλώμενον; v26 ἐὰν vs WH ἂν; v27 draft drops τοῦτον; v29
+draft ends before τοῦ Κυρίου). One row flag: 1CO.11.28 obs (1) "let a man examine himself" is
+KJV-voiced (the 1599 prints "Let euery man therefore examine himselfe")).
