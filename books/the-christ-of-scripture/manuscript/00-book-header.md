@@ -42,3 +42,5 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 28. Jesus’ Self-Identifications — Part 2: the "I AM" Sayings of John — the Seven Predicate Sayings and the Absolutes; the Son of Man — Daniel 7:13-14 (NETS Old Greek) and Matthew 26:63-64; the Son of God / The Son — Matthew 11:27 and Mark 13:32; Other Significant Titles
 29. Acts Revealing His Authority — Part 3: forgiving sins (Mark 2:5-12); over nature (Mark 4:39-41); raising the dead (John 11); judging (John 5:22-27); giving the Spirit (John 7:37-39; Acts 2:33)
 30. His Relation to the Father — Part 4: direct statements — the Son can do nothing of Himself (John 5:19, 30); not His own will (John 6:38; 8:28-29); the Father greater than the Son (John 14:28); the Father the only very true God (John 17:3)
+31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)
+32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A) the Son's Present Session and High-Priestly Ministry (Hebrews 7-10)

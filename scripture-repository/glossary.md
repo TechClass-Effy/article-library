@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**427 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**449 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**598 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**620 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -1066,8 +1066,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
 - **Ruling — apply Geneva 1599 exact:** “And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth.”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
 
 ## THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation
 
@@ -4072,6 +4072,221 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
+## Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)
+
+### John 20:11-18 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* the risen Jesus appears to Mary Magdalene (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 24:36-43 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* appears to the disciples and shows His wounds (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 20:19-29 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* appears to the disciples and shows His wounds, Thomas included (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 24:42-43 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* eats with His disciples — bodily, not a phantom (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 10:41 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* witnesses chosen before of God, who did eat and drink with him after he rose (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### 1 Corinthians 15:6 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* appears to 500 brethren at once (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 24:25-27 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* opens their understanding of the Scriptures (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 24:44-47 — ANCHOR
+*cited as: bullet list ref (mention-anchor)*
+- *Note:* opens their understanding of the Scriptures (the 5.1 bullet list).
+- *Checked 2026-11-11 · editions fetched: *
+
+### MAT 28 18 — CONFIRMED
+*cited as: blockquote tail (draft elides the verse head)*
+- **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
+- **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
+  (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Matthew 28:19 — CONFIRMED
+*cited as: blockquote mid-segment (span seat)*
+- **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
+- **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
+  (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Matthew 28:20 — CONFIRMED
+*cited as: blockquote tail (span seat)*
+- **Geneva 1599:** “Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.”
+- **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
+  (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Acts 2:38 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 8:16 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 10:48 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 19:5 — ANCHOR
+*cited as: prose ref (mention-anchor)*
+- *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 1:9 — CONFIRMED
+*cited as: blockquote head-segment (span seat)*
+- **Geneva 1599:** “And when he had spoken these things, while they behelde, he was taken vp: for a cloude tooke him vp out of their sight.”
+- **Ruling — apply Geneva 1599 exact:** “And when he had spoken these things, while they beheld, he was taken up: for a cloud took him up out of their sight. Which also said, Ye men of Galilee, why stand ye gazing into heaven? This Jesus which is taken up from you into heaven, shall so come, as ye have seen him go into heaven.”
+  (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Acts 1:11 — CONFIRMED
+*cited as: blockquote tail-segment (span seat)*
+- **Geneva 1599:** “Which also sayde, Yee men of Galile, why stande yee gasing into heauen? This Iesus which is taken vp from you into heauen, shall so come, as yee haue seene him goe into heauen.”
+- **Ruling — apply Geneva 1599 exact:** “And when he had spoken these things, while they beheld, he was taken up: for a cloud took him up out of their sight. Which also said, Ye men of Galilee, why stand ye gazing into heaven? This Jesus which is taken up from you into heaven, shall so come, as ye have seen him go into heaven.”
+  (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+## The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)
+
+### Psalm 22:16 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **NETS (Septuagint, modern):** “because many dogs encircled me, a gathering of evildoers surrounded me. They gouged my hands and feet;”
+- **Brenton LXX:** “For many dogs have compassed me: the assembly of the wicked doers has beset me round: they pierced my hands and my feet.”
+- **Geneva 1599:** “For dogges haue compassed me, and the assemblie of the wicked haue inclosed me: they perced mine hands and my feete.”
+- **KJV:** “For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.”
+- *Note:* synthesis item 23: He is risen bodily, bearing His pierced hands and feet (fulfilling Psalm 22:16).
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
+
+### Isaiah 53:5 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **NETS (Septuagint, modern):** “This one bears our sins and suffers pain for us, and we accounted him to be in trouble and calamity and ill-treatment. But he was wounded because of our acts of lawlessness and has been weakened because of our sins; upon him was the discipline of our peace; by his bruise we were healed. All we like sheep have gone astray; a man has strayed in his own way, and the Lord gave him over to our sins.”
+- **Brenton LXX:** “But he was wounded on account of our sins, and was bruised because of our iniquities: the chastisement of our peace was upon him; and by his bruises we were healed.”
+- **Geneva 1599:** “But hee was wounded for our transgressions, hee was broken for our iniquities: the chastisement of our peace was vpon him, and with his stripes we are healed.”
+- **KJV:** “But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.”
+- *Note:* synthesis item 20 recap: His life a ransom for many — echoing Isaiah 53.
+- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · greek_rahlfs — verified 2026-11-11, coverage 0.93 (group seat)*
+
+### MAT 28 18 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
+- *Note:* synthesis item 24: he receives all authority from the Father after resurrection; item 25 commissions the worldwide proclamation.
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### PS 109 1 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- *Note:* synthesis item 26: He ascends and is enthroned at the Father's right hand (fulfilling Psalm 110:1 MT = 109:1 LXX).
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### ACT 2 34-36 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- *Note:* 5.3 observation: the ascension fulfills the "sit at My right hand" of Psalm 110:1 per Acts 2:34-35.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Isaiah 61:1 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **NETS (Septuagint, modern):** “The spirit of the Lord is upon me, because he has anointed me; he has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to the captives and recovery of sight to the blind,”
+- *Note:* synthesis item 6: His miracles fulfil Isaiah 61 (the Spirit of the Lord is upon me).
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Luke 4:17 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “And there was deliuered vnto him the booke of the Prophet Esaias: and when hee had opened the booke, hee founde the place, where it was written,”
+- *Note:* synthesis item 1: He is the prophesied Servant of the LORD — by His own citation of Isaiah 61 (Luke 4:17-21).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 4:21 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “Then he began to say vnto them, This day is the Scripture fulfilled in your eares.”
+- *Note:* synthesis item 1: He is the prophesied Servant of the LORD — by His own citation of Isaiah 61 (Luke 4:17-21).
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 26:64 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.”
+- *Note:* synthesis items 2-3: the Son of Man of Daniel 7 and "Christ, the Son of God" — His own confession.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### John 4:25-26 — ANCHOR
+*cited as: synthesis item ref (mention-anchor)*
+- *Note:* synthesis item 3: "He is the Christ, the Son of God" — by His own confession; the Samarian woman: we know that the Christ cometh.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Luke 19:10 — ANCHOR
+*cited as: synthesis item ref (mention-anchor)*
+- *Note:* synthesis item 21: He came to seek and to save that which was lost.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Mark 10:45 — ANCHOR
+*cited as: synthesis item ref (mention-anchor)*
+- *Note:* synthesis item 20: not to be ministered unto but to minister and give His life a ransom for many — echoing Isaiah 53.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 5:17 — ANCHOR
+*cited as: synthesis item ref (mention-anchor)*
+- *Note:* synthesis item 19: He came to fulfil, not destroy, the Law and the Prophets.
+- *Checked 2026-11-11 · editions fetched: *
+
+### John 10:10 — ANCHOR
+*cited as: synthesis item ref (mention-anchor)*
+- *Note:* synthesis item 22: He came that they might have life, and have it abundantly.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Isaiah 35 (chapter) — ANCHOR
+*cited as: synthesis item ref (mention-anchor)*
+- *Note:* synthesis item 6: His miracles fulfil Isaiah 35 (chapter mention-anchor; the miracles chapters with Isaiah 53 and 61).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 1:9 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “And when he had spoken these things, while they behelde, he was taken vp: for a cloude tooke him vp out of their sight.”
+- *Note:* synthesis item 26-27 recap: the ascension and the promise of return.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Acts 1:11 — ANCHOR
+*cited as: synthesis recap ref (mention)*
+- **Geneva 1599:** “Which also sayde, Yee men of Galile, why stande yee gasing into heauen? This Iesus which is taken vp from you into heauen, shall so come, as yee haue seene him goe into heauen.”
+- *Note:* synthesis item 27 recap: he will return in like manner as he ascended.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -5862,7 +6077,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Chronicles 14:15 | P8 | anchor |
 | 2 Kings 20:20 | P1-Q4 | anchor |
 | Job 33:4 | P6 | confirmed |
-| Psalm 22:16 | P1-Q8, COS-22 | confirmed |
+| Psalm 22:16 | P1-Q8, COS-22, COS-28 | anchor, confirmed |
 | Psalm 104:29 | P6 | confirmed |
 | Psalm 104:30 | P6 | confirmed |
 | Psalm 124:8 | CLOSE | confirmed |
@@ -5870,7 +6085,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 29:13 | P7 | confirmed |
 | Isaiah 42:8 | P1-Q8 | confirmed |
 | Isaiah 52:13 | P1-Q8, COS-16, COS-22 | anchor, confirmed |
-| Isaiah 53:5 | P1-Q8, COS-22 | confirmed |
+| Isaiah 53:5 | P1-Q8, COS-22, COS-28 | anchor, confirmed |
 | Jeremiah 14:14 | P7 | confirmed |
 | Jeremiah 31:33 | P9 | confirmed |
 | Ezekiel 36:20 | P7 | confirmed |
@@ -6127,13 +6342,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 2 36 | COS-03, COS-16, COS-19 | anchor, confirmed, confirmed (excerpt) |
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03, COS-19 | confirmed, confirmed (excerpt) |
-| MAT 28 18 | COS-03 | confirmed |
-| PS 109 1 | COS-04, COS-16 | anchor, confirmed |
+| MAT 28 18 | COS-03, COS-27, COS-28 | anchor, confirmed |
+| PS 109 1 | COS-04, COS-16, COS-28 | anchor, confirmed |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
 | MAT 22 41-45 | COS-04, COS-19 | anchor, confirmed |
-| ACT 2 34-36 | COS-04, COS-17, COS-19 | anchor, confirmed |
+| ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28 | anchor, confirmed |
 | HEB 5 5-6 | COS-04, COS-19 | anchor, differs (minor) |
 | HEB 7 21 | COS-04, COS-19 | anchor, differs (minor) |
 | PRO 8 22 | COS-05, COS-19 | anchor, confirmed |
@@ -6332,7 +6547,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 35:5 | COS-23 | confirmed |
 | Isaiah 35:6 | COS-23 | confirmed |
 | Isaiah 40:3 | COS-23 | confirmed |
-| Isaiah 61:1 | COS-23 | confirmed |
+| Isaiah 61:1 | COS-23, COS-28 | anchor, confirmed |
 | Isaiah 61:2 | COS-23 | confirmed |
 | Hosea 11:1 LXX (11:1 MT) | COS-23 | confirmed |
 | Zechariah 9:9 LXX (9:9 MT) | COS-23 | confirmed |
@@ -6364,11 +6579,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Luke 3:5 | COS-23 | anchor |
 | Luke 3:6 | COS-23 | anchor |
 | Luke 4:16 | COS-23 | confirmed |
-| Luke 4:17 | COS-23 | confirmed |
+| Luke 4:17 | COS-23, COS-28 | anchor, confirmed |
 | Luke 4:18 | COS-23 | confirmed |
 | Luke 4:19 | COS-23 | confirmed |
 | Luke 4:20 | COS-23 | anchor |
-| Luke 4:21 | COS-23 | confirmed |
+| Luke 4:21 | COS-23, COS-28 | anchor, confirmed |
 | John 1:23 | COS-23 | anchor |
 | John 12:14 | COS-23 | anchor |
 | John 12:15 | COS-23 | anchor |
@@ -6385,7 +6600,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 18:5 | COS-24 | confirmed (excerpt) |
 | John 18:6 | COS-24 | confirmed (excerpt) |
 | Matthew 26:63 | COS-24 | confirmed (excerpt) |
-| Matthew 26:64 | COS-24 | confirmed (excerpt) |
+| Matthew 26:64 | COS-24, COS-28 | anchor, confirmed (excerpt) |
 | Matthew 11:27 | COS-24 | confirmed |
 | Mark 13:32 | COS-24 | confirmed |
 | Daniel 7:13 | COS-24 | confirmed |
@@ -6431,6 +6646,28 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 5:30 | COS-26 | confirmed |
 | John 8:28 | COS-26 | confirmed |
 | John 8:29 | COS-26 | confirmed |
+| Matthew 28:19 | COS-27 | confirmed |
+| Matthew 28:20 | COS-27 | confirmed |
+| Acts 1:9 | COS-27, COS-28 | anchor, confirmed |
+| Acts 1:11 | COS-27, COS-28 | anchor, confirmed |
+| John 20:11-18 | COS-27 | anchor |
+| Luke 24:36-43 | COS-27 | anchor |
+| John 20:19-29 | COS-27 | anchor |
+| Luke 24:42-43 | COS-27 | anchor |
+| Acts 10:41 | COS-27 | anchor |
+| 1 Corinthians 15:6 | COS-27 | anchor |
+| Luke 24:25-27 | COS-27 | anchor |
+| Luke 24:44-47 | COS-27 | anchor |
+| Acts 2:38 | COS-27 | anchor |
+| Acts 8:16 | COS-27 | anchor |
+| Acts 10:48 | COS-27 | anchor |
+| Acts 19:5 | COS-27 | anchor |
+| John 4:25-26 | COS-28 | anchor |
+| Luke 19:10 | COS-28 | anchor |
+| Mark 10:45 | COS-28 | anchor |
+| Matthew 5:17 | COS-28 | anchor |
+| John 10:10 | COS-28 | anchor |
+| Isaiah 35 (chapter) | COS-28 | anchor |
 
 ## The editions used
 

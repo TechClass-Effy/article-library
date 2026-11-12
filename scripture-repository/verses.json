@@ -78,7 +78,9 @@
    "COS-23",
    "COS-24",
    "COS-25",
-   "COS-26"
+   "COS-26",
+   "COS-27",
+   "COS-28"
   ],
   "sections": [
    {
@@ -338,6 +340,14 @@
    {
     "key": "COS-26",
     "label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements"
+   },
+   {
+    "key": "COS-27",
+    "label": "Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)"
+   },
+   {
+    "key": "COS-28",
+    "label": "The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)"
    }
   ],
   "double_check": {
@@ -398,9 +408,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 35279,
+  "so_far_words": 36425,
   "cos_sofar": {
-   "waves": 17
+   "waves": 18
   }
  },
  "verses": [
@@ -2043,6 +2053,17 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "Numbering maps recorded: NETS print title = v1; body print verse N = MT N (draft 21:16 LXX = MT 22:16 = NETS print 17). NETS prints “They gouged my hands and feet”; the draft observation explains the ὤρυξαν wording (dig/pierce/bore) — both recorded, observation prose kept verbatim."
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 23: He is risen bodily, bearing His pierced hands and feet (fulfilling Psalm 22:16)."
     }
    ],
    "verified": "2026-11-02",
@@ -2511,6 +2532,17 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 20 recap: His life a ransom for many — echoing Isaiah 53."
     }
    ],
    "verified": "2026-11-02",
@@ -14112,6 +14144,36 @@
       "version": "gnv",
       "text": "And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth."
      }
+    },
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3876,
+     "cited_as": "blockquote tail (draft elides the verse head)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "...All power is given unto me, in heaven, and in earth."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft elides \"And Jesus came, and spake unto them, saying,\" (the verse head); the seat restores it. Draft Greek vs WH/BibleHub: verbatim; WH brackets ἐπὶ [τῆς] γῆς — the draft prints τῆς unbracketed (recorded).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.",
+      "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
+     }
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 24: he receives all authority from the Father after resurrection; item 25 commissions the worldwide proclamation."
     }
    ],
    "verified": "2026-11-10",
@@ -14123,12 +14185,22 @@
     "greek_byz": {
      "text": "Καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς.",
      "source": "https://biblehub.com/text/matthew/28-18.htm"
+    },
+    "greek_nestle": {
+     "text": "και προσελθων ο ιησους ελαλησεν αυτοις λεγων εδοθη μοι πασα εξουσια εν ουρανω και επι της γης",
+     "source": "https://biblehub.com/text/matthew/28-18.htm",
+     "verified": "2026-11-11"
     }
    },
    "second_check": {
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/40/28"
+    },
+    "gnv_trb": {
+     "text": "And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.",
+     "source": "https://textusreceptusbibles.com/Geneva/40/28",
+     "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
     }
    }
   },
@@ -14162,6 +14234,17 @@
      "quotes": [],
      "status": "anchor",
      "note": "Ps 110 cited as established (COS-04 seats)."
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 26: He ascends and is enthroned at the Father's right hand (fulfilling Psalm 110:1 MT = 109:1 LXX)."
     }
    ],
    "verified": "2026-11-10",
@@ -14366,6 +14449,17 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #3 Claim B: reference bullet (Peter cites Psalm 110:1); Geneva 34-36 text banked."
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "5.3 observation: the ascension fulfills the \"sit at My right hand\" of Psalm 110:1 per Acts 2:34-35."
     }
    ],
    "verified": "2026-11-11",
@@ -22139,6 +22233,17 @@
       "\"The spirit of the Lord is upon me, because he has anointed me; he has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to the captives and recovery of sight to the blind,\""
      ],
      "status": "confirmed"
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 6: His miracles fulfil Isaiah 61 (the Spirit of the Lord is upon me)."
     }
    ],
    "verified": "2026-11-11",
@@ -23092,6 +23197,17 @@
      ],
      "status": "confirmed",
      "note": "1.6 GNV seat"
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 1: He is the prophesied Servant of the LORD — by His own citation of Isaiah 61 (Luke 4:17-21)."
     }
    ],
    "verified": "2026-11-11",
@@ -23214,6 +23330,17 @@
      ],
      "status": "confirmed",
      "note": "1.6 GNV seat"
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 1: He is the prophesied Servant of the LORD — by His own citation of Isaiah 61 (Luke 4:17-21)."
     }
    ],
    "verified": "2026-11-11",
@@ -23836,6 +23963,17 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64)."
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis items 2-3: the Son of Man of Daniel 7 and \"Christ, the Son of God\" — His own confession."
     }
    ],
    "verified": "2026-11-11",
@@ -25438,6 +25576,586 @@
     }
    },
    "note": "Draft Greek verbatim vs WH/BibleHub. Draft English modern-spelled Geneva (\"always\" for the edition's \"alwayes\")."
+  },
+  {
+   "id": "MAT.28.19",
+   "ref": "Matthew 28:19",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3876,
+     "cited_as": "blockquote mid-segment (span seat)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost,"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "PART of the Matthew 28:18-20 span seat (the draft carries verses 18b-20 as one blockquote). Draft prints \"and of the Son, and of the holy Ghost\" — the Geneva prints \"and the Son, and the holy Ghost\"; the seat prints the Geneva (the draft's two added \"of\"s are not in the edition).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.",
+      "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,",
+     "source": "https://ebible.org/enggnv/MAT28.htm"
+    },
+    "greek_nestle": {
+     "text": "πορευθεντες ουν μαθητευσατε παντα τα εθνη βαπτιζοντες αυτους εις το ονομα του πατρος και του υιου και του αγιου πνευματος",
+     "source": "https://biblehub.com/text/matthew/28-19.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,",
+     "source": "https://textusreceptusbibles.com/Geneva/40/28",
+     "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "MAT.28.20",
+   "ref": "Matthew 28:20",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3876,
+     "cited_as": "blockquote tail (span seat)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Teaching them to observe all things... until the end of the world, Amen."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "PART of the Matthew 28:18-20 span seat. The Geneva ends the verse \"…until the end of the world, Amen.\" — the seat restores the edition's tail (Rev 1:7 precedent). Draft \"until\" for the Geneva's \"vntill\" (modern spelling).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.",
+      "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.",
+     "source": "https://ebible.org/enggnv/MAT28.htm"
+    },
+    "greek_nestle": {
+     "text": "διδασκοντες αυτους τηρειν παντα οσα ενετειλαμην υμιν και ιδου εγω μεθ υμων ειμι πασας τας ημερας εως της συντελειας του αιωνος",
+     "source": "https://biblehub.com/text/matthew/28-20.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.",
+     "source": "https://textusreceptusbibles.com/Geneva/40/28",
+     "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.1.9",
+   "ref": "Acts 1:9",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3896,
+     "cited_as": "blockquote head-segment (span seat)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "And when he had spoken these things, while they beheld, he was taken up..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "First segment of the Acts 1:9-11 ellipsis seat; the draft's \"...\" covers verse 10 (the two men in white — not drafted). Draft \"beheld\" for the Geneva \"behelde\" (modern spelling).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And when he had spoken these things, while they beheld, he was taken up: for a cloud took him up out of their sight. Which also said, Ye men of Galilee, why stand ye gazing into heaven? This Jesus which is taken up from you into heaven, shall so come, as ye have seen him go into heaven.",
+      "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
+     }
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3949,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 26-27 recap: the ascension and the promise of return."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when he had spoken these things, while they behelde, he was taken vp: for a cloude tooke him vp out of their sight.",
+     "source": "https://ebible.org/enggnv/ACT01.htm"
+    },
+    "greek_nestle": {
+     "text": "και ταυτα ειπων βλεποντων αυτων επηρθη και νεφελη υπελαβεν αυτον απο των οφθαλμων αυτων",
+     "source": "https://biblehub.com/text/acts/1-9.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "And when he had spoken these things, while they behelde, he was taken vp: for a cloude tooke him vp out of their sight.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/1",
+     "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.1.11",
+   "ref": "Acts 1:11",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3896,
+     "cited_as": "blockquote tail-segment (span seat)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Which also said, Ye men of Galilee, why stand ye gazing into heaven?..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Second segment of the ellipsis seat. The Geneva prints \"why stand yee gasing into heauen\" — the seat renders the modern spelling \"gazing\" (the 1599 typesetting \"gasing\"; orthographic class, darknesse→darkness precedent). Draft drops the edition's comma after \"shall so come,\"; the seat restores it. Draft \"Jesus\" for \"Iesus\" (modern name pair). Draft Greek vs WH: verbatim except WH βλέποντες where the draft (with the Byz/TR text) reads ἐμβλέποντες — recorded.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And when he had spoken these things, while they beheld, he was taken up: for a cloud took him up out of their sight. Which also said, Ye men of Galilee, why stand ye gazing into heaven? This Jesus which is taken up from you into heaven, shall so come, as ye have seen him go into heaven.",
+      "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
+     }
+    },
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3949,
+     "cited_as": "synthesis recap ref (mention)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 27 recap: he will return in like manner as he ascended."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Which also sayde, Yee men of Galile, why stande yee gasing into heauen? This Iesus which is taken vp from you into heauen, shall so come, as yee haue seene him goe into heauen.",
+     "source": "https://ebible.org/enggnv/ACT01.htm"
+    },
+    "greek_nestle": {
+     "text": "οι και ειπαν ανδρες γαλιλαιοι τι εστηκατε βλεποντες εις τον ουρανον ουτος ο ιησους ο αναλημφθεις αφ υμων εις τον ουρανον ουτως ελευσεται ον τροπον εθεασασθε αυτον πορευομενον εις τον ουρανον",
+     "source": "https://biblehub.com/text/acts/1-11.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "Which also sayde, Yee men of Galile, why stande yee gasing into heauen? This Iesus which is taken vp from you into heauen, shall so come, as yee haue seene him goe into heauen.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/1",
+     "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.20.11-18",
+   "ref": "John 20:11-18",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3862,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "the risen Jesus appears to Mary Magdalene (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.24.36-43",
+   "ref": "Luke 24:36-43",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3863,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "appears to the disciples and shows His wounds (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.20.19-29",
+   "ref": "John 20:19-29",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3863,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "appears to the disciples and shows His wounds, Thomas included (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.24.42-43",
+   "ref": "Luke 24:42-43",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3864,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "eats with His disciples — bodily, not a phantom (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.10.41",
+   "ref": "Acts 10:41",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3864,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "witnesses chosen before of God, who did eat and drink with him after he rose (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "1CO.15.6",
+   "ref": "1 Corinthians 15:6",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3865,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "appears to 500 brethren at once (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.24.25-27",
+   "ref": "Luke 24:25-27",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3866,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "opens their understanding of the Scriptures (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.24.44-47",
+   "ref": "Luke 24:44-47",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3866,
+     "cited_as": "bullet list ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "opens their understanding of the Scriptures (the 5.1 bullet list)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.2.38",
+   "ref": "Acts 2:38",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3886,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.8.16",
+   "ref": "Acts 8:16",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3886,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.10.48",
+   "ref": "Acts 10:48",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3886,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ACT.19.5",
+   "ref": "Acts 19:5",
+   "uses": [
+    {
+     "section": "COS-27",
+     "section_label": "THE CHRIST OF SCRIPTURE — 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)",
+     "article_line": 3886,
+     "cited_as": "prose ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.4.25-26",
+   "ref": "John 4:25-26",
+   "uses": [
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis item ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 3: \"He is the Christ, the Son of God\" — by His own confession; the Samarian woman: we know that the Christ cometh."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "LUK.19.10",
+   "ref": "Luke 19:10",
+   "uses": [
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis item ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 21: He came to seek and to save that which was lost."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MRK.10.45",
+   "ref": "Mark 10:45",
+   "uses": [
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis item ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 20: not to be ministered unto but to minister and give His life a ransom for many — echoing Isaiah 53."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "MAT.5.17",
+   "ref": "Matthew 5:17",
+   "uses": [
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis item ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 19: He came to fulfil, not destroy, the Law and the Prophets."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "JHN.10.10",
+   "ref": "John 10:10",
+   "uses": [
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis item ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 22: He came that they might have life, and have it abundantly."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
+  },
+  {
+   "id": "ISA.35",
+   "ref": "Isaiah 35 (chapter)",
+   "uses": [
+    {
+     "section": "COS-28",
+     "section_label": "THE CHRIST OF SCRIPTURE — 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)",
+     "article_line": 3906,
+     "cited_as": "synthesis item ref (mention-anchor)",
+     "quote_kind": "prose-ref",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "synthesis item 6: His miracles fulfil Isaiah 35 (chapter mention-anchor; the miracles chapters with Isaiah 53 and 61)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {},
+   "second_check": {},
+   "note": ""
   }
  ]
 }
