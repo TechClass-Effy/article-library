@@ -109,7 +109,8 @@
    "COS-54",
    "COS-55",
    "COS-56",
-   "COS-57"
+   "COS-57",
+   "COS-58"
   ],
   "sections": [
    {
@@ -493,6 +494,10 @@
    {
     "key": "COS-57",
     "label": "61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness"
+   },
+   {
+    "key": "COS-58",
+    "label": "Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit"
    }
   ],
   "double_check": {
@@ -555,7 +560,7 @@
   },
   "so_far_words": 61749,
   "cos_sofar": {
-   "waves": 30
+   "waves": 31
   },
   "glossary": 887
  },
@@ -2973,6 +2978,16 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis step 1 — Ezek 36:27",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "pattern-table reference; NETS pending (flag)."
     }
    ],
    "verified": "2026-11-02",
@@ -3002,7 +3017,17 @@
     "brenton": {
      "result": "agree",
      "url": "https://biblehub.com/sep/ and http://qbible.com/brenton-septuagint/"
+    },
+    "trb_fresh": {
+     "text": "And I will put my spirite within you, and cause you to walke in my statutes, and ye shall keepe my iudgements and do them.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/26/36",
+     "result": "exact per-verse (eBible==TRB 1.000 fresh; TRB OT book 26 = Ezekiel confirmed by the returned text)"
     }
+   },
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "NETS Ezekiel is not in the nets_cache and no Oxford PDF master is scraped — the NETS text for the synthesis-table reference is pending (the 2CH.16.9 pattern). GNV banked and TRB-verified; brenton/kjv era texts kept on the row.",
+    "awaiting": "next run / Gideon"
    }
   },
   {
@@ -11527,6 +11552,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — the Shema",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "What-This-Honors table ref."
     }
    ],
    "verified": "2026-11-12",
@@ -11675,6 +11710,16 @@
      "status": "anchor",
      "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention); the range anchors on ISA.44.6 (wave-9 convention).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 0,
+     "cited_as": "What-This-Honors — Isaiah 44-46",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "range mention; ISA cache rows carry the NETS texts."
     }
    ],
    "verified": "2026-11-12",
@@ -12916,6 +12961,16 @@
      "status": "anchor",
      "note": "Pattern-table mention; re-cited at 6406.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — John 17:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "What-This-Honors table ref."
     }
    ],
    "verified": "2026-11-12",
@@ -13074,6 +13129,16 @@
      "status": "anchor",
      "note": "Pattern-table mention with the load-bearing Greek fragments kept in the table verbatim; re-cited at 6406.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — 1 Cor 8:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "both the what-establishes #2 pattern and the What-This-Honors table ref."
     }
    ],
    "verified": "2026-11-12",
@@ -14729,6 +14794,18 @@
      "status": "confirmed",
      "note": "pattern list: exaltation",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "(seat) Acts 2:32-36",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "pre-banked row re-seated inside the Acts 2:32-36 span seat; wave-3 comma note CONFIRMED on the 1599 print."
     }
    ],
    "verified": "2026-11-11",
@@ -14746,6 +14823,16 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/44/2"
+    },
+    "trb_fresh": {
+     "text": "Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/2",
+     "result": "exact per-verse (eBible==TRB 1.000 fresh; confirms the wave-3 comma note “both Lord, and Christ”)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀσφαλῶς οὖν γινωσκέτω πᾶς οἶκος Ἰσραὴλ ὅτι καὶ Κύριον αὐτὸν καὶ Χριστὸν ἐποίησεν ὁ Θεός, τοῦτον τὸν Ἰησοῦν ὃν ὑμεῖς ἐσταυρώσατε.",
+     "source": "https://biblehub.com/text/acts/2-36.htm (WH)",
+     "result": "draft Greek v36 == WH (see ACT span group check)"
     }
    }
   },
@@ -15082,6 +15169,16 @@
      "status": "anchor",
      "note": "Ps 110:1 seat row re-referenced for the Lamb's bodily enthronement.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "Context ref — Psalm 110:1 (LXX 109:1)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "Peter’s citation at Acts 2:34-35; the section names the connection in prose."
     }
    ],
    "verified": "2026-11-12",
@@ -21859,6 +21956,16 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Rom 4:25",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "table step-3 ref."
     }
    ],
    "verified": "2026-11-11",
@@ -25377,6 +25484,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "prose-ref cross in (D) Revelation-1 wave"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Mark 13:32",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "What-This-Honors table ref."
     }
    ],
    "verified": "2026-11-11",
@@ -25984,6 +26101,16 @@
      "status": "confirmed",
      "note": "Two-Critical-Points: 'Only the Father knows the day and hour (Matt 24:36; Mark 13:32; Acts 1:7)'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Acts 1:7",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "What-This-Honors table ref."
     }
    ],
    "verified": "2026-11-11",
@@ -26639,6 +26766,18 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag."
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6900,
+     "cited_as": "(seat re-present) John 7:37-39",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-16 span seat re-presented; the head (v37a) lies outside the draft’s span (leading ellipsis kept)."
     }
    ],
    "verified": "2026-11-11",
@@ -26662,6 +26801,11 @@
      "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
      "source": "https://biblehub.com/text/john/7-37.htm",
      "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)"
+    },
+    "trb_fresh": {
+     "text": "Nowe in the last and great day of the feast, Iesus stoode and cried, saying, If any man thirst, let him come vnto me, and drinke.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/7",
+     "result": "exact per-verse (eBible==TRB 1.000 fresh)"
     }
    },
    "note": ""
@@ -26682,6 +26826,18 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Draft block wording: v. 37 opens at the mid-verse “If any man thirst” — the Geneva’s festival-setting intro is elided by the draft ellipsis; v. 38’s draft ellipsis elided “as saith the Scripture” — the seat prints the full Geneva verse; v. 39 keeps the Geneva’s opening parenthesis and cuts before “: for the holy Ghost was not yet giuen…”. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 0.94. Draft-vs-Nestle word variants: εἴ→ABSENT-in-Nestle/WH; ὃ→ABSENT-in-Nestle/WH; recorded, no flag."
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6900,
+     "cited_as": "(seat re-present) John 7:37-39",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-16 v38 full-verse seat re-presented; eBible==TRB 1.000 fresh per verse."
     }
    ],
    "verified": "2026-11-11",
@@ -26705,6 +26861,16 @@
      "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
      "source": "https://biblehub.com/text/john/7-38.htm",
      "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)"
+    },
+    "trb_fresh": {
+     "text": "Hee that beleeueth in mee, as saith the Scripture, out of his bellie shall flowe riuers of water of life.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/7",
+     "result": "exact per-verse (eBible==TRB 1.000 fresh)"
+    },
+    "greek_biblehub_span": {
+     "text": "(span 7:37b-39 group)",
+     "source": "https://biblehub.com/text/john/ (WH; v37a festival head elided by the draft’s ellipsis)",
+     "result": "JHN 7:37b-39 draft-Greek group coverage 0.788 vs WH whole-group join; cutting the elided WH head the coverage is 0.953"
     }
    },
    "note": ""
@@ -26735,6 +26901,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6900,
+     "cited_as": "(seat re-present) John 7:37-39",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-16 v39 seat re-presented; print “beleeued in him, should receiue” — seat modern-folds “believed in him, should receive”."
     }
    ],
    "verified": "2026-11-11",
@@ -26758,6 +26936,11 @@
      "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
      "source": "https://biblehub.com/text/john/7-39.htm",
      "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 0.94 (see row note for variants)"
+    },
+    "trb_fresh": {
+     "text": "(This spake hee of the Spirite which they that beleeued in him, should receiue: for the holy Ghost was not yet giuen, because that Iesus was not yet glorified.)",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/7",
+     "result": "exact per-verse (eBible==TRB 1.000 fresh)"
     }
    },
    "note": ""
@@ -26814,6 +26997,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "(seat re-present) Acts 2:32-36",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "wave-16 verse row re-presented inside the Acts 2:32-36 span seat (eBible==TRB 1.000 fresh); the verse in its context is the section’s subject."
     }
    ],
    "verified": "2026-11-12",
@@ -26837,6 +27032,21 @@
      "text": "draft Greek segments = BibleHub /text/ Nestle/WH word-set over the group",
      "source": "https://biblehub.com/text/acts/2-33.htm",
      "result": "verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)"
+    },
+    "trb_fresh": {
+     "text": "Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/2",
+     "result": "exact per-verse (eBible==TRB 1.000 fresh)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τῇ δεξιᾷ οὖν τοῦ Θεοῦ ὑψωθεὶς τήν τε ἐπαγγελίαν τοῦ Πνεύματος τοῦ Ἁγίου λαβὼν παρὰ τοῦ Πατρὸς ἐξέχεεν τοῦτο ὃ ὑμεῖς καὶ βλέπετε καὶ ἀκούετε.",
+     "source": "https://biblehub.com/text/acts/2-33.htm (WH)",
+     "result": "draft Greek v33 == WH (see ACT span group check)"
+    },
+    "greek_biblehub_span": {
+     "text": "(span 2:32-36 group)",
+     "source": "https://biblehub.com/text/acts/ (WH whole-group join)",
+     "result": "ACT 2:32-36 draft-Greek group coverage 1.000 vs WH whole-group join; verse-by-verse WH text banked on each row"
     }
    },
    "note": ""
@@ -29623,6 +29833,16 @@
      "status": "anchor",
      "note": "Pattern-table mention; re-cited at 6374/6406.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — 1 Tim 2:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "What-This-Honors table ref."
     }
    ],
    "verified": "2026-11-12",
@@ -30641,6 +30861,16 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "wave-25 seat re-presented full-verse; “Labe *(Lamb)*” print artifact + gloss carried per wave-25 class"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Rev 5:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "table step-6 ref (the seven Spirits sent into all the earth)."
     }
    ],
    "verified": "2026-11-11",
@@ -32470,6 +32700,16 @@
      "status": "confirmed",
      "note": "pure mention-anchor, no text (\"Hand all things over to the Father... which we will examine in (C)\") — the (C) wave seats 15:20-28 fully — filled by per-verse COS-40 seats (15:20-28) this wave",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — 1 Cor 15:24-28",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the Son subjects himself to the Father (wave-22 anchor)."
     }
    ],
    "verified": "2026-11-11",
@@ -33352,6 +33592,16 @@
      "status": "confirmed",
      "note": "synthesis pattern-list mention (Phil 2:9-11)",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Phil 2:9 (-11)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "table step-4 ref and the What-This-Honors “Phil 2:9-11” ref."
     }
    ],
    "verified": "2026-11-11",
@@ -36144,6 +36394,16 @@
      "status": "anchor",
      "note": "Pattern-table mention; re-cited at 6399 in the Grand Synthesis.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — John 4:24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the Father is Spirit by Nature (wave-27 seat verse)."
     }
    ],
    "verified": "2026-11-12",
@@ -36236,6 +36496,16 @@
      "status": "seat",
      "note": "Seat = the 1599 print modern-spelled (bee/euen/vs/worlde/beleeue > modern). Draft quoted the head clause with ellipsis; the tail restored per the full-verses ruling.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Closing observation — John 17:21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the beauty-of-Acts-2:33 observation quotes the prayer KJV-voiced; flag updated."
     }
    ],
    "verified": "2026-11-12",
@@ -36259,8 +36529,8 @@
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "(F)-preview quotes John 17:20-23 in KJV voice; the 1599 differs in wording. Propose attribution or re-voice — his word.",
-    "awaiting": "Gideon"
+    "awaiting": "Gideon",
+    "detail": "(F)-preview quotes John 17:20-23 in KJV voice; the 1599 differs in wording. Propose attribution or re-voice — his word. Wave-31 UPDATE: the Acts 2:33 section’s closing observation also quotes “that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us” — same KJV voice (the 1599 print reads “as thou, O Father, art in me... they may be also one in vs” — word order and “O Father” differ)."
    },
    "second_checks": {
     "greek_biblehub_fresh": {
@@ -36899,6 +37169,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "What-establishes #3 — Jer 23:24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "mention re-cited (wave-27/30 rows)."
     }
    ],
    "verified": "2026-11-12",
@@ -37037,6 +37317,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 0,
+     "cited_as": "What-establishes #3 — Ps 138(139):7-10",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "LXX-numbered range mention; per-verse rows PSA.139.7-10 (wave-27)."
     }
    ],
    "verified": "2026-11-12",
@@ -38168,6 +38458,16 @@
      "status": "anchor",
      "note": "Pattern-table mention; re-cited at 6372.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Heb 1:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "table step-4 ref."
     }
    ],
    "verified": "2026-11-12",
@@ -38348,6 +38648,16 @@
      "status": "anchor",
      "note": "Coherence point 3.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis step 2 — John 14:10",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "pattern-table reference (the Father indwelt the Son during the earthly ministry)."
     }
    ],
    "verified": "2026-11-12",
@@ -38519,6 +38829,16 @@
      "status": "anchor",
      "note": "Coherence point 3.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Acts 10:38",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "table step-2 ref."
     }
    ],
    "verified": "2026-11-12",
@@ -38640,6 +38960,16 @@
      "status": "anchor",
      "note": "Draft fragment is KJV-voiced (\"in the power\" vs the 1599 \"by the power\"; \"into Galilee\" also dropped).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis — Luke 4:14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "table step-2 ref."
     }
    ],
    "verified": "2026-11-12",
@@ -39353,6 +39683,625 @@
     "awaiting": "next run / Gideon word on the seat proposal"
    },
    "diff_notes": "GNV/MT prints the whole verse (“thou hast then done foolishly...”); the draft’s excerpts use only the eyes-of-the-Lord head clause. TRB OT book number 14 confirmed against eBible==TRB 1.000."
+  },
+  {
+   "id": "ACT.2.32",
+   "ref": "Acts 2:32",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "This Iesus hath God raised vp, whereof we all are witnesses.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "This Iesus hath God raised vp, whereof we all are witnesses.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τοῦτον τὸν Ἰησοῦν ἀνέστησεν ὁ Θεός, οὗ πάντες ἡμεῖς ἐσμεν μάρτυρες·",
+     "source": "https://biblehub.com/text/acts/2-32.htm (WH)",
+     "result": "draft Greek v32 == WH (see ACT span group check)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "(seat) Acts 2:32-36",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Geneva-modern full span; draft Greek block dropped per seat shape (Greek survives in prose); also the synthesis-table step-3 ref."
+    }
+   ],
+   "diff_notes": "Draft spells match the print at modern fold."
+  },
+  {
+   "id": "ACT.2.34",
+   "ref": "Acts 2:34",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande,",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς, λέγει δὲ αὐτός Εἶπεν ‹ὁ› Κύριος τῷ Κυρίῳ μου Κάθου ἐκ δεξιῶν μου,",
+     "source": "https://biblehub.com/text/acts/2-34.htm (WH)",
+     "result": "draft Greek v34 == WH (see ACT span group check)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "(seat) Acts 2:32-36",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "v34/v35 verse-break join: the print breaks “at my right hande, / Vntill” — seat joins “right hand, Until” per the wave-3 note; also the synthesis-table step-4 ref (Acts 2:33-34)."
+    }
+   ],
+   "diff_notes": "print “sayth” — seat modern-spells “saith”; “Dauid” David; “heauen” heaven; “right hande” right hand."
+  },
+  {
+   "id": "ACT.2.35",
+   "ref": "Acts 2:35",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Vntill I make thine enemies thy footestoole.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Vntill I make thine enemies thy footestoole.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου.",
+     "source": "https://biblehub.com/text/acts/2-35.htm (WH)",
+     "result": "draft Greek v35 == WH (see ACT span group check)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "(seat) Acts 2:32-36",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "v35 opens “Vntill” — seat capitalizes “Until” at the join (wave-3 note)."
+    }
+   ],
+   "diff_notes": "print “footestoole” — seat VERBATIM with gloss *(footstool)* per the wave-22 print-artifact class."
+  },
+  {
+   "id": "JHN.15.26",
+   "ref": "John 15:26",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But when that Comforter shall come, whom I will send vnto you from the Father, euen the Spirit of trueth, which proceedeth of the Father, he shall testifie of me.",
+     "source": "https://ebible.org/enggnv/JHN15.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But when that Comforter shall come, whom I will send vnto you from the Father, euen the Spirit of trueth, which proceedeth of the Father, he shall testifie of me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/15",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὅταν ἔλθῃ ὁ Παράκλητος ὃν ἐγὼ πέμψω ὑμῖν παρὰ τοῦ Πατρός, τὸ Πνεῦμα τῆς ἀληθείας ὃ παρὰ τοῦ Πατρὸς ἐκπορεύεται, ἐκεῖνος μαρτυρήσει περὶ ἐμοῦ·",
+     "source": "https://biblehub.com/text/john/15-26.htm (WH)",
+     "result": "draft Greek full verse vs WH: 0.952; full-verse token set"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6804,
+     "cited_as": "Clause 2 — the same construction Jesus Himself used",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Geneva-modern full verse; draft Greek block dropped per seat shape; the double παρά τοῦ Πατρός construction is the clause-2 argument; Greek survives in the prose (ἐκπορεύεται)."
+    }
+   ],
+   "diff_notes": "print “trueth” truth; “euen” even; “testifie” testify — seat modern-folds."
+  },
+  {
+   "id": "JOE.2.28",
+   "ref": "Joel 2:28 LXX",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And it shall be after these things, I will pour out of my spirit on all flesh, and your sons and your daughters shall prophesy, and your old men shall dream dreams, and your young men shall see visions.",
+     "source": "NETS Joel (Oxford PDF master 32-twelve.pdf pdf-p25 / print p802, running head ioel 2-3; verse mark 28; Joel NOT in the nets_cache — print dump banked)"
+    }
+   },
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6824,
+     "cited_as": "Clause 3 — cited in Acts 2:17-18",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "NETS seat over the draft’s internal ellipsis (his Greek span covers the pour-out clause and 3:2(2:29); the sons/daughters/old-men/young-men clause is his own ellipsis). Draft Greek + Geneva OT blocks dropped per seat shape (wave-15 Daniel class). The clause-3 prose echo “I will pour out My Spirit” is KJV-voiced."
+    },
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis step 1 — Joel 2:28-29 LXX",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "pattern-table reference."
+    }
+   ],
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Clause-3 prose quotes “I will pour out My Spirit” — the NETS print reads “I will pour out of my spirit” and the 1599 “I wil powre out my Spirite vpon all flesh” wording; the echo is KJV-voiced. Propose the italic version-name in line or leave as prose echo — his word.",
+    "awaiting": "Gideon"
+   },
+   "diff_notes": "BOTH-MAPS: NETS/MT-numbering 2:28 == traditional LXX 3:1 (Rahlfs numbers the pour-out chapter 3); the draft labels it “Joel 3:1-2 LXX (= Joel 2:28-29 MT)”. NETS prints “of my spirit on all flesh” vs LXX ἐκχεῶ ἀπὸ τοῦ Πνεύματός μου ἐπὶ πᾶσαν σάρκα."
+  },
+  {
+   "id": "JOE.2.29",
+   "ref": "Joel 2:29 LXX",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "Even on the male and female slaves, in those days, I will pour out of my spirit.",
+     "source": "NETS Joel (Oxford PDF master 32-twelve.pdf pdf-p25 / print p802, running head ioel 2-3; verse mark 29; Joel NOT in the nets_cache — print dump banked)"
+    }
+   },
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6824,
+     "cited_as": "Clause 3 — cited in Acts 2:17-18",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "the second NETS segment (v29) covered by the draft’s own span; see JOE.2.28 for the seat note."
+    }
+   ],
+   "diff_notes": "BOTH-MAPS: NETS/MT 2:29 == traditional LXX 3:2; NETS “Even on the male and female slaves” vs LXX καί γε ἐπὶ τοὺς δούλους."
+  },
+  {
+   "id": "EPH.4.7",
+   "ref": "Ephesians 4:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But vnto euery one of vs is giuen grace, according to the measure of the gift of Christ.",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But vnto euery one of vs is giuen grace, according to the measure of the gift of Christ.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἑνὶ δὲ ἑκάστῳ ἡμῶν ἐδόθη ἡ χάρις κατὰ τὸ μέτρον τῆς δωρεᾶς τοῦ Χριστοῦ.",
+     "source": "https://biblehub.com/text/ephesians/4-7.htm (WH)",
+     "result": "draft Greek selection v7 vs WH (see EPH group check)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6921,
+     "cited_as": "Cross-witness — Ephesians 4:7-10",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "Geneva-modern span seat (v7 + v8 + v9/v10 paren)."
+    }
+   ],
+   "diff_notes": "print “vnto euery one of vs is giuen” — seat modern-folds."
+  },
+  {
+   "id": "EPH.4.8",
+   "ref": "Ephesians 4:8",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherfore he saith, Whe he asceded vp on hie, he led captiuity captiue, and gaue gifts vnto men.",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherfore he saith, Whe he asceded vp on hie, he led captiuity captiue, and gaue gifts vnto men.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "διὸ λέγει Ἀναβὰς εἰς ὕψος ᾐχμαλώτευσεν αἰχμαλωσίαν, (καὶ) ἔδωκεν δόματα τοῖς ἀνθρώποις.",
+     "source": "https://biblehub.com/text/ephesians/4-8.htm (WH)",
+     "result": "draft Greek selection v8 vs WH (see EPH group check)"
+    },
+    "greek_biblehub_span": {
+     "text": "(selection span)",
+     "source": "https://biblehub.com/text/ephesians/ (WH per-verse)",
+     "result": "EPH draft-Greek selections vs WH: v7+v8 group 0.962, v10 1.000"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6921,
+     "cited_as": "Cross-witness — Ephesians 4:7-10",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "the 1599 print’s artifact class “Whe he asceded vp on hie” (both eBible and TRB print it identically) seats VERBATIM with glosses *(When)* *(ascended)* *(high)* per the Matt-24:29 / wave-22 class."
+    }
+   ],
+   "diff_notes": "print “gaue gifts vnto men” (this chapter prints “gifts” without y); observation’s inner quote “When He ascended on high, He gave gifts to men.” compresses the print (omits “he led captivity captive”) — noted, the seat sits directly above."
+  },
+  {
+   "id": "EPH.4.9",
+   "ref": "Ephesians 4:9",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "(Nowe, in that hee ascended, what is it but that he had also descended first into the lowest partes of the earth?",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "(Nowe, in that hee ascended, what is it but that he had also descended first into the lowest partes of the earth?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6921,
+     "cited_as": "Cross-witness — Ephesians 4:7-10",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "the draft’s ellipsis covered v9; the paren restored FULL per the wave-16 rule (v9 opens “(Nowe” and v10 closes it) — elided-text row banked with the print text."
+    }
+   ],
+   "diff_notes": "print “partes” parts — seat modern-folds."
+  },
+  {
+   "id": "EPH.4.10",
+   "ref": "Ephesians 4:10",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Hee that descended, is euen the same that ascended, farre aboue all heauens, that hee might fill all things)",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Hee that descended, is euen the same that ascended, farre aboue all heauens, that hee might fill all things)",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ καταβὰς αὐτός ἐστιν καὶ ὁ ἀναβὰς ὑπεράνω πάντων τῶν οὐρανῶν, ἵνα πληρώσῃ τὰ πάντα.",
+     "source": "https://biblehub.com/text/ephesians/4-10.htm (WH)",
+     "result": "draft Greek selection v10 vs WH (see EPH group check)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6921,
+     "cited_as": "Cross-witness — Ephesians 4:7-10",
+     "quotes": [
+      "COS-58 seat — see polish 33-wave-31"
+     ],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "the print’s closing paren after “all things)” kept (pairs with v9’s opening paren)."
+    }
+   ],
+   "diff_notes": "Draft’s Geneva block read “is even the same that ascended” — the print reads “is euen the same that ascended” (no “also” in either); the draft dropped “up” in “ascended up” hmm — print v10 “that ascended, farre aboue” (no “up”) vs draft “ascended, far above” — match."
+  },
+  {
+   "id": "PSA.67.19",
+   "ref": "Psalm 67:19 LXX (Ps 68:18 MT)",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "You ascended on high; you led captivity captive; you received gifts by a person, indeed, whene they were disobedient to encamp.",
+     "source": "NETS Psalms (Oxford PDF master 24-ps.pdf pdf-p38 / print p579, head psalms 66(67)-67(68); mark 19(18))"
+    }
+   },
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6921,
+     "cited_as": "Observation — Paul cites this psalm in Eph 4:8",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "mention-anchor row; the observation’s inner citation-compression noted on EPH.4.8."
+    }
+   ],
+   "diff_notes": "BOTH-MAPS: print mark 19(18) = LXX 67:19 / MT 68:18; the draft’s label “Psalm 67:18 LXX (Ps 68:18 MT)” reads the paren as LXX — the print’s LXX number is 19 (wave-23 Ps-8 class: both-maps recorded, prose untouched). NETS sigla “whene” stays verbatim on the banked text."
+  },
+  {
+   "id": "LUK.24.49",
+   "ref": "Luke 24:49",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And beholde, I doe sende the promise of my Father vpon you: but tary ye in the citie of Hierusalem, vntill ye be endued with power from an hie.",
+     "source": "https://ebible.org/enggnv/LUK24.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And beholde, I doe sende the promise of my Father vpon you: but tary ye in the citie of Hierusalem, vntill ye be endued with power from an hie.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/24",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "Clause-2 list — Luke 24:49",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the observation fragment “behold, I send the promise of My Father upon you” is KJV-voiced (1599 reads “And beholde, I doe sende the promise of my Father vpon you:”)."
+    }
+   ],
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Clause-2 observation fragment is KJV-voiced; the 1599 print differs (“I doe sende the promise”). Propose the italic version-name in line — his word.",
+    "awaiting": "Gideon"
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ACT.1.4",
+   "ref": "Acts 1:4",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And when he had gathered them together, he commanded them, that they should not depart from Hierusalem, but to waite for the promise of the Father, which sayde hee, yee haue heard of me.",
+     "source": "https://ebible.org/enggnv/ACT01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when he had gathered them together, he commanded them, that they should not depart from Hierusalem, but to waite for the promise of the Father, which sayde hee, yee haue heard of me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/1",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "Clause-2 list — Acts 1:4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the fragment “wait for the promise of the Father” is a verbatim substring of the Geneva at modern fold — good-reason (wave-16 class), no flag."
+    }
+   ],
+   "diff_notes": ""
+  },
+  {
+   "id": "GAL.3.14",
+   "ref": "Galatians 3:14",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That the blessing of Abraham might come on the Gentiles through Christ Iesus, that wee might receiue the promise of the Spirite through faith.",
+     "source": "https://ebible.org/enggnv/GAL03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That the blessing of Abraham might come on the Gentiles through Christ Iesus, that wee might receiue the promise of the Spirite through faith.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/3",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "Clause-2 list — Galatians 3:14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the fragment “that we might receive the promise of the Spirit through faith” is word-for-word Geneva at modern spelling — good-reason (wave-16 class), no flag."
+    }
+   ],
+   "diff_notes": ""
+  },
+  {
+   "id": "EPH.1.13",
+   "ref": "Ephesians 1:13",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,",
+     "source": "https://ebible.org/enggnv/EPH01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/1",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6745,
+     "cited_as": "Clause-2 list — Ephesians 1:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the fragment “sealed with the Holy Spirit of promise” matches the Geneva at modern fold with modern caps (“the holy Spirite of promise” — caps class, good-reason, no flag)."
+    }
+   ],
+   "diff_notes": ""
+  },
+  {
+   "id": "1CO.12.11",
+   "ref": "1 Corinthians 12:11",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And all these thinges worketh one and the selfe same Spirit, distributing to euery man seuerally as he will.",
+     "source": "https://ebible.org/enggnv/1CO12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And all these thinges worketh one and the selfe same Spirit, distributing to euery man seuerally as he will.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/12",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6921,
+     "cited_as": "Observation — 1 Cor 12:4-11",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the observation fragment “the same Spirit... distributing to each as He wills” is neither the 1599 (“distributing to euerie man his gift diuerslie, as he will”) nor KJV (“dividing to every man severally”) — a modernized compression."
+    }
+   ],
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Observation fragment is a modernized compression, not the 1599 print. Propose the italic version-name in line or seat the 1599 wording — his word.",
+    "awaiting": "Gideon"
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "1CO.15.3-4",
+   "ref": "1 Corinthians 15:3-4",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For first of all, I deliuered vnto you that which I receiued, how that Christ died for our sinnes, according to the Scriptures, And that he was buried, and that he arose the third day, according to the Scriptures,",
+     "source": "https://ebible.org/enggnv/1CO15.htm (range join)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For first of all, I deliuered vnto you that which I receiued, how that Christ died for our sinnes, according to the Scriptures, And that he was buried, and that he arose the third day, according to the Scriptures,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/15",
+     "result": "exact per-verse join (eBible==TRB 1.000 on both verses)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis step 3 — 1 Cor 15:3-4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "pattern-table reference (crucified, raised)."
+    }
+   ],
+   "diff_notes": ""
+  },
+  {
+   "id": "ISA.44.3",
+   "ref": "Isaiah 44:3",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "because I will provide water in their thirst to those who walk in a dry land; I will put my spirit on your offspring and my blessings on your children.",
+     "source": "NETS Isaiah (Oxford PDF master; ISA cache; print==cache verified for the ISA book in earlier waves)"
+    }
+   },
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-58",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit",
+     "article_line": 6942,
+     "cited_as": "Synthesis step 1 — Isa 44:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "pattern-table reference (the Father pours His Spirit on the offspring)."
+    }
+   ],
+   "diff_notes": ""
   }
  ]
 }

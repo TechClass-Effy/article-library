@@ -85,3 +85,6 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 
 54. (E) A Question Concerning the "Seven Spirits" — A Careful Examination (Revelation 1:4, 3:1, 4:5, 5:6 Geneva seats; Isaiah 11:2-3 NETS; Zechariah 4 NETS selections; 2 Chronicles 16:9 draft blocks + Swete Greek note; Psalm 138(139):7-10; Jeremiah 23:24; Acts 17:28; what we can honestly say; what we should not say; The Beautiful Picture; READY TO RETURN TO PART F)
 
+
+
+55. (E) The Acts 2:33 Examination — The Exalted Son Receives and Pours Forth the Promise of the Spirit (Acts 2:32-36 Geneva span seat; John 15:26 seat; Joel 2:28-29 NETS seat; John 7:37-39 re-presented; Ephesians 4:7-10 seat; cross-witness fragments Luke 24:49 / Acts 1:4 / Gal 3:14 / Eph 1:13; Psalm 67(68):18; 1 Corinthians 12:11 note; the pattern table banked; what is established; what this preserves; the beauty of Acts 2:33; READY FOR PART F)
