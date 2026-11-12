@@ -132,7 +132,8 @@
    "COS-77",
    "COS-78",
    "COS-79",
-   "COS-80"
+   "COS-80",
+   "COS-81"
   ],
   "sections": [
    {
@@ -608,6 +609,10 @@
    {
     "key": "COS-80",
     "label": "PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications"
+   },
+   {
+    "key": "COS-81",
+    "label": "PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications"
    }
   ],
   "double_check": {
@@ -668,11 +673,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 108540,
+  "so_far_words": 109059,
   "cos_sofar": {
-   "waves": 50
+   "waves": 51
   },
-  "glossary": 1282
+  "glossary": 1284
  },
  "verses": [
   {
@@ -2541,6 +2546,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-81",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications",
+     "article_line": 12413,
+     "cited_as": "1 John 1:9 seat (canon 12413)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: EXACT-MODERN — the 1599 print ends 'vnrighteousnes.' (eBible==TRB fresh; BibleHub-Geneva 1587 concurs) = draft's 'unrightuousness' modern-fold old-orthography class; no splice. Also referenced at canon 12435 (position vs fellowship), 12437, 12475 (Practical (3))",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-02",
@@ -2562,6 +2577,16 @@
     "kjv": {
      "result": "agree",
      "url": "https://biblehub.com/kjv/"
+    },
+    "trb_fresh": {
+     "text": "If we acknowledge our sinnes, he is faithfull and iust, to forgiue vs our sinnes, and to clense vs from all vnrighteousnes.",
+     "source": "https://textusreceptusbibles.com/Geneva/62/1 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος, ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας. ΙΩΑΝΝΟΥ Α΄ || ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας. ΙΩΑΝΝΟΥ Α΄ || Ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας, καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας. ΙΩΑΝΝΟΥ Α΄ || ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστι καὶ δίκαιος, ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας. ΙΩΑΝΝΟΥ Α΄ || ἐάν ὁμολογέω ὁ ἁμαρτία ἡμᾶς πιστός εἰμί καί δίκαιος ἵνα ἀφίημι ἡμᾶς ὁ ἁμαρτία καί καθαρίζω ἡμᾶς ἀπό πᾶς ἀδικία ΙΩΑΝΝΟΥ Α΄ || ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστι καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας, καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας. ΙΩΑΝΝΟΥ Α΄ || ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν πιστός ἐστιν καὶ δίκαιος ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας || ἐὰν ὁμολογῶμεν τὰς ἁμαρτίας ἡμῶν, πιστός ἐστιν καὶ δίκαιος, ἵνα ἀφῇ ἡμῖν τὰς ἁμαρτίας καὶ καθαρίσῃ ἡμᾶς ἀπὸ πάσης ἀδικίας",
+     "source": "biblehub.com/text/1_john/1-9",
+     "result": "set-containment 1.000; page variant column reads ἐστι vs seat/Byzantine ἐστιν — row-noted"
     }
    }
   },
@@ -9820,6 +9845,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-81",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications",
+     "article_line": 12433,
+     "cited_as": "Position vs. Fellowship — \"forgiven, justified, accepted in the Beloved\" (Eph 1:6 echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "\"accepted in the Beloved\" echo — drops the print's \"freely\" (flag class); mention only",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -9843,7 +9878,7 @@
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "draft compresses the 1599 (\"made us accepted\" vs print \"made us freely accepted in his beloued\"); awaits Gideon — scope UPDATED Nov 12: the POINT-6 seat (canon 8918) now seats the print \"freely accepted\" verbatim",
+    "detail": "draft compresses the 1599 (\"made us accepted\" vs print \"made us freely accepted in his beloued\"); awaits Gideon — scope UPDATED Nov 12: the POINT-6 seat (canon 8918) now seats the print \"freely accepted\" verbatim Scope widened Nov 12 wave 51: the Position-vs-Fellowship echo (canon 12433) also drops \"freely\".",
     "awaiting": "Gideon"
    }
   },
@@ -10271,6 +10306,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-81",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications",
+     "article_line": 12435,
+     "cited_as": "Position vs. Fellowship — \"daily sin grieves the indwelling Spirit (Eph 4:30)\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "mention only; text pre-banked",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -55044,6 +55089,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-81",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications",
+     "article_line": 12458,
+     "cited_as": "James 5:16 seat (canon 12458)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: ZERO-SPLICE exact-modern (faultes/auaileth/feruent folds); draft Greek καὶ εὔχεσθε matches the page's εὔχεσθε column; variant column προσεύχεσθε; TR column reads τὰ παραπτώματα — row-noted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -55056,8 +55111,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.",
-     "source": "https://textusreceptusbibles.com/Geneva/59/5",
+     "source": "https://textusreceptusbibles.com/Geneva/59/5 (fresh)",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας, καὶ προσεύχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε. πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη. ΙΑΚΩΒΟΥ || ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας καὶ προσεύχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε. πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη. ΙΑΚΩΒΟΥ || ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας καὶ προσεύχεσθε || εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε. πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη. ΙΑΚΩΒΟΥ || Ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα, καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε. Πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη. ΙΑΚΩΒΟΥ || ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα, καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε· πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη. ΙΑΚΩΒΟΥ || ἐξομολογέω οὖν ἀλλήλων ὁ ἁμαρτία καί εὔχομαι ὑπέρ ἀλλήλων ὅπως ἰάομαι πολύς ἰσχύω δέησις δίκαιος ἐνεργέω ΙΑΚΩΒΟΥ || ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα, καὶ εὔχεσθε ὑπὲρ ἀλλήλων, ὅπως ἰαθῆτε. πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη. ΙΑΚΩΒΟΥ || ἐξομολογεῖσθε ἀλλήλοις τὰ παραπτώματα, καὶ εὔχεσθε ὑπὲρ ἀλλήλων ὅπως ἰαθῆτε πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη || ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας καὶ προσεύχεσθε ὑπὲρ ἀλλήλων ὅπως ἰαθῆτε. πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη",
+     "source": "biblehub.com/text/james/5-16",
+     "result": "set-containment 1.000 (εὔχεσθε on page; variant columns recorded)"
     }
    },
    "note": ""
@@ -56007,6 +56067,44 @@
     }
    },
    "note": "NETS Genesis numbering == MT here (plain 12 mark; no LXX/MT map)"
+  },
+  {
+   "id": "1CO.11",
+   "ref": "1 Corinthians 11",
+   "uses": [
+    {
+     "section": "COS-81",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications",
+     "article_line": 12447,
+     "cited_as": "The Pattern of Daily Confession (3) — \"self-examination per 1 Cor 11\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "chapter-only mention; per-verse rows 11:23-29 pre-banked (COS-79)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "note": "chapter anchor (ISA.35 shape)"
+  },
+  {
+   "id": "DAN.9",
+   "ref": "Daniel 9",
+   "uses": [
+    {
+     "section": "COS-81",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications",
+     "article_line": 12480,
+     "cited_as": "Practical Implications (5) — \"as Daniel did in Dan 9\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "chapter-only mention; NETS Daniel book cache absent (ch-7 print-dump rows only)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "note": "chapter anchor (ISA.35 shape)"
   }
  ]
 }

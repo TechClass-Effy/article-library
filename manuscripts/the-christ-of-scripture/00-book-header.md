@@ -169,3 +169,14 @@ seated 'appertain *(applies)*'; the print's comma restored over the draft's colo
 spelling of the print's 'tentation'); Observations verbatim (ἔκβασις kept); Practical Implications 1-7
 (2 Tim 2:22 + Gen 39:12 anchors; Gen 39:12 NETS attached from the print, pdf p33). EB==TRB 13/13 EXACT
 fresh (GEN 39:12 via TRB OT 1/39, ratio 1.000); WH Greek 1.000 on all four draft Greek blocks).
+
+77. (C) PART 7 — CONFESSION OF SIN (COS-81 — the Foundation: 1 John 1:9 (Geneva seat
+EXACT-MODERN: all three 1599/1587 sources print 'vnrightuousnes' = draft's 'unrightuousness'
+modern-fold — the 'vnrightuousnes/…' old-orthography class, NO splice; ὁμολογῶμεν/ἀφῇ/καθαρίσῃ
+observations verbatim); The Distinction: Position vs. Fellowship (Eph 4:30 mention-echo; 'accepted
+in the Beloved' Eph 1:6 echo — flag widened); The Pattern of Daily Confession (1 Cor 11 chapter
+anchor); Confession to Other Believers (James 5:16 seat EXACT-MODERN: faultes/auaileth/feruent
+folds; draft Greek εὔχεσθε matches the page's εὔχεσθε column — variant columns row-noted);
+Observation; Practical Implications 1-6 (Dan 9 chapter anchor)). EB==TRB 2/2 fresh both verses;
+WH Greek set-containment on both draft Greek blocks (1JN 1:9 page variant column ἐστι vs
+seat/Byzantine ἐστιν — row-noted).

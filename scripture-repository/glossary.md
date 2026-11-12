@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1111 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1113 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1282 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1284 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -409,7 +409,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “If we acknowledge our sinnes, he is faithfull and iust, to forgiue vs our sinnes, and to clense vs from all vnrighteousnes.”
 - **KJV:** “If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.”
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000; page variant column reads ἐστι vs seat/Byzantine ἐστιν — row-noted*
 
 ## Part Eight — The Great "I AM"
 
@@ -10845,7 +10845,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “If we acknowledge our sinnes, he is faithfull and iust, to forgiue vs our sinnes, and to clense vs from all vnrighteousnes.”
 - **KJV:** “If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.”
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000; page variant column reads ἐστι vs seat/Byzantine ἐστιν — row-noted*
 
 ### 1 John 1:7 — ANCHOR
 *cited as: Practical §5 prose "the blood of Christ cleanses me from all sin (1 John 1:7-9)" (canon 10493)*
@@ -12014,7 +12014,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Pray for one another*
 - **Geneva 1599:** “Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 (εὔχεσθε on page; variant columns recorded)*
 
 ### Colossians 3:16 — PROSE-REF
 *cited as: Teach and admonish one another*
@@ -12226,6 +12226,47 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* reference only; no verse quoted in line
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh ✓*
+
+## PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications
+
+### 1 John 1:9 — CONFIRMED
+*cited as: 1 John 1:9 seat (canon 12413)*
+- **Geneva 1599:** “If we acknowledge our sinnes, he is faithfull and iust, to forgiue vs our sinnes, and to clense vs from all vnrighteousnes.”
+- **KJV:** “If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.”
+- *Note:* SEAT: EXACT-MODERN — the 1599 print ends 'vnrighteousnes.' (eBible==TRB fresh; BibleHub-Geneva 1587 concurs) = draft's 'unrightuousness' modern-fold old-orthography class; no splice. Also referenced at canon 12435 (position vs fellowship), 12437, 12475 (Practical (3))
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000; page variant column reads ἐστι vs seat/Byzantine ἐστιν — row-noted*
+
+### Ephesians 1:6 — PROSE-REF
+*cited as: Position vs. Fellowship — "forgiven, justified, accepted in the Beloved" (Eph 1:6 echo)*
+- **Geneva 1599:** “To the prayse of the glory of his grace, wherewith he hath made vs freely accepted in his beloued,”
+- *Note:* "accepted in the Beloved" echo — drops the print's "freely" (flag class); mention only
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 4:30 — PROSE-REF
+*cited as: Position vs. Fellowship — "daily sin grieves the indwelling Spirit (Eph 4:30)"*
+- **Geneva 1599:** “And grieue not the holy Spirit of God, by whom ye are sealed vnto ye day of redemption.”
+- *Note:* mention only; text pre-banked
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 1 Corinthians 11 — ANCHOR
+*cited as: The Pattern of Daily Confession (3) — "self-examination per 1 Cor 11"*
+- *Note:* chapter-only mention; per-verse rows 11:23-29 pre-banked (COS-79)
+- *Checked 2026-11-12 · editions fetched: *
+
+### James 5:16 — CONFIRMED
+*cited as: James 5:16 seat (canon 12458)*
+- **Geneva 1599:** “Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.”
+- *Note:* SEAT: ZERO-SPLICE exact-modern (faultes/auaileth/feruent folds); draft Greek καὶ εὔχεσθε matches the page's εὔχεσθε column; variant column προσεύχεσθε; TR column reads τὰ παραπτώματα — row-noted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 (εὔχεσθε on page; variant columns recorded)*
+
+### Daniel 9 — ANCHOR
+*cited as: Practical Implications (5) — "as Daniel did in Dan 9"*
+- *Note:* chapter-only mention; NETS Daniel book cache absent (ch-7 print-dump rows only)
+- *Checked 2026-11-12 · editions fetched: *
 
 # THE BIBLICAL SABBATH
 
@@ -14077,7 +14118,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
-| 1 John 1:9 | P7, COS-69 | anchor, confirmed |
+| 1 John 1:9 | P7, COS-69, COS-81 | anchor, confirmed |
 | 1 John 2:2 | P1-Q8 | confirmed |
 | 1 John 3:2 | COS-62, COS-66 | confirmed, prose-ref |
 | 1 John 4:19 | P9 | confirmed |
@@ -14105,7 +14146,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -14207,7 +14248,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -14225,7 +14266,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 1:14 | COS-59, COS-63 | confirmed, prose-ref |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
 | Ephesians 1:4 | COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Ephesians 1:6 | COS-62, COS-66, COS-69 | anchor, confirmed, prose-ref |
+| Ephesians 1:6 | COS-62, COS-66, COS-69, COS-81 | anchor, confirmed, prose-ref |
 | Ephesians 2:18 | COS-60 | prose-ref |
 | Ephesians 2:21 | COS-54, COS-60, COS-62 | anchor, prose-ref |
 | Ephesians 2:22 | COS-54, COS-60, COS-62, COS-69 | anchor, prose-ref |
@@ -14235,7 +14276,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 3:18 | COS-62 | prose-ref |
 | Ephesians 3:19 | COS-52, COS-62, COS-69 | anchor, prose-ref |
 | Ephesians 4:10 | COS-58 | confirmed |
-| Ephesians 4:30 | COS-55, COS-59, COS-63 | anchor, confirmed, prose-ref |
+| Ephesians 4:30 | COS-55, COS-59, COS-63, COS-81 | anchor, confirmed, prose-ref |
 | Ephesians 4:5 | COS-36 | prose-ref |
 | Ephesians 4:6 | COS-36 | prose-ref |
 | Ephesians 4:7 | COS-58 | confirmed |
@@ -14530,7 +14571,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -14822,7 +14863,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -15290,7 +15331,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 5:21 | COS-78 | prose-ref |
 | 1 Peter 5:5 | COS-78 | prose-ref |
 | 1 Peter 4:9 | COS-78 | prose-ref |
-| James 5:16 | COS-78 | prose-ref |
+| James 5:16 | COS-78, COS-81 | confirmed, prose-ref |
 | Colossians 3:16 | COS-78 | prose-ref |
 | 1 Corinthians 16:20 | COS-78 | prose-ref |
 | Romans 16:16 | COS-78 | prose-ref |
@@ -15320,6 +15361,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 6:17 | COS-80 | reference |
 | 2 Timothy 2:22 | COS-80 | prose-ref |
 | Genesis 39:12 | COS-80 | prose-ref |
+| 1 Corinthians 11 | COS-81 | anchor |
+| Daniel 9 | COS-81 | anchor |
 
 ## The editions used
 
