@@ -126,3 +126,10 @@ with the print "shall have it"; 1 John 5:14-15 with the print "any thing"; John 
 draft ellipses honored). The draft carries no explicit PART-1 heading for the prayer part — its H2s begin
 directly; seat follows the draft. 1 Thess 5:17 "pray without ceasing" flagged KJV-voiced (1599: "Pray
 continually." — awaits his word)).
+72. (C) PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND (COS-76 — the Nature of Scripture
+(2 Timothy 3:16-17, theopneustos + the four uses VERBATIM) and the Word's Active Power (Hebrews 4:12);
+the Modes of Engaging the Word: Reading; Hearing (Romans 10:17); Meditating (Psalm 1:1-2 LXX = MT, NETS
+seat verbatim — draft excerpt honored); Memorizing (Psalm 118:11 LXX (= MT 119:11), NETS seat — GNV prints
+"promise", NETS "sayings"); Studying; Applying/Obeying (James 1:22-25 selections); the Practical
+Implications with the commentary warning; all four NT seats exact-modern vs the 1599 print — no splices;
+the Greek rows drop and the load-bearing Greek survives in the observations).

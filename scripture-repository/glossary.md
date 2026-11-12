@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1044 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1052 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1215 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1223 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -11723,6 +11723,72 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Practical Implications item 3 ref (Paul's prayers) — mention-anchor*
 - *Checked 2026-11-12 · editions fetched: *
 
+## PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND — The Nature of Scripture; the Word's Active Power; the Modes of Engaging the Word; Practical Implications
+
+### Romans 12:2 — ANCHOR
+*cited as: narrative mention 'We established under Romans 12:2' (renewing of the mind bridge)*
+- **Geneva 1599:** “And fashion not your selues like vnto this worlde, but bee yee changed by the renewing of your minde, that ye may prooue what that good, and acceptable and perfect will of God is.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 1.0)*
+
+### 2 Timothy 3:16 — CONFIRMED
+*cited as: 2 Timothy 3:16-17 seat (draft exact-modern vs 1599 print — no splice; theopneustos block)*
+- **Geneva 1599:** “For the whole Scripture is giuen by inspiration of God, and is profitable to teache, to conuince, to correct, and to instruct in righteousnesse,”
+- *Note:* one joined blockquote covers 3:16-17; glosses *(convict)* *(complete, perfect)* seated in polish; 1599 prints giuen/teache/conuince/righteousnesse/workes/vnto — modern spelling class
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Timothy 3:17 — CONFIRMED
+*cited as: 2 Timothy 3:16-17 seat (joined blockquote; draft exact-modern — no splice)*
+- **Geneva 1599:** “That the man of God may be absolute, being made perfect vnto all good workes.”
+- *Note:* one joined blockquote covers 3:16-17; glosses *(convict)* *(complete, perfect)* seated in polish; 1599 prints giuen/teache/conuince/righteousnesse/workes/vnto — modern spelling class
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 4:12 — CONFIRMED
+*cited as: Hebrews 4:12 seat (draft exact-modern — no splice)*
+- **Geneva 1599:** “For the worde of God is liuely, and mightie in operation, and sharper then any two edged sword, and entreth through, euen vnto the diuiding asunder of the soule and the spirit, and of the ioints, and the marow, and is a discerner of the thoughtes, and the intents of the heart.”
+- *Note:* gloss lively *(alive)* seated; 1599 prints worde/mightie/then(=than)/entreth/soule/marow/thoughtes — modern spelling class recorded
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 10:17 — CONFIRMED
+*cited as: Romans 10:17 seat (draft exact-modern — no splice)*
+- **Geneva 1599:** “Then faith is by hearing, and hearing by the worde of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Psalm 1:1 (LXX = MT) — CONFIRMED (EXCERPT)
+*cited as: Psalm 1:1-2 seat — the seat prints only the head clause "Happy the man" + ellipsis (draft authorial excerpt)*
+- **NETS (Septuagint, modern):** “Happy the man who did not walk by the counsel of the impious, and in the way of sinners did not stand, and on the seat of pestiferous people did not sit down.”
+- **Geneva 1599:** “Blessed is the man that doeth not walke in the counsell of the wicked, nor stand in the way of sinners, nor sit in ye seate of the scornefull:”
+- *Note:* BOTH-MAPS: NETS print head "Psalm 1" — LXX = MT for psalm 1 (no offset); verse marks plain 1/2; the excised v1 body stays on the row (NETS "pestiferous")
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets_print_dump ✓ · rahlfs_draft_greek ✓*
+
+### Psalm 1:2 (LXX = MT) — CONFIRMED
+*cited as: Psalm 1:1-2 seat — NETS verbatim (v2 full)*
+- **NETS (Septuagint, modern):** “Rather, his will is in the law of the Lord, and on his law he will meditate day and night.”
+- **Geneva 1599:** “But his delite is in the Lawe of the Lord, and in his Lawe doeth he meditate day and night.”
+- *Note:* BOTH-MAPS: NETS = MT numbering for this psalm; the meditation verb μελετάω lives in the observation prose per seat shape
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets_print_dump ✓ · rahlfs_draft_greek ✓*
+
+### Psalm 119:11 (MT; LXX 118:11) — CONFIRMED
+*cited as: Psalm 118:11 LXX (Ps 119:11 MT) seat — NETS verbatim (full verse)*
+- **NETS (Septuagint, modern):** “In my heart I hid your sayings so that I may not sin against you.”
+- **Geneva 1599:** “I haue hid thy promise in mine heart, that I might not sinne against thee.”
+- *Note:* BOTH-MAPS: traditional LXX = 118:11, MT = 119:11 (NETS print head "Psalm 118(119)", p606); GNV prints "promise" here — not KJV "word"; NETS renders logia "sayings"
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets_print_dump ✓ · rahlfs_draft_greek ✓*
+
+### James 1:22 — CONFIRMED (EXCERPT)
+*cited as: James 1:22-25 seat (selections: the ellipsis covers 1:23-25 unquoted — draft authorial range kept)*
+- **Geneva 1599:** “And be ye doers of the word, and not hearers onely, deceiuing your owne selues.”
+- *Note:* eBible slug for James = JAS01; the seat prints v22 verbatim + the draft ellipsis
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -13601,7 +13667,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -13703,7 +13769,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -14026,7 +14092,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -14318,7 +14384,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -14689,7 +14755,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 5:17 | COS-70 | confirmed |
 | Ephesians 5:18 | COS-70 | confirmed |
 | Philippians 2:12 | COS-70 | confirmed |
-| Romans 12:2 | COS-71 | confirmed |
+| Romans 12:2 | COS-71, COS-76 | anchor, confirmed |
 | Romans 12:9 | COS-71 | confirmed |
 | Romans 12:10 | COS-71 | confirmed |
 | Romans 12:14 | COS-71 | confirmed |
@@ -14749,6 +14815,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 3:14-21 (range) | COS-75 | anchor |
 | Philippians 1:9-11 (range) | COS-75 | anchor |
 | Colossians 1:9-12 (range) | COS-75 | anchor |
+| 2 Timothy 3:16 | COS-76 | confirmed |
+| 2 Timothy 3:17 | COS-76 | confirmed |
+| Hebrews 4:12 | COS-76 | confirmed |
+| Romans 10:17 | COS-76 | confirmed |
+| James 1:22 | COS-76 | confirmed (excerpt) |
+| Psalm 1:1 (LXX = MT) | COS-76 | confirmed (excerpt) |
+| Psalm 1:2 (LXX = MT) | COS-76 | confirmed |
+| Psalm 119:11 (MT; LXX 118:11) | COS-76 | confirmed |
 
 ## The editions used
 

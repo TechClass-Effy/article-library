@@ -127,7 +127,8 @@
    "COS-72",
    "COS-73",
    "COS-74",
-   "COS-75"
+   "COS-75",
+   "COS-76"
   ],
   "sections": [
    {
@@ -583,6 +584,10 @@
    {
     "key": "COS-75",
     "label": "PRAYER — COMPLETING THE LORD'S PRAYER PATTERN; PRAYING IN THE SPIRIT; THE MODES AND THE POSTURE OF PRAYER"
+   },
+   {
+    "key": "COS-76",
+    "label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND — The Nature of Scripture; the Word's Active Power; the Modes of Engaging the Word; Practical Implications"
    }
   ],
   "double_check": {
@@ -643,11 +648,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 105580,
+  "so_far_words": 106331,
   "cos_sofar": {
-   "waves": 45
+   "waves": 46
   },
-  "glossary": 1189
+  "glossary": 1223
  },
  "verses": [
   {
@@ -51622,6 +51627,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 11960,
+     "cited_as": "narrative mention 'We established under Romans 12:2' (renewing of the mind bridge)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
     }
    ],
    "verified": "2026-11-12",
@@ -53598,6 +53613,306 @@
      "note": ""
     }
    ]
+  },
+  {
+   "id": "2TI.3.16",
+   "ref": "2 Timothy 3:16",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 11964,
+     "cited_as": "2 Timothy 3:16-17 seat (draft exact-modern vs 1599 print — no splice; theopneustos block)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "one joined blockquote covers 3:16-17; glosses *(convict)* *(complete, perfect)* seated in polish; 1599 prints giuen/teache/conuince/righteousnesse/workes/vnto — modern spelling class",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the whole Scripture is giuen by inspiration of God, and is profitable to teache, to conuince, to correct, and to instruct in righteousnesse,",
+     "source": "https://ebible.org/enggnv/2TI03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the whole Scripture is giuen by inspiration of God, and is profitable to teache, to conuince, to correct, and to instruct in righteousnesse,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/55/3",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶς γραφή θεόπνευστος καί ὠφέλιμος πρός διδασκαλία πρός ἔλεγχος πρός ἐπανόρθωσις πρός παιδεία ὁ ἐν δικαιοσύνη ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος εἰμί ὁ ὁ θεός ἄνθρωπος πρός πᾶς ἔργον ἀγαθός ἐξαρτίζω ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος",
+     "source": "https://biblehub.com/text/2_timothy/3-16.htm (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print folds only (modern seat spelling; 1599 orthography in bank)"
+  },
+  {
+   "id": "2TI.3.17",
+   "ref": "2 Timothy 3:17",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 11964,
+     "cited_as": "2 Timothy 3:16-17 seat (joined blockquote; draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "one joined blockquote covers 3:16-17; glosses *(convict)* *(complete, perfect)* seated in polish; 1599 prints giuen/teache/conuince/righteousnesse/workes/vnto — modern spelling class",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That the man of God may be absolute, being made perfect vnto all good workes.",
+     "source": "https://ebible.org/enggnv/2TI03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That the man of God may be absolute, being made perfect vnto all good workes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/55/3",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ Πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶς γραφή θεόπνευστος καί ὠφέλιμος πρός διδασκαλία πρός ἔλεγχος πρός ἐπανόρθωσις πρός παιδεία ὁ ἐν δικαιοσύνη ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν πρὸς ἔλεγχον, πρὸς ἐπανόρθωσιν πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος εἰμί ὁ ὁ θεός ἄνθρωπος πρός πᾶς ἔργον ἀγαθός ἐξαρτίζω ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ Θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β΄ ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος",
+     "source": "https://biblehub.com/text/2_timothy/3-16.htm (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print folds only (modern seat spelling; 1599 orthography in bank)"
+  },
+  {
+   "id": "HEB.4.12",
+   "ref": "Hebrews 4:12",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 11988,
+     "cited_as": "Hebrews 4:12 seat (draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "gloss lively *(alive)* seated; 1599 prints worde/mightie/then(=than)/entreth/soule/marow/thoughtes — modern spelling class recorded",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the worde of God is liuely, and mightie in operation, and sharper then any two edged sword, and entreth through, euen vnto the diuiding asunder of the soule and the spirit, and of the ioints, and the marow, and is a discerner of the thoughtes, and the intents of the heart.",
+     "source": "https://ebible.org/enggnv/HEB04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the worde of God is liuely, and mightie in operation, and sharper then any two edged sword, and entreth through, euen vnto the diuiding asunder of the soule and the spirit, and of the ioints, and the marow, and is a discerner of the thoughtes, and the intents of the heart.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διικνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διικνούμενος ἄχρι μερισμοῦ ψυχῆς καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας. ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διικνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας, ΠΡΟΣ ΕΒΡΑΙΟΥΣ ζάω γάρ ὁ λόγος ὁ θεός καί ἐνεργής καί τομώτερος ὑπέρ πᾶς μάχαιρα δίστομος καί διϊκνέομαι ἄχρι μερισμός ψυχή καί πνεῦμα ἁρμός τέ καί μυελός καί κριτικός ἐνθύμησις καί ἔννοια καρδία ΠΡΟΣ ΕΒΡΑΙΟΥΣ ζῶν γὰρ ὁ λόγος τοῦ Θεοῦ, καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον, καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τὲ καὶ πνεύματος, ἁρμῶν τε καὶ μυελῶν, καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας. ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργὴς καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον καὶ διϊκνούμενος ἄχρι μερισμοῦ ψυχῆς τε καὶ πνεύματος ἁρμῶν τὲ καὶ μυελῶν καὶ κριτικὸς ἐνθυμήσεων καὶ ἐννοιῶν καρδίας",
+     "source": "https://biblehub.com/text/hebrews/4-12.htm (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print folds only"
+  },
+  {
+   "id": "ROM.10.17",
+   "ref": "Romans 10:17",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 12012,
+     "cited_as": "Romans 10:17 seat (draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then faith is by hearing, and hearing by the worde of God.",
+     "source": "https://ebible.org/enggnv/ROM10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then faith is by hearing, and hearing by the worde of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/10",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ Ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος θεοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Θεοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Χριστοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς, ἡ δὲ ἀκοὴ διὰ ῥήματος Θεοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ ἄρα ἡ πίστις ἐξ ἀκοῆς ἡ δὲ ἀκοὴ διὰ ῥήματος Θεοῦ",
+     "source": "https://biblehub.com/text/romans/10-17.htm (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print folds only (worde)"
+  },
+  {
+   "id": "JAM.1.22",
+   "ref": "James 1:22",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 12046,
+     "cited_as": "James 1:22-25 seat (selections: the ellipsis covers 1:23-25 unquoted — draft authorial range kept)",
+     "quotes": [],
+     "status": "confirmed-excerpt",
+     "note": "eBible slug for James = JAS01; the seat prints v22 verbatim + the draft ellipsis",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And be ye doers of the word, and not hearers onely, deceiuing your owne selues.",
+     "source": "https://ebible.org/enggnv/JAS01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And be ye doers of the word, and not hearers onely, deceiuing your owne selues.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/59/1",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "γίνεσθε δὲ ποιηταὶ λόγου, καὶ μὴ ἀκροαταὶ μόνον παραλογιζόμενοι ἑαυτούς. Γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ ἀκροαταὶ μόνον παραλογιζόμενοι ἑαυτούς. Γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ ἀκροαταὶ μόνον παραλογιζόμενοι ἑαυτούς. Γίνεσθε δὲ ποιηταὶ λόγου, καὶ μὴ μόνον ἀκροαταί, παραλογιζόμενοι ἑαυτούς. Γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ μόνον ἀκροαταὶ, παραλογιζόμενοι ἑαυτούς. γίνομαι δέ ποιητής λόγος καί μή μόνον ἀκροατής παραλογίζομαι ἑαυτοῦ γίνεσθε δὲ ποιηταὶ λόγου, καὶ μὴ μόνον ἀκροαταὶ, παραλογιζόμενοι ἑαυτούς. Γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ μόνον ἀκροαταὶ παραλογιζόμενοι ἑαυτούς",
+     "source": "https://biblehub.com/text/james/1-22.htm (WH)",
+     "result": "agree (1.000 set-containment; draft Greek row dropped per seat shape, checked in data)"
+    }
+   },
+   "diff_notes": "print folds only (onely/owne)"
+  },
+  {
+   "id": "PSA.1.1",
+   "ref": "Psalm 1:1 (LXX = MT)",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 12022,
+     "cited_as": "Psalm 1:1-2 seat — the seat prints only the head clause \"Happy the man\" + ellipsis (draft authorial excerpt)",
+     "quotes": [],
+     "status": "confirmed-excerpt",
+     "note": "BOTH-MAPS: NETS print head \"Psalm 1\" — LXX = MT for psalm 1 (no offset); verse marks plain 1/2; the excised v1 body stays on the row (NETS \"pestiferous\")",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "Happy the man who did not walk by the counsel of the impious, and in the way of sinners did not stand, and on the seat of pestiferous people did not sit down.",
+     "source": "NETS Psalms print master 24-ps.pdf print p.548 (pdf 6), head \"Psalm 1\""
+    },
+    "gnv": {
+     "text": "Blessed is the man that doeth not walke in the counsell of the wicked, nor stand in the way of sinners, nor sit in ye seate of the scornefull:",
+     "source": "https://ebible.org/enggnv/PSA001.htm"
+    }
+   },
+   "second_check": {
+    "nets_print_dump": {
+     "text": "Happy the man who did not walk by the counsel of the impious, and in the way of sinners did not stand, and on the seat of pestiferous people did not sit down.",
+     "source": "fitz dump 24-ps.pdf pdf-6 (print 548, head psalms 1–4)",
+     "result": "agree (print==dump verbatim)"
+    },
+    "rahlfs_draft_greek": {
+     "text": "Μακάριος ἀνήρ... ἀλλ᾽ ἢ ἐν τῷ νόμῳ Κυρίου τὸ θέλημα αὐτοῦ, καὶ ἐν τῷ νόμῳ αὐτοῦ μελετήσει ἡμέρας καὶ νυκτός.",
+     "source": "draft LXX quote (Rahlfs-voiced) carried by the draft",
+     "result": "agree — substance concurrence with NETS (head clause + v2); wikisource Rahlfs page 404 (pattern retired), substance check only"
+    }
+   },
+   "diff_notes": "draft Greek/Geneva lines dropped per seat shape; NETS seats; draft GNV \"delite/Lawe/doeth\" modernization noted"
+  },
+  {
+   "id": "PSA.1.2",
+   "ref": "Psalm 1:2 (LXX = MT)",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 12022,
+     "cited_as": "Psalm 1:1-2 seat — NETS verbatim (v2 full)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "BOTH-MAPS: NETS = MT numbering for this psalm; the meditation verb μελετάω lives in the observation prose per seat shape",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "Rather, his will is in the law of the Lord, and on his law he will meditate day and night.",
+     "source": "NETS Psalms print master 24-ps.pdf print p.548 (pdf 6), head \"Psalm 1\""
+    },
+    "gnv": {
+     "text": "But his delite is in the Lawe of the Lord, and in his Lawe doeth he meditate day and night.",
+     "source": "https://ebible.org/enggnv/PSA001.htm"
+    }
+   },
+   "second_check": {
+    "nets_print_dump": {
+     "text": "Rather, his will is in the law of the Lord, and on his law he will meditate day and night.",
+     "source": "fitz dump 24-ps.pdf pdf-6 (print 548)",
+     "result": "agree (print==dump verbatim)"
+    },
+    "rahlfs_draft_greek": {
+     "text": "ἀλλ᾽ ἢ ἐν τῷ νόμῳ Κυρίου τὸ θέλημα αὐτοῦ, καὶ ἐν τῷ νόμῳ αὐτοῦ μελετήσει ἡμέρας καὶ νυκτός.",
+     "source": "draft LXX quote segment (Rahlfs-voiced)",
+     "result": "agree — substance concurrence (his will in the law / meditate day and night)"
+    }
+   },
+   "diff_notes": "GNV print \"delite...Lawe...doeth\" = 1599 orthography (draft modernized)"
+  },
+  {
+   "id": "PSA.119.11",
+   "ref": "Psalm 119:11 (MT; LXX 118:11)",
+   "uses": [
+    {
+     "section": "COS-76",
+     "section_label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND",
+     "article_line": 12032,
+     "cited_as": "Psalm 118:11 LXX (Ps 119:11 MT) seat — NETS verbatim (full verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "BOTH-MAPS: traditional LXX = 118:11, MT = 119:11 (NETS print head \"Psalm 118(119)\", p606); GNV prints \"promise\" here — not KJV \"word\"; NETS renders logia \"sayings\"",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "In my heart I hid your sayings so that I may not sin against you.",
+     "source": "NETS Psalms print master 24-ps.pdf print p.606 (pdf 64), head \"psalms 117(118)–118(119)\" then \"Psalm 118(119)\""
+    },
+    "gnv": {
+     "text": "I haue hid thy promise in mine heart, that I might not sinne against thee.",
+     "source": "https://ebible.org/enggnv/PSA119.htm"
+    }
+   },
+   "second_check": {
+    "nets_print_dump": {
+     "text": "In my heart I hid your sayings so that I may not sin against you.",
+     "source": "fitz dump 24-ps.pdf pdf-64 (print 606)",
+     "result": "agree (print==dump verbatim)"
+    },
+    "rahlfs_draft_greek": {
+     "text": "ἐν τῇ καρδίᾳ μου ἔκρυψα τὰ λόγιά σου, ὅπως ἂν μὴ ἁμάρτω σοι.",
+     "source": "draft LXX quote (Rahlfs-voiced)",
+     "result": "agree — substance concurrence (hid your sayings in my heart, that I may not sin)"
+    }
+   },
+   "diff_notes": "GNV \"sinne/I haue\" 1599 orthography; draft modern spelling"
   }
  ]
 }
