@@ -52,3 +52,6 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return
 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)
 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)
+41. Matthew 24-25 — The Olivet Discourse
+42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day
+43. Grand Synthesis — The Son's Return

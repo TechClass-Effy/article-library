@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**529 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**555 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**700 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**726 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4977,8 +4977,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Matt 24:30 — ANCHOR
 *cited as: mention-anchor (the clouds-coming fulfillment bullet: “Matt 24:30; 26:64”)*
+- **Geneva 1599:** “And then shall appeare the signe of the Sonne of man in heauen: and then shall all the kinreds of the earth mourne, and they shall see the Sonne of man come in the cloudes of heauen with power and great glorie.”
 - *Note:* Bullet line of observation (2) of the 7:13-14 observations; 26:64 is seated (COS-24).
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-11 · editions fetched: gnv, second_check*
 
 ### Matthew 26:63 — CONFIRMED (EXCERPT)
 *cited as: Daniel 7 section cross-witness seat (B arc) — the wave-15 Geneva confession seat re-presented; Greek verified fresh this wave (whole-span)*
@@ -5190,6 +5191,352 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “One God and Father of all, which is aboue all, and through all, and in you all.”
 - *Note:* Same good-reason record as EPH.4.5 — Geneva wording at modern spelling, truncated opening clause.
 - *Checked 2026-11-11 · editions fetched: gnv*
+
+## 41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)
+
+### Matthew 24:3 — CONFIRMED
+*cited as: full verse seat (draft's ellipsed v3 head restored per wave-18 rule); 'Oliues'→'Olives' fold; edition prints 'world.' (draft '?')*
+- **Geneva 1599:** “And as he sate vpon the mount of Oliues, his disciples came vnto him apart, saying, Tell vs when these things shall be, and what signe shalbe of thy comming, and of the ende of the world.”
+- *Note:* draft quote begins mid-verse; NETS n/a; WH verse head 'Καὶ καθήμενον...' on the BH page (draft elides it)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 24:23 — CONFIRMED
+*cited as: ellipsis-seat 23-25+27 span (v26 whole verse elided per draft shape)*
+- **Geneva 1599:** “Then if any shall say vnto you, Loe, here is Christ, or there, beleeue it not.”
+- *Note:* draft Greek 1.000
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 24:24 — CONFIRMED
+*cited as: ellipsis-seat 23-25+27 span*
+- **Geneva 1599:** “For there shall arise false Christes, and false prophets, and shall shewe great signes and wonders, so that if it were possible, they should deceiue the very elect.”
+- *Note:* draft Geneva was GNV-voiced already ("so that... should deceive")
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 24:27 — CONFIRMED
+*cited as: ellipsis-seat 23-25+27 span*
+- **Geneva 1599:** “For as the lightning commeth out of the East, and is seene into the West, so shall also the comming of the Sonne of man be.”
+- *Note:* draft Greek 1.000
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matt 24:30 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “And then shall appeare the signe of the Sonne of man in heauen: and then shall all the kinreds of the earth mourne, and they shall see the Sonne of man come in the cloudes of heauen with power and great glorie.”
+- *Note:* Came in the 24:29-31 full-verse seat span; obs (2) mention seated "then shall all the kinreds *(kindreds)* of the earth mourn"
+- *Checked 2026-11-11 · editions fetched: gnv, second_check*
+
+### Matthew 24:29 — CONFIRMED
+*cited as: full-verse seat v29; GLOSS "heaue *(heaven)* / shake *(shaken)*"*
+- **Geneva 1599:** “And immediatly after ye tribulations of those dayes, shall the sunne be darkened, and the moone shall not giue her light, and the starres shall fal from heauen, and ye powers of heaue shalbe shake.”
+- *Note:* eBible AND TRB both print "the powers of heaue shalbe shake." — kept verbatim (JHN 7:42 doubled-that precedent), glossed; draft printed "shall be shaken" (KJV-family)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 24:31 — CONFIRMED
+*cited as: full-verse seat v31*
+- **Geneva 1599:** “And he shall send his Angels with a great sound of a trumpet, and they shall gather together his elect, from the foure windes, and from the one ende of the heauens vnto the other.”
+- *Note:* WH prints 'ἕως τῶν ἄκρων' — draft 'ἕως ἄκρων' article-drop recorded
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Revelation 6:12-14 (range) — CONFIRMED
+*cited as: pure mention-anchor, no text*
+- *Note:* pure mention-anchor, no text (obs (1) "the sixth seal"); seats in the Apocalypse wave
+- *Checked 2026-11-11 · editions fetched: *
+
+### Isaiah 13:9 (NETS) — CONFIRMED
+*cited as: mention-anchor*
+- **NETS (Septuagint, modern):** “For behold, the incurable day of the Lord comes, a day of wrath and anger, to make the whole world desolate and to destroy the sinners from it.”
+- *Note:* mention-anchor; obs (1) cites Isaiah 13:9-10 the Day of the LORD; NETS from the verified ISA cache
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Isaiah 13:10 (NETS) — CONFIRMED
+*cited as: mention-anchor*
+- **NETS (Septuagint, modern):** “For the stars of heaven and Orion and all the ornament of heaven will not give light, and it will be dark when the sun rises, and the moon will not give its light.”
+- *Note:* mention-anchor; the cosmic-signs witness behind Matt 24:29
+- *Checked 2026-11-11 · editions fetched: nets*
+
+### Acts 2:20 — CONFIRMED
+*cited as: GNV text banked, TRB /Geneva/44/2 verified 1.000*
+- **Geneva 1599:** “The Sunne shalbe turned into darkenesse, and the moone into blood, before that great and notable day of the Lord come.”
+- *Note:* Peter's citation of the great-day language (draft obs cross-ref)
+- *Checked 2026-11-11 · editions fetched: gnv, second_check*
+
+### Joel 2:31 (MT) = Joel 3:4 (4-chapter LXX numbering) — CONFIRMED
+*cited as: obs bullet seated to NETS (draft quote was Acts 2:20/GNV-voiced)*
+- **NETS (Septuagint, modern):** “The sun shall be turned to darkness, and the moon to blood, before the great and notable day of the Lord comes.”
+- **Geneva 1599:** “The sunne shalbe turned into darkenesse, and the moone into blood, before the great and terrible day of the Lord come.”
+- *Note:* BOTH MAPS: NETS print (32-twelve.pdf p802) numbers MT 2:31; the draft's label "(3:4 LXX)" is the traditional 4-chapter LXX numbering = MT 2:31. Draft obs quote was Acts 2:20/GNV-voiced ("turned into darkness...notable day of the LORD come") — obs bullet seated to NETS verbatim with "(NETS; cited by Peter in Acts 2:20)"; GNV Joel 2:31 prints "terrible day" where GNV Acts 2:20 prints "notable day" — banked as each edition prints.
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### Zechariah 12:10 — CONFIRMED
+*cited as: 24:30-echo mention*
+- **NETS (Septuagint, modern):** “And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.”
+- **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
+- **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
+- **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
+- *Note:* obs (2) echo: "then shall all the kinreds *(kindreds)* of the earth mourn" (Matt 24:30)
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
+
+### Daniel 7:13 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
+- *Note:* obs (2) Daniel 7's "coming on clouds." cross-ref
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### 1 Corinthians 15:52 — CONFIRMED
+*cited as: obs bullet seated "at the last trumpet." (GNV-modern; draft KJV-voiced "trump")*
+- **Geneva 1599:** “In a moment, in the twinckling of an eye at the last trumpet: for the trumpet shall blow, and the dead shalbe raysed vp incorruptible, and we shalbe changed.”
+- *Note:* trumpet witness; no seat block this wave (whole verse seats in the (C) wave)
+- *Checked 2026-11-11 · editions fetched: gnv, second_check*
+
+### Revelation 11:15 — CONFIRMED
+*cited as: seventh-trumpet anchor; GNV text banked; Apocalypse wave will seat*
+- **Geneva 1599:** “And the seuenth Angell blewe the trumpet, and there were great voyces in heauen, saying, The kingdomes of this worlde are our Lordes, and his Christes, and he shall reigne for euermore.”
+- *Note:* seventh-trumpet anchor
+- *Checked 2026-11-11 · editions fetched: gnv, second_check*
+
+### Mark 13:32 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “But of that day and houre knoweth no man, no, not the Angels which are in heauen, neither the Sonne himselfe, but the Father.”
+- *Note:* 24:36 observation parallel (GNV includes "neither the Sonne himselfe")
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### Matthew 24:36 — CONFIRMED
+*cited as: full-verse seat; "father"→"Father" cap fold*
+- **Geneva 1599:** “But of that day and houre knoweth no man, no not the Angels of heauen, but my father only.”
+- *Note:* edition omits 'neither the Son' here (draft observation already states it); MRK 13:32 keeps it
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Acts 1:7 — CONFIRMED
+*cited as: mention*
+- *Note:* obs quote seated to GNV-modern: 'the times, or the seasons, which the Father hath put in his own power'
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 25:31 — CONFIRMED
+*cited as: ellipsis-seat 31-34 span (draft v34 KJV-voiced "inherit the kingdom" brought to GNV "take the inheritance...")*
+- **Geneva 1599:** “And when the Sonne of man commeth in his glory, and all the holy Angels with him, then shall he sit vpon the throne of his glorie,”
+- *Note:* draft Greek vs WH 1.000 token-wise
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 25:32 — CONFIRMED
+*cited as: ellipsis-seat 31-34 span; "seperate"→"separate" fold*
+- **Geneva 1599:** “And before him shalbe gathered all nations, and he shall seperate them one from another, as a shepheard separateth the sheepe from ye goates.”
+- *Note:* draft Greek 1.000 (koronis apostrophe joins only)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 25:33 — CONFIRMED
+*cited as: ellipsis-seat 31-34 span*
+- **Geneva 1599:** “And he shall set the sheepe on his right hand, and the goates on the left.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Matthew 25:34 — CONFIRMED
+*cited as: ellipsis-seat 31-34 span; "ye king"→"the King"; "my father"→"my Father" cap fold*
+- **Geneva 1599:** “Then shall ye king say to them on his right hand, Come ye blessed of my father: take the inheritance of the kingdome prepared for you from the foundation of the world.”
+- *Note:* draft v34 was KJV-voiced ("inherit the kingdom..."); seat brings GNV verbatim "take the inheritance of the kingdome..."
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### John 5:22 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “For the Father iudgeth no man, but hath committed all iudgement vnto the Sonne,”
+- *Note:* obs (5) "the authority given Him in John 5:22, 27" mention
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 5:27 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “And hath giuen him power also to execute iudgement, in that he is the Sonne of man.”
+- *Note:* obs (5) mention
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+## 42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)
+
+### 1 Thessalonians 4:16 — CONFIRMED
+*cited as: full-verse seat v16*
+- **Geneva 1599:** “For the Lord himselfe shall descende from heauen with a shoute, and with the voyce of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first:”
+- *Note:* draft obs bullet seated to GNV-modern ('and with the voice' + 'trumpet' per edition)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### 1 Thessalonians 4:17 — CONFIRMED
+*cited as: full-verse seat v17*
+- **Geneva 1599:** “Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.”
+- *Note:* draft Greek 1.000
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Zechariah 14:4 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “And on that day his feet shall stand on the Mount of Olives, which is opposite Ierousalem on the east, and the mount of Olives shall be split, half of it to the east and half of it to the sea, an exceedingly great chasm, and half of the Mount shall incline northward and half of it southward.”
+- **Geneva 1599:** “And his feete shall stand in that day vpon the mount of oliues, which is before Ierusalem on the Eastside, and the mount of oliues shall cleaue in the middes thereof: toward the East and toward the West there shalbe a very great valley, and halfe of ye mountaine shall remooue toward the North, and halfe of the mountaine towarde the South.”
+- *Note:* 1 Thess 4:16 obs (1): 'The descent corresponds with Zech 14:4-5'
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### Zechariah 14:5 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “And the valley of my mountains shall be blocked up, and the valley of the mountains shall be joined up to Iasol, and it shall be blocked up as it was blocked in the days of the earthquake in the days of King Ozias of Ioudas. And the Lord my God will come and all the holy ones with him.”
+- **Geneva 1599:** “And yee shall flee vnto the valley of the mountaines: for the valley of the mountaines shall reache vnto Azal: yea, yee shall flee like as ye fled from the earthquake in the daies of Vzziah King of Iudah: and the Lord my God shall come, and all the Saints with thee.”
+- *Note:* 1 Thess 4:16 obs (1) mention
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### 2 Thessalonians 1:7 — CONFIRMED
+*cited as: seat v7 FULL (draft elided the v7 head "And to you which are troubled, rest with us," — restored per wave-18 rule) + v8 + ellipsis(v9) + v10 FULL*
+- **Geneva 1599:** “And to you which are troubled, rest with vs, when the Lord Iesus shall shewe himselfe from heauen with his mightie Angels,”
+- *Note:* draft quoted the v7 tail only; WH head "καὶ ὑμῖν τοῖς θλιβομένοις..." on the BH page
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### 2 Thessalonians 1:8 — CONFIRMED
+*cited as: seat v8*
+- **Geneva 1599:** “In flaming fire, rendring vengeance vnto them, that doe not know God, and which obey not vnto the Gospel of our Lord Iesus Christ,”
+- *Note:* draft Greek 1.000
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### 2 Thessalonians 1:9 — CONFIRMED
+*cited as: v9 ELIDED in draft (whole verse inside ellipsis) — text banked, not seated*
+- **Geneva 1599:** “Which shall be punished with euerlasting perdition, from the presence of the Lord, and from the glory of his power,”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### 2 Thessalonians 1:10 — CONFIRMED
+*cited as: seat v10 FULL (draft elided "(because our testimony toward you was believed)" — restoration per wave-16 v38 rule)*
+- **Geneva 1599:** “When he shall come to be glorified in his Saints, and to be made marueilous in all them that beleeue (because our testimonie toward you was beleeued) in that day.”
+- *Note:* draft quoted the v10a tail
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+### Dan 7:9 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “I behelde, till the thrones were set vp, and the Ancient of dayes did sit, whose garment was white as snow, and the heare of his head like the pure wooll: his throne was like the fierie flame, and his wheeles as burning fire.”
+- *Note:* 2 Thess obs: fire language fulfils Dan 7:9-10; 'here belonging to the Son's return'
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): trb — eBible=TRB token ratio 1.000 (per-verse) · nets_print — cache==print for BOTH columns at 7:9-10*
+
+### Dan 7:10 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “A fierie streame yssued, and came foorth from before him: thousand thousandes ministred vnto him, and tenne thousand thousands stoode before him: the iudgement was set, and the bookes opened.”
+- *Note:* 2 Thess obs mention
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): trb — eBible=TRB token ratio 1.000 (per-verse) · nets_print — cache==print for BOTH columns at 7:9-10*
+
+### 2 Peter 3:10 — CONFIRMED
+*cited as: full-verse seat*
+- **Geneva 1599:** “But the day of the Lord will come as a thiefe in the night, in the which the heauens shall passe away with a noyse, and the elements shall melt with heate, and the earth with the workes that are therein, shalbe burnt vp.”
+- *Note:* WH omits/alters the tail ("οὐχ εὑρεθήσεται") — draft/Byz "εὑρεθήσεται" recorded, no flag
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+
+## 43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)
+
+### PS 109 1 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- *Note:* synthesis opening: OT witness 'Ps 110'
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### Revelation 1:7 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.”
+- *Note:* synthesis table: Every eye shall see Him; Israel sees Him whom they pierced
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Matthew 26:64 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.”
+- *Note:* synthesis table: Comes on the clouds (Matt 26:64)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · greek_biblehub_fresh — draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.*
+
+### Daniel 7:13 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
+- *Note:* synthesis table: Comes on the clouds of heaven
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Acts 1:11 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “Which also sayde, Yee men of Galile, why stande yee gasing into heauen? This Iesus which is taken vp from you into heauen, shall so come, as yee haue seene him goe into heauen.”
+- *Note:* synthesis table: Comes to the Mount of Olives (Acts 1:11-12)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Zechariah 14:4 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “And on that day his feet shall stand on the Mount of Olives, which is opposite Ierousalem on the east, and the mount of Olives shall be split, half of it to the east and half of it to the sea, an exceedingly great chasm, and half of the Mount shall incline northward and half of it southward.”
+- **Geneva 1599:** “And his feete shall stand in that day vpon the mount of oliues, which is before Ierusalem on the Eastside, and the mount of oliues shall cleaue in the middes thereof: toward the East and toward the West there shalbe a very great valley, and halfe of ye mountaine shall remooue toward the North, and halfe of the mountaine towarde the South.”
+- *Note:* synthesis table: Comes to the Mount of Olives (Zech 14:4; Acts 1:11-12)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### Zechariah 12:10 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn.”
+- **Brenton LXX:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and compassion: and they shall look upon me, because they have mocked me, and they shall make lamentation for him, as for a beloved friend, and they shall grieve intensely, as for a first-born son.”
+- **Geneva 1599:** “And I will powre vpon the house of Dauid, and vpon the inhabitants of Ierusalem the Spirite of grace and of compassion, and they shall looke vpon me, whom they haue pearced, and they shall lament for him, as one mourneth for his onely sonne, and be sorie for him as one is sorie for his first borne.”
+- **KJV:** “And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for his only son, and shall be in bitterness for him, as one that is in bitterness for his firstborn.”
+- *Note:* synthesis table: 'Israel sees Him whom they pierced'
+- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · trb ✓*
+
+### Daniel 7:14 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
+- *Note:* synthesis table: establishes the universal Kingdom; Two-Critical-Points: receives the kingdom
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Zechariah 14:5 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “And the valley of my mountains shall be blocked up, and the valley of the mountains shall be joined up to Iasol, and it shall be blocked up as it was blocked in the days of the earthquake in the days of King Ozias of Ioudas. And the Lord my God will come and all the holy ones with him.”
+- **Geneva 1599:** “And yee shall flee vnto the valley of the mountaines: for the valley of the mountaines shall reache vnto Azal: yea, yee shall flee like as ye fled from the earthquake in the daies of Vzziah King of Iudah: and the Lord my God shall come, and all the Saints with thee.”
+- *Note:* synthesis table: Comes with all His saints
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### 1 Thessalonians 3:13 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “To make your hearts stable and vnblameable in holines before God euen our Father, at the comming of our Lord Iesus Christ with all his Saints. 1”
+- *Note:* synthesis table: Comes with all His saints (1 Thess 3:13)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+
+### Jude 1:14 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “And Enoch also the seuenth from Adam, prophecied of such, saying, Beholde, the Lord commeth with thousands of his Saints,”
+- *Note:* synthesis table: Comes with all His saints (Jude 14)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+
+### 1 Corinthians 15:52 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “In a moment, in the twinckling of an eye at the last trumpet: for the trumpet shall blow, and the dead shalbe raysed vp incorruptible, and we shalbe changed.”
+- *Note:* synthesis table: Trumpet of God sounds (1 Cor 15:52)
+- *Checked 2026-11-11 · editions fetched: gnv, second_check*
+
+### Zechariah 14:9 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “And the Lord will become king over all the earth; on that day the Lord will be one and his name one.”
+- **Geneva 1599:** “And the Lord shall bee King ouer all the earth: in that day shall there bee one Lord, and his Name shalbe one.”
+- *Note:* synthesis table + Two-Critical-Points: 'one LORD, one Name'
+- *Checked 2026-11-11 · editions fetched: gnv, greek_rahlfs, nets*
+
+### Mark 13:32 — CONFIRMED
+*cited as: mention*
+- **Geneva 1599:** “But of that day and houre knoweth no man, no, not the Angels which are in heauen, neither the Sonne himselfe, but the Father.”
+- *Note:* Two-Critical-Points: 'Only the Father knows'
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+
+### Acts 1:7 — CONFIRMED
+*cited as: mention*
+- *Note:* Two-Critical-Points: 'Only the Father knows the day and hour (Matt 24:36; Mark 13:32; Acts 1:7)'
+- *Checked 2026-11-11 · editions fetched: *
+
+### Exodus 23:21 — CONFIRMED
+*cited as: mention*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* Two-Critical-Points: 'bearing the LORD's Name (Ex 23:21)'
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+
+### 1 Corinthians 15:24-28 (range) — CONFIRMED
+*cited as: pure mention-anchor, no text*
+- *Note:* pure mention-anchor, no text ("Hand all things over to the Father... which we will examine in (C)") — the (C) wave seats 15:20-28 fully
+- *Checked 2026-11-11 · editions fetched: *
 
 # THE BIBLICAL SABBATH
 
@@ -6998,7 +7345,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ezekiel 37:9 | P4 | confirmed |
 | Malachi 1:6 | P7 | confirmed |
 | Zechariah 1:8 | P8 | anchor |
-| Zechariah 12:10 | P1-Q8, COS-15, COS-23, COS-36 | confirmed, prose-ref |
+| Zechariah 12:10 | P1-Q8, COS-15, COS-23, COS-36, COS-37, COS-39 | confirmed, prose-ref |
 | Matthew 5:37 | P7 | confirmed |
 | Matthew 6:9 | CLOSE | confirmed |
 | John 1:29 | P1-Q8, COS-15 | anchor, confirmed |
@@ -7135,10 +7482,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -7247,7 +7594,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03, COS-19 | confirmed, confirmed (excerpt) |
 | MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36 | anchor, confirmed, prose-ref |
-| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35 | anchor, confirmed |
+| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39 | anchor, confirmed |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04, COS-29 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
@@ -7305,7 +7652,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 6:46 | COS-13 | confirmed |
 | Exodus 33:20 | COS-13 | prose-ref |
 | Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19 | anchor, confirmed |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39 | anchor, confirmed |
 | John 17:11 | COS-14 | confirmed |
 | John 17:12 | COS-14 | confirmed |
 | Numbers 20:8 | COS-16 | anchor |
@@ -7488,7 +7835,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 19:35 | COS-23 | anchor |
 | John 19:36 | COS-23 | confirmed |
 | John 19:37 | COS-23, COS-36 | differs (minor), prose-ref |
-| Revelation 1:7 | COS-23, COS-35, COS-36 | anchor, confirmed, prose-ref |
+| Revelation 1:7 | COS-23, COS-35, COS-36, COS-39 | anchor, confirmed, prose-ref |
 | John 10:7 | COS-24 | confirmed |
 | John 10:14 | COS-24 | confirmed |
 | John 15:5 | COS-24 | confirmed |
@@ -7497,11 +7844,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 18:5 | COS-24 | confirmed (excerpt) |
 | John 18:6 | COS-24 | confirmed (excerpt) |
 | Matthew 26:63 | COS-24, COS-35 | confirmed (excerpt) |
-| Matthew 26:64 | COS-24, COS-28, COS-35 | anchor, confirmed (excerpt) |
+| Matthew 26:64 | COS-24, COS-28, COS-35, COS-39 | anchor, confirmed, confirmed (excerpt) |
 | Matthew 11:27 | COS-24 | confirmed |
-| Mark 13:32 | COS-24, COS-36 | confirmed, prose-ref |
-| Daniel 7:13 | COS-24, COS-35 | confirmed |
-| Daniel 7:14 | COS-24, COS-35 | confirmed |
+| Mark 13:32 | COS-24, COS-36, COS-37, COS-39 | confirmed, prose-ref |
+| Daniel 7:13 | COS-24, COS-35, COS-37, COS-39 | confirmed |
+| Daniel 7:14 | COS-24, COS-35, COS-39 | confirmed |
 | Isaiah 41:4 | COS-24 | anchor |
 | Isaiah 43:10 | COS-24 | anchor |
 | Isaiah 43:13 | COS-24 | anchor |
@@ -7515,7 +7862,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 12:42 | COS-24 | anchor |
 | Mark 2:28 | COS-24 | anchor |
 | Matthew 27:11 | COS-24 | anchor |
-| Acts 1:7 | COS-24, COS-34, COS-36 | anchor, confirmed, prose-ref |
+| Acts 1:7 | COS-24, COS-34, COS-36, COS-37, COS-39 | anchor, confirmed, prose-ref |
 | Mark 2:5 | COS-25 | confirmed (excerpt) |
 | Mark 2:6 | COS-25 | confirmed (excerpt) |
 | Mark 2:7 | COS-25 | confirmed (excerpt) |
@@ -7525,10 +7872,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 11:26 | COS-25 | confirmed (excerpt) |
 | John 11:43 | COS-25 | confirmed (excerpt) |
 | John 11:44 | COS-25 | confirmed (excerpt) |
-| John 5:22 | COS-25 | confirmed (excerpt) |
+| John 5:22 | COS-25, COS-37 | confirmed, confirmed (excerpt) |
 | John 5:23 | COS-25 | confirmed (excerpt) |
 | John 5:26 | COS-25 | confirmed (excerpt) |
-| John 5:27 | COS-25 | confirmed (excerpt) |
+| John 5:27 | COS-25, COS-37 | confirmed, confirmed (excerpt) |
 | John 7:37 | COS-25 | confirmed (excerpt) |
 | John 7:38 | COS-25 | confirmed (excerpt) |
 | John 7:39 | COS-25 | confirmed (excerpt) |
@@ -7546,7 +7893,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 28:19 | COS-27 | confirmed |
 | Matthew 28:20 | COS-27 | confirmed |
 | Acts 1:9 | COS-27, COS-28, COS-35 | anchor, confirmed |
-| Acts 1:11 | COS-27, COS-28, COS-35, COS-36 | anchor, confirmed, prose-ref |
+| Acts 1:11 | COS-27, COS-28, COS-35, COS-36, COS-39 | anchor, confirmed, prose-ref |
 | John 20:11-18 | COS-27 | anchor |
 | Luke 24:36-43 | COS-27 | anchor |
 | John 20:19-29 | COS-27, COS-34 | anchor, confirmed |
@@ -7631,9 +7978,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | REV 5 6 | COS-34 | confirmed |
 | HEB 12 24 | COS-34 | confirmed |
 | MAR 13 32 | COS-34 | confirmed |
-| Dan 7:9 | COS-35 | confirmed |
-| Dan 7:10 | COS-35 | confirmed |
-| Matt 24:30 | COS-35 | anchor |
+| Dan 7:9 | COS-35, COS-38 | confirmed |
+| Dan 7:10 | COS-35, COS-38 | confirmed |
+| Matt 24:30 | COS-35, COS-37 | anchor, confirmed |
 | Rev 20:11-12 | COS-35 | anchor |
 | Zechariah 12:1 | COS-36 | confirmed |
 | Zechariah 12:2 | COS-36 | confirmed |
@@ -7643,15 +7990,41 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Zechariah 13:6 | COS-36 | confirmed |
 | Zechariah 13:7 | COS-36 | confirmed |
 | Zechariah 14:3 | COS-36 | confirmed |
-| Zechariah 14:4 | COS-36 | confirmed |
-| Zechariah 14:5 | COS-36 | confirmed |
-| Zechariah 14:9 | COS-36 | confirmed |
+| Zechariah 14:4 | COS-36, COS-38, COS-39 | confirmed |
+| Zechariah 14:5 | COS-36, COS-38, COS-39 | confirmed |
+| Zechariah 14:9 | COS-36, COS-39 | confirmed |
 | Matthew 26:31 | COS-36 | confirmed |
-| 1 Thessalonians 3:13 | COS-36 | confirmed |
-| Jude 1:14 | COS-36 | confirmed |
+| 1 Thessalonians 3:13 | COS-36, COS-39 | confirmed |
+| Jude 1:14 | COS-36, COS-39 | confirmed |
 | John 10:30 | COS-36 | prose-ref |
 | Ephesians 4:5 | COS-36 | prose-ref |
 | Ephesians 4:6 | COS-36 | prose-ref |
+| Matthew 24:3 | COS-37 | confirmed |
+| Matthew 24:23 | COS-37 | confirmed |
+| Matthew 24:24 | COS-37 | confirmed |
+| Matthew 24:27 | COS-37 | confirmed |
+| Matthew 24:29 | COS-37 | confirmed |
+| Matthew 24:31 | COS-37 | confirmed |
+| Matthew 24:36 | COS-37 | confirmed |
+| Matthew 25:31 | COS-37 | confirmed |
+| Matthew 25:32 | COS-37 | confirmed |
+| Matthew 25:33 | COS-37 | confirmed |
+| Matthew 25:34 | COS-37 | confirmed |
+| 1 Thessalonians 4:16 | COS-38 | confirmed |
+| 1 Thessalonians 4:17 | COS-38 | confirmed |
+| 2 Thessalonians 1:7 | COS-38 | confirmed |
+| 2 Thessalonians 1:8 | COS-38 | confirmed |
+| 2 Thessalonians 1:9 | COS-38 | confirmed |
+| 2 Thessalonians 1:10 | COS-38 | confirmed |
+| 2 Peter 3:10 | COS-38 | confirmed |
+| Acts 2:20 | COS-37 | confirmed |
+| 1 Corinthians 15:52 | COS-37, COS-39 | confirmed |
+| Revelation 11:15 | COS-37 | confirmed |
+| Joel 2:31 (MT) = Joel 3:4 (4-chapter LXX numbering) | COS-37 | confirmed |
+| Isaiah 13:9 (NETS) | COS-37 | confirmed |
+| Isaiah 13:10 (NETS) | COS-37 | confirmed |
+| Revelation 6:12-14 (range) | COS-37 | confirmed |
+| 1 Corinthians 15:24-28 (range) | COS-39 | confirmed |
 
 ## The editions used
 

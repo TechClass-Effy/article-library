@@ -88,7 +88,10 @@
    "COS-33",
    "COS-34",
    "COS-35",
-   "COS-36"
+   "COS-36",
+   "COS-37",
+   "COS-38",
+   "COS-39"
   ],
   "sections": [
    {
@@ -388,6 +391,18 @@
    {
     "key": "COS-36",
     "label": "40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)"
+   },
+   {
+    "key": "COS-37",
+    "label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)"
+   },
+   {
+    "key": "COS-38",
+    "label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)"
+   },
+   {
+    "key": "COS-39",
+    "label": "43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)"
    }
   ],
   "double_check": {
@@ -448,9 +463,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 41949,
+  "so_far_words": 44016,
   "cos_sofar": {
-   "waves": 21
+   "waves": 22
   }
  },
  "verses": [
@@ -3106,6 +3121,24 @@
      "status": "confirmed",
      "note": "NETS Zec 12-14 print re-verified at the page dump this wave; print == walk.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4783,
+     "cited_as": "24:30-echo mention",
+     "status": "confirmed",
+     "note": "obs (2) echo: \"then shall all the kinreds *(kindreds)* of the earth mourn\" (Matt 24:30)",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4902,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: 'Israel sees Him whom they pierced'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -14423,6 +14456,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4897,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis opening: OT witness 'Ps 110'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-10",
@@ -17199,6 +17241,15 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #5 established-observations list (bears the LORD's Name)."
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4938,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "Two-Critical-Points: 'bearing the LORD's Name (Ex 23:21)'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -23798,6 +23849,15 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4899,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Every eye shall see Him; Israel sees Him whom they pierced",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24214,6 +24274,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4899,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes on the clouds (Matt 26:64)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24315,6 +24384,24 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4800,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "24:36 observation parallel (GNV includes \"neither the Sonne himselfe\")",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4921,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "Two-Critical-Points: 'Only the Father knows'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24369,6 +24456,33 @@
      "status": "confirmed",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4783,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (2) Daniel 7's \"coming on clouds.\" cross-ref",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4899,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes on the clouds of heaven",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4783,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (2) Daniel 7's 'coming on clouds.' cross-ref",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24427,6 +24541,15 @@
      "status": "confirmed",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4902,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: establishes the universal Kingdom; Two-Critical-Points: receives the kingdom",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24799,6 +24922,24 @@
      "cited_as": "mention",
      "quotes": [],
      "status": "prose-ref",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4812,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs quote seated to GNV-modern: 'the times, or the seasons, which the Father hath put in his own power'",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4921,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "Two-Critical-Points: 'Only the Father knows the day and hour (Matt 24:36; Mark 13:32; Acts 1:7)'",
      "quote_kind": "mention"
     }
    ],
@@ -25210,6 +25351,24 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag."
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4836,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (5) \"the authority given Him in John 5:22, 27\" mention",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4836,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (5) 'the authority given Him in John 5:22, 27' mention",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -25339,6 +25498,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag."
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4836,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (5) mention",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -26104,6 +26272,15 @@
      "cited_as": "mention (Mount of Olives return binding)",
      "quotes": [],
      "status": "prose-ref",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4900,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes to the Mount of Olives (Acts 1:11-12)",
      "quote_kind": "mention"
     }
    ],
@@ -29323,6 +29500,15 @@
      "status": "confirmed",
      "matched_source": "",
      "note": "nets"
+    },
+    {
+     "section": "COS-38",
+     "section_label": null,
+     "article_line": 4870,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "2 Thess obs: fire language fulfils Dan 7:9-10; 'here belonging to the Son's return'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11"
@@ -29369,6 +29555,15 @@
      "status": "confirmed",
      "matched_source": "",
      "note": "nets"
+    },
+    {
+     "section": "COS-38",
+     "section_label": null,
+     "article_line": 4870,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "2 Thess obs mention",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11"
@@ -29376,7 +29571,19 @@
   {
    "id": "MAT.24.30",
    "ref": "Matt 24:30",
-   "translations": {},
+   "translations": {
+    "gnv": {
+     "text": "And then shall appeare the signe of the Sonne of man in heauen: and then shall all the kinreds of the earth mourne, and they shall see the Sonne of man come in the cloudes of heauen with power and great glorie.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And then shall appeare the signe of the Sonne of man in heauen: and then shall all the kinreds of the earth mourne, and they shall see the Sonne of man come in the cloudes of heauen with power and great glorie.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    }
+   },
    "second_check": {},
    "uses": [
     {
@@ -29389,6 +29596,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": "Bullet line of observation (2) of the 7:13-14 observations; 26:64 is seated (COS-24)."
+    },
+    {
+     "section": "COS-37",
+     "section_label": null,
+     "article_line": 4771,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "Came in the 24:29-31 full-verse seat span; obs (2) mention seated \"then shall all the kinreds *(kindreds)* of the earth mourn\"",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11"
@@ -29694,6 +29910,24 @@
      ],
      "status": "confirmed",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-38",
+     "section_label": null,
+     "article_line": 4852,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "1 Thess 4:16 obs (1): 'The descent corresponds with Zech 14:4-5'",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4900,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes to the Mount of Olives (Zech 14:4; Acts 1:11-12)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29727,6 +29961,24 @@
      ],
      "status": "confirmed",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-38",
+     "section_label": null,
+     "article_line": 4852,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "1 Thess 4:16 obs (1) mention",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4904,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes with all His saints",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29761,6 +30013,15 @@
      "status": "confirmed",
      "note": "The NETS cache walk stopped at 14:8 (its walker glued the page’s footnote block); 14:9 taken from the wave-21 print dump of the next print page (819/820).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4912,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table + Two-Critical-Points: 'one LORD, one Name'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29825,6 +30086,15 @@
      "status": "confirmed",
      "note": "Draft quotes the v13 tail; seat = full verse. TRB /Geneva/52 (1 Thessalonians) confirmed.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4904,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes with all His saints (1 Thess 3:13)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29855,6 +30125,15 @@
      "status": "confirmed",
      "note": "TRB book number 65 confirmed via the “Enoch” verse print; BibleHub Greek 1.00 on the draft’s tokens.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-39",
+     "section_label": null,
+     "article_line": 4904,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Comes with all His saints (Jude 14)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29953,6 +30232,884 @@
      "source": "https://ebible.org/enggnv/EPH04.htm"
     }
    }
+  },
+  {
+   "id": "MAT.24.3",
+   "ref": "Matthew 24:3",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4735,
+     "cited_as": "full verse seat (draft's ellipsed v3 head restored per wave-18 rule); 'Oliues'→'Olives' fold; edition prints 'world.' (draft '?')",
+     "status": "confirmed",
+     "note": "draft quote begins mid-verse; NETS n/a; WH verse head 'Καὶ καθήμενον...' on the BH page (draft elides it)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And as he sat upon the mount of Olives, his disciples came unto him apart, saying, Tell us when these things shall be, and what sign shall be of thy coming, and of the end of the world."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And as he sate vpon the mount of Oliues, his disciples came vnto him apart, saying, Tell vs when these things shall be, and what signe shalbe of thy comming, and of the ende of the world.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And as he sate vpon the mount of Oliues, his disciples came vnto him apart, saying, Tell vs when these things shall be, and what signe shalbe of thy comming, and of the ende of the world.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ΚαθημένουKathēmenou δὲde αὐτοῦautou ἐπὶepi τοῦtou ὄρουςorous τῶνtōn ἘλαιῶνElaiōn προσῆλθονprosēlthon αὐτῷautō οἱhoi μαθηταὶmathētai κατ’kat’ ἰδίανidian λέγοντεςlegontes ΕἰπὲEipe ἡμῖν,hēmin πότεpote ταῦταtauta ἔσται,estai καὶkai τίti τὸto σημεῖονsēmeion τῆςtēs σῆςsēs παρουσίαςparousias καὶkai συντελείαςsynteleias τοῦtou αἰῶνος;aiōnos",
+     "source": "https://biblehub.com/text/matthew/24-3.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.24.23",
+   "ref": "Matthew 24:23",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4760,
+     "cited_as": "ellipsis-seat 23-25+27 span (v26 whole verse elided per draft shape)",
+     "status": "confirmed",
+     "note": "draft Greek 1.000",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then if any shall say unto you, Lo, here is Christ, or there, believe it not. For there shall arise false Christs, and false prophets, and shall show great signs and wonders, so that if it were possible, they should deceive the very elect. … For as the lightning cometh out of the East, and is seen into the West, so shall also the coming of the Son of man be."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then if any shall say vnto you, Loe, here is Christ, or there, beleeue it not.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Then if any shall say vnto you, Loe, here is Christ, or there, beleeue it not.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "Τότεtote ἐάνean τιςtis ὑμῖνhymin εἴπῃeipē ἸδοὺIdou ὧδεhōde ὁho Χριστός,Christos ἤē Ὧδε,Hōde μὴmē πιστεύσητε·pisteusēte",
+     "source": "https://biblehub.com/text/matthew/24-23.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.24.24",
+   "ref": "Matthew 24:24",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4760,
+     "cited_as": "ellipsis-seat 23-25+27 span",
+     "status": "confirmed",
+     "note": "draft Geneva was GNV-voiced already (\"so that... should deceive\")",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then if any shall say unto you, Lo, here is Christ, or there, believe it not. For there shall arise false Christs, and false prophets, and shall show great signs and wonders, so that if it were possible, they should deceive the very elect. … For as the lightning cometh out of the East, and is seen into the West, so shall also the coming of the Son of man be."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For there shall arise false Christes, and false prophets, and shall shewe great signes and wonders, so that if it were possible, they should deceiue the very elect.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For there shall arise false Christes, and false prophets, and shall shewe great signes and wonders, so that if it were possible, they should deceiue the very elect.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἐγερθήσονταιegerthēsontai γὰρgar ψευδόχριστοιpseudochristoi καὶkai ψευδοπροφῆται,pseudoprophētai καὶkai δώσουσινdōsousin σημεῖαsēmeia μεγάλαmegala καὶkai τέραταterata ὥστεhōste πλανῆσαι,planēsai εἰei δυνατὸν,dynaton καὶkai τοὺςtous ἐκλεκτούς.eklektous",
+     "source": "https://biblehub.com/text/matthew/24-24.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.24.27",
+   "ref": "Matthew 24:27",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4760,
+     "cited_as": "ellipsis-seat 23-25+27 span",
+     "status": "confirmed",
+     "note": "draft Greek 1.000",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then if any shall say unto you, Lo, here is Christ, or there, believe it not. For there shall arise false Christs, and false prophets, and shall show great signs and wonders, so that if it were possible, they should deceive the very elect. … For as the lightning cometh out of the East, and is seen into the West, so shall also the coming of the Son of man be."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For as the lightning commeth out of the East, and is seene into the West, so shall also the comming of the Sonne of man be.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For as the lightning commeth out of the East, and is seene into the West, so shall also the comming of the Sonne of man be.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ὥσπερhōsper γὰρgar ἡhē ἀστραπὴastrapē ἐξέρχεταιexerchetai ἀπὸapo ἀνατολῶνanatolōn καὶkai φαίνεταιphainetai ἕωςheōs δυσμῶν,dysmōn οὕτωςhoutōs ἔσταιestai ἡhē παρουσίαparousia τοῦtou ΥἱοῦHuiou τοῦtou ἀνθρώπου·anthrōpou",
+     "source": "https://biblehub.com/text/matthew/24-27.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.24.29",
+   "ref": "Matthew 24:29",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4771,
+     "cited_as": "full-verse seat v29; GLOSS \"heaue *(heaven)* / shake *(shaken)*\"",
+     "status": "confirmed",
+     "note": "eBible AND TRB both print \"the powers of heaue shalbe shake.\" — kept verbatim (JHN 7:42 doubled-that precedent), glossed; draft printed \"shall be shaken\" (KJV-family)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And immediately after the tribulations of those days, shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaue *(heaven)* shall be shake *(shaken)*. And then shall appear the sign of the Son of man in heaven: and then shall all the kinreds *(kindreds)* of the earth mourn, and they shall see the Son of man come in the clouds of heaven with power and great glory. And he shall send his Angels with a great sound of a trumpet, and they shall gather together his elect, from the four winds, and from the one end of the heavens unto the other."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And immediatly after ye tribulations of those dayes, shall the sunne be darkened, and the moone shall not giue her light, and the starres shall fal from heauen, and ye powers of heaue shalbe shake.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And immediatly after ye tribulations of those dayes, shall the sunne be darkened, and the moone shall not giue her light, and the starres shall fal from heauen, and ye powers of heaue shalbe shake.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ΕὐθέωςEutheōs δὲde μετὰmeta τὴνtēn θλῖψινthlipsin τῶνtōn ἡμερῶνhēmerōn ἐκείνωνekeinōn Ὁho ἥλιοςhēlios σκοτισθήσεται,skotisthēsetai Καὶkai ἡhē σελήνηselēnē οὐou δώσειdōsei τὸto φέγγοςphengos αὐτῆς,autēs Καὶkai οἱhoi ἀστέρεςasteres πεσοῦνταιpesountai ἀπὸapo τοῦtou οὐρανοῦ,ouranou Καὶkai αἱhai δυνάμειςdynameis τῶνtōn οὐρανῶνouranōn σαλευθήσονται.saleuthēsontai",
+     "source": "https://biblehub.com/text/matthew/24-29.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.24.31",
+   "ref": "Matthew 24:31",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4771,
+     "cited_as": "full-verse seat v31",
+     "status": "confirmed",
+     "note": "WH prints 'ἕως τῶν ἄκρων' — draft 'ἕως ἄκρων' article-drop recorded",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And immediately after the tribulations of those days, shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaue *(heaven)* shall be shake *(shaken)*. And then shall appear the sign of the Son of man in heaven: and then shall all the kinreds *(kindreds)* of the earth mourn, and they shall see the Son of man come in the clouds of heaven with power and great glory. And he shall send his Angels with a great sound of a trumpet, and they shall gather together his elect, from the four winds, and from the one end of the heavens unto the other."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he shall send his Angels with a great sound of a trumpet, and they shall gather together his elect, from the foure windes, and from the one ende of the heauens vnto the other.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And he shall send his Angels with a great sound of a trumpet, and they shall gather together his elect, from the foure windes, and from the one ende of the heauens vnto the other.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "καὶkai ἀποστελεῖapostelei τοὺςtous ἀγγέλουςangelous αὐτοῦautou μετὰmeta σάλπιγγοςsalpingos μεγάλης,megalēs καὶkai ἐπισυνάξουσινepisynaxousin τοὺςtous ἐκλεκτοὺςeklektous αὐτοῦautou ἐκek τῶνtōn τεσσάρωνtessarōn ἀνέμωνanemōn ἀπ’ap’ ἄκρωνakrōn οὐρανῶνouranōn ἕωςheōs ‹τῶν›tōn ἄκρωνakrōn αὐτῶν.autōn",
+     "source": "https://biblehub.com/text/matthew/24-31.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.24.36",
+   "ref": "Matthew 24:36",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4800,
+     "cited_as": "full-verse seat; \"father\"→\"Father\" cap fold",
+     "status": "confirmed",
+     "note": "edition omits 'neither the Son' here (draft observation already states it); MRK 13:32 keeps it",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But of that day and hour knoweth no man, no not the Angels of heaven, but my Father only."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But of that day and houre knoweth no man, no not the Angels of heauen, but my father only.",
+     "source": "https://ebible.org/enggnv/MAT24.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "But of that day and houre knoweth no man, no not the Angels of heauen, but my father only.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/24",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ΠερὶPeri δὲde τῆςtēs ἡμέραςhēmeras ἐκείνηςekeinēs καὶkai ὥραςhōras οὐδεὶςoudeis οἶδεν,oiden οὐδὲoude οἱhoi ἄγγελοιangeloi τῶνtōn οὐρανῶνouranōn οὐδὲoude ὁho Υἱός,Huios εἰei μὴmē ὁho ΠατὴρPatēr μόνος.monos",
+     "source": "https://biblehub.com/text/matthew/24-36.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.25.31",
+   "ref": "Matthew 25:31",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4820,
+     "cited_as": "ellipsis-seat 31-34 span (draft v34 KJV-voiced \"inherit the kingdom\" brought to GNV \"take the inheritance...\")",
+     "status": "confirmed",
+     "note": "draft Greek vs WH 1.000 token-wise",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when the Sonne of man commeth in his glory, and all the holy Angels with him, then shall he sit vpon the throne of his glorie,",
+     "source": "https://ebible.org/enggnv/MAT25.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And when the Sonne of man commeth in his glory, and all the holy Angels with him, then shall he sit vpon the throne of his glorie,",
+      "source": "https://textusreceptusbibles.com/Geneva/40/25",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ὍτανHotan δὲde ἔλθῃelthē ὁho υἱὸςhuios τοῦtou ἀνθρώπουanthrōpou ἐνen τῇtē δόξῃdoxē αὐτοῦautou καὶkai πάντεςpantes οἱhoi ἄγγελοιangeloi μετ’met’ αὐτοῦ,autou τότεtote καθίσειkathisei ἐπὶepi θρόνουthronou δόξηςdoxēs αὐτοῦ·autou",
+     "source": "https://biblehub.com/text/matthew/25-31.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.25.32",
+   "ref": "Matthew 25:32",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4820,
+     "cited_as": "ellipsis-seat 31-34 span; \"seperate\"→\"separate\" fold",
+     "status": "confirmed",
+     "note": "draft Greek 1.000 (koronis apostrophe joins only)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And before him shalbe gathered all nations, and he shall seperate them one from another, as a shepheard separateth the sheepe from ye goates.",
+     "source": "https://ebible.org/enggnv/MAT25.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And before him shalbe gathered all nations, and he shall seperate them one from another, as a shepheard separateth the sheepe from ye goates.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/25",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "καὶkai συναχθήσονταιsynachthēsontai ἔμπροσθενemprosthen αὐτοῦautou πάνταpanta τὰta ἔθνη,ethnē καὶkai ἀφορίσειaphorisei αὐτοὺςautous ἀπ’ap’ ἀλλήλων,allēlōn ὥσπερhōsper ὁho ποιμὴνpoimēn ἀφορίζειaphorizei τὰta πρόβαταprobata ἀπὸapo τῶνtōn ἐρίφων,eriphōn",
+     "source": "https://biblehub.com/text/matthew/25-32.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.25.33",
+   "ref": "Matthew 25:33",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4820,
+     "cited_as": "ellipsis-seat 31-34 span",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he shall set the sheepe on his right hand, and the goates on the left.",
+     "source": "https://ebible.org/enggnv/MAT25.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And he shall set the sheepe on his right hand, and the goates on the left.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/25",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "καὶkai στήσειstēsei τὰta μὲνmen πρόβαταprobata ἐκek δεξιῶνdexiōn αὐτοῦ,autou τὰta δὲde ἐρίφιαeriphia ἐξex εὐωνύμων.euōnymōn",
+     "source": "https://biblehub.com/text/matthew/25-33.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "MAT.25.34",
+   "ref": "Matthew 25:34",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4820,
+     "cited_as": "ellipsis-seat 31-34 span; \"ye king\"→\"the King\"; \"my father\"→\"my Father\" cap fold",
+     "status": "confirmed",
+     "note": "draft v34 was KJV-voiced (\"inherit the kingdom...\"); seat brings GNV verbatim \"take the inheritance of the kingdome...\"",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then shall ye king say to them on his right hand, Come ye blessed of my father: take the inheritance of the kingdome prepared for you from the foundation of the world.",
+     "source": "https://ebible.org/enggnv/MAT25.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Then shall ye king say to them on his right hand, Come ye blessed of my father: take the inheritance of the kingdome prepared for you from the foundation of the world.",
+      "source": "https://textusreceptusbibles.com/Geneva/40/25",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "Τότεtote ἐρεῖerei ὁho ΒασιλεὺςBasileus τοῖςtois ἐκek δεξιῶνdexiōn αὐτοῦautou ΔεῦτεDeute οἱhoi εὐλογημένοιeulogēmenoi τοῦtou ΠατρόςPatros μου,mou κληρονομήσατεklēronomēsate τὴνtēn ἡτοιμασμένηνhētoimasmenēn ὑμῖνhymin βασιλείανbasileian ἀπὸapo καταβολῆςkatabolēs κόσμου.kosmou",
+     "source": "https://biblehub.com/text/matthew/25-34.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "1TH.4.16",
+   "ref": "1 Thessalonians 4:16",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4846,
+     "cited_as": "full-verse seat v16",
+     "status": "confirmed",
+     "note": "draft obs bullet seated to GNV-modern ('and with the voice' + 'trumpet' per edition)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> For the Lord himself shall descend from heaven with a shout, and with the voice of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first: Then shall we which live and remain, be caught up with them also in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Lord himselfe shall descende from heauen with a shoute, and with the voyce of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first:",
+     "source": "https://ebible.org/enggnv/1TH04.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For the Lord himselfe shall descende from heauen with a shoute, and with the voyce of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first:",
+      "source": "https://textusreceptusbibles.com/Geneva/52/4",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ὅτιhoti αὐτὸςautos ὁho ΚύριοςKyrios ἐνen κελεύσματι,keleusmati ἐνen φωνῇphōnē ἀρχαγγέλουarchangelou καὶkai ἐνen σάλπιγγιsalpingi Θεοῦ,Theou καταβήσεταιkatabēsetai ἀπ’ap’ οὐρανοῦ,ouranou καὶkai οἱhoi νεκροὶnekroi ἐνen ΧριστῷChristō ἀναστήσονταιanastēsontai πρῶτον,prōton",
+     "source": "https://biblehub.com/text/1_thessalonians/4-16.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "1TH.4.17",
+   "ref": "1 Thessalonians 4:17",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4846,
+     "cited_as": "full-verse seat v17",
+     "status": "confirmed",
+     "note": "draft Greek 1.000",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> For the Lord himself shall descend from heaven with a shout, and with the voice of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first: Then shall we which live and remain, be caught up with them also in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.",
+     "source": "https://ebible.org/enggnv/1TH04.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Then shall we which liue and remaine, be caught vp with them also in the clouds, to meete the Lord in the ayre: and so shall we euer be with the Lord.",
+      "source": "https://textusreceptusbibles.com/Geneva/52/4",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἔπειταepeita ἡμεῖςhēmeis οἱhoi ζῶντεςzōntes οἱhoi περιλειπόμενοιperileipomenoi ἅμαhama σὺνsyn αὐτοῖςautois ἁρπαγησόμεθαharpagēsometha ἐνen νεφέλαιςnephelais εἰςeis ἀπάντησινapantēsin τοῦtou ΚυρίουKyriou εἰςeis ἀέρα·aera καὶkai οὕτωςhoutōs πάντοτεpantote σὺνsyn ΚυρίῳKyriō ἐσόμεθα.esometha",
+     "source": "https://biblehub.com/text/1_thessalonians/4-17.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "2TH.1.7",
+   "ref": "2 Thessalonians 1:7",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4862,
+     "cited_as": "seat v7 FULL (draft elided the v7 head \"And to you which are troubled, rest with us,\" — restored per wave-18 rule) + v8 + ellipsis(v9) + v10 FULL",
+     "status": "confirmed",
+     "note": "draft quoted the v7 tail only; WH head \"καὶ ὑμῖν τοῖς θλιβομένοις...\" on the BH page",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And to you which are troubled, rest with us, when the Lord Jesus shall show himself from heaven with his mighty Angels, In flaming fire, rendering vengeance unto them, that do not know God, and which obey not unto the Gospel of our Lord Jesus Christ, … When he shall come to be glorified in his Saints, and to be made marvelous in all them that believe (because our testimony toward you was believed) in that day."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And to you which are troubled, rest with vs, when the Lord Iesus shall shewe himselfe from heauen with his mightie Angels,",
+     "source": "https://ebible.org/enggnv/2TH01.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And to you which are troubled, rest with vs, when the Lord Iesus shall shewe himselfe from heauen with his mightie Angels,",
+      "source": "https://textusreceptusbibles.com/Geneva/53/1",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "καὶkai ὑμῖνhymin τοῖςtois θλιβομένοιςthlibomenois ἄνεσινanesin μεθ’meth’ ἡμῶν,hēmōn ἐνen τῇtē ἀποκαλύψειapokalypsei τοῦtou ΚυρίουKyriou ἸησοῦIēsou ἀπ’ap’ οὐρανοῦouranou μετ’met’ ἀγγέλωνangelōn δυνάμεωςdynameōs αὐτοῦautou",
+     "source": "https://biblehub.com/text/2_thessalonians/1-7.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "2TH.1.8",
+   "ref": "2 Thessalonians 1:8",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4862,
+     "cited_as": "seat v8",
+     "status": "confirmed",
+     "note": "draft Greek 1.000",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And to you which are troubled, rest with us, when the Lord Jesus shall show himself from heaven with his mighty Angels, In flaming fire, rendering vengeance unto them, that do not know God, and which obey not unto the Gospel of our Lord Jesus Christ, … When he shall come to be glorified in his Saints, and to be made marvelous in all them that believe (because our testimony toward you was believed) in that day."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "In flaming fire, rendring vengeance vnto them, that doe not know God, and which obey not vnto the Gospel of our Lord Iesus Christ,",
+     "source": "https://ebible.org/enggnv/2TH01.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "In flaming fire, rendring vengeance vnto them, that doe not know God, and which obey not vnto the Gospel of our Lord Iesus Christ,",
+      "source": "https://textusreceptusbibles.com/Geneva/53/1",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἐνen πυρὶ ⇔pyri φλογός,phlogos διδόντοςdidontos ἐκδίκησινekdikēsin τοῖςtois μὴmē εἰδόσινeidosin ΘεὸνTheon καὶkai τοῖςtois μὴmē ὑπακούουσινhypakouousin τῷtō εὐαγγελίῳeuangeliō τοῦtou ΚυρίουKyriou ἡμῶνhēmōn Ἰησοῦ,Iēsou",
+     "source": "https://biblehub.com/text/2_thessalonians/1-8.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "2TH.1.9",
+   "ref": "2 Thessalonians 1:9",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4862,
+     "cited_as": "v9 ELIDED in draft (whole verse inside ellipsis) — text banked, not seated",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And to you which are troubled, rest with us, when the Lord Jesus shall show himself from heaven with his mighty Angels, In flaming fire, rendering vengeance unto them, that do not know God, and which obey not unto the Gospel of our Lord Jesus Christ, … When he shall come to be glorified in his Saints, and to be made marvelous in all them that believe (because our testimony toward you was believed) in that day."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Which shall be punished with euerlasting perdition, from the presence of the Lord, and from the glory of his power,",
+     "source": "https://ebible.org/enggnv/2TH01.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Which shall be punished with euerlasting perdition, from the presence of the Lord, and from the glory of his power,",
+      "source": "https://textusreceptusbibles.com/Geneva/53/1",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "οἵτινεςhoitines δίκηνdikēn τίσουσινtisousin ὄλεθρονolethron αἰώνιονaiōnion ἀπὸapo προσώπουprosōpou τοῦtou ΚυρίουKyriou καὶkai ἀπὸapo τῆςtēs δόξηςdoxēs τῆςtēs ἰσχύοςischyos αὐτοῦ,autou",
+     "source": "https://biblehub.com/text/2_thessalonians/1-9.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "2TH.1.10",
+   "ref": "2 Thessalonians 1:10",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4862,
+     "cited_as": "seat v10 FULL (draft elided \"(because our testimony toward you was believed)\" — restoration per wave-16 v38 rule)",
+     "status": "confirmed",
+     "note": "draft quoted the v10a tail",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And to you which are troubled, rest with us, when the Lord Jesus shall show himself from heaven with his mighty Angels, In flaming fire, rendering vengeance unto them, that do not know God, and which obey not unto the Gospel of our Lord Jesus Christ, … When he shall come to be glorified in his Saints, and to be made marvelous in all them that believe (because our testimony toward you was believed) in that day."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "When he shall come to be glorified in his Saints, and to be made marueilous in all them that beleeue (because our testimonie toward you was beleeued) in that day.",
+     "source": "https://ebible.org/enggnv/2TH01.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "When he shall come to be glorified in his Saints, and to be made marueilous in all them that beleeue ( because our testimonie toward you was beleeued) in that day.",
+      "source": "https://textusreceptusbibles.com/Geneva/53/1",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ὅτανhotan ἔλθῃelthē ἐνδοξασθῆναιendoxasthēnai ἐνen τοῖςtois ἁγίοιςhagiois αὐτοῦautou καὶkai θαυμασθῆναιthaumasthēnai ἐνen πᾶσινpasin τοῖςtois πιστεύσασιν,pisteusasin ὅτιhoti ἐπιστεύθηepisteuthē τὸto μαρτύριονmartyrion ἡμῶνhēmōn ἐφ’eph’ ὑμᾶς,hymas ἐνen τῇtē ἡμέρᾳhēmera ἐκείνῃ.ekeinē",
+     "source": "https://biblehub.com/text/2_thessalonians/1-10.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "2PE.3.10",
+   "ref": "2 Peter 3:10",
+   "uses": [
+    {
+     "section": "COS-38",
+     "section_label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)",
+     "article_line": 4884,
+     "cited_as": "full-verse seat",
+     "status": "confirmed",
+     "note": "WH omits/alters the tail (\"οὐχ εὑρεθήσεται\") — draft/Byz \"εὑρεθήσεται\" recorded, no flag",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But the day of the Lord will come as a thief in the night, in the which the heavens shall pass away with a noise, and the elements shall melt with heat, and the earth with the works that are therein, shall be burnt up."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But the day of the Lord will come as a thiefe in the night, in the which the heauens shall passe away with a noyse, and the elements shall melt with heate, and the earth with the workes that are therein, shalbe burnt vp.",
+     "source": "https://ebible.org/enggnv/2PE03.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "But the day of the Lord will come as a thiefe in the night, in the which the heauens shall passe away with a noyse, and the elements shall melt with heate, and the earth with the workes that are therein, shalbe burnt vp.",
+      "source": "https://textusreceptusbibles.com/Geneva/61/3",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἭξειHēxei δὲde ἡμέραhēmera ΚυρίουKyriou ὡςhōs κλέπτης,kleptēs ἐνen ᾗhē οἱhoi οὐρανοὶouranoi ῥοιζηδὸνrhoizēdon παρελεύσονται,pareleusontai στοιχεῖαstoicheia δὲde καυσούμεναkausoumena λυθήσεται,lythēsetai καὶkai γῆgē καὶkai τὰta ἐνen αὐτῇautē ἔργαerga [οὐχ]ouch εὑρεθήσεται.heurethēsetai",
+     "source": "https://biblehub.com/text/2_peter/3-10.htm",
+     "result": "BibleHub WH text recorded; draft Greek compared (see row notes)"
+    }
+   }
+  },
+  {
+   "id": "ACT.2.20",
+   "ref": "Acts 2:20",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4780,
+     "cited_as": "GNV text banked, TRB /Geneva/44/2 verified 1.000",
+     "status": "confirmed",
+     "note": "Peter's citation of the great-day language (draft obs cross-ref)",
+     "quote_kind": "anchor",
+     "quotes": []
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The Sunne shalbe turned into darkenesse, and the moone into blood, before that great and notable day of the Lord come.",
+     "source": "https://ebible.org/enggnv/ACT02.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "The Sunne shalbe turned into darkenesse, and the moone into blood, before that great and notable day of the Lord come.",
+      "source": "https://textusreceptusbibles.com/Geneva/44/2",
+      "result": "1.000"
+     }
+    }
+   },
+   "cited_as_placeholder": null
+  },
+  {
+   "id": "1CO.15.52",
+   "ref": "1 Corinthians 15:52",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4787,
+     "cited_as": "obs bullet seated \"at the last trumpet.\" (GNV-modern; draft KJV-voiced \"trump\")",
+     "status": "confirmed",
+     "note": "trumpet witness; no seat block this wave (whole verse seats in the (C) wave)",
+     "quote_kind": "anchor",
+     "quotes": []
+    },
+    {
+     "section": "COS-39",
+     "section_label": "43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)",
+     "article_line": 4906,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table: Trumpet of God sounds (1 Cor 15:52)",
+     "quote_kind": "mention"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "In a moment, in the twinckling of an eye at the last trumpet: for the trumpet shall blow, and the dead shalbe raysed vp incorruptible, and we shalbe changed.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "In a moment, in the twinckling of an eye at the last trumpet: for the trumpet shall blow, and the dead shalbe raysed vp incorruptible, and we shalbe changed.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "REV.11.15",
+   "ref": "Revelation 11:15",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4788,
+     "cited_as": "seventh-trumpet anchor; GNV text banked; Apocalypse wave will seat",
+     "status": "confirmed",
+     "note": "seventh-trumpet anchor",
+     "quote_kind": "anchor",
+     "quotes": []
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And the seuenth Angell blewe the trumpet, and there were great voyces in heauen, saying, The kingdomes of this worlde are our Lordes, and his Christes, and he shall reigne for euermore.",
+     "source": "https://ebible.org/enggnv/REV11.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And the seuenth Angell blewe the trumpet, and there were great voyces in heauen, saying, The kingdomes of this worlde are our Lordes, and his Christes, and he shall reigne for euermore.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/11",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "JOE.2.31",
+   "ref": "Joel 2:31 (MT) = Joel 3:4 (4-chapter LXX numbering)",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4780,
+     "cited_as": "obs bullet seated to NETS (draft quote was Acts 2:20/GNV-voiced)",
+     "status": "confirmed",
+     "note": "BOTH MAPS: NETS print (32-twelve.pdf p802) numbers MT 2:31; the draft's label \"(3:4 LXX)\" is the traditional 4-chapter LXX numbering = MT 2:31. Draft obs quote was Acts 2:20/GNV-voiced (\"turned into darkness...notable day of the LORD come\") — obs bullet seated to NETS verbatim with \"(NETS; cited by Peter in Acts 2:20)\"; GNV Joel 2:31 prints \"terrible day\" where GNV Acts 2:20 prints \"notable day\" — banked as each edition prints.",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "The sun shall be turned to darkness, and the moon to blood, before the great and notable day of the Lord comes."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "The sun shall be turned to darkness, and the moon to blood, before the great and notable day of the Lord comes.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/32-twelve-nets.pdf"
+    },
+    "gnv": {
+     "text": "The sunne shalbe turned into darkenesse, and the moone into blood, before the great and terrible day of the Lord come.",
+     "source": "https://ebible.org/enggnv/JOL02.htm"
+    },
+    "greek_rahlfs": {
+     "text": "",
+     "source": "",
+     "result": "not fetched this wave; print dump verified"
+    }
+   }
+  },
+  {
+   "id": "ISA.13.9",
+   "ref": "Isaiah 13:9 (NETS)",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4778,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "mention-anchor; obs (1) cites Isaiah 13:9-10 the Day of the LORD; NETS from the verified ISA cache",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "For behold, the incurable day of the Lord comes, a day of wrath and anger, to make the whole world desolate and to destroy the sinners from it.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "ISA.13.10",
+   "ref": "Isaiah 13:10 (NETS)",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4778,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "mention-anchor; the cosmic-signs witness behind Matt 24:29",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "For the stars of heaven and Orion and all the ornament of heaven will not give light, and it will be dark when the sun rises, and the moon will not give its light.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
+    }
+   }
+  },
+  {
+   "id": "REV.6.12-14",
+   "ref": "Revelation 6:12-14 (range)",
+   "uses": [
+    {
+     "section": "COS-37",
+     "section_label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)",
+     "article_line": 4777,
+     "cited_as": "pure mention-anchor, no text",
+     "status": "confirmed",
+     "note": "pure mention-anchor, no text (obs (1) \"the sixth seal\"); seats in the Apocalypse wave",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
+  },
+  {
+   "id": "1CO.15.24-28",
+   "ref": "1 Corinthians 15:24-28 (range)",
+   "uses": [
+    {
+     "section": "COS-39",
+     "section_label": "43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)",
+     "article_line": 4949,
+     "cited_as": "pure mention-anchor, no text",
+     "status": "confirmed",
+     "note": "pure mention-anchor, no text (\"Hand all things over to the Father... which we will examine in (C)\") — the (C) wave seats 15:20-28 fully",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
   }
  ]
 }
