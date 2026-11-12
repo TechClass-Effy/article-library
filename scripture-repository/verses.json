@@ -105,7 +105,8 @@
    "COS-50",
    "COS-51",
    "COS-52",
-   "COS-53"
+   "COS-53",
+   "COS-54"
   ],
   "sections": [
    {
@@ -473,6 +474,10 @@
    {
     "key": "COS-53",
     "label": "57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit"
+   },
+   {
+    "key": "COS-54",
+    "label": "58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things"
    }
   ],
   "double_check": {
@@ -533,10 +538,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 56571,
+  "so_far_words": 57428,
   "cos_sofar": {
-   "waves": 27
-  }
+   "waves": 28
+  },
+  "glossary": 867
  },
  "verses": [
   {
@@ -14981,9 +14987,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close upsert use."
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6225,
+     "cited_as": "Throne-resolution paren cite \"(Ps 110:1; Heb 1:3; Heb 10:12)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Ps 110:1 seat row re-referenced for the Lamb's bodily enthronement.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "The Lord said to my lord, \"Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet.\"",
@@ -17624,9 +17640,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6186,
+     "cited_as": "Numbered point 1 — \"He is invisible (no man has seen Him — John 1:18; 1 Tim 6:16)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Mention in point 1 and again in the theophany bullet (line 6241).",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.",
@@ -17731,9 +17757,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close upsert use."
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6241,
+     "cited_as": "Theophany bullet — \"The Father, as invisible Spirit, cannot be seen (John 1:18; 1 Tim 6:16; Ex 33:20)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "The seeing-God prohibition verse, cited with John 1:18 and 1 Tim 6:16.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.",
@@ -29831,9 +29867,19 @@
      "status": "confirmed",
      "note": "synthesis table step 2: reigns at the right hand (Heb 10:12-13)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6225,
+     "cited_as": "Throne-resolution paren cite (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "The once-for-all session at the right hand.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,",
@@ -32645,9 +32691,19 @@
      "status": "confirmed",
      "note": "Re-presented in the (D)-close seat; see polish.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6229,
+     "cited_as": "\"the throne of God and of the Lamb\" (Rev 22:1, 3) (mention + draft quotes the phrase)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "The single-throne resolution leans on the wave-23/26 seats.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.",
@@ -32702,9 +32758,19 @@
      "status": "confirmed",
      "note": "Re-presented in the (D)-close seat; see polish.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6229,
+     "cited_as": "\"the throne of God and of the Lamb\" (Rev 22:1, 3) (mention + draft quotes the phrase)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Paired citation with Rev 22:1.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.",
@@ -34308,9 +34374,19 @@
      "status": "confirmed",
      "note": "4:2-3, 8, 11 ellipsis seat over the draft’s span; v2 head restored (elision-restore class); the draft’s \"Jasper/Sardine/Emerald\" caps fall to the print’s lowercase; \"Holy, holy, holy Lord\" keeps the print’s missing comma (draft had one); 1599 \"honour\" kept (draft \"honor\" Americanized); \"wils\" → \"will’s\".",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6229,
+     "cited_as": "\"the One sitting on the throne\" (Rev 4-5) (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Rev 4-5 throne-room reference (the wave-25 seats).",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And immediatly I was rauished in the spirit, and behold, a throne was set in heauen, and one sate vpon the throne.",
@@ -34860,9 +34936,19 @@
      "status": "confirmed",
      "note": "7:9-17 seat — v17 closes the seat; the print’s comma after \"Lamb\" kept (draft dropped it).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6229,
+     "cited_as": "\"the Lamb in the midst of the throne\" (Rev 7:17) (draft quotes the phrase)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Wave-25 seat row re-referenced; the draft quotes the phrase in-line.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.",
@@ -36035,6 +36121,16 @@
      "status": "seat",
      "note": "Seat v16 = \"whom never man saw, neither can see\" — the 1599 print (the draft's Part E quote already carried it modern-spelled; \"honour\" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote).",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6186,
+     "cited_as": "Numbered point 1 (with John 1:18) (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Point 1, the Q1 table cell (line 6170) and the theophany bullet (line 6241).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36413,6 +36509,16 @@
      "status": "seat",
      "note": "Seat verse 2; NETS renders \"the sky and the earth\" where the draft's Geneva reads \"heaven and earth\".",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6188,
+     "cited_as": "Numbered point 2 — \"He fills heaven and earth (Jer 23:24)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Mention in point 2; the Q1 table also cites Jer 23:23-24.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36463,6 +36569,16 @@
      "quotes": [],
      "status": "seat",
      "note": "The local NETS 3 Reigns extract (11-3reigns-nets.pdf) covers only the Kaige ch 1-2 region — ch 8 absent — so the draft's Greek + Geneva blocks were carried through UNSEATED; his prose untouched.",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6190,
+     "cited_as": "Numbered point 3 — \"the heavens cannot contain Him (1 Kgs 8:27)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Mention in point 3; the Q1 table cites it twice as the uncontainability witness.",
      "quote_kind": "reference"
     }
    ],
@@ -36910,6 +37026,682 @@
      "result": "exact 1599 print (eBible==TRB)"
     }
    }
+  },
+  {
+   "id": "ACT.17.24",
+   "ref": "Acts 17:24",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6204,
+     "cited_as": "Cross-witness — Acts 17:24-28 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = the 1599 print modern-spelled over the draft Geneva span. \"heaue\" is the print's own artifact (both eBible and TRB) kept verbatim with gloss (Matt 24:29 precedent). The draft's KJV-voiced comma after \"life\" brought back to the print's \"all life and breath and all things\".",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6171,
+     "cited_as": "Two-Witnesses table — \"God is omnipresent: Acts 17:24-28\" (table mention, Q1)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention (no text cited in the Q1 table).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "God that made the world, and all things that are therein, seeing that he is Lord of heaue and earth, dwelleth not in temples made with hands,",
+     "source": "https://ebible.org/enggnv/ACT17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "God that made the world, and all things that are therein, seeing that he is Lord of heaue and earth, dwelleth not in temples made with hands,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὁ Θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ, οὗτος οὐρανοῦ καὶ γῆς ὑπάρχων Κύριος οὐκ ἐν χειροποιήτοις ναοῖς κατοικεῖ,",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v24 exact)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "God that made the world, and all things that are therein, seeing that he is Lord of heaue and earth, dwelleth not in temples made with hands,",
+     "source": "www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὁ Θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ, οὗτος οὐρανοῦ καὶ γῆς ὑπάρχων Κύριος οὐκ ἐν χειροποιήτοις ναοῖς κατοικεῖ,",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v24 exact)"
+    }
+   }
+  },
+  {
+   "id": "ACT.17.25",
+   "ref": "Acts 17:25",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6204,
+     "cited_as": "Cross-witness — Acts 17:24-28 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat v25 = the 1599 print modern-spelled (\"mens handes\" > \"men's hands\", \"hee giueth\" > \"he giveth\"; -eth verbs kept). The print's trailing comma kept before the draft ellipsis.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6171,
+     "cited_as": "Two-Witnesses table — \"God is omnipresent: Acts 17:24-28\" (table mention, Q1)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention (no text cited in the Q1 table).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Neither is worshipped with mens handes, as though he needed any thing, seeing hee giueth to all life and breath and all things,",
+     "source": "https://ebible.org/enggnv/ACT17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Neither is worshipped with mens handes, as though he needed any thing, seeing hee giueth to all life and breath and all things,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται προσδεόμενός τινος, αὐτὸς διδοὺς πᾶσι ζωὴν καὶ πνοὴν καὶ τὰ πάντα·",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v25 exact)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Neither is worshipped with mens handes, as though he needed any thing, seeing hee giueth to all life and breath and all things,",
+     "source": "www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται προσδεόμενός τινος, αὐτὸς διδοὺς πᾶσι ζωὴν καὶ πνοὴν καὶ τὰ πάντα·",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v25 exact)"
+    }
+   }
+  },
+  {
+   "id": "ACT.17.26",
+   "ref": "Acts 17:26",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6204,
+     "cited_as": "Cross-witness — Acts 17:24-28 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Elided-text row: the draft's ellipsis covers v26 (no seat text); GNV text banked for the witness.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6171,
+     "cited_as": "Two-Witnesses table — \"God is omnipresent: Acts 17:24-28\" (table mention, Q1)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention; the v26 text is covered by the seat row above.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And hath made of one blood all mankinde, to dwell on all the face of the earth, and hath assigned the seasons which were ordeined before, and the boundes of their habitation,",
+     "source": "https://ebible.org/enggnv/ACT17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And hath made of one blood all mankinde, to dwell on all the face of the earth, and hath assigned the seasons which were ordeined before, and the boundes of their habitation,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐποίησέν τε ἐξ ἑνὸς πᾶν ἔθνος ἀνθρώπων κατοικεῖν ἐπὶ παντὸς προσώπου τῆς γῆς, ὁρίσας προστεταγμένους καιροὺς καὶ τὰς ὁροθεσίας τῆς κατοικίας αὐτῶν,",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "WH v26 (elided in the draft and the seat; banked for the witness)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And hath made of one blood all mankinde, to dwell on all the face of the earth, and hath assigned the seasons which were ordeined before, and the boundes of their habitation,",
+     "source": "www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐποίησέν τε ἐξ ἑνὸς πᾶν ἔθνος ἀνθρώπων κατοικεῖν ἐπὶ παντὸς προσώπου τῆς γῆς, ὁρίσας προστεταγμένους καιροὺς καὶ τὰς ὁροθεσίας τῆς κατοικίας αὐτῶν,",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "WH v26 (elided in the draft and the seat; banked for the witness)"
+    }
+   }
+  },
+  {
+   "id": "ACT.17.27",
+   "ref": "Acts 17:27",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6204,
+     "cited_as": "Cross-witness — Acts 17:24-28 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Elided-text row: the draft's ellipsis covers v27 (no seat text); GNV text banked for the witness.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6171,
+     "cited_as": "Two-Witnesses table — \"God is omnipresent: Acts 17:24-28\" (table mention, Q1)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That they shoulde seeke the Lord, if so be they might haue groped after him, and founde him though doubtlesse he be not farre from euery one of vs.",
+     "source": "https://ebible.org/enggnv/ACT17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That they shoulde seeke the Lord, if so be they might haue groped after him, and founde him though doubtlesse he be not farre from euery one of vs.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ζητεῖν τὸν Θεὸν, εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν, καί γε οὐ μακρὰν ἀπὸ ἑνὸς ἑκάστου ἡμῶν ὑπάρχοντα.",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "WH v27 (elided in the draft and the seat; banked for the witness)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "That they shoulde seeke the Lord, if so be they might haue groped after him, and founde him though doubtlesse he be not farre from euery one of vs.",
+     "source": "www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ζητεῖν τὸν Θεὸν, εἰ ἄρα γε ψηλαφήσειαν αὐτὸν καὶ εὕροιεν, καί γε οὐ μακρὰν ἀπὸ ἑνὸς ἑκάστου ἡμῶν ὑπάρχοντα.",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "WH v27 (elided in the draft and the seat; banked for the witness)"
+    }
+   }
+  },
+  {
+   "id": "ACT.17.28",
+   "ref": "Acts 17:28",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6204,
+     "cited_as": "Cross-witness — Acts 17:24-28 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat covers the print's head clause; the draft ellipsis elides the print tail (\"as also certaine of your owne Poets haue sayd, for we are also his generation.\"). The Greek phrase survives in his observation prose (canon 6213). Greek table-cell cite in the Q1 Two-Witnesses table (line 6171).",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6171,
+     "cited_as": "Two-Witnesses table — \"God is omnipresent: Acts 17:24-28\" (table mention, Q1)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention (no text cited in the Q1 table).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For in him we liue, and mooue, and haue our being, as also certaine of your owne Poets haue sayd, for we are also his generation.",
+     "source": "https://ebible.org/enggnv/ACT17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For in him we liue, and mooue, and haue our being, as also certaine of your owne Poets haue sayd, for we are also his generation.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν, ὡς καί τινες τῶν καθ’ ὑμᾶς ποιητῶν εἰρήκασιν Τοῦ γὰρ καὶ γένος ἐσμέν.",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "1.000 — draft Greek head == WH verbatim up to ἐσμέν (WH's tail ὡς τῶν καθ' ὑμᾶς ποιητῶν clause = the elided print tail)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "For in him we liue, and mooue, and haue our being, as also certaine of your owne Poets haue sayd, for we are also his generation.",
+     "source": "www.textusreceptusbibles.com/Geneva/44/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν, ὡς καί τινες τῶν καθ’ ὑμᾶς ποιητῶν εἰρήκασιν Τοῦ γὰρ καὶ γένος ἐσμέν.",
+     "source": "https://biblehub.com/text/acts/17-24.htm .. 17-28.htm (WH/Nestle print)",
+     "result": "1.000 — draft Greek head == WH verbatim up to ἐσμέν (WH's tail ὡς τῶν καθ' ὑμᾶς ποιητῶν clause = the elided print tail)"
+    }
+   }
+  },
+  {
+   "id": "EXO.25.8",
+   "ref": "Exodus 25:8",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 — \"among His people (Ex 25:8)\" (mention anchor)",
+     "quotes": [],
+     "status": "seat",
+     "note": "The draft cites MT Ex 25:8 (\"let them make me a sanctuary, that I may dwell among them\"). BOTH-MAPS: the NETS/3-LXX numbering here runs +1 behind MT — the NETS verse carrying it is NETS 25:7 with print mark 7(8). NETS renders ἅγιασμα \"a holy precinct\". Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Also they shall make me a Sanctuarie, that I may dwell among them.",
+     "source": "https://ebible.org/enggnv/EXO25.htm"
+    },
+    "nets": {
+     "text": "And you shall make a holy precinct for me, and I shall appear among you.",
+     "source": "02-exod.pdf print p.68 (NETS mark 7(8); fresh dump 2026-11-12)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Also they shall make me a Sanctuarie, that I may dwell among them.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/2/25",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Also they shall make me a Sanctuarie, that I may dwell among them.",
+     "source": "www.textusreceptusbibles.com/Geneva/2/25",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "1KG.8.10",
+   "ref": "1 Kings 8:10",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pure mention anchor: numbered point 4 cites \"in His temple (1 Kgs 8:10-11)\" — the cloud filling the house narrative verses. NETS 3 Reigns not in the local cache (the 1 Kg 8:27 witness row carries the section's printed verse). Sibling anchor: 1KG.8.11.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "1KG.8.11",
+   "ref": "1 Kings 8:11",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling anchor of 1KG.8.10; the point cites the pair 1 Kgs 8:10-11. NETS 3 Reigns not in the local cache.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "1CO.3.16",
+   "ref": "1 Corinthians 3:16",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Point-4 mention: \"ultimately in the redeemed (1 Cor 3:16-17)\" — Spirit indwelling. Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Knowe ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?",
+     "source": "https://ebible.org/enggnv/1CO03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Knowe ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Knowe ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?",
+     "source": "www.textusreceptusbibles.com/Geneva/46/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "1CO.3.17",
+   "ref": "1 Corinthians 3:17",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Point-4 mention: \"ultimately in the redeemed (1 Cor 3:16-17)\" — Spirit indwelling. Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If any man destroy the Temple of God, him shall God destroy: for the Temple of God is holy, which ye are.",
+     "source": "https://ebible.org/enggnv/1CO03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If any man destroy the Temple of God, him shall God destroy: for the Temple of God is holy, which ye are.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "If any man destroy the Temple of God, him shall God destroy: for the Temple of God is holy, which ye are.",
+     "source": "www.textusreceptusbibles.com/Geneva/46/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "EPH.2.21",
+   "ref": "Ephesians 2:21",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Point-4 mention: \"ultimately in the redeemed (… Eph 2:21-22)\". Ephesians 2 > Public Domain footer stripped from the eBible print (wave-16 footer class). Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In whom all the building coupled together, groweth vnto an holy Temple in the Lord.",
+     "source": "https://ebible.org/enggnv/EPH02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In whom all the building coupled together, groweth vnto an holy Temple in the Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "In whom all the building coupled together, groweth vnto an holy Temple in the Lord.",
+     "source": "www.textusreceptusbibles.com/Geneva/49/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "EPH.2.22",
+   "ref": "Ephesians 2:22",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6192,
+     "cited_as": "Numbered point 4 (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Point-4 mention: \"ultimately in the redeemed (… Eph 2:21-22)\". Ephesians 2 > Public Domain footer stripped from the eBible print (wave-16 footer class). Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In whom ye also are built together to be the habitation of God by the Spirit.",
+     "source": "https://ebible.org/enggnv/EPH02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In whom ye also are built together to be the habitation of God by the Spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "In whom ye also are built together to be the habitation of God by the Spirit.",
+     "source": "www.textusreceptusbibles.com/Geneva/49/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "PSA.104.2",
+   "ref": "Psalm 104:2",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6170,
+     "cited_as": "Two-Witnesses table — \"God dwells in unapproachable light: Ps 104:2 LXX\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "BOTH-MAPS on the numbering: the draft's table cites \"Ps 104:2 LXX\" — the MT/GNV psalm number is 104; the LXX/NETS numbers it 103 (print running head \"psalms 102(103)–103(104)\"). The NETS verse carrying the light-garment image is NETS Psalm 103:2. Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Which couereth himselfe with light as with a garment, and spreadeth the heauens like a curtaine.",
+     "source": "https://ebible.org/enggnv/PSA104.htm"
+    },
+    "nets": {
+     "text": "wrapping yourself in light as in a garment, stretching out the sky like a skin.",
+     "source": "24-ps.pdf print p.57 (NETS Psalter running head \"psalms 102(103)–103(104)\"); fresh dump 2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Which couereth himselfe with light as with a garment, and spreadeth the heauens like a curtaine.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/19/104",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "wrapping yourself in light as in a garment, stretching out the sky like a skin.",
+     "source": "24-ps.pdf print p.57",
+     "result": "EXACT — verse dump fresh 2026-11-12"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Which couereth himselfe with light as with a garment, and spreadeth the heauens like a curtaine.",
+     "source": "www.textusreceptusbibles.com/Geneva/19/104",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "wrapping yourself in light as in a garment, stretching out the sky like a skin.",
+     "source": "24-ps.pdf print p.57",
+     "result": "EXACT — verse dump fresh 2026-11-12"
+    }
+   }
+  },
+  {
+   "id": "HEB.1.3",
+   "ref": "Hebrews 1:3",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6225,
+     "cited_as": "Throne-resolution paren cite \"(Ps 110:1; Heb 1:3; Heb 10:12)\" (mention anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "The Lamb's glorified humanity at the Father's right hand. First banking of Heb 1:3 (the wave-12 survey row was HEB.1.2). Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who being the brightnes of the glory, and the ingraued forme of his person, and bearing vp all things by his mightie worde, hath by himselfe purged our sinnes, and sitteth at the right hand of the Maiestie in the highest places,",
+     "source": "https://ebible.org/enggnv/HEB01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who being the brightnes of the glory, and the ingraued forme of his person, and bearing vp all things by his mightie worde, hath by himselfe purged our sinnes, and sitteth at the right hand of the Maiestie in the highest places,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Who being the brightnes of the glory, and the ingraued forme of his person, and bearing vp all things by his mightie worde, hath by himselfe purged our sinnes, and sitteth at the right hand of the Maiestie in the highest places,",
+     "source": "www.textusreceptusbibles.com/Geneva/58/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JDG.6",
+   "ref": "Judges 6 (chapter)",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6242,
+     "cited_as": "Theophany survey — \"Judges 6\" (chapter mention-anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Theophany-survey chapter cite (canon 6242): \"Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7\". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Kingdoms not in the local cache.",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "JDG.13",
+   "ref": "Judges 13 (chapter)",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6242,
+     "cited_as": "Theophany survey — \"Judges 13\" (chapter mention-anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Theophany-survey chapter cite (canon 6242): \"Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7\". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Kingdoms not in the local cache.",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "ISA.6",
+   "ref": "Isaiah 6 (chapter)",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6242,
+     "cited_as": "Theophany survey — \"Isaiah 6\" (chapter mention-anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Theophany-survey chapter cite (canon 6242): \"Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7\". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. The LXX vision (\"I saw the Lord sitting on a throne\") — NETS ISA 6:1 is in the local cache for any future seat.",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "EZK.1",
+   "ref": "Ezekiel 1 (chapter)",
+   "uses": [
+    {
+     "section": "COS-54",
+     "section_label": "THE CHRIST OF SCRIPTURE — 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things",
+     "article_line": 6242,
+     "cited_as": "Theophany survey — \"Ezekiel 1\" (chapter mention-anchor)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Theophany-survey chapter cite (canon 6242): \"Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7\". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Ezekiel not in the local cache.",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
   }
  ]
 }

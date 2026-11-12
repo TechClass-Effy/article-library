@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**678 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**696 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**849 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**867 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -1077,7 +1077,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### PS 109 3 — DIFFERS-SIGNIFICANT
 *cited as: LXX Greek + Geneva rows*
@@ -1577,7 +1577,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
 - **Ruling — apply Geneva 1599 exact:** “No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared him.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
 
 ### John 6:46 — CONFIRMED
@@ -1593,7 +1593,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “And he said, “You shall not be able to see my face. For a person shall never see my face and live.””
 - **Geneva 1599:** “Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.”
 - **Ruling — PARAPHRASE:** 
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): nets — NETS verbatim from 02-exod walk cache · trb ✓*
 
 ## THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him
@@ -1833,7 +1833,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* Ps 110 cited as established (COS-04 seats).
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### Acts 13:33 — ANCHOR
 *cited as: prose ref "Acts 2:36; 13:33" (and table 1629)*
@@ -2375,7 +2375,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prologue seat (verbatim blockquote; Geneva = TR reading)*
 - **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
 - *Note:* Draft carried BOTH readings: μονογενὴς Θεός (earlier mss, Sinaiticus/Vaticanus; verified vs BibleHub ratio 1.000) vs ὁ μονογενὴς Ὑἱός (Byzantine/TR, which the Geneva follows; eBible=TRB 1.000). Variant note stands from COS-10 use.
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
 
 ### 1 John 1:1 — CONFIRMED
@@ -4224,7 +4224,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* synthesis item 26: He ascends and is enthroned at the Father's right hand (fulfilling Psalm 110:1 MT = 109:1 LXX).
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### ACT 2 34-36 — ANCHOR
 *cited as: synthesis recap ref (mention)*
@@ -4741,7 +4741,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva seat*
 - **Geneva 1599:** “But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
 
 ### HEB 10 13 — CONFIRMED
@@ -4825,7 +4825,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### ACT 2 34-36 — CONFIRMED
 *cited as: synthesis table*
@@ -4855,7 +4855,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: table use on this run's row*
 - **Geneva 1599:** “But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,”
 - **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
 
 ### MRK 16 19 — CONFIRMED
@@ -5003,7 +5003,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention-anchor (the double-pillar observation: “Psalm 110:1 — sitting at the right hand of power”)*
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ## 40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)
 
@@ -5435,7 +5435,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* synthesis opening: OT witness 'Ps 110'
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### Revelation 1:7 — CONFIRMED
 *cited as: mention*
@@ -5641,7 +5641,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* clause 4 allusion seat (NETS re-presented; GNV recourse added)
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### Revelation 20:14 — CONFIRMED
 *cited as: mention-anchor*
@@ -5776,13 +5776,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: seat*
 - **Geneva 1599:** “And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.”
 - *Note:* span seat 1+ellipsis(v2)+3-4 recorded per verse
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ### Revelation 22:3 — CONFIRMED
 *cited as: seat*
 - **Geneva 1599:** “And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.”
 - *Note:* GNV prints 'ye throne' (y^e) — seat prints 'the throne' (wave-22 ye-king precedent)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ### Revelation 22:4 — CONFIRMED
 *cited as: seat*
@@ -5794,13 +5794,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* obs (1): the Lamb at His right hand (Ps 110:1)
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### John 1:18 — CONFIRMED
 *cited as: mention*
 - **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
 - *Note:* obs (3): the face no man has seen (John 1:18; Ex 33:20)
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
 
 ### Exodus 33:20 — CONFIRMED
@@ -5808,7 +5808,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “And he said, “You shall not be able to see my face. For a person shall never see my face and live.””
 - **Geneva 1599:** “Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.”
 - *Note:* obs (3) same mention
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): nets — NETS verbatim from 02-exod walk cache · trb ✓*
 
 ### John 20:25 — CONFIRMED
@@ -5838,7 +5838,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,”
 - *Note:* synthesis table step 2: reigns at the right hand (Heb 10:12-13)
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
 
 ### Daniel 7:13 — CONFIRMED
@@ -5996,7 +5996,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* pattern list: reign (1 Cor 15:25; Ps 110:1)
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### 1 Corinthians 15:25 — CONFIRMED
 *cited as: mention*
@@ -6454,7 +6454,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: (D) GNV seat*
 - **Geneva 1599:** “And immediatly I was rauished in the spirit, and behold, a throne was set in heauen, and one sate vpon the throne.”
 - *Note:* 4:2-3, 8, 11 ellipsis seat over the draft’s span; v2 head restored (elision-restore class); the draft’s "Jasper/Sardine/Emerald" caps fall to the print’s lowercase; "Holy, holy, holy Lord" keeps the print’s missing comma (draft had one); 1599 "honour" kept (draft "honor" Americanized); "wils" → "will’s".
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 fwd (86/86 draft tokens in WH; block’s own ellipses elide the v2 head and v8 internals) — no flag*
 
 ### Revelation 4:3 — CONFIRMED
@@ -6639,20 +6639,20 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: (D) GNV seat*
 - **Geneva 1599:** “For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.”
 - *Note:* 7:9-17 seat — v17 closes the seat; the print’s comma after "Lamb" kept (draft dropped it).
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ### Revelation 22:1 — PROSE-REF
 *cited as: Rev 7 observation — "explicit in Rev 22:1, 3 — the throne of God and of the Lamb"*
 - **Geneva 1599:** “And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.”
 - *Note:* COS-46 prose mention.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ### Revelation 22:3 — PROSE-REF
 *cited as: Rev 7 observation — "explicit in Rev 22:1, 3"*
 - **Geneva 1599:** “And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.”
 - *Note:* COS-46 prose mention.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ## 51. (D) Revelation 19:11-16: The Returning King
 
@@ -6837,13 +6837,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: (D) GNV seat re-presented — REV.22.1 (prior seat text kept)*
 - **Geneva 1599:** “And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.”
 - *Note:* Re-presented in the (D)-close seat; see polish.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ### Revelation 22:3 — CONFIRMED
 *cited as: (D) GNV seat re-presented — REV.22.3 (prior seat text kept)*
 - **Geneva 1599:** “And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.”
 - *Note:* Re-presented in the (D)-close seat; see polish.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ### Revelation 22:4 — CONFIRMED
 *cited as: (D) GNV seat re-presented — REV.22.4 (prior seat text kept)*
@@ -6890,7 +6890,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: the face that no man has ever seen (John 1:18)*
 - **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
 - *Note:* (D)-close mention-anchor.
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
 
 ### Exodus 33:20 — PROSE-REF
@@ -6898,7 +6898,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “And he said, “You shall not be able to see my face. For a person shall never see my face and live.””
 - **Geneva 1599:** “Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.”
 - *Note:* (D)-close upsert use.
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): nets — NETS verbatim from 02-exod walk cache · trb ✓*
 
 ### Exodus 23:21 — PROSE-REF
@@ -7216,7 +7216,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
 - **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
 - *Note:* (D)-close upsert use.
-- *Checked 2026-11-11 · editions fetched: gnv, nets, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
 
 ### Revelation 1:7 — PROSE-REF
 *cited as: the pierced One — Rev 1:7*
@@ -7376,6 +7376,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — FETCH-FAILED (HTTP 500 x3, 2026-11-12)*
 
+### Psalm 104:2 — ANCHOR
+*cited as: Two-Witnesses table — "God dwells in unapproachable light: Ps 104:2 LXX" (table mention)*
+- **NETS (Septuagint, modern):** “wrapping yourself in light as in a garment, stretching out the sky like a skin.”
+- **Geneva 1599:** “Which couereth himselfe with light as with a garment, and spreadeth the heauens like a curtaine.”
+- *Note:* BOTH-MAPS on the numbering: the draft's table cites "Ps 104:2 LXX" — the MT/GNV psalm number is 104; the LXX/NETS numbers it 103 (print running head "psalms 102(103)–103(104)"). The NETS verse carrying the light-garment image is NETS Psalm 103:2. Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — verse dump fresh 2026-11-12*
+
 ### Isaiah 66:1 — SEAT
 *cited as: Two-Witnesses table — "God is uncontainable: Isa 66:1" (mention anchor)*
 - **NETS (Septuagint, modern):** “Thus says the Lord: Heaven is my throne, and the earth is the footstool of my feet; what kind of house will you build for me, or of what kind will be the place of my rest?”
@@ -7383,6 +7391,41 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Table mention; NETS banked from the Isaiah cache; GNV fetched fresh (eBible==TRB EXACT 2026-11-12).
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Acts 17:24 — ANCHOR
+*cited as: Two-Witnesses table — "God is omnipresent: Acts 17:24-28" (table mention, Q1)*
+- **Geneva 1599:** “God that made the world, and all things that are therein, seeing that he is Lord of heaue and earth, dwelleth not in temples made with hands,”
+- *Note:* Table mention (no text cited in the Q1 table).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v24 exact)*
+
+### Acts 17:25 — ANCHOR
+*cited as: Two-Witnesses table — "God is omnipresent: Acts 17:24-28" (table mention, Q1)*
+- **Geneva 1599:** “Neither is worshipped with mens handes, as though he needed any thing, seeing hee giueth to all life and breath and all things,”
+- *Note:* Table mention (no text cited in the Q1 table).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v25 exact)*
+
+### Acts 17:26 — ANCHOR
+*cited as: Two-Witnesses table — "God is omnipresent: Acts 17:24-28" (table mention, Q1)*
+- **Geneva 1599:** “And hath made of one blood all mankinde, to dwell on all the face of the earth, and hath assigned the seasons which were ordeined before, and the boundes of their habitation,”
+- *Note:* Table mention; the v26 text is covered by the seat row above.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v26 (elided in the draft and the seat; banked for the witness)*
+
+### Acts 17:27 — ANCHOR
+*cited as: Two-Witnesses table — "God is omnipresent: Acts 17:24-28" (table mention, Q1)*
+- **Geneva 1599:** “That they shoulde seeke the Lord, if so be they might haue groped after him, and founde him though doubtlesse he be not farre from euery one of vs.”
+- *Note:* Table mention.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v27 (elided in the draft and the seat; banked for the witness)*
+
+### Acts 17:28 — ANCHOR
+*cited as: Two-Witnesses table — "God is omnipresent: Acts 17:24-28" (table mention, Q1)*
+- **Geneva 1599:** “For in him we liue, and mooue, and haue our being, as also certaine of your owne Poets haue sayd, for we are also his generation.”
+- *Note:* Table mention (no text cited in the Q1 table).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek head == WH verbatim up to ἐσμέν (WH's tail ὡς τῶν καθ' ὑμᾶς ποιητῶν clause = the elided print tail)*
 
 ### Acts 7:48 — SEAT
 *cited as: Two-Witnesses table — "God is uncontainable: Acts 7:48-49" (mention anchor)*
@@ -7411,6 +7454,193 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Table mention; TRB returned HTTP 500 x3 — eBible only; second source pending.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — FETCH-FAILED (HTTP 500 x3, 2026-11-12)*
+
+## 58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things
+
+### John 1:18 — ANCHOR
+*cited as: Numbered point 1 — "He is invisible (no man has seen Him — John 1:18; 1 Tim 6:16)" (mention)*
+- **Geneva 1599:** “No man hath seene God at any time: that onely begotten Sonne, which is in the bosome of the Father, he hath declared him.”
+- *Note:* Mention in point 1 and again in the theophany bullet (line 6241).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Word-set vs page blocks 100%; variant Υἱὸς (draft/TR/Geneva) vs Θεός (Nestle/WH) recorded · gnv_fresh ✓*
+
+### 1 Timothy 6:16 — ANCHOR
+*cited as: Numbered point 1 (with John 1:18) (mention)*
+- **Geneva 1599:** “Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.”
+- *Note:* Point 1, the Q1 table cell (line 6170) and the theophany bullet (line 6241).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim incl. ἀμήν*
+
+### Jeremiah 23:24 (LXX = MT 23:24) — ANCHOR
+*cited as: Numbered point 2 — "He fills heaven and earth (Jer 23:24)" (mention)*
+- **NETS (Septuagint, modern):** “If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord.”
+- **Geneva 1599:** “Can any hide him selfe in secrete places, that I shall not see him, sayth the Lord? Do not I fill heauen and earth, saieth the Lord?”
+- *Note:* Mention in point 2; the Q1 table also cites Jer 23:23-24.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — print==seat fresh 2026-11-12*
+
+### 1 Kings 8:27 (LXX 3 Kingdoms 8:27) — ANCHOR
+*cited as: Numbered point 3 — "the heavens cannot contain Him (1 Kgs 8:27)" (mention)*
+- **Geneva 1599:** “Is it true in deede that God will dwell on the earth? beholde, the heauens, and the heauens of heauens are not able to conteine thee: howe much more vnable is this house that I haue built?”
+- *Note:* Mention in point 3; the Q1 table cites it twice as the uncontainability witness.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — FETCH-FAILED (HTTP 500 x3, 2026-11-12)*
+
+### Exodus 25:8 — SEAT
+*cited as: Numbered point 4 — "among His people (Ex 25:8)" (mention anchor)*
+- **NETS (Septuagint, modern):** “And you shall make a holy precinct for me, and I shall appear among you.”
+- **Geneva 1599:** “Also they shall make me a Sanctuarie, that I may dwell among them.”
+- *Note:* The draft cites MT Ex 25:8 ("let them make me a sanctuary, that I may dwell among them"). BOTH-MAPS: the NETS/3-LXX numbering here runs +1 behind MT — the NETS verse carrying it is NETS 25:7 with print mark 7(8). NETS renders ἅγιασμα "a holy precinct". Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 1 Kings 8:10 — ANCHOR
+*cited as: Numbered point 4 (mention anchor)*
+- *Note:* Pure mention anchor: numbered point 4 cites "in His temple (1 Kgs 8:10-11)" — the cloud filling the house narrative verses. NETS 3 Reigns not in the local cache (the 1 Kg 8:27 witness row carries the section's printed verse). Sibling anchor: 1KG.8.11.
+- *Checked 2026-11-12 · editions fetched: *
+
+### 1 Kings 8:11 — ANCHOR
+*cited as: Numbered point 4 (mention anchor)*
+- *Note:* Sibling anchor of 1KG.8.10; the point cites the pair 1 Kgs 8:10-11. NETS 3 Reigns not in the local cache.
+- *Checked 2026-11-12 · editions fetched: *
+
+### 1 Corinthians 3:16 — ANCHOR
+*cited as: Numbered point 4 (mention anchor)*
+- **Geneva 1599:** “Knowe ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?”
+- *Note:* Point-4 mention: "ultimately in the redeemed (1 Cor 3:16-17)" — Spirit indwelling. Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 1 Corinthians 3:17 — ANCHOR
+*cited as: Numbered point 4 (mention anchor)*
+- **Geneva 1599:** “If any man destroy the Temple of God, him shall God destroy: for the Temple of God is holy, which ye are.”
+- *Note:* Point-4 mention: "ultimately in the redeemed (1 Cor 3:16-17)" — Spirit indwelling. Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Ephesians 2:21 — ANCHOR
+*cited as: Numbered point 4 (mention anchor)*
+- **Geneva 1599:** “In whom all the building coupled together, groweth vnto an holy Temple in the Lord.”
+- *Note:* Point-4 mention: "ultimately in the redeemed (… Eph 2:21-22)". Ephesians 2 > Public Domain footer stripped from the eBible print (wave-16 footer class). Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Ephesians 2:22 — ANCHOR
+*cited as: Numbered point 4 (mention anchor)*
+- **Geneva 1599:** “In whom ye also are built together to be the habitation of God by the Spirit.”
+- *Note:* Point-4 mention: "ultimately in the redeemed (… Eph 2:21-22)". Ephesians 2 > Public Domain footer stripped from the eBible print (wave-16 footer class). Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Acts 17:24 — SEAT
+*cited as: Cross-witness — Acts 17:24-28 (seat)*
+- **Geneva 1599:** “God that made the world, and all things that are therein, seeing that he is Lord of heaue and earth, dwelleth not in temples made with hands,”
+- *Note:* Seat = the 1599 print modern-spelled over the draft Geneva span. "heaue" is the print's own artifact (both eBible and TRB) kept verbatim with gloss (Matt 24:29 precedent). The draft's KJV-voiced comma after "life" brought back to the print's "all life and breath and all things".
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v24 exact)*
+
+### Acts 17:25 — SEAT
+*cited as: Cross-witness — Acts 17:24-28 (seat)*
+- **Geneva 1599:** “Neither is worshipped with mens handes, as though he needed any thing, seeing hee giueth to all life and breath and all things,”
+- *Note:* Seat v25 = the 1599 print modern-spelled ("mens handes" > "men's hands", "hee giueth" > "he giveth"; -eth verbs kept). The print's trailing comma kept before the draft ellipsis.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v25 exact)*
+
+### Acts 17:26 — SEAT
+*cited as: Cross-witness — Acts 17:24-28 (seat)*
+- **Geneva 1599:** “And hath made of one blood all mankinde, to dwell on all the face of the earth, and hath assigned the seasons which were ordeined before, and the boundes of their habitation,”
+- *Note:* Elided-text row: the draft's ellipsis covers v26 (no seat text); GNV text banked for the witness.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v26 (elided in the draft and the seat; banked for the witness)*
+
+### Acts 17:27 — SEAT
+*cited as: Cross-witness — Acts 17:24-28 (seat)*
+- **Geneva 1599:** “That they shoulde seeke the Lord, if so be they might haue groped after him, and founde him though doubtlesse he be not farre from euery one of vs.”
+- *Note:* Elided-text row: the draft's ellipsis covers v27 (no seat text); GNV text banked for the witness.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v27 (elided in the draft and the seat; banked for the witness)*
+
+### Acts 17:28 — SEAT
+*cited as: Cross-witness — Acts 17:24-28 (seat)*
+- **Geneva 1599:** “For in him we liue, and mooue, and haue our being, as also certaine of your owne Poets haue sayd, for we are also his generation.”
+- *Note:* Seat covers the print's head clause; the draft ellipsis elides the print tail ("as also certaine of your owne Poets haue sayd, for we are also his generation."). The Greek phrase survives in his observation prose (canon 6213). Greek table-cell cite in the Q1 Two-Witnesses table (line 6171).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek head == WH verbatim up to ἐσμέν (WH's tail ὡς τῶν καθ' ὑμᾶς ποιητῶν clause = the elided print tail)*
+
+### PS 109 1 — ANCHOR
+*cited as: Throne-resolution paren cite "(Ps 110:1; Heb 1:3; Heb 10:12)" (mention)*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
+- *Note:* Ps 110:1 seat row re-referenced for the Lamb's bodily enthronement.
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
+
+### HEB 10 12 — ANCHOR
+*cited as: Throne-resolution paren cite (mention)*
+- **Geneva 1599:** “But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,”
+- *Note:* The once-for-all session at the right hand.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### Hebrews 1:3 — ANCHOR
+*cited as: Throne-resolution paren cite "(Ps 110:1; Heb 1:3; Heb 10:12)" (mention anchor)*
+- **Geneva 1599:** “Who being the brightnes of the glory, and the ingraued forme of his person, and bearing vp all things by his mightie worde, hath by himselfe purged our sinnes, and sitteth at the right hand of the Maiestie in the highest places,”
+- *Note:* The Lamb's glorified humanity at the Father's right hand. First banking of Heb 1:3 (the wave-12 survey row was HEB.1.2). Geneva text fetched fresh (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 22:1 — ANCHOR
+*cited as: "the throne of God and of the Lamb" (Rev 22:1, 3) (mention + draft quotes the phrase)*
+- **Geneva 1599:** “And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.”
+- *Note:* The single-throne resolution leans on the wave-23/26 seats.
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+
+### Revelation 22:3 — ANCHOR
+*cited as: "the throne of God and of the Lamb" (Rev 22:1, 3) (mention + draft quotes the phrase)*
+- **Geneva 1599:** “And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.”
+- *Note:* Paired citation with Rev 22:1.
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+
+### Revelation 4:2-3, 8, 11 — ANCHOR
+*cited as: "the One sitting on the throne" (Rev 4-5) (mention)*
+- **Geneva 1599:** “And immediatly I was rauished in the spirit, and behold, a throne was set in heauen, and one sate vpon the throne.”
+- *Note:* Rev 4-5 throne-room reference (the wave-25 seats).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 fwd (86/86 draft tokens in WH; block’s own ellipses elide the v2 head and v8 internals) — no flag*
+
+### Revelation 7:17 — ANCHOR
+*cited as: "the Lamb in the midst of the throne" (Rev 7:17) (draft quotes the phrase)*
+- **Geneva 1599:** “For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.”
+- *Note:* Wave-25 seat row re-referenced; the draft quotes the phrase in-line.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Exodus 33:20 — ANCHOR
+*cited as: Theophany bullet — "The Father, as invisible Spirit, cannot be seen (John 1:18; 1 Tim 6:16; Ex 33:20)" (mention)*
+- **NETS (Septuagint, modern):** “And he said, “You shall not be able to see my face. For a person shall never see my face and live.””
+- **Geneva 1599:** “Furthermore he sayde, Thou canst not see my face, for there shall no man see me, and liue.”
+- *Note:* The seeing-God prohibition verse, cited with John 1:18 and 1 Tim 6:16.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS verbatim from 02-exod walk cache · trb ✓*
+
+### Judges 6 (chapter) — ANCHOR
+*cited as: Theophany survey — "Judges 6" (chapter mention-anchor)*
+- *Note:* Theophany-survey chapter cite (canon 6242): "Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Kingdoms not in the local cache.
+- *Checked 2026-11-12 · editions fetched: *
+
+### Judges 13 (chapter) — ANCHOR
+*cited as: Theophany survey — "Judges 13" (chapter mention-anchor)*
+- *Note:* Theophany-survey chapter cite (canon 6242): "Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Kingdoms not in the local cache.
+- *Checked 2026-11-12 · editions fetched: *
+
+### Isaiah 6 (chapter) — ANCHOR
+*cited as: Theophany survey — "Isaiah 6" (chapter mention-anchor)*
+- *Note:* Theophany-survey chapter cite (canon 6242): "Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. The LXX vision ("I saw the Lord sitting on a throne") — NETS ISA 6:1 is in the local cache for any future seat.
+- *Checked 2026-11-12 · editions fetched: *
+
+### Ezekiel 1 (chapter) — ANCHOR
+*cited as: Theophany survey — "Ezekiel 1" (chapter mention-anchor)*
+- *Note:* Theophany-survey chapter cite (canon 6242): "Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Ezekiel not in the local cache.
+- *Checked 2026-11-12 · editions fetched: *
 
 # THE BIBLICAL SABBATH
 
@@ -9356,10 +9586,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -9468,7 +9698,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03, COS-19, COS-42 | confirmed, confirmed (excerpt) |
 | MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40 | anchor, confirmed, prose-ref |
-| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39, COS-40, COS-41, COS-42, COS-52 | anchor, confirmed, prose-ref |
+| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39, COS-40, COS-41, COS-42, COS-52, COS-54 | anchor, confirmed, prose-ref |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04, COS-29 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
@@ -9522,9 +9752,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 10:1 | COS-12 | confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | Jude 5 | COS-12 | confirmed |
-| John 1:18 | COS-13, COS-20, COS-41, COS-50 | confirmed, prose-ref |
+| John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54 | anchor, confirmed, prose-ref |
 | John 6:46 | COS-13 | confirmed |
-| Exodus 33:20 | COS-13, COS-41, COS-50 | confirmed, prose-ref |
+| Exodus 33:20 | COS-13, COS-41, COS-50, COS-54 | anchor, confirmed, prose-ref |
 | Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
 | Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50 | anchor, confirmed, prose-ref |
 | John 17:11 | COS-14, COS-43, COS-50 | confirmed, prose-ref |
@@ -9836,7 +10066,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 10 7 | COS-33 | confirmed |
 | HEB 10 10 | COS-33 | confirmed |
 | HEB 10 11 | COS-33 | confirmed |
-| HEB 10 12 | COS-33, COS-34, COS-42 | confirmed |
+| HEB 10 12 | COS-33, COS-34, COS-42, COS-54 | anchor, confirmed |
 | HEB 10 13 | COS-33 | confirmed |
 | HEB 10 14 | COS-33 | confirmed |
 | HEB 10 19 | COS-33 | confirmed |
@@ -9909,8 +10139,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 15:27 | COS-40 | confirmed |
 | 1 Corinthians 15:28 | COS-40, COS-49 | confirmed, prose-ref |
 | Revelation 21:22 (GNV; spans WH 21:22-23) | COS-41 | confirmed |
-| Revelation 22:1 | COS-41, COS-46, COS-50 | confirmed, prose-ref |
-| Revelation 22:3 | COS-41, COS-46, COS-50 | confirmed, prose-ref |
+| Revelation 22:1 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
+| Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
 | Revelation 22:4 | COS-41, COS-50 | confirmed |
 | Hebrews 2:6 | COS-40 | confirmed |
 | Hebrews 2:8 | COS-40 | confirmed |
@@ -9951,7 +10181,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 2:12 | COS-44 | prose-ref |
 | Revelation 2:18 | COS-44, COS-52 | prose-ref |
 | Revelation 3:7 | COS-44, COS-52 | prose-ref |
-| Revelation 4:2-3, 8, 11 | COS-45 | confirmed |
+| Revelation 4:2-3, 8, 11 | COS-45, COS-54 | anchor, confirmed |
 | Revelation 4:3 | COS-45 | confirmed |
 | Revelation 4:8 | COS-45, COS-52 | confirmed, prose-ref |
 | Revelation 4:11 | COS-45, COS-52 | confirmed, prose-ref |
@@ -9967,7 +10197,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 7:10 | COS-46 | confirmed |
 | Revelation 7:15 | COS-46 | confirmed |
 | Revelation 7:16 | COS-46 | confirmed |
-| Revelation 7:17 | COS-46 | confirmed |
+| Revelation 7:17 | COS-46, COS-54 | anchor, confirmed |
 | Isaiah 49:2 | COS-44 | prose-ref |
 | Isaiah 22:22 | COS-44 | prose-ref |
 | Isaiah 65:16 | COS-44, COS-52 | prose-ref |
@@ -10002,7 +10232,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 6:16 | COS-52 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
-| 1 Timothy 6:16 | COS-47, COS-53 | prose-ref, seat |
+| 1 Timothy 6:16 | COS-47, COS-53, COS-54 | anchor, prose-ref, seat |
 | 2 Samuel 7:14 | COS-48 | prose-ref |
 | Matthew 1:21 | COS-52 | prose-ref |
 | Malachi 4:2 | COS-52 | prose-ref |
@@ -10011,8 +10241,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Numbers 16:22 | COS-53 | seat |
 | Isaiah 31:3 | COS-53 | seat |
 | Jeremiah 23:23 (LXX = MT 23:23) | COS-53 | seat |
-| Jeremiah 23:24 (LXX = MT 23:24) | COS-53 | seat |
-| 1 Kings 8:27 (LXX 3 Kingdoms 8:27) | COS-53 | seat |
+| Jeremiah 23:24 (LXX = MT 23:24) | COS-53, COS-54 | anchor, seat |
+| 1 Kings 8:27 (LXX 3 Kingdoms 8:27) | COS-53, COS-54 | anchor, seat |
 | Psalm 139:7 (LXX 138:7) | COS-53 | seat |
 | Psalm 139:8 (LXX 138:8) | COS-53 | seat |
 | Psalm 139:9 (LXX 138:9) | COS-53 | seat |
@@ -10022,6 +10252,24 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 1:23 | COS-53 | seat |
 | Acts 7:48 | COS-53 | seat |
 | Acts 7:49 | COS-53 | seat |
+| Acts 17:24 | COS-53, COS-54 | anchor, seat |
+| Acts 17:25 | COS-53, COS-54 | anchor, seat |
+| Acts 17:26 | COS-53, COS-54 | anchor, seat |
+| Acts 17:27 | COS-53, COS-54 | anchor, seat |
+| Acts 17:28 | COS-53, COS-54 | anchor, seat |
+| Exodus 25:8 | COS-54 | seat |
+| 1 Kings 8:10 | COS-54 | anchor |
+| 1 Kings 8:11 | COS-54 | anchor |
+| 1 Corinthians 3:16 | COS-54 | anchor |
+| 1 Corinthians 3:17 | COS-54 | anchor |
+| Ephesians 2:21 | COS-54 | anchor |
+| Ephesians 2:22 | COS-54 | anchor |
+| Psalm 104:2 | COS-53 | anchor |
+| Hebrews 1:3 | COS-54 | anchor |
+| Judges 6 (chapter) | COS-54 | anchor |
+| Judges 13 (chapter) | COS-54 | anchor |
+| Isaiah 6 (chapter) | COS-54 | anchor |
+| Ezekiel 1 (chapter) | COS-54 | anchor |
 
 ## The editions used
 

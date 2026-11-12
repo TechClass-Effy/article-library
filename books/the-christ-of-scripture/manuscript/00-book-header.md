@@ -68,3 +68,7 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 ---
 
 50. (E) Part E — The Nature and Essence of the Father as Eternal Spirit; Question 1 — What Does Scripture Establish About the Father as Eternal Spirit (John 4:24 Geneva; 1 Timothy 1:17; 1 Timothy 6:15-16; Genesis 1:2, Numbers 16:22, Isaiah 31:3, Jeremiah 23:23-24, 1 Kings 8:27, Psalm 139:7-10 MT NETS; the Two-Witnesses table)
+
+---
+
+51. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things (Acts 17:24-28 Geneva; Exodus 25:8 NETS; 1 Kings 8:10-11; 1 Corinthians 3:16-17; Ephesians 2:21-22; Psalm 104:2 NETS; Hebrews 1:3; the singular throne of the Apocalypse resolved; the theophany pattern noted)
