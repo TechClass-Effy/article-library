@@ -77,7 +77,8 @@
    "COS-22",
    "COS-23",
    "COS-24",
-   "COS-25"
+   "COS-25",
+   "COS-26"
   ],
   "sections": [
    {
@@ -333,6 +334,10 @@
    {
     "key": "COS-25",
     "label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit"
+   },
+   {
+    "key": "COS-26",
+    "label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements"
    }
   ],
   "double_check": {
@@ -393,9 +398,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 34813,
+  "so_far_words": 35279,
   "cos_sofar": {
-   "waves": 16
+   "waves": 17
   }
  },
  "verses": [
@@ -12442,6 +12447,25 @@
      "quotes": [],
      "status": "anchor",
      "note": "Summary of the Audit, item 1."
+    },
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3835,
+     "cited_as": "already-cited reminder (“1599 Geneva” seat; draft quotes its own working wording)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "This is life eternal, that they know thee to be the only true God, and whom thou hast sent, Jesus Christ."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft drops the Geneva's \"very\" (\"the only true God\") — established COS-01/COS-18 pattern: the Geneva wording prints, the author's rendering kept as gloss.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And this is life eternal, that they know thee to be the only very God *(the author's rendering here reads \"the only true God\")*, and whom thou hast sent, Jesus Christ.",
+      "reason": "The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice)."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -12459,6 +12483,16 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/43/17"
+    },
+    "trb_fresh": {
+     "text": "And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/17",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "αὕτηhautē δέde ἐστινestin ἡhē αἰώνιοςaiōnios ζωὴ,zōē ἵναhina γινώσκωσινginōskōsin σὲse τὸνton μόνονmonon ἀληθινὸνalēthinon ΘεὸνTheon καὶkai ὃνhon ἀπέστειλαςapesteilas ἸησοῦνIēsoun Χριστόν.Christon",
+     "source": "https://biblehub.com/text/john/17-3.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
     }
    }
   },
@@ -19153,6 +19187,25 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3821,
+     "cited_as": "direct-statement ref (draft quote on the ref line; KJV-family wording)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I came down from heaven, not to do mine own will, but the will of him that sent me."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft here echoes KJV-family wording (\"the will of him that sent me\"); the specified translation rules the seat — Geneva prints \"but his wil which hath sent me\" (eBible=TRB 1.00).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For I came down from heaven, not to do mine own will, but his will which hath sent me.",
+      "reason": "The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice)."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -19176,6 +19229,16 @@
      "text": "draft Greek = BibleHub Nestle (group ratio 0.97)",
      "source": "https://biblehub.com/text/john/6-38.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97"
+    },
+    "trb_fresh": {
+     "text": "For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/6",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "ὅτιhoti καταβέβηκαkatabebēka ἀπὸapo τοῦtou οὐρανοῦouranou οὐχouch ἵναhina ποιῶpoiō τὸto θέλημαthelēma τὸto ἐμὸνemon ἀλλὰalla τὸto θέλημαthelēma τοῦtou πέμψαντόςpempsantos με.me",
+     "source": "https://biblehub.com/text/john/6-38.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
     }
    },
    "note": ""
@@ -19237,6 +19300,25 @@
      "status": "anchor",
      "matched_source": "gnv",
      "note": "Synthesis item 17 quotes the fragment \"the Father is greater than I.\" — Geneva JHN14.28 verse text banked."
+    },
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3829,
+     "cited_as": "direct-statement ref (draft Greek fragment + “1599 Geneva” fragment)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "...for my Father is greater than I."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft fragment reads \"for my Father is greater than I\" (KJV-family); Geneva prints \"for the Father is greater then I\" — seat verbatim, \"then\" glossed. Draft Greek ὁ Πατὴρ μείζων μού ἐστιν verbatim vs WH/BibleHub.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Ye have heard how I said unto you, I go away, and will come unto you. If ye loved me, ye would verily rejoice, because I said, I go unto the Father: for the Father is greater then *(the Geneva prints \"then\" for our modern \"than\")* I.",
+      "reason": "The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice)."
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -19251,6 +19333,16 @@
      "result": "agree (eBible=TRB ratio 1.00)",
      "url": "https://textusreceptusbibles.com/Geneva/43/14",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "text": "Ye haue heard howe I saide vnto you, I goe away, and will come vnto you. If ye loued me, ye would verely reioyce, because I said, I goe vnto the Father: for the Father is greater then I.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/14",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "ἠκούσατεēkousate ὅτιhoti ἐγὼegō εἶπονeipon ὑμῖνhymin ὙπάγωHypagō καὶkai ἔρχομαιerchomai πρὸςpros ὑμᾶς.hymas εἰei ἠγαπᾶτέēgapate με,me ἐχάρητεecharēte ἄνan ὅτιhoti πορεύομαιporeuomai πρὸςpros τὸνton Πατέρα,Patera ὅτιhoti ὁho ΠατὴρPatēr μείζωνmeizōn μούmou ἐστιν.estin",
+     "source": "https://biblehub.com/text/john/14-28.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
     }
    },
    "note": ""
@@ -25146,6 +25238,206 @@
    "translations": {},
    "second_check": {},
    "note": ""
+  },
+  {
+   "id": "JHN.5.19",
+   "ref": "John 5:19",
+   "uses": [
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3810,
+     "cited_as": "gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "...The Son can do nothing of himself, save that he seeth the Father do..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft cuts the verse head/tail (span ends \"the Father do...\"); seat restores the full verse. Draft Greek fragment vs WH/BibleHub: verbatim (the draft writes ἂν where WH prints ἐὰν — contraction variant, recorded).",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Then answered Jesus, and said unto them, Verily, verily I say unto you, The Son can do nothing of himself, save that he seeth the Father do: for whatsoever things he doth, the same things doeth the Son in like manner.",
+      "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek block drops, fragments recorded on the row."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.",
+     "source": "https://ebible.org/enggnv/JHN05.htm"
+    },
+    "greek_nestle": {
+     "text": "ἈπεκρίνατοApekrinato οὖνoun ὁho ἸησοῦςIēsous καὶkai ἔλεγενelegen αὐτοῖςautois ἈμὴνAmēn ἀμὴνamēn λέγωlegō ὑμῖν,hymin οὐou δύναταιdynatai ὁho ΥἱὸςHuios ποιεῖνpoiein ἀφ’aph’ ἑαυτοῦheautou οὐδὲν,ouden ἐὰν*ean μήmē τιti βλέπῃblepē τὸνton ΠατέραPatera ποιοῦντα·poiounta ἃha γὰρgar ἂνan ἐκεῖνοςekeinos ποιῇ,poiē ταῦταtauta καὶkai ὁho ΥἱὸςHuios ὁμοίωςhomoiōs ποιεῖ.poiei",
+     "source": "https://biblehub.com/text/john/5-19.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/5",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "ἈπεκρίνατοApekrinato οὖνoun ὁho ἸησοῦςIēsous καὶkai ἔλεγενelegen αὐτοῖςautois ἈμὴνAmēn ἀμὴνamēn λέγωlegō ὑμῖν,hymin οὐou δύναταιdynatai ὁho ΥἱὸςHuios ποιεῖνpoiein ἀφ’aph’ ἑαυτοῦheautou οὐδὲν,ouden ἐὰν*ean μήmē τιti βλέπῃblepē τὸνton ΠατέραPatera ποιοῦντα·poiounta ἃha γὰρgar ἂνan ἐκεῖνοςekeinos ποιῇ,poiē ταῦταtauta καὶkai ὁho ΥἱὸςHuios ὁμοίωςhomoiōs ποιεῖ.poiei",
+     "source": "https://biblehub.com/text/john/5-19.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
+    }
+   },
+   "note": "Draft cuts the verse head/tail (span ends \"the Father do...\"); seat restores the full verse. Draft Greek fragment vs WH/BibleHub: verbatim (the draft writes ἂν where WH prints ἐὰν — contraction variant, recorded)."
+  },
+  {
+   "id": "JHN.5.30",
+   "ref": "John 5:30",
+   "uses": [
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3810,
+     "cited_as": "gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "I can do nothing of mine own self... I seek not mine own will, but the will of the Father who hath sent me."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft Greek fragment vs WH/BibleHub verbatim (mid-verse cut at \"of mine own self...\"). Draft English = modern-spelled Geneva verbatim (\"who hath sent me\").",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "I can do nothing of mine own self: as I hear, I judge: and my judgment is just, because I seek not mine own will, but the will of the Father who hath sent me.",
+      "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek block drops, fragments recorded on the row."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I can doe nothing of mine owne selfe: as I heare, I iudge: and my iudgement is iust, because I seeke not mine owne will, but the will of the Father who hath sent me.",
+     "source": "https://ebible.org/enggnv/JHN05.htm"
+    },
+    "greek_nestle": {
+     "text": "ΟὐOu δύναμαιdynamai ἐγὼegō ποιεῖνpoiein ἀπ’ap’ ἐμαυτοῦemautou οὐδέν·ouden καθὼςkathōs ἀκούωakouō κρίνω,krinō καὶkai ἡhē κρίσιςkrisis ἡhē ἐμὴemē δικαίαdikaia ἐστίν,estin ὅτιhoti οὐou ζητῶzētō τὸto θέλημαthelēma τὸto ἐμὸνemon ἀλλὰalla τὸto θέλημαthelēma τοῦtou πέμψαντόςpempsantos με.me",
+     "source": "https://biblehub.com/text/john/5-30.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "I can doe nothing of mine owne selfe: as I heare, I iudge: and my iudgement is iust, because I seeke not mine owne will, but the will of the Father who hath sent me.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/5",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "ΟὐOu δύναμαιdynamai ἐγὼegō ποιεῖνpoiein ἀπ’ap’ ἐμαυτοῦemautou οὐδέν·ouden καθὼςkathōs ἀκούωakouō κρίνω,krinō καὶkai ἡhē κρίσιςkrisis ἡhē ἐμὴemē δικαίαdikaia ἐστίν,estin ὅτιhoti οὐou ζητῶzētō τὸto θέλημαthelēma τὸto ἐμὸνemon ἀλλὰalla τὸto θέλημαthelēma τοῦtou πέμψαντόςpempsantos με.me",
+     "source": "https://biblehub.com/text/john/5-30.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
+    }
+   },
+   "note": "Draft Greek fragment vs WH/BibleHub verbatim (mid-verse cut at \"of mine own self...\"). Draft English = modern-spelled Geneva verbatim (\"who hath sent me\")."
+  },
+  {
+   "id": "JHN.8.28",
+   "ref": "John 8:28",
+   "uses": [
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3823,
+     "cited_as": "gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "...I do nothing of myself, but as my Father hath taught me, so I speak these things."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft Greek word-order: οὐδὲν ποιῶ (WH/BibleHub prints ποιῶ οὐδέν) — variant recorded; substance identical. Draft English = modern-spelled Geneva verbatim.",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Then said Jesus unto them, When ye have lift up the Son of man, then shall ye know that I am he, and that I do nothing of myself, but as my Father hath taught me, so I speak these things.",
+      "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; word-order variant recorded."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.",
+     "source": "https://ebible.org/enggnv/JHN08.htm"
+    },
+    "greek_nestle": {
+     "text": "εἶπενeipen οὖνoun [αὐτοῖς]autois ὁho ἸησοῦςIēsous ὍτανHotan ὑψώσητεhypsōsēte τὸνton ΥἱὸνHuion τοῦtou ἀνθρώπου,anthrōpou τότεtote γνώσεσθεgnōsesthe ὅτιhoti ἐγώegō εἰμι,eimi καὶkai ἀπ’ap’ ἐμαυτοῦemautou ποιῶpoiō οὐδέν,ouden ἀλλὰalla καθὼςkathōs ἐδίδαξένedidaxen μεme ὁho Πατὴρ,Patēr ταῦταtauta λαλῶ.lalō",
+     "source": "https://biblehub.com/text/john/8-28.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/8",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "εἶπενeipen οὖνoun [αὐτοῖς]autois ὁho ἸησοῦςIēsous ὍτανHotan ὑψώσητεhypsōsēte τὸνton ΥἱὸνHuion τοῦtou ἀνθρώπου,anthrōpou τότεtote γνώσεσθεgnōsesthe ὅτιhoti ἐγώegō εἰμι,eimi καὶkai ἀπ’ap’ ἐμαυτοῦemautou ποιῶpoiō οὐδέν,ouden ἀλλὰalla καθὼςkathōs ἐδίδαξένedidaxen μεme ὁho Πατὴρ,Patēr ταῦταtauta λαλῶ.lalō",
+     "source": "https://biblehub.com/text/john/8-28.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
+    }
+   },
+   "note": "Draft Greek word-order: οὐδὲν ποιῶ (WH/BibleHub prints ποιῶ οὐδέν) — variant recorded; substance identical. Draft English = modern-spelled Geneva verbatim."
+  },
+  {
+   "id": "JHN.8.29",
+   "ref": "John 8:29",
+   "uses": [
+    {
+     "section": "COS-26",
+     "section_label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements",
+     "article_line": 3823,
+     "cited_as": "gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "For he that sent me is with me: the Father hath not left me alone, because I do always those things that please him."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "note": "Draft Greek verbatim vs WH/BibleHub. Draft English modern-spelled Geneva (\"always\" for the edition's \"alwayes\").",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For he that sent me, is with me: the Father hath not left me alone, because I do always those things that please him.",
+      "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek verbatim."
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For he that sent me, is with me: the Father hath not left me alone, because I do alwayes those things that please him.",
+     "source": "https://ebible.org/enggnv/JHN08.htm"
+    },
+    "greek_nestle": {
+     "text": "καὶkai ὁho πέμψαςpempsas μεme μετ’met’ ἐμοῦemou ἐστιν·estin οὐκouk ἀφῆκένaphēken μεme μόνον,monon ὅτιhoti ἐγὼegō τὰta ἀρεστὰaresta αὐτῷautō ποιῶpoiō πάντοτε.pantote",
+     "source": "https://biblehub.com/text/john/8-29.htm",
+     "verified": "2026-11-11"
+    }
+   },
+   "second_check": {
+    "gnv_trb": {
+     "text": "For he that sent me, is with me: the Father hath not left me alone, because I do alwayes those things that please him.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/8",
+     "result": "eBible=TRB ratio 1.00 (fresh fetch 2026-11-11)"
+    },
+    "greek_biblehub": {
+     "text": "καὶkai ὁho πέμψαςpempsas μεme μετ’met’ ἐμοῦemou ἐστιν·estin οὐκouk ἀφῆκένaphēken μεme μόνον,monon ὅτιhoti ἐγὼegō τὰta ἀρεστὰaresta αὐτῷautō ποιῶpoiō πάντοτε.pantote",
+     "source": "https://biblehub.com/text/john/8-29.htm",
+     "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
+    }
+   },
+   "note": "Draft Greek verbatim vs WH/BibleHub. Draft English modern-spelled Geneva (\"always\" for the edition's \"alwayes\")."
   }
  ]
 }

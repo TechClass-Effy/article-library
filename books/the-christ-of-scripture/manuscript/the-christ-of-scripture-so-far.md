@@ -226,7 +226,6 @@ This is the God whom Jesus called **τὸν μόνον ἀληθινὸν Θεό
 
 ---
 
-
 ## **A Question Now Properly Framed**
 
 With this foundation firm, we may now ask the right question — the question that drives the rest of our study:
@@ -280,7 +279,6 @@ The LXX explicitly says **ἡ παρθένος** — *the virgin* — not merely
 ---
 
 ---
-
 
 ## **POSIT #2 — Genesis 22: The Beloved Son Offered by the Father**
 
@@ -427,7 +425,6 @@ This is the **proper foundation**. Whatever further glories Scripture reveals ab
 Psalm 2 and Psalm 110 (LXX 109) are the most quoted Old Testament texts in the New Testament concerning the Son. They are the keystone of the apostolic preaching about who Jesus is and what office He holds in relation to the One God, the Father.
 
 ---
-
 
 ## **PSALM 2 (LXX) — The Anointed Son Begotten by the Father**
 
@@ -664,7 +661,6 @@ This is the apostolic gospel, and it preserves intact the Shema and the declarat
 
 ---
 
-
 ## **A QUESTION ARISING — Was the Son Brought Forth Before the World Was?**
 
 Psalm 109:3 LXX has opened the question of the Son's **pre-temporal begetting** — *"from the womb, before the morning star."* Two passages must now be examined to see whether and how Scripture testifies to the Son's existence *before* His historical birth in Bethlehem and His being declared Son in power at the resurrection: **Proverbs 8**, where **Wisdom** speaks in the first person, and **Micah 5:2** — *"whose goings forth have been from of old."*
@@ -849,7 +845,6 @@ Scripture testifies to a Person called **the Angel of the LORD** (**ὁ ἄγγ�
 
 ---
 
-
 ## **A QUESTION ARISING — Who Is the Angel of the LORD?**
 
 One of the most consequential threads in all of Scripture now opens — the appearances of **ὁ ἄγγελος Κυρίου** (*the Messenger of the LORD*). The texts must establish, by two-or-more witnesses, whether this Messenger is: (a) merely a created angel acting as God's spokesman, or (b) the One God Himself appearing, or (c) a distinct Person who speaks *as* God yet is *sent by* God — i.e., the pre-incarnate Son in one of His **ἔξοδοι** *(the goings-forth)* (Micah 5:2).
@@ -910,7 +905,6 @@ The author of Hebrews identifies the swearer as **ὁ Θεός** Himself. Theref
 
 ---
 
-
 ## **THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel**
 
 > And the angel of God said to me during sleep, ‘Iakob *(Jacob)*.’ And I said, ‘What is it?’ … I am the God who appeared to you at a divine place *(the place of God, Bethel)*, there where you anointed a stele *(pillar)* to me and made a vow to me there. … — **Genesis 31:11-13, LXX (NETS)**
@@ -922,7 +916,6 @@ The Messenger says plainly: **ἐγώ εἰμι ὁ Θεὸς** — *"I AM the G
 So the same Person who appeared to Jacob as **YHWH** at Bethel now appears as **ὁ ἄγγελος τοῦ Θεοῦ** — *the Messenger of God.* He is both: **the appearing God**, and **the sent Messenger**.
 
 ---
-
 
 ## **THE FOURTH APPEARANCE — Genesis 32: Wrestling at Peniel**
 
@@ -986,7 +979,6 @@ The Jews understood this and sought to stone Him for blasphemy. **Jesus claims t
 
 ---
 
-
 ## **THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses**
 
 We have seen the pattern — the Messenger speaks as God, is called God, is seen as God, yet is sent by God and remains "the Messenger." Who, then, is He? The Apostles, by inspiration, supply the answer.
@@ -997,7 +989,6 @@ We have seen the pattern — the Messenger speaks as God, is called God, is seen
 
 > Moreover, brethren, I would not that ye should be ignorant, that all our fathers were under that cloud, and all passed through that sea, … And did all drink the same spiritual drink (for they drank of the spiritual Rock that followed them: and the Rock was Christ) … Neither let us tempt Christ, as some of them also tempted him, and were destroyed of serpents. — **1 Corinthians 10:1-4, 9, 1599 Geneva**
 
-
 **Paul declares that the One who led Israel through the wilderness — the One they tempted, the Rock that gave them water (which the Old Testament names as **YHWH**) — was Christ.** This is Paul's unambiguous identification of the One who appeared, spoke, led, and acted in the Exodus narrative as **the pre-incarnate Christ**.
 
 ---
@@ -1005,7 +996,6 @@ We have seen the pattern — the Messenger speaks as God, is called God, is seen
 ### **Witness #2 — Jude 5:**
 
 > I will therefore put you in remembrance, forasmuch as ye once knew this, how that *(that)* the Lord, after that he had delivered the people out of Egypt, destroyed them afterward which believed not *(those who did not believe)*. — **Jude 5, 1599 Geneva**
-
 
 **Note:** The earliest and best-attested reading is **Ἰησοῦς** — *"Jesus saved a people out of Egypt."* Jude, by inspiration, identifies the **Deliverer of Israel from Egypt** — who in Exodus is called **YHWH** and **the Messenger of the LORD** — as **Jesus**. Even taking the Geneva's variant "the Lord," the witness still holds, since Paul has already established (1 Cor 10) that "the Lord" of the wilderness is Christ.
 
@@ -1023,11 +1013,9 @@ The answer is given by Jesus Himself and confirmed by John:
 
 > No man hath seen God at any time: that only begotten Son, which is in the bosom of the Father, he hath declared *(revealed)* him. — **John 1:18, 1599 Geneva**
 
-
 ### **John 6:46:**
 
 > Not that any man hath seen the Father, save *(except)* he which is of God, he hath seen the Father. — **John 6:46, 1599 Geneva**
-
 
 ---
 
@@ -1036,11 +1024,9 @@ The answer is given by Jesus Himself and confirmed by John:
 - **No man has ever seen the Father.** Hagar did not see the Father. Abraham did not see the Father. Jacob did not see the Father. Moses did not see the Father. *Period.*
 - **The One whom they all saw — and called "God" — was the Only-Begotten Son**, the visible Image (**εἰκὼν τοῦ Θεοῦ τοῦ ἀοράτου**, Col 1:15) of the invisible Father.
 
-
 **Therefore Isaiah 44-46 is not violated.** The Father remains unseen, unique, the sole God. The Son is the visible Messenger of that God — His Begotten, sent forth from the Father from of old, bearing the Father's authority, Name, and message.
 
 ---
-
 
 ## **A Crucial Textual Note: Exodus 23:20-21**
 
@@ -1048,20 +1034,17 @@ The answer is given by Jesus Himself and confirmed by John:
 
 > And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him. — **Exodus 23:20-21, LXX (NETS)**
 
-
 ### Observation
 
 The Father says of this Messenger: **τὸ γὰρ ὄνομά μού ἐστιν ἐπ᾽ αὐτῷ** — *"My Name is in Him."* This is the Father's own explanation for why this Messenger speaks as God, acts as God, must be obeyed as God, and forgives or refuses to forgive sins — because **the Father's Name dwells in Him.**
 
 Geneva *(1599)* prints the same clause of the Angel at verse 21: “for he will not spare your misdeeds, because my Name is in him.” (NETS reads “my name is upon him”; the Greek ἐπ᾽ αὐτῷ carries either rendering.)
 
-
 This is the very same theme Jesus declared in His high-priestly prayer:
 
 ### **John 17:11-12:**
 
 > And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled. — **John 17:11-12, 1599 Geneva**
-
 
 **The Name of the Father was given to the Son** — exactly as it was placed in the Messenger at Exodus 23:21. This is the **same Person**.
 
@@ -1685,7 +1668,6 @@ Given this honest audit, where would you have us go next?
 **(C)** Examine more carefully **Acts 2:36, 13:33, and Rom 1:4** — the apostolic preaching of when and how Jesus was *made* Lord, Christ, and Son of God — since these may give us the clearest framework for understanding the Father-Son relationship without later metaphysical overlay.
 
 **(D)** Examine a passage of your own choosing.
-
 
 ---
 
@@ -3272,5 +3254,57 @@ But notice also: **"that all men should honor the Son as they honor the Father."
 ### Observation
 
 Peter's Pentecost sermon explicitly states that Jesus **received** the promise of the Holy Spirit **from the Father** and then **poured it forth.** The Son is both Recipient (from the Father) and Giver (to His people). The pattern is unbroken: the Father is the Source; the Son is the channel.
+
+---
+
+This is critical for our study. Let us gather Jesus' **own** statements about His relation to the Father.
+
+### **John 5:19, 30:**
+
+> Then answered Jesus, and said unto them, Verily, verily I say unto you, The Son can do nothing of himself, save that he seeth the Father do: for whatsoever things he doth, the same things doeth the Son in like manner. — **John 5:19, 1599 Geneva**
+
+> I can do nothing of mine own self: as I hear, I judge: and my judgment is just, because I seek not mine own will, but the will of the Father who hath sent me. — **John 5:30, 1599 Geneva**
+
+### **John 6:38:**
+
+> For I came down from heaven, not to do mine own will, but his will which hath sent me. — **John 6:38, 1599 Geneva**
+
+### **John 8:28-29:**
+
+> Then said Jesus unto them, When ye have lift up the Son of man, then shall ye know that I am he, and that I do nothing of myself, but as my Father hath taught me, so I speak these things. For he that sent me, is with me: the Father hath not left me alone, because I do always those things that please him. — **John 8:28-29, 1599 Geneva**
+
+### **John 14:28:**
+
+> Ye have heard how I said unto you, I go away, and will come unto you. If ye loved me, ye would verily rejoice, because I said, I go unto the Father: for the Father is greater then *(the Geneva prints "then" for our modern "than")* I. — **John 14:28, 1599 Geneva**
+
+### **John 17:3** (already cited):
+
+> And this is life eternal, that they know thee to be the only very God *(the author's rendering here reads "the only true God")*, and whom thou hast sent, Jesus Christ. — **John 17:3, 1599 Geneva**
+
+---
+
+### Observation — A definitive pattern from Jesus' own lips:
+
+1. The Son can do nothing of Himself.
+
+2. The Son does not seek His own will.
+
+3. The Son speaks what the Father teaches Him.
+
+4. The Father sent the Son; the Son does what pleases the Father.
+
+5. **The Father is greater than the Son.**
+
+6. The Father alone is the only true God; the Son is the One the Father sent.
+
+**These are Jesus' direct words.** Per maxim #1 — *let God be true* — these establish, **from the lips of the Christ Himself**, that:
+
+- The Son is **subordinate** to the Father in action, will, knowledge, and being.
+
+- The Father is **greater than** the Son.
+
+- The Father is **the only true God**; the Son is the **Sent One**.
+
+This is the *Lord's own self-testimony* — and it harmonizes perfectly with everything we have established from the OT foundation.
 
 ---

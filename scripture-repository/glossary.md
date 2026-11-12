@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**423 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**427 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**594 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**598 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -802,7 +802,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.”
   (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### 1 Corinthians 8:6 — CONFIRMED
 *cited as: Greek NT + “1599 Geneva” label in draft*
@@ -1659,7 +1659,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
 - **Ruling — ANCHOR:** 
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### 1 Corinthians 8:6 — ANCHOR
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -1793,7 +1793,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
 - *Note:* Established-list cite ("The Father is the One God").
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### 1 Corinthians 8:6 — ANCHOR
 *cited as: prose ref*
@@ -1873,7 +1873,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prose ref (already banked arc 1 too)*
 - **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### 1 Corinthians 1:18 — CONFIRMED
 *cited as: no translation label in draft; work spec: Geneva 1599 NT*
@@ -2037,7 +2037,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ.”
   (Audit re-lists seated witnesses; seat unchanged (Confession full verse + gloss).)
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### 1 Corinthians 8:6 — CONFIRMED
 *cited as: audit witness bullet — KJV-voiced quote in draft (book seat: Geneva 1599 Confession full verse)*
@@ -2295,7 +2295,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
 - *Note:* Summary of the Audit, item 1.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### 1 Corinthians 8:6 — ANCHOR
 *cited as: audit bullet — reference only*
@@ -2601,7 +2601,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
 - **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### John 6:62 — CONFIRMED
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
@@ -2614,7 +2614,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Ye haue heard howe I saide vnto you, I goe away, and will come vnto you. If ye loued me, ye would verely reioyce, because I said, I goe vnto the Father: for the Father is greater then I.”
 - *Note:* Synthesis item 17 quotes the fragment "the Father is greater than I." — Geneva JHN14.28 verse text banked.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ## THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis
 
@@ -4013,6 +4013,64 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* Draft block exact to the Geneva, word-for-word at modern spelling (eBible=TRB).
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+## THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements
+
+### John 5:19 — CONFIRMED
+*cited as: gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)*
+- **Geneva 1599:** “Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.”
+- **Ruling — apply Geneva 1599 exact:** “Then answered Jesus, and said unto them, Verily, verily I say unto you, The Son can do nothing of himself, save that he seeth the Father do: for whatsoever things he doth, the same things doeth the Son in like manner.”
+  (Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek block drops, fragments recorded on the row.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### John 5:30 — CONFIRMED
+*cited as: gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)*
+- **Geneva 1599:** “I can doe nothing of mine owne selfe: as I heare, I iudge: and my iudgement is iust, because I seeke not mine owne will, but the will of the Father who hath sent me.”
+- **Ruling — apply Geneva 1599 exact:** “I can do nothing of mine own self: as I hear, I judge: and my judgment is just, because I seek not mine own will, but the will of the Father who hath sent me.”
+  (Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek block drops, fragments recorded on the row.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### John 6:38 — CONFIRMED
+*cited as: direct-statement ref (draft quote on the ref line; KJV-family wording)*
+- **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
+- **Ruling — apply Geneva 1599 exact:** “For I came down from heaven, not to do mine own will, but his will which hath sent me.”
+  (The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### John 8:28 — CONFIRMED
+*cited as: gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)*
+- **Geneva 1599:** “Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.”
+- **Ruling — apply Geneva 1599 exact:** “Then said Jesus unto them, When ye have lift up the Son of man, then shall ye know that I am he, and that I do nothing of myself, but as my Father hath taught me, so I speak these things.”
+  (Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; word-order variant recorded.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### John 8:29 — CONFIRMED
+*cited as: gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)*
+- **Geneva 1599:** “For he that sent me, is with me: the Father hath not left me alone, because I do alwayes those things that please him.”
+- **Ruling — apply Geneva 1599 exact:** “For he that sent me, is with me: the Father hath not left me alone, because I do always those things that please him.”
+  (Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek verbatim.)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### John 14:28 — CONFIRMED
+*cited as: direct-statement ref (draft Greek fragment + “1599 Geneva” fragment)*
+- **Geneva 1599:** “Ye haue heard howe I saide vnto you, I goe away, and will come vnto you. If ye loued me, ye would verely reioyce, because I said, I goe vnto the Father: for the Father is greater then I.”
+- **Ruling — apply Geneva 1599 exact:** “Ye have heard how I said unto you, I go away, and will come unto you. If ye loved me, ye would verily rejoice, because I said, I go unto the Father: for the Father is greater then *(the Geneva prints "then" for our modern "than")* I.”
+  (The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice).)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### John 17:3 — CONFIRMED
+*cited as: already-cited reminder (“1599 Geneva” seat; draft quotes its own working wording)*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- **Ruling — apply Geneva 1599 exact:** “And this is life eternal, that they know thee to be the only very God *(the author's rendering here reads "the only true God")*, and whom thou hast sent, Jesus Christ.”
+  (The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice).)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 # THE BIBLICAL SABBATH
 
@@ -5958,10 +6016,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -6040,7 +6098,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 1:6 | COS-01 | anchor |
 | Psalm 32:6 | COS-01, COS-20 | commentary, confirmed |
 | Mark 12:29 | COS-01, COS-18 | confirmed |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19 | anchor, confirmed |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26 | anchor, confirmed |
 | 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21 | anchor, confirmed |
 | John 20:17 | COS-01, COS-18 | confirmed |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
@@ -6186,9 +6244,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:24 | COS-21 | confirmed |
 | John 3:13 | COS-21 | confirmed |
 | John 3:31 | COS-21 | confirmed (excerpt) |
-| John 6:38 | COS-21 | confirmed |
+| John 6:38 | COS-21, COS-26 | confirmed |
 | John 6:62 | COS-21 | confirmed |
-| John 14:28 | COS-21 | anchor |
+| John 14:28 | COS-21, COS-26 | anchor, confirmed |
 | Luke 1:36 | COS-21 | anchor |
 | 1 Peter 2:22 | COS-22 | confirmed |
 | 1 Peter 2:25 | COS-22 | confirmed (excerpt) |
@@ -6369,6 +6427,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Samuel 2:6 | COS-25 | anchor |
 | Mark 5:35-43 | COS-25 | anchor |
 | Luke 7:11-17 | COS-25 | anchor |
+| John 5:19 | COS-26 | confirmed |
+| John 5:30 | COS-26 | confirmed |
+| John 8:28 | COS-26 | confirmed |
+| John 8:29 | COS-26 | confirmed |
 
 ## The editions used
 
