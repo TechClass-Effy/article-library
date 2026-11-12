@@ -116,7 +116,9 @@
    "COS-61",
    "COS-62",
    "COS-63",
-   "COS-64"
+   "COS-64",
+   "COS-65",
+   "COS-66"
   ],
   "sections": [
    {
@@ -528,6 +530,14 @@
    {
     "key": "COS-64",
     "label": "Conclusion of Our Study"
+   },
+   {
+    "key": "COS-65",
+    "label": "Galatians 2:20 — The Foundational Declaration"
+   },
+   {
+    "key": "COS-66",
+    "label": "The Full Counsel — The Believer's Identification in Christ"
    }
   ],
   "double_check": {
@@ -588,9 +598,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 77483,
+  "so_far_words": 78943,
   "cos_sofar": {
-   "waves": 34
+   "waves": 35
   },
   "glossary": 887
  },
@@ -3756,6 +3766,42 @@
     "detail": "draft echo reworded (\"changed into\" vs the 1599 print — see row text); italic version-name awaits Gideon",
     "awaiting": "Gideon"
    }
+  },
+  {
+   "id": "2CO.5.17",
+   "ref": "2 Corinthians 5:17",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8664,
+     "cited_as": "Cross-witness — 2 Corinthians 5:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore if any man be in Christ, let him be a newe creature. Olde things are passed away: beholde, all things are become newe.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore if any man be in Christ, let him be a newe creature. Olde things are passed away: beholde, all things are become newe.",
+     "source": "textusreceptusbibles.com/Geneva/47/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἴ τις ἐν χριστῷ, καινὴ κτίσις· τὰ ἀρχαῖα παρῆλθεν, ἰδού, γέγονεν καινὰ τὰ",
+     "source": "biblehub.com/text/2-corinthians/5-17",
+     "result": "agree (0.917)"
+    }
+   },
+   "note": "cross-witness seat (draft exact-modern — the print's \"let him be a newe creature. Olde things...\" shape kept)"
   },
   {
    "id": "2CO.6.16",
@@ -12367,6 +12413,99 @@
    }
   },
   {
+   "id": "GAL.2.11",
+   "ref": "Galatians 2:11",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8587,
+     "cited_as": "Galatians 2:11-14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when Peter was come to Antiochia, I withstood him to his face: for he was to be condemned.",
+     "source": "textusreceptusbibles.com/Geneva/48/2",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "context mention (the Antioch rebuke range)"
+  },
+  {
+   "id": "GAL.2.15",
+   "ref": "Galatians 2:15",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8587,
+     "cited_as": "Galatians 2:15",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "trb_fresh": {
+     "text": "We which are Iewes by nature, and not sinners of the Gentiles,",
+     "source": "textusreceptusbibles.com/Geneva/48/2",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "context mention (vv 15-16, justification by faith)"
+  },
+  {
+   "id": "GAL.2.19",
+   "ref": "Galatians 2:19",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8597,
+     "cited_as": "Galatians 2:19-20 (the draft ONE blockquote covers both verses; the seat carries both prints joined)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I through the Lawe am dead to the Lawe, that I might liue vnto God.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I through the Lawe am dead to the Lawe, that I might liue vnto God.",
+     "source": "textusreceptusbibles.com/Geneva/48/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "γὰρ διὰ νόμου νόμῳ ἀπέθανον ἵνα Θεῷ ζήσω· Χριστῷ",
+     "source": "biblehub.com/text/galatians/2-19",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_joined": {
+     "text": "γὰρ διὰ νόμου νόμῳ ἀπέθανον ἵνα Θεῷ ζήσω· Χριστῷ συνεσταύρωμαι· ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός· ὃ δὲ νῦν ζῶ ἐν σαρκί, ἐν πίστει ζῶ τῇ τοῦ υἱοῦ τοῦ θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ",
+     "source": "biblehub.com/text/galatians/2-19 + galatians/2-20",
+     "result": "agree (0.938)"
+    }
+   },
+   "note": "seat half of the joined draft blockquote; draft exact-modern (\"Law\" = print \"Lawe\" fold)"
+  },
+  {
    "id": "GAL.2.20",
    "ref": "Galatians 2:20",
    "verified": "2026-11-12",
@@ -12387,6 +12526,11 @@
      "text": "συνεσταύρωμαι· ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός· ὃ δὲ νῦν ζῶ ἐν σαρκί, ἐν πίστει ζῶ τῇ τοῦ υἱοῦ τοῦ θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ",
      "source": "biblehub.com/text/galatians/2-20",
      "result": "agree (0.348)"
+    },
+    "greek_biblehub_joined": {
+     "text": "γὰρ διὰ νόμου νόμῳ ἀπέθανον ἵνα Θεῷ ζήσω· Χριστῷ συνεσταύρωμαι· ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός· ὃ δὲ νῦν ζῶ ἐν σαρκί, ἐν πίστει ζῶ τῇ τοῦ υἱοῦ τοῦ θεοῦ τοῦ ἀγαπήσαντός με καὶ παραδόντος ἑαυτὸν ὑπὲρ",
+     "source": "biblehub.com/text/galatians/2-19 + galatians/2-20",
+     "result": "agree (0.938)"
     }
    },
    "uses": [
@@ -12411,6 +12555,26 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8739,
+     "cited_as": "Galatians 2:20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "POINT-1 re-present — \"already examined\"; the seat of record is COS-65 at canon 8597"
+    },
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8597,
+     "cited_as": "Galatians 2:19-20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "the joined 2:19-20 blockquote; the seat (any more / in that that)"
     }
    ],
    "flag": {
@@ -12418,6 +12582,32 @@
     "detail": "the cross-witness fragment opens \"Thus I live, yet not I anymore\" where 1599 prints \"but I liue, yet not I any more\" (the \"yet not I anymore\" IS the 1599 wording, print \"any more\"); the bridge echo at canon 8570 reads KJV-voiced \"yet not I, but Christ liveth in me\" — italic version-name or re-voice awaits Gideon",
     "awaiting": "Gideon"
    }
+  },
+  {
+   "id": "GAL.3.13",
+   "ref": "Galatians 3:13",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8613,
+     "cited_as": "Galatians 3:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "trb_fresh": {
+     "text": "Christ hath redeemed vs from the curse of the Lawe, made a curse for vs, (for it is written, Cursed is euery one that hangeth on tree)",
+     "source": "textusreceptusbibles.com/Geneva/48/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "clause-1 bullet mention (the law's curse fell on Christ)"
   },
   {
    "id": "GAL.3.14",
@@ -12560,6 +12750,78 @@
      "result": "EXACT (normalized per-verse, eBible==TRB)"
     }
    }
+  },
+  {
+   "id": "GAL.5.24",
+   "ref": "Galatians 5:24",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8751,
+     "cited_as": "Galatians 5:24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For they that are Christes, haue crucified the flesh with the affections and the lustes.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For they that are Christes, haue crucified the flesh with the affections and the lustes.",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς",
+     "source": "biblehub.com/text/galatians/5-24",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-1 seat (draft exact-modern; print \"Christes...affectes\" folds)"
+  },
+  {
+   "id": "GAL.6.14",
+   "ref": "Galatians 6:14",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8757,
+     "cited_as": "Galatians 6:14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But God forbid that I should reioyce, but in ye crosse of our Lord Iesus Christ, whereby the world is crucified vnto me, and I vnto ye world.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But God forbid that I should reioyce, but in ye crosse of our Lord Iesus Christ, whereby the world is crucified vnto me, and I vnto ye world.",
+     "source": "textusreceptusbibles.com/Geneva/48/6",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "δὲ μὴ γένοιτο καυχᾶσθαι εἰ μὴ ἐν τῷ σταυρῷ τοῦ κυρίου ἡμῶν Ἰησοῦ χριστοῦ· δι’ οὗ ἐμοὶ κόσμος ἐσταύρωται, κἀγὼ τῷ",
+     "source": "biblehub.com/text/galatians/6-14",
+     "result": "agree (0.316)"
+    }
+   },
+   "note": "POINT-1 seat — FULL verse restored per the wave-16 rule (draft Greek+Geneva are fragments); print \"whereby\" replaces the draft's \"by whom\"; print article-ye folded to \"the\""
   },
   {
    "id": "GEN.1.1",
@@ -24706,6 +24968,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8678,
+     "cited_as": "John 14:20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "clause-4 prose: the same preposition Jesus used (\"and I in you\")"
     }
    ]
   },
@@ -42593,6 +42865,32 @@
    }
   },
   {
+   "id": "ROM.3.19",
+   "ref": "Romans 3:19",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8612,
+     "cited_as": "Romans 3:19-20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now we know that whatsoeuer ye Lawe saieth, it saieth it to them which are vnder ye Law, that euery mouth may bee stopped, and all the world be subiect to the iudgement of God.",
+     "source": "textusreceptusbibles.com/Geneva/45/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "clause-1 bullet mention"
+  },
+  {
    "id": "ROM.4.25",
    "ref": "Romans 4:25",
    "uses": [
@@ -42875,6 +43173,42 @@
    }
   },
   {
+   "id": "ROM.6.6",
+   "ref": "Romans 6:6",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8647,
+     "cited_as": "Cross-witness — Romans 6:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Knowing this, that our old man is crucified with him, that the body of sinne might be destroied, that henceforth we should not serue sinne.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Knowing this, that our old man is crucified with him, that the body of sinne might be destroied, that henceforth we should not serue sinne.",
+     "source": "textusreceptusbibles.com/Geneva/45/6",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ",
+     "source": "biblehub.com/text/romans/6-6",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "cross-witness seat (draft exact-modern: sinne/destroied/serue folds only)"
+  },
+  {
    "id": "ROM.7.18",
    "ref": "Romans 7:18",
    "uses": [
@@ -42897,6 +43231,32 @@
      "source": "eBible eng-kjv2006 ROM07.htm (banked for reference; uncited prose reference follows the KJV voice)"
     }
    }
+  },
+  {
+   "id": "ROM.7.7",
+   "ref": "Romans 7:7",
+   "uses": [
+    {
+     "section": "COS-65",
+     "section_label": "THE CHRIST OF SCRIPTURE — Galatians 2:20 — The Foundational Declaration",
+     "article_line": 8612,
+     "cited_as": "Romans 7:7-13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "trb_fresh": {
+     "text": "What shall we say then? Is the Lawe sinne? God forbid. Nay, I knewe not sinne, but by the Lawe: for I had not knowen lust, except the Lawe had sayd, Thou shalt not lust.",
+     "source": "textusreceptusbibles.com/Geneva/45/7",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "clause-1 bullet mention"
   },
   {
    "id": "ROM.8.10",

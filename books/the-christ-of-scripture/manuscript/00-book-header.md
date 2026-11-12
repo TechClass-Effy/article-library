@@ -97,3 +97,16 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 59. (F) John 17:20-26 — The Prayer for the Elect (COS-62: clauses examined; seats 17:20-26 — 17:21 comma/colon seat, 17:24 "thou lovedst", 17:26 print "unto the *(them)*"; Romans 5:5 mechanism; cross-witnesses 1 Cor 3:16-17, 6:19, 2 Cor 6:16, Eph 2:21-22, Eph 3:14-19, Col 1:27, Gal 2:20, Rev 21:3; the consummation)
 
 60. (F) Grand Synthesis — The Consummation of Our Entire Study + Conclusion of Our Study (COS-63/64: the arc Genesis-to-New-Jerusalem; what this establishes about the Person of Christ and the elect; "A Personal Word" and "A Final Question"; the new directive bridge seated — the believer's identification in Christ ahead, opening Galatians 2:20)
+
+61. (F) Galatians 2:20 — The Foundational Declaration (context: the Antioch rebuke;
+Galatians 2:19-20 Geneva seat — "yet not I any more" per the 1599 print; the clause-by-clause
+examination (dying to the law to live unto God; co-crucified with Christ — the perfect passive;
+no longer I; Christ lives in me; by the faith in/of the Son of God; who hath loved me and given
+himself for me); cross-witnesses Romans 6:6 and 2 Corinthians 5:17 Geneva seats; the synthesis
+of the believer's identification)
+
+62. (F) The Full Counsel — The Believer's Identification in Christ (OPEN — fourteen Points;
+Point 1 Co-Crucified seated: Galatians 2:20 re-presented; Romans 6:6 re-presented;
+Galatians 5:24 seat — "the affections and the lusts" per the print; Galatians 6:14 seat — the
+full verse restored per the 1599 print, "whereby the world is crucified"; Points 2-14 continue
+next wave)

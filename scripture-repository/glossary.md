@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**831 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**841 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1002 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1012 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -8993,7 +8993,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “I am crucified with Christ, but I liue, yet not I any more, but Christ liueth in me: and in that that I now liue in the flesh, I liue by the faith in the Sonne of God, who hath loued me, and giuen him selfe for me.”
 - *Note:* also 7511 (Spirit of the Son), 7787 (the same-reality recital). Fragment == the Geneva at modern spelling.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓ · greek_biblehub_joined ✓*
 
 ### Colossians 1:27 — CONFIRMED
 *cited as: prose fragment — exact at modern spelling (good-reason)*
@@ -9556,7 +9556,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: cross-witness fragment; ALSO the bridge echo at canon 8570*
 - **Geneva 1599:** “I am crucified with Christ, but I liue, yet not I any more, but Christ liueth in me: and in that that I now liue in the flesh, I liue by the faith in the Sonne of God, who hath loued me, and giuen him selfe for me.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓ · greek_biblehub_joined ✓*
 
 ### Revelation 21:3 — PROSE-REF
 *cited as: consummation seat (good-reason exact-modern of the 1599 print)*
@@ -9735,6 +9735,86 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.”
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants) · trb_fresh — exact per-verse (eBible==TRB 1.000 fresh) · greek_biblehub_fresh — draft Greek v33 == WH (see ACT span group check) · greek_biblehub_span — ACT 2:32-36 draft-Greek group coverage 1.000 vs WH whole-group join; verse-by-verse WH text banked on each row*
+
+## Galatians 2:20 — The Foundational Declaration
+
+### Galatians 2:11 — PROSE-REF
+*cited as: Galatians 2:11-14*
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 2:15 — PROSE-REF
+*cited as: Galatians 2:15*
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 2:19 — PROSE-REF
+*cited as: Galatians 2:19-20 (the draft ONE blockquote covers both verses; the seat carries both prints joined)*
+- **Geneva 1599:** “For I through the Lawe am dead to the Lawe, that I might liue vnto God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓ · greek_biblehub_joined ✓*
+
+### Galatians 2:20 — PROSE-REF
+*cited as: Galatians 2:19-20*
+- **Geneva 1599:** “I am crucified with Christ, but I liue, yet not I any more, but Christ liueth in me: and in that that I now liue in the flesh, I liue by the faith in the Sonne of God, who hath loued me, and giuen him selfe for me.”
+- *Note:* the joined 2:19-20 blockquote; the seat (any more / in that that)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓ · greek_biblehub_joined ✓*
+
+### Romans 3:19 — PROSE-REF
+*cited as: Romans 3:19-20*
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 7:7 — PROSE-REF
+*cited as: Romans 7:7-13*
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 3:13 — PROSE-REF
+*cited as: Galatians 3:13*
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 6:6 — PROSE-REF
+*cited as: Cross-witness — Romans 6:6*
+- **Geneva 1599:** “Knowing this, that our old man is crucified with him, that the body of sinne might be destroied, that henceforth we should not serue sinne.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 5:17 — PROSE-REF
+*cited as: Cross-witness — 2 Corinthians 5:17*
+- **Geneva 1599:** “Therefore if any man be in Christ, let him be a newe creature. Olde things are passed away: beholde, all things are become newe.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### John 14:20 — PROSE-REF
+*cited as: John 14:20*
+- **Geneva 1599:** “At that day shall ye knowe that I am in my Father, and you in me, and I in you.”
+- *Note:* clause-4 prose: the same preposition Jesus used ("and I in you")
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — ratio 1.0 — draft == WH verbatim (punctuation only)*
+
+## The Full Counsel — The Believer's Identification in Christ
+
+### Galatians 2:20 — PROSE-REF
+*cited as: Galatians 2:20*
+- **Geneva 1599:** “I am crucified with Christ, but I liue, yet not I any more, but Christ liueth in me: and in that that I now liue in the flesh, I liue by the faith in the Sonne of God, who hath loued me, and giuen him selfe for me.”
+- *Note:* POINT-1 re-present — "already examined"; the seat of record is COS-65 at canon 8597
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓ · greek_biblehub_joined ✓*
+
+### Galatians 5:24 — PROSE-REF
+*cited as: Galatians 5:24*
+- **Geneva 1599:** “For they that are Christes, haue crucified the flesh with the affections and the lustes.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Galatians 6:14 — PROSE-REF
+*cited as: Galatians 6:14*
+- **Geneva 1599:** “But God forbid that I should reioyce, but in ye crosse of our Lord Iesus Christ, whereby the world is crucified vnto me, and I vnto ye world.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -11567,6 +11647,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62 | prose-ref |
+| 2 Corinthians 5:17 | COS-65 | prose-ref |
 | 2 Corinthians 6:16 | COS-52, COS-60, COS-62 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
 | 2 Esdras 23:15 | SAB7, SAB13 | differs, recap cross-reference |
@@ -11753,10 +11834,16 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ezekiel 36:27 | P9, COS-58, COS-59, COS-60 | confirmed, prose-ref |
 | Ezekiel 37:27 | COS-62 | prose-ref |
 | Ezekiel 37:9 | P4 | confirmed |
-| Galatians 2:20 | COS-60, COS-62 | confirmed, prose-ref |
+| Galatians 2:11 | COS-65 | prose-ref |
+| Galatians 2:15 | COS-65 | prose-ref |
+| Galatians 2:19 | COS-65 | prose-ref |
+| Galatians 2:20 | COS-60, COS-62, COS-65, COS-66 | confirmed, prose-ref |
+| Galatians 3:13 | COS-65 | prose-ref |
 | Galatians 3:14 | COS-58 | prose-ref |
 | Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
 | Galatians 4:6 | COS-55, COS-60 | anchor, prose-ref |
+| Galatians 5:24 | COS-66 | prose-ref |
+| Galatians 6:14 | COS-66 | prose-ref |
 | Genesis 1:1 | COS-01 | anchor |
 | Genesis 1:14 | SAB10, SAB13 | confirmed (excerpt), recap cross-reference |
 | Genesis 1:2 | COS-01, COS-53, COS-56 | anchor, seat |
@@ -12029,7 +12116,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 14:18 | COS-60 | confirmed |
 | John 14:19 | COS-60 | confirmed |
 | John 14:2 | COS-60 | flagged |
-| John 14:20 | COS-60, COS-63 | confirmed, prose-ref |
+| John 14:20 | COS-60, COS-63, COS-65 | confirmed, prose-ref |
 | John 14:21 | COS-60 | confirmed |
 | John 14:22 | COS-60 | confirmed |
 | John 14:23 | COS-52, COS-59, COS-60, COS-63 | prose-ref |
@@ -12453,6 +12540,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 15:20 | COS-22 | confirmed (excerpt) |
 | Romans 15:21 | COS-22 | confirmed (excerpt) |
 | Romans 2:24 | P7 | confirmed |
+| Romans 3:19 | COS-65 | prose-ref |
 | Romans 4:25 | COS-22, COS-58 | confirmed (excerpt), prose-ref |
 | Romans 5:18 | COS-22 | confirmed (excerpt) |
 | Romans 5:19 | COS-22 | confirmed (excerpt) |
@@ -12460,7 +12548,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:13 | SAB7 | anchor |
 | Romans 6:4 | COS-60 | flagged |
 | Romans 6:5 | COS-60 | flagged |
+| Romans 6:6 | COS-65 | prose-ref |
 | Romans 7:18 | SAB7 | anchor |
+| Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
 | Romans 8:17 | COS-62 | prose-ref |
