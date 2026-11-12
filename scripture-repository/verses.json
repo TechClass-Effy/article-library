@@ -120,7 +120,8 @@
    "COS-65",
    "COS-66",
    "COS-67",
-   "COS-68"
+   "COS-68",
+   "COS-69"
   ],
   "sections": [
    {
@@ -548,6 +549,10 @@
    {
     "key": "COS-68",
     "label": "What Does \"Suffering with Christ\" Mean?"
+   },
+   {
+    "key": "COS-69",
+    "label": "THE INDICATIVE-TO-IMPERATIVE PATTERN"
    }
   ],
   "double_check": {
@@ -608,9 +613,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 88029,
+  "so_far_words": 93434,
   "cos_sofar": {
-   "waves": 41
+   "waves": 42
   },
   "glossary": 887
  },
@@ -2471,6 +2476,16 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10493,
+     "cited_as": "prose use (canon 10493)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-02",
@@ -8016,9 +8031,29 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10358,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10540,
+     "cited_as": "prose use (canon 10540)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.",
@@ -8056,6 +8091,26 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10358,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10540,
+     "cited_as": "prose use (canon 10540)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -8139,6 +8194,26 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10358,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10430,
+     "cited_as": "prose use (canon 10430)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ]
   },
@@ -8209,6 +8284,26 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10358,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10358,
+     "cited_as": "prose use (canon 10358)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "flag": {
@@ -9361,6 +9456,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10329,
+     "cited_as": "prose use (canon 10329)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "diff_notes": ""
@@ -9521,6 +9626,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10325,
+     "cited_as": "prose use (canon 10325)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -9576,6 +9691,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10327,
+     "cited_as": "prose use (canon 10327)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -9711,6 +9836,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10335,
+     "cited_as": "prose use (canon 10335)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -9899,6 +10034,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10336,
+     "cited_as": "prose use (canon 10336)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -12967,11 +13112,21 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10429,
+     "cited_as": "prose use (canon 10429)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "flag": {
     "kind": "needs-authorization",
-    "detail": "the cross-witness fragment opens \"Thus I live, yet not I anymore\" where 1599 prints \"but I liue, yet not I any more\" (the \"yet not I anymore\" IS the 1599 wording, print \"any more\"); the bridge echo at canon 8570 reads KJV-voiced \"yet not I, but Christ liveth in me\" — italic version-name or re-voice awaits Gideon | The \"Galatians 2:20 — Revisited\" section (canon 9328-9338) quotes five KJV-voiced fragments (\"I have been crucified with Christ\", \"It is no longer I who live\", \"But Christ lives in me\", \"I live by faith in the Son of God\", \"Who loved me and gave Himself for me\") vs the 1599 print (canon 9312 also) — italic attribution awaits Gideon.",
+    "detail": "the cross-witness fragment opens \"Thus I live, yet not I anymore\" where 1599 prints \"but I liue, yet not I any more\" (the \"yet not I anymore\" IS the 1599 wording, print \"any more\"); the bridge echo at canon 8570 reads KJV-voiced \"yet not I, but Christ liveth in me\" — italic version-name or re-voice awaits Gideon | The \"Galatians 2:20 — Revisited\" section (canon 9328-9338) quotes five KJV-voiced fragments (\"I have been crucified with Christ\", \"It is no longer I who live\", \"But Christ lives in me\", \"I live by faith in the Son of God\", \"Who loved me and gave Himself for me\") vs the 1599 print (canon 9312 also) — italic attribution awaits Gideon. | Practical §1 believer-speech (canon 10429) \"I have been crucified with Christ; the life I now live in the flesh, I live by faith of the Son of God\" also KJV/modern-voiced — 1599 prints \"I am crucified with Christ ... I liue by the faith of the Son of God\"",
     "awaiting": "Gideon"
    }
   },
@@ -13181,6 +13336,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10385,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10519,
+     "cited_as": "prose use (canon 10519)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -13217,6 +13392,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10520,
+     "cited_as": "prose use (canon 10520)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -43564,13 +43749,36 @@
      "status": "anchor",
      "matched_source": "kjv",
      "note": "Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked."
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10169,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-04",
+   "verified": "2026-11-12",
    "translations": {
     "kjv": {
      "text": "Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.",
      "source": "eBible eng-kjv2006 ROM06.htm (banked for reference; uncited prose reference follows the KJV voice)"
+    },
+    "gnv": {
+     "text": "Neither giue ye your members, as weapons of vnrighteousnes vnto sinne: but giue your selues vnto God, as they that are aliue from the dead, and giue your members as weapons of righteousnesse vnto God.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "quote_kind": "seat",
+   "status": "confirmed",
+   "second_check": {
+    "trb_fresh": {
+     "text": "Neither giue ye your members, as weapons of vnrighteousnes vnto sinne: but giue your selues vnto God, as they that are aliue from the dead, and giue your members as weapons of righteousnesse vnto God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
     }
    }
   },
@@ -43650,6 +43858,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10041,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "flag": {
@@ -43704,6 +43922,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "POINT-4 span seat; print v5 ends with a comma (both editions) — seated verbatim"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10041,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "flag": {
@@ -43735,6 +43963,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10073,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -45586,6 +45824,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10107,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -45780,6 +46028,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10330,
+     "cited_as": "prose use (canon 10330)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -45836,6 +46094,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10331,
+     "cited_as": "prose use (canon 10331)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -46037,6 +46305,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10328,
+     "cited_as": "prose use (canon 10328)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -46267,6 +46545,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10041,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -46534,6 +46822,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10505,
+     "cited_as": "prose use (canon 10505)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -46910,6 +47208,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10326,
+     "cited_as": "Eph indicative list bullet \"Predestined to adoption (1:5)\" (canon 10326)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
     }
    ],
    "verified": "2026-11-12",
@@ -48883,12 +49191,40 @@
      "status": "anchor",
      "note": "mortification mention (modern-believer §3)",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10358,
+     "cited_as": "span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
-   "translations": {},
-   "second_check": {},
-   "diff_notes": ""
+   "translations": {
+    "gnv": {
+     "text": "Mortifie therefore your members which are on the earth, fornication, vncleannes, the inordinate affection, euill concupiscence, and couetousnes which is idolatrie.",
+     "source": "https://ebible.org/enggnv/COL03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Mortifie therefore your members which are on the earth, fornication, vncleannes, the inordinate affection, euill concupiscence, and couetousnes which is idolatrie.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/51/3",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος. Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος, εἰ οὖν συνεγείρω ὁ Χριστός ὁ ἄνω ζητέω οὗ ὁ Χριστός εἰμί ἐν δεξιός ὁ θεός κάθημαι Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος. Εἰ οὖν συνηγέρθητε τῷ Χριστῷ τὰ ἄνω ζητεῖτε οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς, τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς, ὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. ὁ ἄνω φρονέω μή ὁ ἐπί ὁ γῆ τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. τὰ ἄνω φρονεῖτε μὴ τὰ ἐπὶ τῆς γῆς ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ Ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ. ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ ἀποθνήσκω γάρ καί ὁ ζωή ὑμεῖς κρύπτω σύν ὁ Χριστός ἐν ὁ θεός ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ. ἀπεθάνετε γάρ καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ θεῷ ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. Ὅταν ὁ χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ Χριστός φανερόω ὁ ζωή ὑμεῖς τότε καί ὑμεῖς σύν αὐτός φανερόω ἐν δόξα ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ Χριστὸς φανερωθῇ ἡ ζωὴ ἡμῶν τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν, ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, νεκρόω οὖν ὁ μέλος ὁ ἐπί ὁ γῆ πορνεία ἀκαθαρσία πάθος ἐπιθυμία κακός καί ὁ πλεονεξία ὅστις εἰμί εἰδωλολατρεία Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν, ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς πορνείαν ἀκαθαρσίαν πάθος ἐπιθυμίαν κακήν καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία,",
+     "source": "https://biblehub.com/text/colossians/3-1.htm; https://biblehub.com/text/colossians/3-2.htm; https://biblehub.com/text/colossians/3-3.htm; https://biblehub.com/text/colossians/3-4.htm; https://biblehub.com/text/colossians/3-5.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.512 recorded)"
+    }
+   },
+   "diff_notes": "",
+   "quote_kind": "seat",
+   "status": "confirmed"
   },
   {
    "id": "COL.2.23",
@@ -48942,6 +49278,1133 @@
      "quotes": [],
      "status": "anchor",
      "note": "\"perfected through what He suffered\" mention (Category 8 obs (3))",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.6.1",
+   "ref": "Romans 6:1",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10017,
+     "cited_as": "Romans 6:1 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "What shall we say then? Shall we continue still in sinne, that grace may abounde? God forbid.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "What shall we say then? Shall we continue still in sinne, that grace may abounde? God forbid.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; ί οὖν ἐροῦμεν; Ἐπιμένομεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμενοῦμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμενοῦμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν ἐπιμενοῦμεν τῇ ἁμαρτίᾳ ἵνα ἡ χάρις πλεονάσῃ μὴ γένοιτο. οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; Μὴ γένοιτο. Οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; μὴ γένοιτο. οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; μὴ γένοιτο. οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; μὴ γένοιτο οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ πῶς ἔτι ζήσομεν ἐν αὐτῇ",
+     "source": "https://biblehub.com/text/romans/6-1.htm; https://biblehub.com/text/romans/6-2.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.842 recorded)"
+    }
+   },
+   "diff_notes": "print 'God forbid. Howe shall we' — cap 'Howe' is the 1599 verse-initial cap, modernized 'how' (ANd-fold class); SPLICE: draft's colon restored to the print's period across the v1/v2 seam (2Ti-2:11 punctuation class)"
+  },
+  {
+   "id": "ROM.6.2",
+   "ref": "Romans 6:2",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10017,
+     "cited_as": "Romans 6:2 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10005,
+     "cited_as": "prose use (canon 10005)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Howe shall we, that are dead to sinne, liue yet therein?",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Howe shall we, that are dead to sinne, liue yet therein?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; ί οὖν ἐροῦμεν; Ἐπιμένομεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμενοῦμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν; ἐπιμενοῦμεν τῇ ἁμαρτίᾳ, ἵνα ἡ χάρις πλεονάσῃ; Τί οὖν ἐροῦμεν ἐπιμενοῦμεν τῇ ἁμαρτίᾳ ἵνα ἡ χάρις πλεονάσῃ μὴ γένοιτο. οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; Μὴ γένοιτο. Οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; μὴ γένοιτο. οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; μὴ γένοιτο. οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ, πῶς ἔτι ζήσομεν ἐν αὐτῇ; μὴ γένοιτο οἵτινες ἀπεθάνομεν τῇ ἁμαρτίᾳ πῶς ἔτι ζήσομεν ἐν αὐτῇ",
+     "source": "https://biblehub.com/text/romans/6-1.htm; https://biblehub.com/text/romans/6-2.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.842 recorded)"
+    }
+   },
+   "diff_notes": "print verse-initial cap 'Howe' folded 'how' (modern-spelling class)"
+  },
+  {
+   "id": "ROM.6.7",
+   "ref": "Romans 6:7",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10073,
+     "cited_as": "Romans 6:7 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For he that is dead, is freed from sinne.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For he that is dead, is freed from sinne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τοῦτο γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ τοῦτο γινώσκοντες ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ, τοῦτο γινώσκοντες ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ, τοῦτο γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ τοῦτο γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ τοῦτο γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ τοῦτο γινώσκοντες, ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας, τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ τοῦτο γινώσκοντες ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας. ὁ γὰρ ἀποθανὼν δεδικαίωται ἀπὸ τῆς ἁμαρτίας",
+     "source": "https://biblehub.com/text/romans/6-6.htm; https://biblehub.com/text/romans/6-7.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.92 recorded)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.6.9",
+   "ref": "Romans 6:9",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10107,
+     "cited_as": "Romans 6:9 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Knowing that Christ being raised from the dead, dieth no more: death hath no more dominion ouer him.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Knowing that Christ being raised from the dead, dieth no more: death hath no more dominion ouer him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": "print folds only (dominion ouer→over)"
+  },
+  {
+   "id": "ROM.6.10",
+   "ref": "Romans 6:10",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10107,
+     "cited_as": "Romans 6:10 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For in that hee died, hee died once to sinne but in that he liueth, he liueth to God.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For in that hee died, hee died once to sinne but in that he liueth, he liueth to God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συνζήσομεν αὐτῷ, εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συνζήσομεν αὐτῷ εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συνζήσομεν Εἰ δὲ ἀπεθάνομεν σὺν χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ, εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ πιστεύομεν ὅτι καὶ συζήσομεν αὐτῷ εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει. εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνήσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνήσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει εἰδότες ὅτι χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει θάνατος αὐτοῦ οὐκέτι κυριεύει. εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει. εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει, θάνατος αὐτοῦ οὐκέτι κυριεύει. εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει θάνατος αὐτοῦ οὐκέτι κυριεύει. εἰδότες ὅτι Χριστὸς ἐγερθεὶς ἐκ νεκρῶν οὐκέτι ἀποθνῄσκει θάνατος αὐτοῦ οὐκέτι κυριεύει ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ, ζῇ τῷ Θεῷ. ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ, ζῇ τῷ θεῷ. ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ, ζῇ τῷ θεῷ. Ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ, ζῇ τῷ θεῷ. ὃ γὰρ ἀπέθανε, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ, ὃ δὲ ζῇ, ζῇ τῷ Θεῷ. ὃ γὰρ ἀπέθανεν, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ, ζῇ τῷ θεῷ. ὃ γὰρ ἀπέθανε, τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ, ζῇ τῷ Θεῷ. ὃ γὰρ ἀπέθανεν τῇ ἁμαρτίᾳ ἀπέθανεν ἐφάπαξ ὃ δὲ ζῇ ζῇ τῷ θεῷ",
+     "source": "https://biblehub.com/text/romans/6-8.htm; https://biblehub.com/text/romans/6-9.htm; https://biblehub.com/text/romans/6-10.htm",
+     "result": "agree (set-containment 1.000 — WH prints συνζήσομεν where the draft Byzantine family prints συζήσομεν (wave-38 class); dup-stream window 0.69 recorded)"
+    }
+   },
+   "diff_notes": "SPLICE: draft's KJV colon after 'once to sin' dropped — both editions print 'sinne but in that he liueth' (KJV reads 'unto sin once:'); the draft's 'died once to sin' word-order IS the 1599 print"
+  },
+  {
+   "id": "ROM.6.11",
+   "ref": "Romans 6:11",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10135,
+     "cited_as": "Romans 6:11 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10539,
+     "cited_as": "prose use (canon 10539)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Likewise thinke ye also, that ye are dead to sin, but are aliue to God in Iesus Christ our Lord.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Likewise thinke ye also, that ye are dead to sin, but are aliue to God in Iesus Christ our Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ Θεῷ ἐν Χριστῷ Ἰησοῦ. οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ Ἰησοῦ. οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ Ἰησοῦ. Οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς νεκροὺς μὲν εἴναι τῇ ἁμαρτίᾳ, ζῶντας δὲ τῷ θεῷ ἐν χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. οὕτω καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς νεκροὺς μὲν εἶναι τῇ ἁμαρτίᾳ, ζῶντας δὲ τῷ Θεῷ ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν. οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς εἶναι νεκροὺς μὲν τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ Ἰησοῦ. οὕτω καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς νεκροὺς μὲν εἶναι τῇ ἁμαρτίᾳ, ζῶντας δὲ τῷ Θεῷ ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν. οὕτως καὶ ὑμεῖς λογίζεσθε ἑαυτοὺς νεκροὺς μὲν εἶναι τῇ ἁμαρτίᾳ ζῶντας δὲ τῷ θεῷ ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν",
+     "source": "https://biblehub.com/text/romans/6-11.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 1.0 recorded)"
+    }
+   },
+   "diff_notes": "print folds only (thinke→think, Iesus→Jesus)"
+  },
+  {
+   "id": "ROM.6.12",
+   "ref": "Romans 6:12",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10169,
+     "cited_as": "Romans 6:12 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10539,
+     "cited_as": "prose use (canon 10539)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let not sinne reigne therefore in your mortal body, that ye should obey it in ye lusts therof:",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let not sinne reigne therefore in your mortal body, that ye should obey it in ye lusts therof:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ, Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ, Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ, Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι, εἰς τὸ ὑπακούειν αὐτῇ ἐν ταῖς ἐπιθυμίαις αὐτοῦ Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν αὐτῇ ἐν ταῖς ἐπιθυμίαις αὐτοῦ, μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν ταῖς ἐπιθυμίαις αὐτοῦ, Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι, εἰς τὸ ὑπακούειν αὐτῇ ἐν ταῖς ἐπιθυμίαις αὐτοῦ Μὴ οὖν βασιλευέτω ἡ ἁμαρτία ἐν τῷ θνητῷ ὑμῶν σώματι εἰς τὸ ὑπακούειν αὕτη ἐν ταῖς ἐπιθυμίαις αὐτοῦ μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ Θεῷ ὡσεὶ ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ Θεῷ, μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ὡσεὶ ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ὡσεὶ ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ὡς ἐκ νεκρῶν ζῶντας, καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ. μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ Θεῷ ὡς ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ Θεῷ. μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ, ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ὡσεὶ ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ ἀλλὰ παραστήσατε ἑαυτοὺς τῷ Θεῷ ὡς ἐκ νεκρῶν ζῶντας, καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ Θεῷ. μηδὲ παριστάνετε τὰ μέλη ὑμῶν ὅπλα ἀδικίας τῇ ἁμαρτίᾳ ἀλλὰ παραστήσατε ἑαυτοὺς τῷ θεῷ ὡς ἐκ νεκρῶν ζῶντας καὶ τὰ μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ θεῷ",
+     "source": "https://biblehub.com/text/romans/6-12.htm; https://biblehub.com/text/romans/6-13.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.917 recorded)"
+    }
+   },
+   "diff_notes": "print's article-ye 'in ye lusts therof' folded 'in the lusts thereof' (article-ye class); print 'reigne' folded"
+  },
+  {
+   "id": "ROM.6.14",
+   "ref": "Romans 6:14",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10209,
+     "cited_as": "Romans 6:14 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For sinne shall not haue dominion ouer you: for ye are not vnder ye Lawe, but vnder grace.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For sinne shall not haue dominion ouer you: for ye are not vnder ye Lawe, but vnder grace.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν. ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν. ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν. Ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει οὐ γάρ ἐστε ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν. ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει οὐ γάρ ἐστε ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν. ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει, οὐ γάρ ἐστε ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν. ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει οὐ γάρ ἐστε ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν. ἁμαρτία γὰρ ὑμῶν οὐ κυριεύσει οὐ γάρ ἐστε ὑπὸ νόμον ἀλλ",
+     "source": "https://biblehub.com/text/romans/6-14.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 1.0 recorded)"
+    }
+   },
+   "diff_notes": "print's article-ye 'vnder ye Lawe' folded 'under the Law' (article-ye class)"
+  },
+  {
+   "id": "ROM.6.15",
+   "ref": "Romans 6:15",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10244,
+     "cited_as": "Romans 6:15 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "What then? shall we sinne, because we are not vnder the Law, but vnder grace? God forbid.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "What then? shall we sinne, because we are not vnder the Law, but vnder grace? God forbid.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο ί οὖν; Ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; Μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλ ὑπὸ χάριν μὴ γένοιτο οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; Οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν δοῦλοί ἐστε ᾧ ὑπακούετε ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, Χάρις δὲ τῷ θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ Θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ",
+     "source": "https://biblehub.com/text/romans/6-15.htm; https://biblehub.com/text/romans/6-16.htm; https://biblehub.com/text/romans/6-17.htm; https://biblehub.com/text/romans/6-18.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.818 recorded)"
+    }
+   },
+   "diff_notes": "print's article-ye 'vnder the Law' folded; span seat with the draft ellipsis covering the v16 tail"
+  },
+  {
+   "id": "ROM.6.16",
+   "ref": "Romans 6:16",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10244,
+     "cited_as": "Romans 6:16 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Knowe ye not, that to whomsoeuer yee giue your selues as seruats to obey, his seruants ye are to whom ye obey, whether it be of sinne vnto death, or of obedience vnto righteousnesse?",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Knowe ye not, that to whomsoeuer yee giue your selues as seruats to obey, his seruants ye are to whom ye obey, whether it be of sinne vnto death, or of obedience vnto righteousnesse?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο ί οὖν; Ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; Μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλ ὑπὸ χάριν μὴ γένοιτο οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; Οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν δοῦλοί ἐστε ᾧ ὑπακούετε ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, Χάρις δὲ τῷ θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ Θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ",
+     "source": "https://biblehub.com/text/romans/6-15.htm; https://biblehub.com/text/romans/6-16.htm; https://biblehub.com/text/romans/6-17.htm; https://biblehub.com/text/romans/6-18.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.818 recorded)"
+    }
+   },
+   "diff_notes": "PARTIAL seat: draft ellipsis covers the v16 tail ('whether it be of sinne vnto death, or of obedience vnto righteousnes?') — head seated only"
+  },
+  {
+   "id": "ROM.6.17",
+   "ref": "Romans 6:17",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10244,
+     "cited_as": "Romans 6:17 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But God be thanked, that ye haue beene the seruants of sinne, but yee haue obeyed from the heart vnto the forme of the doctrine, wherunto ye were deliuered.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But God be thanked, that ye haue beene the seruants of sinne, but yee haue obeyed from the heart vnto the forme of the doctrine, wherunto ye were deliuered.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο ί οὖν; Ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; Μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλ ὑπὸ χάριν μὴ γένοιτο οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; Οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν δοῦλοί ἐστε ᾧ ὑπακούετε ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, Χάρις δὲ τῷ θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ Θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ",
+     "source": "https://biblehub.com/text/romans/6-15.htm; https://biblehub.com/text/romans/6-16.htm; https://biblehub.com/text/romans/6-17.htm; https://biblehub.com/text/romans/6-18.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.818 recorded)"
+    }
+   },
+   "diff_notes": "print folds only (seruants→servants, forme→form, wherunto→whereunto)"
+  },
+  {
+   "id": "ROM.6.18",
+   "ref": "Romans 6:18",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10244,
+     "cited_as": "Romans 6:18 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Being then made free from sinne, yee are made the seruants of righteousnesse.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Being then made free from sinne, yee are made the seruants of righteousnesse.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο ί οὖν; Ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; Μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσωμεν ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλὰ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν; ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν; μὴ γένοιτο. Τί οὖν ἁμαρτήσομεν, ὅτι οὐκ ἐσμὲν ὑπὸ νόμον ἀλλ ὑπὸ χάριν μὴ γένοιτο οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; Οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν, δοῦλοί ἐστε ᾧ ὑπακούετε, ἤτοι ἁμαρτίας εἰς θάνατον, ἢ ὑπακοῆς εἰς δικαιοσύνην; οὐκ οἴδατε ὅτι ᾧ παριστάνετε ἑαυτοὺς δούλους εἰς ὑπακοήν δοῦλοί ἐστε ᾧ ὑπακούετε ἤτοι ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς εἰς δικαιοσύνην χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, Χάρις δὲ τῷ θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ Θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς, χάρις δὲ τῷ Θεῷ, ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας, ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς χάρις δὲ τῷ θεῷ ὅτι ἦτε δοῦλοι τῆς ἁμαρτίας ὑπηκούσατε δὲ ἐκ καρδίας εἰς ὃν παρεδόθητε τύπον διδαχῆς ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας, ἐδουλώθητε τῇ δικαιοσύνῃ. ἐλευθερωθέντες δὲ ἀπὸ τῆς ἁμαρτίας ἐδουλώθητε τῇ δικαιοσύνῃ",
+     "source": "https://biblehub.com/text/romans/6-15.htm; https://biblehub.com/text/romans/6-16.htm; https://biblehub.com/text/romans/6-17.htm; https://biblehub.com/text/romans/6-18.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.818 recorded)"
+    }
+   },
+   "diff_notes": "print folds only (sinne→sin, seruants→servants)"
+  },
+  {
+   "id": "ROM.6.23",
+   "ref": "Romans 6:23",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10264,
+     "cited_as": "Romans 6:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the wages of sinne is death: but the gift of God is eternall life, through Iesus Christ our Lord.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the wages of sinne is death: but the gift of God is eternall life, through Iesus Christ our Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ Θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν. τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. ὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ Θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν. τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν. τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ Θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ Κυρίῳ ἡμῶν. τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν",
+     "source": "https://biblehub.com/text/romans/6-23.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 1.0 recorded)"
+    }
+   },
+   "diff_notes": "print folds only (sinne→sin, eternall→eternal, Iesus→Jesus); eBible chapter footer-glue 'Romans < 6 >' stripped fetch-side"
+  },
+  {
+   "id": "EPH.4.1",
+   "ref": "Ephesians 4:1",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10344,
+     "cited_as": "Ephesians 4:1 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I therefore, being prisoner in the Lord, praie you that yee walke worthie of the vocation whereunto yee are called,",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I therefore, being prisoner in the Lord, praie you that yee walke worthie of the vocation whereunto yee are called,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν Κυρίῳ ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, Παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν κυρίῳ ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, Παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν κυρίῳ ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, Παρακαλῶ οὖν ὑμᾶς ἐγώ, ὁ δέσμιος ἐν κυρίῳ, ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, Παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν Κυρίῳ, ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, παρακαλέω οὖν ὑμεῖς ἐγώ ὁ δέσμιος ἐν κύριος ἀξίως περιπατέω ὁ κλῆσις ὅς καλέω Παρακαλῶ οὖν ὑμᾶς ἐγὼ, ὁ δέσμιος ἐν Κυρίῳ, ἀξίως περιπατῆσαι τῆς κλήσεως ἧς ἐκλήθητε, Παρακαλῶ οὖν ὑμᾶς ἐγὼ ὁ δέσμιος ἐν κυρίῳ ἀξίως περιπατῆσαι τῆς κλήσεως ἡς ἐκλήθητε",
+     "source": "https://biblehub.com/text/ephesians/4-1.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 1.0 recorded)"
+    }
+   },
+   "diff_notes": "print folds only (praie→pray, worthie→worthy); 'pray you' IS the 1599's own rendering (not KJV 'beseech')"
+  },
+  {
+   "id": "GAL.5.25",
+   "ref": "Galatians 5:25",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10385,
+     "cited_as": "Galatians 5:25 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If we liue in the Spirit, let vs also walke in the Spirit.",
+     "source": "https://ebible.org/enggnv/GAL05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If we liue in the Spirit, let vs also walke in the Spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οἱ δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. Οἱ δὲ τοῦ χριστοῦ, τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασι καὶ ταῖς ἐπιθυμίαις. ὁ δέ ὁ Χριστός Ἰησοῦς ὁ σάρξ σταυρόω σύν ὁ πάθημα καί ὁ ἐπιθυμία οἱ δὲ τοῦ Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασι καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις Εἰ ζῶμεν Πνεύματι, Πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. εἰ ζάω πνεῦμα πνεῦμα καί στοιχέω Εἰ ζῶμεν Πνεύματι, Πνεύματι καὶ στοιχῶμεν. εἰ ζῶμεν πνεύματι πνεύματι καὶ στοιχῶμεν",
+     "source": "https://biblehub.com/text/galatians/5-24.htm; https://biblehub.com/text/galatians/5-25.htm",
+     "result": "agree (set-containment 1.000 — token-fold class only; dup-stream window 0.947 recorded)"
+    }
+   },
+   "diff_notes": "print folds only (liue→live, vs→us, walke→walk)"
+  },
+  {
+   "id": "EPH.4.22",
+   "ref": "Ephesians 4:22",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10405,
+     "cited_as": "Ephesians 4:22 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That is, that yee cast off, concerning the conuersation in time past, that olde man, which is corrupt through the deceiueable lustes,",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That is, that yee cast off, concerning the conuersation in time past, that olde man, which is corrupt through the deceiueable lustes,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποθέσθαι ὑμᾶς, κατὰ τὴν προτέραν ἀναστροφήν, τὸν παλαιὸν ἄνθρωπον, τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποτίθημι ὑμεῖς κατά ὁ πρότερος ἀναστροφή ὁ παλαιός ἄνθρωπος ὁ φθείρω κατά ὁ ἐπιθυμία ὁ ἀπάτη ἀποθέσθαι ὑμᾶς, κατὰ τὴν προτέραν ἀναστροφὴν, τὸν παλαιὸν ἄνθρωπον, τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν ἀνανεόω δέ ὁ πνεῦμα ὁ νοῦς ὑμεῖς ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον, τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καί ἐνδύω ὁ καινός ἄνθρωπος ὁ κατά θεός κτίζω ἐν δικαιοσύνη καί ὁσιότης ὁ ἀλήθεια καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον, τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας",
+     "source": "https://biblehub.com/text/ephesians/4-22.htm; https://biblehub.com/text/ephesians/4-23.htm; https://biblehub.com/text/ephesians/4-24.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.667 recorded)"
+    }
+   },
+   "diff_notes": "print 'renued' folded 'renewed' (modern-spelling class)"
+  },
+  {
+   "id": "EPH.4.23",
+   "ref": "Ephesians 4:23",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10405,
+     "cited_as": "Ephesians 4:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And be renued in the spirit of your minde,",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And be renued in the spirit of your minde,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": "print 'renued' folded 'renewed'"
+  },
+  {
+   "id": "EPH.4.24",
+   "ref": "Ephesians 4:24",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10405,
+     "cited_as": "Ephesians 4:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And put on ye new man, which after God is created vnto righteousnes, and true holines.",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And put on ye new man, which after God is created vnto righteousnes, and true holines.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποθέσθαι ὑμᾶς, κατὰ τὴν προτέραν ἀναστροφήν, τὸν παλαιὸν ἄνθρωπον, τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης, ἀποτίθημι ὑμεῖς κατά ὁ πρότερος ἀναστροφή ὁ παλαιός ἄνθρωπος ὁ φθείρω κατά ὁ ἐπιθυμία ὁ ἀπάτη ἀποθέσθαι ὑμᾶς, κατὰ τὴν προτέραν ἀναστροφὴν, τὸν παλαιὸν ἄνθρωπον, τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης ἀποθέσθαι ὑμᾶς κατὰ τὴν προτέραν ἀναστροφὴν τὸν παλαιὸν ἄνθρωπον τὸν φθειρόμενον κατὰ τὰς ἐπιθυμίας τῆς ἀπάτης ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν ἀνανεόω δέ ὁ πνεῦμα ὁ νοῦς ὑμεῖς ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν, ἀνανεοῦσθαι δὲ τῷ πνεύματι τοῦ νοὸς ὑμῶν καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον, τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καί ἐνδύω ὁ καινός ἄνθρωπος ὁ κατά θεός κτίζω ἐν δικαιοσύνη καί ὁσιότης ὁ ἀλήθεια καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον, τὸν κατὰ Θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας. καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας",
+     "source": "https://biblehub.com/text/ephesians/4-22.htm; https://biblehub.com/text/ephesians/4-23.htm; https://biblehub.com/text/ephesians/4-24.htm",
+     "result": "agree (set-containment 1.000; dup-stream window 0.667 recorded)"
+    }
+   },
+   "diff_notes": "print's article-ye 'ye new man' folded 'the new man'; righteousnes→righteousness, holines→holiness modern folds"
+  },
+  {
+   "id": "ROM.5.20",
+   "ref": "Romans 5:20",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10003,
+     "cited_as": "THE CONTEXT prose quote of Rom 5:20-21 (canon 10003)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "paraphrase + KJV-voiced quote flagged",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Moreouer the Law entred thereupon that the offence shoulde abound: neuerthelesse, where sinne abounded, there grace abounded much more:",
+     "source": "https://ebible.org/enggnv/ROM05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Moreouer the Law entred thereupon that the offence shoulde abound: neuerthelesse, where sinne abounded, there grace abounded much more:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": "",
+   "flag": {
+    "kind": "proposed-correction",
+    "awaiting": true,
+    "detail": "draft quote (canon 10003) 'where sin abounded, grace did much more abound' is KJV-voiced; 1599 prints 'Moreouer the Law entred thereupon that the offence shoulde abound: neuerthelesse, where sinne abounded, there grace abounded much more:' — italic version-name or re-voice awaits Gideon"
+   }
+  },
+  {
+   "id": "ROM.5.21",
+   "ref": "Romans 5:21",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10003,
+     "cited_as": "THE CONTEXT prose (canon 10003) — paraphrase of grace reigning",
+     "quotes": [],
+     "status": "anchor",
+     "note": "draft paraphrase, no quote marks",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That as sinne had reigned vnto death, so might grace also reigne by righteousnesse vnto eternall life, through Iesus Christ our Lord.",
+     "source": "https://ebible.org/enggnv/ROM05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That as sinne had reigned vnto death, so might grace also reigne by righteousnesse vnto eternall life, through Iesus Christ our Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.6.19",
+   "ref": "Romans 6:19",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10254,
+     "cited_as": "Romans 6:15-23 Observation v.19 mention (canon 10254)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "print own \"mebers\" typo kept — both editions",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I speake after the maner of man, because of the infirmitie of your flesh: for as yee haue giuen your members seruants to vncleannes and to iniquitie, to commit iniquitie, so now giue your mebers seruants vnto righteousnesse in holinesse.",
+     "source": "https://ebible.org/enggnv/ROM06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I speake after the maner of man, because of the infirmitie of your flesh: for as yee haue giuen your members seruants to vncleannes and to iniquitie, to commit iniquitie, so now giue your mebers seruants vnto righteousnesse in holinesse.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": "print's own 'mebers' typo kept verbatim — BOTH eBible and TRB print it"
+  },
+  {
+   "id": "ROM.8.13",
+   "ref": "Romans 8:13",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10505,
+     "cited_as": "Practical §6 mention \"puts to death the deeds of the body\" (canon 10505)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For if ye liue after the flesh, ye shall die: but if yee mortifie the deedes of the body by the Spirit, ye shall liue.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For if ye liue after the flesh, ye shall die: but if yee mortifie the deedes of the body by the Spirit, ye shall liue.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.12.1",
+   "ref": "Romans 12:1",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10442,
+     "cited_as": "Practical §2 mention \"a living sacrifice\" (canon 10442)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.",
+     "source": "https://ebible.org/enggnv/ROM12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/12",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "2CO.10.5",
+   "ref": "2 Corinthians 10:5",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10450,
+     "cited_as": "Practical §2 mention \"taken captive to obey Christ\" (canon 10450)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Casting downe the imaginations, and euery high thing that is exalted against the knowledge of God, and bringing into captiuitie euery thought to the obedience of Christ,",
+     "source": "https://ebible.org/enggnv/2CO10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Casting downe the imaginations, and euery high thing that is exalted against the knowledge of God, and bringing into captiuitie euery thought to the obedience of Christ,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/10",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "GAL.5.22",
+   "ref": "Galatians 5:22",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10505,
+     "cited_as": "Practical §6 mention \"fruit of the Spirit\" (canon 10505)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,",
+     "source": "https://ebible.org/enggnv/GAL05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "GAL.5.23",
+   "ref": "Galatians 5:23",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10505,
+     "cited_as": "Practical §6 mention \"fruit of the Spirit\" (canon 10505)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Meekenesse, temperancie: against such there is no lawe.",
+     "source": "https://ebible.org/enggnv/GAL05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Meekenesse, temperancie: against such there is no lawe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "HEB.2.14",
+   "ref": "Hebrews 2:14",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10522,
+     "cited_as": "Pattern-spheres table \"Fear of death (Heb 2:14-15)\" (canon 10522)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Forasmuch then as the children are partakers of flesh and blood, he also himselfe likewise tooke part with them, that hee might destroye through death, him that had the power of death, that is the deuil,",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Forasmuch then as the children are partakers of flesh and blood, he also himselfe likewise tooke part with them, that hee might destroye through death, him that had the power of death, that is the deuil,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "HEB.2.15",
+   "ref": "Hebrews 2:15",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10522,
+     "cited_as": "Pattern-spheres table \"Fear of death (Heb 2:14-15)\" (canon 10522)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And that he might deliuer all them, which for feare of death were all their life time subiect to bondage.",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And that he might deliuer all them, which for feare of death were all their life time subiect to bondage.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "EPH.2.10",
+   "ref": "Ephesians 2:10",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10524,
+     "cited_as": "Pattern-spheres table \"Created in Christ for good works (Eph 2:10)\" (canon 10524)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we are his workemanship created in Christ Iesus vnto good workes, which God hath ordeined, that we should walke in them.",
+     "source": "https://ebible.org/enggnv/EPH02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we are his workemanship created in Christ Iesus vnto good workes, which God hath ordeined, that we should walke in them.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "EPH.2.19",
+   "ref": "Ephesians 2:19",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10333,
+     "cited_as": "Eph indicative list bullets (canon 10333-10334)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Nowe therefore ye are no more strangers and forreiners: but citizens with the Saintes, and of the houshold of God,",
+     "source": "https://ebible.org/enggnv/EPH02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Nowe therefore ye are no more strangers and forreiners: but citizens with the Saintes, and of the houshold of God,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "PHP.4.8",
+   "ref": "Philippians 4:8",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10199,
+     "cited_as": "Rom 6:12-13 obs (6) virtue-list cf. (canon 10199)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "draft list is KJV-ish paraphrase (\"of good report\"); GNV \"honest\"; observation paraphrase, not seated as quote",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Furthermore, brethre, whatsoeuer things are true, whatsoeuer things are honest, whatsoeuer thinges are iust, whatsoeuer thinges are pure, whatsoeuer thinges are worthie loue, whatsoeuer things are of good report, if there be any vertue, or if there be any praise, thinke on these things,",
+     "source": "https://ebible.org/enggnv/PHP04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Furthermore, brethre, whatsoeuer things are true, whatsoeuer things are honest, whatsoeuer thinges are iust, whatsoeuer thinges are pure, whatsoeuer thinges are worthie loue, whatsoeuer things are of good report, if there be any vertue, or if there be any praise, thinke on these things,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "1JN.1.7",
+   "ref": "1 John 1:7",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10493,
+     "cited_as": "Practical §5 prose \"the blood of Christ cleanses me from all sin (1 John 1:7-9)\" (canon 10493)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "believer-speech echo; 1599 reads \"the bloud of Iesus Christ his Sonne cleanseth vs from all sinne\"",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But if we walke in the light as he is in the light, we haue fellowship one with another, and the blood of Iesus Christ his Sonne clenseth vs from all sinne.",
+     "source": "https://ebible.org/enggnv/1JN01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But if we walke in the light as he is in the light, we haue fellowship one with another, and the blood of Iesus Christ his Sonne clenseth vs from all sinne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/62/1",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "1JN.1.8",
+   "ref": "1 John 1:8",
+   "uses": [
+    {
+     "section": "COS-69",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
+     "article_line": 10493,
+     "cited_as": "Practical §5 prose \"(1 John 1:7-9)\" range mention (canon 10493)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
      "quote_kind": "anchor"
     }
    ],

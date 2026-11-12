@@ -120,8 +120,17 @@ next wave)
 63. (D) Romans 8:17 — The Foundational Text (COS-67 COMPLETE: the verse seated from the
 verified 1599 print — draft exact-modern, no splice; the εἴπερ conditional examined; co-suffering
 normative, corporate, and the path to co-glorification)
-64. (D) What Does "Suffering with Christ" Mean? (COS-68 OPEN — Categories 1-2 seated:
+64. (D) What Does "Suffering with Christ" Mean? (COS-68 COMPLETE:
 Righteousness-sake persecution (Matt 5:10-12, John 15:18-20, 2 Tim 3:12) and the world's hatred
 for His Name (John 15:21, Acts 5:41, 1 Peter 4:14-16), every seat exact-modern of the verified
-1599 print; Categories 3-8, the modern-believer block, What-Is-Not, The Gifts, and the Grand
-Synthesis seat next waves)
+1599 print; Categories 3-8, the modern-believer block, What-Is-Not, The Gifts, the Grand
+Synthesis, and Final Observation seated in the recovery run)
+
+65. (A) THE INDICATIVE-TO-IMPERATIVE PATTERN (COS-69 — the Romans-6 arc seated complete:
+vv 1-2, 3-5, 6-7, 8-10, 11, 12-13, 14, 15-18 selections, 23 + the cross-witnesses Eph 4:1,
+Col 3:1-5, Gal 5:24-25, Eph 4:22-24 + the practical-implications close and the (A) answer.
+Three splices: Rom 6:1-2 print punctuation kept and the 1599 verse-initial cap 'Howe' folded
+'how'; Rom 6:10 draft's KJV colon dropped (both prints agree on 'to sinne but'); Col 3:2 print
+plural 'affections' over draft's KJV singular. WH-Greek set-containment 1.000 on all 13 draft
+Greek blocks (Rom 6:8 συζ/συν variant row-recorded); EB==TRB 47/47 exact after a newline-form
+footer-glue strip. Next: (A) Romans 8 — life in the Spirit)
