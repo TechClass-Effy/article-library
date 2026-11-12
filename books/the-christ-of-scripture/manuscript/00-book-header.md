@@ -143,3 +143,14 @@ restored (the wave-32 seat matches the print); 8:12 "detters" print-verbatim + g
 print cry-comma; 8:28-30 "predestinate" x2 gloss; Eph 5:18 "fulfilled" 1599 idiom + gloss; Phil 2:12 "make an end
 of" over draft KJV "work out". EB==TRB 40/40 after a new eBible tnav footer-glue strip (Rom 8:39). WH-Greek set-
 containment recorded on all draft blocks. NEXT: PART 1 — ROMANS 12 (canon 11166))
+67. (C) PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND (COS-71 — the ou pivot;
+the living-sacrifice seat 12:1-2 and the renewed mind in action 12:9-21 selections, with the 12:14-21
+enemy-response and the 12:19 verse-tail "Vengeance is mine... I will repay" restored from the 1599 print).
+68. (C) PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH (COS-72 — freedom 5:1;
+love's whole law 5:13-15 with 5:15 restored; works of the flesh 5:19-21 with the print "murthers" glossed;
+the singular fruit 5:22-23; crucified flesh 5:24-25).
+69. (C) PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON (COS-73 — indicative foundation 3:1-4;
+putting off 3:5-9; the new man 3:10-11; garments 3:12-15 with the 3:15 tail restored; the governing
+principle 3:17; the household table 3:18-4:1 with every summary fragment restored to the full print verse).
+70. (C) GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER (COS-74 — the common-pattern table verbatim; the
+single practical theology; the modern application; A CLOSING OBSERVATION; the A-D question).

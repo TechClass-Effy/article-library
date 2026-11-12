@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**984 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1018 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1155 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1189 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4844,7 +4844,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### HEB 10 12 — CONFIRMED
 *cited as: table use on this run's row*
@@ -9038,13 +9038,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “For ye are dead, and your life is hid with Christ in God.”
 - *Note:* good-reason: the fragment is the Geneva at modern spelling; recorded on the row (10 Nov rule).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:4 — FLAGGED
 *cited as: prose fragment*
 - **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### 1 John 5:11 — FLAGGED
 *cited as: prose quote*
@@ -9413,19 +9413,19 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation span quote (with 3:2 + 3:4) — draft "sitteth on" where 1599 prints "sitteth at"*
 - **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:2 — PROSE-REF
 *cited as: observation span quote (with 3:1 + 3:4; the draft opens the quote with this verse)*
 - **Geneva 1599:** “Set your affections on things which are aboue, and not on things which are on the earth.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:4 — PROSE-REF
 *cited as: observation span tail (standing wave-33 flag unchanged)*
 - **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### 1 John 3:2 — PROSE-REF
 *cited as: observation quote: tail exact ("for we shall see him as he is"); head "when he shall appear" is KJV — 1599 reads "when he shalbe made manifest"*
@@ -9809,7 +9809,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Galatians 5:24*
 - **Geneva 1599:** “For they that are Christes, haue crucified the flesh with the affections and the lustes.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.947)*
 
 ### Galatians 6:14 — PROSE-REF
 *cited as: Galatians 6:14*
@@ -9840,7 +9840,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “For ye are dead, and your life is hid with Christ in God.”
 - *Note:* POINT-2 seat (draft exact-modern — no splice)
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Romans 6:4 — CONFIRMED
 *cited as: Romans 6:4*
@@ -9867,7 +9867,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
 - *Note:* POINT-4 seat (draft exact-modern; draft "sitteth at" matches the 1599 print)
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Ephesians 2:5 — CONFIRMED
 *cited as: Ephesians 2:5*
@@ -10108,7 +10108,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)*
 - **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### 1 John 3:2 — CONFIRMED
 *cited as: Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)*
@@ -10450,7 +10450,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Mortifie therefore your members which are on the earth, fornication, vncleannes, the inordinate affection, euill concupiscence, and couetousnes which is idolatrie.”
 - *Note:* mortification mention (modern-believer §3)
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
 
 ### Matthew 10:34-37 — ANCHOR
 *cited as: Matthew 10:34-37 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
@@ -10766,43 +10766,43 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: span seat*
 - **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:2 — CONFIRMED
 *cited as: span seat*
 - **Geneva 1599:** “Set your affections on things which are aboue, and not on things which are on the earth.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:3 — CONFIRMED
 *cited as: span seat*
 - **Geneva 1599:** “For ye are dead, and your life is hid with Christ in God.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:4 — CONFIRMED
 *cited as: span seat*
 - **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Colossians 3:5 — CONFIRMED
 *cited as: span seat*
 - **Geneva 1599:** “Mortifie therefore your members which are on the earth, fornication, vncleannes, the inordinate affection, euill concupiscence, and couetousnes which is idolatrie.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
 
 ### Galatians 5:24 — CONFIRMED
 *cited as: span seat*
 - **Geneva 1599:** “For they that are Christes, haue crucified the flesh with the affections and the lustes.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.947)*
 
 ### Galatians 5:25 — CONFIRMED
 *cited as: Galatians 5:25 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
 - **Geneva 1599:** “If we liue in the Spirit, let vs also walke in the Spirit.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.947)*
 
 ### Ephesians 4:22 — CONFIRMED
 *cited as: Ephesians 4:22 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
@@ -10832,7 +10832,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Practical §2 mention "a living sacrifice" (canon 10442)*
 - **Geneva 1599:** “I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.955)*
 
 ### 2 Corinthians 10:5 — ANCHOR
 *cited as: Practical §2 mention "taken captive to obey Christ" (canon 10450)*
@@ -10874,13 +10874,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Practical §6 mention "fruit of the Spirit" (canon 10505)*
 - **Geneva 1599:** “But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.81)*
 
 ### Galatians 5:23 — ANCHOR
 *cited as: Practical §6 mention "fruit of the Spirit" (canon 10505)*
 - **Geneva 1599:** “Meekenesse, temperancie: against such there is no lawe.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.81)*
 
 ### Galatians 6:14 — ANCHOR
 *cited as: prose use (canon 10520)*
@@ -11038,7 +11038,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention — "presented as instruments... (Rom 6:13; 12:1)" (canon 10754)*
 - **Geneva 1599:** “I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.955)*
 
 ### Romans 8:13 — CONFIRMED
 *cited as: Romans 8:12-13 span seat; practical §2 v.13 ref (canon 10928); architecture row (canon 11084)*
@@ -11153,14 +11153,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,”
 - *Note:* banked==fresh asserted
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.81)*
 
 ### Galatians 5:23 — CONFIRMED
 *cited as: Geneva seat cross-witness §3 (tail verse)*
 - **Geneva 1599:** “Meekenesse, temperancie: against such there is no lawe.”
 - *Note:* banked==fresh asserted
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.81)*
 
 ### Romans 6:11 — ANCHOR
 *cited as: mention — "Reckon (Rom 6:11)" (canon 11008)*
@@ -11172,7 +11172,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention — "Set the mind on things above (Col 3:2)" (canon 11013)*
 - **Geneva 1599:** “Set your affections on things which are aboue, and not on things which are on the earth.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
 
 ### Galatians 5:16 — CONFIRMED
 *cited as: Galatians 5:16-17 selection seat (draft ellipsis covers the print tail "so that ye can not doe..."); practical §2 ref (canon 10930); §8 ref (canon 11011)*
@@ -11215,6 +11215,300 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* draft fragment; ellipsis head covers the print v12 opening; draft "work out your own salvation" is KJV idiom — the 1599 print reads "so make an end of your owne saluation" (eBible==TRB).
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.952*
+
+## PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND
+
+### Romans 12:1 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11180)*
+- **Geneva 1599:** “I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.955)*
+
+### Romans 12:2 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11220)*
+- **Geneva 1599:** “And fashion not your selues like vnto this worlde, but bee yee changed by the renewing of your minde, that ye may prooue what that good, and acceptable and perfect will of God is.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 1.0)*
+
+### Romans 12:9 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11295)*
+- **Geneva 1599:** “Let loue be without dissimulation. Abhorre that which is euill, and cleaue vnto that which is good.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.875)*
+
+### Romans 12:10 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11295)*
+- **Geneva 1599:** “Be affectioned to loue one another with brotherly loue. In giuing honour, goe one before another,”
+- *Note:* draft ellipsis covers vv11-13 (not seated)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.875)*
+
+### Romans 12:14 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11309)*
+- **Geneva 1599:** “Blesse them which persecute you: blesse, I say, and curse not.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.833)*
+
+### Romans 12:17 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11309)*
+- **Geneva 1599:** “Recompence to no man euill for euill: procure things honest in the sight of all men.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.833)*
+
+### Romans 12:19 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11309)*
+- **Geneva 1599:** “Dearely beloued, auenge not your selues, but giue place vnto wrath: for it is written, Vengeance is mine: I will repay, saith the Lord.”
+- *Note:* SPLICE+RESTORE: draft dropped "rather" and cut the tail "for it is written, Vengeance is mine, I will repay, saith the Lord." — full print verse seated (wave-24 REV-1:7 precedent)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.833)*
+
+### Romans 12:21 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11309)*
+- **Geneva 1599:** “Bee not ouercome of euill, but ouercome euill with goodnesse.”
+- *Note:* vv18+20 pass under the draft ellipses (not seated)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.833)*
+
+### Romans 12:18 — ANCHOR
+*cited as: 1599 Geneva paraphrase (canon 11739)*
+- **Geneva 1599:** “If it bee possible, as much as in you is, haue peace with all men.”
+- *Note:* prose paraphrase "Be at peace with all men so far as it depends on you" (canon 11739); anchor row
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+## PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH
+
+### Galatians 5:1 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11337)*
+- **Geneva 1599:** “Stand fast therefore in the libertie wherewith Christ hath made vs free, and be not intangled againe with the yoke of bondage.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.923)*
+
+### Galatians 5:13 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11355)*
+- **Geneva 1599:** “For brethren, ye haue bene called vnto libertie: onely vse not your libertie as an occasion vnto the flesh, but by loue serue one another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.853)*
+
+### Galatians 5:14 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11355)*
+- **Geneva 1599:** “For all the Lawe is fulfilled in one worde, which is this, Thou shalt loue thy neighbour as thy selfe.”
+- *Note:* the seat print carries the Geneva in-line Lev 19:18 rendering (LEV.19.18 anchored separately); print "neyghbour" folded
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.853)*
+
+### Galatians 5:15 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11355)*
+- **Geneva 1599:** “If ye bite and deuoure one another, take heede least ye be consumed one of another.”
+- *Note:* RESTORED: draft omitted v15 though the heading covers 13-15 — full print verse seated; print "least" seat-verbatim + *(lest)* gloss (1599 spelling of lest); print "deuoure" folded
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Leviticus 19:18 — ANCHOR
+*cited as: 1599 Geneva anchor (canon 11363)*
+- **Geneva 1599:** “Thou shalt not auenge, nor be mindful of wrong against ye childre of thy people, but shalt loue thy neighbour as thy selfe: I am the Lord.”
+- *Note:* prose ref "citing Lev 19:18" (canon 11363); quote lives inside the Gal 5:14 Geneva print; draft cites without quoting; no NETS Leviticus master
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 5:19 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11403)*
+- **Geneva 1599:** “Moreouer the workes of the flesh are manifest, which are adulterie, fornication, vncleannes, wantonnes,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.641)*
+
+### Galatians 5:20 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11403)*
+- **Geneva 1599:** “Idolatrie, witchcraft, hatred, debate, emulations, wrath, contentions, seditions, heresies,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.641)*
+
+### Galatians 5:21 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11403)*
+- **Geneva 1599:** “Enuie, murthers, drunkennesse, gluttonie, and such like, whereof I tell you before, as I also haue tolde you before, that they which doe such things, shall not inherite the kingdome of God.”
+- *Note:* 1599 print "murthers" seat-verbatim + *(murders)* gloss
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.641)*
+
+### Galatians 5:22 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11433)*
+- **Geneva 1599:** “But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.81)*
+
+### Galatians 5:23 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11433)*
+- **Geneva 1599:** “Meekenesse, temperancie: against such there is no lawe.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.81)*
+
+### Galatians 5:24 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11471)*
+- **Geneva 1599:** “For they that are Christes, haue crucified the flesh with the affections and the lustes.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.947)*
+
+### Galatians 5:25 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11471)*
+- **Geneva 1599:** “If we liue in the Spirit, let vs also walke in the Spirit.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.947)*
+
+## PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON
+
+### COL 3 1 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11505)*
+- **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
+
+### Colossians 3:2 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11505)*
+- **Geneva 1599:** “Set your affections on things which are aboue, and not on things which are on the earth.”
+- *Note:* SPLICE: print "affections" plural over draft KJV "affection" (wave-36 print fact, seated)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
+
+### Colossians 3:3 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11505)*
+- **Geneva 1599:** “For ye are dead, and your life is hid with Christ in God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
+
+### Colossians 3:4 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11505)*
+- **Geneva 1599:** “When Christ which is our life, shall appeare, then shall ye also appeare with him in glory.”
+- *Note:* draft-KJV comma after "life" dropped — print "our life shall appear"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.537)*
+
+### Colossians 3:5 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11538)*
+- **Geneva 1599:** “Mortifie therefore your members which are on the earth, fornication, vncleannes, the inordinate affection, euill concupiscence, and couetousnes which is idolatrie.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
+
+### Colossians 3:6 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11538)*
+- **Geneva 1599:** “For the which things sake ye wrath of God commeth on the children of disobedience.”
+- *Note:* eBible print article-ye "ye wrath" folded to "the wrath" (wave-25 class); print "commeth" folded
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
+
+### Colossians 3:7 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11538)*
+- **Geneva 1599:** “Wherein ye also walked once, when ye liued in them.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
+
+### Colossians 3:8 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11538)*
+- **Geneva 1599:** “But now put ye away euen all these things, wrath, anger, maliciousnes, cursed speaking, filthie speaking, out of your mouth.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
+
+### Colossians 3:9 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11538)*
+- **Geneva 1599:** “Lie not one to another, seeing that yee haue put off the olde man with his workes,”
+- *Note:* print trailing comma kept (v10 continues)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.467)*
+
+### Colossians 3:10 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11582)*
+- **Geneva 1599:** “And haue put on the newe, which is renewed in knowledge after the image of him that created him,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.931)*
+
+### Colossians 3:11 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11582)*
+- **Geneva 1599:** “Where is neither Grecian nor Iewe, circumcision nor vncircumcision, Barbarian, Scythian, bond, free: But Christ is all, and in all things.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.931)*
+
+### Colossians 3:12 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11614)*
+- **Geneva 1599:** “Now therfore as the elect of God holy and beloued, put on the bowels of mercies, kindnesse, humblenesse of minde, meekenesse, long suffering:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.569)*
+
+### Colossians 3:13 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11614)*
+- **Geneva 1599:** “Forbearing one another, and forgiuing one another, if any man haue a quarel to another: euen as Christ forgaue, euen so doe ye.”
+- *Note:* SPLICE: draft added "you" — print "even as Christ forgave, even so do ye."
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.569)*
+
+### Colossians 3:14 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11614)*
+- **Geneva 1599:** “And aboue all these thinges put on loue, which is the bond of perfectnes.”
+- *Note:* draft-KJV comma after "things" dropped — print "all these things put on love"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.569)*
+
+### Colossians 3:15 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11614)*
+- **Geneva 1599:** “And let the peace of God rule in your hearts, to the which ye are called in one body, and be ye thankfull.”
+- *Note:* SPLICE+RESTORE: verse tail "to the which ye are called in one body, and be ye thankful." restored
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.569)*
+
+### Colossians 3:18 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11651)*
+- **Geneva 1599:** “Wiues, submit your selues vnto your husbands, as it is comely in the Lord.”
+- *Note:* summary fragment restored to full print verse
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.8)*
+
+### Colossians 3:19 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11651)*
+- **Geneva 1599:** “Husbands, loue your wiues, and be not bitter vnto them.”
+- *Note:* summary fragment restored (and be not bitter unto them)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.8)*
+
+### Colossians 3:20 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11651)*
+- **Geneva 1599:** “Children, obey your parents in all thing for that is well pleasing vnto the Lord.”
+- *Note:* summary fragment; print "in all thing" seat-verbatim + *(things)* gloss
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.8)*
+
+### Colossians 3:21 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11651)*
+- **Geneva 1599:** “Fathers, prouoke not your children to anger, least they be discouraged.”
+- *Note:* summary fragment restored (least *(lest)* they be discouraged) — print "least" seat-verbatim + *(lest)* gloss
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.8)*
+
+### Colossians 3:22 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11651)*
+- **Geneva 1599:** “Seruants, be obedient vnto them that are your masters according to the flesh, in all things, not with eye seruice as men pleasers, but in singlenes of heart, fearing God.”
+- *Note:* summary fragment restored to full verse; v23 passes under the ellipsis (not seated)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.8)*
+
+### Colossians 4:1 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11651)*
+- **Geneva 1599:** “Ye masters, doe vnto your seruants, that which is iust, and equall, knowing that ye also haue a master in heauen.”
+- *Note:* summary fragment restored to the full print verse; print "Ye masters" head restored (draft dropped "Ye")
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.8)*
+
+### Colossians 3:17 — CONFIRMED
+*cited as: 1599 Geneva seat (canon 11672)*
+- **Geneva 1599:** “And whatsoeuer ye shall doe, in worde or deede, doe all in the Name of the Lord Iesus, giuing thankes to God euen the Father by him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 1.0)*
+
+## GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER
+
+### Romans 13:12 — ANCHOR
+*cited as: 1599 Geneva anchor (canon 11702)*
+- **Geneva 1599:** “The night is past, and the day is at hande, let vs therefore cast away the workes of darkenesse, and let vs put on the armour of light,”
+- *Note:* synthesis table cell "Cast off works of darkness" paraphrase (canon 11702)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -13094,7 +13388,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -13188,15 +13482,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:19 | COS-21 | confirmed |
 | Colossians 2:9 | COS-55 | anchor |
 | Colossians 1:20 | COS-21 | confirmed |
-| COL 3 1 | COS-34, COS-62, COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Colossians 3:2 | COS-62, COS-69, COS-70 | anchor, confirmed, prose-ref |
-| Colossians 3:3 | COS-60, COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Colossians 3:4 | COS-60, COS-62, COS-66, COS-69 | anchor, confirmed, flagged, prose-ref |
+| COL 3 1 | COS-34, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
+| Colossians 3:2 | COS-62, COS-69, COS-70, COS-73 | anchor, confirmed, prose-ref |
+| Colossians 3:3 | COS-60, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
+| Colossians 3:4 | COS-60, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, flagged, prose-ref |
 | Dan 7:10 | COS-35, COS-38 | confirmed |
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -13292,7 +13586,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 3:14 | COS-58 | prose-ref |
 | Galatians 4:4 | COS-01, COS-19, COS-66 | confirmed, confirmed (excerpt) |
 | Galatians 4:6 | COS-55, COS-60, COS-66 | anchor, confirmed, prose-ref |
-| Galatians 5:24 | COS-66, COS-69 | anchor, confirmed, prose-ref |
+| Galatians 5:24 | COS-66, COS-69, COS-72 | anchor, confirmed, prose-ref |
 | Galatians 6:14 | COS-66, COS-69 | anchor, prose-ref |
 | Genesis 1:1 | COS-01 | anchor |
 | Genesis 1:14 | SAB10, SAB13 | confirmed (excerpt), recap cross-reference |
@@ -13519,7 +13813,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -13811,7 +14105,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -14124,7 +14418,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 13:3 | COS-68 | anchor |
 | 1 Peter 1:4 | COS-68 | anchor |
 | Romans 12:15 | COS-68 | anchor |
-| Colossians 3:5 | COS-68, COS-69 | anchor, confirmed |
+| Colossians 3:5 | COS-68, COS-69, COS-73 | anchor, confirmed |
 | Colossians 2:23 | COS-68 | anchor |
 | Matthew 10:34-37 | COS-68 | anchor |
 | Hebrews 5:8 | COS-68 | anchor |
@@ -14142,7 +14436,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:18 | COS-69 | confirmed |
 | Romans 6:23 | COS-69 | confirmed |
 | Ephesians 4:1 | COS-69 | confirmed |
-| Galatians 5:25 | COS-69 | confirmed |
+| Galatians 5:25 | COS-69, COS-72 | confirmed |
 | Ephesians 4:22 | COS-69 | confirmed |
 | Ephesians 4:23 | COS-69 | confirmed |
 | Ephesians 4:24 | COS-69 | confirmed |
@@ -14150,10 +14444,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:21 | COS-69 | anchor |
 | Romans 6:19 | COS-69 | anchor |
 | Romans 8:13 | COS-69, COS-70 | anchor, confirmed |
-| Romans 12:1 | COS-69, COS-70 | anchor |
+| Romans 12:1 | COS-69, COS-70, COS-71 | anchor, confirmed |
 | 2 Corinthians 10:5 | COS-69 | anchor |
-| Galatians 5:22 | COS-69, COS-70 | anchor, confirmed |
-| Galatians 5:23 | COS-69, COS-70 | anchor, confirmed |
+| Galatians 5:22 | COS-69, COS-70, COS-72 | anchor, confirmed |
+| Galatians 5:23 | COS-69, COS-70, COS-72 | anchor, confirmed |
 | Hebrews 2:14 | COS-69 | anchor |
 | Hebrews 2:15 | COS-69 | anchor |
 | Ephesians 2:10 | COS-69 | anchor |
@@ -14182,6 +14476,40 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 5:17 | COS-70 | confirmed |
 | Ephesians 5:18 | COS-70 | confirmed |
 | Philippians 2:12 | COS-70 | confirmed |
+| Romans 12:2 | COS-71 | confirmed |
+| Romans 12:9 | COS-71 | confirmed |
+| Romans 12:10 | COS-71 | confirmed |
+| Romans 12:14 | COS-71 | confirmed |
+| Romans 12:17 | COS-71 | confirmed |
+| Romans 12:19 | COS-71 | confirmed |
+| Romans 12:21 | COS-71 | confirmed |
+| Romans 12:18 | COS-71 | anchor |
+| Galatians 5:1 | COS-72 | confirmed |
+| Galatians 5:13 | COS-72 | confirmed |
+| Galatians 5:14 | COS-72 | confirmed |
+| Galatians 5:15 | COS-72 | confirmed |
+| Galatians 5:19 | COS-72 | confirmed |
+| Galatians 5:20 | COS-72 | confirmed |
+| Galatians 5:21 | COS-72 | confirmed |
+| Colossians 3:6 | COS-73 | confirmed |
+| Colossians 3:7 | COS-73 | confirmed |
+| Colossians 3:8 | COS-73 | confirmed |
+| Colossians 3:9 | COS-73 | confirmed |
+| Colossians 3:10 | COS-73 | confirmed |
+| Colossians 3:11 | COS-73 | confirmed |
+| Colossians 3:12 | COS-73 | confirmed |
+| Colossians 3:13 | COS-73 | confirmed |
+| Colossians 3:14 | COS-73 | confirmed |
+| Colossians 3:15 | COS-73 | confirmed |
+| Colossians 3:17 | COS-73 | confirmed |
+| Colossians 3:18 | COS-73 | confirmed |
+| Colossians 3:19 | COS-73 | confirmed |
+| Colossians 3:20 | COS-73 | confirmed |
+| Colossians 3:21 | COS-73 | confirmed |
+| Colossians 3:22 | COS-73 | confirmed |
+| Colossians 4:1 | COS-73 | confirmed |
+| Leviticus 19:18 | COS-72 | anchor |
+| Romans 13:12 | COS-74 | anchor |
 
 ## The editions used
 

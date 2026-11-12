@@ -122,7 +122,11 @@
    "COS-67",
    "COS-68",
    "COS-69",
-   "COS-70"
+   "COS-70",
+   "COS-71",
+   "COS-72",
+   "COS-73",
+   "COS-74"
   ],
   "sections": [
    {
@@ -558,6 +562,22 @@
    {
     "key": "COS-70",
     "label": "Romans 8 — Life in the Spirit: The Mountain Peak"
+   },
+   {
+    "key": "COS-71",
+    "label": "PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND"
+   },
+   {
+    "key": "COS-72",
+    "label": "PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH"
+   },
+   {
+    "key": "COS-73",
+    "label": "PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON"
+   },
+   {
+    "key": "COS-74",
+    "label": "GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER"
    }
   ],
   "double_check": {
@@ -618,11 +638,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 93434,
+  "so_far_words": 104344,
   "cos_sofar": {
-   "waves": 43
+   "waves": 44
   },
-  "glossary": 887
+  "glossary": 1189
  },
  "verses": [
   {
@@ -8066,6 +8086,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11505,
+     "cited_as": "1599 Geneva seat (canon 11505)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -8082,9 +8112,9 @@
      "result": "agree (1.000)"
     },
     "greek_biblehub_fresh": {
-     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος·",
-     "source": "biblehub.com/text/colossians/3-1",
-     "result": "agree (1.000)"
+     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Ε",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.537)"
     }
    },
    "flag": {
@@ -8136,6 +8166,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11505,
+     "cited_as": "1599 Geneva seat (canon 11505)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SPLICE: print \"affections\" plural over draft KJV \"affection\" (wave-36 print fact, seated)",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -8150,6 +8190,11 @@
      "text": "Set your affections on things which are aboue, and not on things which are on the earth.",
      "source": "textusreceptusbibles.com/Geneva/51/3",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Ε",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.537)"
     }
    }
   },
@@ -8166,15 +8211,14 @@
    },
    "second_check": {
     "trb_fresh": {
+     "text": "For ye are dead, and your life is hid with Christ in God.",
      "source": "textusreceptusbibles.com/Geneva/51/3",
-     "url": "https://textusreceptusbibles.com/Geneva/51/3",
-     "result": "EXACT (normalized per-verse, eBible==TRB)",
-     "text": "For ye are dead, and your life is hid with Christ in God."
+     "result": "agree (1.000)"
     },
     "greek_biblehub_fresh": {
-     "text": "ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ·",
-     "source": "biblehub.com/text/colossians/3-3",
-     "result": "agree (1.000)"
+     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Ε",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.537)"
     }
    },
    "uses": [
@@ -8239,6 +8283,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11505,
+     "cited_as": "1599 Geneva seat (canon 11505)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ]
   },
@@ -8260,9 +8314,9 @@
      "result": "agree (1.000)"
     },
     "greek_biblehub_fresh": {
-     "text": "ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ΠΡΟΣ ΚΟΛΟΣΣΑΕΙΣ",
-     "source": "https://biblehub.com/text/colossians/3-4.htm",
-     "result": "agree (1.000)"
+     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Ε",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.537)"
     }
    },
    "uses": [
@@ -8329,6 +8383,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11505,
+     "cited_as": "1599 Geneva seat (canon 11505)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft-KJV comma after \"life\" dropped — print \"our life shall appear\"",
+     "quote_kind": "seat"
     }
    ],
    "flag": {
@@ -13391,6 +13455,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11471,
+     "cited_as": "1599 Geneva seat (canon 11471)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -13407,9 +13481,9 @@
      "result": "agree (1.000)"
     },
     "greek_biblehub_fresh": {
-     "text": "δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς",
-     "source": "biblehub.com/text/galatians/5-24",
-     "result": "agree (1.000)"
+     "text": "οἱ δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. Οἱ δὲ τοῦ χριστοῦ, τὴν σά",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.947)"
     }
    },
    "note": "POINT-1 seat (draft exact-modern; print \"Christes...affectes\" folds)"
@@ -49449,6 +49523,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11538,
+     "cited_as": "1599 Geneva seat (canon 11538)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -49461,13 +49545,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "Mortifie therefore your members which are on the earth, fornication, vncleannes, the inordinate affection, euill concupiscence, and couetousnes which is idolatrie.",
-     "source": "https://www.textusreceptusbibles.com/Geneva/51/3",
-     "result": "exact per-verse (eBible==TRB 1.000)"
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
     },
     "greek_biblehub_fresh": {
-     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος Εἰ οὖν συνηγέρθητε τῷ χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος. Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος, εἰ οὖν συνεγείρω ὁ Χριστός ὁ ἄνω ζητέω οὗ ὁ Χριστός εἰμί ἐν δεξιός ὁ θεός κάθημαι Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος. Εἰ οὖν συνηγέρθητε τῷ Χριστῷ τὰ ἄνω ζητεῖτε οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς, τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς, ὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. ὁ ἄνω φρονέω μή ὁ ἐπί ὁ γῆ τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς. τὰ ἄνω φρονεῖτε μὴ τὰ ἐπὶ τῆς γῆς ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ Ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ χριστῷ ἐν τῷ θεῷ. ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ ἀποθνήσκω γάρ καί ὁ ζωή ὑμεῖς κρύπτω σύν ὁ Χριστός ἐν ὁ θεός ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ. ἀπεθάνετε γάρ καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ θεῷ ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. Ὅταν ὁ χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ Χριστός φανερόω ὁ ζωή ὑμεῖς τότε καί ὑμεῖς σύν αὐτός φανερόω ἐν δόξα ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ἡμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ. ὅταν ὁ Χριστὸς φανερωθῇ ἡ ζωὴ ἡμῶν τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν, ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, νεκρόω οὖν ὁ μέλος ὁ ἐπί ὁ γῆ πορνεία ἀκαθαρσία πάθος ἐπιθυμία κακός καί ὁ πλεονεξία ὅστις εἰμί εἰδωλολατρεία Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν, ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη ὑμῶν τὰ ἐπὶ τῆς γῆς πορνείαν ἀκαθαρσίαν πάθος ἐπιθυμίαν κακήν καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία,",
-     "source": "https://biblehub.com/text/colossians/3-1.htm; https://biblehub.com/text/colossians/3-2.htm; https://biblehub.com/text/colossians/3-3.htm; https://biblehub.com/text/colossians/3-4.htm; https://biblehub.com/text/colossians/3-5.htm",
-     "result": "agree (set-containment 1.000; dup-stream window 0.512 recorded)"
+     "text": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.467)"
     }
    },
    "diff_notes": "",
@@ -50086,6 +50170,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11471,
+     "cited_as": "1599 Geneva seat (canon 11471)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50098,13 +50192,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "If we liue in the Spirit, let vs also walke in the Spirit.",
-     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
-     "result": "exact per-verse (eBible==TRB 1.000)"
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
     },
     "greek_biblehub_fresh": {
-     "text": "οἱ δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. Οἱ δὲ τοῦ χριστοῦ, τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασι καὶ ταῖς ἐπιθυμίαις. ὁ δέ ὁ Χριστός Ἰησοῦς ὁ σάρξ σταυρόω σύν ὁ πάθημα καί ὁ ἐπιθυμία οἱ δὲ τοῦ Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασι καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ Χριστοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις Εἰ ζῶμεν Πνεύματι, Πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. Εἰ ζῶμεν πνεύματι, πνεύματι καὶ στοιχῶμεν. εἰ ζάω πνεῦμα πνεῦμα καί στοιχέω Εἰ ζῶμεν Πνεύματι, Πνεύματι καὶ στοιχῶμεν. εἰ ζῶμεν πνεύματι πνεύματι καὶ στοιχῶμεν",
-     "source": "https://biblehub.com/text/galatians/5-24.htm; https://biblehub.com/text/galatians/5-25.htm",
-     "result": "agree (set-containment 1.000 — token-fold class only; dup-stream window 0.947 recorded)"
+     "text": "οἱ δὲ τοῦ Χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. οἱ δὲ τοῦ χριστοῦ Ἰησοῦ τὴν σάρκα ἐσταύρωσαν σὺν τοῖς παθήμασιν καὶ ταῖς ἐπιθυμίαις. Οἱ δὲ τοῦ χριστοῦ, τὴν σά",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.947)"
     }
    },
    "diff_notes": "print folds only (liue→live, vs→us, walke→walk)"
@@ -50374,6 +50468,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11180,
+     "cited_as": "1599 Geneva seat (canon 11180)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50386,8 +50490,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.",
-     "source": "https://www.textusreceptusbibles.com/Geneva/45/12",
-     "result": "exact per-verse (eBible==TRB 1.000)"
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, διὰ τῶν οἰκτιρμῶν τοῦ Θεοῦ παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν ἁγίαν τῷ Θεῷ εὐάρεστον, τὴν λογικὴν λατρείαν ὑμῶν Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, διὰ τῶν οἰκτιρμῶν τοῦ θεοῦ παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν ἁγίαν τῷ θεῷ εὐάρεστον, τὴν λογικὴν λατρεί",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.955)"
     }
    },
    "diff_notes": ""
@@ -50446,6 +50555,16 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11433,
+     "cited_as": "1599 Geneva seat (canon 11433)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50458,8 +50577,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,",
-     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
-     "result": "exact per-verse (eBible==TRB 1.000)"
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ δὲ καρπὸς τοῦ Πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις, ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις, ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίσ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.81)"
     }
    },
    "diff_notes": ""
@@ -50487,6 +50611,16 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11433,
+     "cited_as": "1599 Geneva seat (canon 11433)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50499,8 +50633,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "Meekenesse, temperancie: against such there is no lawe.",
-     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
-     "result": "exact per-verse (eBible==TRB 1.000)"
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ δὲ καρπὸς τοῦ Πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις, ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις, ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίσ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.81)"
     }
    },
    "diff_notes": ""
@@ -51404,6 +51543,1210 @@
      "result": "set-containment 1.0 of draft Greek; dup-stream window 0.952"
     }
    }
+  },
+  {
+   "id": "ROM.12.2",
+   "ref": "Romans 12:2",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11220,
+     "cited_as": "1599 Geneva seat (canon 11220)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And fashion not your selues like vnto this worlde, but bee yee changed by the renewing of your minde, that ye may prooue what that good, and acceptable and perfect will of God is.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And fashion not your selues like vnto this worlde, but bee yee changed by the renewing of your minde, that ye may prooue what that good, and acceptable and perfect will of God is.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ μὴ συνσχηματίζεσθε τῷ αἰῶνι τούτῳ, ἀλλὰ μεταμορφοῦσθε τῇ ἀνακαινώσει τοῦ νοός, εἰς τὸ δοκιμάζειν ὑμᾶς τί τὸ θέλημα τοῦ Θεοῦ, τὸ ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον. καὶ μὴ συνσχηματίζεσθε τῷ αἰῶνι τούτῳ, ἀλλὰ μεταμορφοῦσθε τῇ ἀνακαινώσει τοῦ νοός, εἰς τὸ δοκιμάζειν ὑμᾶς τί τὸ θέ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 1.0)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.12.9",
+   "ref": "Romans 12:9",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11295,
+     "cited_as": "1599 Geneva seat (canon 11295)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let loue be without dissimulation. Abhorre that which is euill, and cleaue vnto that which is good.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let loue be without dissimulation. Abhorre that which is euill, and cleaue vnto that which is good.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ Ἡ ἀγάπη ἀνυπόκριτος. Ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ. Ἡ ἀγάπη ἀνυ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.875)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.12.10",
+   "ref": "Romans 12:10",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11295,
+     "cited_as": "1599 Geneva seat (canon 11295)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft ellipsis covers vv11-13 (not seated)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Be affectioned to loue one another with brotherly loue. In giuing honour, goe one before another,",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Be affectioned to loue one another with brotherly loue. In giuing honour, goe one before another,",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ ἡ ἀγάπη ἀνυπόκριτος. ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ Ἡ ἀγάπη ἀνυπόκριτος. Ἀποστυγοῦντες τὸ πονηρόν, κολλώμενοι τῷ ἀγαθῷ. Ἡ ἀγάπη ἀνυ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.875)"
+    }
+   },
+   "note": "draft ellipsis covers vv11-13 (not seated)"
+  },
+  {
+   "id": "ROM.12.14",
+   "ref": "Romans 12:14",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11309,
+     "cited_as": "1599 Geneva seat (canon 11309)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Blesse them which persecute you: blesse, I say, and curse not.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Blesse them which persecute you: blesse, I say, and curse not.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, [ὑμᾶς] εὐλογεῖτε καὶ μὴ καταρᾶσθε. Εὐλογεῖτε τοὺς διώκοντας ὑμᾶς εὐλογεῖτε, καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας ὑμᾶς, εὐλογεῖτε καὶ μὴ κατα",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.833)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.12.17",
+   "ref": "Romans 12:17",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11309,
+     "cited_as": "1599 Geneva seat (canon 11309)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Recompence to no man euill for euill: procure things honest in the sight of all men.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Recompence to no man euill for euill: procure things honest in the sight of all men.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, [ὑμᾶς] εὐλογεῖτε καὶ μὴ καταρᾶσθε. Εὐλογεῖτε τοὺς διώκοντας ὑμᾶς εὐλογεῖτε, καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας ὑμᾶς, εὐλογεῖτε καὶ μὴ κατα",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.833)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ROM.12.19",
+   "ref": "Romans 12:19",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11309,
+     "cited_as": "1599 Geneva seat (canon 11309)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SPLICE+RESTORE: draft dropped \"rather\" and cut the tail \"for it is written, Vengeance is mine, I will repay, saith the Lord.\" — full print verse seated (wave-24 REV-1:7 precedent)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Dearely beloued, auenge not your selues, but giue place vnto wrath: for it is written, Vengeance is mine: I will repay, saith the Lord.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Dearely beloued, auenge not your selues, but giue place vnto wrath: for it is written, Vengeance is mine: I will repay, saith the Lord.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, [ὑμᾶς] εὐλογεῖτε καὶ μὴ καταρᾶσθε. Εὐλογεῖτε τοὺς διώκοντας ὑμᾶς εὐλογεῖτε, καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας ὑμᾶς, εὐλογεῖτε καὶ μὴ κατα",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.833)"
+    }
+   },
+   "note": "SPLICE+RESTORE: draft dropped \"rather\" and cut the tail \"for it is written, Vengeance is mine, I will repay, saith the Lord.\" — full print verse seated (wave-24 REV-1:7 precedent)"
+  },
+  {
+   "id": "ROM.12.21",
+   "ref": "Romans 12:21",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11309,
+     "cited_as": "1599 Geneva seat (canon 11309)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "vv18+20 pass under the draft ellipses (not seated)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Bee not ouercome of euill, but ouercome euill with goodnesse.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Bee not ouercome of euill, but ouercome euill with goodnesse.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, εὐλογεῖτε καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας, [ὑμᾶς] εὐλογεῖτε καὶ μὴ καταρᾶσθε. Εὐλογεῖτε τοὺς διώκοντας ὑμᾶς εὐλογεῖτε, καὶ μὴ καταρᾶσθε. εὐλογεῖτε τοὺς διώκοντας ὑμᾶς, εὐλογεῖτε καὶ μὴ κατα",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.833)"
+    }
+   },
+   "note": "vv18+20 pass under the draft ellipses (not seated)"
+  },
+  {
+   "id": "ROM.12.18",
+   "ref": "Romans 12:18",
+   "uses": [
+    {
+     "section": "COS-71",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND",
+     "article_line": 11739,
+     "cited_as": "1599 Geneva paraphrase (canon 11739)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "prose paraphrase \"Be at peace with all men so far as it depends on you\" (canon 11739); anchor row",
+     "quote_kind": "paraphrase"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If it bee possible, as much as in you is, haue peace with all men.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com/Geneva/45/12 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If it bee possible, as much as in you is, haue peace with all men.",
+     "source": "textusreceptusbibles.com/Geneva/45/12",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "prose paraphrase \"Be at peace with all men so far as it depends on you\" (canon 11739); anchor row"
+  },
+  {
+   "id": "GAL.5.1",
+   "ref": "Galatians 5:1",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11337,
+     "cited_as": "1599 Geneva seat (canon 11337)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Stand fast therefore in the libertie wherewith Christ hath made vs free, and be not intangled againe with the yoke of bondage.",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Stand fast therefore in the libertie wherewith Christ hath made vs free, and be not intangled againe with the yoke of bondage.",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τῇ ἐλευθερίᾳ ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν καὶ μὴ πάλιν ζυγῷ δουλείας ἐνέχεσθε. Τῇ ἐλευθερίᾳ ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν καὶ μὴ πάλιν ζυγῷ δουλείας ἐνέχεσθε. -- Τῇ ἐλευθερίᾳ ἡμᾶς Χριστὸς ἠλευθέρωσεν στήκετε οὖν καὶ μὴ πάλιν ζυγῷ δουλείας ἐνέχεσθε ῇ ἐλευθερίᾳ οὖν ᾗ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.923)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GAL.5.13",
+   "ref": "Galatians 5:13",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11355,
+     "cited_as": "1599 Geneva seat (canon 11355)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For brethren, ye haue bene called vnto libertie: onely vse not your libertie as an occasion vnto the flesh, but by loue serue one another.",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For brethren, ye haue bene called vnto libertie: onely vse not your libertie as an occasion vnto the flesh, but by loue serue one another.",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὑμεῖς γὰρ ἐπ’ ἐλευθερίᾳ ἐκλήθητε, ἀδελφοί μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δουλεύετε ἀλλήλοις. μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δουλεύετε ἀλλήλοις μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.853)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GAL.5.14",
+   "ref": "Galatians 5:14",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11355,
+     "cited_as": "1599 Geneva seat (canon 11355)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "the seat print carries the Geneva in-line Lev 19:18 rendering (LEV.19.18 anchored separately); print \"neyghbour\" folded",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For all the Lawe is fulfilled in one worde, which is this, Thou shalt loue thy neighbour as thy selfe.",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For all the Lawe is fulfilled in one worde, which is this, Thou shalt loue thy neighbour as thy selfe.",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὑμεῖς γὰρ ἐπ’ ἐλευθερίᾳ ἐκλήθητε, ἀδελφοί μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δουλεύετε ἀλλήλοις. μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δουλεύετε ἀλλήλοις μόνον μὴ τὴν ἐλευθερίαν εἰς ἀφορμὴν τῇ σαρκί, ἀλλὰ διὰ τῆς ἀγάπης δ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.853)"
+    }
+   },
+   "note": "the seat print carries the Geneva in-line Lev 19:18 rendering (LEV.19.18 anchored separately); print \"neyghbour\" folded"
+  },
+  {
+   "id": "GAL.5.15",
+   "ref": "Galatians 5:15",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11355,
+     "cited_as": "1599 Geneva seat (canon 11355)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "RESTORED: draft omitted v15 though the heading covers 13-15 — full print verse seated; print \"least\" seat-verbatim + *(lest)* gloss (1599 spelling of lest); print \"deuoure\" folded",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If ye bite and deuoure one another, take heede least ye be consumed one of another.",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If ye bite and deuoure one another, take heede least ye be consumed one of another.",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "RESTORED: draft omitted v15 though the heading covers 13-15 — full print verse seated; print \"least\" seat-verbatim + *(lest)* gloss (1599 spelling of lest); print \"deuoure\" folded"
+  },
+  {
+   "id": "GAL.5.19",
+   "ref": "Galatians 5:19",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11403,
+     "cited_as": "1599 Geneva seat (canon 11403)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Moreouer the workes of the flesh are manifest, which are adulterie, fornication, vncleannes, wantonnes,",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Moreouer the workes of the flesh are manifest, which are adulterie, fornication, vncleannes, wantonnes,",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, Φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστι",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.641)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GAL.5.20",
+   "ref": "Galatians 5:20",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11403,
+     "cited_as": "1599 Geneva seat (canon 11403)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Idolatrie, witchcraft, hatred, debate, emulations, wrath, contentions, seditions, heresies,",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Idolatrie, witchcraft, hatred, debate, emulations, wrath, contentions, seditions, heresies,",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, Φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστι",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.641)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GAL.5.21",
+   "ref": "Galatians 5:21",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11403,
+     "cited_as": "1599 Geneva seat (canon 11403)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "1599 print \"murthers\" seat-verbatim + *(murders)* gloss",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Enuie, murthers, drunkennesse, gluttonie, and such like, whereof I tell you before, as I also haue tolde you before, that they which doe such things, shall not inherite the kingdome of God.",
+     "source": "https://ebible.org/enggnv/GAL05.htm == textusreceptusbibles.com/Geneva/48/5 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Enuie, murthers, drunkennesse, gluttonie, and such like, whereof I tell you before, as I also haue tolde you before, that they which doe such things, shall not inherite the kingdome of God.",
+     "source": "textusreceptusbibles.com/Geneva/48/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστιν πορνεία, ἀκαθαρσία, ἀσέλγεια, Φανερὰ δέ ἐστιν τὰ ἔργα τῆς σαρκός, ἅτινά ἐστι",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.641)"
+    }
+   },
+   "note": "1599 print \"murthers\" seat-verbatim + *(murders)* gloss"
+  },
+  {
+   "id": "COL.3.6",
+   "ref": "Colossians 3:6",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11538,
+     "cited_as": "1599 Geneva seat (canon 11538)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "eBible print article-ye \"ye wrath\" folded to \"the wrath\" (wave-25 class); print \"commeth\" folded",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the which things sake ye wrath of God commeth on the children of disobedience.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the which things sake ye wrath of God commeth on the children of disobedience.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.467)"
+    }
+   },
+   "note": "eBible print article-ye \"ye wrath\" folded to \"the wrath\" (wave-25 class); print \"commeth\" folded"
+  },
+  {
+   "id": "COL.3.7",
+   "ref": "Colossians 3:7",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11538,
+     "cited_as": "1599 Geneva seat (canon 11538)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherein ye also walked once, when ye liued in them.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherein ye also walked once, when ye liued in them.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.467)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.8",
+   "ref": "Colossians 3:8",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11538,
+     "cited_as": "1599 Geneva seat (canon 11538)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But now put ye away euen all these things, wrath, anger, maliciousnes, cursed speaking, filthie speaking, out of your mouth.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But now put ye away euen all these things, wrath, anger, maliciousnes, cursed speaking, filthie speaking, out of your mouth.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.467)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.9",
+   "ref": "Colossians 3:9",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11538,
+     "cited_as": "1599 Geneva seat (canon 11538)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "print trailing comma kept (v10 continues)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Lie not one to another, seeing that yee haue put off the olde man with his workes,",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Lie not one to another, seeing that yee haue put off the olde man with his workes,",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρεία, Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία, Νεκρώσατε οὖν τὰ μέλη τ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.467)"
+    }
+   },
+   "note": "print trailing comma kept (v10 continues)"
+  },
+  {
+   "id": "COL.3.10",
+   "ref": "Colossians 3:10",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11582,
+     "cited_as": "1599 Geneva seat (canon 11582)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And haue put on the newe, which is renewed in knowledge after the image of him that created him,",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And haue put on the newe, which is renewed in knowledge after the image of him that created him,",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ’ εἰκόνα τοῦ κτίσαντος αὐτόν, καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ εἰκόνα τοῦ κτίσαντος αὐτόν, καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ εἰκόνα τοῦ κτίσαντος αὐτόν, καὶ ἐνδυσ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.931)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.11",
+   "ref": "Colossians 3:11",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11582,
+     "cited_as": "1599 Geneva seat (canon 11582)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Where is neither Grecian nor Iewe, circumcision nor vncircumcision, Barbarian, Scythian, bond, free: But Christ is all, and in all things.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Where is neither Grecian nor Iewe, circumcision nor vncircumcision, Barbarian, Scythian, bond, free: But Christ is all, and in all things.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ’ εἰκόνα τοῦ κτίσαντος αὐτόν, καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ εἰκόνα τοῦ κτίσαντος αὐτόν, καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ εἰκόνα τοῦ κτίσαντος αὐτόν, καὶ ἐνδυσ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.931)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.12",
+   "ref": "Colossians 3:12",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11614,
+     "cited_as": "1599 Geneva seat (canon 11614)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now therfore as the elect of God holy and beloued, put on the bowels of mercies, kindnesse, humblenesse of minde, meekenesse, long suffering:",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now therfore as the elect of God holy and beloued, put on the bowels of mercies, kindnesse, humblenesse of minde, meekenesse, long suffering:",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐνδύσασθε οὖν, ὡς ἐκλεκτοὶ τοῦ Θεοῦ ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.569)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.13",
+   "ref": "Colossians 3:13",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11614,
+     "cited_as": "1599 Geneva seat (canon 11614)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SPLICE: draft added \"you\" — print \"even as Christ forgave, even so do ye.\"",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Forbearing one another, and forgiuing one another, if any man haue a quarel to another: euen as Christ forgaue, euen so doe ye.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Forbearing one another, and forgiuing one another, if any man haue a quarel to another: euen as Christ forgaue, euen so doe ye.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐνδύσασθε οὖν, ὡς ἐκλεκτοὶ τοῦ Θεοῦ ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.569)"
+    }
+   },
+   "note": "SPLICE: draft added \"you\" — print \"even as Christ forgave, even so do ye.\""
+  },
+  {
+   "id": "COL.3.14",
+   "ref": "Colossians 3:14",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11614,
+     "cited_as": "1599 Geneva seat (canon 11614)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft-KJV comma after \"things\" dropped — print \"all these things put on love\"",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And aboue all these thinges put on loue, which is the bond of perfectnes.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And aboue all these thinges put on loue, which is the bond of perfectnes.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐνδύσασθε οὖν, ὡς ἐκλεκτοὶ τοῦ Θεοῦ ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.569)"
+    }
+   },
+   "note": "draft-KJV comma after \"things\" dropped — print \"all these things put on love\""
+  },
+  {
+   "id": "COL.3.15",
+   "ref": "Colossians 3:15",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11614,
+     "cited_as": "1599 Geneva seat (canon 11614)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SPLICE+RESTORE: verse tail \"to the which ye are called in one body, and be ye thankful.\" restored",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And let the peace of God rule in your hearts, to the which ye are called in one body, and be ye thankfull.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And let the peace of God rule in your hearts, to the which ye are called in one body, and be ye thankfull.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐνδύσασθε οὖν, ὡς ἐκλεκτοὶ τοῦ Θεοῦ ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν, Ἐνδύσασθε οὖν ὡς ἐκλ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.569)"
+    }
+   },
+   "note": "SPLICE+RESTORE: verse tail \"to the which ye are called in one body, and be ye thankful.\" restored"
+  },
+  {
+   "id": "COL.3.17",
+   "ref": "Colossians 3:17",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11672,
+     "cited_as": "1599 Geneva seat (canon 11672)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And whatsoeuer ye shall doe, in worde or deede, doe all in the Name of the Lord Iesus, giuing thankes to God euen the Father by him.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And whatsoeuer ye shall doe, in worde or deede, doe all in the Name of the Lord Iesus, giuing thankes to God euen the Father by him.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι Κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ Θεῷ Πατρὶ δι’ αὐτοῦ. καὶ πᾶν ὅτι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ θεῷ πατρὶ δι τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ,",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 1.0)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "COL.3.18",
+   "ref": "Colossians 3:18",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11651,
+     "cited_as": "1599 Geneva seat (canon 11651)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "summary fragment restored to full print verse",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wiues, submit your selues vnto your husbands, as it is comely in the Lord.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wiues, submit your selues vnto your husbands, as it is comely in the Lord.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν Κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἀνδρ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.8)"
+    }
+   },
+   "note": "summary fragment restored to full print verse"
+  },
+  {
+   "id": "COL.3.19",
+   "ref": "Colossians 3:19",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11651,
+     "cited_as": "1599 Geneva seat (canon 11651)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "summary fragment restored (and be not bitter unto them)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Husbands, loue your wiues, and be not bitter vnto them.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Husbands, loue your wiues, and be not bitter vnto them.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν Κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἀνδρ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.8)"
+    }
+   },
+   "note": "summary fragment restored (and be not bitter unto them)"
+  },
+  {
+   "id": "COL.3.20",
+   "ref": "Colossians 3:20",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11651,
+     "cited_as": "1599 Geneva seat (canon 11651)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "summary fragment; print \"in all thing\" seat-verbatim + *(things)* gloss",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Children, obey your parents in all thing for that is well pleasing vnto the Lord.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Children, obey your parents in all thing for that is well pleasing vnto the Lord.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν Κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἀνδρ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.8)"
+    }
+   },
+   "note": "summary fragment; print \"in all thing\" seat-verbatim + *(things)* gloss"
+  },
+  {
+   "id": "COL.3.21",
+   "ref": "Colossians 3:21",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11651,
+     "cited_as": "1599 Geneva seat (canon 11651)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "summary fragment restored (least *(lest)* they be discouraged) — print \"least\" seat-verbatim + *(lest)* gloss",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Fathers, prouoke not your children to anger, least they be discouraged.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Fathers, prouoke not your children to anger, least they be discouraged.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν Κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἀνδρ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.8)"
+    }
+   },
+   "note": "summary fragment restored (least *(lest)* they be discouraged) — print \"least\" seat-verbatim + *(lest)* gloss"
+  },
+  {
+   "id": "COL.3.22",
+   "ref": "Colossians 3:22",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11651,
+     "cited_as": "1599 Geneva seat (canon 11651)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "summary fragment restored to full verse; v23 passes under the ellipsis (not seated)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Seruants, be obedient vnto them that are your masters according to the flesh, in all things, not with eye seruice as men pleasers, but in singlenes of heart, fearing God.",
+     "source": "https://ebible.org/enggnv/COL03.htm == textusreceptusbibles.com/Geneva/51/3 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Seruants, be obedient vnto them that are your masters according to the flesh, in all things, not with eye seruice as men pleasers, but in singlenes of heart, fearing God.",
+     "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν Κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἀνδρ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.8)"
+    }
+   },
+   "note": "summary fragment restored to full verse; v23 passes under the ellipsis (not seated)"
+  },
+  {
+   "id": "COL.4.1",
+   "ref": "Colossians 4:1",
+   "uses": [
+    {
+     "section": "COS-73",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON",
+     "article_line": 11651,
+     "cited_as": "1599 Geneva seat (canon 11651)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "summary fragment restored to the full print verse; print \"Ye masters\" head restored (draft dropped \"Ye\")",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Ye masters, doe vnto your seruants, that which is iust, and equall, knowing that ye also haue a master in heauen.",
+     "source": "https://ebible.org/enggnv/COL04.htm == textusreceptusbibles.com/Geneva/51/4 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Ye masters, doe vnto your seruants, that which is iust, and equall, knowing that ye also haue a master in heauen.",
+     "source": "textusreceptusbibles.com/Geneva/51/4",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν Κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἰδίοις ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ. Αἱ γυναῖκες ὑποτάσσεσθε τοῖς ἀνδρ",
+     "source": "biblehub.com/text/ verse pages (Westcott-Hort, joined runs)",
+     "result": "close (set-containment 0.0; window 0.8)"
+    }
+   },
+   "note": "summary fragment restored to the full print verse; print \"Ye masters\" head restored (draft dropped \"Ye\")"
+  },
+  {
+   "id": "LEV.19.18",
+   "ref": "Leviticus 19:18",
+   "uses": [
+    {
+     "section": "COS-72",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH",
+     "article_line": 11363,
+     "cited_as": "1599 Geneva anchor (canon 11363)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "prose ref \"citing Lev 19:18\" (canon 11363); quote lives inside the Gal 5:14 Geneva print; draft cites without quoting; no NETS Leviticus master",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Thou shalt not auenge, nor be mindful of wrong against ye childre of thy people, but shalt loue thy neighbour as thy selfe: I am the Lord.",
+     "source": "https://ebible.org/enggnv/LEV19.htm == textusreceptusbibles.com/Geneva/3/19 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Thou shalt not auenge, nor be mindful of wrong against ye childre of thy people, but shalt loue thy neighbour as thy selfe: I am the Lord.",
+     "source": "textusreceptusbibles.com/Geneva/3/19",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "prose ref \"citing Lev 19:18\" (canon 11363); quote lives inside the Gal 5:14 Geneva print; draft cites without quoting; no NETS Leviticus master"
+  },
+  {
+   "id": "ROM.13.12",
+   "ref": "Romans 13:12",
+   "uses": [
+    {
+     "section": "COS-74",
+     "section_label": "THE CHRIST OF SCRIPTURE — GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER",
+     "article_line": 11702,
+     "cited_as": "1599 Geneva anchor (canon 11702)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "synthesis table cell \"Cast off works of darkness\" paraphrase (canon 11702)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "The night is past, and the day is at hande, let vs therefore cast away the workes of darkenesse, and let vs put on the armour of light,",
+     "source": "https://ebible.org/enggnv/ROM13.htm == textusreceptusbibles.com/Geneva/45/13 fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The night is past, and the day is at hande, let vs therefore cast away the workes of darkenesse, and let vs put on the armour of light,",
+     "source": "textusreceptusbibles.com/Geneva/45/13",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "synthesis table cell \"Cast off works of darkness\" paraphrase (canon 11702)"
   }
  ]
 }
