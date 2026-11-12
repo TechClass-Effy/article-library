@@ -3929,3 +3929,1033 @@ These two Old Testament texts form the **double pillar** of His self-claim. He i
 
 ---
 
+## **Zechariah 12-14 — The Lord Comes to Jerusalem**
+
+# **ZECHARIAH 12-14 — THE LORD COMES TO JERUSALEM**
+
+This is the most extensive prophetic block on the Coming One's intervention in Jerusalem, the piercing, and the Day of the LORD. Let us examine each section carefully.
+
+---
+
+## **Zechariah 12:1-3 LXX — The Burden Concerning Israel**
+
+### **Zechariah 12:1-3, NETS:**
+
+> An issue of the Lord’s word regarding Israel. The Lord, as he stretches out heaven and founds earth and forms the human spirit with-in, says: Behold, I set Ierousalem as shaking doorways for all the peoples round about, and in Judea there will be a siege against Ierousalem. And it shall be on that day, I will make Ierousalem a trampled stone for all the nations; everyone who tramples it when mocking shall mock. And all the nations of the earth shall be gathered against it. — **Zechariah 12:1-3 LXX, NETS**
+
+---
+
+### Observations
+
+**(1)** **The speaker is the Creator** — the One who stretches out the heavens and lays the foundation of the earth. This is **the Father** — per Isa 44:24, *"I stretched out the heavens alone."*
+
+**(2)** **ἐν τῇ ἡμέρᾳ ἐκείνῃ** — *"in that day."* The phrase recurs throughout chapters 12-14, marking the eschatological "Day of the LORD."
+
+---
+
+## **Zechariah 12:9-10 LXX — The Pivotal Text**
+
+### **Zechariah 12:9-10, NETS:**
+
+> And it shall be on that day, I will seek to destroy all the nations that come against Ierousalem. And I will pour out a spirit of grace and compassion on the house of Dauid and on the inhabitants of Ierousalem, and they shall look to me because they have danced triumphantly, and they shall mourn for him with a mourning as for a loved one, and they shall be pained with pain as for a firstborn. — **Zechariah 12:9-10 LXX, NETS**
+
+---
+
+### Observation of supreme importance — the *Father's* voice and the *Son's* piercing
+
+This is one of the most theologically rich verses in all of Scripture for our study.
+
+**The speaker is the LORD** (the Father, the Creator of v. 1).
+
+**The Father says:**
+- **ἐπιβλέψονται πρός με ἀνθ᾽ ὧν κατωρχήσαντο** — *"they shall look upon **Me** whom they have pierced."*
+- Then immediately: **κόψονται ἐπ᾽ αὐτὸν** — *"they shall mourn for **Him**"* (third person).
+
+**The Father speaks of the piercing as if it were done to *Him* — and yet the mourning is for *another* (Him).** This is the very paradox of the Father-Son union we have been carefully tracking: **what is done to the Son is felt by the Father.** The piercing of the Son is the piercing of the Father in some real sense — yet the Son is distinct (mourned *as a beloved Son*, *as a firstborn*).
+
+The phrase **ὡς ἐπ᾽ ἀγαπητῷ** — *"as for a beloved son"* — uses the same Greek term as Genesis 22:2 LXX (*"Take your beloved son"*), Matt 3:17 (*"My beloved Son"*), and 2 Pet 1:17 — establishing the typology. The pierced one is **the Father's beloved Son.**
+
+### **Cross-witnesses:**
+
+### **John 19:37, 1599 Geneva:**
+
+> ...And again another Scripture saith, They shall see him whom they have thrust through. — **John 19:37, 1599 Geneva**
+
+*(the seat prints the Geneva’s “thrust through” (Greek ἐξεκέντησαν); the draft’s quote read “pierced” — adjudicated on the bank row when this cross-witness was seated)*
+
+John applies Zech 12:10 to **the historical piercing of Jesus on the cross.** This is the *first* fulfillment.
+
+### **Revelation 1:7, 1599 Geneva:**
+
+> Behold, he cometh with clouds, and every eye shall see him: yea, even they which pierced him through: and all kindreds of the earth shall wail before him, Even so, Amen. — **Revelation 1:7, 1599 Geneva**
+
+*(the restored “Even so, Amen.” is the Geneva’s own print; the draft’s quote stopped at “before him.”)*
+
+The Apocalypse applies Zech 12:10 to **the second coming.** Daniel 7's "coming on clouds" is combined with Zechariah 12:10's "they shall look on Him whom they pierced." **This is the future, eschatological fulfillment.**
+
+---
+
+### Important note for our study
+
+The piercing was a **single historical event** (the crucifixion). The "looking upon Him whom they pierced" has **two fulfillments**:
+- John 19:37 — at the crucifixion itself (those present looked on the pierced One).
+- Revelation 1:7 — at His return (all the tribes of the earth, including those who pierced Him, shall look on Him).
+
+This is consistent with what we have established about His **two appearings** (Heb 9:28 — *"He shall appear a second time, without sin, unto salvation"*).
+
+---
+
+## **Zechariah 13:1, 6 LXX**
+
+### **Zechariah 13:1, 6, NETS:**
+
+> On that day every place will be opened for the house of Dauid. … And I will say to him, “What are these blows between your hands?” And he will say, “Those with which I was beaten in my beloved house.” — **Zechariah 13:1, 6 LXX, NETS**
+
+*The ellipsis skips 13:2-5. The NETS print ends 13:1 at “the house of Dauid.” — the oldest-witness reading Swete’s Rahlfs text continues “and for the inhabitants of Ierousalem…”, which the draft’s Greek quotes (recorded on the bank row). The print’s footnote siglum “b” after “hands” (“Or arms”) drops from the seat, kept on the row.*
+
+---
+
+### Observation
+
+**(1) v. 1:** A fountain for sin is opened — the cleansing flowing from the pierced One.
+
+**(2) v. 6:** A figure appears with **wounds in His hands** (**αἱ πληγαὶ ἀνὰ μέσον τῶν χειρῶν σου**) — and the wounds are *"those I received in the house of my beloved/friends."* This corresponds with **John 20:25-27** — the risen Christ shows the wounds in His hands. Even at His return, the pierced wounds are visible.
+
+---
+
+## **Zechariah 13:7 LXX — The Shepherd Struck**
+
+### **Zechariah 13:7, NETS:**
+
+> “Awake, O sword, against my shepherds and against his fellow citizen,” says the Lord Almighty. Smite the shepherds, and remove the sheep, and I will bring my hand against the shepherds. — **Zechariah 13:7 LXX, NETS**
+
+---
+
+### **Cross-witness — Jesus' own citation:**
+
+### **Matthew 26:31, 1599 Geneva:**
+
+> Then said Jesus unto them, All ye shall be offended by me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered. — **Matthew 26:31, 1599 Geneva**
+
+*(the seat composes the Geneva in the book’s modern spelling; the draft’s quote checked word-for-word against both Geneva editions and the BibleHub Greek (1.00) this wave)*
+
+---
+
+### Observation
+
+Jesus directly cites Zech 13:7 of His own striking. **He identifies Himself as the Shepherd whom the Father strikes.** The disciples are the sheep scattered.
+
+Note also the LXX wording: **ἐπ᾽ ἄνδρα πολίτην μου** — *"upon the Man, My fellow-citizen/companion."* The struck Shepherd is **a Man** — and yet **the LORD's own companion**, His associate, the One bearing intimate relation to the Father. This corresponds with **John 10:30** — *"I and the Father are one"* — in the sense of unity of action and purpose, not metaphysical identity.
+
+---
+
+## **Zechariah 14:1-5 LXX — The Day of the LORD**
+
+### **Zechariah 14:3-5, NETS:**
+
+> And the Lord will go forth and draw up in battle order against those nations like a day of his marshaling in a day of battle. And on that day his feet shall stand on the Mount of Olives, which is opposite Ierousalem on the east, and the mount of Olives shall be split, half of it to the east and half of it to the sea, an exceedingly great chasm, and half of the Mount shall incline northward and half of it southward. And the valley of my mountains shall be blocked up, and the valley of the mountains shall be joined up to Iasol, and it shall be blocked up as it was blocked in the days of the earthquake in the days of King Ozias *(Uzziah)* of Ioudas. And the Lord my God will come and all the holy ones with him. — **Zechariah 14:3-5 LXX, NETS**
+
+---
+
+### Observations of foundational weight
+
+**(1)** **καὶ ἐξελεύσεται Κύριος** — *"And the LORD shall go forth."* The LORD Himself goes forth to fight.
+
+**(2)** **στήσονται οἱ πόδες αὐτοῦ... ἐπὶ τὸ ὄρος τῶν Ἐλαιῶν** — *"His feet shall stand upon the Mount of Olives."* The LORD's feet stand on a specific geographical location — the Mount of Olives, **east of Jerusalem** — and split it.
+
+**(3)** Note the precise geographical fulfillment of Acts 1:11-12: the disciples watched Jesus ascend from **the Mount of Olives** and were told **"He shall so come in like manner as ye have seen Him go."** The angelic promise binds the Mount of Olives ascension to the Mount of Olives return — which exactly matches Zech 14:4.
+
+**(4)** **ἥξει Κύριος ὁ Θεός μου καὶ πάντες οἱ ἅγιοι μετ᾽ αὐτοῦ** — *"The LORD my God shall come, and all the saints with Him."*
+
+### Cross-witnesses:
+
+### **1 Thessalonians 3:13, 1599 Geneva:**
+
+> To make your hearts stable *(firm)* and unblameable in holiness before God even our Father, at the coming of our Lord Jesus Christ with all his Saints. — **1 Thessalonians 3:13, 1599 Geneva**
+
+### **Jude 1:14, 1599 Geneva:**
+
+> And Enoch also the seventh from Adam, prophesied of such, saying, Behold, the Lord cometh with thousands of his Saints, — **Jude 1:14, 1599 Geneva**
+
+**Two NT witnesses** confirm the fulfillment in Christ's return: He comes with all His saints.
+
+---
+
+### Critical observation for our foundation
+
+**Zech 14:5 says: "The LORD my God shall come."** Yet the return is fulfilled in **Jesus' coming.** Does this collapse Jesus into being the Father?
+
+**No.** The pattern is consistent with everything we have established: **the LORD acts through His Sent One.** When the Son comes, the LORD comes — because the Son comes in the Father's Name (Ex 23:21 — *"My Name is in Him"*), with the Father's authority (Matt 28:18), and at the Father's appointed time (Mark 13:32; Acts 1:7).
+
+The Father does not personally descend to the Mount of Olives; **the Son does** — but His coming is **the LORD's coming**, because He bears the Father's Name and acts as the Father's Representative.
+
+---
+
+## **Zechariah 14:9 LXX — The Universal Kingdom**
+
+### **Zechariah 14:9, NETS:**
+
+> And the Lord will become king over all the earth; on that day the Lord will be one and his name one. — **Zechariah 14:9 LXX, NETS**
+
+---
+
+### Observations of supreme importance
+
+**(1)** **Κύριος εἰς βασιλέα ἐπὶ πᾶσαν τὴν γῆν** — *"The LORD shall be King over all the earth."* The LORD's universal reign is established.
+
+**(2)** **ἔσται Κύριος εἷς καὶ τὸ ὄνομα αὐτοῦ ἕν** — *"There shall be one LORD, and His Name shall be one."*
+
+This is profound. At the consummation of all things, the universal acknowledgment will be **εἷς Κύριος** — *one LORD*, **ἕν ὄνομα** — *one Name*. This corresponds with:
+
+- The Shema: *"the LORD our God, the LORD is one"* (Deut 6:4).
+- **Eph 4:5-6**: *"one Lord, one faith, one baptism, one God and Father of all."*
+- **Phil 2:11**: *"every tongue shall confess that Jesus Christ is Lord, to the glory of God the Father."*
+
+The Day of the LORD culminates in **the unified worship of the One God** — the Father — **through** the Lord Jesus Christ to whom every knee bows. The Son's reign does not establish a second God; it brings all things to acknowledge the One God.
+
+---
+
+---
+
+# **MATTHEW 24-25 — THE OLIVET DISCOURSE**
+
+This is Jesus' own direct teaching about His return — delivered on the **Mount of Olives** (Matt 24:3), the same mountain from which He would ascend and to which He will return.
+
+## **Matthew 24:3 — The Disciples' Question**
+
+> And as he sat upon the mount of Olives, his disciples came unto him apart, saying, Tell us when these things shall be, and what sign shall be of thy coming, and of the end of the world.
+
+### Observation
+
+The disciples ask three questions:
+1. When shall these things be? (referring to the destruction of the temple, v. 2)
+2. What shall be the sign of Your **παρουσία** (presence, coming)?
+3. What shall be the sign of the end of the age?
+
+**παρουσία** — *parousia* — is the technical term for the Son's coming. It means *"presence,"* *"arrival,"* *"royal visitation."* It is used throughout the NT for His return.
+
+---
+
+## **Matthew 24:23-27 — False Christs and the True Coming**
+
+> Then if any shall say unto you, Lo, here is Christ, or there, believe it not. For there shall arise false Christs, and false prophets, and shall show great signs and wonders, so that if it were possible, they should deceive the very elect. … For as the lightning cometh out of the East, and is seen into the West, so shall also the coming of the Son of man be.
+
+### Observation
+
+Jesus warns of **false Christs** before His return. His true return will be **like lightning** — universally visible, unmistakable, undeniable. Not a secret coming. Not a private appearance. **Every eye shall see Him** (Rev 1:7).
+
+---
+
+## **Matthew 24:29-31 — The Sign of the Son of Man**
+
+> And immediately after the tribulations of those days, shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaue *(heaven)* shall be shake *(shaken)*. And then shall appear the sign of the Son of man in heaven: and then shall all the kinreds *(kindreds)* of the earth mourn, and they shall see the Son of man come in the clouds of heaven with power and great glory. And he shall send his Angels with a great sound of a trumpet, and they shall gather together his elect, from the four winds, and from the one end of the heavens unto the other.
+
+### Observations
+
+**(1) The cosmic signs:** sun darkened, moon without light, stars falling, powers shaken. This corresponds with:
+- **Isaiah 13:9-10 LXX** (the Day of the LORD)
+- **Joel 2:31 LXX (3:4 LXX)** — *"The sun shall be turned to darkness, and the moon to blood, before the great and notable day of the Lord comes."* (NETS; cited by Peter in Acts 2:20).
+- **Revelation 6:12-14** — the sixth seal.
+
+**(2) "then shall all the kinreds *(kindreds)* of the earth mourn"** — direct echo of **Zechariah 12:10-14**, with Daniel 7's "coming on clouds." Jesus combines the same two texts He cited before the high priest.
+
+**(3) "His angels with a great trumpet"** — corresponds with:
+- **1 Thess 4:16** — *"For the Lord himself shall descend from heaven with a shout, and with the voice of the Archangel, and with the trumpet of God."*
+- **1 Cor 15:52** — *"at the last trumpet."*
+- **Rev 11:15** — the seventh trumpet.
+
+**(4) "Gather His elect from the four winds"** — the great gathering. The Son sends His angels to gather His chosen ones from the entire earth.
+
+---
+
+## **Matthew 24:36 — Only the Father Knows**
+
+> But of that day and hour knoweth no man, no not the Angels of heaven, but my Father only.
+
+### Observation of foundational weight
+
+**This is Jesus' own testimony**, identical to Mark 13:32:
+- The day and hour are known to **no man**.
+- Not even **the angels.**
+- **Not even the Son** (in many manuscripts; the 1599 Geneva does not include "neither the Son" here, but Mark 13:32 does include it).
+- **Only the Father.**
+
+Per our maxim #1 and the parallel in Mark 13:32 already established, **the Son does not know the day and hour; only the Father knows.** This is decisive for our foundation: the Father remains the supreme One God who alone holds the times in His own authority (Acts 1:7 — *"the times, or the seasons, which the Father hath put in his own power"*).
+
+The Son's reign at the Father's right hand is real and supreme over creation — but He does not possess the Father's exclusive sovereignty over the timing of the consummation. The Father is greater (John 14:28); the Father alone knows the day.
+
+---
+
+## **Matthew 25:31-46 — The Son of Man Judges the Nations**
+
+> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world.
+
+### Observations
+
+**(1)** **ὅταν δὲ ἔλθῃ ὁ Υἱὸς τοῦ ἀνθρώπου ἐν τῇ δόξῃ αὐτοῦ** — *"When the Son of Man comes in His glory."* This is the fulfillment of Daniel 7:13-14.
+
+**(2)** **καθίσει ἐπὶ θρόνου δόξης αὐτοῦ** — *"He shall sit on His throne of glory."* The Son of Man sits in judgment.
+
+**(3)** **οἱ εὐλογημένοι τοῦ Πατρός μου** — *"the blessed of My Father."* The blessing is from **the Father.** Even at the judgment, the Son blesses those whom the Father has blessed.
+
+**(4)** **κληρονομήσατε τὴν ἡτοιμασμένην ὑμῖν βασιλείαν ἀπὸ καταβολῆς κόσμου** — *"inherit the kingdom prepared for you from the foundation of the world."* The kingdom was **prepared** — by the Father — **from the foundation of the world.** The Father's eternal purpose is fulfilled.
+
+**(5)** **The Son judges the nations**, separating sheep from goats. This corresponds with the authority given Him in John 5:22, 27 — the Father has given all judgment to the Son.
+
+---
+
+# **OTHER MAJOR NT WITNESSES**
+
+## **1 Thessalonians 4:13-17 — The Lord's Descent**
+
+> For the Lord himself shall descend from heaven with a shout, and with the voice of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first: Then shall we which live and remain, be caught up with them also in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
+
+### Observations
+
+**(1)** **αὐτὸς ὁ Κύριος... καταβήσεται ἀπ᾽ οὐρανοῦ** — *"The Lord Himself shall descend from heaven."* The descent corresponds with Zech 14:4-5.
+
+**(2)** **The trumpet of God** — corresponds with Matt 24:31 and 1 Cor 15:52.
+
+**(3)** **καὶ οὕτως πάντοτε σὺν Κυρίῳ ἐσόμεθα** — *"and so shall we ever be with the Lord."* The eternal end-state: we shall be with the Lord (Jesus) forever.
+
+---
+
+## **2 Thessalonians 1:7-10 — The Revelation of the Lord Jesus**
+
+> And to you which are troubled, rest with us, when the Lord Jesus shall show himself from heaven with his mighty Angels, In flaming fire, rendering vengeance unto them, that do not know God, and which obey not unto the Gospel of our Lord Jesus Christ, … When he shall come to be glorified in his Saints, and to be made marvelous in all them that believe (because our testimony toward you was believed) in that day.
+
+### Observation
+
+The Lord Jesus comes **in flaming fire** — fulfilling Daniel 7:9-10 (the fire surrounding the Ancient of Days) but here belonging to the Son's return. **He renders vengeance on those who do not know God.** The Father is the supreme God; rejection of the Father is the basis of judgment, executed by the Son.
+
+---
+
+## **2 Peter 3:10 — The Day of the LORD as a Thief**
+
+> But the day of the Lord will come as a thief in the night, in the which the heavens shall pass away with a noise, and the elements shall melt with heat, and the earth with the works that are therein, shall be burnt up.
+
+### Observation
+
+Peter applies the Old Testament **"Day of the LORD"** language directly to the Son's return. The OT Day of the LORD = the NT Day of the Lord Jesus. This is consistent with the pattern throughout: what the LORD does, He does through His Sent One.
+
+---
+
+# **GRAND SYNTHESIS — The Son's Return**
+
+By the consistent witness of OT prophecy (Dan 7; Zech 12-14; Ps 110) and NT teaching (Matt 24-25; 1 Thess 4; 2 Thess 1-2; 2 Pet 3; Rev 1, 19), we have a comprehensive picture:
+
+## **The Coming of the Son of Man — Firmly Established**
+
+| Feature | Description | Witnesses |
+|---|---|---|
+| **Comes on the clouds of heaven** | Visibly, with power and glory | Dan 7:13; Matt 24:30; 26:64; Rev 1:7 |
+| **Every eye shall see Him** | Universal visibility, not secret | Matt 24:27; Rev 1:7 |
+| **Comes to the Mount of Olives** | Same place from which He ascended | Zech 14:4; Acts 1:11-12 |
+| **Comes with His holy angels** | The Son sends His angels | Matt 24:31; 25:31; 2 Thess 1:7 |
+| **Comes with all His saints** | Those who have died in Him return with Him | Zech 14:5; 1 Thess 3:13; Jude 14 |
+| **Trumpet of God sounds** | Resurrection of the dead in Christ | Matt 24:31; 1 Cor 15:52; 1 Thess 4:16 |
+| **Cosmic signs precede Him** | Sun darkened, moon without light, stars fall | Isa 13:10; Joel 2:31; Matt 24:29; Rev 6:12-14 |
+| **Israel sees Him whom they pierced** | Mourning and recognition | Zech 12:10; Rev 1:7 |
+| **He judges the nations** | The throne of His glory | Matt 25:31-46; John 5:22-27 |
+| **He renders vengeance on the rebellious** | Those who do not know God / obey the Gospel | 2 Thess 1:7-9 |
+| **He establishes the universal Kingdom** | One Lord, one Name | Zech 14:9; Dan 7:14 |
+
+---
+
+## **Two Critical Doctrinal Points Preserved**
+
+### **(1) The Father remains the One God throughout the Son's return.**
+
+- The **Ancient of Days** (the Father) gives the Son the kingdom (Dan 7:14).
+- The **kingdom was prepared by the Father** from the foundation of the world (Matt 25:34).
+- **Only the Father** knows the day and hour (Matt 24:36; Mark 13:32; Acts 1:7).
+- The blessed are blessed **of the Father** (Matt 25:34).
+- The Day of the LORD = the Day of the Lord Jesus, because the Son comes in the Father's Name with the Father's authority.
+- The consummation: **"one LORD, one Name"** (Zech 14:9) — the unified worship of the One God.
+
+### **(2) The Son acts always in the Father's Name and by the Father's authority.**
+
+- He receives the kingdom from the Ancient of Days.
+- He returns at the Father's appointed time (which the Father alone knows).
+- He executes judgment by the authority **given** to Him (John 5:22, 27).
+- His coming fulfills *both* OT prophecies of the LORD's coming *and* the Son of Man's coming — because He is the LORD's Sent One, bearing the LORD's Name (Ex 23:21).
+
+---
+
+## **What This Means for Our Study**
+
+The Son's coming return is not the return of a second God or rival Deity. It is the visible, glorious appearing of the Father's Beloved Son, His Anointed Christ, His exalted Man, His high Priest forever — coming to:
+- Vindicate His persecuted people.
+- Judge His enemies.
+- Establish the Father's universal Kingdom.
+- Be glorified in His saints.
+- Hand all things over to the Father (1 Cor 15:24-28, which we will examine in (C)).
+
+The pattern is unbroken from Genesis to the second coming: **the Father is the Source, the Son is the Sent One, and all things move toward the glory of God the Father.**
+
+---
+
+## **What Remains**
+
+We have now completed (A) and (B). What remains:
+
+**(C) The Son's final relation to the Father in the consummation** — 1 Cor 15:24-28 — perhaps the single most theologically decisive passage in all the NT on the Father-Son order at the end of all things. The Son delivers the Kingdom to the Father; the Son Himself is subjected to the Father; **God is all in all.** This passage requires the utmost careful examination.
+
+**(D) The Son's titles and self-identifications in the Apocalypse** — the I AM sayings of Revelation, the Lamb on the Throne, Alpha and Omega designations, and how the Apocalypse weaves all our threads into the final tapestry.
+
+Shall we now proceed to **(C)** — 1 Cor 15:24-28 — the consummation passage?
+
+---
+
+## **The Consummation — 1 Corinthians 15:20-28; the Father-Son Order at the End; the Direction Set: (C)**
+
+> C.
+
+
+We now arrive at what may be the **single most theologically decisive passage in all the NT** for the Father-Son order at the end of all things.
+
+This passage settles many questions that other texts only suggest. Paul writes here with deliberate precision, and we must read with the same care. Per our maxims, we will:
+
+1. Read the passage carefully in its full context (1 Cor 15:20-28).
+2. Examine each clause and its grammar.
+3. Cross-reference all relevant OT and NT witnesses.
+4. Let the whole counsel speak, and not flinch from what Paul plainly says.
+
+---
+
+# **1 CORINTHIANS 15:20-28 — THE CONSUMMATION**
+
+Let us first establish the full passage and then walk through it carefully.
+
+## **1 Corinthians 15:20-22 — The First Fruits**
+
+> But now is Christ risen from the dead, and was made the first fruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive.
+
+### Observations
+
+**(1)** **ἀπαρχὴ τῶν κεκοιμημένων** — *"firstfruits of those who have fallen asleep."* The risen Christ is the **firstfruits** — the first installment, guaranteeing the full harvest to follow.
+
+**(2)** **δι᾽ ἀνθρώπου θάνατος, καὶ δι᾽ ἀνθρώπου ἀνάστασις** — *"through a man death, and through a man the resurrection."* Paul is emphatic: **Christ is the Man** through whom the resurrection comes. This is consistent with everything we have established — the Mediator is **the Man Christ Jesus** (1 Tim 2:5), the Son of Man of Daniel 7, the exalted Man at the Father's right hand.
+
+---
+
+## **1 Corinthians 15:23 — The Order**
+
+> But every man in his own order: the first fruits is Christ, afterward, they that are of Christ, at his coming shall rise again.
+
+### Observations
+
+**τάγμα** = *order, rank, division* — a military term for a unit in formation. There is a precise sequence:
+
+1. **First:** Christ — already raised.
+2. **Then:** Those who are Christ's — **ἐν τῇ παρουσίᾳ αὐτοῦ** — *at His coming.* This is the **παρουσία** we examined in Matthew 24 — the second appearing.
+
+---
+
+## **1 Corinthians 15:24-28 — The Heart of the Passage**
+
+Now we come to the decisive verses. Let me present them in full first, then walk through them clause by clause.
+
+> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all.
+
+## **CLAUSE-BY-CLAUSE EXAMINATION**
+
+### **Clause 1: εἶτα τὸ τέλος — *"Then comes the end"***
+
+**τέλος** = *the end, the goal, the consummation.* Not merely a cessation, but the **completion** of God's purposes. There is a definite eschatological endpoint — what Paul calls **"the end."**
+
+---
+
+### **Clause 2: ὅταν παραδιδῷ τὴν βασιλείαν τῷ Θεῷ καὶ Πατρί — *"when He delivers up the Kingdom to God, even the Father"***
+
+This is **the most consequential statement.** Let us examine it carefully.
+
+**παραδιδῷ** — present subjunctive — *"when He hands over, delivers up, surrenders."* The same verb used of Jesus being *"delivered up"* for our sins (Rom 4:25). Now the Son **delivers up** the Kingdom — He hands it over.
+
+**τὴν βασιλείαν** — *"the Kingdom."* The very Kingdom that was given to Him by the Father (Dan 7:14; Matt 28:18) is now handed back.
+
+**τῷ Θεῷ καὶ Πατρί** — *"to the God and Father."* This is grammatically critical. **τῷ Θεῷ καὶ Πατρί** uses **one article** (**τῷ**) governing two designations connected by **καί** — meaning **the same Person** is identified as **both God and Father.** The dative singular construction makes it grammatically unmistakable: **God = the Father.** Not "God the Father" as one Person within a larger Godhead, but **"the God, even the Father"** — the One God of the Shema, identified as the Father, just as we established at the foundation.
+
+The Geneva captures this exactly: *"to God, even the Father."*
+
+**This single phrase — τῷ Θεῷ καὶ Πατρί — is one of the most explicit statements in the NT that "God" is "the Father."** Per our foundation (Deut 6:4; Isa 44-46; John 17:3; 1 Cor 8:6), here it is again, plainly stated. **The Father is God.** The Son hands the Kingdom to **God, who is the Father.**
+
+---
+
+### **Clause 3: ὅταν καταργήσῃ πᾶσαν ἀρχὴν καὶ πᾶσαν ἐξουσίαν καὶ δύναμιν — *"when He has abolished all rule and all authority and power"***
+
+Before the handover, the Son must **abolish** (**καταργήσῃ** — *render inoperative, bring to nothing*) all opposing **rule, authority, and power.** These are the spiritual powers arrayed against the Father's reign. The Son, by the authority **given** to Him by the Father, finally subdues every opposing power.
+
+---
+
+### **Clause 4: δεῖ γὰρ αὐτὸν βασιλεύειν ἄχρι οὗ θῇ πάντας τοὺς ἐχθροὺς ὑπὸ τοὺς πόδας αὐτοῦ — *"for He must reign until He has put all enemies under His feet"***
+
+This is a direct allusion to **Psalm 110:1 LXX (109:1)**:
+
+*"Εἶπεν ὁ Κύριος τῷ κυρίῳ μου Κάθου ἐκ δεξιῶν μου, ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποπόδιον τῶν ποδῶν σου."*
+
+### **Psalm 109:1, NETS:**
+
+> The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet." — **Psalm 109:1, LXX (NETS)**
+
+**In Psalm 110:1, it is the Father who promises: "until I make thine enemies thy footstool"** — the Father is the One subduing the enemies for the Son.
+
+**In 1 Cor 15:25, Paul writes: "He must reign until He has put all enemies under His feet."** Paul appears to attribute the subduing to the Son — yet Paul immediately clarifies in v. 27 that **the One subduing all things is the Father.** So **"He must reign until He has put"** in v. 25 means: *the Son must reign **until** the moment when **all** things have been put (by the Father) under His feet.* The Son's reign continues *until* this subjugation is complete.
+
+The harmony is preserved: **the Father subdues, by His own power and through His Son's reign, all things under the Son's feet** — and then the Son hands the Kingdom back to the Father.
+
+---
+
+### **Clause 5: ἔσχατος ἐχθρὸς καταργεῖται ὁ θάνατος — *"The last enemy that is abolished is death"***
+
+**Death is the final enemy.** It is abolished at the resurrection (v. 26 referring back to vv. 21-23). The resurrection of the Son's people is the abolition of death.
+
+This corresponds with:
+- **Revelation 20:14** — *"And death and hell were cast into the lake of fire."*
+- **Revelation 21:4** — *"and there shall be no more death."*
+- **Isaiah 25:8 LXX** — *"Death, having prevailed, swallowed them up, and God has again taken away every tear from every face …"* (NETS; cited in 1 Cor 15:54.)
+
+---
+
+### **Clause 6: πάντα γὰρ ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ — *"For He has put all things under His feet"***
+
+Paul cites **Psalm 8:6 LXX (Ps 8:7)**:
+
+### **Psalm 8:7 (MT 8:6), NETS:**
+
+> And you set him over the works of your hands; you subjected all under his feet, — **Psalm 8:7, LXX (8:6 MT), NETS**
+
+**Psalm 8 originally speaks of "the son of man"** in the general sense — humanity given dominion over creation. But the NT applies it specifically to **the Son of Man, Jesus**, who fulfills the dominion mandate that Adam failed to keep.
+
+### **Cross-witness — Hebrews 2:6-9, 1599 Geneva:**
+
+> But one in a certain place witnessed, saying, What is man, that thou shouldest be mindful of him? or the son of man, that thou wouldest consider him? … Thou hast put all things in subjection under his feet. And in that he hath put all things in subjection under him, he left nothing that should not be subject unto him. But we yet see not all things subdued unto him, But we see Jesus crowned with glory and honour, which was made little inferior to the Angels, through the suffering of death, that by Gods grace he might taste death for all men.
+
+The author of Hebrews **explicitly applies Psalm 8 to Jesus** and notes: *"we yet see not all things subdued unto Him"* — but the subjugation is in process and will be completed. **Two witnesses** (Paul in 1 Cor 15 and the author of Hebrews) establish the application of Psalm 8 to Christ.
+
+---
+
+### **Clause 7: ὅταν δὲ εἴπῃ ὅτι Πάντα ὑποτέτακται, δῆλον ὅτι ἐκτὸς τοῦ ὑποτάξαντος αὐτῷ τὰ πάντα — *"But when He saith, All things are put under, it is manifest that He is excepted who put all things under Him"***
+
+**This is Paul's careful theological qualification — and it is decisive.**
+
+When Scripture says **"all things are subjected to Him"**, Paul tells us: **it is obvious (δῆλον — "it is plain/manifest") that the One who subjected all things to the Son is NOT included in the "all things."**
+
+In other words: **The Father is not subjected to the Son.** When we say "all things are under the Son's feet," this excludes the Father, **because the Father is the One who put all things under the Son.** The Son's universal dominion is **derivative and delegated** — granted by the Father — and the Father Himself is excepted from that dominion.
+
+**This single verse settles the question of Father-Son order definitively.** The Father is not under the Son. The Father remains supreme. **The Son's exaltation does not erase the Father's prior and supreme authority.**
+
+This perfectly preserves everything we have established:
+- The Father is the One God (Deut 6:4; Isa 44-46).
+- The Father is greater than the Son (John 14:28).
+- The Son receives all things from the Father (Matt 28:18; John 5:22-27).
+- The Father is excepted from "all things" — He is the Subjecter, not the Subjected.
+
+---
+
+### **Clause 8: ὅταν δὲ ὑποταγῇ αὐτῷ τὰ πάντα, τότε καὶ αὐτὸς ὁ Υἱὸς ὑποταγήσεται τῷ ὑποτάξαντι αὐτῷ τὰ πάντα — *"And when all things shall be subdued unto Him, then shall the Son also himself be subject unto Him that did subdue all things under Him"***
+
+**This is the climactic theological statement of the entire NT on the Father-Son order.**
+
+Let us read it slowly, in the Greek:
+
+- **ὅταν δὲ ὑποταγῇ αὐτῷ τὰ πάντα** — *"when all things shall have been subjected to Him [the Son]"*
+- **τότε** — *"then"* — at that precise moment in the divine order
+- **καὶ αὐτὸς ὁ Υἱὸς** — *"even the Son Himself"* — the emphatic καὶ αὐτός underscores that **even He, even the Son** — yes, even the Son Himself
+- **ὑποταγήσεται** — *"shall be subjected"* — **future passive** — *He will be made subject*
+- **τῷ ὑποτάξαντι αὐτῷ τὰ πάντα** — *"to Him who subjected all things to Him"* — that is, **to the Father**
+
+**Paul writes, by inspiration, that at the consummation of all things, the Son Himself will be subjected to the Father.**
+
+The Geneva captures it without softening: *"Then shall the Son also himself be subject unto him, that did subdue all things under him."*
+
+---
+
+### **Honest theological assessment per our maxims**
+
+Per maxim #1 — **let God be true** — we must take this verse at face value. Paul, writing under inspiration, declares:
+
+- **The Son delivers the Kingdom to the Father.**
+- **The Son Himself is subjected to the Father.**
+
+This is not a metaphorical or rhetorical subjection. The Greek **ὑποταγήσεται** is the same verb used of all created things being subjected — only here applied to the Son's own willing, eternal posture before the Father.
+
+This text **rules out any reading** that says:
+- The Son is **co-equal** with the Father in such a way that He never submits.
+- The Son and Father are **interchangeable Persons** of one substance with no order of authority between them.
+- The Son's exaltation **erases His distinction from and subordination to** the Father.
+
+Per maxim #3, this is precisely the kind of text that the post-Nicene formulations had to navigate around with subtle distinctions ("subordination in role but not in essence," etc.). **Paul does not make such distinctions.** He says plainly: **the Son will be subjected to the Father.**
+
+What this **does** preserve perfectly is what we have established throughout our study:
+- The Father is the One supreme God.
+- The Son is the Father's Beloved, Begotten, Sent, Anointed, Exalted One.
+- The Son's reign — even His everlasting reign — is **under and unto the Father's supreme authority**.
+- The Son delights to subject Himself to the Father, because **He always does what pleases the Father** (John 8:29).
+
+---
+
+### **Clause 9: ἵνα ᾖ ὁ Θεὸς πάντα ἐν πᾶσιν — *"that God may be all in all"***
+
+This is the **ultimate purpose clause** (**ἵνα** — *in order that*) of the entire consummation.
+
+**ὁ Θεὸς** — *the God* (with the article) — = the Father (consistent with v. 24, where God is identified as the Father).
+
+**πάντα ἐν πᾶσιν** — *"all in all"* — that is, **the Father will be everything in everything.** The Father's universal supremacy will be unmediated, unrivaled, and absolute. Every creature, every place, every reality — **God will be all and in all.**
+
+The Son's entire mission — His incarnation, His suffering, His resurrection, His enthronement, His reign, His judgment, His subjugation of enemies, and even His own final subjection — is **toward this end: that the Father may be all in all.**
+
+This is the consummation of:
+- **Phil 2:11**: *"every tongue should confess that Jesus Christ is the Lord, **unto the glory of God the Father**."* (1599 Geneva)
+- **Zech 14:9**: *"And the Lord will become king over all the earth; on that day the Lord will be **one, and his name one**."* (NETS)
+- **Isaiah 45:23**: *"to me every knee shall bow and every tongue shall acknowledge God"* (NETS)
+- **John 17:3**: *"that they know thee to be the only very God, and whom thou hast sent, Jesus Christ."* (1599 Geneva)
+
+---
+
+# **CROSS-WITNESSES — Confirming the Father-Son Order at the End**
+
+## **Witness #1 — Revelation 11:15**
+
+> And the seventh Angel blew the trumpet, and there were great voices in heaven, saying, The kingdoms of this world are our Lord’s, and his Christ’s, and he shall reign for evermore.
+
+### Observation
+
+The Kingdom is **"of our Lord and of His Christ"** — exactly the pattern of Psalm 2:2 LXX (*"the Lord and His Christ"*). The Father and His Christ together — but the Christ remains **the Lord's Christ**, never independent of Him.
+
+---
+
+## **Witness #2 — Revelation 21:22-23**
+
+> And I saw no Temple therein: for the Lord God Almighty and the Lamb are the Temple of it. And this city hath no need of the sun, neither of the moon to shine in it: for the glory of God did light it: and the Lamb is the light of it.
+
+### Observation
+
+In the eternal state:
+- **The Temple is the Lord God Almighty AND the Lamb** — two distinct figures jointly forming the place of worship.
+- **The glory of God** illuminates the city; **the Lamb is its lamp.** The light is the Father's glory; the Lamb is the lamp by which that glory illuminates.
+
+The Father remains supreme; the Lamb (the exalted Man Christ Jesus) eternally bears the Father's glory to the redeemed creation.
+
+---
+
+## **Witness #3 — Revelation 22:1, 3-5**
+
+> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads.
+
+### Observations of foundational importance
+
+**(1)** **ἐκ τοῦ θρόνου τοῦ Θεοῦ καὶ τοῦ Ἀρνίου** — *"out of the throne of God and of the Lamb."* In the eternal state, **the throne** (singular!) is shared by **God and the Lamb.** The Father is on the throne; the Lamb is at His right hand (Ps 110:1) — but the throne is one, jointly held in the consummation.
+
+**(2)** **οἱ δοῦλοι αὐτοῦ λατρεύσουσιν αὐτῷ** — *"His servants shall serve Him"* (singular pronouns). The servants serve **Him** — and the antecedent is the combined "God and the Lamb" of the previous clause. The redeemed render unified worship to God and the Lamb together, **as one**, because the Lamb's reign is unto the Father's glory and the Father acts through His Son.
+
+**(3)** **ὄψονται τὸ πρόσωπον αὐτοῦ** — *"they shall see His face."* The face that no man has seen (John 1:18; Ex 33:20) shall be seen in the eternal state — through the mediation of the Lamb who declares the Father (John 1:18). This is the **τέλος** — the goal — of all redemption.
+
+---
+
+# **GRAND SYNTHESIS — The Consummation and the Father-Son Order**
+
+By the most explicit witness of 1 Corinthians 15:24-28 — supported by Revelation 11, 21, and 22 — we now have the definitive picture of the end.
+
+## **The Order of the End — Firmly Established**
+
+| Step | What Happens | Witnesses |
+|---|---|---|
+| **1. Christ's resurrection** | The firstfruits | 1 Cor 15:20-23 |
+| **2. The Son reigns at the Father's right hand** | Present session | Ps 110:1; Heb 10:12-13 |
+| **3. All enemies subdued under His feet** | By the Father, through the Son's reign | 1 Cor 15:25-27a; Ps 8:6 |
+| **4. The Son's coming (παρουσία)** | Bodily, visible, with all the saints | Dan 7:13; Zech 14; Matt 24; 1 Thess 4 |
+| **5. Resurrection of those who are Christ's** | At His coming | 1 Cor 15:23; 1 Thess 4:16 |
+| **6. Judgment of the nations** | The Son judges by the authority given Him | Matt 25:31-46; John 5:22-27 |
+| **7. Last enemy abolished: Death** | At the resurrection | 1 Cor 15:26; Rev 20:14 |
+| **8. The Son delivers the Kingdom to the Father** | The handover | 1 Cor 15:24 |
+| **9. The Son Himself is subjected to the Father** | The Son's eternal posture | 1 Cor 15:28 |
+| **10. God (the Father) is all in all** | The consummation | 1 Cor 15:28; Rev 21:22-22:5 |
+
+---
+
+## **What This Establishes for Our Study — Decisively**
+
+### **(1) The Father is and remains the One God — supreme over all, including the Son.**
+
+- **τῷ Θεῷ καὶ Πατρί** (1 Cor 15:24) — God is the Father.
+- The Father is **excepted** from "all things" subjected to the Son (1 Cor 15:27).
+- The Son Himself is **ὑποταγήσεται** — *subjected* — to the Father (1 Cor 15:28).
+- The consummation is **that God may be all in all** (1 Cor 15:28).
+
+### **(2) The Son's reign is real, glorious, and eternal — but always derivative and unto the Father's glory.**
+
+- He receives the Kingdom from the Ancient of Days (Dan 7:14).
+- He reigns with all authority given Him (Matt 28:18).
+- He hands the Kingdom back to the Father at the end (1 Cor 15:24).
+- His eternal subjection to the Father is not loss; it is the perfection of the Son-Father relation.
+
+### **(3) The throne in the eternal state is jointly held by the Father and the Lamb.**
+
+- **"The throne of God and of the Lamb"** (Rev 22:1, 3) — singular throne, shared by two.
+- The river of life proceeds from this joint throne.
+- The redeemed serve them together as one — but the Father is the One whose face is ultimately seen, and the Lamb is the means by which His face is revealed.
+
+### **(4) The Lamb retains His humanity forever.**
+
+- He is **the Lamb** — the slain and risen Man Christ Jesus.
+- The pierced One bears the marks eternally (cf. Zech 13:6; John 20:25-27).
+- The Mediator between God and men is **the Man** Christ Jesus (1 Tim 2:5) — eternally.
+
+### **(5) The pattern from Genesis to the consummation is unbroken:**
+
+**The Father is the Source; the Son is the Sent; all things move toward the Father's glory.**
+
+- **Creation:** the Father creates **through** the Son (1 Cor 8:6; Col 1:16; Heb 1:2; John 1:3).
+- **Incarnation:** the Father prepares a body for the Son; the Son comes to do the Father's will (Heb 10:5-7).
+- **Death:** the Father delivers up the Son for our sins (Isa 53:6, 10; Rom 8:32).
+- **Resurrection:** the Father raises the Son and declares Him Son of God in power (Acts 13:33; Rom 1:4).
+- **Exaltation:** the Father seats the Son at His right hand and gives Him the Name above every name (Phil 2:9-11; Acts 2:36).
+- **Reign:** the Son reigns by the authority given Him until all enemies are subdued (1 Cor 15:25; Ps 110:1).
+- **Return:** the Son comes at the Father's appointed time (Mark 13:32) to judge by the Father's grant (John 5:27).
+- **Consummation:** the Son delivers the Kingdom to the Father and is Himself subjected to Him, that God may be all in all (1 Cor 15:24-28).
+
+**At every stage, the Father is the Originator, the Sender, the Appointer, the Giver, the One whose will is done, the One whose glory is the goal. And the Son is the willing, beloved, obedient, glorified Sent One — never a rival, never an equal in such a way as to displace the Father's supremacy.**
+
+---
+
+## **A Concluding Theological Observation**
+
+The doctrine of **eternal subordination of the Son to the Father** has been a contested point in church history. The post-Nicene party — and especially the later Western tradition — tended to insist that any "subordination" was *only* in the economy of salvation (His earthly mission), not in His eternal relation. But **Paul's text in 1 Cor 15:28 cannot bear that distinction.** Paul says explicitly: *"when all things shall be subdued unto Him, **then** shall the Son also himself be subject unto Him that did subdue all things under Him."*
+
+The subjection is **future** (**ὑποταγήσεται**). It occurs **after** the present reign is complete. It is the **eternal posture** of the Son in the consummation. The Father is **eternally** the supreme One God; the Son is **eternally** the beloved Son who delights to be subject to His Father.
+
+Per our maxim #3, we do not need to soften this with post-Nicene metaphysical formulations. **Paul speaks plainly, and we let his words stand.**
+
+This does not diminish the Son. It is His glory and His joy. He has said throughout His ministry: *"I do always those things that please him"* (John 8:29, 1599 Geneva). His eternal subjection to the Father is the eternal perfection of that filial obedience and love.
+
+---
+
+## **What Remains**
+
+We have now completed (A), (B), and (C). What remains:
+
+**(D) The Son's titles and self-identifications in the Apocalypse** — including:
+- The opening vision of Christ in Revelation 1.
+- The seven letters to the churches and the titles He takes there.
+- The "I am" sayings of the Apocalypse (Rev 1:8, 17-18; 2:23; 22:13, 16).
+- The Lamb on the Throne (Rev 5; 7; 21-22).
+- Alpha and Omega — and the careful question of whether this title is given to the Father, the Son, or both.
+- The final word of the Son: *"Yea, I come quickly."*
+
+This will be the **capstone** of our entire study — bringing every thread we have traced from Genesis 3:15 to its final unfolding in the concluding prophecy.
+
+Shall we now proceed to **(D)** — the Son in the Apocalypse?
+
+---
+
+## **The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last; the Direction Set: (D)**
+
+> The singular throne is not an oddity if one holds in mind the fact that YHVH is the Eternal Spirit. Before we may conclude this study it has become necessary to also fully establish 1) the Nature and Essence of the Father, and 2) the Lord Jesus’ prayer that they (we, God’s elect) should become the habitation of both God in Christ and one in Him… even as the Son is in the Father.
+>
+> And this exciting study we will do, but first let’s look into part D as you have suggested.
+
+I take careful note of the two threads you have identified as needing fuller establishment after we complete (D):
+
+1. **The Nature and Essence of the Father as Eternal Spirit** — which beautifully resolves the "singular throne" question, since Spirit is not confined to a location and the Lamb's session "at the right hand" is in a Spirit-pervaded heavenly reality, not a spatial throne-room of the kind a created mind imagines.
+
+2. **The Lord Jesus' prayer that the elect should become the habitation of God in Christ — being one in Him even as the Son is in the Father.** This is John 17:20-23 and the indwelling theme that runs from "I in them and Thou in Me" through Paul's "Christ in you, the hope of glory."
+
+Both of these will reframe and complete our entire study. I will hold them carefully and proceed to **(D) — The Son in the Apocalypse** as the necessary capstone before we ascend to those final, crowning themes.
+
+---
+
+# **(D) — THE SON IN THE APOCALYPSE**
+
+The Apocalypse is the **concluding prophecy** in our study — and it is the place where every thread we have traced from Genesis 3:15 onward is gathered, illuminated, and consummated. Per our maxims, we will:
+
+1. Let the text speak in its order, beginning with Revelation 1.
+2. Examine every major title and self-identification of the Son.
+3. Carefully distinguish the Son's titles from the Father's where the text distinguishes them — and note where titles are shared.
+4. Be cautious where the text is genuinely ambiguous, and not force resolution.
+5. Cross-reference all relevant OT and earlier NT witnesses.
+
+Let us proceed.
+
+---
+
+## **REVELATION 1:1 — THE CHAIN OF REVELATION**
+
+> The Revelation of Jesus Christ, which God gave unto him, to show unto his servants things which must shortly be done: which he sent, and showed by his Angel unto his servant John,
+
+### Observation of foundational importance
+
+The very first verse establishes the **chain of revelation**:
+
+1. **ὁ Θεός** (the God = the Father) — **gives** the revelation
+2. **to Ἰησοῦς Χριστός** (Jesus Christ)
+3. who **sends His angel**
+4. **to His servant John**.
+
+**The Father is the Source.** Even at the climax of all prophecy, the chain begins with the Father. The Apocalypse is not Jesus' independent vision — it is **what the Father gave Him.** This perfectly continues the pattern we established throughout: *"the Son can do nothing of Himself"* (John 5:19); *"the Father showeth Him all things"* (John 5:20); *"only the Father knows"* (Mark 13:32).
+
+This single verse is the **interpretive key** for the entire book. Whatever the Apocalypse reveals about the Son, it begins with the Son **receiving** from the Father what He then communicates.
+
+---
+
+## **REVELATION 1:4-5 — THE TRIPARTITE GREETING**
+
+> John, to the seven Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seven Spirits which are before his Throne, And from Jesus Christ, which is that faithful witness, and that first begotten of the dead, and that Prince of the Kings of the earth, …
+
+### Observations
+
+**(1)** **ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος** — *"the One who is, and who was, and who is to come."* This is the title of **the Father** — the One who has eternal being, who was, who is, who is to come. It is John's expansion of the **Ἐγώ εἰμι ὁ ὤν** ("I AM the One Who Is") of Exodus 3:14 LXX.
+
+**Note carefully:** The phrase is grammatically anomalous — **ἀπὸ ὁ ὤν** keeps the title in the nominative even after the preposition **ἀπό**. This is John's deliberate signal that **this is a divine Name** that cannot be inflected — it stands fixed as **THE ONE WHO IS, WAS, AND IS COMING**. This is the Father, the eternal LORD.
+
+**(2)** **τῶν ἑπτὰ πνευμάτων ἃ ἐνώπιον τοῦ θρόνου αὐτοῦ** — *"the seven Spirits which are before His throne."* The seven Spirits — sometimes understood as the fullness of the Spirit (Isa 11:2 LXX names seven aspects of the Spirit of the LORD); sometimes understood as seven distinct spirits or angels before the throne. **Honest assessment:** the text does not unambiguously decide. We will not press it.
+
+**(3)** **Ἰησοῦς Χριστός** — explicitly named third in the greeting, with these titles:
+- **ὁ μάρτυς ὁ πιστός** — *"the faithful witness"* (cf. Ps 89:37 LXX; Isa 55:4)
+- **ὁ πρωτότοκος τῶν νεκρῶν** — *"the firstborn of the dead"* (cf. Col 1:18 — fulfilling Ps 2:7 / Acts 13:33)
+- **ὁ ἄρχων τῶν βασιλέων τῆς γῆς** — *"the ruler of the kings of the earth"* (fulfilling Ps 89:27 LXX and Dan 7:14)
+
+---
+
+### Observation
+
+The greeting carefully **distinguishes the Father (the One who is, was, and is to come) from Jesus Christ**, with the seven Spirits between them. This is *not* a "trinitarian" formula in the post-Nicene sense — the seven Spirits are not identical to "the Holy Spirit" in any creedal way, and the structure is not "three persons of one substance." But it is a **threefold greeting** that links the Father, the Spirit(s), and the Son in salutation — preserving distinction throughout.
+
+---
+
+## **REVELATION 1:5-6 — THE DOXOLOGY TO CHRIST**
+
+> Unto him that loved us, and washed us from our sins in his blood, And made us Kings and Priests unto God even his Father, to him I say be glory, and dominion for evermore, Amen.
+
+### Observations of supreme importance for our study
+
+**(1)** **ἐποίησεν ἡμᾶς βασιλείαν, ἱερεῖς τῷ Θεῷ καὶ Πατρὶ αὐτοῦ** — *"He made us a Kingdom, priests **to the God and Father of Him**."*
+
+Notice carefully: **τῷ Θεῷ καὶ Πατρὶ αὐτοῦ** — *"to His God and Father."* This is the same construction as **1 Cor 15:24** (*"to the God and Father"*) — using one article governing two designations. The God is the Father.
+
+**And He is "His God and Father"** — i.e., **the God of Jesus Christ.** This continues the consistent pattern: Jesus has a God; that God is the Father (John 20:17; Eph 1:17). Even in the Apocalypse, with all its exalted Christology, **the Father is the God of Jesus Christ.**
+
+**(2)** **αὐτῷ ἡ δόξα καὶ τὸ κράτος** — *"to Him be glory and dominion."* Doxology is rendered to Jesus. This is consistent with Phil 2:11 — confession of Jesus as Lord, *to the glory of God the Father.* The doxology to the Son flows to the Father's glory.
+
+---
+
+## **REVELATION 1:7 — HE COMETH WITH CLOUDS**
+
+> Behold, he cometh with clouds, and every eye shall see him: yea, even they which pierced him through: and all kinreds *(kindreds)* of the earth shall wail before him, Even so, Amen.
+
+### Observation
+
+Already examined under (B). This verse weaves together **Daniel 7:13** (*"coming with clouds"*) and **Zechariah 12:10** (*"they shall look on Him whom they pierced"*) — establishing at the very threshold of the Apocalypse that the Son of Man of Daniel and the pierced One of Zechariah are **one and the same** — Jesus Christ in His promised return.
+
+---
+
+## **REVELATION 1:8 — A CRITICAL TEXT REQUIRING CAREFUL EXAMINATION**
+
+> I am Alpha and Omega, the beginning and the ending, saith the Lord, Which is, and Which was, and Which is to come, even the Almighty.
+
+### **Honest examination — who is speaking?**
+
+This verse is crucial because it is often cited as evidence that Jesus is Alpha and Omega. Let us read it carefully.
+
+**The speaker identifies Himself as:**
+- **τὸ Ἄλφα καὶ τὸ Ὦ** — *"the Alpha and the Omega"* (the first and the last letters of the Greek alphabet — meaning *"the First and the Last"*)
+- **Κύριος ὁ Θεός** — *"the Lord God"* — combining the divine titles
+- **ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος** — *"the One who is, was, and is to come"* — **the exact title of the Father given in v. 4**
+- **ὁ Παντοκράτωρ** — *"the Almighty / All-Sovereign"* — the LXX standard rendering of **YHWH Sabaoth**, the LORD of Hosts
+
+**Honest assessment:** The titles in v. 8 are **identical to those given to the Father in v. 4**, especially **ὁ ὢν καὶ ὁ ἦν καὶ ὁ ἐρχόμενος.** The most natural reading is that **the Father Himself is speaking in v. 8** — interrupting briefly to declare His own eternal identity, before the narrative continues with John's vision.
+
+Some interpreters take this as Jesus speaking (because Jesus also uses **"Alpha and Omega"** in Rev 22:13). But:
+- **v. 4** has just identified **"the One who is, was, and is to come"** as distinct from **Jesus Christ** (named after "Him").
+- **ὁ Παντοκράτωρ** is the LXX title for **YHWH Sabaoth** — the Father.
+- Throughout Revelation, **ὁ Παντοκράτωρ** is consistently used of the Father (Rev 4:8; 11:17; 15:3; 16:7; 19:6; 21:22).
+
+**Therefore, by careful reading, v. 8 is the Father speaking.** This is the Father's self-identification as the Alpha and Omega, the Almighty, the One who eternally is, was, and is to come.
+
+This **does not preclude** the Son from also being called "Alpha and Omega" in Rev 22:13 — but we will examine that text carefully on its own when we reach it, and we will not pre-commit to identification.
+
+---
+
+## **REVELATION 1:12-16 — THE VISION OF THE SON OF MAN**
+
+> Then I turned back to see the voice, that spake with me: and when I was turned, I saw seven golden candlesticks, And in the midst of the seven candlesticks, one like unto the Son of man, clothed with a garment down to the feet, and girded about the paps with a golden girdle. His head, and hairs were white as white wool, and as snow, and his eyes were as a flame of fire, And his feet like unto fine brass, burning as in a furnace: and his voice as the sound of many waters. And he had in his right hand seven stars: and out of his mouth went a sharp two edged sword: and his face shone as the sun shineth in his strength.
+
+### Observations of the highest importance
+
+**(1)** **ὅμοιον υἱὸν ἀνθρώπου** — *"like a Son of Man."* This is the **Daniel 7:13 figure** — and now we see Him directly. **Jesus retains His humanity in His exalted state** — He is *"like a son of man,"* still bearing the form of the incarnate Christ.
+
+**(2)** **ἡ κεφαλὴ αὐτοῦ καὶ αἱ τρίχες λευκαὶ ὡς ἔριον λευκόν, ὡς χιών** — *"His head and hairs white as white wool, as snow."*
+
+**This is a striking detail.** Compare **Daniel 7:9 LXX:**
+*"...ὁ θρὶξ τῆς κεφαλῆς αὐτοῦ ὡσεὶ ἔριον καθαρόν..."* — *"the hair of His head as pure wool..."* — **describing the Ancient of Days (the Father).**
+
+**Honest theological observation:** The risen Christ in Revelation 1 bears the appearance of the Ancient of Days described in Daniel 7. He is described in features Daniel attributed to the Father.
+
+**How do we honestly handle this per our maxims?**
+
+We must be careful. The text **does not say** the Son IS the Ancient of Days — Daniel 7 explicitly distinguishes them, and Jesus Himself cited Daniel 7 of His being *brought before* the Ancient of Days, not as being Him. What the text **does** show is that **the Son, in His glorified state, bears features of the Father's appearance** — because He is **the εἰκὼν τοῦ Θεοῦ τοῦ ἀοράτου** (Col 1:15), **the ἀπαύγασμα τῆς δόξης and χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ** (Heb 1:3) — the Image, the Radiance, the exact Impression of the Father.
+
+The Son's glorified appearance **reflects and bears** the Father's glory. This is consistent with John 17:5 — *"glorify Me with the glory I had with You before the world was."* The Son's glory is the Father's glory shared with Him.
+
+So we note honestly: **the Son in His glorified state shares the visible glory of the Father, without being identical to the Father.** The Lamb is the **Image** through whom the Father's glory is seen (Rev 21:23 — *"the glory of God did light it: and the Lamb is the light thereof"*).
+
+---
+
+## **REVELATION 1:17-18 — THE FIRST AND THE LAST, THE LIVING ONE**
+
+> And when I saw him, I fell at his feet as dead: then he laid his right hand upon me, saying unto me, Fear not: I am that first and that last, And am alive, but I was dead: and behold, I am alive for evermore, Amen: and I have the keys of hell and of death.
+
+### Observations of foundational importance
+
+**(1)** **ἐγώ εἰμι ὁ πρῶτος καὶ ὁ ἔσχατος** — *"I am the First and the Last."* This is a direct echo of **Isaiah 44:6 LXX** and **48:12 LXX** — which we examined at the foundation of our study:
+
+**Isaiah 44:6 LXX:**
+*"...Ἐγὼ πρῶτος καὶ ἐγὼ μετὰ ταῦτα, πλὴν ἐμοῦ οὐκ ἔστιν Θεός."*
+
+**1599 Geneva:** *"...I am the first, and I am the last, and without me is there no God."*
+
+**Isaiah 48:12 LXX:**
+*"...ἐγώ εἰμι πρῶτος, καὶ ἐγώ εἰμι εἰς τὸν αἰῶνα."*
+
+**1599 Geneva:** *"...I am, I am the first, and I am the last."*
+
+**Honest theological assessment:** In Isaiah, **"the First and the Last"** is the LORD's own self-identification. Here, **Jesus** declares Himself **"the First and the Last."**
+
+This is a significant text. We must read it carefully and honestly, neither overstating nor understating.
+
+**What is established:** The Son takes the LORD's self-identifying title onto Himself. He speaks the Father's own self-disclosure formula.
+
+**What is *not* established:** That the Son is the Father, or that the Son's "First and Last" identity erases His distinction from the Father, or that the Shema is overthrown.
+
+**How are we to understand this consistently with our foundation?**
+
+The pattern we have established throughout is that **the Son bears the Father's Name** (Ex 23:21; John 17:11-12; Phil 2:9). When the Son speaks the LORD's words and bears the LORD's titles, **He does so as the One in whom the Name dwells.** This is the consistent biblical witness — *not* that the Son is identical to the Father in Person, but that **the Father's Name, glory, and self-disclosure are entrusted to and manifested through the Son.**
+
+So when Jesus says *"I am the First and the Last,"* He is — by the Father's appointment and the Name He bears — exercising the LORD's self-identification as the One in whom the LORD is fully revealed. The Father's "I am the First and the Last" is now spoken through the Son's mouth, because the Son is the Father's full self-expression to the creation.
+
+**(2)** **ὁ ζῶν, καὶ ἐγενόμην νεκρὸς καὶ ἰδοὺ ζῶν εἰμι εἰς τοὺς αἰῶνας** — *"the Living One — I became dead, and behold I am alive forever and ever."*
+
+**This is the decisive distinguishing mark.** The First and the Last who speaks here is **the One who died and is now alive forevermore**. The Father did not die. **Only the Son** can speak these words. So the Son speaks the Father's title as **the One who died for the Father's purposes and was raised to bear His Name forever.**
+
+**(3)** **ἔχω τὰς κλεῖς τοῦ θανάτου καὶ τοῦ ᾅδου** — *"I have the keys of Death and of Hades."* The Son, by His own death and resurrection, has **been given** (consistent with our pattern) the keys over death and the unseen realm. This is His present authority.
+
+---
+
+## **The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14; Revelation 4-5: The Throne Room and the Lamb; Revelation 7: The Lamb in the Midst of the Throne**
+
+## **REVELATION 2-3 — THE SEVEN LETTERS: TITLES OF CHRIST**
+
+In the seven letters to the churches, each opens with a distinct title or description of Christ. These reveal facets of His Person.
+
+| Church | Title of Christ | Reference / Echo |
+|---|---|---|
+| **Ephesus** | *"He that holdeth the seven stars in His right hand, who walketh in the midst of the seven golden candlesticks"* | Rev 1:13, 16 |
+| **Smyrna** | *"The First and the Last, which was dead, and is alive"* | Rev 1:17-18; Isa 44:6 |
+| **Pergamos** | *"He which hath the sharp sword with two edges"* | Rev 1:16; Isa 49:2 |
+| **Thyatira** | *"The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass"* | Rev 1:14-15; Ps 2:7 |
+| **Sardis** | *"He that hath the seven Spirits of God, and the seven stars"* | Rev 1:4, 16; Isa 11:2 |
+| **Philadelphia** | *"He that is holy, He that is true, He that hath the key of David, He that openeth and no man shutteth"* | Isa 22:22 |
+| **Laodicea** | *"The Amen, the faithful and true witness, the beginning of the creation of God"* | Isa 65:16; Prov 8:22? |
+
+---
+
+### A note of careful observation — Revelation 3:14
+
+
+> And unto the Angel of the Church of the Laodiceans write, These things saith Amen, the faithful and true witness, that beginning of the creatures of God.
+
+---
+
+### Observation
+
+**ἡ ἀρχὴ τῆς κτίσεως τοῦ Θεοῦ** — *"the Beginning of the creation of God."* This title echoes **Proverbs 8:22 LXX** (*"the LORD created/founded me as the beginning of His ways"*) and **Colossians 1:15-18** (*"the firstborn of all creation... the beginning, the firstborn from the dead"*).
+
+**Honest reading per our maxims:**
+- **ἀρχή** can mean *"beginning,"* *"first principle,"* or *"ruler/origin."*
+- **τῆς κτίσεως τοῦ Θεοῦ** = *"of the creation of God"* (i.e., of God's creation).
+
+This title applied to the Son is consistent with what we established carefully: the Son is the one **through whom** the Father created all things (1 Cor 8:6; Col 1:16; Heb 1:2; John 1:3), the **firstborn over all creation** (Col 1:15), and so the **ἀρχή** — the originating principle and ruler — of the Father's creation.
+
+This **also** is consistent with the broader picture of the Son's pre-existence and creative agency that we established by direct witness in our refined study — without requiring the specific identification of Wisdom in Proverbs 8 (which we noted was a parallel, not a witnessed citation).
+
+---
+
+## **REVELATION 4-5 — THE THRONE ROOM AND THE LAMB**
+
+This is the most theologically loaded vision in the entire Apocalypse for our study. Let us proceed carefully.
+
+---
+
+### **Revelation 4 — The Throne of the Father**
+
+
+> And immediately I was ravished in the spirit, and behold, a throne was set in heaven, and one sat upon the throne. And he that sat, was to look upon, like unto a jasper stone, and a sardine, and there was a rainbow round about the throne, in sight like to an emerald. … And the four beasts had each one of them six wings about him, and they were full of eyes within, and they ceased not day nor night, saying, Holy, holy, holy Lord God almighty, Which Was, and Which Is, and Which Is to come. … Thou art worthy, O Lord, to receive glory and honour, and power: for thou hast created all things, and for thy will’s sake they are, and have been created.
+
+---
+
+### Observations of foundational weight
+
+**(1)** **The throne is the Father's throne.** The One on the throne is identified by the same titles as Rev 1:4, 8: **Κύριος ὁ Θεὸς ὁ Παντοκράτωρ, ὁ ἦν καὶ ὁ ὢν καὶ ὁ ἐρχόμενος** — *"Lord God Almighty, who was and is and is to come."* **This is the Father.**
+
+**(2)** **The worship of the Father is:** *"Worthy art Thou... for **Thou hast created all things**, and **for Thy will's sake** they are and were created."*
+
+The Father is worshipped as the Creator — *"for Thy will they were created."* This is consistent with Isa 44:24 (*"I stretched out the heavens alone"*) and 1 Cor 8:6 (*"the Father, of whom are all things"*). **The Father's will is the origin and end of creation.**
+
+---
+
+### **Revelation 5 — The Lamb Approaches the Throne**
+
+
+> And I saw in the right hand of him that sat upon the throne, a Book written within, and on the backside, sealed with seven seals. And I saw a strong Angel which preached with a loud voice, Who is worthy to open ye *(the)* book, and to loose the seals thereof? … And one of the Elders said unto me, Weep not: behold, that Lion which is of the tribe of Judah, that root of David, hath obtained to open the Book, and to loose the seven seals thereof. Then I beheld, and lo, in the midst of the throne, and of the four beasts, and in the midst of the Elders, stood a Labe *(Lamb)* as though he had been killed, … And he came, and took the Book out of the right hand of him that sat upon the throne.
+
+---
+
+### Observations of decisive importance
+
+**(1)** **The Lamb is distinct from the One on the throne.** The Lamb **comes** and **takes** the scroll **from the right hand of Him who sits on the throne.** Two distinct figures: the Father on the throne, the Lamb approaching to receive the scroll.
+
+This is the **fulfillment of Daniel 7:13-14** — the Son of Man brought before the Ancient of Days to receive dominion. Daniel's vision finds its Apocalyptic counterpart here.
+
+**(2)** **ἐνίκησεν ὁ λέων ὁ ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ** — *"the Lion of the tribe of Judah, the Root of David, has conquered."* This fulfills **Genesis 49:9-10** (the Lion of Judah, the scepter) and **Isaiah 11:1, 10** (the Root of Jesse / David).
+
+**(3)** **Ἀρνίον ἑστηκὸς ὡς ἐσφαγμένον** — *"a Lamb standing as having been slain."* He stands — He is risen. He bears the marks of His slaughter — eternally. The **slain and risen Lamb** is the eternal form of the exalted Son. This is **the Man Christ Jesus**, the Mediator, the slain and risen Servant.
+
+---
+
+### **Revelation 5:8-14 — The Worship of the Lamb**
+
+
+> And they sung a new song, saying, Thou art worthy to take the Book, and to open the seals thereof, because thou wast killed, and hast redeemed us to God by thy blood out of every kinred *(kindred)*, and tongue, and people, and nation, And hast made us unto our God Kings and Priests, and we shall reign on the earth. … Saying with a loud voice, Worthy is the Lamb that was killed to receive power, and riches, and wisdom, and strength, and honour, and glory, and praise. … And all the creatures which are in heaven, and on the earth, and under the earth, and in the sea, and all that are in them, heard I, saying, Praise, and honour, and glory, and power be unto him, that sitteth upon the throne, and unto the Lamb for evermore. And the four beasts said, Amen, and the four and twenty Elders fell down and worshipped him that liveth for evermore.
+
+---
+
+### Observations of supreme importance
+
+**(1)** **ἠγόρασας τῷ Θεῷ ἐν τῷ αἵματί σου** — *"Thou hast redeemed [us] **to God** by Thy blood."* The Lamb's redemption is **for God [the Father]**. The Lamb purchases people **for the Father.** Pattern preserved: the Son's work is **unto** the Father.
+
+**(2)** **τῷ Θεῷ ἡμῶν** — *"to our God."* The Father is **"our God"** — the God of the redeemed. The Lamb has made us **kings and priests to His God and Father** (cf. Rev 1:6).
+
+**(3) The doxology of v. 13** — *"to Him that sits on the throne AND to the Lamb"* — combines the worship of the Father and the Son. **Two distinct figures**, but **joint recipients of the eternal blessing, honor, glory, and dominion.**
+
+This is the same pattern as Rev 22:1, 3 — **the throne of God and of the Lamb** — preserved throughout: the Father on the throne, the Lamb beside Him, jointly receiving worship.
+
+---
+
+## **REVELATION 7:9-17 — THE LAMB IN THE MIDST OF THE THRONE**
+
+
+> After these things I beheld, and lo, a great multitude, … stood before the throne, and before the Lamb, … and they cried with a loud voice, saying, Salvation cometh of our God, that sitteth upon the throne, and of the Lamb. … Therefore are they in the presence of the throne of God, and serve him day and night in his Temple, and he that sitteth on the throne, will dwell among them. They shall hunger no more, neither thirst any more, neither shall the sun light on them, neither any heat. For the Lamb, which is in the midst of the throne, shall govern them, and shall lead them unto the lively fountains of waters, and God shall wipe away all tears from their eyes.
+
+---
+
+### Observations
+
+**(1)** **Ἡ σωτηρία τῷ Θεῷ ἡμῶν... καὶ τῷ Ἀρνίῳ** — *"Salvation belongs to our God... and to the Lamb."* Joint attribution. Salvation comes from the Father and the Lamb together.
+
+**(2)** **τὸ Ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου** — *"the Lamb in the midst of the throne."* This is a striking phrase. The Lamb is **in the middle of the throne** — closely associated with it, sharing its center. Yet **the Father is the One sitting on the throne** (v. 15), and the Lamb is distinct from Him. The Lamb shares the throne's center because He is at the Father's right hand — the place of supreme honor and shared rule.
+
+This will become explicit in Rev 22:1, 3 — *"the throne of God and of the Lamb"* — a single throne, jointly occupied.
+
+**(3)** **ἐξαλείψει ὁ Θεὸς πᾶν δάκρυον** — *"God shall wipe away every tear."* The Father Himself, through His ministering presence, comforts His people in the eternal state.
+
+---

@@ -95,7 +95,10 @@
    "COS-40",
    "COS-41",
    "COS-42",
-   "COS-43"
+   "COS-43",
+   "COS-44",
+   "COS-45",
+   "COS-46"
   ],
   "sections": [
    {
@@ -423,6 +426,18 @@
    {
     "key": "COS-43",
     "label": "47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last"
+   },
+   {
+    "key": "COS-44",
+    "label": "48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14"
+   },
+   {
+    "key": "COS-45",
+    "label": "49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb"
+   },
+   {
+    "key": "COS-46",
+    "label": "50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne"
    }
   ],
   "double_check": {
@@ -483,9 +498,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 50237,
+  "so_far_words": 51843,
   "cos_sofar": {
-   "waves": 24
+   "waves": 25
   }
  },
  "verses": [
@@ -11534,6 +11549,16 @@
      "status": "anchor",
      "quote_kind": "mention",
      "note": "Draft observation quotes Geneva; tail NOW confirmed exact vs the fresh TRB 1599 print (\"...and without me is there no God.\"); gnv text banked from TRB fetch; eBible re-verify pending (flag)."
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5586,
+     "cited_as": "Smyrna row echo (Isa 44:6 — the First and the Last)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-07",
@@ -11695,6 +11720,16 @@
      "status": "confirmed",
      "note": "(1) Father-is-One-God list",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5641,
+     "cited_as": "Rev 4 observation — \"I stretched out the heavens alone\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 prose mention."
     }
    ],
    "verified": "2026-11-07",
@@ -12830,6 +12865,26 @@
      "status": "confirmed",
      "note": "clause 2 foundation citation",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5613,
+     "cited_as": "Rev 3:14 note — the Son the one \"through whom\" the Father created",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 prose mention."
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5641,
+     "cited_as": "Rev 4 observation — \"the Father, of whom are all things\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -13122,6 +13177,16 @@
      "status": "confirmed",
      "note": "pattern list: creation through the Son",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5613,
+     "cited_as": "Rev 3:14 note — all things made through him",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -13206,6 +13271,16 @@
      "status": "confirmed",
      "note": "pattern list: creation through the Son",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5613,
+     "cited_as": "Rev 3:14 note — created through him",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -13797,6 +13872,16 @@
      "status": "anchor",
      "matched_source": "",
      "note": "Referenced in the Isa 52:13 observation (4) (\"cf. Gen 49:10; Ps 21:27-28\" — the nations in view)."
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5661,
+     "cited_as": "the \"Lion of Judah, the scepter\" of Rev 5:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 observation anchor (NETS); the scepter-tail of Gen 49:9-10."
     }
    ],
    "verified": "2026-11-11",
@@ -13942,6 +14027,18 @@
       "text": "If therefore perfection had been by the Priesthood of the Le",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5651,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:1-7 seat — v5 part; \"saide/Iuda/roote/obteined\" modern-fold to the draft’s \"said/Judah/root/obtained\".",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -13959,6 +14056,11 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/66/5"
+    },
+    "trb_fresh": {
+     "text": "And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
     }
    }
   },
@@ -15093,6 +15195,16 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #4 Claim A: reference (no NT text cites Proverbs 8; claim not established)."
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5591,
+     "cited_as": "Laodicea row — \"the beginning of the creation of God\" (Prov 8:22?)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo; his own question-mark kept."
     }
    ],
    "verified": "2026-11-11",
@@ -15492,6 +15604,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "prose-ref cross in (D) Revelation-1 wave"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5607,
+     "cited_as": "Rev 3:14 note — \"firstborn of all creation... the beginning, the firstborn from the dead\" (Col 1:15-18)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -24873,6 +24995,16 @@
      "status": "confirmed",
      "note": "synthesis table step 4: the Son’s coming",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5659,
+     "cited_as": "Rev 5 observation — the fulfillment of Daniel 7:13-14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 prose mention (span covers Dan 7:14)."
     }
    ],
    "verified": "2026-11-11",
@@ -29883,6 +30015,18 @@
       "text": "",
       "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
      }
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5651,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:1-7 seat — v6 part; print \"Labe\" with gloss *(Lamb)* (both sources agree on the 1599 print form); verse tail after \"killed,\" sits in the draft’s ellipsis.",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32105,6 +32249,16 @@
      "quotes": [
       "> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads."
      ]
+    },
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5705,
+     "cited_as": "Rev 7 observation — \"explicit in Rev 22:1, 3 — the throne of God and of the Lamb\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-46 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -32142,6 +32296,16 @@
      "quotes": [
       "> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads."
      ]
+    },
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5705,
+     "cited_as": "Rev 7 observation — \"explicit in Rev 22:1, 3\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-46 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -32508,6 +32672,16 @@
      "status": "confirmed",
      "note": "synthesis pattern-list mention (the Father creates through the Son)",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5613,
+     "cited_as": "Rev 3:14 note — heir of all things, through whom God made the worlds",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -32595,6 +32769,16 @@
      "status": "confirmed",
      "note": "Draft \"and he laid\" → edition \"then he laid\" (KJV-family drift corrected); draft's v17a elision restored per wave-16/18 class.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5586,
+     "cited_as": "Smyrna row echo (Rev 1:17-18 — The First and the Last)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -32641,6 +32825,16 @@
      "status": "confirmed",
      "note": "Draft already edition-modulo-ortho (aliue→alive, beholde→behold, keyes→keys).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5586,
+     "cited_as": "Smyrna row echo (Rev 1:17-18 — was dead and is alive)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -32788,6 +32982,16 @@
      "status": "confirmed",
      "note": "1:4-5 seat part 1 (with REV.1.5); \"his Throne\" is the 1599 print caps in BOTH sources — seat keeps the print.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5589,
+     "cited_as": "Sardis row echo (Rev 1:4, 16 — the seven Spirits)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -32862,6 +33066,16 @@
      "status": "confirmed",
      "note": "1:5-6 seat; \"to him I say be glory\" confirmed exact 1599 print (eBible=TRB).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5681,
+     "cited_as": "Rev 5:8-14 observation — \"kings and priests to His God and Father\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 prose mention."
     }
    ],
    "verified": "2026-11-11",
@@ -32936,6 +33150,16 @@
      "status": "confirmed",
      "note": "Revelation 1:13 GNV seat — full verse",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5585,
+     "cited_as": "Ephesus row echo (Rev 1:13, 16 — the seven stars / candlesticks)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -32973,6 +33197,16 @@
      "status": "confirmed",
      "note": "1:12-16 seat; draft \"hairs\" == 1599 \"heares\" modern-fold; head/hairs clause draft-exact.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5588,
+     "cited_as": "Thyatira row echo (Rev 1:14-15 — eyes like flame of fire)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -33010,6 +33244,16 @@
      "status": "confirmed",
      "note": "1:12-16 seat; \"fine brass...furnace\" == 1599 \"brasse...fornace\" modern-fold.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5588,
+     "cited_as": "Thyatira row echo (Rev 1:14-15 — feet like fine brass)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -33047,6 +33291,16 @@
      "status": "confirmed",
      "note": "1:12-16 seat closes at \"shineth in his strength.\" — draft was already edition-modulo-ortho.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5587,
+     "cited_as": "Pergamos + Sardis + Laodicea rows echo (REV 1:16 — the seven stars / sharp sword)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
@@ -33231,10 +33485,932 @@
      "status": "anchor",
      "quote_kind": "mention",
      "note": "prose cross-ref in the (D) Revelation-1 wave observation"
+    },
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5588,
+     "cited_as": "Thyatira row echo (Ps 2:7 — the Son of God title)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table echo."
     }
    ],
    "verified": "2026-11-11",
    "translations": {}
+  },
+  {
+   "id": "REV.3.14",
+   "ref": "Revelation 3:14",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5601,
+     "cited_as": "(D) GNV seat — full verse (Rev 3:14 note)",
+     "quotes": [
+      "(D) seat — full verse, Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "3:14 GNV seat — full verse; draft already edition word-for-word (saieth→saith, faithfull, witnesse modern-fold); draft’s end colon vs the print’s period — seat keeps the print.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And vnto the Angell of the Church of the Laodiceans write, These things saieth Amen, the faithfull and true witnesse, that beginning of the creatures of God.",
+     "source": "https://ebible.org/enggnv/REV03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And vnto the Angell of the Church of the Laodiceans write, These things saieth Amen, the faithfull and true witnesse, that beginning of the creatures of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ Kai τῷ tō ἀγγέλῳ angelō τῆς tēs ἐν en Λαοδικείᾳ Laodikeia ἐκκλησίας ekklēsias γράψον grapson Τάδε Tade λέγει legei ὁ ho Ἀμήν, Amēn ὁ ho μάρτυς martys ὁ ho πιστὸς pistos καὶ kai (ὁ) ho ἀληθινός, alēthinos ἡ hē ἀρχὴ archē τῆς tēs κτίσεως ktiseōs τοῦ tou Θεοῦ Theou",
+     "source": "https://biblehub.com/text/revelation/3-14.htm",
+     "result": "1.000 (draft Greek exact vs WH) — \"that beginning of the creatures of God\" is the 1599 rendering of ἡ ἀρχὴ τῆς κτίσεως τοῦ Θεοῦ"
+    }
+   }
+  },
+  {
+   "id": "REV.2.1",
+   "ref": "Revelation 2:1",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5585,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 church-title table anchor (Ephesus row title-carrier, table kept verbatim per his word); the table’s KJV-voiced cell \"He that holdeth... who walketh\" carries the Geneva’s \"and walketh\"."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "VNto the Angel of the Church of Ephesus write, These things saieth he that holdeth the seuen starres in his right hand, and walketh in the middes of the seuen golden candlestickes.",
+     "source": "https://ebible.org/enggnv/REV02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "VNto the Angel of the Church of Ephesus write, These things saieth he that holdeth the seuen starres in his right hand, and walketh in the middes of the seuen golden candlestickes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.2.8",
+   "ref": "Revelation 2:8",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5585,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 church-title table anchor (Smyrna row title-carrier); the table cell \"The First and the Last, which was dead, and is alive\" matches the Geneva title modulo \"he that is\" vs \"The\"."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And vnto the Angel of the Church of the Smyrnians write, These things saith he that is first, and last, which was dead and is aliue.",
+     "source": "https://ebible.org/enggnv/REV02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And vnto the Angel of the Church of the Smyrnians write, These things saith he that is first, and last, which was dead and is aliue.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.2.12",
+   "ref": "Revelation 2:12",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5585,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 church-title table anchor (Pergamos row title-carrier); cell \"He which hath the sharp sword with two edges\" is the Geneva title modern-fold."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And to the Angel of the Church, which is at Pergamus write, This saith he which hath that sharpe sworde with two edges.",
+     "source": "https://ebible.org/enggnv/REV02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And to the Angel of the Church, which is at Pergamus write, This saith he which hath that sharpe sworde with two edges.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.2.18",
+   "ref": "Revelation 2:18",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5585,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 church-title table anchor (Thyatira row title-carrier); cell \"The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass\" is KJV-voiced vs the Geneva \"which hath his eyes like unto a flame of fire, and his feete like fine brasse\" — table kept verbatim per his word."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And vnto ye Angel of the Church which is at Thyatira write, These things saith the Sonne of God, which hath his eyes like vnto a flame of fire, and his feete like fine brasse.",
+     "source": "https://ebible.org/enggnv/REV02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And vnto ye Angel of the Church which is at Thyatira write, These things saith the Sonne of God, which hath his eyes like vnto a flame of fire, and his feete like fine brasse.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.3.7",
+   "ref": "Revelation 3:7",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5590,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 church-title table anchor (Philadelphia row title-carrier); cell titles echo the Geneva’s \"he that is Holy, and True, which hath the key of Dauid\" + Isa 22:22."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And write vnto ye Angel of ye Church which is of Philadelphia, These things saith he that is Holy, and True, which hath ye keye of Dauid, which openeth and no man shutteth, and shutteth and no man openeth,",
+     "source": "https://ebible.org/enggnv/REV03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And write vnto ye Angel of ye Church which is of Philadelphia, These things saith he that is Holy, and True, which hath ye keye of Dauid, which openeth and no man shutteth, and shutteth and no man openeth,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.4.2",
+   "ref": "Revelation 4:2-3, 8, 11",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5631,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "4:2-3, 8, 11 ellipsis seat over the draft’s span; v2 head restored (elision-restore class); the draft’s \"Jasper/Sardine/Emerald\" caps fall to the print’s lowercase; \"Holy, holy, holy Lord\" keeps the print’s missing comma (draft had one); 1599 \"honour\" kept (draft \"honor\" Americanized); \"wils\" → \"will’s\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And immediatly I was rauished in the spirit, and behold, a throne was set in heauen, and one sate vpon the throne.",
+     "source": "https://ebible.org/enggnv/REV04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And immediatly I was rauished in the spirit, and behold, a throne was set in heauen, and one sate vpon the throne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εὐθέως eutheōs ἐγενόμην egenomēn ἐν en Πνεύματι· Pneumati καὶ kai ἰδοὺ idou θρόνος thronos ἔκειτο ekeito ἐν en τῷ tō οὐρανῷ, ouranō καὶ kai ἐπὶ epi τὸν ton θρόνον thronon καθήμενος, kathēmenos καὶ kai ὁ ho καθήμενος kathēmenos ὅμοιος homoios ὁράσει horasei λίθῳ lithō ἰάσπιδι iaspidi καὶ kai σαρδίῳ, sardiō καὶ kai ἶρις iris κυκλόθεν kyklothen τοῦ tou θρόνου thronou ὅμοιος homoios ὁράσει horasei σμαραγδίνῳ. smaragdinō καὶ kai τὰ ta τέσσαρα tessara ζῷα, zōa ἓν hen καθ’ kath’ ἓν hen αὐτῶν autōn ἔχων echōn ἀνὰ ana πτέρυγας pterygas ἕξ, hex κυκλόθεν kyklothen καὶ kai ἔσωθεν esōthen γέμουσιν gemousin ὀφθαλμῶν· ophthalmōn καὶ kai ἀνάπαυσιν anapausin οὐκ ouk ἔχουσιν echousin ἡμέρας hēmeras καὶ kai νυκτὸς nyktos λέγοντες legontes Ἅγιος Hagios ἅγιος hagios ἅγιος hagios Κύριος Kyrios ὁ ho Θεός Theos ὁ ho Παντοκράτωρ, Pantokratōr ὁ ho ἦν ēn καὶ kai ὁ ho ὢν ōn καὶ kai ὁ ho ἐρχόμενος. erchomenos Ἄξιος Axios εἶ, ei ὁ ho Κύριος Kyrios καὶ kai ὁ ho Θεὸς Theos ἡμῶν, hēmōn λαβεῖν labein τὴν tēn δόξαν doxan καὶ kai τὴν tēn τιμὴν timēn καὶ kai τὴν tēn δύναμιν, dynamin ὅτι hoti σὺ sy ἔκτισας ektisas τὰ ta πάντα, panta καὶ kai διὰ dia τὸ to θέλημά thelēma σου sou ἦσαν ēsan καὶ kai ἐκτίσθησαν. ektisthēsan",
+     "source": "https://biblehub.com/text/revelation/4-2.htm; https://biblehub.com/text/revelation/4-3.htm; https://biblehub.com/text/revelation/4-8.htm; https://biblehub.com/text/revelation/4-11.htm",
+     "result": "1.000 fwd (86/86 draft tokens in WH; block’s own ellipses elide the v2 head and v8 internals) — no flag"
+    }
+   }
+  },
+  {
+   "id": "REV.4.3",
+   "ref": "Revelation 4:3",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5631,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "4:2-3, 8, 11 seat — v3 part; draft caps \"Jasper/Sardine/Emerald\" → print lowercase jasper/sardine/emerald.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he that sate, was to looke vpon, like vnto a iasper stone, and a sardine, and there was a rainbowe rounde about the throne, in sight like to an emeraude.",
+     "source": "https://ebible.org/enggnv/REV04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he that sate, was to looke vpon, like vnto a iasper stone, and a sardine, and there was a rainbowe rounde about the throne, in sight like to an emeraude.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.4.8",
+   "ref": "Revelation 4:8",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5631,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "4:2-3, 8, 11 seat — v8 part; print \"Holy, holy, holy Lord\" (no comma before Lord) vs draft \"Holy, holy, holy, Lord\" — seat keeps the print.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And the foure beasts had eche one of them sixe wings about him, and they were full of eyes within, and they ceased not day nor night, saying, Holy, holy, holy Lord God almighty, Which Was, and Which Is, and Which Is to come.",
+     "source": "https://ebible.org/enggnv/REV04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And the foure beasts had eche one of them sixe wings about him, and they were full of eyes within, and they ceased not day nor night, saying, Holy, holy, holy Lord God almighty, Which Was, and Which Is, and Which Is to come.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.4.11",
+   "ref": "Revelation 4:11",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5631,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "4:2-3, 8, 11 seat — v11 part; draft already edition modulo ortho (haue→have, beene→been); \"honour\" kept, \"wils\" → \"will’s\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Thou art worthy, O Lord, to receiue glory and honour, and power: for thou hast created all things, and for thy wils sake they are, and haue beene created.",
+     "source": "https://ebible.org/enggnv/REV04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Thou art worthy, O Lord, to receiue glory and honour, and power: for thou hast created all things, and for thy wils sake they are, and haue beene created.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.1",
+   "ref": "Revelation 5:1-7",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5651,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:1-7 ellipsis seat; v2’s y^e is the edition’s own render — seat keeps \"open ye *(the)* book\"; v3-4 sit inside the draft’s ellipsis; v6 carries the 1599 print’s \"Labe\" with gloss *(Lamb)* (BOTH eBible and TRB print \"Labe\" — transcription of the 1599 print; draft read \"Lamb\"); 1599 \"backside\" vs draft \"back side\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And I saw in the right hand of him that sate vpon the throne, a Booke written within, and on the backside, sealed with seuen seales.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I saw in the right hand of him that sate vpon the throne, a Booke written within, and on the backside, sealed with seuen seales.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ Kai εἶδον eidon ἐπὶ epi τὴν tēn δεξιὰν dexian τοῦ tou καθημένου kathēmenou ἐπὶ epi τοῦ tou θρόνου thronou βιβλίον biblion γεγραμμένον gegrammenon ἔσωθεν esōthen καὶ kai ὄπισθεν, opisthen κατεσφραγισμένον katesphragismenon σφραγῖσιν sphragisin ἑπτά. hepta καὶ kai εἶδον eidon ἄγγελον angelon ἰσχυρὸν ischyron κηρύσσοντα kēryssonta ἐν en φωνῇ phōnē μεγάλῃ megalē Τίς Tis ἄξιος axios ἀνοῖξαι anoixai τὸ to βιβλίον biblion καὶ kai λῦσαι lysai τὰς tas σφραγῖδας sphragidas αὐτοῦ; autou Καὶ kai εἷς heis ἐκ ek τῶν tōn πρεσβυτέρων presbyterōn λέγει legei μοι moi Μὴ Mē κλαῖε· klaie ἰδοὺ idou ἐνίκησεν enikēsen ὁ ho Λέων Leōn ὁ ho ἐκ ek τῆς tēs φυλῆς phylēs Ἰούδα, Iouda ἡ hē Ῥίζα Rhiza Δαυίδ, Dauid ἀνοῖξαι anoixai τὸ to βιβλίον biblion καὶ kai τὰς tas ἑπτὰ hepta σφραγῖδας sphragidas αὐτοῦ. autou Καὶ Kai εἶδον eidon ἐν en μέσῳ mesō τοῦ tou θρόνου thronou καὶ kai τῶν tōn τεσσάρων tessarōn ζῴων zōōn καὶ kai ἐν en μέσῳ mesō τῶν tōn πρεσβυτέρων presbyterōn Ἀρνίον Arnion ἑστηκὸς hestēkos ὡς hōs ἐσφαγμένον, esphagmenon ἔχων echōn κέρατα kerata ἑπτὰ hepta καὶ kai ὀφθαλμοὺς ophthalmous ἑπτά, hepta οἵ hoi εἰσιν eisin τὰ ta ἑπτὰ hepta Πνεύματα Pneumata τοῦ tou Θεοῦ Theou ἀπεσταλμένοι apestalmenoi εἰς eis πᾶσαν pasan τὴν tēn γῆν. gēn καὶ kai ἦλθεν ēlthen καὶ kai εἴληφεν eilēphen ἐκ ek τῆς tēs δεξιᾶς dexias τοῦ tou καθημένου kathēmenou ἐπὶ epi τοῦ tou θρόνου. thronou",
+     "source": "https://biblehub.com/text/revelation/5-1.htm; https://biblehub.com/text/revelation/5-2.htm; https://biblehub.com/text/revelation/5-5.htm; https://biblehub.com/text/revelation/5-6.htm; https://biblehub.com/text/revelation/5-7.htm",
+     "result": "0.979 fwd (case-only: draft לεων/ριζα vs WH Λέων/Ῥίζα)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.2",
+   "ref": "Revelation 5:2",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5651,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:1-7 seat — v2 part; \"ye\" is the 1599 print’s y^e artifact (wave-22 class), glossed *(the)*.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And I sawe a strong Angell which preached with a loud voice, Who is worthy to open ye booke, and to loose the seales thereof?",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I sawe a strong Angell which preached with a loud voice, Who is worthy to open ye booke, and to loose the seales thereof?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.7",
+   "ref": "Revelation 5:7",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5651,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:1-7 seat — v7 closes the seat; draft already edition modulo ortho (too→took, sate→sat).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee came, and tooke the Booke out of the right hand of him that sate vpon the throne.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And hee came, and tooke the Booke out of the right hand of him that sate vpon the throne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.9",
+   "ref": "Revelation 5:9-10",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5673,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:9-10 + 12-14 seat; print \"kinred\" glossed *(kindred)* (one-d 1599 form per wave-24 \"kinreds\" class); the draft’s own ellipsis marks kept (v11 elided; the v12-v13 mark elides nothing — consecutive verses, kept per draft shape); v12 head \"Saying with a loud voice,\" restored (elision-restore class); v14 restored to complete the subsection’s named 5:9-10, 12-14 span (wave-14 full-span class); draft \"forevermore\" → edition \"for evermore\"; 1599 \"honour\" kept.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they sung a new song, saying, Thou art worthie to take the Booke, and to open the seales thereof, because thou wast killed, and hast redeemed vs to God by thy blood out of euery kinred, and tongue, and people, and nation,",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And they sung a new song, saying, Thou art worthie to take the Booke, and to open the seales thereof, because thou wast killed, and hast redeemed vs to God by thy blood out of euery kinred, and tongue, and people, and nation,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai ᾄδουσιν adousin ᾠδὴν ōdēn καινὴν kainēn λέγοντες legontes Ἄξιος Axios εἶ ei λαβεῖν labein τὸ to βιβλίον biblion καὶ kai ἀνοῖξαι anoixai τὰς tas σφραγῖδας sphragidas αὐτοῦ, autou ὅτι hoti ἐσφάγης esphagēs καὶ kai ἠγόρασας ēgorasas τῷ tō Θεῷ Theō ἐν en τῷ tō αἵματί haimati σου sou ἐκ ek πάσης pasēs φυλῆς phylēs καὶ kai γλώσσης glōssēs καὶ kai λαοῦ laou καὶ kai ἔθνους, ethnous καὶ kai ἐποίησας epoiēsas αὐτοὺς autous τῷ tō Θεῷ Theō ἡμῶν hēmōn βασιλείαν basileian καὶ kai ἱερεῖς, hiereis καὶ kai βασιλεύσουσιν basileusousin ἐπὶ epi τῆς tēs γῆς. gēs λέγοντες legontes φωνῇ phōnē μεγάλῃ megalē Ἄξιόν* Axion ἐστιν estin τὸ to Ἀρνίον Arnion τὸ to ἐσφαγμένον esphagmenon λαβεῖν labein τὴν tēn δύναμιν dynamin καὶ kai πλοῦτον plouton καὶ kai σοφίαν sophian καὶ kai ἰσχὺν ischyn καὶ kai τιμὴν timēn καὶ kai δόξαν doxan καὶ kai εὐλογίαν. eulogian Καὶ kai πᾶν pan κτίσμα ktisma ὃ ho ἐν en τῷ tō οὐρανῷ ouranō καὶ kai ἐπὶ epi τῆς tēs γῆς gēs καὶ kai ὑποκάτω hypokatō τῆς tēs γῆς gēs καὶ kai ἐπὶ epi τῆς tēs θαλάσσης thalassēs 〈〈ἐστίν〉, estin καὶ kai τὰ ta ἐν en αὐτοῖς autois πάντα, panta ἤκουσα ēkousa λέγοντας legontas Τῷ Tō καθημένῳ kathēmenō ἐπὶ epi τῷ tō θρόνῳ thronō καὶ kai τῷ tō Ἀρνίῳ Arniō ἡ hē εὐλογία eulogia καὶ kai ἡ hē τιμὴ timē καὶ kai ἡ hē δόξα doxa καὶ kai τὸ to κράτος kratos εἰς eis τοὺς tous αἰῶνας aiōnas τῶν tōn αἰώνων. aiōnōn",
+     "source": "https://biblehub.com/text/revelation/5-9.htm; https://biblehub.com/text/revelation/5-10.htm; https://biblehub.com/text/revelation/5-12.htm; https://biblehub.com/text/revelation/5-13.htm",
+     "result": "1.000 fwd (120/120); WH v12 head Και μεγαλη φωνη sits in the draft’s own ellipsis"
+    }
+   }
+  },
+  {
+   "id": "REV.5.10",
+   "ref": "Revelation 5:10",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5673,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:9-10 seat — v10; draft already edition modulo ortho.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hast made vs vnto our God Kings and Priests, and we shall reigne on the earth.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And hast made vs vnto our God Kings and Priests, and we shall reigne on the earth.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.12",
+   "ref": "Revelation 5:12",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5673,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:9-10 + 12-14 seat — v12; the elided \"Saying with a loud voice,\" head restored; 1599 \"honour\" kept.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Saying with a loude voice, Worthie is the Lambe that was killed to receiue power, and riches, and wisdome, and strength, and honour, and glory, and praise.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Saying with a loude voice, Worthie is the Lambe that was killed to receiue power, and riches, and wisdome, and strength, and honour, and glory, and praise.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.13",
+   "ref": "Revelation 5:13",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5673,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:9-10 + 12-14 seat — v13; \"for evermore\" (1599 two-word form) vs draft \"forevermore\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And al the creatures which are in heauen, and on the earth, and vnder the earth, and in the sea, and al that are in them, heard I, saying, Praise, and honour, and glory, and power be vnto him, that sitteth vpon the throne, and vnto the Lambe for euermore.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And al the creatures which are in heauen, and on the earth, and vnder the earth, and in the sea, and al that are in them, heard I, saying, Praise, and honour, and glory, and power be vnto him, that sitteth vpon the throne, and vnto the Lambe for euermore.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.14",
+   "ref": "Revelation 5:14",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5673,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "5:9-10 + 12-14 seat — v14 restored (the subsection names 5:9-10, 12-14; the draft’s quote stopped at v13’s \"for evermore.\").",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And the foure beasts said, Amen, and the foure and twentie Elders fell downe and worshipped him that liueth for euermore.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And the foure beasts said, Amen, and the foure and twentie Elders fell downe and worshipped him that liueth for euermore.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.7.9",
+   "ref": "Revelation 7:9-17",
+   "uses": [
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5695,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "7:9-17 ellipsis seat; v9 head restored; v10, v15 seated; v16 restored — the draft passed it by silently inside the v15→v17 span (wave-14 full-span class); draft’s silent drop of the v17 comma after \"Lamb\" → seat keeps the print’s \"For the Lamb, which is in the midst\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "After these thinges I behelde, and loe a great multitude, which no man coulde number, of all nations and kindreds, and people, and tongues, stoode before the throne, and before the Lambe, clothed with long white robes, and palmes in their hands.",
+     "source": "https://ebible.org/enggnv/REV07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "After these thinges I behelde, and loe a great multitude, which no man coulde number, of all nations and kindreds, and people, and tongues, stoode before the throne, and before the Lambe, clothed with long white robes, and palmes in their hands.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Μετὰ Meta ταῦτα tauta εἶδον, eidon καὶ kai ἰδοὺ idou ὄχλος ochlos πολύς, polys ὃν hon ἀριθμῆσαι arithmēsai αὐτὸν auton οὐδεὶς oudeis ἐδύνατο, edynato ἐκ ek παντὸς pantos ἔθνους ethnous καὶ kai φυλῶν phylōn καὶ kai λαῶν laōn καὶ kai γλωσσῶν, glōssōn ἑστῶτες hestōtes ἐνώπιον enōpion τοῦ tou θρόνου thronou καὶ kai ἐνώπιον enōpion τοῦ tou Ἀρνίου, Arniou περιβεβλημένους peribeblēmenous στολὰς stolas λευκάς, leukas καὶ kai φοίνικες phoinikes ἐν en ταῖς tais χερσὶν chersin αὐτῶν· autōn καὶ kai κράζουσιν krazousin φωνῇ phōnē μεγάλῃ megalē λέγοντες legontes Ἡ HĒ σωτηρία sōtēria τῷ tō Θεῷ Theō ἡμῶν hēmōn τῷ tō καθημένῳ kathēmenō ἐπὶ epi τῷ tō θρόνῳ thronō καὶ kai τῷ tō Ἀρνίῳ. Arniō διὰ dia τοῦτό touto Εἰσιν eisin ἐνώπιον enōpion τοῦ tou θρόνου thronou τοῦ tou Θεοῦ, Theou καὶ kai λατρεύουσιν latreuousin αὐτῷ autō ἡμέρας hēmeras καὶ kai νυκτὸς nyktos ἐν en τῷ tō ναῷ naō αὐτοῦ, autou καὶ kai ὁ ho καθήμενος kathēmenos ἐπὶ epi τοῦ tou θρόνου thronou σκηνώσει skēnōsei ἐπ’ ep’ αὐτούς. autous οὐ ou πεινάσουσιν peinasousin ἔτι eti οὐδὲ oude διψήσουσιν dipsēsousin ἔτι, eti οὐδὲ oude μὴ mē πέσῃ pesē ἐπ’ ep’ αὐτοὺς autous ὁ ho ἥλιος hēlios οὐδὲ oude πᾶν pan καῦμα, kauma ὅτι hoti τὸ to Ἀρνίον Arnion τὸ to ἀνὰ ana μέσον meson τοῦ tou θρόνου thronou ποιμανεῖ poimanei αὐτούς autous καὶ kai ὁδηγήσει hodēgēsei αὐτοὺς autous ἐπὶ epi ζωῆς zōēs πηγὰς pēgas ὑδάτων· hydatōn καὶ kai ἐξαλείψει exaleipsei ὁ ho Θεὸς Theos πᾶν pan δάκρυον dakryon ἐκ ek τῶν tōn ὀφθαλμῶν ophthalmōn αὐτῶν. autōn",
+     "source": "https://biblehub.com/text/revelation/7-9.htm; https://biblehub.com/text/revelation/7-10.htm; https://biblehub.com/text/revelation/7-15.htm; https://biblehub.com/text/revelation/7-16.htm; https://biblehub.com/text/revelation/7-17.htm",
+     "result": "0.976 fwd (2 artifact tokens: Εἰσιν case-class; ἐπ᾽ koronis vs ἐπ’ apostrophe — wave-11/24 class)"
+    }
+   }
+  },
+  {
+   "id": "REV.7.10",
+   "ref": "Revelation 7:10",
+   "uses": [
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5695,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "7:9-17 seat — v10; draft already edition modulo ortho (Saluation→Salvation).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they cried with a loud voice, saying, Saluation commeth of our God, that sitteth vpon the throne, and of the Lambe.",
+     "source": "https://ebible.org/enggnv/REV07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And they cried with a loud voice, saying, Saluation commeth of our God, that sitteth vpon the throne, and of the Lambe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.7.15",
+   "ref": "Revelation 7:15",
+   "uses": [
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5695,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "7:9-17 seat — v15; \"wil dwell\" → \"will dwell\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Therefore are they in the presence of the throne of God, and serue him day and night in his Temple, and he that sitteth on the throne, wil dwell among them.",
+     "source": "https://ebible.org/enggnv/REV07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore are they in the presence of the throne of God, and serue him day and night in his Temple, and he that sitteth on the throne, wil dwell among them.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.7.16",
+   "ref": "Revelation 7:16",
+   "uses": [
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5695,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "7:9-17 seat — v16 restored (silently dropped by the draft between v15 and v17).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "They shall hunger no more, neither thirst any more, neither shall the sunne light on them, neither any heate.",
+     "source": "https://ebible.org/enggnv/REV07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "They shall hunger no more, neither thirst any more, neither shall the sunne light on them, neither any heate.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.7.17",
+   "ref": "Revelation 7:17",
+   "uses": [
+    {
+     "section": "COS-46",
+     "section_label": "THE CHRIST OF SCRIPTURE — 50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne",
+     "article_line": 5695,
+     "cited_as": "(D) GNV seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "7:9-17 seat — v17 closes the seat; the print’s comma after \"Lamb\" kept (draft dropped it).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.",
+     "source": "https://ebible.org/enggnv/REV07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the Lambe, which is in the middes of the throne, shall gouerne them, and shall leade them vnto the liuely fountaines of waters, and God shall wipe away all teares from their eyes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "ISA.49.2",
+   "ref": "Isaiah 49:2",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5587,
+     "cited_as": "Pergamos row — \"He which hath the sharp sword with two edges\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table-echo anchor (NETS); cf. the Lamb’s sharp sword of Rev 1:16."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "and made my mouth like a sharp dagger, and under the shelter of his hand he hid me; he made me like a chosen arrow, and in his quiver he sheltered me.",
+     "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.22.22",
+   "ref": "Isaiah 22:22",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5590,
+     "cited_as": "Philadelphia row — \"the key of David\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table-echo anchor (NETS): \"I will give him the glory of Dauid\" — the Key of David."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And I will give him the glory of Dauid, and he shall rule, and there shall be no one to contradict him.",
+     "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.65.16",
+   "ref": "Isaiah 65:16",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5591,
+     "cited_as": "Laodicea row — \"The Amen, the faithful and true witness\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table-echo anchor (NETS): \"the true God... swear by the true God\" — the Amen echo."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "which shall be blessed on the earth; for they shall bless the true God, and those who swear on the earth shall swear by the true God, for they shall forget their first affliction, and it shall not come up into their heart.",
+     "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.11.2",
+   "ref": "Isaiah 11:2",
+   "uses": [
+    {
+     "section": "COS-44",
+     "section_label": "THE CHRIST OF SCRIPTURE — 48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14",
+     "article_line": 5589,
+     "cited_as": "Sardis row — \"the seven Spirits of God\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-44 table-echo anchor (NETS): the sevenfold spirit-name."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And the spirit of God shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and godliness.",
+     "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.11.1",
+   "ref": "Isaiah 11:1",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5661,
+     "cited_as": "the \"Root of Jesse / David\" of Rev 5:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 observation anchor (NETS)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And a rod shall come out of the root of Iessai, and a blossom shall come up out of his root.",
+     "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "ISA.11.10",
+   "ref": "Isaiah 11:10",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5661,
+     "cited_as": "the \"Root of Jesse / David\" of Rev 5:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 observation anchor (NETS)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And there shall be on that day the root of Iessai, even the one who stands up to rule nations; nations shall hope in him, and his rest shall be honor.",
+     "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
+    }
+   }
+  },
+  {
+   "id": "GEN.49.9",
+   "ref": "Genesis 49:9",
+   "uses": [
+    {
+     "section": "COS-45",
+     "section_label": "THE CHRIST OF SCRIPTURE — 49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb",
+     "article_line": 5661,
+     "cited_as": "the \"Lion of Judah\" of Rev 5:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "COS-45 observation anchor (NETS)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "A lion’s whelp you are, Ioudas; from a shoot, my son, you went up. When you reclined, you slept like a lion and like a whelp. Who will rouse him?",
+     "source": "NETS Genesis (Oxford PDF master, GEN cache)"
+    }
+   }
   }
  ]
 }

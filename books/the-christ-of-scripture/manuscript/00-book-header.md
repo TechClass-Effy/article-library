@@ -59,3 +59,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)
 46. Grand Synthesis — The Consummation and the Father-Son Order
 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last
+48. (D) continued — Revelation 2-3: The Seven Letters and the Titles of Christ (the church-title table kept verbatim; the Revelation 3:14 note); Revelation 4-5: The Throne Room and the Lamb; Revelation 7: The Lamb in the Midst of the Throne
