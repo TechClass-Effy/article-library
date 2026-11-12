@@ -72,3 +72,11 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 ---
 
 51. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things (Acts 17:24-28 Geneva; Exodus 25:8 NETS; 1 Kings 8:10-11; 1 Corinthians 3:16-17; Ephesians 2:21-22; Psalm 104:2 NETS; Hebrews 1:3; the singular throne of the Apocalypse resolved; the theophany pattern noted)
+
+---
+
+52. (E) Question 3 — The Relation Between the Father (Spirit) and the Son (Image, Word made flesh, Man at the right hand) (John 14:9-11 Geneva seat; John 8:28-29; John 10:38; John 17:21; Acts 10:38; the Pattern table; the Spirit's anointing of the Son; Isaiah 11:2; Isaiah 61:1; Matthew 3:16; Luke 4:1, 4:14)
+
+---
+
+53. (E) Grand Synthesis — Part E Completed: The Nature and Essence of the Father (Spirit by Nature; invisible; immortal; unapproachable light; omnipresent; uncontainable; the Holy-Spirit note; READY FOR PART F)

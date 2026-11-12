@@ -106,7 +106,9 @@
    "COS-51",
    "COS-52",
    "COS-53",
-   "COS-54"
+   "COS-54",
+   "COS-55",
+   "COS-56"
   ],
   "sections": [
    {
@@ -478,6 +480,14 @@
    {
     "key": "COS-54",
     "label": "58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things"
+   },
+   {
+    "key": "COS-55",
+    "label": "59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son (Image, Word made flesh, Man at the right hand)"
+   },
+   {
+    "key": "COS-56",
+    "label": "60. (E) Grand Synthesis — Part E Completed: The Nature and Essence of the Father as Eternal Spirit"
    }
   ],
   "double_check": {
@@ -538,11 +548,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 57428,
+  "so_far_words": 59326,
   "cos_sofar": {
-   "waves": 28
+   "waves": 29
   },
-  "glossary": 867
+  "glossary": 887
  },
  "verses": [
   {
@@ -11492,9 +11502,19 @@
      "status": "confirmed",
      "note": "clause 2: 'the One God of the Shema, identified as the Father' (Deut 6:4; Isa 44-46; John 17:3; 1 Cor 8:6)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6406,
+     "cited_as": "Grand Synthesis — \"He is the One God (Deut 6:4; Isa 44-46; John 17:3; 1 Cor 8:6; 1 Tim 2:5)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.",
@@ -11630,9 +11650,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6406,
+     "cited_as": "Grand Synthesis — \"He is the One God (…Isa 44-46…)\" (range mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention); the range anchors on ISA.44.6 (wave-9 convention).",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.",
@@ -12512,6 +12542,16 @@
      "status": "seat",
      "note": "Seat = NETS verbatim (\"a divine wind was being carried along over the water\") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his \"Spirit of God\" reading). Draft Greek + Geneva quote blocks dropped per seat shape.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6399,
+     "cited_as": "Grand Synthesis — \"He is Spirit by Nature (John 4:24; Gen 1:2; Num 16:22)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -12851,9 +12891,19 @@
      "status": "confirmed",
      "note": "clause 2 foundation citation (bullet seated to GNV at 5195)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6265,
+     "cited_as": "Pattern table — \"The only true God (John 17:3)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6406.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.",
@@ -12999,9 +13049,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-45 prose mention."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6266,
+     "cited_as": "Pattern table — \"The Source (ἐξ οὗ τὰ πάντα) / The Agent (δι᾽ οὗ τὰ πάντα)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention with the load-bearing Greek fragments kept in the table verbatim; re-cited at 6406.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.",
@@ -13190,9 +13250,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6372,
+     "cited_as": "Point 2 — \"In His pre-incarnate state: the Word with God (John 1:1)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 2.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "In the beginning was that Word, and that Word was with God, and that Word was God.",
@@ -15861,9 +15931,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6260,
+     "cited_as": "Pattern table — \"The Image of the invisible God (Col 1:15)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6373/6400.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Who is the image of the inuisible God, the first begotten of euery creature.",
@@ -17650,6 +17730,16 @@
      "status": "anchor",
      "note": "Mention in point 1 and again in the theophany bullet (line 6241).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6260,
+     "cited_as": "Pattern table — \"Invisible (John 1:18; 1 Tim 6:16)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention; observation (line 6284/6291) quotes the GNV-voiced fragment \"No man hath seen God at any time: the only begotten Son... He hath declared Him.\" at modern spelling minus the bosom-clause elision — good-reason, no flag.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -18693,9 +18783,19 @@
      "status": "confirmed",
      "note": "pattern list close: the Sent One (1 Cor 15:24-28)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6259,
+     "cited_as": "Pattern table — \"The Word made flesh (John 1:14)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6373.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And that Word was made flesh, and dwelt among vs, (and we sawe the glorie thereof, as the glorie of the onely begotten Sonne of the Father) full of grace and trueth.",
@@ -23277,16 +23377,31 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis item 6: His miracles fulfil Isaiah 61 (the Spirit of the Lord is upon me)."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6356,
+     "cited_as": "Anointing observation — \"Isaiah 61:1 LXX — the Spirit of the Lord is upon Me…\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "NETS text already banked; the observation fragment is Brenton-voiced under an \"LXX\" label.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "The spirit of the Lord is upon me, because he has anointed me; he has sent me to bring good news to the poor, to heal the brokenhearted, to proclaim release to the captives and recovery of sight to the blind,",
      "source": "scripture-repository/editions/nets/nets_cache.json ISA (33-esaias.pdf scrape)"
     }
    },
-   "second_check": {}
+   "second_check": {},
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Observation bullet (canon 6356) quotes Brenton-voiced wording (\"because He has anointed Me\"); NETS prints \"because the Lord anointed me\". Propose italic \"(Brenton)\" in line or NETS re-voice (same class as FLAGS 0b/12) — his word.",
+    "awaiting": "Gideon"
+   }
   },
   {
    "id": "ISA.61.2",
@@ -26386,9 +26501,19 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Draft block wording: v. 23 cuts mid-verse at “as they honor the Father” — the Geneva continues “he that honoureth not the Sonne…”; vv. 26-27 seat the Geneva verbatim. Wave-16 Greek pass (draft Greek checked vs the BibleHub /text/ Nestle/WH text over the whole group): word-set coverage 1.00. Draft-vs-Nestle word variants: τιμῶσιν→τιμῶσι; τιμῶσιν→τιμῶσι; recorded, no flag. The 3.3 Observation’s inline quote (line 3757) is word-for-word this Geneva wording at modern spelling — good-reason exception, kept (rule of 10 Nov 2026, \"already exact to a Version\")."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6382,
+     "cited_as": "Point 4 — \"Drawing from the Father's life (John 5:26; 6:57)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 4.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For as the Father hath life in himselfe, so likewise hath he giuen to the Sonne to haue life in himselfe,",
@@ -26644,9 +26769,19 @@
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6431,
+     "cited_as": "Holy-Spirit note close — \"…poured out through the exalted Son upon the redeemed (Acts 2:33)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Wave-16 seat row re-referenced.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.",
@@ -26944,9 +27079,19 @@
       "text": "Then said Jesus unto them, When ye have lift up the Son of man, then shall ye know that I am he, and that I do nothing of myself, but as my Father hath taught me, so I speak these things.",
       "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; word-order variant recorded."
      }
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6379,
+     "cited_as": "Point 3 — \"The Father's words were spoken by the Son (John 8:28; 12:49-50)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 3. BH john-8-28 refreshed; the 8:28-29 Geneva seat re-presented in Q3 (canon 6319).",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.",
@@ -27003,9 +27148,19 @@
      "status": "confirmed",
      "note": "prose fragment seated to GNV ('please him', draft's 'the Father' KJV-family)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6379,
+     "cited_as": "Point 3 — \"… (John 8:28; 12:49-50)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling of JHN.8.28; BH john-8-29 refreshed.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For he that sent me, is with me: the Father hath not left me alone, because I do alwayes those things that please him.",
@@ -29423,9 +29578,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6263,
+     "cited_as": "Pattern table — \"The Man Christ Jesus at the right hand / the one Mediator (1 Tim 2:5)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6374/6406.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,",
@@ -29876,6 +30041,16 @@
      "quotes": [],
      "status": "anchor",
      "note": "The once-for-all session at the right hand.",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6263,
+     "cited_as": "Pattern table — \"The Man Christ Jesus at the right hand (1 Tim 2:5; Heb 10:12)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6374.",
      "quote_kind": "reference"
     }
    ],
@@ -32597,9 +32772,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6384,
+     "cited_as": "Point 4 — \"Subjected to the Father in eternal order (1 Cor 15:28)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 4.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And when all things shalbe subdued vnto him, then shall the Sonne also himselfe be subiect vnto him, that did subdue all things vnder him, that God may be all in all.",
@@ -33621,9 +33806,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6264,
+     "cited_as": "Pattern table — \"The Firstborn from the dead (Col 1:18; Rev 1:5)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And from Iesus Christ, which is that faithful witnes, and that first begotten of the dead, and that Prince of the Kings of the earth, vnto him that loued vs, and washed vs from our sinnes in his blood,",
@@ -34089,9 +34284,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6264,
+     "cited_as": "Pattern table — \"The Firstborn from the dead (Col 1:18; Rev 1:5)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention.",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {}
   },
   {
@@ -35063,6 +35268,11 @@
      "text": "And the spirit of God shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and godliness.",
      "source": "NETS Isaiah (Oxford PDF master, ISA cache)"
     }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Observation bullet (canon 6355) quotes Brenton-voiced wording (\"the Spirit of God shall rest upon Him\") under an \"LXX\" label; NETS prints \"will rest on him\". Per the 10 Nov attribution rule propose italic \"(Brenton)\" in line or a NETS re-voice — his word.",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -35836,6 +36046,16 @@
      "status": "seat",
      "note": "Seat printed under the \"1599 Geneva\" head; the draft quote already equals the modern-spelled 1599 print (eBible==TRB EXACT). Draft Greek head dropped per seat shape — his Greek survives in the observation prose.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6259,
+     "cited_as": "Pattern table — \"Eternal Spirit (John 4:24)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6399 in the Grand Synthesis.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -35918,6 +36138,16 @@
      "status": "prose-ref",
      "note": "Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6331,
+     "cited_as": "John 17:21 — the indwelling theme (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = the 1599 print modern-spelled (bee/euen/vs/worlde/beleeue > modern). Draft quoted the head clause with ellipsis; the tail restored per the full-verses ruling.",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -35932,12 +36162,24 @@
      "text": "That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.",
      "source": "https://www.textusreceptusbibles.com/Geneva/43/17",
      "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἵνα πάντες ἓν ὦσιν, καθὼς σύ, πάτερ*, ἐν ἐμοὶ κἀγὼ ἐν σοί, ἵνα καὶ αὐτοὶ ἐν ἡμῖν ὦσιν, ἵνα ὁ κόσμος πιστεύῃ ὅτι σύ με ἀπέστειλας.",
+     "source": "https://biblehub.com/text/john/17-21.htm (WH/Nestle print)",
+     "result": "WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class)"
     }
    },
    "flag": {
     "kind": "needs-authorization",
     "detail": "(F)-preview quotes John 17:20-23 in KJV voice; the 1599 differs in wording. Propose attribution or re-voice — his word.",
     "awaiting": "Gideon"
+   },
+   "second_checks": {
+    "greek_biblehub_fresh": {
+     "text": "ἵνα πάντες ἓν ὦσιν, καθὼς σύ, πάτερ*, ἐν ἐμοὶ κἀγὼ ἐν σοί, ἵνα καὶ αὐτοὶ ἐν ἡμῖν ὦσιν, ἵνα ὁ κόσμος πιστεύῃ ὅτι σύ με ἀπέστειλας.",
+     "source": "https://biblehub.com/text/john/17-21.htm (WH/Nestle print)",
+     "result": "WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class)"
+    }
    }
   },
   {
@@ -36131,6 +36373,16 @@
      "status": "anchor",
      "note": "Point 1, the Q1 table cell (line 6170) and the theophany bullet (line 6241).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6260,
+     "cited_as": "Pattern table — \"Invisible / unapproachable light (1 Tim 6:16)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6369/6400/6402.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36309,6 +36561,16 @@
      "status": "seat",
      "note": "Seat = the 1599 print modern-spelled; the draft read \"be honor ... forever\" — seat prints the edition (\"be honour\", \"for ever, and ever\"). Draft Greek head dropped per seat shape (his Greek survives in the Observations bullets).",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6400,
+     "cited_as": "Grand Synthesis — \"He is invisible (John 1:18; 1 Tim 1:17; 6:16; Col 1:15)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36356,6 +36618,16 @@
      "status": "seat",
      "note": "Ellipsis seat over the draft's vocative span (leading/trailing ellipses per the draft print). Print-verified (04-num.pdf print) == NETS cache verbatim.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6399,
+     "cited_as": "Grand Synthesis — \"He is Spirit by Nature… / He is the Father of spirits (Num 16:22; Heb 12:9)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention) (cited at points 1 and 7).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36519,6 +36791,16 @@
      "status": "anchor",
      "note": "Mention in point 2; the Q1 table also cites Jer 23:23-24.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6263,
+     "cited_as": "Pattern table — \"Fills heaven and earth as Spirit (Jer 23:24)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6403.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36580,6 +36862,16 @@
      "status": "anchor",
      "note": "Mention in point 3; the Q1 table cites it twice as the uncontainability witness.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6404,
+     "cited_as": "Grand Synthesis — \"He is uncontainable (1 Kgs 8:27; Isa 66:1; Acts 7:48-49)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36622,6 +36914,16 @@
      "status": "seat",
      "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6403,
+     "cited_as": "Grand Synthesis — \"He is omnipresent — fills heaven and earth (…Ps 138:7-10 LXX…)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "GS range cite; draft cites \"Ps 138:7-10 LXX\" = MT Ps 139:7-10 (rows PSA.139.7/.8/.9/.10).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36678,6 +36980,16 @@
      "status": "seat",
      "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6403,
+     "cited_as": "Grand Synthesis — \"…Ps 138:7-10 LXX…\" (range mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling of PSA.139.7.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36734,6 +37046,16 @@
      "status": "seat",
      "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6403,
+     "cited_as": "Grand Synthesis — \"…Ps 138:7-10 LXX…\" (range mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling of PSA.139.7.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36790,6 +37112,16 @@
      "status": "seat",
      "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6403,
+     "cited_as": "Grand Synthesis — \"…Ps 138:7-10 LXX…\" (range mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling of PSA.139.7.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36846,6 +37178,16 @@
      "status": "seat",
      "note": "Table mention; NETS banked from the Isaiah cache; GNV fetched fresh (eBible==TRB EXACT 2026-11-12).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6404,
+     "cited_as": "Grand Synthesis — \"He is uncontainable (1 Kgs 8:27; Isa 66:1; Acts 7:48-49)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36892,6 +37234,16 @@
      "status": "seat",
      "note": "Table mention; GNV eBible==TRB EXACT 2026-11-12.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6264,
+     "cited_as": "Pattern table — \"The Father of spirits (Heb 12:9)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6405.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -36928,6 +37280,16 @@
      "quotes": [],
      "status": "seat",
      "note": "Table mention; TRB returned HTTP 500 x3 — eBible only; second source pending.",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6401,
+     "cited_as": "Grand Synthesis — \"He is immortal/incorruptible (1 Tim 1:17; 6:16; Rom 1:23)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
      "quote_kind": "reference"
     }
    ],
@@ -36966,6 +37328,16 @@
      "status": "seat",
      "note": "Table mention; GNV eBible==TRB EXACT 2026-11-12.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6404,
+     "cited_as": "Grand Synthesis — \"He is uncontainable (1 Kgs 8:27; Isa 66:1; Acts 7:48-49)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention); sibling ACT.7.49.",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -37002,6 +37374,16 @@
      "quotes": [],
      "status": "seat",
      "note": "Table mention; GNV eBible==TRB EXACT 2026-11-12.",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6404,
+     "cited_as": "Grand Synthesis — \"He is uncontainable (1 Kgs 8:27; Isa 66:1; Acts 7:48-49)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention); sibling ACT.7.48.",
      "quote_kind": "reference"
     }
    ],
@@ -37278,6 +37660,16 @@
      "status": "anchor",
      "note": "Table mention (no text cited in the Q1 table).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6403,
+     "cited_as": "Grand Synthesis — \"He is omnipresent — fills heaven and earth (…Acts 17:28)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -37552,6 +37944,16 @@
      "status": "anchor",
      "note": "BOTH-MAPS on the numbering: the draft's table cites \"Ps 104:2 LXX\" — the MT/GNV psalm number is 104; the LXX/NETS numbers it 103 (print running head \"psalms 102(103)–103(104)\"). The NETS verse carrying the light-garment image is NETS Psalm 103:2. Geneva text fetched fresh (eBible==TRB).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6402,
+     "cited_as": "Grand Synthesis — \"He dwells in unapproachable light (1 Tim 6:16; Ps 104:2 LXX)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Grand Synthesis — Part E Completed (numbered / bulleted mention) (draft cites the LXX number; BOTH-MAPS note on the row).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -37602,6 +38004,16 @@
      "quotes": [],
      "status": "anchor",
      "note": "The Lamb's glorified humanity at the Father's right hand. First banking of Heb 1:3 (the wave-12 survey row was HEB.1.2). Geneva text fetched fresh (eBible==TRB).",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6261,
+     "cited_as": "Pattern table — \"The Radiance of the Father's glory (Heb 1:3)\" (table mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Pattern-table mention; re-cited at 6372.",
      "quote_kind": "reference"
     }
    ],
@@ -37697,6 +38109,797 @@
      "status": "anchor",
      "note": "Theophany-survey chapter cite (canon 6242): \"Yet someone is seen in Genesis 16, 22, 32; Exodus 3, 33; Judges 6, 13; Isaiah 6; Ezekiel 1; Daniel 7\". The seated arcs (Genesis 16/22/32, Exodus 3/33, Daniel 7) carry their own rows from Waves 4-6 and 20. NETS Ezekiel not in the local cache.",
      "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "JHN.14.9",
+   "ref": "John 14:9",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6276,
+     "cited_as": "John 14:9-11 — The Direct Statement (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = the 1599 print modern-spelled (Iesus sayd vnto > Jesus said unto, knowen mee > known me, Philippe > Philip, Shewe > Show). Draft/Byz Τοσοῦτον (accusative) vs WH Τοσούτῳ (dative) recorded; koronis μεθ᾽ class. Draft quoted vv 9-10 only; v11 restored per the heading span (full-verses ruling).",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6262,
+     "cited_as": "The Pattern table — \"He who has seen the Son has seen the Father (John 14:9)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Table mention.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus sayd vnto him, I haue bene so long time with you, and hast thou not knowen mee, Philippe? he that hath seene me, hath seene my Father: how then sayest thou, Shewe vs thy Father?",
+     "source": "https://ebible.org/enggnv/JHN14.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus sayd vnto him, I haue bene so long time with you, and hast thou not knowen mee, Philippe? he that hath seene me, hath seene my Father: how then sayest thou, Shewe vs thy Father?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λέγει αὐτῷ ὁ Ἰησοῦς Τοσούτῳ* χρόνῳ* μεθ’ ὑμῶν εἰμι καὶ οὐκ ἔγνωκάς με, Φίλιππε; ὁ ἑωρακὼς ἐμὲ ἑώρακεν τὸν Πατέρα· πῶς σὺ λέγεις Δεῖξον ἡμῖν τὸν Πατέρα;",
+     "source": "https://biblehub.com/text/john/14-9.htm (WH/Nestle print)",
+     "result": "WH v9; draft/Byz Τοσοῦτον χρόνον (acc.) vs WH Τοσούτῳ χρόνῳ (dat.) — recorded; koronis μεθ᾽ class"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Iesus sayd vnto him, I haue bene so long time with you, and hast thou not knowen mee, Philippe? he that hath seene me, hath seene my Father: how then sayest thou, Shewe vs thy Father?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λέγει αὐτῷ ὁ Ἰησοῦς Τοσούτῳ* χρόνῳ* μεθ’ ὑμῶν εἰμι καὶ οὐκ ἔγνωκάς με, Φίλιππε; ὁ ἑωρακὼς ἐμὲ ἑώρακεν τὸν Πατέρα· πῶς σὺ λέγεις Δεῖξον ἡμῖν τὸν Πατέρα;",
+     "source": "https://biblehub.com/text/john/14-9.htm (WH/Nestle print)",
+     "result": "WH v9; draft/Byz Τοσοῦτον χρόνον (acc.) vs WH Τοσούτῳ χρόνῳ (dat.) — recorded; koronis μεθ᾽ class"
+    }
+   }
+  },
+  {
+   "id": "JHN.14.10",
+   "ref": "John 14:10",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6276,
+     "cited_as": "John 14:9-11 — The Direct Statement (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = the 1599 print modern-spelled (wordes > words, \"my selfe\" > \"myself\"; -eth dwelleth kept). Draft Greek == WH verbatim on the drafted span.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6376,
+     "cited_as": "Point 3 — \"the Father dwells in Me\" (John 14:10) (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 3.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.",
+     "source": "https://ebible.org/enggnv/JHN14.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ λέγω ὑμῖν ἀπ’ ἐμαυτοῦ οὐ λαλῶ· ὁ δὲ Πατὴρ ἐν ἐμοὶ μένων ποιεῖ τὰ ἔργα αὐτοῦ.",
+     "source": "https://biblehub.com/text/john/14-10.htm (WH/Nestle print)",
+     "result": "WH v10 == draft Greek verbatim on the drafted span"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ λέγω ὑμῖν ἀπ’ ἐμαυτοῦ οὐ λαλῶ· ὁ δὲ Πατὴρ ἐν ἐμοὶ μένων ποιεῖ τὰ ἔργα αὐτοῦ.",
+     "source": "https://biblehub.com/text/john/14-10.htm (WH/Nestle print)",
+     "result": "WH v10 == draft Greek verbatim on the drafted span"
+    }
+   }
+  },
+  {
+   "id": "JHN.14.11",
+   "ref": "John 14:11",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6276,
+     "cited_as": "John 14:9-11 — The Direct Statement (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Draft quote elided v11; the seat restores the verse per the heading span \"John 14:9-11\" and the full-verses ruling. 1599 \"at the least\" clause kept verbatim.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6381,
+     "cited_as": "Point 4 — \"I in Him\" (John 10:38; 14:11) (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 4.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beleeue me, that I am in the Father, and the Father is in me: at the least, beleeue me for the very workes sake.",
+     "source": "https://ebible.org/enggnv/JHN14.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beleeue me, that I am in the Father, and the Father is in me: at the least, beleeue me for the very workes sake.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πιστεύετέ μοι ὅτι ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί· εἰ δὲ μή, διὰ τὰ ἔργα αὐτὰ πιστεύετε.",
+     "source": "https://biblehub.com/text/john/14-11.htm (WH/Nestle print)",
+     "result": "WH v11 (verse restored per the heading span; not in the draft quote)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Beleeue me, that I am in the Father, and the Father is in me: at the least, beleeue me for the very workes sake.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πιστεύετέ μοι ὅτι ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί· εἰ δὲ μή, διὰ τὰ ἔργα αὐτὰ πιστεύετε.",
+     "source": "https://biblehub.com/text/john/14-11.htm (WH/Nestle print)",
+     "result": "WH v11 (verse restored per the heading span; not in the draft quote)"
+    }
+   }
+  },
+  {
+   "id": "JHN.10.38",
+   "ref": "John 10:38",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6325,
+     "cited_as": "John 10:38 — The Father's Indwelling of the Son (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = full v38 (1599 print modern-spelled, beleeue > believe); the draft quoted the tail fragment only. WH whole verse; the draft tail == WH substance.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6381,
+     "cited_as": "Point 4 — \"I in Him\" (John 10:38; 14:11) (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 4.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But if I doe, then though ye beleeue not mee, yet beleeue the workes, that ye may knowe and beleeue, that the Father is in me, and I in him.",
+     "source": "https://ebible.org/enggnv/JHN10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But if I doe, then though ye beleeue not mee, yet beleeue the workes, that ye may knowe and beleeue, that the Father is in me, and I in him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ δὲ ποιῶ, κἂν ἐμοὶ μὴ πιστεύητε, τοῖς ἔργοις πιστεύετε, ἵνα γνῶτε καὶ γινώσκητε ὅτι ἐν ἐμοὶ ὁ Πατὴρ κἀγὼ ἐν τῷ Πατρί.",
+     "source": "https://biblehub.com/text/john/10-38.htm (WH/Nestle print)",
+     "result": "WH v38 whole verse; the draft tail fragment == WH verbatim (draft_only empty)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "But if I doe, then though ye beleeue not mee, yet beleeue the workes, that ye may knowe and beleeue, that the Father is in me, and I in him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ δὲ ποιῶ, κἂν ἐμοὶ μὴ πιστεύητε, τοῖς ἔργοις πιστεύετε, ἵνα γνῶτε καὶ γινώσκητε ὅτι ἐν ἐμοὶ ὁ Πατὴρ κἀγὼ ἐν τῷ Πατρί.",
+     "source": "https://biblehub.com/text/john/10-38.htm (WH/Nestle print)",
+     "result": "WH v38 whole verse; the draft tail fragment == WH verbatim (draft_only empty)"
+    }
+   }
+  },
+  {
+   "id": "ACT.10.38",
+   "ref": "Acts 10:38",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6347,
+     "cited_as": "Acts 10:38 — The Spirit's Anointing of the Son (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = full v38 (1599 print modern-spelled); the draft ellided the \"To wit, how God\" head and reordered \"Jesus of Nazareth\". Greek koronis μετ᾽ class only vs WH.",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-56",
+     "section_label": "THE CHRIST OF SCRIPTURE — 60. (E) Grand Synthesis — Part E Completed",
+     "article_line": 6377,
+     "cited_as": "Point 3 — anointed the Son for His ministry (Acts 10:38; Luke 4:14) (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Coherence point 3.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "To wit, howe God anointed Iesus of Nazareth with the holy Ghost, and with power: who went about doing good, and healing all that were oppressed of the deuill: for God was with him.",
+     "source": "https://ebible.org/enggnv/ACT10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "To wit, howe God anointed Iesus of Nazareth with the holy Ghost, and with power: who went about doing good, and healing all that were oppressed of the deuill: for God was with him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/10",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἰησοῦν τὸν ἀπὸ Ναζαρέθ, ὡς ἔχρισεν αὐτὸν ὁ Θεὸς Πνεύματι Ἁγίῳ καὶ δυνάμει, ὃς διῆλθεν εὐεργετῶν καὶ ἰώμενος πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου, ὅτι ὁ Θεὸς ἦν μετ’ αὐτοῦ·",
+     "source": "https://biblehub.com/text/acts/10-38.htm (WH/Nestle print)",
+     "result": "WH v38 == draft Greek 0.963 — koronis μετ᾽ class only, substance verbatim"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "To wit, howe God anointed Iesus of Nazareth with the holy Ghost, and with power: who went about doing good, and healing all that were oppressed of the deuill: for God was with him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/10",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἰησοῦν τὸν ἀπὸ Ναζαρέθ, ὡς ἔχρισεν αὐτὸν ὁ Θεὸς Πνεύματι Ἁγίῳ καὶ δυνάμει, ὃς διῆλθεν εὐεργετῶν καὶ ἰώμενος πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου, ὅτι ὁ Θεὸς ἦν μετ’ αὐτοῦ·",
+     "source": "https://biblehub.com/text/acts/10-38.htm (WH/Nestle print)",
+     "result": "WH v38 == draft Greek 0.963 — koronis μετ᾽ class only, substance verbatim"
+    }
+   }
+  },
+  {
+   "id": "MAT.3.16",
+   "ref": "Matthew 3:16",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6357,
+     "cited_as": "Anointing observation — \"Matthew 3:16 — the Spirit descending on Jesus at His baptism.\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Narrative mention (baptism anointing). First banking.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus when hee was baptized, came straight out of the water. And lo, the heaues were opened vnto him, and Iohn saw the Spirit of God descending like a doue, and lighting vpon him.",
+     "source": "https://ebible.org/enggnv/MAT03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And Iesus when hee was baptized, came straight out of the water. And lo, the heaues were opened vnto him, and Iohn saw the Spirit of God descending like a doue, and lighting vpon him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And Iesus when hee was baptized, came straight out of the water. And lo, the heaues were opened vnto him, and Iohn saw the Spirit of God descending like a doue, and lighting vpon him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/3",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.1",
+   "ref": "Luke 4:1",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6358,
+     "cited_as": "Anointing observation — \"Luke 4:1 — 'Jesus, being full of the Holy Ghost, returned from Jordan.'\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Good-reason: the draft fragment == the 1599 print at modern spelling minus the opening \"And\" (recorded; no flag).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus full of the holy Ghost returned from Iordan, and was led by that Spirit into the wildernes,",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And Iesus full of the holy Ghost returned from Iordan, and was led by that Spirit into the wildernes,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And Iesus full of the holy Ghost returned from Iordan, and was led by that Spirit into the wildernes,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "LUK.4.14",
+   "ref": "Luke 4:14",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6359,
+     "cited_as": "Anointing observation — \"Luke 4:14 — 'And Jesus returned in the power of the Spirit.'\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Draft fragment is KJV-voiced (\"in the power\" vs the 1599 \"by the power\"; \"into Galilee\" also dropped).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus returned by the power of the spirite into Galile: and there went a fame of him throughout all the region round about.",
+     "source": "https://ebible.org/enggnv/LUK04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And Iesus returned by the power of the spirite into Galile: and there went a fame of him throughout all the region round about.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And Iesus returned by the power of the spirite into Galile: and there went a fame of him throughout all the region round about.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Observation bullet (canon 6359) quotes Luke 4:14 in KJV voice; the 1599 prints \"returned by the power of the Spirit into Galile\". Propose italic version-name in line or re-voice (10 Nov attribution-rule class, same as FLAGS 0b/12) — his word.",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "COL.2.9",
+   "ref": "Colossians 2:9",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6373,
+     "cited_as": "Point 2 — \"the Image of the invisible God in human form (Col 1:15; 2:9)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "First banking.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For in him dwelleth all the fulnesse of the Godhead bodily.",
+     "source": "https://ebible.org/enggnv/COL02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For in him dwelleth all the fulnesse of the Godhead bodily.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/51/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "For in him dwelleth all the fulnesse of the Godhead bodily.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/51/2",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.12.49",
+   "ref": "John 12:49",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6379,
+     "cited_as": "Point 3 — \"The Father's words were spoken by the Son (John 8:28; 12:49-50)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Range cite 12:49-50; sibling row JHN.12.50.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I haue not spoken of my selfe: but the Father which sent me, hee gaue me a commandement what I should say, and what I should speake.",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I haue not spoken of my selfe: but the Father which sent me, hee gaue me a commandement what I should say, and what I should speake.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "For I haue not spoken of my selfe: but the Father which sent me, hee gaue me a commandement what I should say, and what I should speake.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.12.50",
+   "ref": "John 12:50",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6379,
+     "cited_as": "Point 3 — \"… (John 8:28; 12:49-50)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling of JHN.12.49. Old-format eBible footer \"John 12 > Public Domain\" stripped (wave-16 footer class).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I knowe that his commandement is life euerlasting: the thinges therefore that I speake, I speake them so as the Father sayde vnto me.",
+     "source": "https://ebible.org/enggnv/JHN12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I knowe that his commandement is life euerlasting: the thinges therefore that I speake, I speake them so as the Father sayde vnto me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And I knowe that his commandement is life euerlasting: the thinges therefore that I speake, I speake them so as the Father sayde vnto me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.6.57",
+   "ref": "John 6:57",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6382,
+     "cited_as": "Point 4 — \"Drawing from the Father's life (John 5:26; 6:57)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "First banking.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "As that liuing Father hath sent me, so liue I by the Father, and he that eateth me, euen he shall liue by me.",
+     "source": "https://ebible.org/enggnv/JHN06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "As that liuing Father hath sent me, so liue I by the Father, and he that eateth me, euen he shall liue by me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/6",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "As that liuing Father hath sent me, so liue I by the Father, and he that eateth me, euen he shall liue by me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/6",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.17.1",
+   "ref": "John 17:1",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6383,
+     "cited_as": "Point 4 — \"Living unto the Father's glory (John 17:1, 4)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Range cite 17:1, 4; sibling row JHN.17.4.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "These things spake Iesus, and lift vp his eyes to heauen, and saide, Father, that houre is come: glorifie thy Sonne, that thy Sonne also may glorifie thee,",
+     "source": "https://ebible.org/enggnv/JHN17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "These things spake Iesus, and lift vp his eyes to heauen, and saide, Father, that houre is come: glorifie thy Sonne, that thy Sonne also may glorifie thee,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "These things spake Iesus, and lift vp his eyes to heauen, and saide, Father, that houre is come: glorifie thy Sonne, that thy Sonne also may glorifie thee,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "JHN.17.4",
+   "ref": "John 17:4",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6383,
+     "cited_as": "Point 4 — \"Living unto the Father's glory (John 17:1, 4)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Sibling of JHN.17.1.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I haue glorified thee on the earth: I haue finished the worke which thou gauest me to doe.",
+     "source": "https://ebible.org/enggnv/JHN17.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I haue glorified thee on the earth: I haue finished the worke which thou gauest me to doe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "I haue glorified thee on the earth: I haue finished the worke which thou gauest me to doe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/17",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "GAL.4.6",
+   "ref": "Galatians 4:6",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6429,
+     "cited_as": "Holy-Spirit note — \"The Spirit of Christ / Spirit of His Son (Rom 8:9; Gal 4:6)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "First banking. (The wave29a1 run mistakenly compared against TRB 50/4 = Philippians; corrected to TRB 48/4 = Galatians, EXACT.)",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And because ye are sonnes, God hath sent foorth the Spirit of his Sonne into your heartes, which crieth, Abba, Father.",
+     "source": "https://ebible.org/enggnv/GAL04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And because ye are sonnes, God hath sent foorth the Spirit of his Sonne into your heartes, which crieth, Abba, Father.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And because ye are sonnes, God hath sent foorth the Spirit of his Sonne into your heartes, which crieth, Abba, Father.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.9",
+   "ref": "Romans 8:9",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6429,
+     "cited_as": "Holy-Spirit note — \"The Spirit of Christ / Spirit of His Son (Rom 8:9; Gal 4:6)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "First banking.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now ye are not in the flesh, but in ye Spirit, because ye spirit of God dwelleth in you: but if any man hath not ye Spirit of Christ, ye same is not his.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now ye are not in the flesh, but in ye Spirit, because ye spirit of God dwelleth in you: but if any man hath not ye Spirit of Christ, ye same is not his.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Now ye are not in the flesh, but in ye Spirit, because ye spirit of God dwelleth in you: but if any man hath not ye Spirit of Christ, ye same is not his.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.30",
+   "ref": "Ephesians 4:30",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6428,
+     "cited_as": "Holy-Spirit note — \"The Holy Spirit / Holy Spirit of God (Ps 51:11; Eph 4:30)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "First banking.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And grieue not the holy Spirit of God, by whom ye are sealed vnto ye day of redemption.",
+     "source": "https://ebible.org/enggnv/EPH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And grieue not the holy Spirit of God, by whom ye are sealed vnto ye day of redemption.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And grieue not the holy Spirit of God, by whom ye are sealed vnto ye day of redemption.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/4",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "PSA.51.11",
+   "ref": "Psalm 51:11",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6426,
+     "cited_as": "Holy-Spirit note — \"The Holy Spirit / Holy Spirit of God (Ps 51:11; Eph 4:30)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "BOTH-MAPS: the draft cites MT Ps 51:11; the LXX/NETS number the psalm 50, where the take-not-thy-holy-spirit petition sits in the 50:12-14 cluster. NETS Psalter verses not in the local cache — text settles from the 24-ps.pdf print at a later psalm wave (MAL.4.2/PSA.137 pattern).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "JDG.3.10",
+   "ref": "Judges 3:10",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6427,
+     "cited_as": "Holy-Spirit note — \"The Spirit of the LORD (Judg 3:10; 1 Sam 10:6; Isa 61:1…)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "NETS Judges not in the local cache (1SA.2.6 anchor precedent).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {}
+  },
+  {
+   "id": "1SA.10.6",
+   "ref": "1 Samuel 10:6",
+   "uses": [
+    {
+     "section": "COS-55",
+     "section_label": "THE CHRIST OF SCRIPTURE — 59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son",
+     "article_line": 6427,
+     "cited_as": "Holy-Spirit note — \"The Spirit of the LORD (Judg 3:10; 1 Sam 10:6…)\" (mention)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "NETS Kingdoms not in the local cache (sibling of JDG.3.10).",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
