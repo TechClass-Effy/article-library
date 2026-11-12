@@ -598,9 +598,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 80593,
+  "so_far_words": 81201,
   "cos_sofar": {
-   "waves": 37
+   "waves": 38
   },
   "glossary": 887
  },
@@ -1287,6 +1287,16 @@
      "status": "anchor",
      "matched_source": "kjv",
      "note": "Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked."
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9068,
+     "cited_as": "1 Corinthians 12:27",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-8 seat — draft exact-modern vs the 1599 print (\"members for your part.\" IS the print); row pre-banked KJV-only from THE SABBATH OF SCRIPTURE (SAB11) — Geneva translation added now"
     }
    ],
    "verified": "2026-11-04",
@@ -1294,6 +1304,22 @@
     "kjv": {
      "text": "Now ye are the body of Christ, and members in particular.",
      "source": "eBible eng-kjv2006 1CO12.htm (banked for reference; uncited prose reference follows the KJV voice)"
+    },
+    "gnv": {
+     "text": "Now ye are the body of Christ, and members for your part.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now ye are the body of Christ, and members for your part.",
+     "source": "textusreceptusbibles.com/Geneva/46/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὑμεῖς δέ ἐστε σῶμα Χριστοῦ καὶ μέλη ἐκ μέρους. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄",
+     "source": "biblehub.com/text/1_corinthians/12-27",
+     "result": "agree (fwd 0.889; case token class Υμεις/υμεις; book-title tokens excluded)"
     }
    }
   },
@@ -12790,6 +12816,16 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: Geneva verbatim (modernized) \"God sent forth his Son made of a woman\" — draft had KJV comma after \"Son\" and capitalized \"His\"; the comma is the KJV's clause punctuation, GNV joins \"Sonne made of a woman\"."
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9123,
+     "cited_as": "Galatians 4:4 (in the 4:4-7 fragment)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-10 fragment seat — v4 tail only (\"God sent forth his Son…\"); the draft ellipsis covers the head \"But when the fulnesse of time…\""
     }
    ],
    "verified": "2026-11-11",
@@ -12807,6 +12843,11 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/48/4"
+    },
+    "trb_fresh": {
+     "text": "But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,",
+     "source": "textusreceptusbibles.com/Geneva/48/4",
+     "result": "agree (1.000)"
     }
    }
   },
@@ -12843,6 +12884,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9123,
+     "cited_as": "Galatians 4:6 (in the 4:4-7 fragment)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-10 fragment seat — full verse printed in the fragment"
     }
    ],
    "verified": "2026-11-12",
@@ -43565,6 +43616,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9117,
+     "cited_as": "Romans 8:17 (in the 8:14-17 span)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-10 span seat — the 1599 print agrees with the draft at modern spelling; the KJV-voiced residue is the canon-8884 Point-5 observation quote only"
     }
    ],
    "verified": "2026-11-12",
@@ -43579,11 +43640,16 @@
      "text": "If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.",
      "source": "textusreceptusbibles.com/Geneva/45/8",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅσοι γὰρ Πνεύματι Θεοῦ ἄγονται, οὗτοι υἱοί εἰσιν Θεοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ οὐ γὰρ ἐλάβετε πνεῦμα δουλείας πάλιν εἰς φόβον, ἀλλὰ ἐλάβετε πνεῦμα υἱοθεσίας, ἐν ᾧ κράζομεν Ἀββᾶ ὁ Πατήρ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ αὐτὸ τὸ Πνεῦμα συνμαρτυρεῖ τῷ πνεύματι ἡμῶν ὅτι ἐσμὲν τέκνα Θεοῦ. ΠΡΟΣ ΡΩΜΑΙΟΥΣ εἰ δὲ τέκνα, καὶ κληρονόμοι· κληρονόμοι μὲν Θεοῦ, συνκληρονόμοι δὲ Χριστοῦ, εἴπερ συνπάσχομεν ἵνα καὶ συνδοξασθῶμεν.",
+     "source": "biblehub.com/text/romans/8-14..8-17 (span-joined per wave-20 recipe)",
+     "result": "agree (span fwd 0.944; draft = Byzantine συμ- spellings συμμαρτυρει/συγκληρονομοι/συμπασχομεν where WH reads συν-; book-title tokens excluded)"
     }
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "draft quote tail KJV-voiced (\"glorified together\" vs 1599 \"glorified with him\"); awaits Gideon — scope UPDATED Nov 12: the Point-5 observation quote (canon 8884) carries the same KJV wording",
+    "detail": "draft quote tail KJV-voiced (\"glorified together\" vs 1599 \"glorified with him\"); awaits Gideon — scope UPDATED Nov 12: the Point-5 observation quote (canon 8884) carries the same KJV wording — scope UPDATED Nov 12: the POINT-10 span seat (canon 9117) now seats the 1599 print verbatim (\"heirs annexed with Christ… glorified with him\"); the KJV-voiced residue is the canon-8884 Point-5 observation quote only",
     "awaiting": "Gideon"
    }
   },
@@ -45651,6 +45717,375 @@
     }
    },
    "note": "POINT-7 seat — draft exact-modern (Jews/Iewes + bond/bonde orthographic folds row-noted); draft Greek 0.882 fwd vs WH"
+  },
+  {
+   "id": "1CO.12.12",
+   "ref": "1 Corinthians 12:12",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9067,
+     "cited_as": "1 Corinthians 12:12",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For as the body is one, and hath many members, and all the members of the body, which is one, though they be many, yet are but one body: euen so is Christ.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For as the body is one, and hath many members, and all the members of the body, which is one, though they be many, yet are but one body: euen so is Christ.",
+     "source": "textusreceptusbibles.com/Geneva/46/12",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καθάπερ γὰρ τὸ σῶμα ἕν ἐστιν, καὶ μέλη ἔχει πολλά, πάντα δὲ τὰ μέλη τοῦ σώματος τοῦ ἑνός, πολλὰ ὄντα, ἕν ἐστιν σῶμα· οὕτως καὶ ὁ χριστός. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄",
+     "source": "biblehub.com/text/1_corinthians/12-12",
+     "result": "agree (span fwd 0.960; case/breathing token class Χριστός/χριστος, ἕνος/ενος; book-title tokens excluded)"
+    }
+   },
+   "note": "POINT-8 seat — the \"one body\" clause; draft exact-modern vs the 1599 print (euen→even fold); draft Greek fwd 0.960 vs WH (case/breathing class Χριστός/χριστος, ἕνος/ενος; WH-page extras are book-title tokens)"
+  },
+  {
+   "id": "EPH.5.30",
+   "ref": "Ephesians 5:30",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9074,
+     "cited_as": "Ephesians 5:30",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we are members of his bodie, of his flesh, and of his bones.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we are members of his bodie, of his flesh, and of his bones.",
+     "source": "textusreceptusbibles.com/Geneva/49/5",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ, ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ",
+     "source": "biblehub.com/text/ephesians/5-30",
+     "result": "agree (draft tokens fwd 1.000; draft Greek omits the ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ tail WH carries)"
+    }
+   },
+   "note": "POINT-8 seat — draft exact-modern vs the 1599 print (\"of his flesh, and of his bones.\" both); draft Greek carries only ὅτι μέλη ἐσμὲν τοῦ σώματος αὐτοῦ — WH adds the ἐκ τῆς σαρκὸς αὐτοῦ καὶ ἐκ τῶν ὀστέων αὐτοῦ tail (recorded); the Point-8 obs quote (canon 9082) matches the seat at modern spelling = good-reason"
+  },
+  {
+   "id": "1CO.6.17",
+   "ref": "1 Corinthians 6:17",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9092,
+     "cited_as": "1 Corinthians 6:17",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But hee that is ioyned vnto the Lord, is one spirite.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But hee that is ioyned vnto the Lord, is one spirite.",
+     "source": "textusreceptusbibles.com/Geneva/46/6",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ δὲ κολλώμενος τῷ Κυρίῳ ἓν πνεῦμά ἐστιν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄",
+     "source": "biblehub.com/text/1_corinthians/6-17",
+     "result": "agree (fwd 1.000; page adds book-title tokens only)"
+    }
+   },
+   "note": "POINT-9 seat — draft exact-modern vs the 1599 print (joined = ioyned, spirite = spirite folds); draft Greek fwd 1.000 vs WH"
+  },
+  {
+   "id": "ROM.8.14",
+   "ref": "Romans 8:14",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9117,
+     "cited_as": "Romans 8:14 (in the 8:14-17 span)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For as many as are ledde by the Spirit of God, they are the sonnes of God.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For as many as are ledde by the Spirit of God, they are the sonnes of God.",
+     "source": "textusreceptusbibles.com/Geneva/45/8",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-10 span seat (Rom 8:14-17 seated as one span per the draft) — v14 exact-modern (ledde→led fold); span-joined Greek check on this row"
+  },
+  {
+   "id": "ROM.8.15",
+   "ref": "Romans 8:15",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9117,
+     "cited_as": "Romans 8:15 (in the 8:14-17 span)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For ye haue not receiued the Spirit of bodage, to feare againe: but ye haue receiued the Spirit of adoption, whereby we cry Abba, Father.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For ye haue not receiued the Spirit of bodage, to feare againe: but ye haue receiued the Spirit of adoption, whereby we cry Abba, Father.",
+     "source": "textusreceptusbibles.com/Geneva/45/8",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-10 span seat — v15 print artifacts seated: \"bodage *(bondage)*\" IS the 1599 print (EB==TRB agree); print reads \"we cry Abba\" with no comma after cry (draft comma dropped to the print)"
+  },
+  {
+   "id": "ROM.8.16",
+   "ref": "Romans 8:16",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9117,
+     "cited_as": "Romans 8:16 (in the 8:14-17 span)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "The same Spirit beareth witnesse with our spirit, that we are the children of God.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The same Spirit beareth witnesse with our spirit, that we are the children of God.",
+     "source": "textusreceptusbibles.com/Geneva/45/8",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-10 span seat — v16 exact-modern (\"witnesse\"→witness, \"heires\"→heirs folds)"
+  },
+  {
+   "id": "GAL.4.5",
+   "ref": "Galatians 4:5",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9123,
+     "cited_as": "Galatians 4:5 (in the 4:4-7 fragment)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That hee might redeeme them which were vnder the Law, that we might receiue the adoption of the sonnes.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That hee might redeeme them which were vnder the Law, that we might receiue the adoption of the sonnes.",
+     "source": "textusreceptusbibles.com/Geneva/48/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-10 fragment seat — draft ellipsis covers the 4:4 head \"made of a woman… under the law\" and \"That hee might redeeme…\" clause; seat prints the draft fragment; row carries the full print text; span Greek: all draft tokens in WH"
+  },
+  {
+   "id": "GAL.4.7",
+   "ref": "Galatians 4:7",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9123,
+     "cited_as": "Galatians 4:7 (in the 4:4-7 fragment)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore, thou art no more a seruant, but a sonne: now if thou be a sone, thou art also the heire of God through Christ.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore, thou art no more a seruant, but a sonne: now if thou be a sone, thou art also the heire of God through Christ.",
+     "source": "textusreceptusbibles.com/Geneva/48/4",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-10 fragment seat — full verse; print \"now if thou be a sone\" folded \"son\" per the orthographic class; draft exact-modern otherwise; draft 4:7 Greek tokens in WH except case class Θεοῦ/θεοῦ and the ὥστε-ἀλλὰ run the single-run extractor did not capture (page-run extraction class)"
+  },
+  {
+   "id": "MRK.14.36",
+   "ref": "Mark 14:36",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9131,
+     "cited_as": "Mark 14:36",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "POINT-10 obs (2) — the Gethsemane Abba-address mentioned, no quoted text in the draft; 1599 print banked"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he saide, Abba, Father, all things are possible vnto thee: take away this cup from me: neuertheles not that I will, but that thou wilt, be done.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he saide, Abba, Father, all things are possible vnto thee: take away this cup from me: neuertheles not that I will, but that thou wilt, be done.",
+     "source": "textusreceptusbibles.com/Geneva/41/14",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GEN.2.23",
+   "ref": "Genesis 2:23",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9082,
+     "cited_as": "Genesis 2:23",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "POINT-8 observation paraphrase \"as Eve was bone of Adam's bones\" — no verbatim quote; NETS + Geneva banked"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then the man said, This now is bone of my bones, and flesh of my flesh. She shalbe called woman, because she was taken out of man.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    },
+    "nets": {
+     "text": "And Adam said, “This now is bone of my bones and flesh of my flesh; this one shall be called Woman, for out of her husband she was taken.”",
+     "source": "NETS Oxford print (nets_cache GEN full, wave-1 repaired)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then the man said, This now is bone of my bones, and flesh of my flesh. She shalbe called woman, because she was taken out of man.",
+     "source": "textusreceptusbibles.com/Geneva/1/2",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GEN.2.24",
+   "ref": "Genesis 2:24",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 9100,
+     "cited_as": "Genesis 2:24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "POINT-9 observation quotes \"a man shall cleave to his wife, and they shall be one flesh\" under its \"Gen 2:24 LXX\" label — quote is KJV-voiced (Geneva prints \"shall be joined\"); NETS banked; flag raised"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore shall man leaue his father and his mother, and shall cleaue to his wife, and they shall be one flesh.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    },
+    "nets": {
+     "text": "Therefore a man will leave his father and mother and will be joined to his wife, and the two will become one flesh.",
+     "source": "NETS Oxford print (nets_cache GEN full, wave-1 repaired)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore shall man leaue his father and his mother, and shall cleaue to his wife, and they shall be one flesh.",
+     "source": "textusreceptusbibles.com/Geneva/1/2",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Point-9 observation (canon 9100) quotes \"a man shall cleave to his wife, and they shall be one flesh\" under its \"Gen 2:24 LXX\" label — but that wording is KJV-voiced (\"shall cleave\"; the Geneva 1599 prints \"shall be joined unto his wife\") and NETS reads \"Therefore a man will leave his father and mother and will be joined to his wife, and the two will be…\" — proposal per the 10 Nov translation-attribution rule: bring the quote to the seated NETS wording, or keep the KJV wording with its Version name in italics in line. Awaiting Gideon.",
+    "awaiting": "Gideon"
+   }
   }
  ]
 }

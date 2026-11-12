@@ -7890,3 +7890,228 @@ This corresponds with:
 - **Romans 8:17** — *"and if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together."*
 
 **The believer's seat is with the Son, at the Father's right hand.** Not in our own merit, but **in Christ Jesus** (ἐν Χριστῷ Ἰησοῦ — the controlling phrase).
+
+---
+
+## **POINT 6 — IN CHRIST: THE GREAT PAULINE PHRASE**
+
+The phrase **ἐν Χριστῷ** (in Christ) and its variants (ἐν Κυρίῳ — in the Lord; ἐν αὐτῷ — in Him) appear over 200 times in Paul. It is **the controlling concept** of his theology. Let me survey the major facets.
+
+---
+
+### **In Christ — Chosen Before the Foundation of the World**
+
+### **Ephesians 1:4:**
+
+### **1599 Geneva:**
+*"As he hath chosen us in him, before the foundation of the world, that we should be holy, and without blame before him in love:"*
+
+---
+
+### Observation
+
+**ἐν αὐτῷ** — *"in Him"* — **before the foundation of the world.** The Father chose us **in His Son** before creation itself. Our identification with Christ does not begin at our conversion; **it was decided in eternity past in the Father's purpose.**
+
+---
+
+### **In Christ — Accepted in the Beloved**
+
+### **Ephesians 1:6:**
+
+### **1599 Geneva:**
+*"To the praise of the glory of his grace, wherewith he hath made us freely accepted in his beloved,"*
+
+---
+
+### Observation
+
+**ἐν τῷ ἠγαπημένῳ** — *"in the Beloved."* The Father has **accepted us in His Beloved Son.** Our acceptance with the Father is **not in ourselves**, but **in the Beloved One**. The Father loves Him; therefore He loves us as we are *in Him*. This corresponds with John 17:23 — *"hast loved them as Thou hast loved Me."*
+
+---
+
+### **In Christ — Redeemed and Forgiven**
+
+### **Ephesians 1:7:**
+
+### **1599 Geneva:**
+*"By whom we have redemption through his blood, even the forgiveness of sins, according to his rich grace:"*
+
+---
+
+### Observation
+
+**ἐν ᾧ** — *"in whom."* Our redemption and forgiveness are **in Him** — not merely accomplished by Him but possessed by us **as we are in Him.**
+
+---
+
+### **In Christ — All Spiritual Blessings**
+
+### **Ephesians 1:3:**
+
+### **1599 Geneva:**
+*"Blessed be God, and the Father of our Lord Jesus Christ, which hath blessed us with all spiritual blessing in heavenly things in Christ,"*
+
+---
+
+### Observation
+
+**Every spiritual blessing the Father has given us is given ἐν Χριστῷ — in Christ.** Outside of Christ, no spiritual blessing is ours. In Christ, all spiritual blessings in the heavenly places belong to us.
+
+---
+
+### **In Christ — Justified**
+
+### **Galatians 2:17:**
+
+### **1599 Geneva:**
+*"...If then while we seek to be made righteous by Christ..."*
+
+### **Philippians 3:9:**
+
+### **1599 Geneva:**
+*"And might be found in him, that is, not having mine own righteousness, which is of the Law, but that which is through the faith of Christ, even the righteousness which is of God through faith,"*
+
+---
+
+### Observation
+
+The believer is **justified in Christ** — declared righteous, not by personal merit, but **in Him**. The righteousness we have is **God's righteousness, received through faith in the Son, and possessed in our union with Him.**
+
+---
+
+### **In Christ — New Creation**
+
+### **2 Corinthians 5:17** — already cited: *"if any man be in Christ, he is a new creation."*
+
+The new creation reality is **in Christ.** Outside of Him, we remain in Adam; in Him, we are a new creation.
+
+---
+
+### **In Christ — Sanctified**
+
+### **1 Corinthians 1:2:**
+
+### **1599 Geneva:**
+*"...Unto the Church of God, which is at Corinthus, to them that are sanctified in Christ Jesus..."*
+
+### **1 Corinthians 1:30:**
+
+### **1599 Geneva:**
+*"But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,"*
+
+---
+
+### Observation
+
+**The believer is sanctified in Christ Jesus.** Christ has been **made unto us** (by the Father — **ἀπὸ Θεοῦ**) wisdom, righteousness, sanctification, and redemption. We possess all of these **in Him** — they are His, and we have them by being in Him.
+
+(Note: per your earlier correction on 1 Cor 1:24, 30, the wisdom here is the Father's wisdom embodied in Christ, made unto us for our benefit — not an ontological identification with personified Wisdom of Prov 8.)
+
+---
+
+### **In Christ — Sealed by the Spirit**
+
+### **Ephesians 1:13:**
+
+### **1599 Geneva:**
+*"In whom also ye have trusted, after that ye heard the word of truth, even the Gospel of your salvation, wherein also after that ye believed, ye were sealed with the holy Spirit of promise,"*
+
+---
+
+### Observation
+
+The sealing of the Spirit (which we examined in the OT-NT shift discussion) takes place **ἐν ᾧ** — *"in whom"* — in Christ. **The Spirit's sealing is in Christ.** Our possession of the Spirit is grounded in our union with the Son.
+
+---
+
+## **POINT 7 — BAPTIZED INTO CHRIST**
+
+### **Galatians 3:27:**
+
+### **1599 Geneva:**
+*"For all ye that are baptized into Christ, have put on Christ."*
+
+### **Romans 6:3:**
+
+### **1599 Geneva:**
+*"Know ye not, that all we which have been baptized into Jesus Christ, have been baptized into his death?"*
+
+### **1 Corinthians 12:13:**
+
+### **1599 Geneva:**
+*"For by one Spirit are we all baptized into one body, whether we be Jews, or Grecians, whether we be bond, or free, and have been all made to drink into one Spirit."*
+
+---
+
+### Observation
+
+The believer has been **baptized into Christ** — into His death, into His body, by the one Spirit. The Geneva translates **ἐνεδύσασθε** as *"have put on Christ"* — the same verb used in the OT (LXX) of the Spirit *clothing* a man (Judg 6:34 — Gideon). Now the believer **puts on Christ** — being clothed with Him.
+
+This is a stunning fulfillment: in the OT, the Spirit clothed the man for a task; in the NT, the believer puts on Christ as his very identity.
+
+---
+
+## **POINT 8 — MEMBERS OF CHRIST'S BODY**
+
+### **1 Corinthians 12:12, 27:**
+*"For as the body is one, and hath many members, and all the members of the body, which is one, though they be many, yet are but one body: even so is Christ."*
+*"Now ye are the body of Christ, and members for your part."*
+
+### **Ephesians 5:30:**
+*"For we are members of his body, of his flesh, and of his bones."*
+
+---
+
+### Observation
+
+The believer is a **member of Christ's body.** Not merely an associate, not merely a follower — but an actual **member** (μέλος — a limb, an organ) of His own body. This is a real, organic union — as real as the union between a hand and its body.
+
+**Ephesians 5:30** goes even further: *"members of His body, of His flesh, and of His bones"* — echoing Genesis 2:23 (Adam and Eve). Paul applies the marriage union of Adam and Eve typologically: as Eve was bone of Adam's bones, so we are **of Christ's flesh and bones** — partakers of His very being.
+
+---
+
+## **POINT 9 — JOINED TO THE LORD AS ONE SPIRIT**
+
+### **1 Corinthians 6:17:**
+*"But he that is joined unto the Lord, is one spirit."*
+
+---
+
+### Observation of decisive importance
+
+**ὁ κολλώμενος τῷ Κυρίῳ ἓν πνεῦμά ἐστιν** — *"He who is joined to the Lord is one spirit [with Him]."*
+
+The verb **κολλάομαι** means *"to be glued together, to cleave to."* It is the verb used in Gen 2:24 LXX of marriage: *"a man shall cleave to his wife, and they shall be one flesh."* Paul transposes the marital language to the spiritual: **the believer is so joined to the Lord that they are one spirit.**
+
+**This is the most intimate union conceivable.** Not merely "in" Christ as in a location; but **one spirit with Him** — sharing the same spiritual life-principle.
+
+This corresponds with everything we have established:
+- The Father indwells the Son (one Spirit).
+- The Son indwells the believer (one Spirit).
+- The believer is joined to the Lord **as one spirit**.
+
+---
+
+## **POINT 10 — CHILDREN OF GOD, HEIRS WITH CHRIST**
+
+### **Romans 8:14-17:**
+*"For as many as are led by the Spirit of God, they are the sons of God. For ye have not received the Spirit of bodage *(bondage)*, to fear again: but ye have received the Spirit of adoption, whereby we cry Abba, Father. The same Spirit beareth witness with our spirit, that we are the children of God. If we be children, we are also heirs, even the heirs of God, and heirs annexed with Christ: if so be that we suffer with him, that we may also be glorified with him."*
+
+### **Galatians 4:4-7:**
+*"...God sent forth his Son... That we might receive the adoption of the sons. And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, which crieth, Abba, Father. Wherefore, thou art no more a servant, but a son: now if thou be a son, thou art also the heir of God through Christ."*
+
+---
+
+### Observations of foundational importance
+
+**(1) The believer is adopted by the Father** — receiving the Spirit of adoption.
+
+**(2) The believer cries "Abba, Father"** — using the very intimate address Jesus used in Gethsemane (Mark 14:36). The Son's relationship to the Father becomes the believer's relationship.
+
+**(3) The believer is a child of God — and therefore an heir.**
+
+**(4) Heirs of God, joint-heirs with Christ** (συγκληρονόμοι). What the Son inherits, we inherit *with* Him. Not separately, but **jointly.**
+
+**(5) The condition: εἴπερ συμπάσχομεν ἵνα καὶ συνδοξασθῶμεν** — *"if indeed we suffer together, that we may also be glorified together."*
+
+The "**together**" prefixes pile up: **co-suffer, co-glorified.** As we share in His sufferings, so we shall share in His glory.

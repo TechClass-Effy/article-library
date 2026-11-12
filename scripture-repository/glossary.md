@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**857 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**868 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1028 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1039 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -660,7 +660,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “But when the fulness of time was come, God sent forth his Son made of a woman, and made under the Law,”
   (Standing rule: NT seats Geneva 1599 (modernized spelling).)
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓*
 
 ### Genesis 1:1 — ANCHOR
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -2103,7 +2103,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,”
 - *Note:* Seat: Geneva verbatim (modernized) "God sent forth his Son made of a woman" — draft had KJV comma after "Son" and capitalized "His"; the comma is the KJV's clause punctuation, GNV joins "Sonne made of a woman".
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓*
 
 ### Isaiah 7:14 — CONFIRMED (EXCERPT)
 *cited as: audit bullet quote (specified translation seated)*
@@ -9322,7 +9322,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation quote — head is 1599 "if so be that we suffer with him"; tail KJV-voiced (1599: "glorified with him")*
 - **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Romans 8:30 — PROSE-REF
 *cited as: observation quote "whom he justified, them he also glorified" — exact-modern folds of the 1599 print*
@@ -9896,7 +9896,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Point-5 observation quote — Romans 8:17*
 - **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Ephesians 1:4 — CONFIRMED
 *cited as: Ephesians 1:4*
@@ -9987,6 +9987,91 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* POINT-7 observation reference — "the Spirit clothing a man (Judg 6:34)"; banked NETS text "a divine spirit entered Gedeon" (wave-32 Rahlfs enedusen row-note stands)
 - *Checked 2026-11-12 · editions fetched: gnv, net*
 - *Double-checked (second source): greek_swete — token-subset 0.833*
+
+### 1 Corinthians 12:12 — CONFIRMED
+*cited as: 1 Corinthians 12:12*
+- **Geneva 1599:** “For as the body is one, and hath many members, and all the members of the body, which is one, though they be many, yet are but one body: euen so is Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 5:30 — CONFIRMED
+*cited as: Ephesians 5:30*
+- **Geneva 1599:** “For we are members of his bodie, of his flesh, and of his bones.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Genesis 2:23 — PROSE-REF
+*cited as: Genesis 2:23*
+- **NETS (Septuagint, modern):** “And Adam said, “This now is bone of my bones and flesh of my flesh; this one shall be called Woman, for out of her husband she was taken.””
+- **Geneva 1599:** “Then the man said, This now is bone of my bones, and flesh of my flesh. She shalbe called woman, because she was taken out of man.”
+- *Note:* POINT-8 observation paraphrase "as Eve was bone of Adam's bones" — no verbatim quote; NETS + Geneva banked
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 6:17 — CONFIRMED
+*cited as: 1 Corinthians 6:17*
+- **Geneva 1599:** “But hee that is ioyned vnto the Lord, is one spirite.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Genesis 2:24 — PROSE-REF
+*cited as: Genesis 2:24*
+- **NETS (Septuagint, modern):** “Therefore a man will leave his father and mother and will be joined to his wife, and the two will become one flesh.”
+- **Geneva 1599:** “Therefore shall man leaue his father and his mother, and shall cleaue to his wife, and they shall be one flesh.”
+- *Note:* POINT-9 observation quotes "a man shall cleave to his wife, and they shall be one flesh" under its "Gen 2:24 LXX" label — quote is KJV-voiced (Geneva prints "shall be joined"); NETS banked; flag raised
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:14 — CONFIRMED
+*cited as: Romans 8:14 (in the 8:14-17 span)*
+- **Geneva 1599:** “For as many as are ledde by the Spirit of God, they are the sonnes of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:15 — CONFIRMED
+*cited as: Romans 8:15 (in the 8:14-17 span)*
+- **Geneva 1599:** “For ye haue not receiued the Spirit of bodage, to feare againe: but ye haue receiued the Spirit of adoption, whereby we cry Abba, Father.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:16 — CONFIRMED
+*cited as: Romans 8:16 (in the 8:14-17 span)*
+- **Geneva 1599:** “The same Spirit beareth witnesse with our spirit, that we are the children of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 4:4 — CONFIRMED
+*cited as: Galatians 4:4 (in the 4:4-7 fragment)*
+- **Geneva 1599:** “But when the fulnesse of time was come, God sent forth his Sonne made of a woman, and made vnder the Lawe,”
+- *Note:* POINT-10 fragment seat — v4 tail only ("God sent forth his Son…"); the draft ellipsis covers the head "But when the fulnesse of time…"
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓*
+
+### Galatians 4:6 — CONFIRMED
+*cited as: Galatians 4:6 (in the 4:4-7 fragment)*
+- **Geneva 1599:** “And because ye are sonnes, God hath sent foorth the Spirit of his Sonne into your heartes, which crieth, Abba, Father.”
+- *Note:* POINT-10 fragment seat — full verse printed in the fragment
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Galatians 4:5 — CONFIRMED
+*cited as: Galatians 4:5 (in the 4:4-7 fragment)*
+- **Geneva 1599:** “That hee might redeeme them which were vnder the Law, that we might receiue the adoption of the sonnes.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 4:7 — CONFIRMED
+*cited as: Galatians 4:7 (in the 4:4-7 fragment)*
+- **Geneva 1599:** “Wherefore, thou art no more a seruant, but a sonne: now if thou be a sone, thou art also the heire of God through Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Mark 14:36 — PROSE-REF
+*cited as: Mark 14:36*
+- **Geneva 1599:** “And he saide, Abba, Father, all things are possible vnto thee: take away this cup from me: neuertheles not that I will, but that thou wilt, be done.”
+- *Note:* POINT-10 obs (2) — the Gethsemane Abba-address mentioned, no quoted text in the draft; 1599 print banked
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -10925,9 +11010,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ## THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)
 
 ### 1 Corinthians 12:27 — ANCHOR
+- **Geneva 1599:** “Now ye are the body of Christ, and members for your part.”
 - **KJV:** “Now ye are the body of Christ, and members in particular.”
 - *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
-- *Checked 2026-11-04 · editions fetched: kjv*
+- *Checked 2026-11-04 · editions fetched: gnv, kjv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Acts 20:16 — ANCHOR
 - **KJV:** “For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.”
@@ -11753,6 +11840,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
 - *Double-checked (second source): trb ✓ · trb_fresh ✓ · greek_biblehub_fresh ✓*
 
+### 1 Corinthians 12:27 — CONFIRMED
+*cited as: 1 Corinthians 12:27*
+- **Geneva 1599:** “Now ye are the body of Christ, and members for your part.”
+- **KJV:** “Now ye are the body of Christ, and members in particular.”
+- *Note:* POINT-8 seat — draft exact-modern vs the 1599 print ("members for your part." IS the print); row pre-banked KJV-only from THE SABBATH OF SCRIPTURE (SAB11) — Geneva translation added now
+- *Checked 2026-11-04 · editions fetched: gnv, kjv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
 ---
 
 ## Master index (by book)
@@ -11772,7 +11867,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 10:4 | P8, COS-12, COS-19 | anchor, confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | 1 Corinthians 12:11 | COS-58 | prose-ref |
-| 1 Corinthians 12:27 | SAB11 | anchor |
+| 1 Corinthians 12:27 | SAB11, COS-66 | anchor, confirmed |
 | 1 Corinthians 15:20 | COS-40, COS-49 | confirmed, prose-ref |
 | 1 Corinthians 15:21 | COS-40 | confirmed |
 | 1 Corinthians 15:22 | COS-40 | confirmed |
@@ -12022,8 +12117,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 2:20 | COS-60, COS-62, COS-65, COS-66 | confirmed, prose-ref |
 | Galatians 3:13 | COS-65 | prose-ref |
 | Galatians 3:14 | COS-58 | prose-ref |
-| Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
-| Galatians 4:6 | COS-55, COS-60 | anchor, prose-ref |
+| Galatians 4:4 | COS-01, COS-19, COS-66 | confirmed, confirmed (excerpt) |
+| Galatians 4:6 | COS-55, COS-60, COS-66 | anchor, confirmed, prose-ref |
 | Galatians 5:24 | COS-66 | prose-ref |
 | Galatians 6:14 | COS-66 | prose-ref |
 | Genesis 1:1 | COS-01 | anchor |
@@ -12735,7 +12830,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
-| Romans 8:17 | COS-62, COS-66 | prose-ref |
+| Romans 8:17 | COS-62, COS-66 | confirmed, prose-ref |
 | Romans 8:29 | COS-63 | prose-ref |
 | Romans 8:30 | COS-62 | prose-ref |
 | Romans 8:32 | COS-22, COS-42 | confirmed, confirmed (excerpt) |
@@ -12787,6 +12882,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 3:27 | COS-66 | confirmed |
 | Romans 6:3 | COS-66 | confirmed |
 | 1 Corinthians 12:13 | COS-66 | confirmed |
+| 1 Corinthians 12:12 | COS-66 | confirmed |
+| Ephesians 5:30 | COS-66 | confirmed |
+| 1 Corinthians 6:17 | COS-66 | confirmed |
+| Romans 8:14 | COS-66 | confirmed |
+| Romans 8:15 | COS-66 | confirmed |
+| Romans 8:16 | COS-66 | confirmed |
+| Galatians 4:5 | COS-66 | confirmed |
+| Galatians 4:7 | COS-66 | confirmed |
+| Mark 14:36 | COS-66 | prose-ref |
+| Genesis 2:23 | COS-66 | prose-ref |
+| Genesis 2:24 | COS-66 | prose-ref |
 
 ## The editions used
 
