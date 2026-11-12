@@ -58,3 +58,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)
 45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)
 46. Grand Synthesis — The Consummation and the Father-Son Order
+47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last

@@ -94,7 +94,8 @@
    "COS-39",
    "COS-40",
    "COS-41",
-   "COS-42"
+   "COS-42",
+   "COS-43"
   ],
   "sections": [
    {
@@ -418,6 +419,10 @@
    {
     "key": "COS-42",
     "label": "46. Grand Synthesis — The Consummation and the Father-Son Order"
+   },
+   {
+    "key": "COS-43",
+    "label": "47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last"
    }
   ],
   "double_check": {
@@ -478,9 +483,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 47743,
+  "so_far_words": 50237,
   "cos_sofar": {
-   "waves": 23
+   "waves": 24
   }
  },
  "verses": [
@@ -11519,6 +11524,16 @@
      "status": "confirmed",
      "note": "clause 2 foundation citation range 'Isa 44-46'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5548,
+     "cited_as": "observation quote (\"I am the first, and I am the last, and without me is there no God.\" — 1599 Geneva label)",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Draft observation quotes Geneva; tail NOW confirmed exact vs the fresh TRB 1599 print (\"...and without me is there no God.\"); gnv text banked from TRB fetch; eBible re-verify pending (flag)."
     }
    ],
    "verified": "2026-11-07",
@@ -11556,7 +11571,17 @@
     "greek": {
      "result": "agree",
      "url": "https://theancientbible.org/"
+    },
+    "trb_fresh": {
+     "text": "Thus saith the Lord the King of Israel and his redeemer, the Lord of hostes, I am the first, and I am the last, and without me is there no God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/23/44",
+     "result": "primary fetch (eBible ISA44 v6 parse glitch — TRB text banked; eBible re-fetch pending)"
     }
+   },
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "RESOLVED tail: draft obs quote \"...and without me is there no God.\" is EXACT to the 1599 print (fresh TRB fetch); remaining: re-fetch eBible ISA44 v6 text (parse glitch this wave) before any seat",
+    "awaiting": "next touch"
    }
   },
   {
@@ -15457,6 +15482,16 @@
       "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.",
       "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage)."
      }
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5525,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -17457,6 +17492,16 @@
      "status": "confirmed",
      "note": "Two-Critical-Points: 'bearing the LORD's Name (Ex 23:21)'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5567,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -17506,6 +17551,16 @@
       "version": "gnv",
       "text": "And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled."
      }
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5567,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -17639,6 +17694,16 @@
      "status": "confirmed",
      "note": "pattern list: resurrection",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5420,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -19474,6 +19539,16 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5527,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -24128,6 +24203,18 @@
      "status": "confirmed",
      "note": "synthesis table: Every eye shall see Him; Israel sees Him whom they pierced",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5459,
+     "cited_as": "(D) GNV seat re-presented (modern-spelled)",
+     "quotes": [
+      "(D) seat re-presented: \"Behold, he cometh with clouds… all kinreds *(kindreds)* of the earth… Even so, Amen.\""
+     ],
+     "status": "confirmed",
+     "note": "1599 prints \"pearced him thorowe… kinreds… Euen so, Amen.\" — draft \"pierced\" is the modern of \"pearced\"; \"kindreds\" is the drift → seat carries edition word + approved gloss; edition comma kept before \"Even so, Amen.\" (draft had a period).",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -24142,6 +24229,11 @@
      "text": "Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.",
      "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
      "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἰδοὺ Idou ἔρχεται erchetai μετὰ meta τῶν tōn νεφελῶν, nephelōn καὶ kai ὄψεται opsetai αὐτὸν auton πᾶς pas ὀφθαλμὸς ophthalmos καὶ kai οἵτινες hoitines αὐτὸν auton ἐξεκέντησαν, exekentēsan καὶ kai κόψονται kopsontai ἐπ’ ep’ αὐτὸν auton πᾶσαι pasai αἱ hai φυλαὶ phylai τῆς tēs γῆς. gēs ναί, nai ἀμήν. amēn",
+     "source": "https://biblehub.com/text/revelation/1-7.htm",
+     "result": "0.96 (25/25 tokens; 1 token case/diff) — draft Greek row drops per seat shape"
     }
    }
   },
@@ -24681,6 +24773,16 @@
      "status": "confirmed",
      "note": "pattern list: return at the Father's appointed time",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5394,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -25022,6 +25124,16 @@
      "status": "anchor",
      "matched_source": "nets",
      "note": "listed in the 2.1 observation’s LXX echo list"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5553,
+     "cited_as": "observation quote (\"I am, I am the first, and I am the last.\" — 1599 Geneva label)",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Draft observation quotes Geneva; banked as GNV text."
     }
    ],
    "verified": "2026-11-11",
@@ -25029,9 +25141,19 @@
     "nets": {
      "text": "Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.",
      "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
+    },
+    "gnv": {
+     "text": "Heare me, O Iaakob and Israel, my called, I am, I am the first, and I am the last.",
+     "source": "https://ebible.org/enggnv/ISA48.htm"
     }
    },
-   "second_check": {},
+   "second_check": {
+    "trb_fresh": {
+     "text": "Heare me, O Iaakob and Israel, my called, I am, I am the first, and I am the last.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/23/48",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
    "note": ""
   },
   {
@@ -26218,6 +26340,16 @@
       "text": "Then answered Jesus, and said unto them, Verily, verily I say unto you, The Son can do nothing of himself, save that he seeth the Father do: for whatsoever things he doth, the same things doeth the Son in like manner.",
       "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek block drops, fragments recorded on the row."
      }
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5394,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11",
@@ -29887,6 +30019,16 @@
      "status": "confirmed",
      "note": "2 Thess obs: fire language fulfils Dan 7:9-10; 'here belonging to the Son's return'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5519,
+     "cited_as": "mention (Rev 1 observation prose-ref / echo)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "prose-ref cross in (D) Revelation-1 wave"
     }
    ],
    "verified": "2026-11-11"
@@ -32395,6 +32537,18 @@
      "status": "confirmed",
      "note": "(D) preview-list reference; TRB second-check at seating",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5475,
+     "cited_as": "(D) GNV seat — full verse",
+     "quotes": [
+      "(D) seat — \"I am Alpha and Omega, the beginning and the ending, saith the Lord…\""
+     ],
+     "status": "confirmed",
+     "note": "WH Rev 1:8 prints ἡ ἀρχὴ καὶ τὸ τέλος between the Alpha-Omega clause and λέγει κύριος ὁ θεός — the draft's Greek block omits it while the English Geneva carries the clause in words (\"the beginning and the ending\"); variant recorded, no flag (draft Greek row drops per seat shape).",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32402,6 +32556,18 @@
     "gnv": {
      "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, Which is, and Which was, and Which is to come, euen the Almightie.",
      "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, Which is, and Which was, and Which is to come, euen the Almightie.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐγώ Egō εἰμι eimi τὸ to Ἄλφα Alpha καὶ kai τὸ to Ὦ, Ō {ἀρχὴ archē καὶ kai τέλος}, telos λέγει legei Κύριος Kyrios ὁ ho Θεός, Theos ὁ ho ὢν ōn καὶ kai ὁ ho ἦν ēn καὶ kai ὁ ho ἐρχόμενος, erchomenos ὁ ho Παντοκράτωρ. Pantokratōr",
+     "source": "https://biblehub.com/text/revelation/1-8.htm",
+     "result": "0.933 — WH-only clause ἡ ἀρχὴ καὶ τὸ τέλος row-noted"
     }
    }
   },
@@ -32417,6 +32583,18 @@
      "status": "confirmed",
      "note": "(D) preview-list reference",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5539,
+     "cited_as": "(D) GNV seat — v17 + v18 (draft elided v17a)",
+     "quotes": [
+      "(D) seat — \"And when I saw him, I fell at his feet as dead: then he laid his right hand upon me…\""
+     ],
+     "status": "confirmed",
+     "note": "Draft \"and he laid\" → edition \"then he laid\" (KJV-family drift corrected); draft's v17a elision restored per wave-16/18 class.",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32424,6 +32602,18 @@
     "gnv": {
      "text": "And when I saw him, I fell at his feete as dead: then he laid his right hand vpon me, saying vnto me, Feare not: I am that first and that last,",
      "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when I saw him, I fell at his feete as dead: then he laid his right hand vpon me, saying vnto me, Feare not: I am that first and that last,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ Kai ὅτε hote εἶδον eidon αὐτόν, auton ἔπεσα epesa πρὸς pros τοὺς tous πόδας podas αὐτοῦ autou ὡς hōs νεκρός· nekros καὶ kai ἔθηκεν ethēken τὴν tēn δεξιὰν dexian αὐτοῦ autou ἐπ’ ep’ ἐμὲ eme λέγων legōn Μὴ Mē φοβοῦ· phobou ἐγώ egō εἰμι eimi ὁ ho πρῶτος prōtos καὶ kai ὁ ho ἔσχατος eschatos",
+     "source": "https://biblehub.com/text/revelation/1-17.htm",
+     "result": "fair-cut 0.938 (koronis Apostrophe επ᾽/επ + case only)"
     }
    }
   },
@@ -32439,6 +32629,18 @@
      "status": "confirmed",
      "note": "(D) preview-list reference",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5539,
+     "cited_as": "(D) GNV seat — full verse",
+     "quotes": [
+      "(D) seat — \"And am alive, but I was dead: and behold, I am alive for evermore, Amen: and I have the keys of hell and of death.\""
+     ],
+     "status": "confirmed",
+     "note": "Draft already edition-modulo-ortho (aliue→alive, beholde→behold, keyes→keys).",
+     "quote_kind": "blockquote"
     }
    ],
    "verified": "2026-11-11",
@@ -32446,6 +32648,13 @@
     "gnv": {
      "text": "And am aliue, but I was dead: and beholde, I am aliue for euermore, Amen: and I haue the keyes of hell and of death.",
      "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And am aliue, but I was dead: and beholde, I am aliue for euermore, Amen: and I haue the keyes of hell and of death.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
     }
    }
   },
@@ -32526,6 +32735,506 @@
      }
     }
    }
+  },
+  {
+   "id": "REV.1.1",
+   "ref": "Revelation 1:1",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5381,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:1 GNV seat — full verse; draft quote exact to Geneva modulo orthography (Reuelation, gaue, shewe…).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The Reuelation of Iesus Christ, which God gaue vnto him, to shewe vnto his seruants things which must shortly be done: which he sent, and shewed by his Angel vnto his seruant Iohn,",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The Reuelation of Iesus Christ, which God gaue vnto him, to shewe vnto his seruants things which must shortly be done: which he sent, and shewed by his Angel vnto his seruant Iohn,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀποκάλυψις Apokalypsis Ἰησοῦ Iēsou Χριστοῦ, Christou ἣν hēn ἔδωκεν edōken αὐτῷ autō ὁ ho Θεός, Theos δεῖξαι deixai τοῖς tois δούλοις doulois αὐτοῦ autou ἃ ha δεῖ dei γενέσθαι genesthai ἐν en τάχει, tachei καὶ kai ἐσήμανεν esēmanen ἀποστείλας aposteilas διὰ dia τοῦ tou ἀγγέλου angelou αὐτοῦ, autou τῷ tō δούλῳ doulō αὐτοῦ autou Ἰωάννῃ, Iōannē",
+     "source": "https://biblehub.com/text/revelation/1-1.htm",
+     "result": "1.0 (draft Greek exact vs WH)"
+    }
+   }
+  },
+  {
+   "id": "REV.1.4",
+   "ref": "Revelation 1:4",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5406,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:4-5 seat part 1 (with REV.1.5); \"his Throne\" is the 1599 print caps in BOTH sources — seat keeps the print.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iohn, to the seuen Churches which are in Asia, Grace be with you, and peace from him, Which is, and Which was, and Which is to come, and from the seuen Spirits which are before his Throne,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἰωάννης Iōannēs Ταῖς tais ἑπτὰ hepta ἐκκλησίαις ekklēsiais ταῖς tais ἐν en τῇ tē Ἀσίᾳ· Asia Χάρις charis ὑμῖν hymin καὶ kai εἰρήνη eirēnē ἀπὸ apo ὁ ho ὢν ōn καὶ kai ὁ ho ἦν ēn καὶ kai ὁ ho ἐρχόμενος, erchomenos καὶ kai ἀπὸ apo τῶν tōn ἑπτὰ hepta Πνευμάτων Pneumatōn ἃ ha ἐνώπιον enōpion τοῦ tou θρόνου thronou αὐτοῦ, autou",
+     "source": "https://biblehub.com/text/revelation/1-4.htm",
+     "result": "1.0 case-only (Ταις/Χαρις/Πνευματων caps); draft elides v5b tail"
+    }
+   }
+  },
+  {
+   "id": "REV.1.5",
+   "ref": "Revelation 1:5",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5406,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:4-5 seat part 2 opens mid-v5 (\"Unto him that loved us…\" is v5b); v5 head sits in the REV.1.4 seat range; verse quoted verbatim.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And from Iesus Christ, which is that faithful witnes, and that first begotten of the dead, and that Prince of the Kings of the earth, vnto him that loued vs, and washed vs from our sinnes in his blood,",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And from Iesus Christ, which is that faithful witnes, and that first begotten of the dead, and that Prince of the Kings of the earth, vnto him that loued vs, and washed vs from our sinnes in his blood,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai ἀπὸ apo Ἰησοῦ Iēsou Χριστοῦ, Christou ὁ ho μάρτυς martys ὁ ho πιστός, pistos ὁ ho πρωτότοκος prōtotokos τῶν tōn νεκρῶν nekrōn καὶ kai ὁ ho ἄρχων archōn τῶν tōn βασιλέων basileōn τῆς tēs γῆς. gēs Τῷ Tō ἀγαπῶντι agapōnti ἡμᾶς hēmas καὶ kai λύσαντι lysanti ἡμᾶς hēmas ἐκ ek τῶν tōn ἁμαρτιῶν hamartiōn ἡμῶν hēmōn ἐν en τῷ tō αἵματι haimati αὐτοῦ, autou",
+     "source": "https://biblehub.com/text/revelation/1-5.htm",
+     "result": "draft Greek = WH incl λύσαντι; TR-underlying λούσαντι is the basis of the Geneva \"washed\" — variant row-noted"
+    }
+   }
+  },
+  {
+   "id": "REV.1.6",
+   "ref": "Revelation 1:6",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5437,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:5-6 seat; \"to him I say be glory\" confirmed exact 1599 print (eBible=TRB).",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And made vs Kings and Priests vnto God euen his Father, to him I say be glory, and dominion for euermore, Amen.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And made vs Kings and Priests vnto God euen his Father, to him I say be glory, and dominion for euermore, Amen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai ἐποίησεν epoiēsen ἡμᾶς hēmas βασιλείαν, basileian ἱερεῖς hiereis τῷ tō Θεῷ Theō καὶ kai Πατρὶ Patri αὐτοῦ, autou αὐτῷ autō ἡ hē δόξα doxa καὶ kai τὸ to κράτος kratos εἰς eis τοὺς tous αἰῶνας aiōnas τῶν tōn αἰώνων· aiōnōn ἀμήν. amēn",
+     "source": "https://biblehub.com/text/revelation/1-6.htm",
+     "result": "exact vs WH"
+    }
+   }
+  },
+  {
+   "id": "REV.1.12",
+   "ref": "Revelation 1:12",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5508,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:12-16 seat opens with the restored \"Then\" head (draft elided it; wave-16/18 elision-restore class); 1599 \"turned backe\" = seat \"turned back\".",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then I turned backe to see the voyce, that spake with me: and when I was turned, I sawe seuen golden candlestickes,",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then I turned backe to see the voyce, that spake with me: and when I was turned, I sawe seuen golden candlestickes,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ Kai ἐπέστρεψα epestrepsa βλέπειν blepein τὴν tēn φωνὴν phōnēn ἥτις hētis ἐλάλει elalei μετ’ met’ ἐμοῦ· emou καὶ kai ἐπιστρέψας epistrepsas εἶδον eidon ἑπτὰ hepta λυχνίας lychnias χρυσᾶς, chrysas",
+     "source": "https://biblehub.com/text/revelation/1-12.htm",
+     "result": "draft/Byz ἐπιστρέψας εἶδον vs WH ἐπιστράφην ἰδεῖν — real variant, row-noted"
+    }
+   }
+  },
+  {
+   "id": "REV.1.13",
+   "ref": "Revelation 1:13",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5508,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "Revelation 1:13 GNV seat — full verse",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And in the middes of the seuen candlestickes, one like vnto the Sonne of man, clothed with a garment downe to the feete, and girded about the pappes with a golden girdle.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And in the middes of the seuen candlestickes, one like vnto the Sonne of man, clothed with a garment downe to the feete, and girded about the pappes with a golden girdle.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai ἐν en μέσῳ mesō τῶν tōn λυχνιῶν lychniōn ὅμοιον homoion υἱὸν huion ἀνθρώπου, anthrōpou ἐνδεδυμένον endedymenon ποδήρη podērē καὶ kai περιεζωσμένον periezōsmenon πρὸς pros τοῖς tois μαστοῖς mastois ζώνην zōnēn χρυσᾶν· chrysan",
+     "source": "https://biblehub.com/text/revelation/1-13.htm",
+     "result": "exact vs WH (Sonne name-pair)"
+    }
+   }
+  },
+  {
+   "id": "REV.1.14",
+   "ref": "Revelation 1:14",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5508,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:12-16 seat; draft \"hairs\" == 1599 \"heares\" modern-fold; head/hairs clause draft-exact.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "His head, and heares were white as white wooll, and as snowe, and his eyes were as a flame of fire,",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "His head, and heares were white as white wooll, and as snowe, and his eyes were as a flame of fire,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἡ hē δὲ de κεφαλὴ kephalē αὐτοῦ autou καὶ kai αἱ hai τρίχες triches λευκαὶ leukai ὡς hōs ἔριον erion λευκόν leukon ὡς hōs χιών, chiōn καὶ kai οἱ hoi ὀφθαλμοὶ ophthalmoi αὐτοῦ autou ὡς hōs φλὸξ phlox πυρός, pyros",
+     "source": "https://biblehub.com/text/revelation/1-14.htm",
+     "result": "draft \"His head, and hairs\" == WH order"
+    }
+   }
+  },
+  {
+   "id": "REV.1.15",
+   "ref": "Revelation 1:15",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5508,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:12-16 seat; \"fine brass...furnace\" == 1599 \"brasse...fornace\" modern-fold.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And his feete like vnto fine brasse, burning as in a fornace: and his voyce as the sounde of many waters.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And his feete like vnto fine brasse, burning as in a fornace: and his voyce as the sounde of many waters.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai οἱ hoi πόδες podes αὐτοῦ autou ὅμοιοι homoioi χαλκολιβάνῳ chalkolibanō ὡς hōs ἐν en καμίνῳ kaminō πεπυρωμένης, pepyrōmenēs καὶ kai ἡ hē φωνὴ phōnē αὐτοῦ autou ὡς hōs φωνὴ phōnē ὑδάτων hydatōn πολλῶν, pollōn",
+     "source": "https://biblehub.com/text/revelation/1-15.htm",
+     "result": "exact vs WH (fornace→furnace ortho class)"
+    }
+   }
+  },
+  {
+   "id": "REV.1.16",
+   "ref": "Revelation 1:16",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5508,
+     "cited_as": "(D) GNV seat — full verse in the Revelation-1 seat",
+     "quotes": [
+      "(D) seat — 1599 Geneva modern-spelled; see polish seat"
+     ],
+     "status": "confirmed",
+     "note": "1:12-16 seat closes at \"shineth in his strength.\" — draft was already edition-modulo-ortho.",
+     "quote_kind": "blockquote"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And he had in his right hand seuen starres: and out of his mouth went a sharpe two edged sword: and his face shone as the sunne shineth in his strength.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he had in his right hand seuen starres: and out of his mouth went a sharpe two edged sword: and his face shone as the sunne shineth in his strength.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/66/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ kai ἔχων echōn ἐν en τῇ tē δεξιᾷ dexia χειρὶ cheiri αὐτοῦ autou ἀστέρας asteras ἑπτά, hepta καὶ kai ἐκ ek τοῦ tou στόματος stomatos αὐτοῦ autou ῥομφαία rhomphaia δίστομος distomos ὀξεῖα oxeia ἐκπορευομένη, ekporeuomenē καὶ kai ἡ hē ὄψις opsis αὐτοῦ autou ὡς hōs ὁ ho ἥλιος hēlios φαίνει phainei ἐν en τῇ tē δυνάμει dynamei αὐτοῦ. autou",
+     "source": "https://biblehub.com/text/revelation/1-16.htm",
+     "result": "exact vs WH; \"shone\" is the 1599 print"
+    }
+   }
+  },
+  {
+   "id": "JHN.5.20",
+   "ref": "John 5:20",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5394,
+     "cited_as": "mention-anchor (\"the Father showeth Him all things\")",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Prose mention in Rev 1:1 observation; GNV text banked silently per standing order."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Father loueth the Sonne, and sheweth him all things, whatsoeuer he himselfe doeth, and he will shewe him greater workes then these, that ye should marueile.",
+     "source": "https://ebible.org/enggnv/JHN05.htm",
+     "note": "text repaired from the wave-24 fetch cache (int/str key reload glitch); eBible==TRB word-for-word"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the Father loueth the Sonne, and sheweth him all things, whatsoeuer he himselfe doeth, and he will shewe him greater workes then these, that ye should marueile.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/5",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "REV.21.23",
+   "ref": "Revelation 21:23",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5529,
+     "cited_as": "mention-anchor (\"the glory of God did light it: and the Lamb is the light thereof\")",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Prose mention in Rev 1:12-16 observation (Lamb-lamp of the city); seat/verify at the Rev 21 wave."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
+  },
+  {
+   "id": "PSA.89.37",
+   "ref": "Psalm 89:37",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5419,
+     "cited_as": "mention-anchor (\"the faithful witness\")",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Prose cross-ref in Rev 1:4-5 observation: draft cites \"Ps 89:37 LXX\"."
+    }
+   ],
+   "verified": "2026-11-11",
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "Psalter numbering: draft's LXX label maps MT 89 = LXX 88 (LXX 88:38 = MT 89:37, \"a faithful witness … in the sky\"); NETS seat from the 24-ps.pdf print at the next Psalms touch",
+    "awaiting": "next Psalms wave"
+   },
+   "translations": {}
+  },
+  {
+   "id": "PSA.89.27",
+   "ref": "Psalm 89:27",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5421,
+     "cited_as": "mention-anchor (\"firstborn, higher than the kings of the earth\")",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Prose cross-ref (\"fulfilling Ps 89:27 LXX\") behind \"Prince of the Kings of the earth\"."
+    }
+   ],
+   "verified": "2026-11-11",
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "Psalter numbering: LXX 88:28 = MT 89:27 (\"I will appoint him first-born, higher than the kings of the earth\"); NETS seat from the 24-ps.pdf print at the next Psalms touch",
+    "awaiting": "next Psalms wave"
+   },
+   "translations": {}
+  },
+  {
+   "id": "ISA.55.4",
+   "ref": "Isaiah 55:4",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5419,
+     "cited_as": "mention-anchor (\"a witness to the peoples\")",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "Prose cross-ref in Rev 1:4-5 observation; NETS seat at an Isaiah touch (nets_cache lacks the verse text)."
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
+  },
+  {
+   "id": "PHI.2.9",
+   "ref": "Philippians 2:9",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5567,
+     "cited_as": "mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "prose cross-ref in the (D) Revelation-1 wave observation"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
+  },
+  {
+   "id": "COL.1.18",
+   "ref": "Colossians 1:18",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5420,
+     "cited_as": "mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "prose cross-ref in the (D) Revelation-1 wave observation"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
+  },
+  {
+   "id": "PSA.2.7",
+   "ref": "Psalm 2:7",
+   "uses": [
+    {
+     "section": "COS-43",
+     "section_label": "THE CHRIST OF SCRIPTURE — 47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last",
+     "article_line": 5420,
+     "cited_as": "mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "mention",
+     "note": "prose cross-ref in the (D) Revelation-1 wave observation"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {}
   }
  ]
 }
