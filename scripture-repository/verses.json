@@ -121,7 +121,8 @@
    "COS-66",
    "COS-67",
    "COS-68",
-   "COS-69"
+   "COS-69",
+   "COS-70"
   ],
   "sections": [
    {
@@ -553,6 +554,10 @@
    {
     "key": "COS-69",
     "label": "THE INDICATIVE-TO-IMPERATIVE PATTERN"
+   },
+   {
+    "key": "COS-70",
+    "label": "Romans 8 — Life in the Spirit: The Mountain Peak"
    }
   ],
   "double_check": {
@@ -615,7 +620,7 @@
   },
   "so_far_words": 93434,
   "cos_sofar": {
-   "waves": 42
+   "waves": 43
   },
   "glossary": 887
  },
@@ -6220,6 +6225,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10746,
+     "cited_as": "mention — \"the Spirit Christ has poured out (Acts 2:33)\" (canon 10746)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -8111,6 +8126,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11013,
+     "cited_as": "mention — \"Set the mind on things above (Col 3:2)\" (canon 11013)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -9918,6 +9943,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11043,
+     "cited_as": "cross-witness seat (draft exact-modern); practical §2 mention (canon 10931)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted (no change)",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -17583,6 +17618,16 @@
      "status": "anchor",
      "matched_source": "",
      "note": "Referenced in the Ps 21:1 observation (2): the Son had no transgressions of His own."
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10675,
+     "cited_as": "mention — \"yet without sin (Heb 4:15)\" (canon 10675)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-11",
@@ -37363,6 +37408,16 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11067,
+     "cited_as": "Philippians 2:12-13 fragment seat (tail verse; the P9-era kjv source use stays)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted; print comma after \"will\" dropped (draft, and the old seat note, carry one)",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-02",
@@ -37384,6 +37439,11 @@
     "kjv": {
      "result": "agree",
      "url": "https://biblehub.com/kjv/"
+    },
+    "trb_fresh": {
+     "text": "For it is God which worketh in you, both the will and the deede, euen of his good pleasure.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
     }
    }
   },
@@ -43759,6 +43819,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10929,
+     "cited_as": "mention — \"I yield my members as instruments of righteousness (Rom 6:13)\" (canon 10929); also 10754",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -44010,6 +44080,18 @@
      "status": "anchor",
      "matched_source": "kjv",
      "note": "Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked."
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10605,
+     "cited_as": "Romans 7:18-19 span seat (first-banking of the verse text; SAB7 narrative use preserved)",
+     "quotes": [
+      "> For I know, that in me, that is, in my flesh, dwelleth no good thing: for to will is preset *(present)* with me: but I find no means to perform that which is good. For I do not the good thing, which I would, but the evil, which I would not, that do I."
+     ],
+     "status": "confirmed",
+     "note": "1599 print \"preset\" (eBible==TRB both print it); draft read \"present\" — print seated verbatim + *(present)* gloss.",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-04",
@@ -44017,6 +44099,17 @@
     "kjv": {
      "text": "For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.",
      "source": "eBible eng-kjv2006 ROM07.htm (banked for reference; uncited prose reference follows the KJV voice)"
+    },
+    "gnv": {
+     "text": "For I know, that in me, that is, in my flesh, dwelleth no good thing: for to wil is preset with me: but I find no meanes to perform that which is good.",
+     "source": "https://ebible.org/enggnv/ROM07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I know, that in me, that is, in my flesh, dwelleth no good thing: for to wil is preset with me: but I find no meanes to perform that which is good.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
     }
    }
   },
@@ -44079,6 +44172,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10725,
+     "cited_as": "Romans 8:9-11 re-present",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -44138,6 +44241,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10725,
+     "cited_as": "Romans 8:9-11 re-present",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -44227,6 +44340,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10735,
+     "cited_as": "prose mention \"As in Rom 8:17, eipe[r] is more since indeed than if\" (canon 10735); span seat text at canon 10801",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -44299,6 +44422,16 @@
      "status": "anchor",
      "note": "modern-believer §4 mention (canon 9838)",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10855,
+     "cited_as": "Romans 8:28-30 span seat; practical §6 (canon 10975)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -44345,6 +44478,16 @@
      "status": "anchor",
      "note": "Final Observation \"foreknew, predestined, called, justified, glorified\" (canon 9936)",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10855,
+     "cited_as": "Romans 8:28-30 span seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -44387,6 +44530,16 @@
      "status": "confirmed",
      "note": "pattern list: death",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10881,
+     "cited_as": "Romans 8:31-32 re-present (full verse; the COS-22 excerpt stays)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-11",
@@ -44401,6 +44554,11 @@
      "result": "agree (eBible=TRB ratio 1.00)",
      "url": "https://www.textusreceptusbibles.com/Geneva/45/8",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "text": "Who spared not his owne Sonne, but gaue him for vs all to death, how shall he not with him giue vs all things also?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
     }
    },
    "note": ""
@@ -44521,6 +44679,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10725,
+     "cited_as": "Romans 8:9-11 re-present (the wave-32 seat); architecture rows (canon 11082/11083)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -46760,6 +46928,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10801,
+     "cited_as": "Romans 8:14-17 selection seat (span re-present of the COS-66 seat)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -46791,6 +46969,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10801,
+     "cited_as": "Romans 8:14-17 selection seat",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted; print drops the comma after \"cry\" (draft \"cry, Abba\") — seat follows the print",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -46832,6 +47020,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10801,
+     "cited_as": "Romans 8:14-17 selection seat; practical §4 (canon 10957)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -46925,6 +47123,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "POINT-10 obs (2) — the Gethsemane Abba-address mentioned, no quoted text in the draft; 1599 print banked"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10811,
+     "cited_as": "mention — Gethsemane Abba-address (canon 10811)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -48060,6 +48268,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10819,
+     "cited_as": "mention — suffering-theme re-point (canon 10817/10819)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -48167,6 +48385,16 @@
      "quotes": [],
      "status": "confirmed",
      "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10754,
+     "cited_as": "prose quote \"the redemption of our body\" (Rom 8:23; canon 10754)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
      "quote_kind": "seat"
     }
    ],
@@ -48954,6 +49182,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10855,
+     "cited_as": "Romans 8:28-30 span seat; architecture row (canon 11088)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -48985,6 +49223,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10881,
+     "cited_as": "Romans 8:31-32 span seat — draft exact-modern (\"If God be on our side\" IS the 1599 print; KJV \"be for us\")",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -49490,6 +49738,16 @@
      "section_label": "THE CHRIST OF SCRIPTURE — THE INDICATIVE-TO-IMPERATIVE PATTERN",
      "article_line": 10539,
      "cited_as": "prose use (canon 10539)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11008,
+     "cited_as": "mention — \"Reckon (Rom 6:11)\" (canon 11008)",
      "quotes": [],
      "status": "anchor",
      "note": "",
@@ -50065,6 +50323,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10766,
+     "cited_as": "Romans 8:12-13 span seat; practical §2 v.13 ref (canon 10928); architecture row (canon 11084)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50096,6 +50364,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10754,
+     "cited_as": "mention — \"presented as instruments... (Rom 6:13; 12:1)\" (canon 10754)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -50158,6 +50436,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10945,
+     "cited_as": "Geneva seat (cos-witness §3); the FRUIT seat of record now COS-70 canon 10945",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50189,6 +50477,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10945,
+     "cited_as": "Geneva seat cross-witness §3 (tail verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "banked==fresh asserted",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -50412,6 +50710,700 @@
    "translations": {},
    "second_check": {},
    "diff_notes": ""
+  },
+  {
+   "id": "ROM.7.19",
+   "ref": "Romans 7:19",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I doe not the good thing, which I would, but the euil, which I would not, that do I.",
+     "source": "https://ebible.org/enggnv/ROM07.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10605,
+     "cited_as": "Romans 7:18-19 span seat (tail verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft wording == print at modern folds.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I doe not the good thing, which I would, but the euil, which I would not, that do I.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.7.24",
+   "ref": "Romans 7:24",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "O wretched man that I am, who shall deliuer me from the body of this death!",
+     "source": "https://ebible.org/enggnv/ROM07.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10611,
+     "cited_as": "Romans 7:24 seat — print order \"the body of this death!\" seated over draft KJV order \"this body of death?\"",
+     "quotes": [
+      "> O wretched man that I am, who shall deliver me from the body of this death!"
+     ],
+     "status": "confirmed",
+     "note": "1599 print: \"the body of this death!\" + exclamation mark; draft KJV-voiced \"this body of death?\" — print seated verbatim (eBible==TRB).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "O wretched man that I am, who shall deliuer me from the body of this death!",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; Ταλαίπωρος ἐγὼ ἄνθρωπος! τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου; τίς με ῥύσεται ἐκ τοῦ σώματος τοῦ θανάτου τούτου",
+     "source": "https://biblehub.com/text/ [romans/7-24]",
+     "result": "set-containment 0.909 of draft Greek; dup-stream window 0.909; draft tokens not on WH page: ['ἄνθρωπος']"
+    }
+   }
+  },
+  {
+   "id": "ROM.7.12",
+   "ref": "Romans 7:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore the Lawe is holy, and that commandement is holy, and iust, and good.",
+     "source": "https://ebible.org/enggnv/ROM07.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10599,
+     "cited_as": "prose mention \"The law is good, holy, and spiritual (7:12, 14)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "cited in prose, no quoted text; verse banked so the cross-reference is ready-checked.",
+     "quote_kind": "reference"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore the Lawe is holy, and that commandement is holy, and iust, and good.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.7.14",
+   "ref": "Romans 7:14",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we knowe that the Law is spirituall, but I am carnall, solde vnder sinne.",
+     "source": "https://ebible.org/enggnv/ROM07.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10599,
+     "cited_as": "prose mention \"(7:12, 14)\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "cited in prose with 7:12; same line.",
+     "quote_kind": "reference"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we knowe that the Law is spirituall, but I am carnall, solde vnder sinne.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.1",
+   "ref": "Romans 8:1",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now then there is no condemnation to them that are in Christ Iesus, which walke not after the flesh, but after the Spirit.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10633,
+     "cited_as": "Romans 8:1-2 span seat; print comma \"of life, which is\" restored",
+     "quotes": [
+      "> Now then there is no condemnation to them that are in Christ Jesus, which walk not after the flesh, but after the Spirit."
+     ],
+     "status": "confirmed",
+     "note": "draft Greek 8:1 ends at \"Christ Jesus\" (the WH reading); the 1599 Geneva prints the TR-family clause \"which walk not after the flesh, but after the Spirit\" — Geneva seat rules (specified NT version).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now then there is no condemnation to them that are in Christ Iesus, which walke not after the flesh, but after the Spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ. Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν χριστῷ Ἰησοῦ, μὴ κατὰ σάρκα περιπατοῦσιν, ἀλλὰ κατὰ πνεῦμα. Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ μὴ κατὰ σάρκα περιπατοῦσιν, ἀλλὰ κατὰ πνεῦμα. Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ, μὴ κατὰ σάρκα περιπατοῦσιν, ἀλλὰ κατὰ πνεῦμα. Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ μὴ κατὰ σάρκα περιπατοῦσιν, ἀλλὰ κατὰ πνεῦμα ὁ γὰρ νόμος τοῦ Πνεύματος τῆς ζωῆς ἐν Χριστῷ Ἰησοῦ ἠλευθέρωσέν σε ἀπὸ τοῦ νόμου τῆς ἁμαρτίας καὶ τοῦ θανάτου. ὁ γὰρ νόμος τοῦ πνεύματος τῆς ζωῆς ἐν Χριστῷ",
+     "source": "https://biblehub.com/text/ [romans/8-1 + 8-2]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.783"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.2",
+   "ref": "Romans 8:2",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the Lawe of the Spirite of life, which is in Christ Iesus, hath freed mee from the lawe of sinne and of death.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10633,
+     "cited_as": "Romans 8:1-2 span seat (tail verse)",
+     "quotes": [
+      "> For the law of the Spirit of life, which is in Christ Jesus, hath freed me from the law of sin and of death."
+     ],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the Lawe of the Spirite of life, which is in Christ Iesus, hath freed mee from the lawe of sinne and of death.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.3",
+   "ref": "Romans 8:3",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For (that that was impossible to ye Lawe, in as much as it was weake, because of ye flesh) God sending his owne Sonne, in ye similitude of sinful flesh, and for sinne, condened sinne in the flesh,",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10665,
+     "cited_as": "Romans 8:3-4 span seat — print parens restored; print \"condened\" sic kept verbatim with gloss",
+     "quotes": [
+      "> For (that that was impossible to the Law, in as much as it was weak, because of the flesh) God sending his own Son, in the similitude of sinful flesh, and for sin, condened sin in the flesh,"
+     ],
+     "status": "confirmed",
+     "note": "1599 print parenthetical \"(that that was impossible...because of the flesh)\" restored full (wave-16 class); print \"condened\" (sic, eBible==TRB both) seated verbatim + *(condemned)* gloss; draft read \"condemned\" and no parens.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For (that that was impossible to ye Lawe, in as much as it was weake, because of ye flesh) God sending his owne Sonne, in ye similitude of sinful flesh, and for sinne, condened sinne in the flesh,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τὸ γὰρ ἀδύνατον τοῦ νόμου, ἐν ᾧ ἠσθένει διὰ τῆς σαρκός, ὁ Θεὸς τὸν ἑαυτοῦ Υἱὸν πέμψας ἐν ὁμοιώματι σαρκὸς ἁμαρτίας καὶ περὶ ἁμαρτίας κατέκρινεν τὴν ἁμαρτίαν ἐν τῇ σαρκί, τὸ γὰρ ἀδύνατον τοῦ νόμου, ἐν ᾧ ἠσθένει διὰ τῆς σαρκός, ὁ θεὸς τὸν ἑαυτοῦ υἱὸν πέμψας ἐν ὁμοιώματι σαρκὸς ἁμαρτίας καὶ περὶ ἁμαρτίας κατέκρινε τὴν ἁμαρτίαν ἐν τῇ σαρκί, τὸ γὰρ ἀδύνατον τοῦ νόμου, ἐν ᾧ ἠσθένει διὰ τῆς σαρκός, ὁ θεὸς τὸν ἑαυτοῦ υἱὸν πέμψας ἐν ὁμοιώματι σαρκὸς ἁμαρτίας καὶ περὶ ἁμαρτίας κατέκρινε κατέκρινεν τὴν ἁμαρτίαν ἐν τῇ σαρκί, ὸ γὰρ ἀδύνατον τοῦ νόμου, ἐν ᾧ ἠσθένει διὰ τῆς σαρκός, ὁ θεὸς τὸν ἑαυτοῦ υἱὸν πέμψας ἐν ὁμοιώματι σαρκὸς ἁμαρτίας καὶ περὶ ἁμαρτίας κατέκρινεν τὴν ἁμαρτίαν ἐν τῇ σαρκί τὸ γὰρ ἀδύνατ",
+     "source": "https://biblehub.com/text/ [romans/8-3 + 8-4]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.923"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.4",
+   "ref": "Romans 8:4",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That that righteousnes of the Law might be fulfilled in vs, which walke not after ye flesh, but after the Spirit.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10665,
+     "cited_as": "Romans 8:3-4 span seat (tail verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "That that righteousnes of the Law might be fulfilled in vs, which walke not after ye flesh, but after the Spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.5",
+   "ref": "Romans 8:5",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For they that are after the flesh, sauour the things of the flesh: but they that are after the Spirit, the things of the Spirit.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10695,
+     "cited_as": "Romans 8:5-8 span seat; print \"enimitie\" glossed",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "print \"enimitie\" *(enmity)* seated verbatim (draft \"enmity\"); folds: sauour→savor, wisedome→wisdom, in deede→indeed, can not→cannot.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For they that are after the flesh, sauour the things of the flesh: but they that are after the Spirit, the things of the Spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. Οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν, οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος. οἱ γὰρ κατὰ σάρκα ὄντες τὰ τῆς σαρκὸς φρονοῦσιν οἱ δὲ κατὰ πνεῦμα τὰ τοῦ πνεύματος τὸ γὰρ φρόνημα τῆς σαρκὸ",
+     "source": "https://biblehub.com/text/ [romans/8-5..8-8]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.703"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.6",
+   "ref": "Romans 8:6",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the wisedome of the flesh is death: but the wisedome of the Spirit is life and peace,",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10695,
+     "cited_as": "Romans 8:5-8 span seat; print \"enimitie\" glossed",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "span seat (Romans 8:5-8).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the wisedome of the flesh is death: but the wisedome of the Spirit is life and peace,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.7",
+   "ref": "Romans 8:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Because the wisedome of the flesh is enimitie against God: for it is not subiect to the Lawe of God, neither in deede can be.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10695,
+     "cited_as": "Romans 8:5-8 span seat; print \"enimitie\" glossed",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "span seat (Romans 8:5-8).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Because the wisedome of the flesh is enimitie against God: for it is not subiect to the Lawe of God, neither in deede can be.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.8",
+   "ref": "Romans 8:8",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "So then they that are in the flesh, can not please God.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10695,
+     "cited_as": "Romans 8:5-8 span seat; print \"enimitie\" glossed",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "span seat (Romans 8:5-8).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "So then they that are in the flesh, can not please God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.12",
+   "ref": "Romans 8:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore brethren, wee are detters not to the flesh, to liue after the flesh:",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10766,
+     "cited_as": "Romans 8:12-13 span seat — 1599 print \"detters\" kept verbatim with gloss",
+     "quotes": [
+      "> Therefore brethren, we are detters *(debtors)* not to the flesh, to live after the flesh:"
+     ],
+     "status": "confirmed",
+     "note": "1599 print \"detters\" *(debtors)* (eBible==TRB both print it); draft read \"debtors\".",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore brethren, wee are detters not to the flesh, to liue after the flesh:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῆν. Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῇν, Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῇν, Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκί, τοῦ κατὰ σάρκα ζῇν Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῆν Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῆν Ἄρα οὖν, ἀδελφοί, ὀφειλέται ἐσμέν, οὐ τῇ σαρκί, τοῦ κατὰ σάρκα ζῆν Ἄρα οὖν ἀδελφοί ὀφειλέται ἐσμέν οὐ τῇ σαρκὶ τοῦ κατὰ σάρκα ζῆν εἰ γὰρ κατὰ σάρκα ζῆτε, μέλλετε ἀποθνήσκειν εἰ δὲ πνεύματι τὰς πράξεις τοῦ σώματος θανατοῦτε, ζήσεσθε. εἰ γὰρ κατὰ σάρκα ζῆτε μέλλετε ἀποθνήσκειν, εἰ δὲ πνεύματι τὰς πράξ",
+     "source": "https://biblehub.com/text/ [romans/8-12 + 8-13]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.833"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.26",
+   "ref": "Romans 8:26",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Likewise the Spirit also helpeth our infirmities: for we knowe not what to pray as wee ought: but the Spirit it selfe maketh request for vs with sighs, which cannot be expressed.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10825,
+     "cited_as": "Romans 8:26-27 seat — draft exact-modern vs the 1599 print",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "print \"sighes\"→draft \"sighs\", \"it selfe\"→\"itself\" orthographic folds; no wording splice.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Likewise the Spirit also helpeth our infirmities: for we knowe not what to pray as wee ought: but the Spirit it selfe maketh request for vs with sighs, which cannot be expressed.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὡσαύτως δὲ καὶ τὸ Πνεῦμα συναντιλαμβάνεται τῇ ἀσθενείᾳ ἡμῶν τὸ γὰρ τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ Πνεῦμα ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται τῇ ἀσθενείᾳ ἡμῶν τὸ γὰρ τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις, Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται τῇ ἀσθενείᾳ ἡμῶν τὸ γὰρ τί προσευξώμεθα καθὸ δεῖ οὐκ οἴδαμεν, ἀλλὰ αὐτὸ τὸ πνεῦμα ὑπερεντυγχάνει στεναγμοῖς ἀλαλήτοις, Ὡσαύτως δὲ καὶ τὸ πνεῦμα συναντιλαμβάνεται ταῖς ἀσθενείαις ἡμῶν τὸ γὰρ τί προσευξόμεθα καθὸ δεῖ, οὐκ οἴδαμεν, ἀλλ’ αὐτὸ τὸ πνεῦμα ὑπερεντυγχάνει ὑπὲρ ἡμῶν στεναγμοῖς ἀλαλήτοις Ὡσαύτως δὲ καὶ τὸ Πνεῦμα συναντιλαμβάνε",
+     "source": "https://biblehub.com/text/ [romans/8-26 + 8-27]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.886"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.27",
+   "ref": "Romans 8:27",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But he that searcheth the heartes, knoweth what is the meaning of the Spirit: for he maketh request for ye Saints, according to the wil of God.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10825,
+     "cited_as": "Romans 8:26-27 seat (tail verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "But he that searcheth the heartes, knoweth what is the meaning of the Spirit: for he maketh request for ye Saints, according to the wil of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.38",
+   "ref": "Romans 8:38",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I am perswaded that neither death, nor life, nor Angels, nor principalities, nor powers, nor things present, nor things to come,",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10887,
+     "cited_as": "Romans 8:38-39 seat — draft exact-modern",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I am perswaded that neither death, nor life, nor Angels, nor principalities, nor powers, nor things present, nor things to come,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις Πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε δυνάμεις οὔτε ἐνεστῶτα οὔτε μέλλοντα, πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ οὔτε ἐνεστῶτα οὔτε μέλλοντα οὔτε δυνάμεις πέπεισμαι γὰρ ὅτι οὔτε θάνατος οὔτε ζωὴ οὔτε ἄγγελοι οὔτε ἀρχαὶ",
+     "source": "https://biblehub.com/text/ [romans/8-38 + 8-39]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 1.0"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.39",
+   "ref": "Romans 8:39",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Nor height, nor depth, nor any other creature shalbe able to separate vs from the loue of God, which is in Christ Iesus our Lord.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 10887,
+     "cited_as": "Romans 8:38-39 seat; eBible tnav footer-glue stripped for the check",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "eBible chapter-closing footer (\"Romans < 8 >\") glued to v39 text — stripped before the EB==TRB compare; TRB clean.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Nor height, nor depth, nor any other creature shalbe able to separate vs from the loue of God, which is in Christ Iesus our Lord.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/8",
+     "result": "exact per-verse after eBible tnav footer-glue strip (eBible==TRB 1.000 token)"
+    }
+   }
+  },
+  {
+   "id": "GAL.5.16",
+   "ref": "Galatians 5:16",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then I say, Walke in the Spirit, and ye shall not fulfill the lustes of the flesh.",
+     "source": "https://ebible.org/enggnv/GAL05.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11031,
+     "cited_as": "Galatians 5:16-17 selection seat (draft ellipsis covers the print tail \"so that ye can not doe...\"); practical §2 ref (canon 10930); §8 ref (canon 11011)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft wording == print (\"Then I say, Walk in the Spirit...\" — 1599 word order; KJV prints \"Walk in the Spirit, and ye shall not fulfil\" with \"This I say then\").",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then I say, Walke in the Spirit, and ye shall not fulfill the lustes of the flesh.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λέγω δέ, Πνεύματι περιπατεῖτε καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε. Λέγω δέ, πνεύματι περιπατεῖτε καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε. Λέγω δέ, πνεύματι περιπατεῖτε καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε. Λέγω δέ, πνεύματι περιπατεῖτε, καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε. Λέγω δὲ πνεύματι περιπατεῖτε καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε. λέγω δέ πνεῦμα περιπατέω καί ἐπιθυμία σάρξ οὐ μή τελέω Λέγω δέ, Πνεύματι περιπατεῖτε, καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε. Λέγω δέ πνεύματι περιπατεῖτε καὶ ἐπιθυμίαν σαρκὸς οὐ μὴ τελέσητε ἡ γὰρ σὰρξ ἐπιθυμεῖ κατὰ τοῦ Πνεύματος, τὸ δὲ Πνεῦμα κατὰ τῆς σαρκός, ταῦτα γὰρ ἀλλήλοις ἀντίκειται, ἵνα μὴ ἃ ἐὰν θέλητε ταῦτα ποιῆτε. ἡ γὰρ σὰρξ ἐπιθυμεῖ κατὰ τοῦ πνεύματος, τὸ",
+     "source": "https://biblehub.com/text/ [galatians/5-16 + 5-17]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.88"
+    }
+   }
+  },
+  {
+   "id": "GAL.5.17",
+   "ref": "Galatians 5:17",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary one to another, so that ye can not doe the same things that ye would.",
+     "source": "https://ebible.org/enggnv/GAL05.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11031,
+     "cited_as": "Galatians 5:16-17 selection seat (tail verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary one to another, so that ye can not doe the same things that ye would.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/48/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.18",
+   "ref": "Ephesians 5:18",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And be not drunke with wine, wherein is excesse: but be fulfilled with the Spirit,",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11055,
+     "cited_as": "Ephesians 5:18 seat — 1599 idiom \"fulfilled\" seated verbatim with gloss; architecture row (canon 11090)",
+     "quotes": [
+      "> And be not drunk with wine, wherein is excess: but be fulfilled *(filled)* with the Spirit,"
+     ],
+     "status": "confirmed",
+     "note": "1599 prints \"be fulfilled with the Spirit\" (= filled; eBible==TRB both); draft KJV-voiced \"filled\" — print seated + *(filled)* gloss.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "And be not drunke with wine, wherein is excesse: but be fulfilled with the Spirit,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι, καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι, Καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστὶν ἀσωτία, ἀλλὰ πληροῦσθε ἐν πνεύματι, καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, καί μή μεθύσκω οἶνος ἐν ὅς εἰμί ἀσωτία ἀλλά πληρόω ἐν πνεῦμα καὶ μὴ μεθύσκεσθε οἴνῳ, ἐν ᾧ ἐστιν ἀσωτία, ἀλλὰ πληροῦσθε ἐν Πνεύματι, καὶ μὴ μεθύσκεσθε οἴνῳ ἐν ᾧ ἐστιν ἀσωτία ἀλλὰ πληροῦσθε ἐν πνεύματι",
+     "source": "https://biblehub.com/text/ [ephesians/5-18]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 1.0"
+    }
+   }
+  },
+  {
+   "id": "PHP.2.12",
+   "ref": "Philippians 2:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore my beloued, as ye haue alwayes obeyed me, not as in my presence only, but now much more in mine absence, so make an end of your owne saluation with feare and trembling.",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-70",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8 — Life in the Spirit: The Mountain Peak",
+     "article_line": 11067,
+     "cited_as": "Philippians 2:12-13 fragment seat — 1599 \"make an end of\" seated over draft KJV \"work out\"; print comma after \"will\" kept (draft added one)",
+     "quotes": [
+      "> ...work out your own salvation with fear and trembling. For it is God which worketh in you, both the will and the deed, even of his good pleasure."
+     ],
+     "status": "confirmed",
+     "note": "draft fragment; ellipsis head covers the print v12 opening; draft \"work out your own salvation\" is KJV idiom — the 1599 print reads \"so make an end of your owne saluation\" (eBible==TRB).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore my beloued, as ye haue alwayes obeyed me, not as in my presence only, but now much more in mine absence, so make an end of your owne saluation with feare and trembling.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε, Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε, Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον, ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε Ὥστε,",
+     "source": "https://biblehub.com/text/ [philippians/2-12 + 2-13]",
+     "result": "set-containment 1.0 of draft Greek; dup-stream window 0.952"
+    }
+   }
   }
  ]
 }

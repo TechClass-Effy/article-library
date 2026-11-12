@@ -98,3 +98,12 @@ Three splices: Rom 6:1-2 print punctuation kept and the 1599 verse-initial cap '
 plural 'affections' over draft's KJV singular. WH-Greek set-containment 1.000 on all 13 draft
 Greek blocks (Rom 6:8 συζ/συν variant row-recorded); EB==TRB 47/47 exact after a newline-form
 footer-glue strip. Next: (A) Romans 8 — life in the Spirit)
+66. (A) ROMANS 8 — LIFE IN THE SPIRIT (COS-70 — the mountain-peak arc seated complete: the transition through
+Romans 7 (7:18-19 + 7:24), the Romans 8 Geneva spans 1-2, 3-4, 5-8, 9-11, 12-13, 14-17 selections, 26-27, 28-30,
+31-32, 38-39, cross-witnesses Gal 5:16-17 + 5:22-23, Eph 3:16 + 5:18, Phil 2:12-13; eleven seat splices from the
+verified 1599 print: Rom 7:18 "preset" print-verbatim + gloss; 7:24 print order "the body of this death!"; 8:1-2
+print comma; 8:3-4 print parens + "condened" print-verbatim + gloss; 8:5 "enimitie" gloss; 8:9-11 two print commas
+restored (the wave-32 seat matches the print); 8:12 "detters" print-verbatim + gloss; 8:14-17 "bodage" gloss + the
+print cry-comma; 8:28-30 "predestinate" x2 gloss; Eph 5:18 "fulfilled" 1599 idiom + gloss; Phil 2:12 "make an end
+of" over draft KJV "work out". EB==TRB 40/40 after a new eBible tnav footer-glue strip (Rom 8:39). WH-Greek set-
+containment recorded on all draft blocks. NEXT: PART 1 — ROMANS 12 (canon 11166))

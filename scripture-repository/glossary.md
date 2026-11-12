@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**963 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**984 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1134 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1155 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -611,7 +611,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “For it is God which worketh in you, both the will and the deede, euen of his good pleasure.”
 - **KJV:** “For it is God which worketh in you both to will and to do of his good pleasure.”
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 ## A Closing Word to the Body of Christ
 
@@ -3081,7 +3081,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
 - **Geneva 1599:** “Who spared not his owne Sonne, but gaue him for vs all to death, how shall he not with him giue vs all things also?”
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 ### Romans 4:25 — CONFIRMED (EXCERPT)
 *cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
@@ -5950,7 +5950,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Who spared not his owne Sonne, but gaue him for vs all to death, how shall he not with him giue vs all things also?”
 - *Note:* pattern list: death
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 ### Acts 13:33 — CONFIRMED
 *cited as: mention*
@@ -10906,6 +10906,316 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
+## Romans 8 — Life in the Spirit: The Mountain Peak
+
+### Romans 7:12 — ANCHOR
+*cited as: prose mention "The law is good, holy, and spiritual (7:12, 14)"*
+- **Geneva 1599:** “Wherefore the Lawe is holy, and that commandement is holy, and iust, and good.”
+- *Note:* cited in prose, no quoted text; verse banked so the cross-reference is ready-checked.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 7:14 — ANCHOR
+*cited as: prose mention "(7:12, 14)"*
+- **Geneva 1599:** “For we knowe that the Law is spirituall, but I am carnall, solde vnder sinne.”
+- *Note:* cited in prose with 7:12; same line.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 7:19 — CONFIRMED
+*cited as: Romans 7:18-19 span seat (tail verse)*
+- **Geneva 1599:** “For I doe not the good thing, which I would, but the euil, which I would not, that do I.”
+- *Note:* draft wording == print at modern folds.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 7:24 — CONFIRMED
+*cited as: Romans 7:24 seat — print order "the body of this death!" seated over draft KJV order "this body of death?"*
+- **Geneva 1599:** “O wretched man that I am, who shall deliuer me from the body of this death!”
+- *Note:* 1599 print: "the body of this death!" + exclamation mark; draft KJV-voiced "this body of death?" — print seated verbatim (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 0.909 of draft Greek; dup-stream window 0.909; draft tokens not on WH page: ['ἄνθρωπος']*
+
+### Romans 8:1 — CONFIRMED
+*cited as: Romans 8:1-2 span seat; print comma "of life, which is" restored*
+- **Geneva 1599:** “Now then there is no condemnation to them that are in Christ Iesus, which walke not after the flesh, but after the Spirit.”
+- *Note:* draft Greek 8:1 ends at "Christ Jesus" (the WH reading); the 1599 Geneva prints the TR-family clause "which walk not after the flesh, but after the Spirit" — Geneva seat rules (specified NT version).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.783*
+
+### Romans 8:2 — CONFIRMED
+*cited as: Romans 8:1-2 span seat (tail verse)*
+- **Geneva 1599:** “For the Lawe of the Spirite of life, which is in Christ Iesus, hath freed mee from the lawe of sinne and of death.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:3 — CONFIRMED
+*cited as: Romans 8:3-4 span seat — print parens restored; print "condened" sic kept verbatim with gloss*
+- **Geneva 1599:** “For (that that was impossible to ye Lawe, in as much as it was weake, because of ye flesh) God sending his owne Sonne, in ye similitude of sinful flesh, and for sinne, condened sinne in the flesh,”
+- *Note:* 1599 print parenthetical "(that that was impossible...because of the flesh)" restored full (wave-16 class); print "condened" (sic, eBible==TRB both) seated verbatim + *(condemned)* gloss; draft read "condemned" and no parens.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.923*
+
+### Romans 8:4 — CONFIRMED
+*cited as: Romans 8:3-4 span seat (tail verse)*
+- **Geneva 1599:** “That that righteousnes of the Law might be fulfilled in vs, which walke not after ye flesh, but after the Spirit.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Hebrews 4:15 — ANCHOR
+*cited as: mention — "yet without sin (Heb 4:15)" (canon 10675)*
+- *Checked 2026-11-11 · editions fetched: *
+
+### Romans 8:5 — CONFIRMED
+*cited as: Romans 8:5-8 span seat; print "enimitie" glossed*
+- **Geneva 1599:** “For they that are after the flesh, sauour the things of the flesh: but they that are after the Spirit, the things of the Spirit.”
+- *Note:* print "enimitie" *(enmity)* seated verbatim (draft "enmity"); folds: sauour→savor, wisedome→wisdom, in deede→indeed, can not→cannot.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.703*
+
+### Romans 8:6 — CONFIRMED
+*cited as: Romans 8:5-8 span seat; print "enimitie" glossed*
+- **Geneva 1599:** “For the wisedome of the flesh is death: but the wisedome of the Spirit is life and peace,”
+- *Note:* span seat (Romans 8:5-8).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:7 — CONFIRMED
+*cited as: Romans 8:5-8 span seat; print "enimitie" glossed*
+- **Geneva 1599:** “Because the wisedome of the flesh is enimitie against God: for it is not subiect to the Lawe of God, neither in deede can be.”
+- *Note:* span seat (Romans 8:5-8).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:8 — CONFIRMED
+*cited as: Romans 8:5-8 span seat; print "enimitie" glossed*
+- **Geneva 1599:** “So then they that are in the flesh, can not please God.”
+- *Note:* span seat (Romans 8:5-8).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:10 — CONFIRMED
+*cited as: Romans 8:9-11 re-present*
+- **Geneva 1599:** “And if Christ bee in you, the body is dead, because of sinne: but the Spirite is life for righteousnesse sake.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact · greek_biblehub — draft tokens all present in the WH text (koronis/apostrophe artifacts only)*
+
+### Romans 8:11 — CONFIRMED
+*cited as: Romans 8:9-11 re-present*
+- **Geneva 1599:** “But if the Spirit of him that raised vp Iesus from the dead, dwell in you, he that raised vp Christ from the dead, shall also quicken your mortall bodies, by his Spirit that dwelleth in you.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact · greek_biblehub — draft tokens all present in the WH text (koronis/apostrophe artifacts only)*
+
+### Romans 8:9 — CONFIRMED
+*cited as: Romans 8:9-11 re-present (the wave-32 seat); architecture rows (canon 11082/11083)*
+- **Geneva 1599:** “Now ye are not in the flesh, but in ye Spirit, because ye spirit of God dwelleth in you: but if any man hath not ye Spirit of Christ, ye same is not his.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Romans 8:17 — CONFIRMED
+*cited as: prose mention "As in Rom 8:17, eipe[r] is more since indeed than if" (canon 10735); span seat text at canon 10801*
+- **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Acts 2:33 — ANCHOR
+*cited as: mention — "the Spirit Christ has poured out (Acts 2:33)" (canon 10746)*
+- **Geneva 1599:** “Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.”
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants) · trb_fresh — exact per-verse (eBible==TRB 1.000 fresh) · greek_biblehub_fresh — draft Greek v33 == WH (see ACT span group check) · greek_biblehub_span — ACT 2:32-36 draft-Greek group coverage 1.000 vs WH whole-group join; verse-by-verse WH text banked on each row*
+
+### Romans 8:23 — CONFIRMED
+*cited as: prose quote "the redemption of our body" (Rom 8:23; canon 10754)*
+- **Geneva 1599:** “And not onely the creature, but we also which haue the first fruites of the Spirit, euen we doe sigh in our selues, waiting for the adoption, euen the redemption of our body.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 12:1 — ANCHOR
+*cited as: mention — "presented as instruments... (Rom 6:13; 12:1)" (canon 10754)*
+- **Geneva 1599:** “I Beseech you therefore brethren, by the mercies of God, that yee giue vp your bodies a liuing sacrifice, holy, acceptable vnto God, which is your reasonable seruing of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:13 — CONFIRMED
+*cited as: Romans 8:12-13 span seat; practical §2 v.13 ref (canon 10928); architecture row (canon 11084)*
+- **Geneva 1599:** “For if ye liue after the flesh, ye shall die: but if yee mortifie the deedes of the body by the Spirit, ye shall liue.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:12 — CONFIRMED
+*cited as: Romans 8:12-13 span seat — 1599 print "detters" kept verbatim with gloss*
+- **Geneva 1599:** “Therefore brethren, wee are detters not to the flesh, to liue after the flesh:”
+- *Note:* 1599 print "detters" *(debtors)* (eBible==TRB both print it); draft read "debtors".
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.833*
+
+### Romans 8:14 — CONFIRMED
+*cited as: Romans 8:14-17 selection seat (span re-present of the COS-66 seat)*
+- **Geneva 1599:** “For as many as are ledde by the Spirit of God, they are the sonnes of God.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:15 — CONFIRMED
+*cited as: Romans 8:14-17 selection seat*
+- **Geneva 1599:** “For ye haue not receiued the Spirit of bodage, to feare againe: but ye haue receiued the Spirit of adoption, whereby we cry Abba, Father.”
+- *Note:* banked==fresh asserted; print drops the comma after "cry" (draft "cry, Abba") — seat follows the print
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:16 — CONFIRMED
+*cited as: Romans 8:14-17 selection seat; practical §4 (canon 10957)*
+- **Geneva 1599:** “The same Spirit beareth witnesse with our spirit, that we are the children of God.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Mark 14:36 — ANCHOR
+*cited as: mention — Gethsemane Abba-address (canon 10811)*
+- **Geneva 1599:** “And he saide, Abba, Father, all things are possible vnto thee: take away this cup from me: neuertheles not that I will, but that thou wilt, be done.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:18 — ANCHOR
+*cited as: mention — suffering-theme re-point (canon 10817/10819)*
+- **Geneva 1599:** “For I count that the afflictions of this present time are not worthy of the glory, which shalbe shewed vnto vs.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:26 — CONFIRMED
+*cited as: Romans 8:26-27 seat — draft exact-modern vs the 1599 print*
+- **Geneva 1599:** “Likewise the Spirit also helpeth our infirmities: for we knowe not what to pray as wee ought: but the Spirit it selfe maketh request for vs with sighs, which cannot be expressed.”
+- *Note:* print "sighes"→draft "sighs", "it selfe"→"itself" orthographic folds; no wording splice.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.886*
+
+### Romans 8:27 — CONFIRMED
+*cited as: Romans 8:26-27 seat (tail verse)*
+- **Geneva 1599:** “But he that searcheth the heartes, knoweth what is the meaning of the Spirit: for he maketh request for ye Saints, according to the wil of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:29 — CONFIRMED
+*cited as: Romans 8:28-30 span seat; practical §6 (canon 10975)*
+- **Geneva 1599:** “For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 8:30 — CONFIRMED
+*cited as: Romans 8:28-30 span seat*
+- **Geneva 1599:** “Moreouer whom he predestinate, them also he called, and whom he called, them also he iustified, and whom he iustified, them he also glorified.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:28 — CONFIRMED
+*cited as: Romans 8:28-30 span seat; architecture row (canon 11088)*
+- **Geneva 1599:** “Also we knowe that all thinges worke together for the best vnto them that loue God, euen to them that are called of his purpose.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:32 — CONFIRMED
+*cited as: Romans 8:31-32 re-present (full verse; the COS-22 excerpt stays)*
+- **Geneva 1599:** “Who spared not his owne Sonne, but gaue him for vs all to death, how shall he not with him giue vs all things also?”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 8:31 — CONFIRMED
+*cited as: Romans 8:31-32 span seat — draft exact-modern ("If God be on our side" IS the 1599 print; KJV "be for us")*
+- **Geneva 1599:** “What shall we then say to these thinges? If God be on our side, who can be against vs?”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:38 — CONFIRMED
+*cited as: Romans 8:38-39 seat — draft exact-modern*
+- **Geneva 1599:** “For I am perswaded that neither death, nor life, nor Angels, nor principalities, nor powers, nor things present, nor things to come,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 1.0*
+
+### Romans 8:39 — CONFIRMED
+*cited as: Romans 8:38-39 seat; eBible tnav footer-glue stripped for the check*
+- **Geneva 1599:** “Nor height, nor depth, nor any other creature shalbe able to separate vs from the loue of God, which is in Christ Iesus our Lord.”
+- *Note:* eBible chapter-closing footer ("Romans < 8 >") glued to v39 text — stripped before the EB==TRB compare; TRB clean.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse after eBible tnav footer-glue strip (eBible==TRB 1.000 token)*
+
+### Galatians 5:22 — CONFIRMED
+*cited as: Geneva seat (cos-witness §3); the FRUIT seat of record now COS-70 canon 10945*
+- **Geneva 1599:** “But the fruite of the Spirit is loue, ioye, peace, long suffering, gentlenes, goodnes, fayth,”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Galatians 5:23 — CONFIRMED
+*cited as: Geneva seat cross-witness §3 (tail verse)*
+- **Geneva 1599:** “Meekenesse, temperancie: against such there is no lawe.”
+- *Note:* banked==fresh asserted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 6:11 — ANCHOR
+*cited as: mention — "Reckon (Rom 6:11)" (canon 11008)*
+- **Geneva 1599:** “Likewise thinke ye also, that ye are dead to sin, but are aliue to God in Iesus Christ our Lord.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Colossians 3:2 — ANCHOR
+*cited as: mention — "Set the mind on things above (Col 3:2)" (canon 11013)*
+- **Geneva 1599:** “Set your affections on things which are aboue, and not on things which are on the earth.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 5:16 — CONFIRMED
+*cited as: Galatians 5:16-17 selection seat (draft ellipsis covers the print tail "so that ye can not doe..."); practical §2 ref (canon 10930); §8 ref (canon 11011)*
+- **Geneva 1599:** “Then I say, Walke in the Spirit, and ye shall not fulfill the lustes of the flesh.”
+- *Note:* draft wording == print ("Then I say, Walk in the Spirit..." — 1599 word order; KJV prints "Walk in the Spirit, and ye shall not fulfil" with "This I say then").
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.88*
+
+### Galatians 5:17 — CONFIRMED
+*cited as: Galatians 5:16-17 selection seat (tail verse)*
+- **Geneva 1599:** “For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary one to another, so that ye can not doe the same things that ye would.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Ephesians 3:16 — CONFIRMED
+*cited as: cross-witness seat (draft exact-modern); practical §2 mention (canon 10931)*
+- **Geneva 1599:** “That he might graunt you according to the riches of his glorie, that ye may be strengthened by his Spirit in the inner man,”
+- *Note:* banked==fresh asserted (no change)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 5:18 — CONFIRMED
+*cited as: Ephesians 5:18 seat — 1599 idiom "fulfilled" seated verbatim with gloss; architecture row (canon 11090)*
+- **Geneva 1599:** “And be not drunke with wine, wherein is excesse: but be fulfilled with the Spirit,”
+- *Note:* 1599 prints "be fulfilled with the Spirit" (= filled; eBible==TRB both); draft KJV-voiced "filled" — print seated + *(filled)* gloss.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 1.0*
+
+### Philippians 2:13 — CONFIRMED
+*cited as: Philippians 2:12-13 fragment seat (tail verse; the P9-era kjv source use stays)*
+- **Geneva 1599:** “For it is God which worketh in you, both the will and the deede, euen of his good pleasure.”
+- **KJV:** “For it is God which worketh in you both to will and to do of his good pleasure.”
+- *Note:* banked==fresh asserted; print comma after "will" dropped (draft, and the old seat note, carry one)
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Philippians 2:12 — CONFIRMED
+*cited as: Philippians 2:12-13 fragment seat — 1599 "make an end of" seated over draft KJV "work out"; print comma after "will" kept (draft added one)*
+- **Geneva 1599:** “Wherefore my beloued, as ye haue alwayes obeyed me, not as in my presence only, but now much more in mine absence, so make an end of your owne saluation with feare and trembling.”
+- *Note:* draft fragment; ellipsis head covers the print v12 opening; draft "work out your own salvation" is KJV idiom — the 1599 print reads "so make an end of your owne saluation" (eBible==TRB).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.952*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -11370,9 +11680,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 ### Romans 7:18 — ANCHOR
+- **Geneva 1599:** “For I know, that in me, that is, in my flesh, dwelleth no good thing: for to wil is preset with me: but I find no meanes to perform that which is good.”
 - **KJV:** “For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.”
 - *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
-- *Checked 2026-11-04 · editions fetched: kjv*
+- *Checked 2026-11-04 · editions fetched: gnv, kjv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 ### Romans 9:21 — ANCHOR
 - **KJV:** “Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?”
@@ -12692,6 +13004,23 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv, kjv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
+## Romans 8 — Life in the Spirit: The Mountain Peak
+
+### Romans 7:18 — CONFIRMED
+*cited as: Romans 7:18-19 span seat (first-banking of the verse text; SAB7 narrative use preserved)*
+- **Geneva 1599:** “For I know, that in me, that is, in my flesh, dwelleth no good thing: for to wil is preset with me: but I find no meanes to perform that which is good.”
+- **KJV:** “For I know that in me (that is, in my flesh,) dwelleth no good thing: for to will is present with me; but how to perform that which is good I find not.”
+- *Note:* 1599 print "preset" (eBible==TRB both print it); draft read "present" — print seated verbatim + *(present)* gloss.
+- *Checked 2026-11-04 · editions fetched: gnv, kjv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Romans 6:13 — ANCHOR
+*cited as: mention — "I yield my members as instruments of righteousness (Rom 6:13)" (canon 10929); also 10754*
+- **Geneva 1599:** “Neither giue ye your members, as weapons of vnrighteousnes vnto sinne: but giue your selues vnto God, as they that are aliue from the dead, and giue your members as weapons of righteousnesse vnto God.”
+- **KJV:** “Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.”
+- *Checked 2026-11-12 · editions fetched: gnv, kjv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
 ---
 
 ## Master index (by book)
@@ -12765,7 +13094,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -12821,7 +13150,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 2:20 | COS-37 | confirmed |
 | Acts 2:3 | P8 | anchor |
 | Acts 2:32 | COS-58 | confirmed |
-| Acts 2:33 | COS-25, COS-34, COS-56, COS-57, COS-58, COS-59, COS-60, COS-64 | anchor, confirmed, prose-ref |
+| Acts 2:33 | COS-25, COS-34, COS-56, COS-57, COS-58, COS-59, COS-60, COS-64, COS-70 | anchor, confirmed, prose-ref |
 | Acts 2:34 | COS-58 | confirmed |
 | ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28, COS-34, COS-42 | anchor, confirmed |
 | Acts 2:35 | COS-58 | confirmed |
@@ -12860,14 +13189,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 2:9 | COS-55 | anchor |
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Colossians 3:2 | COS-62, COS-69 | anchor, confirmed, prose-ref |
+| Colossians 3:2 | COS-62, COS-69, COS-70 | anchor, confirmed, prose-ref |
 | Colossians 3:3 | COS-60, COS-66, COS-69 | anchor, confirmed, prose-ref |
 | Colossians 3:4 | COS-60, COS-62, COS-66, COS-69 | anchor, confirmed, flagged, prose-ref |
 | Dan 7:10 | COS-35, COS-38 | confirmed |
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -12890,7 +13219,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 2:21 | COS-54, COS-60, COS-62 | anchor, prose-ref |
 | Ephesians 2:22 | COS-54, COS-60, COS-62, COS-69 | anchor, prose-ref |
 | Ephesians 3:14 | COS-62 | prose-ref |
-| Ephesians 3:16 | COS-62 | prose-ref |
+| Ephesians 3:16 | COS-62, COS-70 | confirmed, prose-ref |
 | Ephesians 3:17 | COS-62 | prose-ref |
 | Ephesians 3:18 | COS-62 | prose-ref |
 | Ephesians 3:19 | COS-52, COS-62, COS-69 | anchor, prose-ref |
@@ -13057,7 +13386,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 2:8 | COS-40 | confirmed |
 | Hebrews 2:9 | COS-40 | confirmed |
 | Hebrews 1:3 | COS-21 | confirmed |
-| Hebrews 4:15 | COS-22 | anchor |
+| Hebrews 4:15 | COS-22, COS-70 | anchor |
 | HEB 5 5-6 | COS-04, COS-19 | anchor, differs (minor) |
 | HEB 6 13 | COS-08 | confirmed |
 | HEB 6 14 | COS-08 | confirmed |
@@ -13190,7 +13519,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -13482,7 +13811,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -13523,7 +13852,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:9 | COS-43, COS-50 | anchor, prose-ref |
 | Philippians 2:10 | COS-01, COS-35, COS-42 | anchor, confirmed |
 | Philippians 2:11 | COS-01, COS-25, COS-35, COS-40 | anchor, confirmed |
-| Philippians 2:13 | P9 | confirmed |
+| Philippians 2:13 | P9, COS-70 | confirmed |
 | Philippians 2:9 | COS-42, COS-58 | confirmed, prose-ref |
 | Philippians 2:5 | COS-21 | confirmed |
 | Philippians 2:6 | COS-21 | confirmed |
@@ -13666,20 +13995,20 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:18 | COS-22 | confirmed (excerpt) |
 | Romans 5:19 | COS-22 | confirmed (excerpt) |
 | Romans 5:5 | P9, COS-62 | confirmed, prose-ref |
-| Romans 6:13 | SAB7, COS-69 | anchor, confirmed |
+| Romans 6:13 | SAB7, COS-69, COS-70 | anchor, confirmed |
 | Romans 6:4 | COS-60, COS-66, COS-69 | confirmed, flagged, prose-ref |
 | Romans 6:5 | COS-60, COS-66, COS-69 | confirmed, flagged, prose-ref |
 | Romans 6:6 | COS-65, COS-66, COS-69 | confirmed, prose-ref |
-| Romans 7:18 | SAB7 | anchor |
+| Romans 7:18 | SAB7, COS-70 | anchor, confirmed |
 | Romans 7:7 | COS-65 | prose-ref |
-| Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
-| Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
-| Romans 8:17 | COS-62, COS-66, COS-67 | confirmed, prose-ref |
-| Romans 8:29 | COS-63, COS-66, COS-68 | anchor, confirmed, prose-ref |
-| Romans 8:30 | COS-62, COS-68 | anchor, prose-ref |
-| Romans 8:32 | COS-22, COS-42 | confirmed, confirmed (excerpt) |
+| Romans 8:10 | COS-59, COS-60, COS-70 | confirmed, prose-ref |
+| Romans 8:11 | COS-59, COS-60, COS-63, COS-70 | confirmed, prose-ref |
+| Romans 8:17 | COS-62, COS-66, COS-67, COS-70 | confirmed, prose-ref |
+| Romans 8:29 | COS-63, COS-66, COS-68, COS-70 | anchor, confirmed, prose-ref |
+| Romans 8:30 | COS-62, COS-68, COS-70 | anchor, confirmed, prose-ref |
+| Romans 8:32 | COS-22, COS-42, COS-70 | confirmed, confirmed (excerpt) |
 | ROM 8 34 | COS-30, COS-62, COS-68 | anchor, confirmed, prose-ref |
-| Romans 8:9 | COS-55, COS-59, COS-60, COS-63 | anchor, confirmed, prose-ref |
+| Romans 8:9 | COS-55, COS-59, COS-60, COS-63, COS-70 | anchor, confirmed, prose-ref |
 | Romans 9:21 | SAB7 | anchor |
 | Revelation 1:10 | SAB12, RECAP | confirmed, recap cross-reference |
 | Revelation 12:17 | SAB12 | confirmed (excerpt) |
@@ -13729,12 +14058,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 12:12 | COS-66 | confirmed |
 | Ephesians 5:30 | COS-66 | confirmed, prose-ref |
 | 1 Corinthians 6:17 | COS-66 | confirmed, prose-ref |
-| Romans 8:14 | COS-66 | confirmed |
-| Romans 8:15 | COS-66 | confirmed |
-| Romans 8:16 | COS-66, COS-69 | anchor, confirmed |
+| Romans 8:14 | COS-66, COS-70 | confirmed |
+| Romans 8:15 | COS-66, COS-70 | confirmed |
+| Romans 8:16 | COS-66, COS-69, COS-70 | anchor, confirmed |
 | Galatians 4:5 | COS-66 | confirmed |
 | Galatians 4:7 | COS-66 | confirmed |
-| Mark 14:36 | COS-66 | prose-ref |
+| Mark 14:36 | COS-66, COS-70 | anchor, prose-ref |
 | Genesis 2:23 | COS-66 | prose-ref |
 | Genesis 2:24 | COS-66 | prose-ref |
 | Philippians 3:10 | COS-66 | confirmed, prose-ref |
@@ -13763,10 +14092,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 4:10 | COS-68 | confirmed |
 | 2 Corinthians 4:11 | COS-68 | confirmed |
 | Romans 8:36 | COS-68 | confirmed |
-| Romans 8:18 | COS-68 | confirmed |
+| Romans 8:18 | COS-68, COS-70 | anchor, confirmed |
 | Romans 8:19 | COS-68 | confirmed |
 | Romans 8:22 | COS-68 | confirmed |
-| Romans 8:23 | COS-68 | confirmed |
+| Romans 8:23 | COS-68, COS-70 | confirmed |
 | 2 Corinthians 11:28 | COS-68 | confirmed |
 | 2 Corinthians 11:29 | COS-68 | confirmed |
 | Colossians 1:24 | COS-68 | confirmed |
@@ -13787,8 +14116,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 1:29 | COS-68 | confirmed |
 | 1 Peter 4:12 | COS-68 | confirmed |
 | Psalm 43:23 (MT 44:22) | COS-68 | anchor |
-| Romans 8:28 | COS-68 | anchor |
-| Romans 8:31 | COS-68 | anchor |
+| Romans 8:28 | COS-68, COS-70 | anchor, confirmed |
+| Romans 8:31 | COS-68, COS-70 | anchor, confirmed |
 | Romans 8:33 | COS-68 | anchor |
 | Romans 8:35 | COS-68 | anchor |
 | Hebrews 12:2 | COS-68 | anchor |
@@ -13804,7 +14133,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 6:7 | COS-69 | confirmed |
 | Romans 6:9 | COS-69 | confirmed |
 | Romans 6:10 | COS-69 | confirmed |
-| Romans 6:11 | COS-69 | anchor, confirmed |
+| Romans 6:11 | COS-69, COS-70 | anchor, confirmed |
 | Romans 6:12 | COS-69 | anchor, confirmed |
 | Romans 6:14 | COS-69 | confirmed |
 | Romans 6:15 | COS-69 | confirmed |
@@ -13820,11 +14149,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:20 | COS-69 | anchor |
 | Romans 5:21 | COS-69 | anchor |
 | Romans 6:19 | COS-69 | anchor |
-| Romans 8:13 | COS-69 | anchor |
-| Romans 12:1 | COS-69 | anchor |
+| Romans 8:13 | COS-69, COS-70 | anchor, confirmed |
+| Romans 12:1 | COS-69, COS-70 | anchor |
 | 2 Corinthians 10:5 | COS-69 | anchor |
-| Galatians 5:22 | COS-69 | anchor |
-| Galatians 5:23 | COS-69 | anchor |
+| Galatians 5:22 | COS-69, COS-70 | anchor, confirmed |
+| Galatians 5:23 | COS-69, COS-70 | anchor, confirmed |
 | Hebrews 2:14 | COS-69 | anchor |
 | Hebrews 2:15 | COS-69 | anchor |
 | Ephesians 2:10 | COS-69 | anchor |
@@ -13832,6 +14161,27 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 4:8 | COS-69 | anchor |
 | 1 John 1:7 | COS-69 | anchor |
 | 1 John 1:8 | COS-69 | anchor |
+| Romans 7:19 | COS-70 | confirmed |
+| Romans 7:24 | COS-70 | confirmed |
+| Romans 7:12 | COS-70 | anchor |
+| Romans 7:14 | COS-70 | anchor |
+| Romans 8:1 | COS-70 | confirmed |
+| Romans 8:2 | COS-70 | confirmed |
+| Romans 8:3 | COS-70 | confirmed |
+| Romans 8:4 | COS-70 | confirmed |
+| Romans 8:5 | COS-70 | confirmed |
+| Romans 8:6 | COS-70 | confirmed |
+| Romans 8:7 | COS-70 | confirmed |
+| Romans 8:8 | COS-70 | confirmed |
+| Romans 8:12 | COS-70 | confirmed |
+| Romans 8:26 | COS-70 | confirmed |
+| Romans 8:27 | COS-70 | confirmed |
+| Romans 8:38 | COS-70 | confirmed |
+| Romans 8:39 | COS-70 | confirmed |
+| Galatians 5:16 | COS-70 | confirmed |
+| Galatians 5:17 | COS-70 | confirmed |
+| Ephesians 5:18 | COS-70 | confirmed |
+| Philippians 2:12 | COS-70 | confirmed |
 
 ## The editions used
 
