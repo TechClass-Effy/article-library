@@ -131,7 +131,8 @@
    "COS-76",
    "COS-77",
    "COS-78",
-   "COS-79"
+   "COS-79",
+   "COS-80"
   ],
   "sections": [
    {
@@ -603,6 +604,10 @@
    {
     "key": "COS-79",
     "label": "PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications"
+   },
+   {
+    "key": "COS-80",
+    "label": "PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications"
    }
   ],
   "double_check": {
@@ -663,11 +668,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 107971,
+  "so_far_words": 108540,
   "cos_sofar": {
-   "waves": 48
+   "waves": 50
   },
-  "glossary": 1270
+  "glossary": 1282
  },
  "verses": [
   {
@@ -52975,6 +52980,16 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "draft seat exact-modern (alwayes→always, maner→manner, al→all folds); punctuation print-exact (mid-sentence comma); no splice."
+    },
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12345,
+     "cited_as": "The full armor bullet (v. 18) — all prayer and supplication in the Spirit",
+     "quotes": [],
+     "status": "reference",
+     "note": "bullet names the verse only; text pre-banked (verified against fresh EB==TRB)",
+     "quote_kind": "reference"
     }
    ]
   },
@@ -55586,6 +55601,412 @@
     }
    },
    "note": ""
+  },
+  {
+   "id": "1PE.5.8",
+   "ref": "1 Peter 5:8",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12316,
+     "cited_as": "1 Peter 5:8-9 seat (range member; canon 12316)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft exact-modern vs the 1599 print (aduersarie/deuil/lyon/deuoure folds); range seat 5:8-9",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Be sober, and watch: for your aduersarie the deuil as a roaring lyon walketh about, seeking whom he may deuoure:",
+     "source": "https://ebible.org/enggnv/1PE05.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Be sober, and watch: for your aduersarie the deuil as a roaring lyon walketh about, seeking whom he may deuoure:",
+     "source": "https://textusreceptusbibles.com/Geneva/60/5 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπιεῖν ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν καταπιεῖν ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν [τινα] καταπιεῖν ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε ὁ ἀντίδικος ὑμῶν διάβολος, ὡς λέων ὠρυόμενος, περιπατεῖ ζητῶν τίνα καταπίῃ ΠΕΤΡΟΥ Α΄ νήψατε, γρηγορήσατε ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τίνα καταπίῃ ΠΕΤΡΟΥ Α΄ νήφω γρηγορεύω ὁ ἀντίδικος ὑμεῖς διάβολος ὡς λέων ὠρύομαι περιπατέω ζητέω τίς καταπίνω ΠΕΤΡΟΥ Α΄ νήψατε, γρηγορήσατε, ὅτι ὁ ἀντίδικος ὑμῶν διάβολος, ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπίῃ ΠΕΤΡΟΥ Α΄ Νήψατε γρηγορήσατε ὅτι ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπίῃ ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ὅς ἀνθίστημι στερεός ὁ πίστις εἴδω ὁ αὐτός ὁ πάθημα ὁ ἐν ὁ κόσμος ὑμεῖς ἀδελφότης ἐπιτελέω ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι",
+     "source": "biblehub.com/text/ 1_peter/5-8, 1_peter/5-9",
+     "result": "set-containment [1.0]"
+    }
+   },
+   "note": "WH Greek joined span 5:8-9 (Greek heads dropped; draft Greek = WH verbatim 1.000)"
+  },
+  {
+   "id": "1PE.5.9",
+   "ref": "1 Peter 5:9",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12316,
+     "cited_as": "1 Peter 5:8-9 seat (range member; canon 12316)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft ellipsis covers the print tail 'knowing that the same afflictions are accomplished in your brethren which are in the world' — honored per draft",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren which are in the world.",
+     "source": "https://ebible.org/enggnv/1PE05.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren which are in the world.",
+     "source": "https://textusreceptusbibles.com/Geneva/60/5 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπιεῖν ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν καταπιεῖν ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε. ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν [τινα] καταπιεῖν ΠΕΤΡΟΥ Α΄ Νήψατε, γρηγορήσατε ὁ ἀντίδικος ὑμῶν διάβολος, ὡς λέων ὠρυόμενος, περιπατεῖ ζητῶν τίνα καταπίῃ ΠΕΤΡΟΥ Α΄ νήψατε, γρηγορήσατε ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τίνα καταπίῃ ΠΕΤΡΟΥ Α΄ νήφω γρηγορεύω ὁ ἀντίδικος ὑμεῖς διάβολος ὡς λέων ὠρύομαι περιπατέω ζητέω τίς καταπίνω ΠΕΤΡΟΥ Α΄ νήψατε, γρηγορήσατε, ὅτι ὁ ἀντίδικος ὑμῶν διάβολος, ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπίῃ ΠΕΤΡΟΥ Α΄ Νήψατε γρηγορήσατε ὅτι ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπίῃ ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ὅς ἀνθίστημι στερεός ὁ πίστις εἴδω ὁ αὐτός ὁ πάθημα ὁ ἐν ὁ κόσμος ὑμεῖς ἀδελφότης ἐπιτελέω ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει, εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι. ΠΕΤΡΟΥ Α΄ ᾧ ἀντίστητε στερεοὶ τῇ πίστει εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι",
+     "source": "biblehub.com/text/ 1_peter/5-8, 1_peter/5-9",
+     "result": "set-containment [1.0]"
+    }
+   },
+   "note": "span member of the 5:8-9 seat"
+  },
+  {
+   "id": "EPH.6.10",
+   "ref": "Ephesians 6:10",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12336,
+     "cited_as": "Ephesians 6:10-11 seat (selection; canon 12336)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft exact-modern vs the 1599 print (fold class); the '...' covers 6:12-13",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+     "source": "https://ebible.org/enggnv/EPH06.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Finally, my brethren, be strong in the Lord, and in the power of his might.",
+     "source": "https://textusreceptusbibles.com/Geneva/49/6 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τοῦ λοιποῦ, ἐνδυναμοῦσθε ἐν Κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τοῦ λοιποῦ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τοῦ λοιποῦ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ὸ λοιπόν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν κυρίῳ, καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τὸ λοιπόν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν Κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ὁ λοιποῦ ἐνδυναμόω ἐν κύριος καί ἐν ὁ κράτος ὁ ἰσχύς αὐτός ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τὸ λοιπὸν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν Κυρίῳ, καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τὸ λοιπὸν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδίας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδίας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδίας μεθοδείας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ Ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ, πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύω ὁ πανοπλία ὁ θεός πρός ὁ δύναμαι ὑμεῖς ἵστημι πρός ὁ μεθοδεία ὁ διάβολος ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ, πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου",
+     "source": "biblehub.com/text/ ephesians/6-10, ephesians/6-11",
+     "result": "set-containment [1.0]"
+    }
+   },
+   "note": "seat = the selection quote; Greek head dropped"
+  },
+  {
+   "id": "EPH.6.11",
+   "ref": "Ephesians 6:11",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12336,
+     "cited_as": "Ephesians 6:10-11 seat (selection; canon 12336)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "armour→armor + assaultes→assaults spelling folds; draft seat is modern-spelled",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Put on the whole armour of God, that ye may be able to stand against the assaultes of the deuil.",
+     "source": "https://ebible.org/enggnv/EPH06.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Put on the whole armour of God, that ye may be able to stand against the assaultes of the deuil.",
+     "source": "https://textusreceptusbibles.com/Geneva/49/6 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τοῦ λοιποῦ, ἐνδυναμοῦσθε ἐν Κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τοῦ λοιποῦ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τοῦ λοιποῦ ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ὸ λοιπόν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν κυρίῳ, καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τὸ λοιπόν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν Κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ὁ λοιποῦ ἐνδυναμόω ἐν κύριος καί ἐν ὁ κράτος ὁ ἰσχύς αὐτός ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τὸ λοιπὸν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν Κυρίῳ, καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ. ΠΡΟΣ ΕΦΕΣΙΟΥΣ Τὸ λοιπὸν, ἀδελφοί μου, ἐνδυναμοῦσθε ἐν κυρίῳ καὶ ἐν τῷ κράτει τῆς ἰσχύος αὐτοῦ ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδίας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδίας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδίας μεθοδείας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ Ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ, πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύω ὁ πανοπλία ὁ θεός πρός ὁ δύναμαι ὑμεῖς ἵστημι πρός ὁ μεθοδεία ὁ διάβολος ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ Θεοῦ, πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐνδύσασθε τὴν πανοπλίαν τοῦ θεοῦ πρὸς τὸ δύνασθαι ὑμᾶς στῆναι πρὸς τὰς μεθοδείας τοῦ διαβόλου",
+     "source": "biblehub.com/text/ ephesians/6-10, ephesians/6-11",
+     "result": "set-containment [1.0]"
+    }
+   },
+   "note": "selection head renamed to the covered verses"
+  },
+  {
+   "id": "JAM.4.7",
+   "ref": "James 4:7",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12357,
+     "cited_as": "James 4:7 seat (canon 12357)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "draft exact-modern: print 'your selues'/'deuill' → 'yourselves'/'devil' (fold class)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Submit your selues to God: resist the deuill, and he will flee from you.",
+     "source": "https://ebible.org/enggnv/JAS04.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Submit your selues to God: resist the deuill, and he will flee from you.",
+     "source": "https://textusreceptusbibles.com/Geneva/59/4 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὑποτάγητε οὖν τῷ Θεῷ ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ’ ὑμῶν Ὑποτάγητε οὖν τῷ θεῷ ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ Ὑποτάγητε οὖν τῷ θεῷ ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ Ὑποτάγητε οὖν τῷ θεῷ ἀντίστητε δὲ τῷ διαβόλῳ, καὶ φεύξεται ἀφ’ ὑμῶν. Ὑποτάγητε οὖν τῷ Θεῷ. ἀντίστητε τῷ διαβόλῳ, καὶ φεύξεται ἀφ’ ὑμῶν ὑποτάσσω οὖν ὁ θεός ἀνθίστημι δέ ὁ διάβολος καί φεύγω ἀπό ὑμεῖς ὑποτάγητε οὖν τῷ θεῷ, ἀντίστητε τῷ διαβόλῳ, καὶ φεύξεται ἀφ’ ὑμῶν. ὑποτάγητε οὖν τῷ θεῷ ἀντίστητε τῷ διαβόλῳ καὶ φεύξεται ἀφ",
+     "source": "biblehub.com/text/ james/4-7",
+     "result": "set-containment [1.0]"
+    }
+   },
+   "note": "eBible James code = JAS (not JAM) — noted for future fetches"
+  },
+  {
+   "id": "1CO.10.13",
+   "ref": "1 Corinthians 10:13",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12369,
+     "cited_as": "1 Corinthians 10:13 seat (canon 12369)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "ONE WORD-FORM SPLICE: draft 'appertaineth' → print 'appertaine' (eBible + TRB + BibleHub Geneva concur); seated modern-fold 'appertain *(applies)*'; print comma after 'able' restored (draft colon)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "There hath no tentation taken you, but such as appertaine to man: and God is faithfull, which will not suffer you to be tempted aboue that you be able, but wil euen giue the issue with the tentation, that ye may be able to beare it.",
+     "source": "https://ebible.org/enggnv/1CO10.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "There hath no tentation taken you, but such as appertaine to man: and God is faithfull, which will not suffer you to be tempted aboue that you be able, but wil euen giue the issue with the tentation, that ye may be able to beare it.",
+     "source": "https://textusreceptusbibles.com/Geneva/46/10 (fresh)",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ Θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ Πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν, τοῦ δύνασθαι ὑμᾶς ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ Θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑμᾶς ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ Θεός, ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε, ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν, τοῦ δύνασθαι ὑμᾶς ὑπενεγκεῖν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ πειρασμὸς ὑμᾶς οὐκ εἴληφεν εἰ μὴ ἀνθρώπινος πιστὸς δὲ ὁ θεός ὃς οὐκ ἐάσει ὑμᾶς πειρασθῆναι ὑπὲρ ὃ δύνασθε ἀλλὰ ποιήσει σὺν τῷ πειρασμῷ καὶ τὴν ἔκβασιν τοῦ δύνασθαι ὑμᾶς ὑπενεγκεῖν",
+     "source": "biblehub.com/text/ 1_corinthians/10-13",
+     "result": "set-containment [1.0]"
+    }
+   },
+   "note": "1599 prints 'tentation' (archaic form of 'temptation') x2 — seat renders the modern spelling; 'bear' = 'beare' fold"
+  },
+  {
+   "id": "EPH.6.14",
+   "ref": "Ephesians 6:14",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12339,
+     "cited_as": "The full armor bullet (v. 14) — belt of truth, breastplate of righteousness",
+     "quotes": [],
+     "status": "reference",
+     "note": "bullet names the verse only; verse text banked for future work",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Stand therefore, and your loynes girded about with veritie, and hauing on the brest plate of righteousnesse,",
+     "source": "https://ebible.org/enggnv/EPH06.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Stand therefore, and your loynes girded about with veritie, and hauing on the brest plate of righteousnesse,",
+     "source": "https://textusreceptusbibles.com/Geneva/49/6 (fresh)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "EPH.6.15",
+   "ref": "Ephesians 6:15",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12341,
+     "cited_as": "The full armor bullet (v. 15) — feet shod with the preparation of the Gospel of peace",
+     "quotes": [],
+     "status": "reference",
+     "note": "bullet names the verse only; verse text banked for future work",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And your feete shod with the preparation of the Gospel of peace.",
+     "source": "https://ebible.org/enggnv/EPH06.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And your feete shod with the preparation of the Gospel of peace.",
+     "source": "https://textusreceptusbibles.com/Geneva/49/6 (fresh)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "EPH.6.16",
+   "ref": "Ephesians 6:16",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12342,
+     "cited_as": "The full armor bullet (v. 16) — shield of faith",
+     "quotes": [],
+     "status": "reference",
+     "note": "bullet names the verse only; verse text banked for future work",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Aboue all, take the shielde of faith, wherewith ye may quench all the fierie dartes of the wicked,",
+     "source": "https://ebible.org/enggnv/EPH06.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Aboue all, take the shielde of faith, wherewith ye may quench all the fierie dartes of the wicked,",
+     "source": "https://textusreceptusbibles.com/Geneva/49/6 (fresh)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "EPH.6.17",
+   "ref": "Ephesians 6:17",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12343,
+     "cited_as": "The full armor bullet (v. 17) — helmet of salvation; the sword of the Spirit, the Word of God",
+     "quotes": [],
+     "status": "reference",
+     "note": "bullet names the verse only; verse text banked for future work",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And take the helmet of saluation, and the sword of the Spirit, which is the worde of God.",
+     "source": "https://ebible.org/enggnv/EPH06.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And take the helmet of saluation, and the sword of the Spirit, which is the worde of God.",
+     "source": "https://textusreceptusbibles.com/Geneva/49/6 (fresh)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "2TI.2.22",
+   "ref": "2 Timothy 2:22",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12391,
+     "cited_as": "Practical Implications (3) — \"Flee youthful lusts (2 Tim 2:22)\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Flee also from the lustes of youth, and follow after righteousnes, faith, loue, and peace, with them that call on the Lord with pure heart,",
+     "source": "https://ebible.org/enggnv/2TI02.htm == textusreceptusbibles.com fresh (EB==TRB exact per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Flee also from the lustes of youth, and follow after righteousnes, faith, loue, and peace, with them that call on the Lord with pure heart,",
+     "source": "https://textusreceptusbibles.com/Geneva/55/2 (fresh)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "GEN.39.12",
+   "ref": "Genesis 39:12",
+   "uses": [
+    {
+     "section": "COS-80",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications",
+     "article_line": 12391,
+     "cited_as": "Practical Implications (3) — \"Joseph fled Potiphar's wife (Gen 39:12)\"",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "and she drew him by his garments, saying, “Lie with me!” And leaving his garments behind in her hands he fled and went outside.",
+     "source": "NETS Genesis print master scratch/nets/01-gen.pdf pdf p33"
+    },
+    "gnv": {
+     "text": "Therefore she caught him by his garmet, saying, Sleepe with me: but he left his garment in her hand and fled, and got him out.",
+     "source": "https://ebible.org/enggnv/GEN39.htm == textusreceptusbibles.com/Geneva/1/39 fresh (EB==TRB-OT ratio 1.000)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore she caught him by his garmet, saying, Sleepe with me: but he left his garment in her hand and fled, and got him out.",
+     "source": "https://textusreceptusbibles.com/Geneva/1/39 (fresh)",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "NETS Genesis numbering == MT here (plain 12 mark; no LXX/MT map)"
   }
  ]
 }

@@ -193,3 +193,15 @@ items 1-5. EB==TRB 8/8 fresh; WH Greek row-noted: the draft is TR-voiced (v23 π
 παρεδίδοτο; v24 lacks WH's Λάβετε φάγετε and κλώμενον; v26 ἐὰν vs WH ἂν; v27 draft drops τοῦτον; v29
 draft ends before τοῦ Κυρίου). One row flag: 1CO.11.28 obs (1) "let a man examine himself" is
 KJV-voiced (the 1599 prints "Let euery man therefore examine himselfe")).
+
+76. (C) PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION (COS-80 — the Reality of the
+Conflict (1 Peter 5:8-9 — Geneva seat, draft EXACT-MODERN: aduersarie/deuil/lyon/deuoure/stedfast
+folds; the draft's verse-9 ellipsis covers the print's 'knowing that...' tail — honored); Observations
+verbatim; the Armor of God (Ephesians 6:10-11 Geneva seat EXACT-MODERN: armour/assaultes folds; the
+full-armor bullets vv. 14-18 banked as mention-anchors); Resisting Temptation (James 4:7 seat
+EXACT-MODERN: your-selues/deuill folds; 1 Corinthians 10:13 seat ONE WORD-FORM SPLICE: the draft's
+'appertaineth' — three sources (eBible, textusreceptusbibles, BibleHub Geneva) print 'appertaine' →
+seated 'appertain *(applies)*'; the print's comma restored over the draft's colon; 'temptation' = modern
+spelling of the print's 'tentation'); Observations verbatim (ἔκβασις kept); Practical Implications 1-7
+(2 Tim 2:22 + Gen 39:12 anchors; Gen 39:12 NETS attached from the print, pdf p33). EB==TRB 13/13 EXACT
+fresh (GEN 39:12 via TRB OT 1/39, ratio 1.000); WH Greek 1.000 on all four draft Greek blocks).

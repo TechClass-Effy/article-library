@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1099 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1111 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1270 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1282 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -12133,6 +12133,100 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
+## PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications
+
+### 1 Peter 5:8 — CONFIRMED
+*cited as: 1 Peter 5:8-9 seat (range member; canon 12316)*
+- **Geneva 1599:** “Be sober, and watch: for your aduersarie the deuil as a roaring lyon walketh about, seeking whom he may deuoure:”
+- *Note:* draft exact-modern vs the 1599 print (aduersarie/deuil/lyon/deuoure folds); range seat 5:8-9
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment [1.0]*
+
+### 1 Peter 5:9 — CONFIRMED
+*cited as: 1 Peter 5:8-9 seat (range member; canon 12316)*
+- **Geneva 1599:** “Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren which are in the world.”
+- *Note:* draft ellipsis covers the print tail 'knowing that the same afflictions are accomplished in your brethren which are in the world' — honored per draft
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment [1.0]*
+
+### Ephesians 6:10 — CONFIRMED
+*cited as: Ephesians 6:10-11 seat (selection; canon 12336)*
+- **Geneva 1599:** “Finally, my brethren, be strong in the Lord, and in the power of his might.”
+- *Note:* draft exact-modern vs the 1599 print (fold class); the '...' covers 6:12-13
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment [1.0]*
+
+### Ephesians 6:11 — CONFIRMED
+*cited as: Ephesians 6:10-11 seat (selection; canon 12336)*
+- **Geneva 1599:** “Put on the whole armour of God, that ye may be able to stand against the assaultes of the deuil.”
+- *Note:* armour→armor + assaultes→assaults spelling folds; draft seat is modern-spelled
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment [1.0]*
+
+### Ephesians 6:14 — REFERENCE
+*cited as: The full armor bullet (v. 14) — belt of truth, breastplate of righteousness*
+- **Geneva 1599:** “Stand therefore, and your loynes girded about with veritie, and hauing on the brest plate of righteousnesse,”
+- *Note:* bullet names the verse only; verse text banked for future work
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 6:15 — REFERENCE
+*cited as: The full armor bullet (v. 15) — feet shod with the preparation of the Gospel of peace*
+- **Geneva 1599:** “And your feete shod with the preparation of the Gospel of peace.”
+- *Note:* bullet names the verse only; verse text banked for future work
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 6:16 — REFERENCE
+*cited as: The full armor bullet (v. 16) — shield of faith*
+- **Geneva 1599:** “Aboue all, take the shielde of faith, wherewith ye may quench all the fierie dartes of the wicked,”
+- *Note:* bullet names the verse only; verse text banked for future work
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 6:17 — REFERENCE
+*cited as: The full armor bullet (v. 17) — helmet of salvation; the sword of the Spirit, the Word of God*
+- **Geneva 1599:** “And take the helmet of saluation, and the sword of the Spirit, which is the worde of God.”
+- *Note:* bullet names the verse only; verse text banked for future work
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 6:18 — REFERENCE
+*cited as: The full armor bullet (v. 18) — all prayer and supplication in the Spirit*
+- **Geneva 1599:** “And pray alwayes with all maner prayer and supplication in the Spirit: and watch thereunto with all perseuerance and supplication for al Saints,”
+- *Note:* bullet names the verse only; text pre-banked (verified against fresh EB==TRB)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### James 4:7 — CONFIRMED
+*cited as: James 4:7 seat (canon 12357)*
+- **Geneva 1599:** “Submit your selues to God: resist the deuill, and he will flee from you.”
+- *Note:* draft exact-modern: print 'your selues'/'deuill' → 'yourselves'/'devil' (fold class)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment [1.0]*
+
+### 1 Corinthians 10:13 — CONFIRMED
+*cited as: 1 Corinthians 10:13 seat (canon 12369)*
+- **Geneva 1599:** “There hath no tentation taken you, but such as appertaine to man: and God is faithfull, which will not suffer you to be tempted aboue that you be able, but wil euen giue the issue with the tentation, that ye may be able to beare it.”
+- *Note:* ONE WORD-FORM SPLICE: draft 'appertaineth' → print 'appertaine' (eBible + TRB + BibleHub Geneva concur); seated modern-fold 'appertain *(applies)*'; print comma after 'able' restored (draft colon)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment [1.0]*
+
+### 2 Timothy 2:22 — PROSE-REF
+*cited as: Practical Implications (3) — "Flee youthful lusts (2 Tim 2:22)"*
+- **Geneva 1599:** “Flee also from the lustes of youth, and follow after righteousnes, faith, loue, and peace, with them that call on the Lord with pure heart,”
+- *Note:* reference only; no verse quoted in line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Genesis 39:12 — PROSE-REF
+*cited as: Practical Implications (3) — "Joseph fled Potiphar's wife (Gen 39:12)"*
+- **NETS (Septuagint, modern):** “and she drew him by his garments, saying, “Lie with me!” And leaving his garments behind in her hands he fled and went outside.”
+- **Geneva 1599:** “Therefore she caught him by his garmet, saying, Sleepe with me: but he left his garment in her hand and fled, and got him out.”
+- *Note:* reference only; no verse quoted in line
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -14011,7 +14105,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -14113,7 +14207,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -14436,7 +14530,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -14728,7 +14822,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -15133,7 +15227,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 4:1 | COS-73 | confirmed |
 | Leviticus 19:18 | COS-72 | anchor |
 | Romans 13:12 | COS-74 | anchor |
-| Ephesians 6:18 | COS-75 | confirmed |
+| Ephesians 6:18 | COS-75, COS-80 | confirmed, reference |
 | Jude 1:20 | COS-75 | confirmed |
 | Jude 1:21 | COS-75 | confirmed |
 | Matthew 7:7 | COS-75 | confirmed |
@@ -15214,6 +15308,18 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 11:28 | COS-79 | confirmed, prose-ref |
 | 1 Corinthians 11:29 | COS-79 | confirmed |
 | Acts 20:7 | COS-79 | prose-ref |
+| 1 Peter 5:8 | COS-80 | confirmed |
+| 1 Peter 5:9 | COS-80 | confirmed |
+| Ephesians 6:10 | COS-80 | confirmed |
+| Ephesians 6:11 | COS-80 | confirmed |
+| James 4:7 | COS-80 | confirmed |
+| 1 Corinthians 10:13 | COS-80 | confirmed |
+| Ephesians 6:14 | COS-80 | reference |
+| Ephesians 6:15 | COS-80 | reference |
+| Ephesians 6:16 | COS-80 | reference |
+| Ephesians 6:17 | COS-80 | reference |
+| 2 Timothy 2:22 | COS-80 | prose-ref |
+| Genesis 39:12 | COS-80 | prose-ref |
 
 ## The editions used
 
