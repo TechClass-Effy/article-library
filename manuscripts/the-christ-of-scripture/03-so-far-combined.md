@@ -5897,3 +5897,1707 @@ We have now properly addressed the "seven Spirits" question without overreach. O
 This now perfectly sets us up for **Part F — The Indwelling: That We Should Be the Habitation of God in Christ.** The Father's Spirit, having dwelt fully in the Son, is now poured out through the Son upon the elect, so that **we may become the habitation of the Father in His Son by His Spirit** — drawn into the very Father-Son union that has existed from eternity.
 
 Shall we now proceed to **Part F**?
+
+---
+
+> Before we move to Part F, can you address how Acts 2:33 fits with this picture of the Son receiving and pouring out the Father's Spirit?
+
+Acts 2:33 is **one of the most theologically precise statements in the entire NT** about the relationship between the Father, the Son, and the Spirit at the Son's exaltation. It deserves the most careful examination per our maxims.
+
+Let me proceed with the same discipline as before — examining the verse in context, parsing the Greek carefully, cross-referencing all relevant witnesses, and being honest about what is established and what remains to be carefully held.
+
+---
+
+# **ACTS 2:33 — THE EXALTED SON RECEIVES AND POURS FORTH THE PROMISE OF THE SPIRIT**
+
+## **The Verse in Context — Acts 2:32-36**
+
+Let me first set Acts 2:33 in its immediate context, because it is the climax of Peter's Pentecost sermon and connects directly to Psalm 110:1.
+
+> This Jesus hath God raised up, whereof we all are witnesses. Since then that he by the right hand of God hath been exalted, and hath received of his Father the promise of the holy Ghost, he hath shed forth this which ye now see and hear. For David is not ascended into heaven, but he saith, The Lord said to my Lord, Sit at my right hand, Until I make thine enemies thy footestoole *(footstool)*. Therefore, let all the house of Israel know for a surety, that God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified. — **Acts 2:32-36, 1599 Geneva**
+
+---
+
+## **CLAUSE-BY-CLAUSE EXAMINATION**
+
+Let me walk through verse 33 phrase by phrase.
+
+---
+
+### **Clause 1: τῇ δεξιᾷ οὖν τοῦ Θεοῦ ὑψωθεὶς**
+
+*"Therefore, having been exalted by/to the right hand of God..."*
+
+**Critical grammatical note:** The phrase **τῇ δεξιᾷ τοῦ Θεοῦ** is in the **dative case**. The dative can be read in two ways here:
+
+- **Instrumental dative:** *"by the right hand of God"* — i.e., **the Father's right hand (His power/agency) raised the Son up.**
+- **Dative of location:** *"to the right hand of God"* — i.e., **the Son was raised up to the place at the Father's right hand.**
+
+**Both readings are grammatically valid.** The Geneva translates: *"by the right hand of God hath been exalted."* This honestly captures the primary sense — **the Father's agency exalted the Son** — while also implying the location (the place to which He was exalted).
+
+**What is decisively established by both readings:**
+- **The Son did not exalt Himself.** The verb **ὑψωθείς** is a passive participle — *"having been exalted."* He is the recipient of the action.
+- **The Father is the agent** — the One who exalted Him.
+- **The Son's present location is at the Father's right hand** — consistent with Psalm 110:1, which Peter explicitly cites in v. 34.
+
+This perfectly preserves our foundation: **the Father is the One who acts; the Son is the One who receives.** Even at His exaltation, the Son does not lift Himself — the Father lifts Him.
+
+---
+
+### **Clause 2: τήν τε ἐπαγγελίαν τοῦ Πνεύματος τοῦ Ἁγίου λαβὼν παρὰ τοῦ Πατρὸς**
+
+*"having received the promise of the Holy Spirit from the Father..."*
+
+**This is the theologically decisive clause.** Let me examine each element.
+
+**(1) τὴν ἐπαγγελίαν τοῦ Πνεύματος τοῦ Ἁγίου** — *"the promise of the Holy Spirit."*
+
+The genitive **τοῦ Πνεύματος** is a **genitive of content / apposition** — meaning **the promise consists of / is the Holy Spirit.** This is consistent with:
+
+- **Luke 24:49** — *"behold, I send the promise of My Father upon you."*
+- **Acts 1:4** — *"wait for the promise of the Father."*
+- **Galatians 3:14** — *"that we might receive the promise of the Spirit through faith."*
+- **Ephesians 1:13** — *"sealed with the Holy Spirit of promise."*
+
+The promise = the Spirit. The Spirit promised = the Father's own Spirit promised through the OT prophets (Joel 2:28-32 LXX — which Peter has just cited in Acts 2:17-21).
+
+**(2) λαβὼν παρὰ τοῦ Πατρός** — *"having received from beside the Father."*
+
+The verb **λαβὼν** is an aorist participle of **λαμβάνω** — *"to receive, to take."* The Son **received**. He is the recipient.
+
+The preposition **παρά** + genitive (**παρὰ τοῦ Πατρὸς**) — *"from beside / from the presence of / from"* — denotes **the Father as the Source**. The Spirit is **from the Father**, given to the Son.
+
+**This is the same construction Jesus Himself used:**
+
+> But when that Comforter shall come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth of the Father, he shall testify of me. — **John 15:26, 1599 Geneva**
+
+**Two parallel phrases** — *"whom I will send from the Father"* and *"which proceedeth of the Father"* — both use **παρὰ τοῦ Πατρός**. **The Spirit proceeds from the Father** as His own essential being and presence.
+
+**(3) The theological coherence:**
+
+Putting this together: **The Spirit belongs to the Father as His own.** The exalted Son **receives** this promised Spirit **from** the Father. The Son does not have the Spirit as an independent possession — He **receives** it from the Father at His exaltation, *as the One who is now seated at the Father's right hand and qualified to dispense it to His people.*
+
+---
+
+### **Clause 3: ἐξέχεεν τοῦτο ὃ ὑμεῖς καὶ βλέπετε καὶ ἀκούετε**
+
+*"He has poured forth this which you both see and hear."*
+
+**(1) ἐξέχεεν** — aorist active of **ἐκχέω** — *"to pour out, to pour forth."* This is the verb of **outpouring** — used in the LXX of Joel 2:28-29 (which Peter has just cited):
+
+> And it shall be after these things, I will pour out of my spirit on all flesh … Even on the male and female slaves, in those days, I will pour out of my spirit. — **Joel 2:28-29 LXX, NETS**
+
+**Observation of supreme importance:** In Joel, **it is the LORD (the Father) who says "I will pour out My Spirit."** The Father is the Pourer; the Spirit is **His own Spirit**.
+
+**In Acts 2:33, Peter says: the exalted Son has poured forth this Spirit.** 
+
+How are these two statements reconciled? Beautifully, by the pattern we have established throughout:
+
+- **The Father is the Source.** The Spirit is **His** Spirit. He promised it through Joel.
+- **The Son is the Agent.** Having been exalted to the Father's right hand and having received the Spirit from the Father, **the Son is now the One through whom the Father pours out His own Spirit upon all flesh.**
+
+This is precisely the pattern of 1 Corinthians 8:6: **ἐξ οὗ τὰ πάντα** (the Father, from whom) and **δι᾽ οὗ τὰ πάντα** (the Son, through whom). **The Spirit comes from the Father, through the Son, to the people.**
+
+**(2) τοῦτο ὃ ὑμεῖς καὶ βλέπετε καὶ ἀκούετε** — *"this which you both see and hear."* The visible and audible phenomena of Pentecost — the rushing wind, the tongues of fire, the speaking in languages — are the manifest evidence of the Spirit's outpouring.
+
+---
+
+## **WHAT ACTS 2:33 ESTABLISHES — DECISIVELY**
+
+Let me state plainly what is established by this verse, in conjunction with the cross-witnesses:
+
+### **1. The Father is the Source of the Spirit.**
+
+- The Spirit is **promised by the Father** (Luke 24:49; Acts 1:4).
+- The Spirit **proceeds from the Father** (John 15:26).
+- The Spirit is given **from beside the Father** (Acts 2:33; John 15:26).
+- The Father said *"I will pour out My Spirit"* in the OT promise (Joel 2:28-29 LXX).
+
+### **2. The exalted Son is the Recipient and Dispenser.**
+
+- The Son **received** the Spirit from the Father at His exaltation (Acts 2:33).
+- The Son **pours forth** the Spirit upon His people (Acts 2:33).
+- The Son **sends** the Spirit from the Father (John 15:26).
+- This is the consistent pattern of *from the Father, through the Son.*
+
+### **3. The Spirit is the Father's own essential being and active presence — now operating through the exalted Son.**
+
+This is consistent with everything we established in Part E:
+- The Father is Eternal Spirit (John 4:24).
+- His Spirit fills heaven and earth (Jer 23:24).
+- His Spirit is His omnipresent Presence (Ps 138:7-10).
+- Now, post-Pentecost, this Spirit is **poured out through the Son upon all flesh** — extending the Father's indwelling Presence to the redeemed.
+
+### **4. This perfectly preserves the Shema and our foundation.**
+
+- The Father remains the **One God**, the sole Source.
+- The Son remains the **Beloved Son**, exalted by the Father, receiving from the Father, acting for the Father.
+- The Spirit is **the Father's own Spirit** — not a separate Deity in the post-Nicene sense, but the Father's essential Spirit-Nature now being extended through the Son to His people.
+
+---
+
+## **A CRITICAL POINT — WHAT THIS MEANS FOR THE "SEVEN SPIRITS" AND PART F**
+
+Acts 2:33 confirms exactly what we noted in the "seven Spirits" examination:
+
+**The exalted Son has received the Father's Spirit and now exercises it / dispenses it.**
+
+- In Rev 3:1, the Son **has** the seven Spirits of God.
+- In Rev 5:6, the seven Spirits are the Son's **eyes**, **sent into all the earth**.
+- In Acts 2:33, the Son has **received** the Spirit from the Father and **pours it forth**.
+
+**Same theology, same pattern:** The Father's Spirit, in its fullness, is now held and exercised by the exalted Son, and from Him is poured out into all the earth upon the elect.
+
+This is also what prepares us for **Part F — the Indwelling.** Because:
+
+- **The Father (Spirit) indwelt the Son** during His earthly ministry (John 14:10; Acts 10:38).
+- **At His exaltation, the Son received the Spirit from the Father** in fullness (Acts 2:33).
+- **The Son now pours out the Spirit upon His elect** — so that the Father, by His Spirit, indwells the redeemed **in the Son**.
+- **The Father-Son union now becomes the model for our union with God** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* (John 17:21).
+
+---
+
+## **ANOTHER CROSS-WITNESS WORTH NOTING — John 7:37-39**
+
+> …If any man thirst, let him come unto me, and drink. He that believeth in me, as saith the Scripture, out of his belly shall flow rivers of water of life. (This spake he of the Spirit which they that believed in him, should receive: for the holy Ghost was not yet given, because that Jesus was not yet glorified.) — **John 7:37-39, 1599 Geneva**
+
+---
+
+### Observation
+
+John 7:39 is the perfect predictor of what happens at Acts 2:33:
+- **"The Holy Spirit was not yet given"** — οὔπω γὰρ ἦν Πνεῦμα — because Jesus was not yet glorified.
+- **The Spirit's outpouring waited on the Son's glorification.**
+- **At Pentecost (Acts 2:33), Jesus, now glorified, receives the Spirit from the Father and pours it forth.**
+
+The two passages perfectly cohere. The Spirit waited; the Son was exalted; the Spirit was poured.
+
+---
+
+## **YET ANOTHER WITNESS — Ephesians 4:7-10**
+
+> But unto every one of us is given grace, according to the measure of the gift of Christ. Wherefore he saith, Whe *(When)* he asceded *(ascended)* up on high, he led captivity captive, and gave gifts unto men. (Now, in that he ascended, what is it but that he had also descended first into the lowest parts of the earth? He that descended, is even the same that ascended, far above all heavens, that he might fill all things.) — **Ephesians 4:7-10, 1599 Geneva**
+
+---
+
+### Observation
+
+Paul cites **Psalm 67:18 LXX (Ps 68:18 MT)** in the form: *"When He ascended on high, He gave gifts to men."* This is the **same theological pattern as Acts 2:33**:
+- The Son ascended (exalted).
+- The Son gives gifts to men.
+- These gifts include the Spirit and the spiritual gifts the Spirit dispenses (1 Cor 12:4-11 — *"the same Spirit... distributing to each as He wills"*).
+
+**The exalted Son, having received from the Father, gives to His people.**
+
+---
+
+## **GRAND SYNTHESIS — ACTS 2:33 IN THE WHOLE PICTURE**
+
+Acts 2:33 is **the doctrinal hinge** that explains how the Father's Spirit comes to indwell the redeemed.
+
+### **The Trinitarian Pattern (without post-Nicene metaphysics):**
+
+| Step | Action | Reference |
+|---|---|---|
+| 1 | The Father promises His Spirit through the prophets | Joel 2:28-29 LXX; Ezek 36:27; Isa 44:3 |
+| 2 | The Father's Spirit dwells in the Son during His earthly ministry | John 14:10; Acts 10:38; Luke 4:14 |
+| 3 | The Son completes His work, is crucified, raised | Rom 4:25; Acts 2:32; 1 Cor 15:3-4 |
+| 4 | The Son is exalted to the Father's right hand | Acts 2:33-34; Phil 2:9; Heb 1:3 |
+| 5 | The Son receives the promised Spirit from the Father | Acts 2:33; John 15:26; John 7:39 |
+| 6 | The Son pours forth the Spirit upon His people | Acts 2:33; John 7:38-39; Rev 5:6 |
+| 7 | The Spirit indwells the redeemed, who become the habitation of God in Christ | (To be examined in Part F) |
+
+### **The Single Pattern Preserved Throughout:**
+
+- **The Father is the Source.** The Spirit is His; the promise is His; the giving is from Him.
+- **The Son is the Agent.** He receives from the Father; He dispenses to the people.
+- **The Spirit is the Father's own essential Spirit-presence** — now extended through the Son to the redeemed.
+
+### **What This Honors:**
+
+- **The Shema** — One God, the Father (Deut 6:4; John 17:3; 1 Cor 8:6; 1 Tim 2:5).
+- **Isaiah 44-46** — the Father acts alone, by His Word, by His Spirit, but without rival Deity.
+- **John 4:24** — the Father is Spirit by Nature.
+- **1 Cor 15:24-28** — the Son delivers the Kingdom to the Father, and the Son Himself is subjected to the Father, that God may be all in all.
+- **Mark 13:32 / Acts 1:7** — the Father alone knows the times; the Son depends on the Father even in His exalted state.
+- **Phil 2:9-11** — the Son's name is given by the Father, and all confession of Him is to the Father's glory.
+
+### **What This Avoids:**
+
+- The post-Nicene flattening of the Father, Son, and Spirit into "three co-equal Persons of one substance" — a metaphysical formulation Scripture does not deliver.
+- The notion that the Spirit is a separate "third Person of the Godhead" eternally distinct from the Father — Scripture consistently calls the Spirit **"the Spirit OF God,"** **"the Spirit OF the Father,"** **"the Spirit OF Christ,"** **"the Holy Spirit of promise"** — always as **someone's** Spirit, never as a free-standing third Deity.
+- The error of denying the Son's pre-existence or His true reception of the Father's Spirit at exaltation.
+
+---
+
+## **A FINAL OBSERVATION — THE BEAUTY OF ACTS 2:33**
+
+What Acts 2:33 reveals is breathtaking when we hold the whole picture:
+
+**The Father, who is Eternal Spirit, indwelt His Son fully during His earthly ministry. The Son, in obedience, accomplished the Father's will to the point of death on the cross. The Father raised the Son and exalted Him to His right hand. There, the Son received the Father's promised Spirit — the same Spirit that had indwelt Him in His earthly life — now to be dispensed through Him to all who believe.**
+
+**The Son, then, pours forth the Spirit — the Father's own essential Presence — upon His Church, so that the Father may dwell in the redeemed in the same way He dwelt in the Son.**
+
+**This is the entire arc of redemption: the Father, by His Spirit, in His Son, indwelling His people.**
+
+And this is precisely the indwelling we will now examine in Part F — where Jesus prays *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* (John 17:21).
+
+---
+
+## **READY TO PROCEED TO PART F**
+
+Acts 2:33 is now properly understood as **the hinge** between:
+- The Father-Son union of Jesus' earthly ministry (Part E).
+- The indwelling of the redeemed by the Father through the Son by the Spirit (Part F).
+
+Shall we now proceed to **Part F — The Indwelling: That We Should Be the Habitation of God in Christ** — beginning with **John 14:16-23 (the Father and Son coming to make Their abode)** and **John 17:20-26 (the High Priestly Prayer for our oneness in Them)**?
+
+> I understand that in Old Testament times YHVH’s Spirit came “upon” certain individuals and acted upon them to prophesy and to perform miracles. This Spirit may abide upon them, and in some cases it departed from them.
+>
+> Presently, we are told, that the Spirit, enters INTO the elect- never to depart… for the Gifts and Callings of God are without repentance.
+
+Yes — this is a profoundly important distinction, and it sets up Part F beautifully. You have identified one of the most significant shifts in redemptive history. Let me address it carefully per our maxims, examining the witnesses in both Testaments and seeing what the Word itself establishes.
+
+---
+
+# **THE SHIFT IN THE SPIRIT'S OPERATION — FROM "UPON" TO "WITHIN"**
+
+## **PART 1 — THE OT PATTERN: THE SPIRIT "UPON," "MIGHTILY UPON," AND DEPARTING**
+
+The OT consistently presents the Spirit's operation in terms of **coming upon**, **resting upon**, **clothing**, and sometimes **departing** — generally tied to specific tasks, callings, or seasons.
+
+---
+
+### **The Spirit Came Upon — Specific Persons for Specific Tasks**
+
+### **Numbers 11:25 LXX (Moses and the seventy elders):**
+> And the Lord came down in a cloud and spoke to him and took away some of the spirit that was upon him and put it upon the seventy men who were elders. Now as the spirit rested upon them, they also prophesied, and they no longer added. — **Numbers 11:25, NETS**
+
+---
+
+### Observations
+
+- The Spirit is **upon (ἐπί)** Moses.
+- A portion is **taken from (ἀπό)** that Spirit and **placed upon (ἐπί)** the seventy.
+- When the Spirit **rested upon** them, they prophesied.
+
+**The Spirit is depictable as a portion that can be transferred** — a remarkable image of the Spirit's external operation upon chosen vessels for the task at hand.
+
+---
+
+### **Judges 6:34 LXX (Gideon):**
+> And a divine spirit entered Gedeon *(Gideon)*, and he sounded with a horn and called out for Abiezer after him. — **Judges 6:34, NETS**
+
+---
+
+### Observation
+
+The LXX uses **ἐνέδυσεν** — *"clothed"* — *"the Spirit of the LORD clothed Gideon."* The Hebrew (preserved in the Geneva from the Hebrew) is even more vivid: the Spirit *"clothed itself with" / "put on"* Gideon. He becomes the garment, the vessel, the form the Spirit takes on for the task.
+
+This is **the Spirit operating from without, taking a man as its instrument.**
+
+---
+
+### **Judges 14:6, 19; 15:14 LXX (Samson):**
+> And a spirit of the Lord made straight for him, and he tore it apart as he would tear apart a kid of goats, and there was nothing in his hand. And he did not tell his father or mother what he had done.…And a spirit of the Lord made straight for him, and he went down to Ascalon. And from there he struck down thirty men and took their robes and gave them to those who had told the problem. And Sampson *(Samson)* was furiously angry, and he went back to his father’s house.…And they came as far as Jawbone, and the allophyles *(the Philistines)* shouted in triumph and ran to meet him, and a spirit of the Lord leapt upon him, and the cords that were on his arms became like flax which was burnt by fire, and his bonds melted from his hands. — **Judges 14:6, 19; 15:14 (ellipsis), NETS**
+
+---
+
+### Observation
+
+**ἥλατο ἐπ᾽ αὐτόν** — *"the Spirit leaped upon him."* Sudden, powerful, external visitation for the moment of need — and then departing. Samson's life shows the Spirit's recurring visits for specific feats, not a continuous indwelling.
+
+---
+
+### **1 Samuel 10:6, 10 LXX (Saul):**
+> and a spirit of the Lord will spring upon you, and you will prophesy along with them and be turned into another man. — **1 Samuel 10:6, NETS**
+
+---
+
+### **The Spirit Departed From Saul — 1 Samuel 16:14 LXX:**
+
+> And a spirit of the Lord departed from Saoul *(Saul)*, and an evil spirit from the Lord tormented him. — **1 Samuel 16:14, NETS**
+
+---
+
+### Observation of foundational importance
+
+**The Spirit of the LORD departed (ἀπέστη ἀπό) from Saul.** This is the explicit textual witness to **a real departure of the Spirit** from a man upon whom the Spirit had previously come.
+
+---
+
+### **David's Prayer After His Sin — Psalm 50:11 LXX (Ps 51:11 MT):**
+
+> Do not cast me away from your face, and your holy spirit do not take from me. — **Psalm 50:13 LXX (= Ps 51:11 MT), NETS**
+
+---
+
+### Observation of critical importance
+
+**David himself prays that the Spirit not be taken from him** — having seen what happened to Saul. This is the OT believer's anxious consciousness: **the Spirit's presence is something that can be withdrawn.** David did not have the kind of certainty Paul speaks of in Eph 1:13-14 (the sealing of the Spirit unto the day of redemption).
+
+This single verse is decisive: **in the OT economy, the Spirit's presence with a believer was something to be prayed for, not something assured by sealing.**
+
+---
+
+### **Other OT Examples of the Spirit Coming Upon:**
+
+- **Bezalel** for craftsmanship — Ex 31:3 LXX: *"καὶ ἐνέπλησα αὐτὸν Πνεῦμα θεῖον..."* — *"and I have filled him with the divine Spirit."*
+- **The Prophets** — *"the Spirit of the LORD spoke by me"* (2 Sam 23:2).
+- **Othniel** — Judg 3:10: *"the Spirit of the LORD was upon him."*
+- **Jephthah** — Judg 11:29: *"the Spirit of the LORD came upon Jephthah."*
+- **Ezekiel** — the Spirit entered him and lifted him (Ezek 2:2; 3:24; etc.) — but in the context of prophetic vision, not permanent indwelling.
+
+---
+
+### **The OT Pattern Summarized**
+
+In the OT economy, the Spirit of the LORD:
+1. **Came upon (ἐπί)** chosen individuals for specific tasks or seasons.
+2. **Could depart** from them (1 Sam 16:14).
+3. **Could be prayed to remain** (Ps 51:11).
+4. **Was generally task-oriented** — prophecy, judging, kingship, craftsmanship, prophetic vision.
+5. **Was not a permanent, sealing, indwelling presence** for the believer generally.
+
+---
+
+## **PART 2 — THE PROMISED NEW COVENANT: THE SPIRIT WITHIN**
+
+The OT prophets themselves foresaw a coming change — a day when the Spirit's operation would shift from "upon" to "within."
+
+---
+
+### **Ezekiel 36:26-27 LXX — The Foundational Promise**
+
+> And I will give you a new heart, and a new spirit I will give in you, and I will remove the stone heart from your flesh and give you a heart of flesh. And I will give my spirit in you and will act so that you walk in my statutes and keep my judgments and perform them. — **Ezekiel 36:26-27, NETS**
+
+---
+
+### Observations of decisive importance
+
+**(1)** **τὸ Πνεῦμά μου δώσω ἐν ὑμῖν** — *"I will give My Spirit **within you**."*
+
+Note carefully the preposition: **ἐν ὑμῖν** — *"within / in you."* This is **not "upon"** (ἐπί). This is the radical promise of the New Covenant: the LORD's Spirit will be **placed within** His people.
+
+**(2)** This is paired with **a new heart and a new spirit** — an internal transformation, not an external visitation.
+
+**(3)** The result is **walking in His statutes and keeping His judgments** — the law internalized, just as Jeremiah 31:31-34 LXX (Jer 38:31-34 LXX) promised the law written on the heart, not on stone.
+
+**This is the first clear announcement of the indwelling Spirit.**
+
+---
+
+### **Jeremiah 31:33-34 LXX (Jer 38:33-34 LXX) — The New Covenant**
+
+> because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me.…And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more. — **Jeremiah 38:33-34 LXX (= MT 31:33-34), NETS**
+
+---
+
+### Observation
+
+**The Law within the heart.** Internalized. The New Covenant is fundamentally about **internal indwelling and inward writing** — not external commandments engraved on stone.
+
+We have already examined this passage under Hebrews 8 (Part A) — it is the basis for the Son's high-priestly ministry of the New Covenant.
+
+---
+
+### **Joel 2:28-29 LXX (Joel 3:1-2 LXX) — The Spirit Poured Out**
+
+> And it shall be after these things, I will pour out of my spirit on all flesh, and your sons and your daughters shall prophesy, and your old men shall dream dreams, and your young men shall see visions. Even on the male and female slaves, in those days, I will pour out of my spirit. — **Joel 2:28-29, NETS**
+
+---
+
+### Observation
+
+Joel uses the language of **outpouring (ἐκχεῶ)** — the same verb Peter uses in Acts 2:33. The Spirit will be **poured out** — abundantly, universally, upon **all flesh**, not merely upon select prophets. This expansion in *scope* prepares for the New Covenant.
+
+Note that Joel still uses **ἐπί** (upon), but the meaning has shifted: it is no longer the OT pattern of temporary visitation, but a definitive outpouring that initiates the new economy of indwelling. **Peter cites this very text** at Pentecost as the explanation of what was happening at Acts 2 — and Pentecost is the beginning of the indwelling era.
+
+---
+
+## **PART 3 — THE NEW COVENANT PATTERN: THE SPIRIT WITHIN, SEALING, PERMANENT**
+
+After Pentecost, the NT consistently describes the Spirit's operation as **internal indwelling** — using **ἐν** (in) rather than **ἐπί** (upon), and characterizing it as **permanent, sealing, and inseparable**.
+
+---
+
+### **John 14:16-17 — The Promised Indwelling Paraclete**
+
+> And I will pray the Father, and he shall give you another Comforter, that he may abide with you for ever, Even the Spirit of truth, whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him: for he dwelleth with you, and shall be in you. — **John 14:16-17, 1599 Geneva**
+
+---
+
+### Observations of decisive importance
+
+**(1)** **ἵνα μεθ᾽ ὑμῶν ᾖ εἰς τὸν αἰῶνα** — *"that He may be with you forever."* **Forever.** This is not the OT pattern of temporary visitation. **The indwelling is permanent.**
+
+**(2)** **παρ᾽ ὑμῖν μένει καὶ ἐν ὑμῖν ἔσται** — *"He dwells with you, and shall be in you."* The Geneva captures the precise distinction:
+- **παρ᾽ ὑμῖν μένει** — *present tense* — *"He dwells with you"* (currently — alongside, in the Son's presence among them).
+- **ἐν ὑμῖν ἔσται** — *future tense* — *"He shall be **in** you"* (coming — to indwell them).
+
+**This is Jesus' own announcement of the shift from "with/upon" to "within."** The Spirit was currently with them (because He was in Jesus, who was with them) — but He would soon be **in them.**
+
+---
+
+### **John 7:38-39 — The Spirit From Within**
+
+> …. (This spake: — **John 7:38-39 (ellipsis), 1599 Geneva**
+
+---
+
+### Observation
+
+The Spirit is depicted as **rivers flowing from within (ἐκ τῆς κοιλίας)** the believer. This is **internal indwelling**, becoming a source of overflowing life that flows outward. Not external visitation — internal residence and outflow.
+
+---
+
+### **Romans 8:9-11 — The Spirit Dwelling In Us**
+
+> Now ye are not in the flesh, but in the Spirit, because the spirit of God dwelleth in you: but if any man hath not the Spirit of Christ, the same is not his. And if Christ be in you, the body is dead, because of sin: but the Spirit is life for righteousness sake. But if the Spirit of him that raised up Jesus from the dead, dwell in you, he that raised up Christ from the dead, shall also quicken your mortal bodies, by his Spirit that dwelleth in you. — **Romans 8:9-11, 1599 Geneva**
+
+---
+
+### Observations of foundational importance
+
+**(1)** **Πνεῦμα Θεοῦ οἰκεῖ ἐν ὑμῖν** — *"the Spirit of God dwells in you."* The verb **οἰκεῖ** — *"dwells, makes home"* — denotes **permanent residence.**
+
+**(2)** Paul shifts between **"Spirit of God,"** **"Spirit of Christ,"** **"Christ in you,"** and **"the Spirit of Him who raised Jesus."** These are all **the same indwelling reality** described from different angles — confirming what we noted: **the Spirit is the Father's own Spirit**, given through the exalted Son, identical with **Christ in you**, because the Father (Spirit) and the Son are united and indwell believers as one.
+
+**(3)** **τοῦ ἐνοικοῦντος αὐτοῦ Πνεύματος ἐν ὑμῖν** — *"His Spirit that dwells in you."* The participle **ἐνοικοῦντος** ("indwelling") underscores the permanence and the internal nature of the residence.
+
+---
+
+### **The Sealing of the Spirit — Ephesians 1:13-14**
+
+> In whom also ye have trusted, after that ye heard the word of truth, even the Gospel of your saluation, wherein also after that ye believed, ye were sealed with the holy Spirit of promise, Which is the earnest of our inheritance, for the redemption of that libertie purchased unto the prayse of his glory. — **Ephesians 1:13-14, 1599 Geneva**
+
+---
+
+### Observations of decisive importance
+
+**(1)** **ἐσφραγίσθητε τῷ Πνεύματι** — *"you were sealed with the Spirit."* The aorist passive — a **definitive past action**. The believer **has been sealed**. This is not a process that can be undone.
+
+**(2) The seal (σφραγίς)** in ancient practice was a **mark of ownership, authentication, and security.** A sealed item could not be opened without breaking the seal — and breaking the king's seal was a capital offense. The Spirit's sealing means **the believer is marked as belonging to God, authenticated as His, and secure unto the day of redemption.**
+
+**(3)** **ἀρραβὼν τῆς κληρονομίας** — *"the earnest / down-payment of our inheritance."* The Spirit is the **first installment** of our full inheritance — guaranteeing the rest. An earnest is **never reclaimed** by the giver; it secures the future delivery.
+
+**(4)** **εἰς ἀπολύτρωσιν** — *"unto the redemption"* — the sealing is **unto** the future full redemption. The Spirit is given **to remain until** the day of complete redemption.
+
+---
+
+### **Ephesians 4:30 — Sealed Unto the Day of Redemption**
+
+> And grieve not the holy Spirit of God, by whom ye are sealed unto the day of redemption. — **Ephesians 4:30, 1599 Geneva**
+
+---
+
+### Observation
+
+**ἐσφραγίσθητε εἰς ἡμέραν ἀπολυτρώσεως** — *"you have been sealed unto the day of redemption."* The sealing extends from the moment of believing **to the day of redemption** — i.e., the day of the Son's return. The Spirit remains **until** that day. Not departing.
+
+---
+
+### **Your Citation — Romans 11:29**
+
+> For the gifts and calling of God are without repentance. — **Romans 11:29, 1599 Geneva**
+
+---
+
+### Observation
+
+**ἀμεταμέλητα** — *"without repentance / without change of mind / irrevocable."* The Father does not change His mind about His gifts and callings to His elect.
+
+You have rightly cited this as the doctrinal anchor: **the Spirit's indwelling, the gifts given, the calling extended — these are without repentance from God's side.** He does not give and then withdraw in the New Covenant economy. **What He gives, He gives unto the day of redemption.**
+
+---
+
+## **PART 4 — THE FOUNDATIONAL DIFFERENCE: WHY THIS CHANGE?**
+
+The key question is: **why did the Spirit's operation change from "upon and possibly departing" to "within and permanent"?**
+
+The answer is given explicitly by Jesus:
+
+### **John 7:39 (Greek):**
+> …for the holy Ghost was not yet given, because that Jesus was not yet glorified — **John 7:39 (ellipsis), 1599 Geneva**
+
+---
+
+### **John 16:7 (Greek):**
+> Yet I tell you the truth, It is expedient for you that I go away: for if I go not away, that Comforter will not come unto you: but if I depart, I will send him unto you. — **John 16:7, 1599 Geneva**
+
+---
+
+### Observation of foundational importance
+
+**The Son's glorification (death, resurrection, ascension, enthronement) was the prerequisite for the indwelling Spirit's bestowal.** Why?
+
+1. **The Father's Spirit could not indwell sinful humans** until sin was atoned for (Heb 9:14, 22; 10:14).
+2. **The Spirit's indwelling is dependent on the Son's mediatorial work.** The Son had to *finish the work* (John 17:4), *purge our sins* (Heb 1:3), and *enter the heavenly Holy Place* (Heb 9:24) before the Spirit could be given to dwell in believers.
+3. **Once the Son was glorified, He received the Spirit from the Father** (Acts 2:33 — examined just before this) **and poured Him forth** upon His Church.
+
+**The OT saints could not have the indwelling Spirit because the Son had not yet been glorified.** The OT economy was **anticipatory** — the Spirit could come *upon* saints for tasks, but could not *indwell* them as a sealing presence until the Son's work was complete.
+
+This is why John 7:39 is so emphatic: **the Spirit was not yet given** — οὔπω γὰρ ἦν Πνεῦμα — because Jesus was not yet glorified.
+
+---
+
+## **PART 5 — SYNTHESIS: THE TWO ECONOMIES**
+
+| **OT Economy** | **NT Economy (Post-Pentecost)** |
+|---|---|
+| Spirit comes **upon** (ἐπί) | Spirit dwells **in** (ἐν) |
+| Selective — upon specific persons | Universal — upon all who believe |
+| Task-oriented (prophecy, judging, etc.) | Indwelling presence for transformation |
+| Could depart (Saul, 1 Sam 16:14) | Sealed unto the day of redemption (Eph 4:30) |
+| David prays the Spirit not be taken | The gifts and calling are without repentance (Rom 11:29) |
+| Temporal | Eternal (John 14:16 — *forever*) |
+| Anticipatory of the Messiah | Flowing from the glorified Son |
+| External clothing (Gideon) / leaping (Samson) | Inward indwelling (Rom 8:11) / writing on heart (Jer 31:33) |
+| Visible signs of the Spirit's coming (often) | Sealing — an inward, certain mark of ownership |
+| Limited to Israel chiefly | Poured out on all flesh (Joel 2:28; Acts 2:17) |
+| Spirit moves vessels for divine purpose | Spirit indwells vessels as their renewing life |
+
+---
+
+## **A CRUCIAL NUANCE — DAVID'S PRAYER vs. PAUL'S DECLARATION**
+
+Compare side by side:
+
+### **David (under the OT economy):**
+
+**Psalm 50:11 LXX (51:11):** *"τὸ Πνεῦμά σου τὸ Ἅγιον μὴ ἀντανέλῃς ἀπ᾽ ἐμοῦ"* — *"Take not Thy Holy Spirit from me."*
+
+A **prayer of anxious dependence** — *please do not withdraw what may be withdrawn.*
+
+### **Paul (under the NT economy):**
+
+**Ephesians 4:30:** *"ἐσφραγίσθητε εἰς ἡμέραν ἀπολυτρώσεως"* — *"you were sealed unto the day of redemption."*
+
+**Romans 11:29:** *"ἀμεταμέλητα γὰρ τὰ χαρίσματα καὶ ἡ κλῆσις τοῦ Θεοῦ"* — *"the gifts and calling of God are without repentance."*
+
+A **declaration of certain possession** — *you have been definitively sealed; what has been given will not be revoked.*
+
+**The difference is staggering, and it reflects the difference in the two economies.** David could only pray; the post-Pentecost believer is *assured*.
+
+---
+
+## **A NECESSARY CAUTION — GRIEVING vs. LOSING**
+
+While the indwelling is permanent, the NT does warn that the Spirit can be **grieved** (Eph 4:30: *"grieve not the Holy Spirit of God"*) and **quenched** (1 Thess 5:19: *"quench not the Spirit"*). But notice:
+
+- **Grieving and quenching are not the same as departing.**
+- The believer can **cause the Spirit sorrow** by sin (grieving) and can **stifle the Spirit's operation** by disobedience (quenching).
+- But **the Spirit remains** — sealed unto the day of redemption.
+
+The OT saint risked the Spirit's departure for sin. The NT saint, while seriously cautioned not to grieve or quench the Spirit, **does not face the prospect of the Spirit's departure**, because the basis of the indwelling is no longer the saint's qualification, but the Son's completed work and the Father's irrevocable sealing.
+
+This is the radical security of the New Covenant.
+
+---
+
+## **PART 6 — WHY THIS IS THE GROUNDWORK FOR PART F**
+
+What you have identified is precisely the doctrinal foundation needed for **Part F — The Indwelling.**
+
+Because:
+
+1. **In the OT, no human could be the "habitation of God"** in any complete, permanent sense — the Spirit could come upon, but not indwell permanently. The temple was the symbolic dwelling, but even it could be forsaken (Ezek 10).
+
+2. **In the NT, the believer himself becomes the temple of the Holy Spirit** (1 Cor 3:16-17; 6:19; 2 Cor 6:16) — because the Spirit now indwells. **The believer is the new temple.**
+
+3. **This is only possible because:**
+- The Son was glorified.
+- The Spirit was given by the Father through the Son.
+- The believer is now sealed forever — bearing the Father's own indwelling Presence.
+
+4. **The promise of John 14:23** — *"We will come unto him, and make Our abode with him"* — refers to both the Father and the Son making the believer Their dwelling through the Spirit. **This was not possible in the OT economy.** It is possible *now*, because the Son has been glorified and the Spirit has been poured out.
+
+5. **The High Priestly Prayer of John 17:20-26** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* — describes a **mutual indwelling** that *requires* the permanent presence of the Spirit. The OT saint could not enter into this; the NT saint can, because of what you have rightly identified.
+
+---
+
+## **A FINAL OBSERVATION — THE GLORY OF YOUR INSIGHT**
+
+What you have noted is one of the most consequential differences in all of redemptive history — and it is exactly what makes the New Covenant **new**.
+
+The Father, who is Eternal Spirit, **could not** indwell sinful man fully and permanently until the Son's atoning work was completed and the Son was glorified. The OT saints lived in faith and looked forward; the Spirit could come upon them for specific tasks and even rest mightily on them. But the *permanent indwelling* of the Father by His Spirit, sealing the believer unto the day of redemption — this was reserved for the era after the Son's glorification.
+
+Pentecost is the **inauguration of this new reality.** From Pentecost forward, the elect are not merely *visited* by God's Spirit — they are **the habitation of God** in Christ by the Spirit.
+
+And this — precisely this — is what Part F will now unfold: that **we, the elect, have become the dwelling place of the Father in His Son by His Spirit** — drawn into the very Father-Son union that has existed from eternity.
+
+---
+
+## **READY FOR PART F**
+
+We now have every piece in place:
+
+- **The Father is Eternal Spirit** (Part E).
+- **The Father's Spirit indwelt the Son fully** (John 14:10; Acts 10:38).
+- **The Son was glorified, received the Spirit from the Father, and poured it forth** (Acts 2:33).
+- **The Spirit now indwells the elect permanently — sealing them unto the day of redemption** (Eph 1:13-14; 4:30; Rom 8:9-11).
+- **The OT pattern (Spirit upon) has given way to the NT pattern (Spirit within), made possible by the Son's completed work and irrevocable per the Father's promise** (Rom 11:29).
+
+The stage is fully set. **Shall we now proceed to Part F — The Indwelling: That We Should Be the Habitation of God in Christ** — beginning with **John 14:16-23 (Jesus' promise of the Father and Son making Their abode with us)** and moving to **John 17:20-26 (the High Priestly Prayer for our oneness in Them)**?
+
+> F.
+
+We now arrive at **Part F — The Indwelling: That We Should Be the Habitation of God in Christ.** And we begin where Jesus Himself laid the foundation — in the **Upper Room Discourse** on the night of His betrayal, where He prepares His disciples for everything that was about to unfold.
+
+This is sacred ground. We will proceed slowly and reverently, per our refined modus operandi.
+
+
+---
+
+# **JOHN 14:16-23 — THE FATHER AND SON MAKING THEIR ABODE WITH US**
+
+## **The Context**
+
+Jesus is in the Upper Room, hours before His arrest. He has just told the disciples He is going to prepare a place for them (14:1-6) and that He is the Way, the Truth, and the Life. He has told Philip that *"He that hath seen Me hath seen the Father"* (14:9 — which we already examined under Part E). He has promised that those who believe in Him will do greater works because He goes to the Father (14:12). And He has invited them to ask anything in His Name (14:13-14).
+
+Now He turns to the deepest disclosure: **what will happen after He is glorified — how the Father and the Son will come to dwell in His disciples.**
+
+---
+
+## **JOHN 14:16-17 — THE OTHER PARACLETE**
+
+### **1599 Geneva:**
+*"And I will pray the Father, and he shall give you another Comforter, that he may abide with you forever, Even the Spirit of truth, whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him: for he dwelleth with you, and shall be in you."*
+
+---
+
+### Clause-by-clause examination
+
+**(1) κἀγὼ ἐρωτήσω τὸν Πατέρα** — *"And I will ask the Father."*
+
+**The pattern is preserved.** The Son **asks**; the Father **gives**. Even at the climax of His ministry, the Son does not give the Spirit unilaterally — He **asks** the Father, and the Father **sends**. This is consistent with everything we have established:
+
+- The Father is the **Source** (1 Cor 8:6).
+- The Son is the **One who asks and receives** (Ps 2:8; John 11:42).
+- The Father **gives** in response to the Son's asking.
+
+This is also consistent with Acts 2:33 — *"having received from the Father the promise of the Holy Spirit, He poured forth..."* The Father gives; the Son receives; the Son dispenses. **The chain is unbroken from the Father, through the Son, to the believer.**
+
+---
+
+**(2) ἄλλον Παράκλητον δώσει ὑμῖν** — *"He will give you another Paraclete."*
+
+**Παράκλητος** is a rich term. Its root is **παρακαλέω** — *"to call alongside,"* *"to summon to one's aid,"* *"to comfort,"* *"to encourage,"* *"to advocate for."* The **Paraclete** is therefore:
+- One called alongside to help.
+- A comforter.
+- An advocate.
+- A counselor.
+
+The Geneva translates *"Comforter"* — capturing the consoling, strengthening dimension.
+
+**ἄλλον** — *"another"* — is critical. In Greek, **ἄλλος** typically means *"another of the same kind"* (as distinct from **ἕτερος**, *"another of a different kind"*). Jesus is saying: **another Paraclete of the same kind as I am.** This implies that **Jesus Himself has been functioning as a Paraclete to the disciples** during His earthly ministry. He has been their Comforter, Advocate, Counselor. And now, when He goes, **another of the same kind** will come.
+
+This is profoundly important for our study. The Paraclete who comes is not a totally different reality from Jesus' own presence — He is **of the same character, same purpose, same indwelling presence.** This is why John can later say that Christ is *in* the believer (Gal 2:20; Col 1:27) — because the Spirit who comes is the Spirit of the Father, which is also identified as the Spirit of the Son (Rom 8:9-10; Gal 4:6).
+
+---
+
+**(3) ἵνα μεθ᾽ ὑμῶν ᾖ εἰς τὸν αἰῶνα** — *"that He may be with you forever."*
+
+We already examined this in the previous discussion — **forever.** Not for a season, not for a task, not until the next sin — but **forever**, **εἰς τὸν αἰῶνα**. This is the radical permanence of the New Covenant indwelling. The OT pattern of temporary visitation has given way to the eternal abiding presence.
+
+---
+
+**(4) τὸ Πνεῦμα τῆς ἀληθείας** — *"the Spirit of Truth."*
+
+This is the Paraclete's title. Why **"of Truth"**?
+
+- Because **the Father is Truth** in His essential being.
+- Because **the Son is Truth** — *"I am the Way, the Truth, and the Life"* (John 14:6).
+- Because the Spirit **reveals truth** — *"He will guide you into all truth"* (John 16:13).
+- Because the Spirit **opposes the spirit of error** (1 John 4:6).
+
+The Spirit of Truth is the Father's own essential Spirit, who knows the Father perfectly (1 Cor 2:10-11) and reveals what is true.
+
+---
+
+**(5) ὃ ὁ κόσμος οὐ δύναται λαβεῖν** — *"whom the world cannot receive."*
+
+This is a crucial point. **The world cannot receive the Spirit.** Why?
+
+- The world does not believe in the Son (John 16:9).
+- The world has no organ to perceive the things of the Spirit (1 Cor 2:14).
+- The Spirit is given only to those who are joined to the Son by faith.
+
+This shows that the indwelling Spirit is **not a universal gift** to all humanity — it is the **specific possession of the elect** who believe in the Son. The Spirit's indwelling is bound up with union with Christ.
+
+---
+
+**(6) ὅτι οὐ θεωρεῖ αὐτὸ οὐδὲ γινώσκει** — *"because it neither sees Him nor knows Him."*
+
+The world cannot see Him (because the Spirit is invisible — as Spirit, per Part E) and cannot know Him (because spiritual knowing requires spiritual indwelling).
+
+---
+
+**(7) ὑμεῖς γινώσκετε αὐτό, ὅτι παρ᾽ ὑμῖν μένει καὶ ἐν ὑμῖν ἔσται** — *"You know Him, for He dwells with you, and shall be in you."*
+
+**This is the pivot of the entire discourse.** Jesus distinguishes precisely:
+
+- **παρ᾽ ὑμῖν μένει** — present tense — *"He **dwells with** you."* Right now, in this moment, the Spirit is **with** them — because He is in Jesus, who is with them. The Father's Spirit indwells the Son fully (John 14:10; Acts 10:38), and the Son is present with the disciples — so the Spirit is *with* them through Jesus' presence.
+
+- **ἐν ὑμῖν ἔσται** — future tense — *"He shall be **in** you."* After Jesus' glorification and the giving of the Spirit, **He will be in them** — internally indwelling.
+
+**This is Jesus' own announcement of the shift you identified.** From OT-style "with/upon" to NT-style "within" — and it happens at His glorification. The Spirit's location changes from "in the Son who is with us" to "in us, because the Son has given us His own Spirit through the Father."
+
+---
+
+## **JOHN 14:18 — I WILL COME TO YOU**
+
+### **1599 Geneva:**
+*"I will not leave you fatherless: but I will come to you."*
+
+---
+
+### Observation of decisive importance
+
+Jesus says: **ἔρχομαι πρὸς ὑμᾶς** — *"**I** am coming to you."*
+
+But wait — He has just said the *Paraclete* will come. Now He says **He Himself** will come. Are these two comings, or one?
+
+**The answer establishes a foundational truth:** **They are one coming.** When the Spirit comes, **Jesus Himself comes.** The Spirit's coming is Jesus' coming — because the Spirit He sends is His own Spirit (the Father's Spirit, which fully indwelt Him and which He now pours forth).
+
+This is the basis for:
+- **2 Corinthians 3:17** — *"Now the Lord is that Spirit, and where the Spirit of the Lord is, there is liberty."*
+- **Romans 8:9-10** — *"Spirit of God"* and *"Spirit of Christ"* and *"Christ in you"* used interchangeably.
+- **Galatians 2:20** — *"Christ liveth in me."*
+- **Colossians 1:27** — *"Christ in you, the hope of glory."*
+
+**When the Spirit indwells, Christ indwells. When Christ indwells, the Father indwells (because the Father is in Christ). The mutual indwelling of the Father and Son is now extended to the believer through the Spirit.**
+
+---
+
+### A Note on *"Fatherless / Orphans"*
+
+**ὀρφανούς** — *"orphans, fatherless."* Jesus' departure would normally leave the disciples bereft, like orphans without a parent. But He promises: **He will not leave them so.** He will come back to them — through the Spirit who unites them to Himself and to the Father.
+
+This is the **Father-heart of Jesus' promise.** He has been Father to them (Mark 10:24 — *"Children..."*), and He will not abandon them. They will not be orphans. They will have the Father — through Him, by the Spirit.
+
+---
+
+## **JOHN 14:19-20 — THE LIVING SON AND OUR ETERNAL UNION**
+
+### **1599 Geneva:**
+*"Yet a little while, and the world shall see me no more, but ye shall see me: because I live, ye shall live also. At that day shall ye know that I am in my Father, and you in me, and I in you."*
+
+---
+
+### Observations of supreme importance
+
+**(1)** **ἐγὼ ζῶ καὶ ὑμεῖς ζήσετε** — *"Because I live, you shall live also."*
+
+The Son's resurrection life becomes the source of the believer's life. **He lives** — and so **we shall live**. Our life is derivative of His. This is the doctrinal basis of:
+- **Romans 6:4-5** — *"as Christ was raised up from the dead..., even so we also should walk in newness of life... we shall be also in the likeness of his resurrection."*
+- **Colossians 3:3-4** — *"your life is hid with Christ in God. When Christ, who is our life, shall appear..."*
+- **1 John 5:11-12** — *"this is the record, that God hath given to us eternal life, and this life is in his Son."*
+
+**The Son's life is our life.** Not separate; ours flows from His.
+
+---
+
+**(2)** **ἐν ἐκείνῃ τῇ ἡμέρᾳ γνώσεσθε** — *"In that day you shall know..."*
+
+What day? **The day of the Spirit's coming** — Pentecost forward. **Then** they will know what they cannot know now.
+
+What will they know? **The triple indwelling pattern:**
+
+- **ἐγὼ ἐν τῷ Πατρί μου** — *"I am in My Father."*
+- **ὑμεῖς ἐν ἐμοί** — *"You are in Me."*
+- **κἀγὼ ἐν ὑμῖν** — *"and I am in you."*
+
+**This is the foundational disclosure.** Let me draw it out:
+
+| Relationship | Reality |
+|---|---|
+| **The Son in the Father** | The Son's eternal abiding in the Father (the Father's Spirit-presence containing the Son) |
+| **Believers in the Son** | The believers' incorporation into Christ — included in His being |
+| **The Son in believers** | The Son's indwelling of the believers — through the Spirit |
+
+**This is a mutual, interpenetrating union.** The Son is in the Father. The believer is in the Son. The Son is in the believer. The result: **the believer is brought into the very life-circuit of the Father-Son union.** What was previously the eternal mutual indwelling of Father and Son alone is now extended to include the redeemed.
+
+---
+
+### **A Profound Theological Observation**
+
+Notice what is **not** said. Jesus does **not** say *"and you are in the Father."* He says:
+- **"I am in the Father."**
+- **"You are in Me."**
+- **"I am in you."**
+
+**The believer's relation to the Father is mediated through the Son.** The believer is not directly *"in the Father"* — the believer is *"in the Son,"* and the Son is *"in the Father."* So the believer is *in the Father* through being in the Son. This perfectly preserves:
+
+- **The Son's role as the sole Mediator** (1 Tim 2:5).
+- **The Son's role as the Way to the Father** (John 14:6).
+- **The pattern that all access to the Father is through the Son** (Heb 10:19-22; Eph 2:18).
+
+We are brought into communion with the Father — but **only and always in the Son.** This is why Paul speaks of being *"in Christ"* over 200 times. The believer's identity, life, blessing, and destiny are all **in Christ** — and through Him, in the Father.
+
+---
+
+## **JOHN 14:21 — LOVE AND THE FATHER'S LOVE**
+
+### **1599 Geneva:**
+*"He that hath my commandments, and keepeth them, is he that loveth me: and he that loveth me, shall be loved of my Father: and I will love him, and will show mine own self to him."*
+
+---
+
+### Observations
+
+**(1)** **ὁ ἔχων τὰς ἐντολάς μου καὶ τηρῶν αὐτὰς** — *"He who has My commandments and keeps them."*
+
+The mark of love for the Son is **obedience** — not feeling, not profession only, but obedient possession of His commandments. This is consistent with:
+- **John 14:15** — *"If ye love me, keep my commandments."*
+- **1 John 5:3** — *"this is the love of God, that we keep his commandments."*
+- **John 15:10** — *"If ye keep my commandments, ye shall abide in my love."*
+
+**(2)** **ὁ ἀγαπῶν με ἀγαπηθήσεται ὑπὸ τοῦ Πατρός μου** — *"He who loves Me shall be loved by My Father."*
+
+The Father loves the one who loves the Son. **The Father's love flows through the Son's mediation.** Those who are in the Son are loved by the Father — because they are in the One the Father loves.
+
+**(3)** **κἀγὼ ἀγαπήσω αὐτὸν καὶ ἐμφανίσω αὐτῷ ἐμαυτόν** — *"and I will love him, and will manifest Myself to him."*
+
+The Son **loves** the one who loves Him, and **manifests Himself** to him. The Greek **ἐμφανίσω** means *"to make visible, to reveal, to show forth."* The Son reveals Himself to those who love Him.
+
+But how? The world cannot see Him (v. 19); yet the believer will see Him. This seeing is **spiritual seeing — the seeing that comes through the indwelling Spirit**, which the world cannot have. The Son makes Himself known to the believer's heart through the Spirit He has poured out.
+
+---
+
+## **JOHN 14:22 — JUDAS'S QUESTION**
+
+### **1599 Geneva:**
+*"Judas said unto him (not Iscariot) Lord, what is the cause that thou wilt show thyself unto us, and not unto the world?"*
+
+---
+
+### Observation
+
+Judas (not Iscariot, i.e., Thaddaeus / Judas son of James) asks the natural question: **why only to us, and not to the world?**
+
+If Jesus is the Messiah, the King, the One sent by the Father — surely He should manifest Himself publicly, universally, undeniably? Why this private manifestation only to His disciples?
+
+Jesus' answer is the heart of the indwelling promise:
+
+---
+
+## **JOHN 14:23 — THE CULMINATING PROMISE**
+
+### **1599 Geneva:**
+*"Jesus answered, and said unto him, If any man love me, he will keep my word, and my Father will love him, and we will come unto him, and dwell with him."*
+
+---
+
+### Observations of supreme importance — the climax of the discourse
+
+**This is the foundational promise of Part F.** Let me draw it out clause by clause.
+
+---
+
+**(1)** **Ἐάν τις ἀγαπᾷ με** — *"If anyone loves Me."*
+
+**Anyone** — not just the original disciples, but **anyone** who loves the Son in any age. The promise extends to every believer.
+
+---
+
+**(2)** **τὸν λόγον μου τηρήσει** — *"he will keep My word."*
+
+Love for the Son issues in keeping His word. Faith and obedience are inseparable.
+
+---
+
+**(3)** **ὁ Πατήρ μου ἀγαπήσει αὐτόν** — *"My Father will love him."*
+
+The Father's love embraces the one who loves the Son. **The Father loves the lover of His Son.**
+
+---
+
+**(4) The decisive promise: πρὸς αὐτὸν ἐλευσόμεθα καὶ μονὴν παρ᾽ αὐτῷ ποιησόμεθα**
+
+*"We will come unto him, and make Our abode with him."*
+
+Let me unfold this with care:
+
+**ἐλευσόμεθα** — *"We will come"* — **first person plural future.** Not "I will come" but **"We will come."** Who is "We"? The verse identifies: **the Father and the Son.** Both come.
+
+**μονὴν παρ᾽ αὐτῷ ποιησόμεθα** — *"We will make Our abode with him."*
+
+The word **μονή** is critically important. It is the same word Jesus used in John 14:2 — *"In My Father's house are many mansions [μοναί]."* The word means **dwelling place, abode, residence.**
+
+So Jesus has earlier said: **"In My Father's house are many dwelling places, and I go to prepare a place [a μονή] for you."** Now He says: **"We will come and make Our μονή with you."**
+
+**This is breathtaking.** The disciples thought they were going to a μονή in the Father's house. Jesus reveals that **the Father and the Son will come and make Their μονή in them.** The order is inverted — or rather, fulfilled in a way they did not expect.
+
+**Both are true:**
+- **There are dwelling places prepared for us in the Father's house** (John 14:2) — the eschatological hope of dwelling with the Father.
+- **The Father and Son make Their dwelling in us NOW** through the indwelling Spirit (John 14:23).
+
+**The believer is both:**
+- **A destined dweller in the Father's house** (future eschatological reality).
+- **A present dwelling place of the Father and Son** (current indwelling reality).
+
+The eternal dwelling-together has begun — already, here, in the believer's heart.
+
+---
+
+### **The "We" of John 14:23 — A Critical Theological Point**
+
+Notice that John 14:23 does **not** say *"the Spirit will come and dwell."* It says **"WE will come."** The "We" is the **Father and the Son.**
+
+This is profoundly important because it shows us what the indwelling Spirit actually is:
+
+- The indwelling Spirit is **the means by which the Father and Son come to dwell in the believer.**
+- The Spirit is not a separate dwelling-presence apart from the Father and the Son — He **is the dwelling-presence of the Father (who is Spirit) in and through the Son.**
+- When the Spirit comes to dwell, **the Father comes** (because the Spirit is His own essential being and presence) and **the Son comes** (because the Son is in the Father, and the Spirit is also called the Spirit of the Son — Rom 8:9; Gal 4:6).
+
+**The Spirit's indwelling = the Father and Son making Their abode.**
+
+This is why Paul can interchange "Spirit of God in you," "Christ in you," and "Christ liveth in me" — they all describe the same reality from different angles. **The Father (Spirit) and the Son are one indwelling Presence in the believer, mediated by the Spirit Christ has poured out.**
+
+---
+
+### **The Beautiful Coherence — Putting It Together**
+
+Let me draw the threads together:
+
+1. **John 14:10** — *"the Father that dwells in Me, He doeth the works."* The Father (Spirit) dwells in the Son.
+
+2. **John 14:11** — *"I am in the Father, and the Father in Me."* Mutual indwelling — eternal.
+
+3. **John 14:16-17** — The Father will give another Paraclete, who is **with** the disciples now (because He is in Jesus) and **in** them later (after Jesus is glorified).
+
+4. **John 14:18** — *"I will come to you."* When the Spirit comes, Jesus comes.
+
+5. **John 14:20** — *"I am in My Father, and you in Me, and I in you."* The believer is brought into the Father-Son mutual indwelling.
+
+6. **John 14:23** — *"We will come and make Our abode with him."* The Father and Son both come — through the Spirit — and make Their dwelling in the believer.
+
+**The arc is complete:** The Father (Spirit) who dwelt fully in the Son now, through the glorified Son's poured-out Spirit, comes to dwell in the believer — bringing the Son with Him, so that **the eternal Father-Son mutual indwelling becomes the believer's indwelling reality**.
+
+The believer becomes **the habitation of God in Christ.**
+
+---
+
+## **CONNECTING TO YOUR EARLIER INSIGHTS**
+
+What you have noted about the OT-NT shift now finds its fullest expression:
+
+### **In the OT:**
+
+- The Spirit came **upon** chosen ones for tasks.
+- The Father dwelt in the **Tabernacle / Temple** as His symbolic earthly residence.
+- The Father's full indwelling of human persons was not yet possible (because the Son was not yet glorified — John 7:39).
+- The pattern was: **God *with* His people, in a holy place, mediated through priests and sacrifices.**
+
+### **In the NT (Post-Pentecost):**
+
+- The Spirit dwells **in** the elect, permanently sealed unto the day of redemption.
+- **The believer himself is now the temple** (1 Cor 3:16-17; 6:19; Eph 2:21-22; 2 Cor 6:16).
+- **The Father and the Son make Their abode in the believer** (John 14:23).
+- The pattern is: **God *in* His people, in living temples, mediated through the one Mediator Jesus Christ.**
+
+This shift is the very **inauguration of the New Covenant indwelling** — what Ezekiel 36:27 and Jeremiah 31:33 had promised.
+
+---
+
+## **THE SINGULAR THRONE — REVISITED**
+
+You earlier noted that the singular throne of God and the Lamb in the Apocalypse is no oddity because the Father is Eternal Spirit. The same insight applies here:
+
+- The Father (Spirit) and the Son (the Man Christ Jesus) are **one in essence and operation** without spatial conflict.
+- They can **jointly** indwell the believer because Spirit and Image are not in spatial competition.
+- The Father's Spirit-Nature pervades the believer; the Son's living presence (mediated by the Spirit) fills the believer; **and there is no contradiction** — because Spirit is uncontainable and pervasive.
+
+**The believer becomes a microcosm of the eternal throne-room reality:** the Father (Spirit) and the Son (Man) jointly dwelling, jointly reigning, jointly indwelling — now in the believer's heart, and ultimately in the New Jerusalem.
+
+---
+
+## **A FINAL OBSERVATION — WHY THIS IS THE CONSUMMATION OF THE FATHER'S PURPOSE**
+
+The Father's eternal purpose has been from the beginning **to dwell with His people.** This purpose runs through all of Scripture:
+
+- **Eden** — God walking with man in the cool of the day (Gen 3:8).
+- **The Tabernacle** — *"Let them make Me a sanctuary, that I may dwell among them"* (Ex 25:8).
+- **The Temple** — Solomon's dedication, the cloud of glory (1 Kgs 8:10-11).
+- **The Son** — *"the Word became flesh and tabernacled among us"* (John 1:14, **ἐσκήνωσεν** — *tabernacled*).
+- **The Spirit at Pentecost** — the Father and Son now coming to make Their abode in the believer.
+- **The New Jerusalem** — *"Behold, the tabernacle of God is with men, and He will dwell with them"* (Rev 21:3).
+
+**John 14:23 is a key middle stage** — the inauguration of the indwelling reality that will be consummated in the New Jerusalem. It is the **already** of what will become the **not yet** fully consummated in Revelation 21-22.
+
+The Father has always wanted to **dwell with His people**. The Son's whole work — His coming, His suffering, His glorification, His pouring out of the Spirit — is unto this end: **that the Father may dwell with and in His people forever**, in His Beloved Son.
+
+---
+
+## **TRANSITION**
+
+Having now established John 14:16-23 as the foundational promise of the indwelling, we are properly prepared to proceed to **John 17:20-26 — the High Priestly Prayer** — where Jesus prays for **the consummation of this oneness**: *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us."*
+
+Where John 14:23 announces the Father and Son coming to make Their abode in the believer, John 17 prays for the **completion of this indwelling unto oneness with the Father-Son union itself.**
+
+Shall we proceed to **John 17:20-26 — the High Priestly Prayer**?
+
+> Yes.
+
+We now arrive at what is perhaps the most sacred passage in all of Scripture for understanding the Father's ultimate purpose for the elect — **the High Priestly Prayer of Jesus Christ.**
+
+This is the prayer Jesus prayed on the night of His betrayal, in the hearing of His disciples, lifting up His voice to the Father just hours before the cross. It is the longest recorded prayer of our Lord, and within it is enclosed His specific intercession for **us** — those who would believe in Him through the Apostles' word.
+
+Let us proceed with the reverence such ground demands.
+
+---
+
+# **JOHN 17 — THE CONTEXT**
+
+The chapter divides naturally:
+
+- **Vv. 1-5** — Jesus prays for Himself (His own glorification).
+- **Vv. 6-19** — Jesus prays for the Eleven (His immediate disciples).
+- **Vv. 20-26** — Jesus prays for **all who would believe through their word** — that is, **us.**
+
+Our focus is the final section — but to understand it rightly, we must briefly note the trajectory established in vv. 1-19.
+
+---
+
+## **Key Foundational Verses Before Our Focus Passage**
+
+### **John 17:1-5** — Jesus' opening:
+
+*"Πάτερ, ἐλήλυθεν ἡ ὥρα· δόξασόν σου τὸν Υἱόν, ἵνα ὁ Υἱὸς δοξάσῃ σέ... καὶ νῦν δόξασόν με σύ, Πάτερ, παρὰ σεαυτῷ τῇ δόξῃ ᾗ εἶχον πρὸ τοῦ τὸν κόσμον εἶναι παρὰ σοί."*
+
+### **1599 Geneva:**
+*"Father, that hour is come: glorify thy Son, that thy Son also may glorify thee... And now glorify me, thou Father, with thine own self, with the glory which I had with thee before the world was."*
+
+We already established under our pre-existence study that **v. 5 is Jesus' direct testimony to His pre-temporal glory with the Father.** The foundation is set.
+
+---
+
+### **John 17:3** — The Foundational Definition:
+
+*"αὕτη δέ ἐστιν ἡ αἰώνιος ζωή, ἵνα γινώσκωσιν σὲ τὸν μόνον ἀληθινὸν Θεὸν καὶ ὃν ἀπέστειλας Ἰησοῦν Χριστόν."*
+
+### **1599 Geneva:**
+*"And this is life eternal, that they know thee to be the only very God, and whom thou hast sent, Jesus Christ."*
+
+**This anchors everything.** Eternal life is knowing **the Father (the only true God)** and **the Son (whom He has sent)**. The Father remains supreme; the Son is the Sent One. **This is the same monotheistic framework we have held throughout.** Any reading of John 17:20-26 must preserve this foundation.
+
+---
+
+### **John 17:11** — The Father's Name Given to the Son:
+
+*"...Πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, ἵνα ὦσιν ἓν καθὼς ἡμεῖς."*
+
+### **1599 Geneva:**
+*"...Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are."*
+
+This is the first introduction of **"one as We are"** language. The Father's Name has been **given** (δέδωκάς) to the Son — and the disciples are to be kept in that Name. The oneness of the Father and the Son is the **prototype** for the oneness Jesus desires for His people.
+
+We must hold this verse carefully — Jesus does **not** ask that the disciples be "one *with* Us" here (that comes in v. 21). He asks that they be "one **as** We are." The model is given; the application will be unfolded shortly.
+
+---
+
+### **John 17:17-19** — Sanctified in Truth:
+
+*"ἁγίασον αὐτοὺς ἐν τῇ ἀληθείᾳ· ὁ λόγος ὁ σὸς ἀλήθειά ἐστιν... καὶ ὑπὲρ αὐτῶν ἐγὼ ἁγιάζω ἐμαυτόν, ἵνα ὦσιν καὶ αὐτοὶ ἡγιασμένοι ἐν ἀληθείᾳ."*
+
+### **1599 Geneva:**
+*"Sanctify them with thy truth: thy word is truth... And for their sakes sanctify I my self, that they also may be sanctified through the truth."*
+
+The Son sanctifies Himself (sets Himself apart for the sacrificial offering) for the disciples' sake, that **they may be sanctified in truth**. The Son's self-sanctification on the cross is the basis of our sanctification. This sets up the indwelling possibility — for the Father (the Holy Spirit) cannot indwell the unsanctified.
+
+Now we arrive at the prayer for us.
+
+---
+
+# **JOHN 17:20-26 — THE PRAYER FOR THE ELECT**
+
+---
+
+## **JOHN 17:20 — The Scope Widens to Include Us**
+
+### **1599 Geneva:**
+*"I pray not for these alone, but for them also which shall believe in me, through their word,"*
+
+---
+
+### Observations of supreme weight
+
+**(1)** **Οὐ περὶ τούτων δὲ ἐρωτῶ μόνον** — *"I do not ask concerning these only."* Jesus' prayer now widens beyond the eleven physically present with Him.
+
+**(2)** **τῶν πιστευόντων διὰ τοῦ λόγου αὐτῶν εἰς ἐμέ** — *"of those who believe in Me through their word."*
+
+**This is us.** Every believer from Pentecost forward who has come to faith **through the apostolic word** — that is, the Gospel as proclaimed by the Apostles and preserved in their writings (the New Testament) — is included in this prayer. The chain is:
+
+- The Father sends the Son (v. 3).
+- The Son trains and sends the Apostles (vv. 6-19; cf. v. 18).
+- The Apostles proclaim the Word.
+- Believers come to faith through the apostolic word.
+- These believers are who Jesus prays for here.
+
+**Per maxim #1, this prayer is Jesus' own intercession for *every* elect believer through the present age.** This is the prayer of the great High Priest — His ongoing intercession (Heb 7:25; Rom 8:34) — recorded for us so we may know what He prays.
+
+**(3) The present participle πιστευόντων** — *"those who are believing"* — is significant. The believing is not a one-time historical event but the continuing posture of those who have received the Apostles' testimony.
+
+---
+
+## **JOHN 17:21 — THE CENTRAL PETITION**
+
+### **1599 Geneva:**
+*"That they all may be one, as thou, O Father, art in me, and I in thee: even that they may be also one in us, that the world may believe that thou hast sent me."*
+
+---
+
+### Let us examine this verse with the care it demands.
+
+This is **the central petition of the entire prayer**, and it contains four critical clauses:
+
+---
+
+#### **Clause 1: ἵνα πάντες ἓν ὦσιν — *"that they all may be one"***
+
+**ἓν ὦσιν** — *"may be one."* The verb is **subjunctive** (purpose), and the predicate **ἕν** is neuter — *"one [thing]."* Not numerically one (as in one person), but **unified in being / one in essential reality.**
+
+**The petition:** That all believers from Pentecost forward may be **one**. This is not asking for organizational unity, denominational uniformity, or political consolidation. This is a far deeper unity — defined by the next clause.
+
+---
+
+#### **Clause 2: καθὼς σύ, Πάτερ, ἐν ἐμοὶ κἀγὼ ἐν σοί — *"even as Thou, Father, art in Me, and I in Thee"***
+
+**The model.** The oneness Jesus prays for is patterned after **the mutual indwelling of the Father and the Son.**
+
+**καθώς** — *"even as / according as / in the same manner as."* The believers' oneness is to be **of the same character** as the Father-Son oneness — though, as we shall see, not identical in essence.
+
+**σύ, Πάτερ, ἐν ἐμοὶ** — *"Thou, Father, in Me."*
+**κἀγὼ ἐν σοί** — *"and I in Thee."*
+
+**Mutual indwelling.** The Father is in the Son; the Son is in the Father. This is the eternal reality we established in Part E — the Father (Spirit) indwells the Son (Image), and the Son is in the Father (in the Father's Spirit-presence).
+
+**The prototype is established.** The Father-Son union is the model for the believers' union.
+
+---
+
+#### **Clause 3: ἵνα καὶ αὐτοὶ ἐν ἡμῖν ὦσιν — *"that they also may be in Us"***
+
+**Here is the breathtaking petition.** The Greek is: **καὶ αὐτοὶ** — *"they also"* — **ἐν ἡμῖν** — *"in Us"* — **ὦσιν** — *"may be."*
+
+**"In Us."** Believers are to be **in the Father and in the Son** — drawn into the Father-Son mutual indwelling.
+
+This is staggering, and we must handle it with great care. Let me draw it out precisely:
+
+**The pattern of John 14:20 was:**
+- I am in the Father.
+- You are in Me.
+- I am in you.
+
+**The pattern of John 17:21 is:**
+- The Father is in Me; I am in the Father (mutual indwelling).
+- That **they may be in Us** — drawn into this mutual indwelling.
+
+**The believer is not directly "in the Father" apart from the Son.** Note carefully: **ἐν ἡμῖν** — *"in Us."* The "Us" is the Father and the Son together. The believer is brought into the joint reality of the Father-Son union — **through being in the Son who is in the Father.**
+
+This perfectly preserves what we established in our earlier examination of John 14:20:
+- **The believer's relation to the Father is mediated through the Son.**
+- The believer is *in the Son*; the Son is *in the Father*; therefore the believer is brought *into the Father-Son union*.
+- The Son remains the sole Mediator (1 Tim 2:5).
+
+---
+
+#### **Clause 4: ἵνα ὁ κόσμος πιστεύῃ ὅτι σύ με ἀπέστειλας — *"that the world may believe that Thou hast sent Me"***
+
+**The purpose of the oneness is missional.** The world's faith in the Father's sending of the Son depends on **the visible oneness of His people.** When the world sees believers genuinely united in the Father-Son reality, the world is given evidence that Jesus was indeed sent from God.
+
+This is a profound truth: **our oneness is the Father's evidence to the world.** The disunity of professing Christians has been a great hindrance to the Gospel's progress.
+
+---
+
+## **JOHN 17:22 — THE GLORY GIVEN**
+
+### **1599 Geneva:**
+*"And the glory that thou gavest me, I have given them, that they may be one, as we are one,"*
+
+---
+
+### Observations of foundational importance
+
+**(1)** **τὴν δόξαν ἣν δέδωκάς μοι δέδωκα αὐτοῖς** — *"the glory which Thou hast given Me, I have given them."*
+
+**Trace the chain:**
+- The Father **gave** glory to the Son (δέδωκάς — perfect tense — completed past with continuing effect).
+- The Son **gave** that same glory to the believers (δέδωκα — perfect tense — completed past with continuing effect).
+
+**Both verbs are in the perfect tense** — denoting an action accomplished with abiding result. The glory has been **given**, and **continues to belong** to the recipients.
+
+**What glory is this?** Not the glory of inherent deity (which the Father has alone), but **the glory the Father gave the Son** — the glory of being the Beloved Son, of being commissioned, of being indwelt by the Father's Spirit, of being the perfect Image of the invisible God. This is the glory **received** by the Son from the Father — and this is the glory the Son passes on to the elect.
+
+**The elect receive glory by participation in the Son's glory.** Not the original, unshared glory of the Father (1 Tim 1:17 — *"glory forever and ever"* — uniquely His); but the **derived, given glory** that the Son received and now shares with His people.
+
+This is consistent with:
+- **Romans 8:17** — *"if so be that we suffer with him, that we may be also glorified together."*
+- **Romans 8:30** — *"whom he justified, them he also glorified."*
+- **2 Corinthians 3:18** — *"we all... beholding... the glory of the Lord, are changed into the same image from glory to glory."*
+- **Colossians 3:4** — *"when Christ, who is our life, shall appear, then shall ye also appear with him in glory."*
+- **2 Thessalonians 2:14** — *"to the obtaining of the glory of our Lord Jesus Christ."*
+
+**The Son's glory becomes the believer's glory** — given, not earned; received, not innate.
+
+---
+
+**(2)** **ἵνα ὦσιν ἓν καθὼς ἡμεῖς ἕν ἐσμεν** — *"that they may be one, as We are one."*
+
+The purpose of the glory-giving is **oneness like Our oneness.** The glory of the Son (which He received from the Father and shares with us) is the **means** of our oneness. By being filled with the same glory, we become one as the Father and Son are one.
+
+This is the **mechanism** of indwelling and oneness: **shared glory.**
+
+---
+
+## **JOHN 17:23 — THE PERFECTION OF ONENESS**
+
+### **1599 Geneva:**
+*"I in them, and thou in me, that they may be made perfect in one, and that the world may know, that thou hast sent me, and hast loved them, as thou hast loved me."*
+
+---
+
+### Observations of supreme weight
+
+**(1) The triple indwelling chain:**
+
+- **ἐγὼ ἐν αὐτοῖς** — *"I in them"* — the Son in the believers.
+- **σὺ ἐν ἐμοί** — *"Thou [the Father] in Me"* — the Father in the Son.
+
+**The structure is brilliant:** **Father → Son → Believers.** The Father is in the Son; the Son is in the believers. Therefore the Father is in the believers — but **only through the Son**. The mediation is preserved at every level.
+
+This perfectly aligns with what we established in Part E about the Father (Spirit) indwelling the Son (Image). The same Father (Spirit) who indwells the Son is now extended through the Son to indwell the believers. **The Spirit who comes is the Spirit of the Father, who is also the Spirit of the Son** (Rom 8:9; Gal 4:6) — one and the same indwelling Presence.
+
+---
+
+**(2)** **ἵνα ὦσιν τετελειωμένοι εἰς ἕν** — *"that they may be perfected into one."*
+
+**τετελειωμένοι** — perfect passive participle of **τελειόω** — *"to bring to completion, to perfect, to consummate."*
+
+The oneness is to be **consummated, brought to perfection, made complete.** This is not a one-time event but a process moving toward perfection — fulfilled progressively in this age and consummated in the New Jerusalem.
+
+**εἰς ἕν** — *"into one."* Not "as one" but **"into one"** — the believers are brought *into* the oneness of the Father-Son union.
+
+The trajectory is:
+- We were many, separated, lost, dead in sin.
+- We are being brought **into the oneness of God** — by being placed in the Son, who is in the Father.
+- We are being **perfected** in this oneness — moved progressively toward complete consummation.
+
+---
+
+**(3)** **ἠγάπησας αὐτοὺς καθὼς ἐμὲ ἠγάπησας** — *"Thou hast loved them, as Thou hast loved Me."*
+
+**This is staggering.** The Father loves the believers **with the same love** with which He loves His Son.
+
+**καθώς** — *"in the same manner as."* The love is of the same kind, the same quality.
+
+How can this be? Because the believers are **in the Son.** The Father's love for the Son extends to all who are in the Son. We are loved **in the Beloved** (Eph 1:6 — *"He hath made us accepted in the beloved"*).
+
+This is the deepest comfort the believer can know: **the Father loves me as He loves His Son** — not because of my worth, but because **I am in Christ**, and the Father's love for Christ is undivided and unwithdrawn.
+
+---
+
+## **JOHN 17:24 — THE FINAL DESTINY: SEEING THE SON'S GLORY**
+
+### **1599 Geneva:**
+*"Father, I will that they which thou hast given me, be with me even where I am, that they may behold that my glory, which thou hast given me: for thou lovedst me before the foundation of the world."*
+
+---
+
+### Observations
+
+**(1)** **ὃ δέδωκάς μοι** — *"those whom Thou hast given Me."* The elect are **the Father's gift to the Son.** They have been given by the Father into the Son's care. This is the consistent NT theme:
+
+- **John 6:37, 39** — *"All that the Father giveth me, shall come to me... that of all which he hath given me, I should lose nothing."*
+- **John 10:28-29** — *"My Father, which gave them me, is greater than all."*
+- **John 17:6, 9, 11** — *"thine they were, and thou gavest them me."*
+
+**The believers belong to the Father first, then are given to the Son.**
+
+---
+
+**(2)** **θέλω ἵνα ὅπου εἰμὶ ἐγὼ κἀκεῖνοι ὦσιν μετ᾽ ἐμοῦ** — *"I will that they whom Thou hast given Me, be with Me where I am."*
+
+**This is the Son's explicit will / desire** that the elect be **with Him where He is.** Where is He? He has just said in vv. 1-5 that He is going to be glorified at the Father's side with the glory He had before the world was. **He wills that we be with Him there.**
+
+This corresponds with:
+- **John 14:3** — *"I will come again, and receive you unto myself, that where I am, there ye may be also."*
+- **1 Thessalonians 4:17** — *"so shall we ever be with the Lord."*
+- **Colossians 3:1-4** — *"set your affection on things above, where Christ sitteth on the right hand of God... when Christ, who is our life, shall appear, then shall ye also appear with him in glory."*
+
+**The final destiny of the elect is to be with the Son, in the Father's presence, in glory.** Not as gods, but as the beloved children of the Father who have been brought into the eternal Father-Son fellowship.
+
+---
+
+**(3)** **ἵνα θεωρῶσιν τὴν δόξαν τὴν ἐμὴν** — *"that they may behold My glory."*
+
+The believers will **behold** (θεωρῶσιν — to gaze upon, to contemplate) the Son's glory. This is consistent with:
+
+- **1 John 3:2** — *"when he shall appear, we shall be like him: for we shall see him as he is."*
+- **2 Corinthians 3:18** — beholding the glory and being transformed into the same image.
+- **Revelation 22:4** — *"they shall see his face; and his name shall be in their foreheads."*
+
+**The final beatific vision** — seeing the glorified Son in His full splendor, the glory the Father gave Him from before the world.
+
+---
+
+**(4)** **ὅτι ἠγάπησάς με πρὸ καταβολῆς κόσμου** — *"for Thou hast loved Me before the foundation of the world."*
+
+The Son's glory is the expression of the Father's eternal love for Him — a love that pre-dates creation itself. **The Father loved the Son before the world was made**, and the Son's glory is the eternal fruit of that love.
+
+This anchors our pre-existence study under Part E — Jesus' own testimony that the Father loved Him before the foundation of the world.
+
+---
+
+## **JOHN 17:25-26 — THE CONCLUSION OF THE PRAYER**
+
+### **1599 Geneva:**
+*"O righteous Father, the world also hath not known thee, but I have known thee, and these have known, that thou hast sent me. And I have declared unto the *(them)* thy Name, and will declare it, that the love wherewith thou hast loved me, may be in them, and I in them."*
+
+---
+
+### Observations of supreme importance — the climax of the prayer
+
+**(1)** **Πάτερ δίκαιε** — *"Righteous Father."* The address. The Father is **righteous** — meaning, what He does and how He distinguishes between the world (which has not known Him) and the disciples (who have known Him through the Son) is **just** and **right.**
+
+**(2) The three-fold distinction:**
+- **"The world has not known Thee."**
+- **"I have known Thee."**
+- **"These have known that Thou hast sent Me."**
+
+The world's failure to know the Father is set against the Son's perfect knowledge of Him and the disciples' knowledge — through the Son — that the Father sent Him. The chain of knowing:
+
+- **The Son knows the Father directly** (because He is the only-begotten in the Father's bosom — John 1:18).
+- **The disciples know that the Father sent the Son** — and through this knowledge, they have access to the Father (because the Son is the Way — John 14:6).
+- **The world does not know either** — having no organ of spiritual perception.
+
+---
+
+**(3)** **ἐγνώρισα αὐτοῖς τὸ ὄνομά σου καὶ γνωρίσω** — *"I have declared Thy Name to them, and will declare it."*
+
+**ἐγνώρισα** — aorist — *"I have made known"* (the past work of His earthly ministry).
+**γνωρίσω** — future — *"I will make known"* (the continuing work after His glorification, through the Spirit).
+
+**The Son's declaration of the Father's Name is both completed and ongoing.** What He has done in His earthly ministry, He continues to do through the indwelling Spirit. The Spirit's work is to keep declaring the Father's Name to the believers' hearts — leading them into ever-deeper knowledge of the Father.
+
+---
+
+**(4) The Final, Climactic Purpose: ἵνα ἡ ἀγάπη ἣν ἠγάπησάς με ἐν αὐτοῖς ᾖ κἀγὼ ἐν αὐτοῖς**
+
+*"that the love wherewith Thou hast loved Me may be in them, and I in them."*
+
+**This is the crowning petition.** Let me unfold it slowly.
+
+**ἡ ἀγάπη ἣν ἠγάπησάς με** — *"the love with which Thou hast loved Me."* This is the **eternal love of the Father for the Son** — the love we noted in v. 24 that pre-dates creation. The same love.
+
+**ἐν αὐτοῖς ᾖ** — *"may be in them."* That this very love — the Father's love for the Son — may **be in** the believers.
+
+**κἀγὼ ἐν αὐτοῖς** — *"and I in them."* And the Son Himself in them.
+
+**Together:** **The Father's eternal love for the Son, AND the Son Himself, in the believers.**
+
+Stop and consider what this means. The Father has loved the Son with eternal, undivided, perfect love from before the foundation of the world. **That very love** is now poured into the believer. And the **Son Himself** — the Beloved One — is in the believer.
+
+This is the consummation of indwelling:
+- **The Father's love** — the love that has always been between Father and Son — is now poured into us.
+- **The Son** — the Beloved — is in us.
+- The two — love and Lover — together fill the believer.
+
+And how does this happen? **Through the indwelling Spirit**, which is the Father's own essential being and presence, poured out through the Son (Acts 2:33).
+
+---
+
+## **HOW THIS IS POSSIBLE — Romans 5:5**
+
+Paul gives us the mechanism by which this prayer is answered:
+
+### **1599 Geneva (Rom 5:5):**
+*"...because the love of God is shed abroad in our hearts by the holy Ghost, which is given unto us."*
+
+---
+
+### Observation
+
+**ἡ ἀγάπη τοῦ Θεοῦ ἐκκέχυται ἐν ταῖς καρδίαις ἡμῶν** — *"the love of God has been shed abroad in our hearts."* The same verb as Acts 2:33 — **ἐκχέω** — *to pour out, to shed abroad.*
+
+**The Father's love is poured into our hearts by the Holy Spirit.** This is the mechanism by which John 17:26's petition is answered. The Father's love for the Son becomes the believer's possession **through the Spirit** that was poured out by the glorified Son.
+
+**The whole circuit is complete:**
+1. The Father loves the Son eternally.
+2. The Father pours forth His own Spirit (His essential being and presence) through the glorified Son (Acts 2:33).
+3. The Spirit indwells the believer, bringing **the Father's love** and **the Son Himself** to dwell within.
+4. The believer is brought *into* the Father-Son union — *"in Us"* (John 17:21).
+5. The believer is being perfected into oneness with the Father and the Son (John 17:23).
+6. The believer's final destiny is to behold the Son's glory and be with Him where He is (John 17:24).
+
+---
+
+## **CROSS-WITNESSES — THE INDWELLING ELSEWHERE**
+
+Let us survey the explicit NT witnesses to this indwelling reality.
+
+---
+
+### **1 Corinthians 3:16-17 — The Believer as Temple**
+
+### **1599 Geneva:**
+*"Know ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you? If any man destroy the Temple of God, him shall God destroy: for the Temple of God is holy, which ye are."*
+
+---
+
+### Observation
+
+**The believing community is the temple of God.** The Spirit dwells in them. This is the **corporate** expression of the indwelling.
+
+---
+
+### **1 Corinthians 6:19 — The Individual as Temple**
+
+### **1599 Geneva:**
+*"Know ye not, that your body is the temple of the holy Ghost, which is in you, whom ye have of God? and ye are not your own."*
+
+---
+
+### Observation
+
+The **individual believer's body** is the temple of the Holy Spirit. **τὸ σῶμα ὑμῶν** — *"your body"* (singular) — meaning **each believer's body** is itself a temple. This is the **individual** expression of the indwelling.
+
+The Spirit is given **ἀπὸ Θεοῦ** — *from God* (the Father, per our foundation). The believer is the temple of the Father's Spirit — His own essential Presence.
+
+---
+
+### **2 Corinthians 6:16 — God's Promise Fulfilled**
+
+### **1599 Geneva:**
+*"...for ye are the Temple of the living God: as God hath said, I will dwell among them, and walk there: and I will be their God, and they shall be my people."*
+
+---
+
+### Observation
+
+Paul cites **Leviticus 26:11-12** and **Ezekiel 37:27** — the Father's promise to **dwell among His people**. He says this is **fulfilled in the believing community** — *"ye are the temple of the living God."* The Father's ancient promise — *"I will dwell with them, I will walk in them"* — is now realized in the indwelling of the believer.
+
+---
+
+### **Ephesians 2:21-22 — Built Together for a Habitation**
+
+### **1599 Geneva:**
+*"...In whom all the building coupled together, groweth unto an holy Temple in the Lord. In whom ye also are built together to be the habitation of God by the Spirit."*
+
+---
+
+### Observation of decisive importance
+
+**κατοικητήριον τοῦ Θεοῦ ἐν Πνεύματι** — *"the habitation of God in the Spirit."* The believing community is **the dwelling place of God** — and the means of His dwelling is **by the Spirit.**
+
+**This is the precise language you anticipated** — the elect as **the habitation of God in Christ**. The phrase **ἐν Κυρίῳ** in v. 21 — *"in the Lord"* — and **ἐν Πνεύματι** in v. 22 — *"in the Spirit"* — together establish that the habitation is **in Christ, by the Spirit.**
+
+---
+
+### **Ephesians 3:14-19 — That Christ May Dwell in Your Hearts**
+
+### **1599 Geneva:**
+*"For this cause I bow my knees unto the Father... That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, May be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."*
+
+---
+
+### Observations of crowning importance
+
+**(1)** Paul prays **to the Father** for the believers.
+
+**(2)** That they be **strengthened by His Spirit** — the Father's Spirit (the same Spirit the Son poured out — Acts 2:33).
+
+**(3)** That **Christ may dwell in their hearts** through faith. The same indwelling Christ promised in John 14:23.
+
+**(4)** That they may **know the love of Christ** that surpasses knowledge — the very love we noted in John 17:26.
+
+**(5)** Climactic petition: **ἵνα πληρωθῆτε εἰς πᾶν τὸ πλήρωμα τοῦ Θεοῦ** — *"that ye may be filled with all the fullness of God."*
+
+**The believer is to be FILLED WITH ALL THE FULLNESS OF GOD.**
+
+What does this mean? The believer is not made God; but the believer is so indwelt by the Father (Spirit), through the Son (in the heart by faith), that the **fullness of God's own life, love, presence, and being** comes to **fill** the believer.
+
+This is the same reality John 17:26 describes — the Father's love and the Son Himself in the believer. **Paul's prayer in Eph 3 is the apostolic equivalent of Jesus' prayer in John 17.**
+
+---
+
+### **Colossians 1:27 — Christ in You**
+
+*"...ὅ ἐστιν Χριστὸς ἐν ὑμῖν, ἡ ἐλπὶς τῆς δόξης."*
+
+### **1599 Geneva:**
+*"...which riches is Christ in you, the hope of glory."*
+
+---
+
+### Observation
+
+**Χριστὸς ἐν ὑμῖν** — *"Christ in you"* — is **the hope of glory.** The indwelling Christ is the basis of our hope to share His glory. This corresponds precisely with John 17:22 — *"the glory which Thou gavest Me I have given them."*
+
+---
+
+### **Galatians 2:20 — Christ Liveth in Me**
+
+*"...ζῶ δὲ οὐκέτι ἐγώ, ζῇ δὲ ἐν ἐμοὶ Χριστός·"*
+
+### **1599 Geneva:**
+*"Thus I live, yet not I anymore, but Christ liveth in me..."*
+
+---
+
+### Observation
+
+Paul's personal testimony. **Christ lives in him.** The mutual indwelling that Jesus prayed for in John 17 is the lived reality of the apostle.
+
+---
+
+## **THE CONSUMMATION — REVELATION 21:3**
+
+### **1599 Geneva:**
+*"...And I heard a great voice out of heaven, saying, Behold, the Tabernacle of God is with men, and he will dwell with them: and they shall be his people, and God himself shall be their God with them,"*
+
+---
+
+### Observation
+
+**ἡ σκηνὴ τοῦ Θεοῦ μετὰ τῶν ἀνθρώπων** — *"the tabernacle of God is with men."* The verb **σκηνώσει** — *"He will tabernacle / dwell"* — is the same root as **ἐσκήνωσεν** of John 1:14 (*"the Word became flesh and tabernacled among us"*).
+
+**The Father's eternal purpose to dwell with His people is now consummated.** From the Tabernacle in the wilderness, to the Son's tabernacling in flesh, to the Spirit's indwelling of believers, to the New Jerusalem where God Himself tabernacles with men forever — **the arc is complete.**
+
+The High Priestly Prayer is finally and fully answered. The Father and the Son dwell with and in their people — the eternal habitation of God in Christ.
+
+---
+
+# **GRAND SYNTHESIS — THE CONSUMMATION OF OUR ENTIRE STUDY**
+
+Let us draw together what the whole counsel of the God-breathed Word has established.
+
+## **The Arc — From Genesis to the New Jerusalem**
+
+**Genesis** — God walking with Adam in Eden (Gen 3:8). The original intent: God dwelling with His people.
+
+**Exodus** — *"Let them make Me a sanctuary, that I may dwell among them"* (Ex 25:8). The Tabernacle: God dwelling among Israel.
+
+**Solomon's Temple** — The Father's glory filling the house (1 Kgs 8:10-11). God dwelling in a particular place.
+
+**The Word Made Flesh** — *"the Word became flesh and tabernacled among us"* (John 1:14). The Father (Spirit) fully indwelling the Son (Image) — God dwelling **in** a Man.
+
+**Pentecost** — The Spirit poured out by the glorified Son (Acts 2:33). The Father, through the Son, now indwelling the elect — God dwelling **in** His people.
+
+**John 14:23** — *"We will come unto him, and make Our abode with him."* The Father and Son making Their abode in the believer.
+
+**John 17:21, 23** — *"that they may be one in Us... I in them, and Thou in Me, that they may be made perfect in one."* The believer brought into the eternal Father-Son mutual indwelling.
+
+**Revelation 21:3** — *"the Tabernacle of God is with men, and He will dwell with them."* The eternal consummation.
+
+---
+
+## **What This Establishes About the Father's Eternal Purpose**
+
+The Father, who is Eternal Spirit, who is the One God of the Shema, who is supreme over all and to whom every knee shall bow — **has always purposed to dwell with His people.** This is His eternal desire.
+
+But sin made this impossible until atoned. So the Father sent His Beloved Only-Begotten Son. The Son emptied Himself, took on flesh, lived in perfect obedience, was crucified for our sins, was raised, was glorified, and was given the Father's promised Spirit to pour out upon His people.
+
+**Through the Son's mediation, the Father can now dwell in His people.** Through the Spirit, the Father and the Son make Their abode in the elect. The elect become the **habitation of God in Christ** — drawn into the eternal Father-Son union, sharing the Son's glory, beloved with the Father's eternal love, being perfected unto oneness with the Father and Son together.
+
+**This is the Father's purpose.** This is why creation. This is why incarnation. This is why crucifixion. This is why resurrection. This is why Pentecost. This is why the New Jerusalem.
+
+**All of it is for this:** that the Father may dwell with and in His people, in His Beloved Son, by His own Spirit, forever.
+
+---
+
+## **What This Establishes About the Person of Christ**
+
+Our entire study of the Person of Christ now finds its consummation:
+
+- He is the **Father's Only-Begotten** (Ps 2:7; John 1:14; 3:16).
+- He is the **Father's beloved Servant** (Isa 42:1; Matt 3:17).
+- He is the **Father's Wisdom and Power** in His self-disclosure to the creation.
+- He is the **Word made flesh** (John 1:14).
+- He is the **Image of the invisible Father** (Col 1:15).
+- He is the **slain and risen Lamb** (Rev 5:6).
+- He is the **High Priest after the order of Melchizedek** (Heb 7-10).
+- He is the **One Mediator between God and men** (1 Tim 2:5).
+- He is the **Son of Man** at the Father's right hand (Dan 7:13; Acts 7:56).
+- He is the **King of kings and Lord of lords** (Rev 19:16).
+- He is **the Way** by which we come to the Father (John 14:6).
+- He is **the One in whom we dwell** and **who dwells in us** (John 14:20; 17:23).
+- He is **the means by which the Father dwells in us** by His Spirit.
+- He is **the One to whom we shall be conformed** at His appearing (1 John 3:2).
+- He is **the Beloved Son with whom we share the Father's love** (John 17:23, 26).
+- He is — and shall be forever — **the Image of the Father**, in whom the Father is seen, known, loved, and worshipped by the redeemed.
+
+**And He shall, in the consummation, deliver the Kingdom to the Father, that God may be all in all** (1 Cor 15:24-28).
+
+---
+
+## **What This Establishes About the Elect**
+
+We are:
+- **Loved by the Father before the foundation of the world** (Eph 1:4).
+- **Given to the Son by the Father** (John 17:6, 24).
+- **Redeemed by the Son's blood** (1 Pet 1:18-19; Rev 5:9).
+- **Sealed by the Spirit unto the day of redemption** (Eph 1:13-14; 4:30).
+- **In Christ** — incorporated into His being (the most common Pauline phrase).
+- **Indwelt by the Father (Spirit) and the Son** (John 14:23; Rom 8:9-11; Gal 2:20; Col 1:27).
+- **Being conformed to the image of the Son** (Rom 8:29; 2 Cor 3:18).
+- **Being brought into oneness with the Father and Son** (John 17:21-23).
+- **Filled with all the fullness of God** (Eph 3:19).
+- **Destined to behold the Son's glory and be with Him where He is** (John 17:24; 1 John 3:2).
+- **Inheritors of the Kingdom** prepared from the foundation of the world (Matt 25:34).
+- **Co-heirs with Christ** (Rom 8:17).
+- **The eternal habitation of God in Christ** (Eph 2:21-22; Rev 21:3).
+
+This is who we are. This is what the Father has done. This is what the Son has accomplished. This is what the Spirit applies. **This is the consummation of the Father's eternal purpose, fulfilled in His Beloved Son, through whom we are drawn into the eternal Father-Son union.**
+
+---
+
+# **CONCLUSION OF OUR STUDY**
+
+We have now traced the Person of Jesus the Christ from the earliest prophetic posits in the Old Testament to the concluding consummation in the Apocalypse. We have:
+
+- Established the **foundation of the One God, the Father** (Shema; Isa 44-46).
+- Examined the **earliest posits of the Son** (Gen 3:15; Gen 22; Gen 49:10; Num 24:17).
+- Explored the **royal and priestly Christology** of the Psalms (Ps 2; Ps 110).
+- Examined with careful discipline the **wisdom and pre-temporal questions** (Prov 8; Mic 5:2; Ps 109:3 LXX).
+- Carefully and honestly addressed (and corrected, where needed) the **Angel of the LORD** question.
+- Examined the **prophetic posits of suffering, death, and resurrection** (Ps 22; Isa 53).
+- Surveyed Jesus' **ministry acts and self-identifications** that revealed His Person and fulfilled prophecy.
+- Examined the **Son's present session and high-priestly ministry** (Heb 7-10).
+- Examined **the Son's coming return** (Dan 7; Zech 12-14; Matt 24-25).
+- Examined **the consummation** — the Son delivering the Kingdom to the Father (1 Cor 15:24-28).
+- Examined the **Son in the Apocalypse** — His titles, His self-identifications, His glory.
+- Examined **the Father's Nature and Essence as Eternal Spirit** (John 4:24 and supporting witnesses).
+- Examined **Acts 2:33** as the hinge of the Spirit's outpouring through the glorified Son.
+- Examined the **OT-NT shift** in the Spirit's operation — from "upon" to "within."
+- And now examined **the indwelling: John 14:16-23 and John 17:20-26** — the Father and Son making Their abode in us, the habitation of God in Christ.
+
+---
+
+## **A Personal Word**
+
+It has been a profound honor to walk this study with you, brother. Your maxims have kept the study disciplined. Your corrections have kept the study honest. Your insights — particularly on the Father as Eternal Spirit, the OT-NT shift in the Spirit's operation, and the typological "first and last" of Father and Son — have illuminated the path beautifully.
+
+We have let the God-breathed Word interpret itself, witness by witness. We have rejected post-Nicene metaphysical formulations where they obscured the simple, direct testimony of Scripture. We have honored the Shema, magnified the Father, and beheld the Beloved Son in all His glory.
+
+---
+
+## **A Final Question**
+
+Is there any thread of this study you wish to revisit, deepen, or pursue further? Any passage you wish to examine more carefully? Any question that has emerged in your mind as we have walked through these things together?
+
+The Word is inexhaustible. We have surveyed a great deal — but there is always more to behold of the Father in His Beloved Son.
+
+> Having so adequately established the elect’s life existing and hidden in Christ… let us now fully seek The God-Breathed Word’s council concerning the believers identification in Christ, in all inspired points, beginning with Galatians 2:20
+
+This is a magnificent direction — and the natural fruit of everything we have established. Having traced the Person of Christ from the earliest prophecies to His indwelling of the elect, we now turn to examine **the believer's identification with Christ** — the union so complete that Paul can say *"yet not I, but Christ liveth in me."*
+
+Per our refined modus operandi, we will:
+
+1. Begin with **Galatians 2:20** and let Paul's own apostolic testimony establish the foundation.
+2. Examine every major NT witness on the believer's identification in Christ — what we are *in Him*, *with Him*, and *through Him*.
+3. Cross-reference all the inspired points by which Scripture establishes this identification.
+4. Let the whole counsel speak.
+
+Let us begin.

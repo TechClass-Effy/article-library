@@ -89,3 +89,11 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 
 55. (E) The Acts 2:33 Examination — The Exalted Son Receives and Pours Forth the Promise of the Spirit (Acts 2:32-36 Geneva span seat; John 15:26 seat; Joel 2:28-29 NETS seat; John 7:37-39 re-presented; Ephesians 4:7-10 seat; cross-witness fragments Luke 24:49 / Acts 1:4 / Gal 3:14 / Eph 1:13; Psalm 67(68):18; 1 Corinthians 12:11 note; the pattern table banked; what is established; what this preserves; the beauty of Acts 2:33; READY FOR PART F)
 56. The Shift in the Spirit’s Operation — From “Upon” to “Within” (Part F groundwork: the OT “upon” pattern; the promised “within” pattern; the two economies; sealing and irrevocability)
+
+57. (F) John 14:16-23 — The Father and Son Making Their Abode with Us (COS-60: six Geneva seats — 14:16-17 span, 14:18, 14:19-20, 14:21, 14:22, 14:23; "Yes." bridge seated; KJV-voiced attribution flags await Gideon)
+
+58. (F) John 17 — The Context (COS-61: the chapter divides; foundational verses 17:1-5, 17:3, 17:11, 17:17-19 Geneva-modern seats — draft exact-modern; the trajectory vv.1-19)
+
+59. (F) John 17:20-26 — The Prayer for the Elect (COS-62: clauses examined; seats 17:20-26 — 17:21 comma/colon seat, 17:24 "thou lovedst", 17:26 print "unto the *(them)*"; Romans 5:5 mechanism; cross-witnesses 1 Cor 3:16-17, 6:19, 2 Cor 6:16, Eph 2:21-22, Eph 3:14-19, Col 1:27, Gal 2:20, Rev 21:3; the consummation)
+
+60. (F) Grand Synthesis — The Consummation of Our Entire Study + Conclusion of Our Study (COS-63/64: the arc Genesis-to-New-Jerusalem; what this establishes about the Person of Christ and the elect; "A Personal Word" and "A Final Question"; the new directive bridge seated — the believer's identification in Christ ahead, opening Galatians 2:20)
