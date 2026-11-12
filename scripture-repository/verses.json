@@ -598,9 +598,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 78943,
+  "so_far_words": 79750,
   "cos_sofar": {
-   "waves": 35
+   "waves": 36
   },
   "glossary": 887
  },
@@ -7806,6 +7806,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8840,
+     "cited_as": "Colossians 3:1",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-4 seat (draft exact-modern; draft \"sitteth at\" matches the 1599 print)"
     }
    ],
    "verified": "2026-11-11",
@@ -7819,6 +7829,11 @@
     "trb_fresh": {
      "text": "If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.",
      "source": "textusreceptusbibles.com/Geneva/51/3",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ Θεοῦ καθήμενος·",
+     "source": "biblehub.com/text/colossians/3-1",
      "result": "agree (1.000)"
     }
    },
@@ -7875,6 +7890,11 @@
      "url": "https://textusreceptusbibles.com/Geneva/51/3",
      "result": "EXACT (normalized per-verse, eBible==TRB)",
      "text": "For ye are dead, and your life is hid with Christ in God."
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ Θεῷ·",
+     "source": "biblehub.com/text/colossians/3-3",
+     "result": "agree (1.000)"
     }
    },
    "uses": [
@@ -7889,6 +7909,16 @@
      "status": "confirmed",
      "quote_kind": "mention",
      "note": "good-reason: the fragment is the Geneva at modern spelling; recorded on the row (10 Nov rule)."
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8787,
+     "cited_as": "Colossians 3:3",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-2 seat (draft exact-modern — no splice)"
     }
    ]
   },
@@ -43111,6 +43141,11 @@
      "url": "https://textusreceptusbibles.com/Geneva/45/6",
      "result": "EXACT (normalized per-verse, eBible==TRB)",
      "text": "We are buried then with him by baptisme into his death, that like as Christ was raysed vp from the dead to the glorie of the Father, so we also should walke in newnesse of life."
+    },
+    "greek_biblehub_fresh": {
+     "text": "συνετάφημεν οὖν αὐτῷ διὰ τοῦ βαπτίσματος εἰς τὸν θάνατον, ἵνα ὥσπερ ἠγέρθη Χριστὸς ἐκ νεκρῶν διὰ τῆς δόξης τοῦ Πατρός, οὕτως καὶ ἡμεῖς ἐν καινότητι ζωῆς περιπατήσωμεν.",
+     "source": "biblehub.com/text/romans/6-4",
+     "result": "agree (1.000)"
     }
    },
    "uses": [
@@ -43125,6 +43160,26 @@
      "status": "flagged",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8808,
+     "cited_as": "Romans 6:4",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "POINT-3 seat (draft exact-modern — no splice)"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8832,
+     "cited_as": "Point-4 span seat — Romans 6:4-5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "v4 tail quoted in the POINT-4 span seat (ellipsis head per draft)"
     }
    ],
    "flag": {
@@ -43150,6 +43205,11 @@
      "url": "https://textusreceptusbibles.com/Geneva/45/6",
      "result": "EXACT (normalized per-verse, eBible==TRB)",
      "text": "For if we be planted with him to the similitude of his death, euen so shall we be to the similitude of his resurrection,"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ γὰρ σύμφυτοι γεγόναμεν τῷ ὁμοιώματι τοῦ θανάτου αὐτοῦ, ἀλλὰ καὶ τῆς ἀναστάσεως ἐσόμεθα·",
+     "source": "biblehub.com/text/romans/6-5",
+     "result": "agree (1.000)"
     }
    },
    "uses": [
@@ -43164,6 +43224,16 @@
      "status": "flagged",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8832,
+     "cited_as": "Point-4 span seat — Romans 6:4-5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "POINT-4 span seat; print v5 ends with a comma (both editions) — seated verbatim"
     }
    ],
    "flag": {
@@ -43379,6 +43449,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8884,
+     "cited_as": "Point-5 observation quote — Romans 8:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
     }
    ],
    "verified": "2026-11-12",
@@ -43397,7 +43477,7 @@
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "draft quote tail KJV-voiced (\"glorified together\" vs 1599 \"glorified with him\"); awaits Gideon",
+    "detail": "draft quote tail KJV-voiced (\"glorified together\" vs 1599 \"glorified with him\"); awaits Gideon — scope UPDATED Nov 12: the Point-5 observation quote (canon 8884) carries the same KJV wording",
     "awaiting": "Gideon"
    }
   },
@@ -44889,6 +44969,294 @@
     }
    },
    "second_check": {}
+  },
+  {
+   "id": "ROM.6.8",
+   "ref": "Romans 6:8",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8773,
+     "cited_as": "Romans 6:8",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore, if we bee dead with Christ, we beleeue that we shall liue also with him,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore, if we bee dead with Christ, we beleeue that we shall liue also with him,",
+     "source": "textusreceptusbibles.com/Geneva/45/6",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ δὲ ἀπεθάνομεν σὺν Χριστῷ, πιστεύομεν ὅτι καὶ συνζήσομεν αὐτῷ,",
+     "source": "biblehub.com/text/romans/6-8",
+     "result": "agree (0.900)"
+    }
+   },
+   "note": "POINT-2 seat — draft exact-modern (bee/beleeue/liue folds only); draft Greek 0.900 vs WH (trailing-comma class)"
+  },
+  {
+   "id": "2TI.2.11",
+   "ref": "2 Timothy 2:11",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8779,
+     "cited_as": "2 Timothy 2:11",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "It is a true saying, For if we be dead together with him, we also shall liue together with him.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "It is a true saying, For if we be dead together with him, we also shall liue together with him.",
+     "source": "textusreceptusbibles.com/Geneva/55/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πιστὸς ὁ λόγος· εἰ γὰρ συναπεθάνομεν, καὶ συζήσομεν·",
+     "source": "biblehub.com/text/2_timothy/2-11",
+     "result": "agree (0.875)"
+    }
+   },
+   "note": "POINT-2 seat — print comma after \"true saying\" replaces draft colon; draft Greek 0.875 vs WH (single-token class)"
+  },
+  {
+   "id": "COL.2.20",
+   "ref": "Colossians 2:20",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8786,
+     "cited_as": "Colossians 2:20",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore if ye be dead with Christ from the ordinances of the world, why, as though ye liued in ye world, are ye burdened with traditions?",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore if ye be dead with Christ from the ordinances of the world, why, as though ye liued in ye world, are ye burdened with traditions?",
+     "source": "textusreceptusbibles.com/Geneva/51/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ οὖν ἀπεθάνετε σὺν τῷ Χριστῷ, ἀπὸ τῶν στοιχείων τοῦ κόσμου, τί ὡς ζῶντες ἐν κόσμῳ δογματίζεσθε,",
+     "source": "biblehub.com/text/colossians/2-20",
+     "result": "agree (draft-fragment fwd 0.889)"
+    }
+   },
+   "note": "POINT-2 seat — draft KJV-voiced \"rudiments\" brought to the 1599 print \"ordinances\"; draft elides the verse tail (ellipsis per draft); draft Greek fragment sits inside WH (fwd 0.889)"
+  },
+  {
+   "id": "COL.2.12",
+   "ref": "Colossians 2:12",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8814,
+     "cited_as": "Colossians 2:12",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In that yee are buried with him through baptisme, in whome ye are also raised vp together through the faith of the operation of God, which raised him from the dead.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In that yee are buried with him through baptisme, in whome ye are also raised vp together through the faith of the operation of God, which raised him from the dead.",
+     "source": "textusreceptusbibles.com/Geneva/51/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "συνταφέντες αὐτῷ ἐν τῷ βαπτίσματι, ἐν ᾧ καὶ συνηγέρθητε διὰ τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ, τοῦ ἐγείραντος αὐτὸν ἐκ τῶν νεκρῶν.",
+     "source": "biblehub.com/text/colossians/2-12",
+     "result": "agree (0.947)"
+    }
+   },
+   "note": "POINT-3 seat — draft exact-modern (yee/whome/vp folds only); draft Greek 0.947 vs WH (single-token class)"
+  },
+  {
+   "id": "EPH.2.5",
+   "ref": "Ephesians 2:5",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8846,
+     "cited_as": "Ephesians 2:5",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Euen when we were dead by sinnes, hath quickened vs together in Christ, by whose grace ye are saued,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Euen when we were dead by sinnes, hath quickened vs together in Christ, by whose grace ye are saued,",
+     "source": "textusreceptusbibles.com/Geneva/49/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ὄντας ἡμᾶς νεκροὺς τοῖς παραπτώμασιν συνεζωοποίησεν τῷ Χριστῷ,— χάριτί ἐστε σεσῳσμένοι,—",
+     "source": "biblehub.com/text/ephesians/2-5",
+     "result": "agree (Point-4 span fwd 1.000; res 0.765 = WH full verses vs draft fragments)"
+    }
+   },
+   "note": "POINT-4 span seat — draft carries v5 full + v6 head (ellipsis tail per draft); draft exact-modern; WH span fwd 1.000"
+  },
+  {
+   "id": "EPH.2.6",
+   "ref": "Ephesians 2:6",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8867,
+     "cited_as": "Ephesians 2:6",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And hath raysed vs vp together, and made vs sit together in the heauenly places in Christ Iesus,",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And hath raysed vs vp together, and made vs sit together in the heauenly places in Christ Iesus,",
+     "source": "textusreceptusbibles.com/Geneva/49/2",
+     "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ συνήγειρεν καὶ συνεκάθισεν ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ Ἰησοῦ,",
+     "source": "biblehub.com/text/ephesians/2-6",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-5 seat (POINT-4 span seats the v6 head with ellipsis tail — both uses banked); draft exact-modern; WH 1.000"
+  },
+  {
+   "id": "REV.3.21",
+   "ref": "Revelation 3:21",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8882,
+     "cited_as": "Point-5 observation quote — Revelation 3:21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "To him that ouercommeth, will I graunt to sit with me in my throne, euen as I ouercame, and sit with my Father in his throne.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "To him that ouercommeth, will I graunt to sit with me in my throne, euen as I ouercame, and sit with my Father in his throne.",
+     "source": "textusreceptusbibles.com/Geneva/66/3",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-5 observation quote anchor (prose untouched)",
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Point-5 observation quote is KJV-voiced: draft reads \"and am set down with my Father\" where 1599 prints \"and sit with my Father\" (draft also drops the print comma after \"overcometh\") — italic GNV attribution for his prose awaits his word",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "2TI.2.12",
+   "ref": "2 Timothy 2:12",
+   "uses": [
+    {
+     "section": "COS-66",
+     "section_label": "THE CHRIST OF SCRIPTURE — The Full Counsel — The Believer's Identification in Christ",
+     "article_line": 8883,
+     "cited_as": "Point-5 observation quote — 2 Timothy 2:12",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If we suffer, we shall also reigne together with him: if we denie him, he also will denie vs.",
+     "source": "ebible.org enggnv == textusreceptusbibles.com fresh (EB==TRB asserted per verse)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If we suffer, we shall also reigne together with him: if we denie him, he also will denie vs.",
+     "source": "textusreceptusbibles.com/Geneva/55/2",
+     "result": "agree (1.000)"
+    }
+   },
+   "note": "POINT-5 observation quote anchor (fragment; prose untouched)",
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Point-5 observation quote is KJV-voiced: \"if we suffer, we shall also reign with him\" vs 1599 \"we shall also reigne together with him\" (draft drops \"together\" and elides v12's second clause)",
+    "awaiting": "Gideon"
+   }
   }
  ]
 }

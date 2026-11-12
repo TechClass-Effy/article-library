@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**841 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**849 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1012 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1020 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4844,7 +4844,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### HEB 10 12 — CONFIRMED
 *cited as: table use on this run's row*
@@ -9024,20 +9024,20 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prose fragment (ellipsis quote)*
 - **Geneva 1599:** “We are buried then with him by baptisme into his death, that like as Christ was raysed vp from the dead to the glorie of the Father, so we also should walke in newnesse of life.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
 
 ### Romans 6:5 — FLAGGED
 *cited as: prose fragment (ellipsis quote)*
 - **Geneva 1599:** “For if we be planted with him to the similitude of his death, euen so shall we be to the similitude of his resurrection,”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
 
 ### Colossians 3:3 — CONFIRMED
 *cited as: prose quote — exact at modern spelling (good-reason)*
 - **Geneva 1599:** “For ye are dead, and your life is hid with Christ in God.”
 - *Note:* good-reason: the fragment is the Geneva at modern spelling; recorded on the row (10 Nov rule).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
 
 ### Colossians 3:4 — FLAGGED
 *cited as: prose fragment*
@@ -9412,7 +9412,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation span quote (with 3:2 + 3:4) — draft "sitteth on" where 1599 prints "sitteth at"*
 - **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Colossians 3:2 — PROSE-REF
 *cited as: observation span quote (with 3:1 + 3:4; the draft opens the quote with this verse)*
@@ -9815,6 +9815,88 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But God forbid that I should reioyce, but in ye crosse of our Lord Iesus Christ, whereby the world is crucified vnto me, and I vnto ye world.”
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 6:8 — CONFIRMED
+*cited as: Romans 6:8*
+- **Geneva 1599:** “Wherefore, if we bee dead with Christ, we beleeue that we shall liue also with him,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 2 Timothy 2:11 — CONFIRMED
+*cited as: 2 Timothy 2:11*
+- **Geneva 1599:** “It is a true saying, For if we be dead together with him, we also shall liue together with him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 2:20 — CONFIRMED
+*cited as: Colossians 2:20*
+- **Geneva 1599:** “Wherefore if ye be dead with Christ from the ordinances of the world, why, as though ye liued in ye world, are ye burdened with traditions?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 3:3 — CONFIRMED
+*cited as: Colossians 3:3*
+- **Geneva 1599:** “For ye are dead, and your life is hid with Christ in God.”
+- *Note:* POINT-2 seat (draft exact-modern — no splice)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+
+### Romans 6:4 — CONFIRMED
+*cited as: Romans 6:4*
+- **Geneva 1599:** “We are buried then with him by baptisme into his death, that like as Christ was raysed vp from the dead to the glorie of the Father, so we also should walke in newnesse of life.”
+- *Note:* POINT-3 seat (draft exact-modern — no splice)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+
+### Colossians 2:12 — CONFIRMED
+*cited as: Colossians 2:12*
+- **Geneva 1599:** “In that yee are buried with him through baptisme, in whome ye are also raised vp together through the faith of the operation of God, which raised him from the dead.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 6:5 — PROSE-REF
+*cited as: Point-4 span seat — Romans 6:4-5*
+- **Geneva 1599:** “For if we be planted with him to the similitude of his death, euen so shall we be to the similitude of his resurrection,”
+- *Note:* POINT-4 span seat; print v5 ends with a comma (both editions) — seated verbatim
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+
+### COL 3 1 — CONFIRMED
+*cited as: Colossians 3:1*
+- **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
+- *Note:* POINT-4 seat (draft exact-modern; draft "sitteth at" matches the 1599 print)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 2:5 — CONFIRMED
+*cited as: Ephesians 2:5*
+- **Geneva 1599:** “Euen when we were dead by sinnes, hath quickened vs together in Christ, by whose grace ye are saued,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 2:6 — CONFIRMED
+*cited as: Ephesians 2:6*
+- **Geneva 1599:** “And hath raysed vs vp together, and made vs sit together in the heauenly places in Christ Iesus,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Revelation 3:21 — PROSE-REF
+*cited as: Point-5 observation quote — Revelation 3:21*
+- **Geneva 1599:** “To him that ouercommeth, will I graunt to sit with me in my throne, euen as I ouercame, and sit with my Father in his throne.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Timothy 2:12 — PROSE-REF
+*cited as: Point-5 observation quote — 2 Timothy 2:12*
+- **Geneva 1599:** “If we suffer, we shall also reigne together with him: if we denie him, he also will denie vs.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:17 — PROSE-REF
+*cited as: Point-5 observation quote — Romans 8:17*
+- **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -11738,9 +11820,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:19 | COS-21 | confirmed |
 | Colossians 2:9 | COS-55 | anchor |
 | Colossians 1:20 | COS-21 | confirmed |
-| COL 3 1 | COS-34, COS-62 | confirmed, prose-ref |
+| COL 3 1 | COS-34, COS-62, COS-66 | confirmed, prose-ref |
 | Colossians 3:2 | COS-62 | prose-ref |
-| Colossians 3:3 | COS-60 | confirmed |
+| Colossians 3:3 | COS-60, COS-66 | confirmed |
 | Colossians 3:4 | COS-60, COS-62 | flagged, prose-ref |
 | Dan 7:10 | COS-35, COS-38 | confirmed |
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
@@ -12546,14 +12628,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:19 | COS-22 | confirmed (excerpt) |
 | Romans 5:5 | P9, COS-62 | confirmed, prose-ref |
 | Romans 6:13 | SAB7 | anchor |
-| Romans 6:4 | COS-60 | flagged |
-| Romans 6:5 | COS-60 | flagged |
+| Romans 6:4 | COS-60, COS-66 | confirmed, flagged, prose-ref |
+| Romans 6:5 | COS-60, COS-66 | flagged, prose-ref |
 | Romans 6:6 | COS-65 | prose-ref |
 | Romans 7:18 | SAB7 | anchor |
 | Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
-| Romans 8:17 | COS-62 | prose-ref |
+| Romans 8:17 | COS-62, COS-66 | prose-ref |
 | Romans 8:29 | COS-63 | prose-ref |
 | Romans 8:30 | COS-62 | prose-ref |
 | Romans 8:32 | COS-22, COS-42 | confirmed, confirmed (excerpt) |
@@ -12589,6 +12671,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Zechariah 4:3 | COS-57 | prose-ref |
 | Zechariah 4:6 | COS-57 | confirmed |
 | Zechariah 9:9 LXX (9:9 MT) | COS-23 | confirmed |
+| Romans 6:8 | COS-66 | confirmed |
+| 2 Timothy 2:11 | COS-66 | confirmed |
+| Colossians 2:20 | COS-66 | confirmed |
+| Colossians 2:12 | COS-66 | confirmed |
+| Ephesians 2:5 | COS-66 | confirmed |
+| Ephesians 2:6 | COS-66 | confirmed |
+| Revelation 3:21 | COS-66 | prose-ref |
+| 2 Timothy 2:12 | COS-66 | prose-ref |
 
 ## The editions used
 
