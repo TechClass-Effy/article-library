@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**663 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**678 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**834 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**849 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -684,11 +684,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Genesis 1:2 — ANCHOR
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.”
 - **Geneva 1599:** “And the earth was without forme and void, and darkenesse was vpon the deepe, and the Spirit of God mooued vpon the waters.”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: gnv, greek_swete, nets*
-- *Double-checked (second source): nets ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_swete, nets*
+- *Double-checked (second source): nets ✓ · net_print — EXACT — print==cache verified fresh 2026-11-12*
 
 ### Genesis 1:6 — ANCHOR
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -6696,14 +6696,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,”
 - *Note:* Observation (4) — the draft's inline quote runs 6:15-16 in KJV voice.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.857 — WH clause "ἣν καιροῖς ἰδίοις δείξει" sits before the draft's leading ellipsis; the quoted head is verbatim WH (nominative μακάριος/Δυνάστης both witnesses agree)*
 
 ### 1 Timothy 6:16 — PROSE-REF
 *cited as: 'the King of kings and Lord of lords... whom no man hath seen, nor can see'*
 - **Geneva 1599:** “Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.”
 - *Note:* Observation (4) + the face-no-one-sees trio; Part E seats 1 Tim 6:15-16 properly (next wave).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim incl. ἀμήν*
 
 ## 52. (D) Revelation 21:5-7: The One on the Throne Speaks
 
@@ -6870,7 +6870,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “God is a Spirite, and they that worship him, must worship him in spirit and trueth.”
 - *Note:* Observation (1); the draft's 'God is Spirit' is his condensed rendering — Part E seats John 4:24 properly (next wave); prose untouched.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim (‹αὐτὸν› bracket is WH apparatus, not text)*
 
 ### Zechariah 14:9 — PROSE-REF
 *cited as: one LORD and His Name one (Zech 14:9)*
@@ -7266,6 +7266,151 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* The 1599 prints 'he will dwell with them' (lowercase he); the draft's capital-He is his editorial emphasis. Part F seats the verse.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+## 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit
+
+### John 4:24 — SEAT
+*cited as: The Direct Witness — John 4:24 (seat)*
+- **Geneva 1599:** “God is a Spirite, and they that worship him, must worship him in spirit and trueth.”
+- *Note:* Seat printed under the "1599 Geneva" head; the draft quote already equals the modern-spelled 1599 print (eBible==TRB EXACT). Draft Greek head dropped per seat shape — his Greek survives in the observation prose.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim (‹αὐτὸν› bracket is WH apparatus, not text)*
+
+### 1 Timothy 1:17 — SEAT
+*cited as: Cross-witness — 1 Timothy 1:17 (seat)*
+- **Geneva 1599:** “Nowe vnto the King euerlasting, immortall, inuisible, vnto God onely wise, be honour and glorie, for euer, and euer, Amen.”
+- *Note:* Seat = the 1599 print modern-spelled; the draft read "be honor ... forever" — seat prints the edition ("be honour", "for ever, and ever"). Draft Greek head dropped per seat shape (his Greek survives in the Observations bullets).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim*
+
+### 1 Timothy 6:15 — SEAT
+*cited as: Cross-witness — 1 Timothy 6:15-16 (seat)*
+- **Geneva 1599:** “Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,”
+- *Note:* Seat = the 1599 print modern-spelled over the draft two-verse span ("the King of Kings and Lord of Lords" — the draft's extra comma + lowercase "lords" corrected to the print). The standing COS-47 KJV-voice flag concerns the Rev 19 observation quote, not this seat.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.857 — WH clause "ἣν καιροῖς ἰδίοις δείξει" sits before the draft's leading ellipsis; the quoted head is verbatim WH (nominative μακάριος/Δυνάστης both witnesses agree)*
+
+### 1 Timothy 6:16 — SEAT
+*cited as: Cross-witness — 1 Timothy 6:15-16 (seat, verse 16)*
+- **Geneva 1599:** “Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.”
+- *Note:* Seat v16 = "whom never man saw, neither can see" — the 1599 print (the draft's Part E quote already carried it modern-spelled; "honour" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim incl. ἀμήν*
+
+### Genesis 1:2 — SEAT
+*cited as: OT Foundation — Genesis 1:2 LXX (NETS seat)*
+- **NETS (Septuagint, modern):** “Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.”
+- **Geneva 1599:** “And the earth was without forme and void, and darkenesse was vpon the deepe, and the Spirit of God mooued vpon the waters.”
+- *Note:* Seat = NETS verbatim ("a divine wind was being carried along over the water") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his "Spirit of God" reading). Draft Greek + Geneva quote blocks dropped per seat shape.
+- *Checked 2026-11-12 · editions fetched: gnv, greek_swete, nets*
+- *Double-checked (second source): nets ✓ · net_print — EXACT — print==cache verified fresh 2026-11-12*
+
+### Numbers 16:22 — SEAT
+*cited as: OT Foundation — Numbers 16:22 LXX (Korah's rebellion) — NETS seat*
+- **NETS (Septuagint, modern):** “And they fell upon their face and said, “O God, God of the spirits and of all flesh, if one person sinned, is the anger of the Lord upon all the congregation?””
+- **Geneva 1599:** “And they fell vpon their faces and saide, O God the God of the spirits, of all fleshe, hath not one man onely sinned, and wilt thou bee wroth with all the Congregation?”
+- *Note:* Ellipsis seat over the draft's vocative span (leading/trailing ellipses per the draft print). Print-verified (04-num.pdf print) == NETS cache verbatim.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — print==cache verified fresh 2026-11-12*
+
+### Isaiah 31:3 — SEAT
+*cited as: OT Foundation — Isaiah 31:3 LXX — NETS seat*
+- **NETS (Septuagint, modern):** “an Egyptian, a man and not God— the flesh of horses, and there is no help. But the Lord will turn his hand against them, and those who help will grow weary, and they will all perish together.”
+- **Geneva 1599:** “Now the Egyptians are men, and not God, and their horses flesh and not spirite: and when the Lord shall stretch out his hand, the helper shall fall, and hee that is holpen shall fall, and they shall altogether faile.”
+- *Note:* Seat cut at the draft's trailing ellipsis ("the Lord will turn his hand against them, …"); the print continues "and those who help will grow weary, and they will all perish together." (print p848).
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — print continuation matches cache fresh 2026-11-12*
+
+### Psalm 139:7 (LXX 138:7) — SEAT
+*cited as: OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)*
+- **NETS (Septuagint, modern):** “Where should I go from your spirit? And from your face where should I flee?”
+- **Geneva 1599:** “Whither shall I goe from thy Spirite? or whither shall I flee from thy presence?”
+- *Note:* Seat = NETS verbatim, one blockquote across 138:7-10; the "covert *(the hiding place)*" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Psalm 139:8 (LXX 138:8) — SEAT
+*cited as: OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)*
+- **NETS (Septuagint, modern):** “If I ascend to the sky, you are there; if I descend to Hades, you are present.”
+- **Geneva 1599:** “If I ascende into heauen, thou art there: if I lye downe in hell, thou art there.”
+- *Note:* Seat = NETS verbatim, one blockquote across 138:7-10; the "covert *(the hiding place)*" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Psalm 139:9 (LXX 138:9) — SEAT
+*cited as: OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)*
+- **NETS (Septuagint, modern):** “If I were to take up my wings at dawn and make my covert at the farthest limits of the sea,”
+- **Geneva 1599:** “Let mee take the winges of the morning, and dwell in the vttermost parts of the sea:”
+- *Note:* Seat = NETS verbatim, one blockquote across 138:7-10; the "covert *(the hiding place)*" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Psalm 139:10 (LXX 138:10) — SEAT
+*cited as: OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)*
+- **NETS (Septuagint, modern):** “indeed, there your hand shall guide me, and your right hand shall hold me fast.”
+- **Geneva 1599:** “Yet thither shall thine hand leade me, and thy right hand holde me.”
+- *Note:* Seat = NETS verbatim, one blockquote across 138:7-10; the "covert *(the hiding place)*" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — dump of pp 74-75 fresh 2026-11-12*
+
+### Jeremiah 23:23 (LXX = MT 23:23) — SEAT
+*cited as: OT Foundation — Jeremiah 23:23-24 LXX — NETS seat*
+- **NETS (Septuagint, modern):** “I am a god nearby, says the Lord, and not a god far off.”
+- **Geneva 1599:** “Am I a God at hande, saith the Lord, and not a God farre off?”
+- *Note:* Seat = NETS verbatim joined across the two verses (draft quoted the same verses; Greek+Geneva blocks dropped per seat shape). LXX 23:23-24 == MT 23:23-24 (numbering holds before the LXX reorder zone, per the NETS numbering notes).
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — print==seat fresh 2026-11-12*
+
+### Jeremiah 23:24 (LXX = MT 23:24) — SEAT
+*cited as: OT Foundation — Jeremiah 23:23-24 LXX — NETS seat*
+- **NETS (Septuagint, modern):** “If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord.”
+- **Geneva 1599:** “Can any hide him selfe in secrete places, that I shall not see him, sayth the Lord? Do not I fill heauen and earth, saieth the Lord?”
+- *Note:* Seat verse 2; NETS renders "the sky and the earth" where the draft's Geneva reads "heaven and earth".
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · net_print — EXACT — print==seat fresh 2026-11-12*
+
+### 1 Kings 8:27 (LXX 3 Kingdoms 8:27) — SEAT
+*cited as: OT Foundation — 1 Kings 8:27 LXX (3 Kingdoms 8:27) — Solomon's Prayer (NOT yet seated)*
+- **Geneva 1599:** “Is it true in deede that God will dwell on the earth? beholde, the heauens, and the heauens of heauens are not able to conteine thee: howe much more vnable is this house that I haue built?”
+- *Note:* The local NETS 3 Reigns extract (11-3reigns-nets.pdf) covers only the Kaige ch 1-2 region — ch 8 absent — so the draft's Greek + Geneva blocks were carried through UNSEATED; his prose untouched.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — FETCH-FAILED (HTTP 500 x3, 2026-11-12)*
+
+### Isaiah 66:1 — SEAT
+*cited as: Two-Witnesses table — "God is uncontainable: Isa 66:1" (mention anchor)*
+- **NETS (Septuagint, modern):** “Thus says the Lord: Heaven is my throne, and the earth is the footstool of my feet; what kind of house will you build for me, or of what kind will be the place of my rest?”
+- **Geneva 1599:** “Thus saith the Lord, The heauen is my throne, and the earth is my footestoole: where is that house that ye will builde vnto me? and where is that place of my rest?”
+- *Note:* Table mention; NETS banked from the Isaiah cache; GNV fetched fresh (eBible==TRB EXACT 2026-11-12).
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Acts 7:48 — SEAT
+*cited as: Two-Witnesses table — "God is uncontainable: Acts 7:48-49" (mention anchor)*
+- **Geneva 1599:** “Howbeit the most High dwelleth not in temples made with handes, as saith the Prophet,”
+- *Note:* Table mention; GNV eBible==TRB EXACT 2026-11-12.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Acts 7:49 — SEAT
+*cited as: Two-Witnesses table — "God is uncontainable: Acts 7:48-49" (mention anchor)*
+- **Geneva 1599:** “Heauen is my throne, and earth is my footestoole: what house wil ye build for me, saith the Lord? or what place is it that I should rest in?”
+- *Note:* Table mention; GNV eBible==TRB EXACT 2026-11-12.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Hebrews 12:9 — SEAT
+*cited as: Two-Witnesses table — "God is the Father of spirits" (mention anchor)*
+- **Geneva 1599:** “Moreouer we haue had the fathers of our bodies which corrected vs, and we gaue them reuerence: should we not much rather be in subiection vnto the father of spirites, that we might liue?”
+- *Note:* Table mention; GNV eBible==TRB EXACT 2026-11-12.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Romans 1:23 — SEAT
+*cited as: Two-Witnesses table — "God is immortal/incorruptible" (mention anchor)*
+- **Geneva 1599:** “For they turned the glorie of the incorruptible God to the similitude of the image of a corruptible man, and of birdes, and foure footed beastes, and of creeping things.”
+- *Note:* Table mention; TRB returned HTTP 500 x3 — eBible only; second source pending.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — FETCH-FAILED (HTTP 500 x3, 2026-11-12)*
 
 # THE BIBLICAL SABBATH
 
@@ -9289,7 +9434,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 46:5 | COS-01, COS-13 | confirmed, prose-ref |
 | Isaiah 46:9 | COS-01 | confirmed |
 | Genesis 1:1 | COS-01 | anchor |
-| Genesis 1:2 | COS-01 | anchor |
+| Genesis 1:2 | COS-01, COS-53 | anchor, seat |
 | Genesis 1:6 | COS-01 | anchor |
 | Psalm 32:6 | COS-01, COS-20 | commentary, confirmed |
 | Mark 12:29 | COS-01, COS-18 | confirmed |
@@ -9850,18 +9995,33 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 6:3 | COS-52 | prose-ref |
 | Isaiah 40:10 | COS-49 | prose-ref |
 | Isaiah 62:11 | COS-49 | prose-ref |
-| John 4:24 | COS-50 | prose-ref |
+| John 4:24 | COS-50, COS-53 | prose-ref, seat |
 | John 14:23 | COS-52 | prose-ref |
 | John 17:21 | COS-50 | prose-ref |
 | Ephesians 3:19 | COS-52 | prose-ref |
 | 2 Corinthians 6:16 | COS-52 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
-| 1 Timothy 6:15 | COS-47 | prose-ref |
-| 1 Timothy 6:16 | COS-47 | prose-ref |
+| 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
+| 1 Timothy 6:16 | COS-47, COS-53 | prose-ref, seat |
 | 2 Samuel 7:14 | COS-48 | prose-ref |
 | Matthew 1:21 | COS-52 | prose-ref |
 | Malachi 4:2 | COS-52 | prose-ref |
 | Revelation 21:3 | COS-52 | prose-ref |
+| 1 Timothy 1:17 | COS-53 | seat |
+| Numbers 16:22 | COS-53 | seat |
+| Isaiah 31:3 | COS-53 | seat |
+| Jeremiah 23:23 (LXX = MT 23:23) | COS-53 | seat |
+| Jeremiah 23:24 (LXX = MT 23:24) | COS-53 | seat |
+| 1 Kings 8:27 (LXX 3 Kingdoms 8:27) | COS-53 | seat |
+| Psalm 139:7 (LXX 138:7) | COS-53 | seat |
+| Psalm 139:8 (LXX 138:8) | COS-53 | seat |
+| Psalm 139:9 (LXX 138:9) | COS-53 | seat |
+| Psalm 139:10 (LXX 138:10) | COS-53 | seat |
+| Isaiah 66:1 | COS-53 | seat |
+| Hebrews 12:9 | COS-53 | seat |
+| Romans 1:23 | COS-53 | seat |
+| Acts 7:48 | COS-53 | seat |
+| Acts 7:49 | COS-53 | seat |
 
 ## The editions used
 

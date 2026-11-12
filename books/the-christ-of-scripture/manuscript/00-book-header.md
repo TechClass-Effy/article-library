@@ -64,3 +64,7 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 ---
 
 49. (D) The Son in the Apocalypse close — Revelation 19:11-16 The Returning King; Revelation 21:5-7 The One on the Throne Speaks; Revelation 22:12-13 + 16 A Careful Textual Examination with the Typological Principle (the First and the Last, true to type); Revelation 22:1-5 The Throne of God and of the Lamb; Revelation 22:7, 20 The Final Words; the Grand Synthesis — the Son in the Apocalypse; Where the Study Stands (with the road-map to (E) the Father as Eternal Spirit and (F) the Indwelling)
+
+---
+
+50. (E) Part E — The Nature and Essence of the Father as Eternal Spirit; Question 1 — What Does Scripture Establish About the Father as Eternal Spirit (John 4:24 Geneva; 1 Timothy 1:17; 1 Timothy 6:15-16; Genesis 1:2, Numbers 16:22, Isaiah 31:3, Jeremiah 23:23-24, 1 Kings 8:27, Psalm 139:7-10 MT NETS; the Two-Witnesses table)

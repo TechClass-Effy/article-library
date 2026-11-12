@@ -104,7 +104,8 @@
    "COS-49",
    "COS-50",
    "COS-51",
-   "COS-52"
+   "COS-52",
+   "COS-53"
   ],
   "sections": [
    {
@@ -468,6 +469,10 @@
    {
     "key": "COS-52",
     "label": "56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands"
+   },
+   {
+    "key": "COS-53",
+    "label": "57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit"
    }
   ],
   "double_check": {
@@ -528,9 +533,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 55383,
+  "so_far_words": 56571,
   "cos_sofar": {
-   "waves": 26
+   "waves": 27
   }
  },
  "verses": [
@@ -12491,12 +12496,22 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6085,
+     "cited_as": "OT Foundation — Genesis 1:2 LXX (NETS seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = NETS verbatim (\"a divine wind was being carried along over the water\") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his \"Spirit of God\" reading). Draft Greek + Geneva quote blocks dropped per seat shape.",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
-     "text": "",
+     "text": "Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.",
      "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
     },
     "gnv": {
@@ -12512,6 +12527,29 @@
     "nets": {
      "result": "agree-by-Rahlfs-concurrence",
      "url": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)"
+    },
+    "net_print": {
+     "text": "Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.",
+     "source": "/Users/yeah-/.hermes/cache/scratch/nets/01-gen.pdf print p.6",
+     "result": "EXACT — print==cache verified fresh 2026-11-12"
+    }
+   },
+   "adjudication": {
+    "ruling": "seat",
+    "version": "nets",
+    "text": "Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.",
+    "reason": "The Christ of Scripture specifies NETS for OT; seat printed verbatim 2026-11-12 (print-verified)."
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And the earth was without forme and void, and darkenesse was vpon the deepe, and the Spirit of God mooued vpon the waters.",
+     "source": "textusreceptusbibles.com /Geneva/1/1",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_cache_fresh": {
+     "text": "Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.",
+     "source": "NETS cache GEN (print-repaired wave-1 + composed from print dump)",
+     "result": "cache text verified in-line"
     }
    }
   },
@@ -35702,6 +35740,16 @@
      "status": "prose-ref",
      "note": "Observation (1); the draft's 'God is Spirit' is his condensed rendering — Part E seats John 4:24 properly (next wave); prose untouched.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6025,
+     "cited_as": "The Direct Witness — John 4:24 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat printed under the \"1599 Geneva\" head; the draft quote already equals the modern-spelled 1599 print (eBible==TRB EXACT). Draft Greek head dropped per seat shape — his Greek survives in the observation prose.",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -35716,6 +35764,23 @@
      "text": "God is a Spirite, and they that worship him, must worship him in spirit and trueth.",
      "source": "https://www.textusreceptusbibles.com/Geneva/43/4",
      "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πνεῦμα ὁ Θεός, καὶ τοὺς προσκυνοῦντας ‹αὐτὸν› ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν.",
+     "source": "https://biblehub.com/text/",
+     "result": "1.000 — draft Greek == WH verbatim (‹αὐτὸν› bracket is WH apparatus, not text)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "God is a Spirite, and they that worship him, must worship him in spirit and trueth.",
+     "source": "textusreceptusbibles.com /Geneva/43/4",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πνεῦμα ὁ Θεός, καὶ τοὺς προσκυνοῦντας ‹αὐτὸν› ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν.",
+     "source": "biblehub.com/text/john-4-24 (Nestle/WH)",
+     "result": "WH print recorded (draft Greek blocks dropped this wave, seat shape)"
     }
    }
   },
@@ -35897,6 +35962,16 @@
      "status": "prose-ref",
      "note": "Observation (4) — the draft's inline quote runs 6:15-16 in KJV voice.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6067,
+     "cited_as": "Cross-witness — 1 Timothy 6:15-16 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = the 1599 print modern-spelled over the draft two-verse span (\"the King of Kings and Lord of Lords\" — the draft's extra comma + lowercase \"lords\" corrected to the print). The standing COS-47 KJV-voice flag concerns the Rev 19 observation quote, not this seat.",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -35911,13 +35986,31 @@
      "text": "Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,",
      "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
      "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἣν καιροῖς ἰδίοις δείξει ὁ μακάριος καὶ μόνος Δυνάστης, ὁ Βασιλεὺς τῶν βασιλευόντων καὶ Κύριος τῶν κυριευόντων,",
+     "source": "https://biblehub.com/text/",
+     "result": "0.857 — WH clause \"ἣν καιροῖς ἰδίοις δείξει\" sits before the draft's leading ellipsis; the quoted head is verbatim WH (nominative μακάριος/Δυνάστης both witnesses agree)"
     }
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "Rev 19 observation quotes 1 Tim 6:15-16 in KJV voice ('whom no man hath seen, nor can see'); the 1599 prints 'whom neuer man saw, neither can see'. Propose italic version-name or re-voice — his word.",
+    "detail": "Wave-26 (F)-preview observation quote still KJV-voiced ('whom no man hath seen, nor can see') vs 1599 'whom neuer man saw, neither can see' — italic version-name or re-voice of HIS prose awaits his word. The wave-27 cross-witness SEAT (1599 italic, modern-spelled) is done and verified.",
     "awaiting": "Gideon"
-   }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Which in due time hee shall shewe, that is blessed and Prince onely, the King of Kings and Lord of Lordes,",
+     "source": "textusreceptusbibles.com /Geneva/54/6",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἣν καιροῖς ἰδίοις δείξει ὁ μακάριος καὶ μόνος Δυνάστης, ὁ Βασιλεὺς τῶν βασιλευόντων καὶ Κύριος τῶν κυριευόντων,",
+     "source": "biblehub.com/text/1_timothy-6-15 (Nestle/WH)",
+     "result": "WH print recorded (draft Greek blocks dropped this wave, seat shape)"
+    }
+   },
+   "notes": " | Wave-27: cross-witness SEAT landed (1599 italic). The (F)-preview PROSE quote remains KJV-voiced — flag stays for his word."
   },
   {
    "id": "1TI.6.16",
@@ -35932,6 +36025,16 @@
      "status": "prose-ref",
      "note": "Observation (4) + the face-no-one-sees trio; Part E seats 1 Tim 6:15-16 properly (next wave).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6067,
+     "cited_as": "Cross-witness — 1 Timothy 6:15-16 (seat, verse 16)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat v16 = \"whom never man saw, neither can see\" — the 1599 print (the draft's Part E quote already carried it modern-spelled; \"honour\" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote).",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -35946,13 +36049,31 @@
      "text": "Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.",
      "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
      "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ μόνος ἔχων ἀθανασίαν, φῶς οἰκῶν ἀπρόσιτον, ὃν εἶδεν οὐδεὶς ἀνθρώπων οὐδὲ ἰδεῖν δύναται· ᾧ τιμὴ καὶ κράτος αἰώνιον· ἀμήν.",
+     "source": "https://biblehub.com/text/",
+     "result": "1.000 — draft Greek == WH verbatim incl. ἀμήν"
     }
    },
    "flag": {
     "kind": "needs-authorization",
-    "detail": "Same KJV-voiced quote as 1TI.6.15 — one ruling for both.",
+    "detail": "Wave-26 (F)-preview observation quote still KJV-voiced ('whom no man hath seen, nor can see') vs 1599 'whom neuer man saw, neither can see' — italic version-name or re-voice of HIS prose awaits his word. The wave-27 cross-witness SEAT (1599 italic, modern-spelled) is done and verified.",
     "awaiting": "Gideon"
-   }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.",
+     "source": "textusreceptusbibles.com /Geneva/54/6",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ μόνος ἔχων ἀθανασίαν, φῶς οἰκῶν ἀπρόσιτον, ὃν εἶδεν οὐδεὶς ἀνθρώπων οὐδὲ ἰδεῖν δύναται· ᾧ τιμὴ καὶ κράτος αἰώνιον· ἀμήν.",
+     "source": "biblehub.com/text/1_timothy-6-16 (Nestle/WH)",
+     "result": "WH print recorded (draft Greek blocks dropped this wave, seat shape)"
+    }
+   },
+   "notes": " | Wave-27: cross-witness SEAT landed (1599 italic). The (F)-preview PROSE quote remains KJV-voiced — flag stays for his word."
   },
   {
    "id": "2SA.7.14",
@@ -36076,6 +36197,717 @@
      "text": "And I heard a great voice out of heauen, saying, Behold, the Tabernacle of God is with men, and he will dwell with them: and they shalbe his people, and God himselfe shalbe their God with them.",
      "source": "https://www.textusreceptusbibles.com/Geneva/66/21",
      "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "1TI.1.17",
+   "ref": "1 Timothy 1:17",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6045,
+     "cited_as": "Cross-witness — 1 Timothy 1:17 (seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = the 1599 print modern-spelled; the draft read \"be honor ... forever\" — seat prints the edition (\"be honour\", \"for ever, and ever\"). Draft Greek head dropped per seat shape (his Greek survives in the Observations bullets).",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Nowe vnto the King euerlasting, immortall, inuisible, vnto God onely wise, be honour and glorie, for euer, and euer, Amen.",
+     "source": "https://ebible.org/enggnv/1TI01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Nowe vnto the King euerlasting, immortall, inuisible, vnto God onely wise, be honour and glorie, for euer, and euer, Amen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/1",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τῷ δὲ Βασιλεῖ τῶν αἰώνων, ἀφθάρτῳ ἀοράτῳ μόνῳ Θεῷ, τιμὴ καὶ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+     "source": "https://biblehub.com/text/",
+     "result": "1.000 — draft Greek == WH verbatim"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Nowe vnto the King euerlasting, immortall, inuisible, vnto God onely wise, be honour and glorie, for euer, and euer, Amen.",
+     "source": "textusreceptusbibles.com /Geneva/54/1",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τῷ δὲ Βασιλεῖ τῶν αἰώνων, ἀφθάρτῳ ἀοράτῳ μόνῳ Θεῷ, τιμὴ καὶ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων· ἀμήν.",
+     "source": "biblehub.com/text/1_timothy-1-17 (Nestle/WH)",
+     "result": "WH print recorded (draft Greek blocks dropped this wave, seat shape)"
+    }
+   }
+  },
+  {
+   "id": "NUM.16.22",
+   "ref": "Numbers 16:22",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6096,
+     "cited_as": "OT Foundation — Numbers 16:22 LXX (Korah's rebellion) — NETS seat",
+     "quotes": [],
+     "status": "seat",
+     "note": "Ellipsis seat over the draft's vocative span (leading/trailing ellipses per the draft print). Print-verified (04-num.pdf print) == NETS cache verbatim.",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And they fell upon their face and said, “O God, God of the spirits and of all flesh, if one person sinned, is the anger of the Lord upon all the congregation?”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/04-num-nets.pdf"
+    },
+    "gnv": {
+     "text": "And they fell vpon their faces and saide, O God the God of the spirits, of all fleshe, hath not one man onely sinned, and wilt thou bee wroth with all the Congregation?",
+     "source": "https://ebible.org/enggnv/NUM16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And they fell vpon their faces and saide, O God the God of the spirits, of all fleshe, hath not one man onely sinned, and wilt thou bee wroth with all the Congregation?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/4/16",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "And they fell upon their face and said, “O God, God of the spirits and of all flesh, if one person sinned, is the anger of the Lord upon all the congregation?”",
+     "source": "/Users/yeah-/.hermes/cache/scratch/nets/04-num.pdf print",
+     "result": "EXACT — print==cache verified fresh 2026-11-12"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "And they fell vpon their faces and saide, O God the God of the spirits, of all fleshe, hath not one man onely sinned, and wilt thou bee wroth with all the Congregation?",
+     "source": "textusreceptusbibles.com /Geneva/4/16",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "And they fell upon their face and said, “O God, God of the spirits and of all flesh, if one person sinned, is the anger of the Lord upon all the congregation?”",
+     "source": "Oxford NETS PDF numbers 15–16 p17 print; dump scratch/cos_wave27_num_dump.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "ISA.31.3",
+   "ref": "Isaiah 31:3",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6107,
+     "cited_as": "OT Foundation — Isaiah 31:3 LXX — NETS seat",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat cut at the draft's trailing ellipsis (\"the Lord will turn his hand against them, …\"); the print continues \"and those who help will grow weary, and they will all perish together.\" (print p848).",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "an Egyptian, a man and not God— the flesh of horses, and there is no help. But the Lord will turn his hand against them, and those who help will grow weary, and they will all perish together.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
+    },
+    "gnv": {
+     "text": "Now the Egyptians are men, and not God, and their horses flesh and not spirite: and when the Lord shall stretch out his hand, the helper shall fall, and hee that is holpen shall fall, and they shall altogether faile.",
+     "source": "https://ebible.org/enggnv/ISA31.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now the Egyptians are men, and not God, and their horses flesh and not spirite: and when the Lord shall stretch out his hand, the helper shall fall, and hee that is holpen shall fall, and they shall altogether faile.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/23/31",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "an Egyptian, a man and not God— the flesh of horses, and there is no help. But the Lord will turn his hand against them, and those who help will grow weary, and they will all perish together.",
+     "source": "33-esaias.pdf print pp.847-848",
+     "result": "EXACT — print continuation matches cache fresh 2026-11-12"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Now the Egyptians are men, and not God, and their horses flesh and not spirite: and when the Lord shall stretch out his hand, the helper shall fall, and hee that is holpen shall fall, and they shall altogether faile.",
+     "source": "textusreceptusbibles.com /Geneva/23/31",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_cache_fresh": {
+     "text": "an Egyptian, a man and not God— the flesh of horses, and there is no help. But the Lord will turn his hand against them, and those who help will grow weary, and they will all perish together.",
+     "source": "NETS cache ISA + compose isa313_full print-equality assert",
+     "result": "cache text verified in-line"
+    }
+   }
+  },
+  {
+   "id": "JER.23.23",
+   "ref": "Jeremiah 23:23 (LXX = MT 23:23)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6136,
+     "cited_as": "OT Foundation — Jeremiah 23:23-24 LXX — NETS seat",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = NETS verbatim joined across the two verses (draft quoted the same verses; Greek+Geneva blocks dropped per seat shape). LXX 23:23-24 == MT 23:23-24 (numbering holds before the LXX reorder zone, per the NETS numbering notes).",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "I am a god nearby, says the Lord, and not a god far off.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/34-ieremias-nets.pdf"
+    },
+    "gnv": {
+     "text": "Am I a God at hande, saith the Lord, and not a God farre off?",
+     "source": "https://ebible.org/enggnv/JER23.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Am I a God at hande, saith the Lord, and not a God farre off?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/24/23",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "I am a god nearby, says the Lord, and not a god far off.",
+     "source": "34-ieremias.pdf print p.901",
+     "result": "EXACT — print==seat fresh 2026-11-12"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Am I a God at hande, saith the Lord, and not a God farre off?",
+     "source": "textusreceptusbibles.com /Geneva/24/23",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "I am a god nearby, says the Lord, and not a god far off.",
+     "source": "Oxford NETS PDF jeremias 23–24 p25 print; dump scratch/cos_wave27_jer_p25.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "JER.23.24",
+   "ref": "Jeremiah 23:24 (LXX = MT 23:24)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6136,
+     "cited_as": "OT Foundation — Jeremiah 23:23-24 LXX — NETS seat",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat verse 2; NETS renders \"the sky and the earth\" where the draft's Geneva reads \"heaven and earth\".",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/34-ieremias-nets.pdf"
+    },
+    "gnv": {
+     "text": "Can any hide him selfe in secrete places, that I shall not see him, sayth the Lord? Do not I fill heauen and earth, saieth the Lord?",
+     "source": "https://ebible.org/enggnv/JER23.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Can any hide him selfe in secrete places, that I shall not see him, sayth the Lord? Do not I fill heauen and earth, saieth the Lord?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/24/23",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord.",
+     "source": "34-ieremias.pdf print p.901",
+     "result": "EXACT — print==seat fresh 2026-11-12"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Can any hide him selfe in secrete places, that I shall not see him, sayth the Lord? Do not I fill heauen and earth, saieth the Lord?",
+     "source": "textusreceptusbibles.com /Geneva/24/23",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "If someone shall be hidden in secret places, is it not I that shall also see him? Do I not fill the sky and the earth? says the Lord.",
+     "source": "Oxford NETS PDF jeremias 23–24 p25 print; dump scratch/cos_wave27_jer_p25.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "1KG.8.27",
+   "ref": "1 Kings 8:27 (LXX 3 Kingdoms 8:27)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6151,
+     "cited_as": "OT Foundation — 1 Kings 8:27 LXX (3 Kingdoms 8:27) — Solomon's Prayer (NOT yet seated)",
+     "quotes": [],
+     "status": "seat",
+     "note": "The local NETS 3 Reigns extract (11-3reigns-nets.pdf) covers only the Kaige ch 1-2 region — ch 8 absent — so the draft's Greek + Geneva blocks were carried through UNSEATED; his prose untouched.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Is it true in deede that God will dwell on the earth? beholde, the heauens, and the heauens of heauens are not able to conteine thee: howe much more vnable is this house that I haue built?",
+     "source": "https://ebible.org/enggnv/1KI08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://www.textusreceptusbibles.com/Geneva/11/27",
+     "result": "FETCH-FAILED (HTTP 500 x3, 2026-11-12)"
+    }
+   },
+   "flag": {
+    "kind": "needs-verification",
+    "detail": "NETS seat pending: fetch the full NETS 3 Reigns print (ch 8) to seat 3 Kingdoms 8:27 per the work's OT version; the verse-number map is MT 1 Kings 8:27 = LXX 3 Kingdoms 8:27 (BOTH-MAPS to record on the seat row).",
+    "awaiting": "Gideon"
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Is it true in deede that God will dwell on the earth? beholde, the heauens, and the heauens of heauens are not able to conteine thee: howe much more vnable is this house that I haue built?",
+     "source": "textusreceptusbibles.com /Geneva/11/8",
+     "result": "exact 1599 print (eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "PSA.139.7",
+   "ref": "Psalm 139:7 (LXX 138:7)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6119,
+     "cited_as": "OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "Where should I go from your spirit? And from your face where should I flee?",
+     "source": "24-ps.pdf print p.615 (NETS Psalter running head \"psalms 137(138)–139(140)\")"
+    },
+    "gnv": {
+     "text": "Whither shall I goe from thy Spirite? or whither shall I flee from thy presence?",
+     "source": "https://ebible.org/enggnv/PSA139.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Whither shall I goe from thy Spirite? or whither shall I flee from thy presence?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/19/139",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "Where should I go from your spirit? And from your face where should I flee?",
+     "source": "24-ps.pdf print",
+     "result": "EXACT — dump of pp 74-75 fresh 2026-11-12"
+    }
+   },
+   "flag": {
+    "kind": "numbering-note",
+    "detail": "BOTH-MAPS: NETS/Psalter prints LXX 138:7-10 with MT tags (139.7-139.10); GNV chapters by MT 139:7-10. Row id follows the MT map like the bank's Psalm practice.",
+    "awaiting": "—"
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Whither shall I goe from thy Spirite? or whither shall I flee from thy presence?",
+     "source": "textusreceptusbibles.com /Geneva/19/139",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "Where should I go from your spirit? And from your face where should I flee?",
+     "source": "24-ps.pdf p74 print (psalms 137(138)–139(140) running head); dump scratch/cos_wave27_psa_dump.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "PSA.139.8",
+   "ref": "Psalm 139:8 (LXX 138:8)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6119,
+     "cited_as": "OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "If I ascend to the sky, you are there; if I descend to Hades, you are present.",
+     "source": "24-ps.pdf print p.615 (NETS Psalter running head \"psalms 137(138)–139(140)\")"
+    },
+    "gnv": {
+     "text": "If I ascende into heauen, thou art there: if I lye downe in hell, thou art there.",
+     "source": "https://ebible.org/enggnv/PSA139.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If I ascende into heauen, thou art there: if I lye downe in hell, thou art there.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/19/139",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "If I ascend to the sky, you are there; if I descend to Hades, you are present.",
+     "source": "24-ps.pdf print",
+     "result": "EXACT — dump of pp 74-75 fresh 2026-11-12"
+    }
+   },
+   "flag": {
+    "kind": "numbering-note",
+    "detail": "BOTH-MAPS: NETS/Psalter prints LXX 138:7-10 with MT tags (139.7-139.10); GNV chapters by MT 139:7-10. Row id follows the MT map like the bank's Psalm practice.",
+    "awaiting": "—"
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "If I ascende into heauen, thou art there: if I lye downe in hell, thou art there.",
+     "source": "textusreceptusbibles.com /Geneva/19/139",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "If I ascend to the sky, you are there; if I descend to Hades, you are present.",
+     "source": "24-ps.pdf p74 print; dump scratch/cos_wave27_psa_dump.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "PSA.139.9",
+   "ref": "Psalm 139:9 (LXX 138:9)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6119,
+     "cited_as": "OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "If I were to take up my wings at dawn and make my covert at the farthest limits of the sea,",
+     "source": "24-ps.pdf print p.615 (NETS Psalter running head \"psalms 137(138)–139(140)\")"
+    },
+    "gnv": {
+     "text": "Let mee take the winges of the morning, and dwell in the vttermost parts of the sea:",
+     "source": "https://ebible.org/enggnv/PSA139.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let mee take the winges of the morning, and dwell in the vttermost parts of the sea:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/19/139",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "If I were to take up my wings at dawn and make my covert at the farthest limits of the sea,",
+     "source": "24-ps.pdf print",
+     "result": "EXACT — dump of pp 74-75 fresh 2026-11-12"
+    }
+   },
+   "flag": {
+    "kind": "numbering-note",
+    "detail": "BOTH-MAPS: NETS/Psalter prints LXX 138:7-10 with MT tags (139.7-139.10); GNV chapters by MT 139:7-10. Row id follows the MT map like the bank's Psalm practice.",
+    "awaiting": "—"
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Let mee take the winges of the morning, and dwell in the vttermost parts of the sea:",
+     "source": "textusreceptusbibles.com /Geneva/19/139",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "If I were to take up my wings at dawn and make my covert at the farthest limits of the sea,",
+     "source": "24-ps.pdf p74 print; dump scratch/cos_wave27_psa_dump.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "PSA.139.10",
+   "ref": "Psalm 139:10 (LXX 138:10)",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6119,
+     "cited_as": "OT Foundation — Psalm 138:7-10 LXX (139:7-10 MT) — the Spirit-Presence of the Father (NETS seat)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Seat = NETS verbatim, one blockquote across 138:7-10; the \"covert *(the hiding place)*\" gloss sits at the NETS's own word. Draft LXX-Greek + Geneva blocks dropped per seat shape; his Observations prose untouched.",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "indeed, there your hand shall guide me, and your right hand shall hold me fast.",
+     "source": "24-ps.pdf print p.615 (NETS Psalter running head \"psalms 137(138)–139(140)\")"
+    },
+    "gnv": {
+     "text": "Yet thither shall thine hand leade me, and thy right hand holde me.",
+     "source": "https://ebible.org/enggnv/PSA139.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Yet thither shall thine hand leade me, and thy right hand holde me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/19/139",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    },
+    "net_print": {
+     "text": "indeed, there your hand shall guide me, and your right hand shall hold me fast.",
+     "source": "24-ps.pdf print",
+     "result": "EXACT — dump of pp 74-75 fresh 2026-11-12"
+    }
+   },
+   "flag": {
+    "kind": "numbering-note",
+    "detail": "BOTH-MAPS: NETS/Psalter prints LXX 138:7-10 with MT tags (139.7-139.10); GNV chapters by MT 139:7-10. Row id follows the MT map like the bank's Psalm practice.",
+    "awaiting": "—"
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Yet thither shall thine hand leade me, and thy right hand holde me.",
+     "source": "textusreceptusbibles.com /Geneva/19/139",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_print_fresh": {
+     "text": "indeed, there your hand shall guide me, and your right hand shall hold me fast.",
+     "source": "24-ps.pdf p74 print; dump scratch/cos_wave27_psa_dump.txt",
+     "result": "print==seated NETS text (compose-equality)"
+    }
+   }
+  },
+  {
+   "id": "ISA.66.1",
+   "ref": "Isaiah 66:1",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6171,
+     "cited_as": "Two-Witnesses table — \"God is uncontainable: Isa 66:1\" (mention anchor)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Table mention; NETS banked from the Isaiah cache; GNV fetched fresh (eBible==TRB EXACT 2026-11-12).",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "Thus says the Lord: Heaven is my throne, and the earth is the footstool of my feet; what kind of house will you build for me, or of what kind will be the place of my rest?",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/33-esaias-nets.pdf"
+    },
+    "gnv": {
+     "text": "Thus saith the Lord, The heauen is my throne, and the earth is my footestoole: where is that house that ye will builde vnto me? and where is that place of my rest?",
+     "source": "https://ebible.org/enggnv/ISA66.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Thus saith the Lord, The heauen is my throne, and the earth is my footestoole: where is that house that ye will builde vnto me? and where is that place of my rest?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/23/66",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Thus saith the Lord, The heauen is my throne, and the earth is my footestoole: where is that house that ye will builde vnto me? and where is that place of my rest?",
+     "source": "textusreceptusbibles.com /Geneva/23/66",
+     "result": "exact 1599 print (eBible==TRB)"
+    },
+    "nets_cache_fresh": {
+     "text": "Thus says the Lord: Heaven is my throne, and the earth is the footstool of my feet; what kind of house will you build for me, or of what kind will be the place of my rest?",
+     "source": "NETS cache (Oxford walk, print-repaired lineage)",
+     "result": "cache text verified in-line"
+    }
+   }
+  },
+  {
+   "id": "HEB.12.9",
+   "ref": "Hebrews 12:9",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6173,
+     "cited_as": "Two-Witnesses table — \"God is the Father of spirits\" (mention anchor)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Table mention; GNV eBible==TRB EXACT 2026-11-12.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Moreouer we haue had the fathers of our bodies which corrected vs, and we gaue them reuerence: should we not much rather be in subiection vnto the father of spirites, that we might liue?",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Moreouer we haue had the fathers of our bodies which corrected vs, and we gaue them reuerence: should we not much rather be in subiection vnto the father of spirites, that we might liue?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/12",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Moreouer we haue had the fathers of our bodies which corrected vs, and we gaue them reuerence: should we not much rather be in subiection vnto the father of spirites, that we might liue?",
+     "source": "textusreceptusbibles.com /Geneva/58/12",
+     "result": "exact 1599 print (eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "ROM.1.23",
+   "ref": "Romans 1:23",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6174,
+     "cited_as": "Two-Witnesses table — \"God is immortal/incorruptible\" (mention anchor)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Table mention; TRB returned HTTP 500 x3 — eBible only; second source pending.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For they turned the glorie of the incorruptible God to the similitude of the image of a corruptible man, and of birdes, and foure footed beastes, and of creeping things.",
+     "source": "https://ebible.org/enggnv/ROM01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/23",
+     "result": "FETCH-FAILED (HTTP 500 x3, 2026-11-12)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "For they turned the glorie of the incorruptible God to the similitude of the image of a corruptible man, and of birdes, and foure footed beastes, and of creeping things.",
+     "source": "textusreceptusbibles.com /Geneva/45/1",
+     "result": "exact 1599 print (eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "ACT.7.48",
+   "ref": "Acts 7:48",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6172,
+     "cited_as": "Two-Witnesses table — \"God is uncontainable: Acts 7:48-49\" (mention anchor)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Table mention; GNV eBible==TRB EXACT 2026-11-12.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Howbeit the most High dwelleth not in temples made with handes, as saith the Prophet,",
+     "source": "https://ebible.org/enggnv/ACT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Howbeit the most High dwelleth not in temples made with handes, as saith the Prophet,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Howbeit the most High dwelleth not in temples made with handes, as saith the Prophet,",
+     "source": "textusreceptusbibles.com /Geneva/44/7",
+     "result": "exact 1599 print (eBible==TRB)"
+    }
+   }
+  },
+  {
+   "id": "ACT.7.49",
+   "ref": "Acts 7:49",
+   "uses": [
+    {
+     "section": "COS-53",
+     "section_label": "THE CHRIST OF SCRIPTURE — 57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit",
+     "article_line": 6172,
+     "cited_as": "Two-Witnesses table — \"God is uncontainable: Acts 7:48-49\" (mention anchor)",
+     "quotes": [],
+     "status": "seat",
+     "note": "Table mention; GNV eBible==TRB EXACT 2026-11-12.",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Heauen is my throne, and earth is my footestoole: what house wil ye build for me, saith the Lord? or what place is it that I should rest in?",
+     "source": "https://ebible.org/enggnv/ACT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Heauen is my throne, and earth is my footestoole: what house wil ye build for me, saith the Lord? or what place is it that I should rest in?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/7",
+     "result": "EXACT (normalized per-verse, eBible==TRB)"
+    }
+   },
+   "second_checks": {
+    "trb_fresh": {
+     "text": "Heauen is my throne, and earth is my footestoole: what house wil ye build for me, saith the Lord? or what place is it that I should rest in?",
+     "source": "textusreceptusbibles.com /Geneva/44/7",
+     "result": "exact 1599 print (eBible==TRB)"
     }
    }
   }
