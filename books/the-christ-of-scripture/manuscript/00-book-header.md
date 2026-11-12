@@ -50,3 +50,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)
 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)
 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return
+39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)

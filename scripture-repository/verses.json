@@ -86,7 +86,8 @@
    "COS-31",
    "COS-32",
    "COS-33",
-   "COS-34"
+   "COS-34",
+   "COS-35"
   ],
   "sections": [
    {
@@ -378,6 +379,10 @@
    {
     "key": "COS-34",
     "label": "38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return"
+   },
+   {
+    "key": "COS-35",
+    "label": "39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)"
    }
   ],
   "double_check": {
@@ -11943,6 +11948,17 @@
       "reason": "Maxim 4: OT seats NETS verbatim; LES differences noted where captured."
      },
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (observation (5): “the pattern of Isa 45:23 — unto Me every knee shall bow”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-07",
@@ -13050,6 +13066,17 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (observation (5): Paul applies Isa 45:23 to Jesus in Phil 2:10-11)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-07",
@@ -13100,6 +13127,17 @@
      "status": "anchor",
      "matched_source": "gnv",
      "note": "good-reason exception per the rule of 10 Nov 2026: quoted wording already exact to a Version"
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (observation (5): “to the glory of God the Father”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-07",
@@ -14222,6 +14260,17 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis item 24: he receives all authority from the Father after resurrection; item 25 commissions the worldwide proclamation."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (observation (4): “Matches Matt 28:18 … explicitly received from the Father”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-10",
@@ -14309,6 +14358,17 @@
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4519,
+     "cited_as": "mention-anchor (the double-pillar observation: “Psalm 110:1 — sitting at the right hand of power”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-10",
@@ -23775,6 +23835,17 @@
      ],
      "status": "confirmed",
      "note": "1.9 GNV seat — full verse — The draft's quote omitted the closing \"Even so, Amen.\" (recorded; seat carries the full verse)."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (fulfillment bullet “Rev 1:7”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -24109,6 +24180,17 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64)."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4514,
+     "cited_as": "Daniel 7 section cross-witness seat (B arc) — the wave-15 Geneva confession seat re-presented; Greek verified fresh this wave (whole-span)",
+     "quote_kind": "blockquote",
+     "quotes": [],
+     "status": "confirmed-excerpt",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -24132,6 +24214,12 @@
      "text": "draft Greek = BibleHub /text/ Nestle verse text",
      "source": "https://biblehub.com/text/matthew/26-63.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὁ ho δὲ de Ἰησοῦς Iēsous ἐσιώπα. esiōpa Καὶ kai ὁ ho ἀρχιερεὺς archiereus εἶπεν eipen αὐτῷ autō Ἐξορκίζω Exorkizō σε se κατὰ kata τοῦ tou Θεοῦ Theou τοῦ tou ζῶντος zōntos ἵνα hina ἡμῖν hēmin εἴπῃς eipēs εἰ ei σὺ sy εἶ ei ὁ ho Χριστὸς Christos ὁ ho Υἱὸς Huios τοῦ tou Θεοῦ. Theou ||| Λέγει legei αὐτῷ autō ὁ ho Ἰησοῦς Iēsous Σὺ Sy εἶπας· eipas πλὴν plēn λέγω legō ὑμῖν, hymin ἀπ’ ap’ ἄρτι arti ὄψεσθε opsesthe τὸν ton Υἱὸν Huion τοῦ tou ἀνθρώπου anthrōpou καθήμενον kathēmenon ἐκ ek δεξιῶν dexiōn τῆς tēs δυνάμεως dynameōs καὶ kai ἐρχόμενον erchomenon ἐπὶ epi τῶν tōn νεφελῶν nephelōn τοῦ tou οὐρανοῦ. ouranou",
+     "source": "biblehub.com/text/matthew/26-63.htm + /text/matthew/26-64.htm (Nestle/WH column)",
+     "result": "draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.",
+     "date": "2026-11-11"
     }
    },
    "note": ""
@@ -24163,6 +24251,17 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis items 2-3: the Son of Man of Daniel 7 and \"Christ, the Son of God\" — His own confession."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4514,
+     "cited_as": "Daniel 7 section cross-witness seat (B arc) — the wave-15 Geneva confession seat re-presented; Greek verified fresh this wave (whole-span)",
+     "quote_kind": "blockquote",
+     "quotes": [],
+     "status": "confirmed-excerpt",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -24186,6 +24285,12 @@
      "text": "draft Greek = BibleHub /text/ Nestle verse text",
      "source": "https://biblehub.com/text/matthew/26-64.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὁ ho δὲ de Ἰησοῦς Iēsous ἐσιώπα. esiōpa Καὶ kai ὁ ho ἀρχιερεὺς archiereus εἶπεν eipen αὐτῷ autō Ἐξορκίζω Exorkizō σε se κατὰ kata τοῦ tou Θεοῦ Theou τοῦ tou ζῶντος zōntos ἵνα hina ἡμῖν hēmin εἴπῃς eipēs εἰ ei σὺ sy εἶ ei ὁ ho Χριστὸς Christos ὁ ho Υἱὸς Huios τοῦ tou Θεοῦ. Theou ||| Λέγει legei αὐτῷ autō ὁ ho Ἰησοῦς Iēsous Σὺ Sy εἶπας· eipas πλὴν plēn λέγω legō ὑμῖν, hymin ἀπ’ ap’ ἄρτι arti ὄψεσθε opsesthe τὸν ton Υἱὸν Huion τοῦ tou ἀνθρώπου anthrōpou καθήμενον kathēmenon ἐκ ek δεξιῶν dexiōn τῆς tēs δυνάμεως dynameōs καὶ kai ἐρχόμενον erchomenon ἐπὶ epi τῶν tōn νεφελῶν nephelōn τοῦ tou οὐρανοῦ. ouranou",
+     "source": "biblehub.com/text/matthew/26-63.htm + /text/matthew/26-64.htm (Nestle/WH column)",
+     "result": "draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.",
+     "date": "2026-11-11"
     }
    },
    "note": ""
@@ -24292,6 +24397,17 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4478,
+     "cited_as": "Daniel 7 section seat (B arc) — the wave-15 NETS Old Greek seat re-presented; Theodotion note repeated",
+     "quote_kind": "blockquote",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -24339,6 +24455,17 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4478,
+     "cited_as": "Daniel 7 section seat (B arc) — the wave-15 NETS Old Greek seat re-presented",
+     "quote_kind": "blockquote",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -25921,6 +26048,17 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis item 26-27 recap: the ascension and the promise of return."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (fulfillment bullet “Acts 1:9-11 (a cloud received Him; He shall so come)”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -25977,6 +26115,17 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis item 27 recap: he will return in like manner as he ascended."
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (fulfillment bullet “Acts 1:9-11 (a cloud received Him; He shall so come)”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -27934,6 +28083,17 @@
       "text": "",
       "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
      }
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (observation (1): “the exalted Man Christ Jesus (1 Tim 2:5; Heb 9:24)”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -28100,6 +28260,17 @@
       "text": "For there is one God, and one Mediator between God and man, ",
       "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
      }
+    },
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (observation (1): “the exalted Man Christ Jesus (1 Tim 2:5; Heb 9:24)”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": ""
     }
    ],
    "verified": "2026-11-11",
@@ -29128,6 +29299,140 @@
     }
    },
    "second_check": {}
+  },
+  {
+   "id": "DAN.7.9",
+   "ref": "Dan 7:9",
+   "translations": {
+    "nets_og": {
+     "text": "I kept watching until thrones were set, and an ancient of days sat, having a cloak like snow, and the tuft of hair on his head was like pure wool. The throne was like a flame of fire shooting out,",
+     "source": "NETS Daniel (40-daniel.pdf) Old Greek column, print p1012; cache==print verified 2026-11-11"
+    },
+    "nets_theodotion": {
+     "text": "I kept watching until thrones were set, and an ancient of days sat, and his clothing was white like snow, and the hair of his head was like pure wool; his throne was a flame of fire; its wheels were burning fire.",
+     "source": "NETS Daniel (40-daniel.pdf) Theodotion parallel column, print p1012; cache==print verified 2026-11-11"
+    },
+    "gnv": {
+     "text": "I behelde, till the thrones were set vp, and the Ancient of dayes did sit, whose garment was white as snow, and the heare of his head like the pure wooll: his throne was like the fierie flame, and his wheeles as burning fire.",
+     "source": "eBible.org enggnv DAN07.htm (1599 orthography)"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "I behelde, till the thrones were set vp, and the Ancient of dayes did sit, whose garment was white as snow, and the heare of his head like the pure wooll: his throne was like the fierie flame, and his wheeles as burning fire.",
+     "source": "textusreceptusbibles.com/Geneva/27/7",
+     "result": "eBible=TRB token ratio 1.000 (per-verse)",
+     "date": "2026-11-11"
+    },
+    "nets_print": {
+     "text": "I kept watching until thrones were set, and an ancient of days sat, having a cloak like snow, and the tuft of hair on his head was like pure wool. The throne was like a flame of fire shooting out,",
+     "source": "40-daniel.pdf print p1012 fresh dump (OG left, Theodotion right)",
+     "result": "cache==print for BOTH columns at 7:9-10",
+     "date": "2026-11-11"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4460,
+     "cited_as": "Daniel 7 section seat (B arc) — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; the draft’s LXX+Geneva rows drop per seat shape",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> I kept watching until thrones were set, and an ancient of days sat, having a cloak like snow, and the tuft of hair on his head was like pure wool. The throne was like a flame of fire shooting out, and a stream of fire went out from before him. A thousand thousands were waiting on him, and ten thousand times ten thousand stood attending him. And books were opened, and a court sat in judgment. — **Daniel 7:9-10, NETS (Old Greek)**"
+     ],
+     "status": "confirmed",
+     "matched_source": "",
+     "note": "nets"
+    }
+   ],
+   "verified": "2026-11-11"
+  },
+  {
+   "id": "DAN.7.10",
+   "ref": "Dan 7:10",
+   "translations": {
+    "nets_og": {
+     "text": "and a stream of fire went out from before him. A thousand thousands were waiting on him, and ten thousand times ten thousand stood attending him. And books were opened, and a court sat in judgment.",
+     "source": "NETS Daniel (40-daniel.pdf) Old Greek column, print p1012; cache==print verified 2026-11-11"
+    },
+    "nets_theodotion": {
+     "text": "A stream of fire drew in before him. A thousand thousands were serving him, and ten thousand times ten thousand stood attending him. A court sat in judgment, and books were opened.",
+     "source": "NETS Daniel (40-daniel.pdf) Theodotion parallel column, print p1012; cache==print verified 2026-11-11"
+    },
+    "gnv": {
+     "text": "A fierie streame yssued, and came foorth from before him: thousand thousandes ministred vnto him, and tenne thousand thousands stoode before him: the iudgement was set, and the bookes opened.",
+     "source": "eBible.org enggnv DAN07.htm (1599 orthography)"
+    }
+   },
+   "second_check": {
+    "trb": {
+     "text": "A fierie streame yssued, and came foorth from before him: thousand thousandes ministred vnto him, and tenne thousand thousands stoode before him: the iudgement was set, and the bookes opened.",
+     "source": "textusreceptusbibles.com/Geneva/27/7",
+     "result": "eBible=TRB token ratio 1.000 (per-verse)",
+     "date": "2026-11-11"
+    },
+    "nets_print": {
+     "text": "and a stream of fire went out from before him. A thousand thousands were waiting on him, and ten thousand times ten thousand stood attending him. And books were opened, and a court sat in judgment.",
+     "source": "40-daniel.pdf print p1012 fresh dump (OG left, Theodotion right)",
+     "result": "cache==print for BOTH columns at 7:9-10",
+     "date": "2026-11-11"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4460,
+     "cited_as": "Daniel 7 section seat (B arc) — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; the draft’s LXX+Geneva rows drop per seat shape",
+     "quote_kind": "blockquote",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "",
+     "note": "nets"
+    }
+   ],
+   "verified": "2026-11-11"
+  },
+  {
+   "id": "MAT.24.30",
+   "ref": "Matt 24:30",
+   "translations": {},
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4488,
+     "cited_as": "mention-anchor (the clouds-coming fulfillment bullet: “Matt 24:30; 26:64”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Bullet line of observation (2) of the 7:13-14 observations; 26:64 is seated (COS-24)."
+    }
+   ],
+   "verified": "2026-11-11"
+  },
+  {
+   "id": "REV.20.11-12",
+   "ref": "Rev 20:11-12",
+   "translations": {},
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-35",
+     "section_label": "THE CHRIST OF SCRIPTURE — 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)",
+     "article_line": 4460,
+     "cited_as": "mention-anchor (observation (3): “This corresponds to Revelation 20:11-12 — the great white throne judgment, where books are opened.”)",
+     "quote_kind": null,
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": "",
+     "note": "Observation (3) of the 7:9-10 observations; range anchor, no quote drafted."
+    }
+   ],
+   "verified": "2026-11-11"
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**515 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**519 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**686 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**690 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -3782,14 +3782,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But Iesus helde his peace. Then the chiefe Priest answered, and saide to him, I charge thee sweare vnto vs by the liuing God, to tell vs, If thou be that Christ the Sonne of God, or no.”
 - *Note:* Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64).
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · greek_biblehub_fresh — draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.*
 
 ### Matthew 26:64 — CONFIRMED (EXCERPT)
 *cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
 - **Geneva 1599:** “Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.”
 - *Note:* Segments composed from the Geneva over the draft’s ellipsis span (vv. 63-64); draft difference recorded: draft “that Son of man” vs the Geneva “the Son of man” (v. 64).
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · greek_biblehub_fresh — draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.*
 
 ### Matthew 11:27 — CONFIRMED
 *cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
@@ -4241,7 +4241,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.”
 - *Note:* synthesis items 2-3: the Son of Man of Daniel 7 and "Christ, the Son of God" — His own confession.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · greek_biblehub_fresh — draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.*
 
 ### John 4:25-26 — ANCHOR
 *cited as: synthesis item ref (mention-anchor)*
@@ -4873,6 +4873,117 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
 - *Checked 2026-11-11 · editions fetched: gnv*
+
+## 39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)
+
+### Dan 7:9 — CONFIRMED
+*cited as: Daniel 7 section seat (B arc) — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; the draft’s LXX+Geneva rows drop per seat shape*
+- **Geneva 1599:** “I behelde, till the thrones were set vp, and the Ancient of dayes did sit, whose garment was white as snow, and the heare of his head like the pure wooll: his throne was like the fierie flame, and his wheeles as burning fire.”
+- *Note:* nets
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): trb — eBible=TRB token ratio 1.000 (per-verse) · nets_print — cache==print for BOTH columns at 7:9-10*
+
+### Dan 7:10 — CONFIRMED
+*cited as: Daniel 7 section seat (B arc) — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; the draft’s LXX+Geneva rows drop per seat shape*
+- **Geneva 1599:** “A fierie streame yssued, and came foorth from before him: thousand thousandes ministred vnto him, and tenne thousand thousands stoode before him: the iudgement was set, and the bookes opened.”
+- *Note:* nets
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): trb — eBible=TRB token ratio 1.000 (per-verse) · nets_print — cache==print for BOTH columns at 7:9-10*
+
+### Rev 20:11-12 — ANCHOR
+*cited as: mention-anchor (observation (3): “This corresponds to Revelation 20:11-12 — the great white throne judgment, where books are opened.”)*
+- *Note:* Observation (3) of the 7:9-10 observations; range anchor, no quote drafted.
+- *Checked 2026-11-11 · editions fetched: *
+
+### Daniel 7:13 — CONFIRMED
+*cited as: Daniel 7 section seat (B arc) — the wave-15 NETS Old Greek seat re-presented; Theodotion note repeated*
+- **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Daniel 7:14 — CONFIRMED
+*cited as: Daniel 7 section seat (B arc) — the wave-15 NETS Old Greek seat re-presented*
+- **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
+- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Isaiah 45:23 — ANCHOR
+*cited as: mention-anchor (observation (5): “the pattern of Isa 45:23 — unto Me every knee shall bow”)*
+- **NETS (Septuagint, modern):** “By myself I swear, “Verily righteousness shall go forth from my mouth; my words shall not be turned back, because to me every knee shall bow and every tongue shall acknowledge God,”
+- **Brenton LXX:** “By myself I swear, righteousness shall surely proceed out of my mouth; my words shall not be frustrated; that to me every knee shall bend, and every tongue shall swear by God,”
+- **Geneva 1599:** “I haue sworne by my selfe: the worde is gone out of my mouth in righteousnesse, and shall not returne, That euery knee shall bowe vnto me, and euery tongue shall sweare by me.”
+- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Philippians 2:10 — ANCHOR
+*cited as: mention-anchor (observation (5): Paul applies Isa 45:23 to Jesus in Phil 2:10-11)*
+- **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Philippians 2:11 — ANCHOR
+*cited as: mention-anchor (observation (5): “to the glory of God the Father”)*
+- **Geneva 1599:** “And that euery tongue shoulde confesse that Iesus Christ is the Lord, vnto the glory of God the Father.”
+- *Checked 2026-11-07 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### MAT 28 18 — ANCHOR
+*cited as: mention-anchor (observation (4): “Matches Matt 28:18 … explicitly received from the Father”)*
+- **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
+- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Revelation 1:7 — ANCHOR
+*cited as: mention-anchor (fulfillment bullet “Rev 1:7”)*
+- **Geneva 1599:** “Beholde, he commeth with cloudes, and euery eye shall see him: yea, euen they which pearced him thorowe: and all kinreds of the earth shall waile before him, Euen so, Amen.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Acts 1:9 — ANCHOR
+*cited as: mention-anchor (fulfillment bullet “Acts 1:9-11 (a cloud received Him; He shall so come)”)*
+- **Geneva 1599:** “And when he had spoken these things, while they behelde, he was taken vp: for a cloude tooke him vp out of their sight.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### Acts 1:11 — ANCHOR
+*cited as: mention-anchor (fulfillment bullet “Acts 1:9-11 (a cloud received Him; He shall so come)”)*
+- **Geneva 1599:** “Which also sayde, Yee men of Galile, why stande yee gasing into heauen? This Iesus which is taken vp from you into heauen, shall so come, as yee haue seene him goe into heauen.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+
+### HEB 9 24 — ANCHOR
+*cited as: mention-anchor (observation (1): “the exalted Man Christ Jesus (1 Tim 2:5; Heb 9:24)”)*
+- **Geneva 1599:** “For Christ is not entred into ye holy places that are made with hands, which are similitudes of ye true Sanctuarie: but is entred into very heauen, to appeare now in ye sight of God for vs,”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### 1TI 2 5 — ANCHOR
+*cited as: mention-anchor (observation (1): “the exalted Man Christ Jesus (1 Tim 2:5; Heb 9:24)”)*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### Matt 24:30 — ANCHOR
+*cited as: mention-anchor (the clouds-coming fulfillment bullet: “Matt 24:30; 26:64”)*
+- *Note:* Bullet line of observation (2) of the 7:13-14 observations; 26:64 is seated (COS-24).
+- *Checked 2026-11-11 · editions fetched: *
+
+### Matthew 26:63 — CONFIRMED (EXCERPT)
+*cited as: Daniel 7 section cross-witness seat (B arc) — the wave-15 Geneva confession seat re-presented; Greek verified fresh this wave (whole-span)*
+- **Geneva 1599:** “But Iesus helde his peace. Then the chiefe Priest answered, and saide to him, I charge thee sweare vnto vs by the liuing God, to tell vs, If thou be that Christ the Sonne of God, or no.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · greek_biblehub_fresh — draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.*
+
+### Matthew 26:64 — CONFIRMED (EXCERPT)
+*cited as: Daniel 7 section cross-witness seat (B arc) — the wave-15 Geneva confession seat re-presented; Greek verified fresh this wave (whole-span)*
+- **Geneva 1599:** “Iesus saide to him, Thou hast saide it: neuerthelesse I say vnto you, hereafter shall ye see the Sonne of man, sitting at the right hande of the power of God, and come in the cloudes of the heauen.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · greek_biblehub_fresh — draft Matt 26:63-64 Greek whole-word 39/40 vs the joined pages (1.00) — the single draft-only token ἀπ᾽ is the koronis-bound apostrophe (the page reads ἀπ); the draft’s ellipsis skips the v63 opening Ὁ δὲ Ἰησοῦς ἐσιώπα — recorded, no flag.*
+
+### PS 109 1 — ANCHOR
+*cited as: mention-anchor (the double-pillar observation: “Psalm 110:1 — sitting at the right hand of power”)*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- *Checked 2026-11-10 · editions fetched: nets*
 
 # THE BIBLICAL SABBATH
 
@@ -6818,10 +6929,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 20:7 | SAB9, SAB12, SAB13, RECAP | confirmed, recap cross-reference |
 | 1 Corinthians 16:1 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
 | 1 Corinthians 16:2 | SAB9, SAB13 | pending codex 2nd pass, recap cross-reference |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
 | Genesis 1:4 | SAB10 | confirmed |
 | Genesis 1:5 | SAB10 | confirmed |
@@ -6892,7 +7003,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 45:21 | COS-01 | confirmed |
 | Isaiah 45:22 | COS-01 | confirmed |
 | Isaiah 45:18 | COS-01 | confirmed |
-| Isaiah 45:23 | COS-01 | confirmed |
+| Isaiah 45:23 | COS-01, COS-35 | anchor, confirmed |
 | Isaiah 46:5 | COS-01, COS-13 | confirmed, prose-ref |
 | Isaiah 46:9 | COS-01 | confirmed |
 | Genesis 1:1 | COS-01 | anchor |
@@ -6908,8 +7019,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 1:2 | COS-01, COS-20 | anchor, confirmed |
 | John 1:3 | COS-01, COS-20 | anchor, confirmed |
 | Colossians 1:16 | COS-01, COS-05, COS-17 | anchor, confirmed |
-| Philippians 2:10 | COS-01 | anchor |
-| Philippians 2:11 | COS-01, COS-25 | anchor |
+| Philippians 2:10 | COS-01, COS-35 | anchor |
+| Philippians 2:11 | COS-01, COS-25, COS-35 | anchor |
 | Genesis 3:15 | COS-01, COS-19 | anchor, confirmed |
 | Isaiah 7:14 | COS-01, COS-19, COS-23 | confirmed, confirmed (excerpt) |
 | Galatians 4:4 | COS-01, COS-19 | confirmed, confirmed (excerpt) |
@@ -6929,8 +7040,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 2 36 | COS-03, COS-16, COS-19 | anchor, confirmed, confirmed (excerpt) |
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03, COS-19 | confirmed, confirmed (excerpt) |
-| MAT 28 18 | COS-03, COS-27, COS-28 | anchor, confirmed |
-| PS 109 1 | COS-04, COS-16, COS-28, COS-34 | anchor, confirmed |
+| MAT 28 18 | COS-03, COS-27, COS-28, COS-35 | anchor, confirmed |
+| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35 | anchor, confirmed |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04, COS-29 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
@@ -7178,7 +7289,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 19:35 | COS-23 | anchor |
 | John 19:36 | COS-23 | confirmed |
 | John 19:37 | COS-23 | differs (minor) |
-| Revelation 1:7 | COS-23 | confirmed |
+| Revelation 1:7 | COS-23, COS-35 | anchor, confirmed |
 | John 10:7 | COS-24 | confirmed |
 | John 10:14 | COS-24 | confirmed |
 | John 15:5 | COS-24 | confirmed |
@@ -7186,12 +7297,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 13:19 | COS-24 | confirmed |
 | John 18:5 | COS-24 | confirmed (excerpt) |
 | John 18:6 | COS-24 | confirmed (excerpt) |
-| Matthew 26:63 | COS-24 | confirmed (excerpt) |
-| Matthew 26:64 | COS-24, COS-28 | anchor, confirmed (excerpt) |
+| Matthew 26:63 | COS-24, COS-35 | confirmed (excerpt) |
+| Matthew 26:64 | COS-24, COS-28, COS-35 | anchor, confirmed (excerpt) |
 | Matthew 11:27 | COS-24 | confirmed |
 | Mark 13:32 | COS-24 | confirmed |
-| Daniel 7:13 | COS-24 | confirmed |
-| Daniel 7:14 | COS-24 | confirmed |
+| Daniel 7:13 | COS-24, COS-35 | confirmed |
+| Daniel 7:14 | COS-24, COS-35 | confirmed |
 | Isaiah 41:4 | COS-24 | anchor |
 | Isaiah 43:10 | COS-24 | anchor |
 | Isaiah 43:13 | COS-24 | anchor |
@@ -7235,8 +7346,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 8:29 | COS-26 | confirmed |
 | Matthew 28:19 | COS-27 | confirmed |
 | Matthew 28:20 | COS-27 | confirmed |
-| Acts 1:9 | COS-27, COS-28 | anchor, confirmed |
-| Acts 1:11 | COS-27, COS-28 | anchor, confirmed |
+| Acts 1:9 | COS-27, COS-28, COS-35 | anchor, confirmed |
+| Acts 1:11 | COS-27, COS-28, COS-35 | anchor, confirmed |
 | John 20:11-18 | COS-27 | anchor |
 | Luke 24:36-43 | COS-27 | anchor |
 | John 20:19-29 | COS-27, COS-34 | anchor, confirmed |
@@ -7291,11 +7402,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 9 13 | COS-32 | confirmed |
 | HEB 9 14 | COS-32 | confirmed |
 | HEB 9 15 | COS-32 | confirmed |
-| HEB 9 24 | COS-32 | confirmed |
+| HEB 9 24 | COS-32, COS-35 | anchor, confirmed |
 | HEB 9 25 | COS-32 | confirmed |
 | HEB 9 26 | COS-32 | confirmed |
 | HEB 9 27 | COS-32 | confirmed |
-| 1TI 2 5 | COS-32 | confirmed |
+| 1TI 2 5 | COS-32, COS-35 | anchor, confirmed |
 | HEB 10 1 | COS-33 | confirmed |
 | HEB 10 2 | COS-33 | confirmed |
 | HEB 10 3 | COS-33 | confirmed |
@@ -7321,6 +7432,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | REV 5 6 | COS-34 | confirmed |
 | HEB 12 24 | COS-34 | confirmed |
 | MAR 13 32 | COS-34 | confirmed |
+| Dan 7:9 | COS-35 | confirmed |
+| Dan 7:10 | COS-35 | confirmed |
+| Matt 24:30 | COS-35 | anchor |
+| Rev 20:11-12 | COS-35 | anchor |
 
 ## The editions used
 
