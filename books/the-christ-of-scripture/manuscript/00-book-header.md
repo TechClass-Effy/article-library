@@ -88,3 +88,4 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 
 
 55. (E) The Acts 2:33 Examination — The Exalted Son Receives and Pours Forth the Promise of the Spirit (Acts 2:32-36 Geneva span seat; John 15:26 seat; Joel 2:28-29 NETS seat; John 7:37-39 re-presented; Ephesians 4:7-10 seat; cross-witness fragments Luke 24:49 / Acts 1:4 / Gal 3:14 / Eph 1:13; Psalm 67(68):18; 1 Corinthians 12:11 note; the pattern table banked; what is established; what this preserves; the beauty of Acts 2:33; READY FOR PART F)
+56. The Shift in the Spirit’s Operation — From “Upon” to “Within” (Part F groundwork: the OT “upon” pattern; the promised “within” pattern; the two economies; sealing and irrevocability)
