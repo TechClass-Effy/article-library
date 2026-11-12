@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**889 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**930 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1060 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1101 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4521,8 +4521,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.”
 - **Ruling — apply Geneva 1599 exact:** “Who shall condemne? it is Christ which is dead, yea, or rath”
   (Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal)
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub — WH Greek fetched*
 
 ## 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)
 
@@ -9292,8 +9292,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### ROM 8 34 — PROSE-REF
 *cited as: mention (with Heb 7:25)*
 - **Geneva 1599:** “Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub — WH Greek fetched*
 
 ### John 17:21 — PROSE-REF
 *cited as: seat — punctuation seat-restored per print ("in thee:" colon; "believe that" run-on)*
@@ -10102,7 +10102,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva seat (Point 12 — Sharers in His Sufferings and Glory)*
 - **Geneva 1599:** “But reioyce, in asmuch as ye are partakers of Christs suffrings, that when his glory shall appeare, ye may be glad and reioyce.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### Colossians 3:4 — CONFIRMED
 *cited as: Geneva seat (Point 13 — Appearing with Him in Glory; draft exact-modern)*
@@ -10269,6 +10269,292 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But let none of you suffer as a murtherer, or as a thiefe, or an euil doer, or as a busibodie in other mens matters.”
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 2 Corinthians 4:8 — CONFIRMED
+*cited as: 2 Corinthians 4:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Wee are afflicted on euery side, yet are we not in distresse: we are in doubt, but yet wee despaire not.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 4:9 — CONFIRMED
+*cited as: 2 Corinthians 4:9 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “We are persecuted, but not forsaken: cast downe, but we perish not.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 4:10 — CONFIRMED
+*cited as: 2 Corinthians 4:10 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Euery where we beare about in our bodie the dying of the Lord Iesus, that the life of Iesus might also be made manifest in our bodies.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 4:11 — CONFIRMED
+*cited as: 2 Corinthians 4:11 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For we which liue, are alwaies deliuered vnto death for Iesus sake, that the life also of Iesus might be made manifest in our mortal flesh.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:36 — CONFIRMED
+*cited as: Romans 8:36 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “As it is written, For thy sake are we killed all day long: we are counted as sheepe for the slaughter.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Psalm 43:23 (MT 44:22) — ANCHOR
+*cited as: Romans 8:36 citation head 'Psalm 43:23 LXX (Ps 44:22)' — NETS text banked*
+- **NETS (Septuagint, modern):** “because for your sake we are being put to death all day long, we were accounted as sheep for slaughter.”
+- *Note:* BOTH-MAPS: NETS/LXX numbering counts one verse higher within this psalm — NETS 43:23 = MT 44:22 (print dual mark 23(22), 24-ps.pdf head "psalms 43(44)–44(45)"); the draft's citation label verified CORRECT
+- *Checked 2026-11-12 · editions fetched: nets*
+- *Double-checked (second source): nets_print_dump ✓*
+
+### Romans 8:18 — CONFIRMED
+*cited as: Romans 8:18 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For I count that the afflictions of this present time are not worthy of the glory, which shalbe shewed vnto vs.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:19 — CONFIRMED
+*cited as: Romans 8:19 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For the feruent desire of the creature waiteth when the sonnes of God shalbe reueiled,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:22 — CONFIRMED
+*cited as: Romans 8:22 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For we knowe that euery creature groneth with vs also, and trauaileth in paine together vnto this present.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:23 — CONFIRMED
+*cited as: Romans 8:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “And not onely the creature, but we also which haue the first fruites of the Spirit, euen we doe sigh in our selues, waiting for the adoption, euen the redemption of our body.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 11:28 — CONFIRMED
+*cited as: 2 Corinthians 11:28 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Beside the thinges which are outwarde, I am combred dayly, and haue the care of all the Churches.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 11:29 — CONFIRMED
+*cited as: 2 Corinthians 11:29 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Who is weake, and I am not weake? who is offended, and I burne not?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Colossians 1:24 — CONFIRMED
+*cited as: Colossians 1:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Now reioyce I in my suffrings for you, and fulfill the rest of the afflictions of Christ in my flesh, for his bodies sake, which is the Church,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Matthew 16:24 — CONFIRMED
+*cited as: Matthew 16:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Iesus then saide to his disciples, If any man will follow me, let him forsake himselfe: and take vp his crosse, and follow me.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Matthew 16:25 — CONFIRMED
+*cited as: Matthew 16:25 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For whosoeuer will saue his life, shall lose it: and whosoeuer shall lose his life for my sake, shall finde it.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Luke 9:23 — CONFIRMED
+*cited as: Luke 9:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “And he sayd to them all, If any man will come after me, let him denie himselfe, and take vp his crosse dayly, and follow me.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 11:24 — CONFIRMED
+*cited as: Hebrews 11:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “By faith Moses when he was come to age, refused to be called the sonne of Pharaohs daughter,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 11:25 — CONFIRMED
+*cited as: Hebrews 11:25 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “And chose rather to suffer aduersitie with the people of God, then to enioy the pleasures of sinnes for a season,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 11:26 — CONFIRMED
+*cited as: Hebrews 11:26 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Esteeming the rebuke of Christ greater riches then the treasures of Egypt: for he had respect vnto the recompence of the reward.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Philippians 3:7 — CONFIRMED
+*cited as: Philippians 3:7 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “But the thinges that were vantage vnto me, the same I counted losse for Christes sake.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Philippians 3:8 — CONFIRMED
+*cited as: Philippians 3:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Yea, doubtlesse I thinke all thinges but losse for the excellent knowledge sake of Christ Iesus my Lord, for whome I haue counted all things losse, and doe iudge them to bee dongue, that I might winne Christ,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 12:5 — CONFIRMED
+*cited as: Hebrews 12:5 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “And ye haue forgotten the consolation, which speaketh vnto you as vnto children, My sonne, despise not the chastening of the Lord, neither faint when thou art rebuked of him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 12:6 — CONFIRMED
+*cited as: Hebrews 12:6 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For whom the Lord loueth, he chasteneth: and he scourgeth euery sonne that he receiueth:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 12:7 — CONFIRMED
+*cited as: Hebrews 12:7 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “If ye endure chastening, God offereth him selfe vnto you as vnto sonnes: for what sonne is it whom the father chasteneth not?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 12:8 — CONFIRMED
+*cited as: Hebrews 12:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “If therefore ye be without correction, whereof al are partakers, then are ye bastards, and not sonnes.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 12:11 — CONFIRMED
+*cited as: Hebrews 12:11 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Now no chastising for the present seemeth to be ioyous, but, grieuous: but afterwarde, it bringeth the quiet fruite of righteousnesse, vnto them which are thereby exercised.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 5:8 — ANCHOR
+*cited as: Hebrews 5:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- *Note:* "perfected through what He suffered" mention (Category 8 obs (3))
+- *Checked 2026-11-12 · editions fetched: *
+
+### Hebrews 13:3 — ANCHOR
+*cited as: prose quote "remember those in bonds as bound with them"*
+- **Geneva 1599:** “For this man is counted worthy of more glory then Moses, inasmuch as he which hath builded the house, hath more honour then the house.”
+- *Note:* modern-believer §1 prose quote — voice check: 1599 print wording recorded on the row
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — DIFFERS — see diff_notes*
+
+### Romans 8:28 — ANCHOR
+*cited as: Romans 8:28 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Also we knowe that all thinges worke together for the best vnto them that loue God, euen to them that are called of his purpose.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Colossians 3:5 — ANCHOR
+*cited as: Colossians 3:5 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- *Note:* mortification mention (modern-believer §3)
+- *Checked 2026-11-12 · editions fetched: *
+
+### Matthew 10:34-37 — ANCHOR
+*cited as: Matthew 10:34-37 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- *Note:* family-division mention (modern-believer §2)
+- *Checked 2026-11-12 · editions fetched: *
+
+### Romans 12:15 — ANCHOR
+*cited as: Romans 12:15 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- *Note:* "weeping with those who weep" mention (modern-believer §5)
+- *Checked 2026-11-12 · editions fetched: *
+
+### Romans 8:29 — ANCHOR
+*cited as: prose use*
+- **Geneva 1599:** “For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.”
+- *Note:* modern-believer §4 mention (canon 9838)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 2:20 — ANCHOR
+*cited as: prose use*
+- **Geneva 1599:** “Wherefore if ye be dead with Christ from the ordinances of the world, why, as though ye liued in ye world, are ye burdened with traditions?”
+- *Note:* What-Is-Not "Paul rebukes this in Col 2:20-23" (canon 9881)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 2:23 — ANCHOR
+*cited as: Colossians 2:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- *Note:* self-imposed asceticism mention (What-Is-Not)
+- *Checked 2026-11-12 · editions fetched: *
+
+### 2 Corinthians 4:17 — CONFIRMED
+*cited as: 2 Corinthians 4:17 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For our light affliction which is but for a moment, causeth vnto vs a farre most excellent and an eternall waight of glorie:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Philippians 1:29 — CONFIRMED
+*cited as: Philippians 1:29 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “For vnto you it is giuen for Christ, that not onely ye should beleeue in him, but also suffer for his sake,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 1 Peter 4:13 — CONFIRMED
+*cited as: 1 Peter 4:13 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “But reioyce, in asmuch as ye are partakers of Christs suffrings, that when his glory shall appeare, ye may be glad and reioyce.”
+- *Note:* wave-41 span seat; gnv pre-banked
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 1 Peter 4:12 — CONFIRMED
+*cited as: 1 Peter 4:12 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Dearely beloued, thinke it not strange concerning the firie triall, which is among you to proue you, as though some strange thing were come vnto you:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:31 — ANCHOR
+*cited as: Romans 8:31 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “What shall we then say to these thinges? If God be on our side, who can be against vs?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:30 — ANCHOR
+*cited as: prose use*
+- **Geneva 1599:** “Moreouer whom he predestinate, them also he called, and whom he called, them also he iustified, and whom he iustified, them he also glorified.”
+- *Note:* Final Observation "foreknew, predestined, called, justified, glorified" (canon 9936)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:33 — ANCHOR
+*cited as: Romans 8:33 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Who shall lay any thing to the charge of Gods chosen? it is God that iustifieth,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### ROM 8 34 — ANCHOR
+*cited as: ROM 8 34 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub — WH Greek fetched*
+
+### Romans 8:35 — ANCHOR
+*cited as: Romans 8:35 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Who shall separate vs from the loue of Christ? shall tribulation or anguish, or persecution, or famine, or nakednesse, or perill, or sworde?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Corinthians 3:18 — ANCHOR
+*cited as: prose use*
+- **Geneva 1599:** “But we al behold as in a mirrour the glory of the Lord with open face, and are changed into the same image, from glorie to glorie, as by the Spirit of the Lord.”
+- *Note:* Final Observation "the unveiled face of the Father" (canon 9944)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Hebrews 12:2 — ANCHOR
+*cited as: Hebrews 12:2 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “Looking vnto Iesus the authour and finisher of our faith, who for the ioy that was set before him, endured the crosse, and despised the shame, and is set at the right hand of the throne of God.”
+- *Note:* Final Observation "looking unto Jesus" (canon 9945)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 1:4 — ANCHOR
+*cited as: 1 Peter 1:4 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)*
+- **Geneva 1599:** “To an inheritance immortall and vndefiled, and that withereth not, reserued in heauen for vs,”
+- *Note:* row did not pre-exist — created wave 41 (report listed it as use-upsert, bank check showed no row) | Final Observation "inheritance reserved in heaven that cannot fade away" (canon 9945)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -12120,7 +12406,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
 | 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
-| 2 Corinthians 3:18 | COS-62, COS-66 | confirmed, prose-ref |
+| 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
 | 2 Corinthians 6:16 | COS-52, COS-60, COS-62 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
@@ -13028,10 +13314,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
 | Romans 8:17 | COS-62, COS-66, COS-67 | confirmed, prose-ref |
-| Romans 8:29 | COS-63, COS-66 | confirmed, prose-ref |
-| Romans 8:30 | COS-62 | prose-ref |
+| Romans 8:29 | COS-63, COS-66, COS-68 | anchor, confirmed, prose-ref |
+| Romans 8:30 | COS-62, COS-68 | anchor, prose-ref |
 | Romans 8:32 | COS-22, COS-42 | confirmed, confirmed (excerpt) |
-| ROM 8 34 | COS-30, COS-62 | confirmed, prose-ref |
+| ROM 8 34 | COS-30, COS-62, COS-68 | anchor, confirmed, prose-ref |
 | Romans 8:9 | COS-55, COS-59, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | Romans 9:21 | SAB7 | anchor |
 | Revelation 1:10 | SAB12, RECAP | confirmed, recap cross-reference |
@@ -13065,7 +13351,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Zechariah 9:9 LXX (9:9 MT) | COS-23 | confirmed |
 | Romans 6:8 | COS-66 | confirmed, prose-ref |
 | 2 Timothy 2:11 | COS-66 | confirmed, prose-ref |
-| Colossians 2:20 | COS-66 | confirmed |
+| Colossians 2:20 | COS-66, COS-68 | anchor, confirmed |
 | Colossians 2:12 | COS-66 | confirmed, prose-ref |
 | Ephesians 2:5 | COS-66 | confirmed, prose-ref |
 | Ephesians 2:6 | COS-66 | confirmed, prose-ref |
@@ -13092,7 +13378,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 2:24 | COS-66 | prose-ref |
 | Philippians 3:10 | COS-66 | confirmed, prose-ref |
 | Philippians 3:11 | COS-66 | confirmed, prose-ref |
-| 1 Peter 4:13 | COS-66 | confirmed |
+| 1 Peter 4:13 | COS-66, COS-68 | confirmed |
 | Revelation 20:6 | COS-66 | confirmed |
 | Ephesians 1:5 | COS-66 | prose-ref |
 | Ephesians 1:11 | COS-66 | prose-ref |
@@ -13100,7 +13386,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 2:13 | COS-66 | prose-ref |
 | Colossians 1:14 | COS-66 | prose-ref |
 | Matthew 5:10 | COS-68 | confirmed |
-| Matthew 5:11 | COS-68 | confirmed |
+| Matthew 5:11 | COS-68 | anchor, confirmed |
 | Matthew 5:12 | COS-68 | confirmed |
 | John 15:18 | COS-68 | confirmed |
 | John 15:19 | COS-68 | confirmed |
@@ -13109,8 +13395,49 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 15:21 | COS-68 | confirmed |
 | Acts 5:41 | COS-68 | confirmed |
 | 1 Peter 4:14 | COS-68 | confirmed |
-| 1 Peter 4:16 | COS-68 | confirmed |
-| 1 Peter 4:15 | COS-68 | prose-ref |
+| 1 Peter 4:16 | COS-68 | anchor, confirmed |
+| 1 Peter 4:15 | COS-68 | anchor, prose-ref |
+| 2 Corinthians 4:8 | COS-68 | confirmed |
+| 2 Corinthians 4:9 | COS-68 | confirmed |
+| 2 Corinthians 4:10 | COS-68 | confirmed |
+| 2 Corinthians 4:11 | COS-68 | confirmed |
+| Romans 8:36 | COS-68 | confirmed |
+| Romans 8:18 | COS-68 | confirmed |
+| Romans 8:19 | COS-68 | confirmed |
+| Romans 8:22 | COS-68 | confirmed |
+| Romans 8:23 | COS-68 | confirmed |
+| 2 Corinthians 11:28 | COS-68 | confirmed |
+| 2 Corinthians 11:29 | COS-68 | confirmed |
+| Colossians 1:24 | COS-68 | confirmed |
+| Matthew 16:24 | COS-68 | confirmed |
+| Matthew 16:25 | COS-68 | confirmed |
+| Luke 9:23 | COS-68 | confirmed |
+| Hebrews 11:24 | COS-68 | anchor, confirmed |
+| Hebrews 11:25 | COS-68 | anchor, confirmed |
+| Hebrews 11:26 | COS-68 | anchor, confirmed |
+| Philippians 3:7 | COS-68 | confirmed |
+| Philippians 3:8 | COS-68 | confirmed |
+| Hebrews 12:5 | COS-68 | confirmed |
+| Hebrews 12:6 | COS-68 | confirmed |
+| Hebrews 12:7 | COS-68 | confirmed |
+| Hebrews 12:8 | COS-68 | confirmed |
+| Hebrews 12:11 | COS-68 | confirmed |
+| 2 Corinthians 4:17 | COS-68 | confirmed |
+| Philippians 1:29 | COS-68 | confirmed |
+| 1 Peter 4:12 | COS-68 | confirmed |
+| Psalm 43:23 (MT 44:22) | COS-68 | anchor |
+| Romans 8:28 | COS-68 | anchor |
+| Romans 8:31 | COS-68 | anchor |
+| Romans 8:33 | COS-68 | anchor |
+| Romans 8:35 | COS-68 | anchor |
+| Hebrews 12:2 | COS-68 | anchor |
+| Hebrews 13:3 | COS-68 | anchor |
+| 1 Peter 1:4 | COS-68 | anchor |
+| Romans 12:15 | COS-68 | anchor |
+| Colossians 3:5 | COS-68 | anchor |
+| Colossians 2:23 | COS-68 | anchor |
+| Matthew 10:34-37 | COS-68 | anchor |
+| Hebrews 5:8 | COS-68 | anchor |
 
 ## The editions used
 

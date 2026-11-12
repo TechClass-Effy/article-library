@@ -608,9 +608,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 84098,
+  "so_far_words": 88029,
   "cos_sofar": {
-   "waves": 40
+   "waves": 41
   },
   "glossary": 887
  },
@@ -3875,6 +3875,16 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": ""
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9944,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Final Observation \"the unveiled face of the Father\" (canon 9944)",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -44041,6 +44051,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9838,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "modern-believer §4 mention (canon 9838)",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -44077,6 +44097,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9936,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Final Observation \"foreknew, predestined, called, justified, glorified\" (canon 9936)",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -44168,9 +44198,19 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9937,
+     "cited_as": "ROM 8 34 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.",
@@ -44179,9 +44219,9 @@
    },
    "second_check": {
     "trb_fresh": {
-     "text": "",
-     "source": "https://textusreceptusbibles.com/Geneva/45/8",
-     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+     "text": "Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/34",
+     "result": "agree (eBible==TRB token 1.000) — repaired wave 41 (prior sub-entry was empty/0.0)"
     },
     "greek_biblehub": {
      "text": "τίς tis",
@@ -45628,6 +45668,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9881,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "What-Is-Not \"Paul rebukes this in Col 2:20-23\" (canon 9881)",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -46771,6 +46821,16 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": ""
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9919,
+     "cited_as": "1 Peter 4:13 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "wave-41 span seat; gnv pre-banked",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -46785,6 +46845,11 @@
      "text": "But reioyce, in asmuch as ye are partakers of Christs suffrings, that when his glory shall appeare, ye may be glad and reioyce.",
      "source": "https://textusreceptusbibles.com/Geneva/60/4",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀγαπητοί, μὴ ξενίζεσθε τῇ ἐν ὑμῖν πυρώσει πρὸς πειρασμὸν ὑμῖν γινομένῃ, ὡς ξένου ὑμῖν συμβαίνοντος, ἀλλὰ καθὸ κοινωνεῖτε τοῖς τοῦ χριστοῦ παθήμασιν, χαίρετε, ἵνα καὶ ἐν τῇ ἀποκαλύψει τῆς δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι.",
+     "source": "https://biblehub.com/text/1_peter/4-12.htm; https://biblehub.com/text/1_peter/4-13.htm",
+     "result": "agree (0.931 — span-checked across 1 Peter 4:12-13)"
     }
    },
    "note": "1599 \"reioyce/suffrings/Christes\" modern-folded (rejoice, sufferings, Christ’s) — orthographic class"
@@ -47081,6 +47146,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9760,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "modern-believer §2 \"Reviling and slander (Matt 5:11)\" heading (canon 9760)",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -47405,6 +47480,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9859,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "What-Is-Not Peter's-distinction quote re-presentation (canon 9859) — quote reorders v16 before the print's v15",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -47441,6 +47526,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9859,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "What-Is-Not Peter's-distinction quote re-presentation (canon 9859) — quote reorders v16 before the print's v15",
+     "quote_kind": "use"
     }
    ],
    "verified": "2026-11-12",
@@ -47457,6 +47552,1402 @@
      "result": "exact per-verse (eBible==TRB 1.000)"
     }
    },
+   "diff_notes": ""
+  },
+  {
+   "id": "2CO.4.8",
+   "ref": "2 Corinthians 4:8",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9540,
+     "cited_as": "2 Corinthians 4:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wee are afflicted on euery side, yet are we not in distresse: we are in doubt, but yet wee despaire not.",
+     "source": "https://ebible.org/enggnv/2CO04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wee are afflicted on euery side, yet are we not in distresse: we are in doubt, but yet wee despaire not.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐν παντὶ θλιβόμενοι ἀλλ’ οὐ στενοχωρούμενοι, ἀπορούμενοι ἀλλ’ οὐκ ἐξαπορούμενοι, διωκόμενοι ἀλλ’ οὐκ ἐγκαταλειπόμενοι, καταβαλλόμενοι ἀλλ’ οὐκ ἀπολλύμενοι, πάντοτε τὴν νέκρωσιν τοῦ κυρίου Ἰησοῦ ἐν τῷ σώματι περιφέροντες, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ ἐν τῷ σώματι ἡμῶν φανερωθῇ. ἀεὶ γὰρ ἡμεῖς οἱ ζῶντες εἰς θάνατον παραδιδόμεθα διὰ Ἰησοῦν, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ φανερωθῇ ἐν τῇ θνητῇ σαρκὶ ἡμῶν.",
+     "source": "https://biblehub.com/text/2_corinthians/4-8.htm; https://biblehub.com/text/2_corinthians/4-9.htm; https://biblehub.com/text/2_corinthians/4-10.htm; https://biblehub.com/text/2_corinthians/4-11.htm",
+     "result": "agree (0.930 — span-checked across 2 Cor 4:8-11 (runs >=4 words joined; comma-artifact class))"
+    }
+   },
+   "diff_notes": "print folds only (distresse→distress, despaire→despair)"
+  },
+  {
+   "id": "2CO.4.9",
+   "ref": "2 Corinthians 4:9",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9540,
+     "cited_as": "2 Corinthians 4:9 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "We are persecuted, but not forsaken: cast downe, but we perish not.",
+     "source": "https://ebible.org/enggnv/2CO04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "We are persecuted, but not forsaken: cast downe, but we perish not.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/9",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐν παντὶ θλιβόμενοι ἀλλ’ οὐ στενοχωρούμενοι, ἀπορούμενοι ἀλλ’ οὐκ ἐξαπορούμενοι, διωκόμενοι ἀλλ’ οὐκ ἐγκαταλειπόμενοι, καταβαλλόμενοι ἀλλ’ οὐκ ἀπολλύμενοι, πάντοτε τὴν νέκρωσιν τοῦ κυρίου Ἰησοῦ ἐν τῷ σώματι περιφέροντες, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ ἐν τῷ σώματι ἡμῶν φανερωθῇ. ἀεὶ γὰρ ἡμεῖς οἱ ζῶντες εἰς θάνατον παραδιδόμεθα διὰ Ἰησοῦν, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ φανερωθῇ ἐν τῇ θνητῇ σαρκὶ ἡμῶν.",
+     "source": "https://biblehub.com/text/2_corinthians/4-8.htm; https://biblehub.com/text/2_corinthians/4-9.htm; https://biblehub.com/text/2_corinthians/4-10.htm; https://biblehub.com/text/2_corinthians/4-11.htm",
+     "result": "agree (0.930 — span-checked across 2 Cor 4:8-11 (runs >=4 words joined; comma-artifact class))"
+    }
+   },
+   "diff_notes": "print folds only (downe→down)"
+  },
+  {
+   "id": "2CO.4.10",
+   "ref": "2 Corinthians 4:10",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9540,
+     "cited_as": "2 Corinthians 4:10 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Euery where we beare about in our bodie the dying of the Lord Iesus, that the life of Iesus might also be made manifest in our bodies.",
+     "source": "https://ebible.org/enggnv/2CO04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Euery where we beare about in our bodie the dying of the Lord Iesus, that the life of Iesus might also be made manifest in our bodies.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/10",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐν παντὶ θλιβόμενοι ἀλλ’ οὐ στενοχωρούμενοι, ἀπορούμενοι ἀλλ’ οὐκ ἐξαπορούμενοι, διωκόμενοι ἀλλ’ οὐκ ἐγκαταλειπόμενοι, καταβαλλόμενοι ἀλλ’ οὐκ ἀπολλύμενοι, πάντοτε τὴν νέκρωσιν τοῦ κυρίου Ἰησοῦ ἐν τῷ σώματι περιφέροντες, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ ἐν τῷ σώματι ἡμῶν φανερωθῇ. ἀεὶ γὰρ ἡμεῖς οἱ ζῶντες εἰς θάνατον παραδιδόμεθα διὰ Ἰησοῦν, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ φανερωθῇ ἐν τῇ θνητῇ σαρκὶ ἡμῶν.",
+     "source": "https://biblehub.com/text/2_corinthians/4-8.htm; https://biblehub.com/text/2_corinthians/4-9.htm; https://biblehub.com/text/2_corinthians/4-10.htm; https://biblehub.com/text/2_corinthians/4-11.htm",
+     "result": "agree (0.930 — span-checked across 2 Cor 4:8-11 (runs >=4 words joined; comma-artifact class))"
+    }
+   },
+   "diff_notes": "SPLICE: draft clause 'the life also of Jesus might be made manifest in our body' is KJV-voiced — 1599 prints 'the life of Iesus might also be made manifest in our bodies'; seat restores the print (word-order + bodies prose) | prose echo in modern-believer §3 (canon 9753 'always bearing about in the body the dying of the Lord Jesus') is KJV-voiced — attribution-class flag on this row",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "modern-believer §3 prose echo (canon 9753) 'always bearing about in the body the dying of the Lord Jesus' is KJV-voiced; 1599 prints 'we bear about in our body the dying of the Lord Jesus' — italic version-name or re-voice awaits Gideon",
+    "awaiting": true
+   }
+  },
+  {
+   "id": "2CO.4.11",
+   "ref": "2 Corinthians 4:11",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9540,
+     "cited_as": "2 Corinthians 4:11 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we which liue, are alwaies deliuered vnto death for Iesus sake, that the life also of Iesus might be made manifest in our mortal flesh.",
+     "source": "https://ebible.org/enggnv/2CO04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we which liue, are alwaies deliuered vnto death for Iesus sake, that the life also of Iesus might be made manifest in our mortal flesh.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/11",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐν παντὶ θλιβόμενοι ἀλλ’ οὐ στενοχωρούμενοι, ἀπορούμενοι ἀλλ’ οὐκ ἐξαπορούμενοι, διωκόμενοι ἀλλ’ οὐκ ἐγκαταλειπόμενοι, καταβαλλόμενοι ἀλλ’ οὐκ ἀπολλύμενοι, πάντοτε τὴν νέκρωσιν τοῦ κυρίου Ἰησοῦ ἐν τῷ σώματι περιφέροντες, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ ἐν τῷ σώματι ἡμῶν φανερωθῇ. ἀεὶ γὰρ ἡμεῖς οἱ ζῶντες εἰς θάνατον παραδιδόμεθα διὰ Ἰησοῦν, ἵνα καὶ ἡ ζωὴ τοῦ Ἰησοῦ φανερωθῇ ἐν τῇ θνητῇ σαρκὶ ἡμῶν.",
+     "source": "https://biblehub.com/text/2_corinthians/4-8.htm; https://biblehub.com/text/2_corinthians/4-9.htm; https://biblehub.com/text/2_corinthians/4-10.htm; https://biblehub.com/text/2_corinthians/4-11.htm",
+     "result": "agree (0.930 — span-checked across 2 Cor 4:8-11 (runs >=4 words joined; comma-artifact class))"
+    }
+   },
+   "diff_notes": "print folds only (liue→live, alwaies→always, deliuered→delivered); 1599 prints 'Iesus sake' without apostrophe — seat modern possessive"
+  },
+  {
+   "id": "ROM.8.36",
+   "ref": "Romans 8:36",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9566,
+     "cited_as": "Romans 8:36 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "As it is written, For thy sake are we killed all day long: we are counted as sheepe for the slaughter.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "As it is written, For thy sake are we killed all day long: we are counted as sheepe for the slaughter.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/36",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καθὼς γέγραπται ὅτι Ἕνεκεν σοῦ θανατούμεθα ὅλην τὴν ἡμέραν, ἐλογίσθημεν ὡς πρόβατα σφαγῆς.",
+     "source": "https://biblehub.com/text/romans/8-36.htm",
+     "result": "agree (1.000)"
+    }
+   },
+   "diff_notes": "fold only (sheepe→sheep) | BOTH-MAPS: draft's label 'Psalm 43:23 LXX (Ps 44:22)' VERIFIED against the NETS print (24-ps.pdf print head 'psalms 43(44)–44(45)') — verse is NETS/LXX 43:23 = MT 44:22 (print dual mark '23(22)'); the LXX counts one verse higher within this psalm — label correct, NO flag"
+  },
+  {
+   "id": "ROM.8.18",
+   "ref": "Romans 8:18",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9579,
+     "cited_as": "Romans 8:18 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I count that the afflictions of this present time are not worthy of the glory, which shalbe shewed vnto vs.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I count that the afflictions of this present time are not worthy of the glory, which shalbe shewed vnto vs.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/18",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς. ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ Θεοῦ ἀπεκδέχεται. οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συνστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν Οὐ μόνον δέ, ἀλλὰ καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες, καὶ ἡμεῖς αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι, τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+     "source": "https://biblehub.com/text/romans/8-18.htm; https://biblehub.com/text/romans/8-19.htm; https://biblehub.com/text/romans/8-22.htm; https://biblehub.com/text/romans/8-23.htm",
+     "result": "agree (0.933 — span-checked across Rom 8:18-25 with 8:19 (runs joined))"
+    }
+   },
+   "diff_notes": "print 'shewed' modern-spelled 'showed' (shew→show fold class)"
+  },
+  {
+   "id": "ROM.8.19",
+   "ref": "Romans 8:19",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9579,
+     "cited_as": "Romans 8:19 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the feruent desire of the creature waiteth when the sonnes of God shalbe reueiled,",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the feruent desire of the creature waiteth when the sonnes of God shalbe reueiled,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/19",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς. ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ Θεοῦ ἀπεκδέχεται. οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συνστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν Οὐ μόνον δέ, ἀλλὰ καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες, καὶ ἡμεῖς αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι, τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+     "source": "https://biblehub.com/text/romans/8-18.htm; https://biblehub.com/text/romans/8-19.htm; https://biblehub.com/text/romans/8-22.htm; https://biblehub.com/text/romans/8-23.htm",
+     "result": "agree (0.933 — span-checked across Rom 8:18-25 with 8:19 (runs joined))"
+    }
+   },
+   "diff_notes": "print folds only (shewed→showed, reueiled→revealed)"
+  },
+  {
+   "id": "ROM.8.22",
+   "ref": "Romans 8:22",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9579,
+     "cited_as": "Romans 8:22 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we knowe that euery creature groneth with vs also, and trauaileth in paine together vnto this present.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we knowe that euery creature groneth with vs also, and trauaileth in paine together vnto this present.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/22",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς. ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ Θεοῦ ἀπεκδέχεται. οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συνστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν Οὐ μόνον δέ, ἀλλὰ καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες, καὶ ἡμεῖς αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι, τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+     "source": "https://biblehub.com/text/romans/8-18.htm; https://biblehub.com/text/romans/8-19.htm; https://biblehub.com/text/romans/8-22.htm; https://biblehub.com/text/romans/8-23.htm",
+     "result": "agree (0.933 — span-checked across Rom 8:18-25 with 8:19 (runs joined))"
+    }
+   },
+   "diff_notes": "print 'groneth' modern-spelled 'groaneth' (orthography fold)"
+  },
+  {
+   "id": "ROM.8.23",
+   "ref": "Romans 8:23",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9579,
+     "cited_as": "Romans 8:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And not onely the creature, but we also which haue the first fruites of the Spirit, euen we doe sigh in our selues, waiting for the adoption, euen the redemption of our body.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And not onely the creature, but we also which haue the first fruites of the Spirit, euen we doe sigh in our selues, waiting for the adoption, euen the redemption of our body.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/23",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Λογίζομαι γὰρ ὅτι οὐκ ἄξια τὰ παθήματα τοῦ νῦν καιροῦ πρὸς τὴν μέλλουσαν δόξαν ἀποκαλυφθῆναι εἰς ἡμᾶς. ἡ γὰρ ἀποκαραδοκία τῆς κτίσεως τὴν ἀποκάλυψιν τῶν υἱῶν τοῦ Θεοῦ ἀπεκδέχεται. οἴδαμεν γὰρ ὅτι πᾶσα ἡ κτίσις συνστενάζει καὶ συνωδίνει ἄχρι τοῦ νῦν Οὐ μόνον δέ, ἀλλὰ καὶ αὐτοὶ τὴν ἀπαρχὴν τοῦ πνεύματος ἔχοντες, καὶ ἡμεῖς αὐτοὶ ἐν ἑαυτοῖς στενάζομεν, υἱοθεσίαν ἀπεκδεχόμενοι, τὴν ἀπολύτρωσιν τοῦ σώματος ἡμῶν.",
+     "source": "https://biblehub.com/text/romans/8-18.htm; https://biblehub.com/text/romans/8-19.htm; https://biblehub.com/text/romans/8-22.htm; https://biblehub.com/text/romans/8-23.htm",
+     "result": "agree (0.933 — span-checked across Rom 8:18-25 with 8:19 (runs joined))"
+    }
+   },
+   "diff_notes": "print folds only (selues→selves)"
+  },
+  {
+   "id": "2CO.11.28",
+   "ref": "2 Corinthians 11:28",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9613,
+     "cited_as": "2 Corinthians 11:28 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Beside the thinges which are outwarde, I am combred dayly, and haue the care of all the Churches.",
+     "source": "https://ebible.org/enggnv/2CO11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Beside the thinges which are outwarde, I am combred dayly, and haue the care of all the Churches.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/28",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Χωρὶς τῶν παρεκτός, ἡ ἐπισύστασίς μου ἡ καθ’ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν. τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+     "source": "https://biblehub.com/text/2_corinthians/11-28.htm; https://biblehub.com/text/2_corinthians/11-29.htm",
+     "result": "agree (0.842 — span-checked (runs joined))"
+    }
+   },
+   "diff_notes": "print folds only (combred→cumbered, dayly→daily)"
+  },
+  {
+   "id": "2CO.11.29",
+   "ref": "2 Corinthians 11:29",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9613,
+     "cited_as": "2 Corinthians 11:29 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who is weake, and I am not weake? who is offended, and I burne not?",
+     "source": "https://ebible.org/enggnv/2CO11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who is weake, and I am not weake? who is offended, and I burne not?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/29",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Χωρὶς τῶν παρεκτός, ἡ ἐπισύστασίς μου ἡ καθ’ ἡμέραν, ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν. τίς ἀσθενεῖ, καὶ οὐκ ἀσθενῶ; τίς σκανδαλίζεται, καὶ οὐκ ἐγὼ πυροῦμαι;",
+     "source": "https://biblehub.com/text/2_corinthians/11-28.htm; https://biblehub.com/text/2_corinthians/11-29.htm",
+     "result": "agree (0.842 — span-checked (runs joined))"
+    }
+   },
+   "diff_notes": "print folds only (weake→weak, burne→burn)"
+  },
+  {
+   "id": "COL.1.24",
+   "ref": "Colossians 1:24",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9619,
+     "cited_as": "Colossians 1:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now reioyce I in my suffrings for you, and fulfill the rest of the afflictions of Christ in my flesh, for his bodies sake, which is the Church,",
+     "source": "https://ebible.org/enggnv/COL01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now reioyce I in my suffrings for you, and fulfill the rest of the afflictions of Christ in my flesh, for his bodies sake, which is the Church,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/51/24",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ὅς νῦν χαίρω ἐν τοῖς παθήμασι μου ὑπὲρ ὑμῶν, καὶ ἀνταναπληρῶ τὰ ὑστερήματα τῶν θλίψεων τοῦ Χριστοῦ ἐν τῇ σαρκί μου ὑπὲρ τοῦ σώματος αὐτοῦ, ὅ ἐστιν ἡ ἐκκλησία",
+     "source": "https://biblehub.com/text/colossians/1-24.htm",
+     "result": "agree (0.917)"
+    }
+   },
+   "diff_notes": "print 'his bodies sake' — seat modern possessive 'his body's sake' (possessive class, JHN 15:21 precedent)"
+  },
+  {
+   "id": "MAT.16.24",
+   "ref": "Matthew 16:24",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9662,
+     "cited_as": "Matthew 16:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus then saide to his disciples, If any man will follow me, let him forsake himselfe: and take vp his crosse, and follow me.",
+     "source": "https://ebible.org/enggnv/MAT16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus then saide to his disciples, If any man will follow me, let him forsake himselfe: and take vp his crosse, and follow me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/24",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ότε ὁ Ἰησοῦς εἴπεν τοῖς μαθηταῖς αὐτοῦ, Εἴ τις θέλει ὀπίσω μου ἐλθεῖν, ἀπαρνησάσθω ἑαυτόν, καὶ ἀράτω τὸν σταυρὸν αὐτοῦ, καὶ ἀκολουθείτω μοι. ὃς δ’ ἂν ἀπολέσῃ τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ, εὑρήσει αὐτήν.",
+     "source": "https://biblehub.com/text/matthew/16-24.htm; https://biblehub.com/text/matthew/16-25.htm",
+     "result": "agree (0.730 — span-checked across Matt 16:24-25 (runs joined; comma-joined tokens recorded))"
+    }
+   },
+   "diff_notes": "SPLICE: draft dropped the print's 'then' and rendered 'said to' as 'said unto' — seat restores 'Jesus then said to his disciples'"
+  },
+  {
+   "id": "MAT.16.25",
+   "ref": "Matthew 16:25",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9662,
+     "cited_as": "Matthew 16:25 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For whosoeuer will saue his life, shall lose it: and whosoeuer shall lose his life for my sake, shall finde it.",
+     "source": "https://ebible.org/enggnv/MAT16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For whosoeuer will saue his life, shall lose it: and whosoeuer shall lose his life for my sake, shall finde it.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/25",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ότε ὁ Ἰησοῦς εἴπεν τοῖς μαθηταῖς αὐτοῦ, Εἴ τις θέλει ὀπίσω μου ἐλθεῖν, ἀπαρνησάσθω ἑαυτόν, καὶ ἀράτω τὸν σταυρὸν αὐτοῦ, καὶ ἀκολουθείτω μοι. ὃς δ’ ἂν ἀπολέσῃ τὴν ψυχὴν αὐτοῦ ἕνεκεν ἐμοῦ, εὑρήσει αὐτήν.",
+     "source": "https://biblehub.com/text/matthew/16-24.htm; https://biblehub.com/text/matthew/16-25.htm",
+     "result": "agree (0.730 — span-checked across Matt 16:24-25 (runs joined; comma-joined tokens recorded))"
+    }
+   },
+   "diff_notes": "print's comma after 'life' restored ('save his life, shall lose it')"
+  },
+  {
+   "id": "LUK.9.23",
+   "ref": "Luke 9:23",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9673,
+     "cited_as": "Luke 9:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he sayd to them all, If any man will come after me, let him denie himselfe, and take vp his crosse dayly, and follow me.",
+     "source": "https://ebible.org/enggnv/LUK09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he sayd to them all, If any man will come after me, let him denie himselfe, and take vp his crosse dayly, and follow me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/23",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἔλεγε δὲ πρὸς πάντας, Εἴ τις θέλει ὀπίσω μου ἐλθεῖν, ἀπαρνησάσθω ἑαυτὸν, καὶ ἀράτω τὸν σταυρὸν αὐτοῦ καθ’ ἡμέραν, καὶ ἀκολουθείτω μοι.",
+     "source": "https://biblehub.com/text/luke/9-23.htm",
+     "result": "agree (0.714 — mid-verse run-cut rejoined)"
+    }
+   },
+   "diff_notes": "print folds only (denie→deny, dayly→daily)"
+  },
+  {
+   "id": "HEB.11.24",
+   "ref": "Hebrews 11:24",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9676,
+     "cited_as": "Hebrews 11:24 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9778,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "modern-believer §2 use (canon 9778)",
+     "quote_kind": "use"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "By faith Moses when he was come to age, refused to be called the sonne of Pharaohs daughter,",
+     "source": "https://ebible.org/enggnv/HEB11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "By faith Moses when he was come to age, refused to be called the sonne of Pharaohs daughter,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/24",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ, μᾶλλον ἑλόμενος συνκακουχεῖσθαι τῷ λαῷ τοῦ Θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν, μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ χριστοῦ, ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν.",
+     "source": "https://biblehub.com/text/hebrews/11-24.htm; https://biblehub.com/text/hebrews/11-25.htm; https://biblehub.com/text/hebrews/11-26.htm",
+     "result": "agree (0.943 — span-checked across Heb 11:24-26)"
+    }
+   },
+   "diff_notes": "print folds only (sonne→son)"
+  },
+  {
+   "id": "HEB.11.25",
+   "ref": "Hebrews 11:25",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9676,
+     "cited_as": "Hebrews 11:25 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9778,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "modern-believer §2 use (canon 9778)",
+     "quote_kind": "use"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And chose rather to suffer aduersitie with the people of God, then to enioy the pleasures of sinnes for a season,",
+     "source": "https://ebible.org/enggnv/HEB11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And chose rather to suffer aduersitie with the people of God, then to enioy the pleasures of sinnes for a season,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/25",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ, μᾶλλον ἑλόμενος συνκακουχεῖσθαι τῷ λαῷ τοῦ Θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν, μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ χριστοῦ, ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν.",
+     "source": "https://biblehub.com/text/hebrews/11-24.htm; https://biblehub.com/text/hebrews/11-25.htm; https://biblehub.com/text/hebrews/11-26.htm",
+     "result": "agree (0.943 — span-checked across Heb 11:24-26)"
+    }
+   },
+   "diff_notes": "SPLICE: draft 'pleasures of sin' vs 1599 'pleasures of sinnes' — seat follows the print; print's 'then' modern-spelled 'than' (then→than class, JHN 15:20 precedent)"
+  },
+  {
+   "id": "HEB.11.26",
+   "ref": "Hebrews 11:26",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9676,
+     "cited_as": "Hebrews 11:26 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9778,
+     "cited_as": "prose use",
+     "quotes": [],
+     "status": "anchor",
+     "note": "modern-believer §2 use (canon 9778)",
+     "quote_kind": "use"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Esteeming the rebuke of Christ greater riches then the treasures of Egypt: for he had respect vnto the recompence of the reward.",
+     "source": "https://ebible.org/enggnv/HEB11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Esteeming the rebuke of Christ greater riches then the treasures of Egypt: for he had respect vnto the recompence of the reward.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/26",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πίστει Μωϋσῆς μέγας γενόμενος ἠρνήσατο λέγεσθαι υἱὸς θυγατρὸς Φαραώ, μᾶλλον ἑλόμενος συνκακουχεῖσθαι τῷ λαῷ τοῦ Θεοῦ ἢ πρόσκαιρον ἔχειν ἁμαρτίας ἀπόλαυσιν, μείζονα πλοῦτον ἡγησάμενος τῶν Αἰγύπτου θησαυρῶν τὸν ὀνειδισμὸν τοῦ χριστοῦ, ἀπέβλεπεν γὰρ εἰς τὴν μισθαποδοσίαν.",
+     "source": "https://biblehub.com/text/hebrews/11-24.htm; https://biblehub.com/text/hebrews/11-25.htm; https://biblehub.com/text/hebrews/11-26.htm",
+     "result": "agree (0.943 — span-checked across Heb 11:24-26)"
+    }
+   },
+   "diff_notes": "print 'recompence' modern-spelled 'recompense'",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "modern-believer §2 (canon 9775) prints 'This is real παίδων — suffering loss' — παίδων means 'of children'; the Greek word for 'suffering loss' is ζημία/ζημίαν (as Paul uses at Phil 3:7-8) — proposed-correction awaiting Gideon",
+    "awaiting": true
+   }
+  },
+  {
+   "id": "PHP.3.7",
+   "ref": "Philippians 3:7",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9685,
+     "cited_as": "Philippians 3:7 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But the thinges that were vantage vnto me, the same I counted losse for Christes sake.",
+     "source": "https://ebible.org/enggnv/PHP03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But the thinges that were vantage vnto me, the same I counted losse for Christes sake.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀλλὰ ἅτινα ἦν μοι κέρδη, ταῦτα ἥγημαι διὰ τὸν Χριστὸν ζημίαν. ἀλλὰ μενοῦνγε καὶ ἡγοῦμαι πάντα ζημίαν εἶναι διὰ τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ Κυρίου μου, δι’ ὃν τὰ πάντα ἐζημιώθην, καὶ ἡγοῦμαι σκύβαλα εἶναι ἵνα Χριστὸν κερδήσω",
+     "source": "https://biblehub.com/text/philippians/3-7.htm; https://biblehub.com/text/philippians/3-8.htm",
+     "result": "agree (0.939 — span-checked across Phil 3:7-8)"
+    }
+   },
+   "diff_notes": "print folds only (losse→loss); 'Christes' modern possessive 'Christ's'"
+  },
+  {
+   "id": "PHP.3.8",
+   "ref": "Philippians 3:8",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9685,
+     "cited_as": "Philippians 3:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Yea, doubtlesse I thinke all thinges but losse for the excellent knowledge sake of Christ Iesus my Lord, for whome I haue counted all things losse, and doe iudge them to bee dongue, that I might winne Christ,",
+     "source": "https://ebible.org/enggnv/PHP03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Yea, doubtlesse I thinke all thinges but losse for the excellent knowledge sake of Christ Iesus my Lord, for whome I haue counted all things losse, and doe iudge them to bee dongue, that I might winne Christ,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀλλὰ ἅτινα ἦν μοι κέρδη, ταῦτα ἥγημαι διὰ τὸν Χριστὸν ζημίαν. ἀλλὰ μενοῦνγε καὶ ἡγοῦμαι πάντα ζημίαν εἶναι διὰ τὸ ὑπερέχον τῆς γνώσεως Χριστοῦ Ἰησοῦ τοῦ Κυρίου μου, δι’ ὃν τὰ πάντα ἐζημιώθην, καὶ ἡγοῦμαι σκύβαλα εἶναι ἵνα Χριστὸν κερδήσω",
+     "source": "https://biblehub.com/text/philippians/3-7.htm; https://biblehub.com/text/philippians/3-8.htm",
+     "result": "agree (0.939 — span-checked across Phil 3:7-8)"
+    }
+   },
+   "diff_notes": "print folds only (dongue→dung, winne→win, whome→whom)"
+  },
+  {
+   "id": "HEB.12.5",
+   "ref": "Hebrews 12:5",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9703,
+     "cited_as": "Hebrews 12:5 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And ye haue forgotten the consolation, which speaketh vnto you as vnto children, My sonne, despise not the chastening of the Lord, neither faint when thou art rebuked of him.",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And ye haue forgotten the consolation, which speaketh vnto you as vnto children, My sonne, despise not the chastening of the Lord, neither faint when thou art rebuked of him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου, ὑπ’ αὐτοῦ ἐλεγχόμενος ὃν γὰρ ἀγαπᾷ Κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται. εἴ παιδείαν ὑπομένετε ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός τίς γὰρ ἐστιν υἱὸς ὃν οὐ παιδεύει πατήρ εἰ δὲ χωρίς ἐστε παιδείας, ἧς μέτοχοι γεγόνασιν πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε. πᾶσα μὲν παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.",
+     "source": "https://biblehub.com/text/hebrews/12-5.htm; https://biblehub.com/text/hebrews/12-6.htm; https://biblehub.com/text/hebrews/12-7.htm; https://biblehub.com/text/hebrews/12-8.htm; https://biblehub.com/text/hebrews/12-11.htm",
+     "result": "agree (0.905 — span-checked 12:5-8+11; WH reads εἰς παιδείαν at 12:7 where the draft's Byzantine Greek reads εἰ (variant row-recorded))"
+    }
+   },
+   "diff_notes": "SPLICE: draft 'chastising' vs 1599 'chastening' — seat follows the print; the print's v5 head ('And ye haue forgotten the consolation, which speaketh vnto you as vnto children,') sits outside the draft's selections and is not seated"
+  },
+  {
+   "id": "HEB.12.6",
+   "ref": "Hebrews 12:6",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9703,
+     "cited_as": "Hebrews 12:6 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For whom the Lord loueth, he chasteneth: and he scourgeth euery sonne that he receiueth:",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For whom the Lord loueth, he chasteneth: and he scourgeth euery sonne that he receiueth:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου, ὑπ’ αὐτοῦ ἐλεγχόμενος ὃν γὰρ ἀγαπᾷ Κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται. εἴ παιδείαν ὑπομένετε ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός τίς γὰρ ἐστιν υἱὸς ὃν οὐ παιδεύει πατήρ εἰ δὲ χωρίς ἐστε παιδείας, ἧς μέτοχοι γεγόνασιν πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε. πᾶσα μὲν παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.",
+     "source": "https://biblehub.com/text/hebrews/12-5.htm; https://biblehub.com/text/hebrews/12-6.htm; https://biblehub.com/text/hebrews/12-7.htm; https://biblehub.com/text/hebrews/12-8.htm; https://biblehub.com/text/hebrews/12-11.htm",
+     "result": "agree (0.905 — span-checked 12:5-8+11; WH reads εἰς παιδείαν at 12:7 where the draft's Byzantine Greek reads εἰ (variant row-recorded))"
+    }
+   },
+   "diff_notes": "print folds only (loueth→loveth, euery→every)"
+  },
+  {
+   "id": "HEB.12.7",
+   "ref": "Hebrews 12:7",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9703,
+     "cited_as": "Hebrews 12:7 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If ye endure chastening, God offereth him selfe vnto you as vnto sonnes: for what sonne is it whom the father chasteneth not?",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If ye endure chastening, God offereth him selfe vnto you as vnto sonnes: for what sonne is it whom the father chasteneth not?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/7",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου, ὑπ’ αὐτοῦ ἐλεγχόμενος ὃν γὰρ ἀγαπᾷ Κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται. εἴ παιδείαν ὑπομένετε ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός τίς γὰρ ἐστιν υἱὸς ὃν οὐ παιδεύει πατήρ εἰ δὲ χωρίς ἐστε παιδείας, ἧς μέτοχοι γεγόνασιν πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε. πᾶσα μὲν παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.",
+     "source": "https://biblehub.com/text/hebrews/12-5.htm; https://biblehub.com/text/hebrews/12-6.htm; https://biblehub.com/text/hebrews/12-7.htm; https://biblehub.com/text/hebrews/12-8.htm; https://biblehub.com/text/hebrews/12-11.htm",
+     "result": "agree (0.905 — span-checked 12:5-8+11; WH reads εἰς παιδείαν at 12:7 where the draft's Byzantine Greek reads εἰ (variant row-recorded))"
+    }
+   },
+   "diff_notes": "print folds (him selfe→himself, sonnes→sons); WH Greek: see row HEB.12.5 span note (εἰ/εἰς)"
+  },
+  {
+   "id": "HEB.12.8",
+   "ref": "Hebrews 12:8",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9703,
+     "cited_as": "Hebrews 12:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If therefore ye be without correction, whereof al are partakers, then are ye bastards, and not sonnes.",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If therefore ye be without correction, whereof al are partakers, then are ye bastards, and not sonnes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/8",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου, ὑπ’ αὐτοῦ ἐλεγχόμενος ὃν γὰρ ἀγαπᾷ Κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται. εἴ παιδείαν ὑπομένετε ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός τίς γὰρ ἐστιν υἱὸς ὃν οὐ παιδεύει πατήρ εἰ δὲ χωρίς ἐστε παιδείας, ἧς μέτοχοι γεγόνασιν πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε. πᾶσα μὲν παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.",
+     "source": "https://biblehub.com/text/hebrews/12-5.htm; https://biblehub.com/text/hebrews/12-6.htm; https://biblehub.com/text/hebrews/12-7.htm; https://biblehub.com/text/hebrews/12-8.htm; https://biblehub.com/text/hebrews/12-11.htm",
+     "result": "agree (0.905 — span-checked 12:5-8+11; WH reads εἰς παιδείαν at 12:7 where the draft's Byzantine Greek reads εἰ (variant row-recorded))"
+    }
+   },
+   "diff_notes": "print folds (al→all, sonnes→sons)"
+  },
+  {
+   "id": "HEB.12.11",
+   "ref": "Hebrews 12:11",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9703,
+     "cited_as": "Hebrews 12:11 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now no chastising for the present seemeth to be ioyous, but, grieuous: but afterwarde, it bringeth the quiet fruite of righteousnesse, vnto them which are thereby exercised.",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Now no chastising for the present seemeth to be ioyous, but, grieuous: but afterwarde, it bringeth the quiet fruite of righteousnesse, vnto them which are thereby exercised.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/11",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ ἐκλέλησθε τῆς παρακλήσεως, ἥτις ὑμῖν ὡς υἱοῖς διαλέγεται, Υἱέ μου, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου, ὑπ’ αὐτοῦ ἐλεγχόμενος ὃν γὰρ ἀγαπᾷ Κύριος παιδεύει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται. εἴ παιδείαν ὑπομένετε ὡς υἱοῖς ὑμῖν προσφέρεται ὁ θεός τίς γὰρ ἐστιν υἱὸς ὃν οὐ παιδεύει πατήρ εἰ δὲ χωρίς ἐστε παιδείας, ἧς μέτοχοι γεγόνασιν πάντες, ἄρα νόθοι καὶ οὐχ υἱοί ἐστε. πᾶσα μὲν παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι’ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.",
+     "source": "https://biblehub.com/text/hebrews/12-5.htm; https://biblehub.com/text/hebrews/12-6.htm; https://biblehub.com/text/hebrews/12-7.htm; https://biblehub.com/text/hebrews/12-8.htm; https://biblehub.com/text/hebrews/12-11.htm",
+     "result": "agree (0.905 — span-checked 12:5-8+11; WH reads εἰς παιδείαν at 12:7 where the draft's Byzantine Greek reads εἰ (variant row-recorded))"
+    }
+   },
+   "diff_notes": "print's comma after 'but,' kept verbatim (eBible==TRB both print 'iouous, but, grieuous'); 1599 prints 'chastising' here (as drafted) while v5 prints 'chastening' — both seat-faithful"
+  },
+  {
+   "id": "2CO.4.17",
+   "ref": "2 Corinthians 4:17",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9899,
+     "cited_as": "2 Corinthians 4:17 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For our light affliction which is but for a moment, causeth vnto vs a farre most excellent and an eternall waight of glorie:",
+     "source": "https://ebible.org/enggnv/2CO04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For our light affliction which is but for a moment, causeth vnto vs a farre most excellent and an eternall waight of glorie:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/17",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τὸ γὰρ παραυτίκα ἐλαφρὸν τῆς θλίψεως ἡμῶν καθ’ ὑπερβολὴν εἰς ὑπερβολὴν αἰώνιον βάρος δόξης κατεργάζεται ἡμῖν,",
+     "source": "https://biblehub.com/text/2_corinthians/4-17.htm",
+     "result": "agree (1.000)"
+    }
+   },
+   "diff_notes": "print folds only (waight→weight, eternall→eternal)"
+  },
+  {
+   "id": "PHP.1.29",
+   "ref": "Philippians 1:29",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9909,
+     "cited_as": "Philippians 1:29 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For vnto you it is giuen for Christ, that not onely ye should beleeue in him, but also suffer for his sake,",
+     "source": "https://ebible.org/enggnv/PHP01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For vnto you it is giuen for Christ, that not onely ye should beleeue in him, but also suffer for his sake,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/29",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν, ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν,",
+     "source": "https://biblehub.com/text/philippians/1-29.htm",
+     "result": "agree (0.933)"
+    }
+   },
+   "diff_notes": "print folds only (giuen→given, onely→only, beleeue→believe)"
+  },
+  {
+   "id": "1PE.4.12",
+   "ref": "1 Peter 4:12",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9919,
+     "cited_as": "1 Peter 4:12 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Dearely beloued, thinke it not strange concerning the firie triall, which is among you to proue you, as though some strange thing were come vnto you:",
+     "source": "https://ebible.org/enggnv/1PE04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Dearely beloued, thinke it not strange concerning the firie triall, which is among you to proue you, as though some strange thing were come vnto you:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/60/12",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἀγαπητοί, μὴ ξενίζεσθε τῇ ἐν ὑμῖν πυρώσει πρὸς πειρασμὸν ὑμῖν γινομένῃ, ὡς ξένου ὑμῖν συμβαίνοντος, ἀλλὰ καθὸ κοινωνεῖτε τοῖς τοῦ χριστοῦ παθήμασιν, χαίρετε, ἵνα καὶ ἐν τῇ ἀποκαλύψει τῆς δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι.",
+     "source": "https://biblehub.com/text/1_peter/4-12.htm; https://biblehub.com/text/1_peter/4-13.htm",
+     "result": "agree (0.931 — span-checked across 1 Peter 4:12-13)"
+    }
+   },
+   "diff_notes": "print's colon before 'But rejoice' restored ('come unto you: But rejoice'); 'in asmuch' modern-folded 'inasmuch'"
+  },
+  {
+   "id": "PSA.43.23",
+   "ref": "Psalm 43:23 (MT 44:22)",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9570,
+     "cited_as": "Romans 8:36 citation head 'Psalm 43:23 LXX (Ps 44:22)' — NETS text banked",
+     "quotes": [],
+     "status": "anchor",
+     "note": "BOTH-MAPS: NETS/LXX numbering counts one verse higher within this psalm — NETS 43:23 = MT 44:22 (print dual mark 23(22), 24-ps.pdf head \"psalms 43(44)–44(45)\"); the draft's citation label verified CORRECT",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "because for your sake we are being put to death all day long, we were accounted as sheep for slaughter.",
+     "source": "NETS Psalms print master 24-ps.pdf print p.~569 (pdf-27), verse mark 23(22)"
+    }
+   },
+   "second_check": {
+    "nets_print_dump": {
+     "text": "because for your sake we are being put to death all day long, we were accounted as sheep for slaughter.",
+     "source": "fitz text extraction of 24-ps.pdf page 27 (print head psalms 43(44)–44(45))",
+     "result": "agree (print==dump verbatim)"
+    }
+   },
+   "diff_notes": "Geneva 1599 Rom 8:36 \"sheep for the slaughter\" == NETS \"sheep for slaughter"
+  },
+  {
+   "id": "ROM.8.28",
+   "ref": "Romans 8:28",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9790,
+     "cited_as": "Romans 8:28 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Also we knowe that all thinges worke together for the best vnto them that loue God, euen to them that are called of his purpose.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Also we knowe that all thinges worke together for the best vnto them that loue God, euen to them that are called of his purpose.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/28",
+     "result": "agree (eBible==TRB token 1.000; orthography folds only)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.8.31",
+   "ref": "Romans 8:31",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9934,
+     "cited_as": "Romans 8:31 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "What shall we then say to these thinges? If God be on our side, who can be against vs?",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "What shall we then say to these thinges? If God be on our side, who can be against vs?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/31",
+     "result": "agree (eBible==TRB token 1.000; orthography folds only)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.8.33",
+   "ref": "Romans 8:33",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9936,
+     "cited_as": "Romans 8:33 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who shall lay any thing to the charge of Gods chosen? it is God that iustifieth,",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who shall lay any thing to the charge of Gods chosen? it is God that iustifieth,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/33",
+     "result": "agree (eBible==TRB token 1.000; orthography folds only)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.8.35",
+   "ref": "Romans 8:35",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9938,
+     "cited_as": "Romans 8:35 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who shall separate vs from the loue of Christ? shall tribulation or anguish, or persecution, or famine, or nakednesse, or perill, or sworde?",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who shall separate vs from the loue of Christ? shall tribulation or anguish, or persecution, or famine, or nakednesse, or perill, or sworde?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/45/35",
+     "result": "agree (eBible==TRB token 1.000; orthography folds only)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "HEB.12.2",
+   "ref": "Hebrews 12:2",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9945,
+     "cited_as": "Hebrews 12:2 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "Final Observation \"looking unto Jesus\" (canon 9945)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Looking vnto Iesus the authour and finisher of our faith, who for the ioy that was set before him, endured the crosse, and despised the shame, and is set at the right hand of the throne of God.",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Looking vnto Iesus the authour and finisher of our faith, who for the ioy that was set before him, endured the crosse, and despised the shame, and is set at the right hand of the throne of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/12",
+     "result": "agree (eBible==TRB token 1.000; orthography folds only)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "HEB.13.3",
+   "ref": "Hebrews 13:3",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9752,
+     "cited_as": "prose quote \"remember those in bonds as bound with them\"",
+     "quotes": [],
+     "status": "anchor",
+     "note": "modern-believer §1 prose quote — voice check: 1599 print wording recorded on the row",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For this man is counted worthy of more glory then Moses, inasmuch as he which hath builded the house, hath more honour then the house.",
+     "source": "https://ebible.org/enggnv/HEB03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Remember them that are in bondes, as though ye were bounde with them: and them that are in affliction, as if ye were also afflicted in the body.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/3",
+     "result": "DIFFERS — see diff_notes"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "1PE.1.4",
+   "ref": "1 Peter 1:4",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9945,
+     "cited_as": "1 Peter 1:4 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "row did not pre-exist — created wave 41 (report listed it as use-upsert, bank check showed no row) | Final Observation \"inheritance reserved in heaven that cannot fade away\" (canon 9945)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "To an inheritance immortall and vndefiled, and that withereth not, reserued in heauen for vs,",
+     "source": "https://ebible.org/enggnv/1PE01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "To an inheritance immortall and vndefiled, and that withereth not, reserued in heauen for vs,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/60/1",
+     "result": "agree (eBible==TRB token 1.000; orthography folds only)"
+    }
+   },
+   "diff_notes": ""
+  },
+  {
+   "id": "ROM.12.15",
+   "ref": "Romans 12:15",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9830,
+     "cited_as": "Romans 12:15 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "\"weeping with those who weep\" mention (modern-believer §5)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "diff_notes": ""
+  },
+  {
+   "id": "COL.3.5",
+   "ref": "Colossians 3:5",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9795,
+     "cited_as": "Colossians 3:5 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "mortification mention (modern-believer §3)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "diff_notes": ""
+  },
+  {
+   "id": "COL.2.23",
+   "ref": "Colossians 2:23",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9881,
+     "cited_as": "Colossians 2:23 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "self-imposed asceticism mention (What-Is-Not)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "diff_notes": ""
+  },
+  {
+   "id": "MATT.10.34-37",
+   "ref": "Matthew 10:34-37",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9800,
+     "cited_as": "Matthew 10:34-37 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "family-division mention (modern-believer §2)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "diff_notes": ""
+  },
+  {
+   "id": "HEB.5.8",
+   "ref": "Hebrews 5:8",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9718,
+     "cited_as": "Hebrews 5:8 quote seated verbatim from the verified 1599 Geneva print (modern-spelled)",
+     "quotes": [],
+     "status": "anchor",
+     "note": "\"perfected through what He suffered\" mention (Category 8 obs (3))",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
    "diff_notes": ""
   }
  ]
