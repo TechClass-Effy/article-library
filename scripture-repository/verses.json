@@ -118,7 +118,9 @@
    "COS-63",
    "COS-64",
    "COS-65",
-   "COS-66"
+   "COS-66",
+   "COS-67",
+   "COS-68"
   ],
   "sections": [
    {
@@ -538,6 +540,14 @@
    {
     "key": "COS-66",
     "label": "The Full Counsel — The Believer's Identification in Christ"
+   },
+   {
+    "key": "COS-67",
+    "label": "Romans 8:17 — The Foundational Text"
+   },
+   {
+    "key": "COS-68",
+    "label": "What Does \"Suffering with Christ\" Mean?"
    }
   ],
   "double_check": {
@@ -598,9 +608,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 83217,
+  "so_far_words": 84098,
   "cos_sofar": {
-   "waves": 39
+   "waves": 40
   },
   "glossary": 887
  },
@@ -43959,6 +43969,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-67",
+     "section_label": "THE CHRIST OF SCRIPTURE — Romans 8:17 — The Foundational Text",
+     "article_line": 9396,
+     "cited_as": "ROM 8:17 — THE FOUNDATIONAL TEXT seat (draft exact-modern of the verified 1599 print — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -47011,6 +47031,433 @@
      "result": "agree (1.000)"
     }
    }
+  },
+  {
+   "id": "MAT.5.10",
+   "ref": "Matthew 5:10",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9440,
+     "cited_as": "Matthew 5:10-12 span seat (one blockquote; draft exact-modern of the verified 1599 print — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Blessed are they which suffer persecution for righteousnes sake: for theirs is the kingdome of heauen.",
+     "source": "https://ebible.org/enggnv/MAT05.10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Blessed are they which suffer persecution for righteousnes sake: for theirs is the kingdome of heauen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/10",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν. Μακάριοί ἐστε, ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν, καὶ εἴπωσιν πᾶν πονηρὸν ῥῆμα καθ’ ὑμῶν ψευδόμενοι, ἕνεκεν ἐμοῦ. χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς",
+     "source": "https://biblehub.com/text/matthew/5-10.htm; https://biblehub.com/text/matthew/5-11.htm; https://biblehub.com/text/matthew/5-12.htm",
+     "result": "agree (0.957) — span-checked across Matt 5:10-12 (run-join; comma artifact class: the missing tokens are comma-joined)"
+    }
+   },
+   "diff_notes": "1599 prints 'righteousnes' — seat modern-spelled 'righteousness' with the draft's possessive apostrophe"
+  },
+  {
+   "id": "MAT.5.11",
+   "ref": "Matthew 5:11",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9440,
+     "cited_as": "Matthew 5:10-12 span seat (member verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Blessed shall ye be when men reuile you, and persecute you, and say all maner of euill against you for my sake, falsely.",
+     "source": "https://ebible.org/enggnv/MAT05.11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Blessed shall ye be when men reuile you, and persecute you, and say all maner of euill against you for my sake, falsely.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/11",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν. Μακάριοί ἐστε, ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν, καὶ εἴπωσιν πᾶν πονηρὸν ῥῆμα καθ’ ὑμῶν ψευδόμενοι, ἕνεκεν ἐμοῦ. χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς",
+     "source": "https://biblehub.com/text/matthew/5-10.htm; https://biblehub.com/text/matthew/5-11.htm; https://biblehub.com/text/matthew/5-12.htm",
+     "result": "agree (0.957) — span-checked across Matt 5:10-12 (run-join; comma artifact class: the missing tokens are comma-joined)"
+    }
+   },
+   "diff_notes": "print folds only (reuile→revile, maner→manner, euill→evil)"
+  },
+  {
+   "id": "MAT.5.12",
+   "ref": "Matthew 5:12",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9440,
+     "cited_as": "Matthew 5:10-12 span seat (member verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Reioyce and be glad, for great is your reward in heauen: for so persecuted they the Prophets which were before you.",
+     "source": "https://ebible.org/enggnv/MAT05.12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Reioyce and be glad, for great is your reward in heauen: for so persecuted they the Prophets which were before you.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/12",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν. Μακάριοί ἐστε, ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν, καὶ εἴπωσιν πᾶν πονηρὸν ῥῆμα καθ’ ὑμῶν ψευδόμενοι, ἕνεκεν ἐμοῦ. χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς",
+     "source": "https://biblehub.com/text/matthew/5-10.htm; https://biblehub.com/text/matthew/5-11.htm; https://biblehub.com/text/matthew/5-12.htm",
+     "result": "agree (0.957) — span-checked across Matt 5:10-12 (run-join; comma artifact class: the missing tokens are comma-joined)"
+    }
+   },
+   "diff_notes": "print folds only (Reioyce→Rejoice, heauen→heaven) — the print agrees with the draft's 'be glad' (not KJV 'exceeding glad')"
+  },
+  {
+   "id": "JHN.15.18",
+   "ref": "John 15:18",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9461,
+     "cited_as": "John 15:18-20 span seat (one blockquote; draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If the worlde hate you, ye knowe that it hated me before you.",
+     "source": "https://ebible.org/enggnv/JHN15.18.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If the worlde hate you, ye knowe that it hated me before you.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/18",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ἐμὲ πρῶτον ὑμῶν μεμίσηκεν. ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ, ἀλλ’ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου, διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος. Μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἴπον ὑμῖν, Οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ. Εἰ ἐμὲ ἐδίωξαν, καὶ ὑμᾶς διώξουσιν",
+     "source": "https://biblehub.com/text/john/15-18.htm; https://biblehub.com/text/john/15-19.htm; https://biblehub.com/text/john/15-20.htm",
+     "result": "agree (0.915) — span-checked across John 15:18-20 (run-join; rough-breathing/comma artifact class only)"
+    }
+   },
+   "diff_notes": "print folds only (worlde→world, knowe→know)"
+  },
+  {
+   "id": "JHN.15.19",
+   "ref": "John 15:19",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9461,
+     "cited_as": "John 15:18-20 span seat (member verse; article-ye fold row-noted)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If ye were of the worlde, the world woulde loue his owne: but because ye are not of ye world, but I haue chosen you out of the world, therefore the world hateth you.",
+     "source": "https://ebible.org/enggnv/JHN15.19.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If ye were of the worlde, the world woulde loue his owne: but because ye are not of ye world, but I haue chosen you out of the world, therefore the world hateth you.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/19",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ἐμὲ πρῶτον ὑμῶν μεμίσηκεν. ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ, ἀλλ’ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου, διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος. Μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἴπον ὑμῖν, Οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ. Εἰ ἐμὲ ἐδίωξαν, καὶ ὑμᾶς διώξουσιν",
+     "source": "https://biblehub.com/text/john/15-18.htm; https://biblehub.com/text/john/15-19.htm; https://biblehub.com/text/john/15-20.htm",
+     "result": "agree (0.915) — span-checked across John 15:18-20 (run-join; rough-breathing/comma artifact class only)"
+    }
+   },
+   "diff_notes": "article-ye fold: 1599 prints 'not of ye world' — seat prints 'not of the world' (article-y^e class)"
+  },
+  {
+   "id": "JHN.15.20",
+   "ref": "John 15:20",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9461,
+     "cited_as": "John 15:18-20 span seat (member verse; draft ellipsis mid-verse)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Remember the word that I said vnto you, The seruant is not greater then his master. If they haue persecuted me, they will persecute you also: if they haue kept my worde, they will also keepe yours.",
+     "source": "https://ebible.org/enggnv/JHN15.20.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Remember the word that I said vnto you, The seruant is not greater then his master. If they haue persecuted me, they will persecute you also: if they haue kept my worde, they will also keepe yours.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/20",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ ὁ κόσμος ὑμᾶς μισεῖ, γινώσκετε ὅτι ἐμὲ πρῶτον ὑμῶν μεμίσηκεν. ὅτι δὲ ἐκ τοῦ κόσμου οὐκ ἐστέ, ἀλλ’ ἐγὼ ἐξελεξάμην ὑμᾶς ἐκ τοῦ κόσμου, διὰ τοῦτο μισεῖ ὑμᾶς ὁ κόσμος. Μνημονεύετε τοῦ λόγου οὗ ἐγὼ εἴπον ὑμῖν, Οὐκ ἔστιν δοῦλος μείζων τοῦ κυρίου αὐτοῦ. Εἰ ἐμὲ ἐδίωξαν, καὶ ὑμᾶς διώξουσιν",
+     "source": "https://biblehub.com/text/john/15-18.htm; https://biblehub.com/text/john/15-19.htm; https://biblehub.com/text/john/15-20.htm",
+     "result": "agree (0.915) — span-checked across John 15:18-20 (run-join; rough-breathing/comma artifact class only)"
+    }
+   },
+   "diff_notes": "seat cuts at the draft's ellipsis ('persecute you also...'); the print continues 'if they haue kept my worde, they will also keepe yours.'; 1599 prints 'then' for 'than' — seat modern-spelled 'than'"
+  },
+  {
+   "id": "2TI.3.12",
+   "ref": "2 Timothy 3:12",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9479,
+     "cited_as": "2 Timothy 3:12 seat (draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Yea, and all that will liue godly in Christ Iesus, shall suffer persecution.",
+     "source": "https://ebible.org/enggnv/2TI03.12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Yea, and all that will liue godly in Christ Iesus, shall suffer persecution.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/55/12",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ πάντες δὲ οἱ θέλοντες εὐσεβῶς ζῇν ἐν Χριστῷ Ἰησοῦ, διωχθήσονται.",
+     "source": "https://biblehub.com/text/2_timothy/3-12.htm",
+     "result": "agree (1.000)"
+    }
+   },
+   "diff_notes": "print folds only (liue→live, Iesus→Jesus)"
+  },
+  {
+   "id": "JHN.15.21",
+   "ref": "John 15:21",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9503,
+     "cited_as": "John 15:21 seat (draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But all these things will they doe vnto you for my Names sake, because they haue not knowen him that sent me.",
+     "source": "https://ebible.org/enggnv/JHN15.21.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But all these things will they doe vnto you for my Names sake, because they haue not knowen him that sent me.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/21",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀλλὰ ταῦτα πάντα ποιήσουσιν εἰς ὑμᾶς διὰ τὸ ὄνομά μου, ὅτι οὐκ οἴδασιν τὸν πέμψαντά με.",
+     "source": "https://biblehub.com/text/john/15-21.htm",
+     "result": "agree (1.000)"
+    }
+   },
+   "diff_notes": "1599 prints 'Names sake' — seat keeps the draft's possessive 'Name's sake'"
+  },
+  {
+   "id": "ACT.5.41",
+   "ref": "Acts 5:41",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9509,
+     "cited_as": "Acts 5:41 seat (draft exact-modern — no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "So they departed from the Councill, reioycing, that they were counted worthy to suffer rebuke for his Name.",
+     "source": "https://ebible.org/enggnv/ACT05.41.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "So they departed from the Councill, reioycing, that they were counted worthy to suffer rebuke for his Name.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/44/41",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Οἱ μὲν οὖν ἐπορεύοντο χαίροντες ἀπὸ προσώπου τοῦ συνεδρίου, ὅτι ὑπὲρ τοῦ ὀνόματος τοῦ Ἰησοῦ κατηξιώθησαν ἀτιμασθῆναι.",
+     "source": "https://biblehub.com/text/acts/5-41.htm",
+     "result": "agree (1.000)"
+    }
+   },
+   "diff_notes": "print folds only (Councill→council, reioycing→rejoicing)"
+  },
+  {
+   "id": "1PE.4.14",
+   "ref": "1 Peter 4:14",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9515,
+     "cited_as": "1 Peter 4:14-16 span seat (v14 head; draft mid-ellipsis covers the v14 tail + v15)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If yee be railed vpon for the Name of Christ, blessed are ye: for the spirit of glory, and of God resteth vpon you: which on their part is euill spoken of: but on your part is glorified.",
+     "source": "https://ebible.org/enggnv/1PE04.14.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If yee be railed vpon for the Name of Christ, blessed are ye: for the spirit of glory, and of God resteth vpon you: which on their part is euill spoken of: but on your part is glorified.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/60/14",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ ὀνειδίζεσθε ἐν ὀνόματι Χριστοῦ, μακάριοι, ὅτι τὸ τῆς δόξης καὶ δυνάμεως καὶ τὸ τοῦ Θεοῦ Πνεῦμα ἐφ’ ὑμᾶς ἀναπαύεται εἰ δὲ ὡς Χριστιανός, μὴ αἰσχυνέσθω, δοξαζέτω δὲ τὸν Θεὸν ἐν τῷ ὀνόματι τούτῳ.",
+     "source": "https://biblehub.com/text/1_peter/4-14.htm; https://biblehub.com/text/1_peter/4-16.htm",
+     "result": "agree (1.000) — both ellipsis segments verbatim in WH (span-checked across 1 Peter 4:14-16)"
+    }
+   },
+   "diff_notes": "seat cuts at the draft's mid-ellipsis ('resteth upon you...'); the print continues 'which on their part is euill spoken of: but on your part is glorified.' — the ellipsis also covers v15; print folds yee→ye, vpon→upon, euill→evil"
+  },
+  {
+   "id": "1PE.4.16",
+   "ref": "1 Peter 4:16",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9515,
+     "cited_as": "1 Peter 4:14-16 span seat (v16 tail verse after the mid-ellipsis)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But if any man suffer as a Christian, let him not bee ashamed: but let him glorifie God in this behalfe.",
+     "source": "https://ebible.org/enggnv/1PE04.16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But if any man suffer as a Christian, let him not bee ashamed: but let him glorifie God in this behalfe.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/60/16",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Εἰ ὀνειδίζεσθε ἐν ὀνόματι Χριστοῦ, μακάριοι, ὅτι τὸ τῆς δόξης καὶ δυνάμεως καὶ τὸ τοῦ Θεοῦ Πνεῦμα ἐφ’ ὑμᾶς ἀναπαύεται εἰ δὲ ὡς Χριστιανός, μὴ αἰσχυνέσθω, δοξαζέτω δὲ τὸν Θεὸν ἐν τῷ ὀνόματι τούτῳ.",
+     "source": "https://biblehub.com/text/1_peter/4-14.htm; https://biblehub.com/text/1_peter/4-16.htm",
+     "result": "agree (1.000) — both ellipsis segments verbatim in WH (span-checked across 1 Peter 4:14-16)"
+    }
+   },
+   "diff_notes": "print folds only (bee→be, glorifie→glorify, behalfe→behalf)"
+  },
+  {
+   "id": "1PE.4.15",
+   "ref": "1 Peter 4:15",
+   "uses": [
+    {
+     "section": "COS-68",
+     "section_label": "THE CHRIST OF SCRIPTURE — What Does \"Suffering with Christ\" Mean?",
+     "article_line": 9525,
+     "cited_as": "observed by reference in Category-2 observation (3) — the seat ellipses over it",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But let none of you suffer as a murtherer, or as a thiefe, or an euil doer, or as a busibodie in other mens matters.",
+     "source": "https://ebible.org/enggnv/1PE04.15.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But let none of you suffer as a murtherer, or as a thiefe, or an euil doer, or as a busibodie in other mens matters.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/60/15",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "diff_notes": ""
   }
  ]
 }

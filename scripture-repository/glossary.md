@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**877 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**889 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1048 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1060 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -10188,6 +10188,88 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 - *Double-checked (second source): trb_fresh ✓*
 
+## Romans 8:17 — The Foundational Text
+
+### Romans 8:17 — CONFIRMED
+*cited as: ROM 8:17 — THE FOUNDATIONAL TEXT seat (draft exact-modern of the verified 1599 print — no splice)*
+- **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+## What Does "Suffering with Christ" Mean?
+
+### Matthew 5:10 — CONFIRMED
+*cited as: Matthew 5:10-12 span seat (one blockquote; draft exact-modern of the verified 1599 print — no splice)*
+- **Geneva 1599:** “Blessed are they which suffer persecution for righteousnes sake: for theirs is the kingdome of heauen.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Matthew 5:11 — CONFIRMED
+*cited as: Matthew 5:10-12 span seat (member verse)*
+- **Geneva 1599:** “Blessed shall ye be when men reuile you, and persecute you, and say all maner of euill against you for my sake, falsely.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Matthew 5:12 — CONFIRMED
+*cited as: Matthew 5:10-12 span seat (member verse)*
+- **Geneva 1599:** “Reioyce and be glad, for great is your reward in heauen: for so persecuted they the Prophets which were before you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### John 15:18 — CONFIRMED
+*cited as: John 15:18-20 span seat (one blockquote; draft exact-modern — no splice)*
+- **Geneva 1599:** “If the worlde hate you, ye knowe that it hated me before you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### John 15:19 — CONFIRMED
+*cited as: John 15:18-20 span seat (member verse; article-ye fold row-noted)*
+- **Geneva 1599:** “If ye were of the worlde, the world woulde loue his owne: but because ye are not of ye world, but I haue chosen you out of the world, therefore the world hateth you.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### John 15:20 — CONFIRMED
+*cited as: John 15:18-20 span seat (member verse; draft ellipsis mid-verse)*
+- **Geneva 1599:** “Remember the word that I said vnto you, The seruant is not greater then his master. If they haue persecuted me, they will persecute you also: if they haue kept my worde, they will also keepe yours.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 2 Timothy 3:12 — CONFIRMED
+*cited as: 2 Timothy 3:12 seat (draft exact-modern — no splice)*
+- **Geneva 1599:** “Yea, and all that will liue godly in Christ Iesus, shall suffer persecution.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### John 15:21 — CONFIRMED
+*cited as: John 15:21 seat (draft exact-modern — no splice)*
+- **Geneva 1599:** “But all these things will they doe vnto you for my Names sake, because they haue not knowen him that sent me.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Acts 5:41 — CONFIRMED
+*cited as: Acts 5:41 seat (draft exact-modern — no splice)*
+- **Geneva 1599:** “So they departed from the Councill, reioycing, that they were counted worthy to suffer rebuke for his Name.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 1 Peter 4:14 — CONFIRMED
+*cited as: 1 Peter 4:14-16 span seat (v14 head; draft mid-ellipsis covers the v14 tail + v15)*
+- **Geneva 1599:** “If yee be railed vpon for the Name of Christ, blessed are ye: for the spirit of glory, and of God resteth vpon you: which on their part is euill spoken of: but on your part is glorified.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 1 Peter 4:16 — CONFIRMED
+*cited as: 1 Peter 4:14-16 span seat (v16 tail verse after the mid-ellipsis)*
+- **Geneva 1599:** “But if any man suffer as a Christian, let him not bee ashamed: but let him glorifie God in this behalfe.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### 1 Peter 4:15 — PROSE-REF
+*cited as: observed by reference in Category-2 observation (3) — the seat ellipses over it*
+- **Geneva 1599:** “But let none of you suffer as a murtherer, or as a thiefe, or an euil doer, or as a busibodie in other mens matters.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -12945,7 +13027,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63 | confirmed, prose-ref |
-| Romans 8:17 | COS-62, COS-66 | confirmed, prose-ref |
+| Romans 8:17 | COS-62, COS-66, COS-67 | confirmed, prose-ref |
 | Romans 8:29 | COS-63, COS-66 | confirmed, prose-ref |
 | Romans 8:30 | COS-62 | prose-ref |
 | Romans 8:32 | COS-22, COS-42 | confirmed, confirmed (excerpt) |
@@ -13017,6 +13099,18 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 4:32 | COS-66 | prose-ref |
 | Colossians 2:13 | COS-66 | prose-ref |
 | Colossians 1:14 | COS-66 | prose-ref |
+| Matthew 5:10 | COS-68 | confirmed |
+| Matthew 5:11 | COS-68 | confirmed |
+| Matthew 5:12 | COS-68 | confirmed |
+| John 15:18 | COS-68 | confirmed |
+| John 15:19 | COS-68 | confirmed |
+| John 15:20 | COS-68 | confirmed |
+| 2 Timothy 3:12 | COS-68 | confirmed |
+| John 15:21 | COS-68 | confirmed |
+| Acts 5:41 | COS-68 | confirmed |
+| 1 Peter 4:14 | COS-68 | confirmed |
+| 1 Peter 4:16 | COS-68 | confirmed |
+| 1 Peter 4:15 | COS-68 | prose-ref |
 
 ## The editions used
 

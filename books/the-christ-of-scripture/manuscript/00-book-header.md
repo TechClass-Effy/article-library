@@ -117,3 +117,11 @@ Col 3:4, 1 John 3:2, 1 Thess 4:17 tail, 2 Tim 2:12, Rev 20:6, Rev 22:5 tail); th
 Synthesis identification tables + "In Christ" realities + Trajectory; the Closing Observation;
 and the (D) Seeker bridge — the Romans 8:17 "sufferings of the modern believer" arc opens
 next wave)
+63. (D) Romans 8:17 — The Foundational Text (COS-67 COMPLETE: the verse seated from the
+verified 1599 print — draft exact-modern, no splice; the εἴπερ conditional examined; co-suffering
+normative, corporate, and the path to co-glorification)
+64. (D) What Does "Suffering with Christ" Mean? (COS-68 OPEN — Categories 1-2 seated:
+Righteousness-sake persecution (Matt 5:10-12, John 15:18-20, 2 Tim 3:12) and the world's hatred
+for His Name (John 15:21, Acts 5:41, 1 Peter 4:14-16), every seat exact-modern of the verified
+1599 print; Categories 3-8, the modern-believer block, What-Is-Not, The Gifts, and the Grand
+Synthesis seat next waves)
