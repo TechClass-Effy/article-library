@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1018 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1044 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1189 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1215 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -11510,6 +11510,219 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
+## PRAYER — COMPLETING THE LORD'S PRAYER PATTERN; PRAYING IN THE SPIRIT; THE MODES AND THE POSTURE OF PRAYER
+
+### Ephesians 6:18 — CONFIRMED
+*cited as: seat (Geneva 1599 at modern spelling; eBible==TRB fresh)*
+- **Geneva 1599:** “And pray alwayes with all maner prayer and supplication in the Spirit: and watch thereunto with all perseuerance and supplication for al Saints,”
+- *Note:* draft seat exact-modern (alwayes→always, maner→manner, al→all folds); punctuation print-exact (mid-sentence comma); no splice.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### Jude 1:20 — CONFIRMED
+*cited as: seat (Jude 20-21 span, first half)*
+- **Geneva 1599:** “But, yee beloued, edifie your selues in your most holy faith, praying in the holy Ghost,”
+- *Note:* span quote; print comma after "Ghost" RESTORED over the draft period ("holy Ghost, And keep") — splice per the 1599 print (eBible==TRB); participle check: the print itself reads imperatives "edifie/keepe" — draft already matches.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### Jude 1:21 — CONFIRMED
+*cited as: seat (Jude 20-21 span, second half — cut)*
+- **Geneva 1599:** “And keepe your selues in the loue of God, looking for the mercie of our Lord Iesus Christ, vnto eternall life.”
+- *Note:* span quote carries only up to "the love of God," (the draft ellipsis); the print tail "looking for the mercie of our Lord Iesus Christ, vnto eternall life." rides in the banked text only.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Romans 8:15 — CONFIRMED
+*cited as: observation bullet 4 ("freely calling on the Father (Rom 8:15-16)")*
+- **Geneva 1599:** “For ye haue not receiued the Spirit of bodage, to feare againe: but ye haue receiued the Spirit of adoption, whereby we cry Abba, Father.”
+- *Note:* use-upsert: pre-banked (wave 43); COS-75 mention added.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:16 — CONFIRMED
+*cited as: observation bullet 4 (Rom 8:15-16 range partner)*
+- **Geneva 1599:** “The same Spirit beareth witnesse with our spirit, that we are the children of God.”
+- *Note:* use-upsert: pre-banked (wave 43); COS-75 mention added.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:26 — CONFIRMED
+*cited as: observation bullet 3 ("the Spirit interceding through us... with groanings beyond words (Rom 8:26)")*
+- **Geneva 1599:** “Likewise the Spirit also helpeth our infirmities: for we knowe not what to pray as wee ought: but the Spirit it selfe maketh request for vs with sighs, which cannot be expressed.”
+- *Note:* use-upsert: pre-banked (wave 43 seat); COS-75 mention added.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 0.886*
+
+### Matthew 7:7 — CONFIRMED
+*cited as: seat (Matthew 7:7-11 cited; v7 quoted with the draft ellipsis)*
+- **Geneva 1599:** “Aske, and it shall be giuen you: seeke, and ye shall finde: knocke, and it shall be opened vnto you.”
+- *Note:* range ref names 7:7-11; the seat quotes v7 and the ellipsis covers 7:8-11 (their texts banked as anchors); print-final period agrees.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### Matthew 7:8 — ANCHOR
+*cited as: range anchor (Matthew 7:7-11; not quoted — span ellipsis)*
+- **Geneva 1599:** “For whosoeuer asketh, receiueth: and he, that seeketh, findeth: and to him that knocketh, it shall be opened.”
+- *Note:* banked with gnv text for the cited range; obs paraphrases 7:11 ("good gifts").
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Matthew 7:9 — ANCHOR
+*cited as: range anchor (Matthew 7:7-11; not quoted — span ellipsis)*
+- **Geneva 1599:** “For what man is there among you, which if his sonne aske him bread, woulde giue him a stone?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Matthew 7:10 — ANCHOR
+*cited as: range anchor (Matthew 7:7-11; not quoted — span ellipsis)*
+- **Geneva 1599:** “Or if he aske fish, wil he giue him a serpent?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Matthew 7:11 — ANCHOR
+*cited as: range anchor (Matthew 7:7-11; not quoted — span ellipsis)*
+- **Geneva 1599:** “If ye then, which are euill, can giue to your children good giftes, howe much more shall your Father which is in heauen, giue good thinges to them that aske him?”
+- *Note:* obs: "the Father delights to give good gifts" paraphrases 7:11.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### 1 Thessalonians 5:18 — CONFIRMED
+*cited as: seat (Geneva 1599 at modern spelling; eBible==TRB fresh)*
+- **Geneva 1599:** “In all thinges giue thankes: for this is the will of God in Christ Iesus toward you.”
+- *Note:* draft seat exact-modern (thinges→things, thankes→thanks); no splice.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### 1 Timothy 2:1 — CONFIRMED
+*cited as: seat (1 Timothy 2:1-2 span, first half)*
+- **Geneva 1599:** “I Exhort therefore, that first of all supplications, prayers, intercessions, and giuing of thanks be made for all men,”
+- *Note:* span quote; draft exact-modern (authoritie→authority fold in v2); eBible==TRB fresh.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### 1 Timothy 2:2 — CONFIRMED
+*cited as: seat (1 Timothy 2:1-2 span, second half — cut)*
+- **Geneva 1599:** “For Kings, and for all that are in authoritie, that we may leade a quiet and a peaceable life, in all godlinesse and honestie.”
+- *Note:* span quote carries only up to "in authority," (the draft ellipsis); the print tail "that we may leade a quiet and peaceable life in all godlinesse and honestie." rides in the banked text only.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Luke 18:1 — CONFIRMED
+*cited as: seat (Geneva 1599 at modern spelling; eBible==TRB fresh)*
+- **Geneva 1599:** “And he spake also a parable vnto them, to this ende, that they ought alwayes to pray, and not to waxe faint,”
+- *Note:* draft seat exact-modern (ende→end, alwayes→always, waxe→wax folds); print-final comma kept; no splice.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### Matthew 6:9 — CONFIRMED
+*cited as: pattern-table fragment *"Our Father... hallowed be Thy Name"* (table VERBATIM)*
+- **Geneva 1599:** “After this maner therefore pray ye, Our father which art in heauen, halowed be thy name.”
+- **KJV:** “After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.”
+- *Note:* upsert: pre-banked; fragment exact-modern to the 1599 print ("Our father which art in heauen, halowed be thy name." — the draft's capitalization "Thy Name" is his table stylization); COS-75 use added.
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓*
+
+### Matthew 6:10 — CONFIRMED
+*cited as: pattern-table fragments *"Thy kingdom come"* / *"Thy will be done"* (table VERBATIM)*
+- **Geneva 1599:** “Thy Kingdome come. Thy will be done euen in earth, as it is in heauen.”
+- *Note:* both fragments exact-modern ("Thy Kingdome come." / "Thy will be done euen in earth, as it is in heauen."); both editions print "in heauen" for the earth clause (row-noted).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Matthew 6:11 — CONFIRMED
+*cited as: pattern-table fragment *"Give us this day our daily bread"* (table VERBATIM)*
+- **Geneva 1599:** “Giue vs this day our dayly bread.”
+- *Note:* fragment exact-modern ("Giue vs this day our dayly bread.").
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Matthew 6:12 — CONFIRMED
+*cited as: pattern-table fragment *"Forgive us our debts... as we also forgive"* (table VERBATIM)*
+- **Geneva 1599:** “And forgiue vs our dettes, as we also forgiue our detters.”
+- *Note:* "as we also forgive" IS the 1599 print reading ("as we also forgiue our detters") — both editions print "dettes"/"detters"; NO flag (the draft matches the print, not KJV).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Matthew 6:13 — CONFIRMED
+*cited as: pattern-table fragment *"Lead us not into temptation, but deliver us from evil"* (table VERBATIM)*
+- **Geneva 1599:** “And leade vs not into tentation, but deliuer vs from euill: for thine is the kingdome, and the power, and the glorie for euer. Amen.”
+- *Note:* fragment exact-modern ("Leade vs not into tentation, but deliuer vs from euill"); print "Amen" tail banked.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Mark 11:24 — CONFIRMED
+*cited as: seat (spliced to the 1599 print)*
+- **Geneva 1599:** “Therefore I say vnto you, Whatsoeuer ye desire when ye pray, beleeue that ye shall haue it, and it shalbe done vnto you.”
+- *Note:* draft "believe that ye shall receive it" spliced to the print "believe that ye shall have it" (eBible AND textusreceptusbibles both print "shall haue it"; KJV reads "receive them"; Greek ἐλάβετε aorist — row-noted, no flag: editions verbatim rule).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### 1 John 5:14 — CONFIRMED
+*cited as: seat (1 John 5:14-15 cited; v14 quoted with the draft ellipsis)*
+- **Geneva 1599:** “And this is that assurance, that we haue in him, that if we aske any thing according to his will, he heareth vs.”
+- *Note:* draft "ask any thing" IS the print two-word form (splice over the draft single word "anything"); print-final period; the ellipsis covers v15 (banked).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### 1 John 5:15 — CONFIRMED
+*cited as: range part (1 John 5:14-15; not quoted — span ellipsis)*
+- **Geneva 1599:** “And if we know that he heareth vs, whatsoeuer we aske, we know that we haue the petitions, that we haue desired of him.”
+- *Note:* banked with gnv text; the draft ref names 5-15; no seat text.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### John 14:13 — CONFIRMED
+*cited as: seat (John 14:13-14; Geneva at modern spelling — draft exact-modern, no splice)*
+- **Geneva 1599:** “And whatsoeuer ye aske in my Name, that will I doe, that the Father may be glorified in the Sonne.”
+- *Note:* upsert: pre-banked (wave 33); banked gnv asserted == fresh print; COS-75 seat-use added.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 14:14 — CONFIRMED
+*cited as: seat (John 14:13-14 second verse; draft exact-modern)*
+- **Geneva 1599:** “If ye shall aske any thing in my Name, I will doe it.”
+- *Note:* upsert: pre-banked (wave 33); banked gnv asserted == fresh print; COS-75 seat-use added.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Philippians 4:6 — CONFIRMED
+*cited as: seat (Philippians 4:6-7 span, first half)*
+- **Geneva 1599:** “Be nothing carefull, but in all thinges let your requestes be shewed vnto God in praier, and supplication with giuing of thankes.”
+- *Note:* span quote; draft exact-modern (carefull→careful, thinges→things, requestes→requests, shewed→showed, praier→prayer, thankes→thanks); no splice.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0) · greek_biblehub_fresh ✓*
+
+### Philippians 4:7 — CONFIRMED
+*cited as: seat (Philippians 4:6-7 span, second half — cut)*
+- **Geneva 1599:** “And the peace of God which passeth all vnderstanding, shall preserue your heartes and mindes in Christ Iesus.”
+- *Note:* span quote carries only up to "shall preserve your hearts" (the draft ellipsis); the print tail "and mindes in Christ Iesus." rides in the banked text only; print reads "preserue" ("preserve" — the draft already matches; NOT "keep").
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### 1 Thessalonians 5:17 — PROSE-REF
+*cited as: Practical Implications item 6: *"pray without ceasing"* (1 Thess 5:17)*
+- **Geneva 1599:** “Pray continually.”
+- *Note:* flag below.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.0)*
+
+### Ephesians 1:15-23 (range) — ANCHOR
+*cited as: Practical Implications item 3 ref (Paul's prayers) — mention-anchor*
+- *Checked 2026-11-12 · editions fetched: *
+
+### Ephesians 3:14-21 (range) — ANCHOR
+*cited as: Practical Implications item 3 ref (Paul's prayers) — mention-anchor*
+- *Checked 2026-11-12 · editions fetched: *
+
+### Philippians 1:9-11 (range) — ANCHOR
+*cited as: Practical Implications item 3 ref (Paul's prayers) — mention-anchor*
+- *Checked 2026-11-12 · editions fetched: *
+
+### Colossians 1:9-12 (range) — ANCHOR
+*cited as: Practical Implications item 3 ref (Paul's prayers) — mention-anchor*
+- *Checked 2026-11-12 · editions fetched: *
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -13852,8 +14065,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 14:10 | COS-55, COS-56, COS-58, COS-59, COS-60 | anchor, prose-ref, seat |
 | John 14:11 | COS-55, COS-56, COS-60 | anchor, prose-ref, seat |
 | John 14:12 | COS-60 | prose-ref |
-| John 14:13 | COS-60 | prose-ref |
-| John 14:14 | COS-60 | prose-ref |
+| John 14:13 | COS-60, COS-75 | confirmed, prose-ref |
+| John 14:14 | COS-60, COS-75 | confirmed, prose-ref |
 | John 14:15 | COS-60 | flagged |
 | John 14:16 | COS-59, COS-60 | confirmed, prose-ref |
 | John 14:17 | COS-59, COS-60 | confirmed, prose-ref |
@@ -14085,7 +14298,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 4:16 | COS-23 | confirmed |
 | Matthew 5:17 | COS-28 | anchor |
 | Matthew 5:37 | P7 | confirmed |
-| Matthew 6:9 | CLOSE | confirmed |
+| Matthew 6:9 | CLOSE, COS-75 | confirmed |
 | Matthew 8:16 | COS-22, COS-23 | anchor, confirmed (excerpt) |
 | Matthew 8:17 | COS-22 | confirmed (excerpt) |
 | Matthew 9:15 | COS-24 | anchor |
@@ -14353,8 +14566,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 5:30 | COS-66 | confirmed, prose-ref |
 | 1 Corinthians 6:17 | COS-66 | confirmed, prose-ref |
 | Romans 8:14 | COS-66, COS-70 | confirmed |
-| Romans 8:15 | COS-66, COS-70 | confirmed |
-| Romans 8:16 | COS-66, COS-69, COS-70 | anchor, confirmed |
+| Romans 8:15 | COS-66, COS-70, COS-75 | confirmed |
+| Romans 8:16 | COS-66, COS-69, COS-70, COS-75 | anchor, confirmed |
 | Galatians 4:5 | COS-66 | confirmed |
 | Galatians 4:7 | COS-66 | confirmed |
 | Mark 14:36 | COS-66, COS-70 | anchor, prose-ref |
@@ -14468,7 +14681,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 8:7 | COS-70 | confirmed |
 | Romans 8:8 | COS-70 | confirmed |
 | Romans 8:12 | COS-70 | confirmed |
-| Romans 8:26 | COS-70 | confirmed |
+| Romans 8:26 | COS-70, COS-75 | confirmed |
 | Romans 8:27 | COS-70 | confirmed |
 | Romans 8:38 | COS-70 | confirmed |
 | Romans 8:39 | COS-70 | confirmed |
@@ -14510,6 +14723,32 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 4:1 | COS-73 | confirmed |
 | Leviticus 19:18 | COS-72 | anchor |
 | Romans 13:12 | COS-74 | anchor |
+| Ephesians 6:18 | COS-75 | confirmed |
+| Jude 1:20 | COS-75 | confirmed |
+| Jude 1:21 | COS-75 | confirmed |
+| Matthew 7:7 | COS-75 | confirmed |
+| Matthew 7:8 | COS-75 | anchor |
+| Matthew 7:9 | COS-75 | anchor |
+| Matthew 7:10 | COS-75 | anchor |
+| Matthew 7:11 | COS-75 | anchor |
+| 1 Thessalonians 5:18 | COS-75 | confirmed |
+| 1 Thessalonians 5:17 | COS-75 | prose-ref |
+| 1 Timothy 2:1 | COS-75 | confirmed |
+| 1 Timothy 2:2 | COS-75 | confirmed |
+| Luke 18:1 | COS-75 | confirmed |
+| Mark 11:24 | COS-75 | confirmed |
+| 1 John 5:14 | COS-75 | confirmed |
+| 1 John 5:15 | COS-75 | confirmed |
+| Philippians 4:6 | COS-75 | confirmed |
+| Philippians 4:7 | COS-75 | confirmed |
+| Matthew 6:10 | COS-75 | confirmed |
+| Matthew 6:11 | COS-75 | confirmed |
+| Matthew 6:12 | COS-75 | confirmed |
+| Matthew 6:13 | COS-75 | confirmed |
+| Ephesians 1:15-23 (range) | COS-75 | anchor |
+| Ephesians 3:14-21 (range) | COS-75 | anchor |
+| Philippians 1:9-11 (range) | COS-75 | anchor |
+| Colossians 1:9-12 (range) | COS-75 | anchor |
 
 ## The editions used
 

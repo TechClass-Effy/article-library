@@ -126,7 +126,8 @@
    "COS-71",
    "COS-72",
    "COS-73",
-   "COS-74"
+   "COS-74",
+   "COS-75"
   ],
   "sections": [
    {
@@ -578,6 +579,10 @@
    {
     "key": "COS-74",
     "label": "GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER"
+   },
+   {
+    "key": "COS-75",
+    "label": "PRAYER — COMPLETING THE LORD'S PRAYER PATTERN; PRAYING IN THE SPIRIT; THE MODES AND THE POSTURE OF PRAYER"
    }
   ],
   "double_check": {
@@ -638,9 +643,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 104344,
+  "so_far_words": 105580,
   "cos_sofar": {
-   "waves": 44
+   "waves": 45
   },
   "glossary": 1189
  },
@@ -25373,6 +25378,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11922,
+     "cited_as": "seat (John 14:13-14; Geneva at modern spelling — draft exact-modern, no splice)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "upsert: pre-banked (wave 33); banked gnv asserted == fresh print; COS-75 seat-use added."
     }
    ]
   },
@@ -25405,6 +25420,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11922,
+     "cited_as": "seat (John 14:13-14 second verse; draft exact-modern)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "upsert: pre-banked (wave 33); banked gnv asserted == fresh print; COS-75 seat-use added."
     }
    ]
   },
@@ -35028,6 +35053,16 @@
      "status": "confirmed",
      "matched_source": "kjv",
      "note": ""
+    },
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11900,
+     "cited_as": "pattern-table fragment *\"Our Father... hallowed be Thy Name\"* (table VERBATIM)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "upsert: pre-banked; fragment exact-modern to the 1599 print (\"Our father which art in heauen, halowed be thy name.\" — the draft's capitalization \"Thy Name\" is his table stylization); COS-75 use added."
     }
    ],
    "verified": "2026-11-02",
@@ -47053,6 +47088,16 @@
      "status": "confirmed",
      "note": "banked==fresh asserted; print drops the comma after \"cry\" (draft \"cry, Abba\") — seat follows the print",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11841,
+     "cited_as": "observation bullet 4 (\"freely calling on the Father (Rom 8:15-16)\")",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "use-upsert: pre-banked (wave 43); COS-75 mention added."
     }
    ],
    "verified": "2026-11-12",
@@ -47104,6 +47149,16 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11841,
+     "cited_as": "observation bullet 4 (Rom 8:15-16 range partner)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "use-upsert: pre-banked (wave 43); COS-75 mention added."
     }
    ],
    "verified": "2026-11-12",
@@ -51295,6 +51350,16 @@
      "status": "confirmed",
      "note": "print \"sighes\"→draft \"sighs\", \"it selfe\"→\"itself\" orthographic folds; no wording splice.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11841,
+     "cited_as": "observation bullet 3 (\"the Spirit interceding through us... with groanings beyond words (Rom 8:26)\")",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "use-upsert: pre-banked (wave 43 seat); COS-75 mention added."
     }
    ],
    "second_check": {
@@ -52747,6 +52812,792 @@
     }
    },
    "note": "synthesis table cell \"Cast off works of darkness\" paraphrase (canon 11702)"
+  },
+  {
+   "id": "EPH.6.18",
+   "ref": "Ephesians 6:18",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And pray alwayes with all maner prayer and supplication in the Spirit: and watch thereunto with all perseuerance and supplication for al Saints,",
+     "source": "https://ebible.org/enggnv/EPH06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And pray alwayes with all maner prayer and supplication in the Spirit: and watch thereunto with all perseuerance and supplication for al Saints,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/6",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "διὰ πάσης προσευχῆς καὶ δεήσεως, προσευχόμενοι ἐν παντὶ καιρῷ ἐν Πνεύματι, καὶ εἰς αὐτὸ ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, διὰ πάσης προσευχῆς καὶ δεήσεως, προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι, καὶ εἰς αὐτὸ ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, διὰ πάσης προσευχῆς καὶ δεήσεως, προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι, καὶ εἰς αὐτὸ ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, διὰ πάσης προσευχῆς καὶ δεήσεως προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι, καὶ εἰς αὐτὸ τοῦτο ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, διὰ πάσης προσευχῆς καὶ δεήσεως, προσευχόμενοι ἐν παντὶ καιρῷ ἐν Πνεύματι, καὶ εἰς αὐτὸ τοῦτο ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, διά πᾶς προσευχή καί δέησις προσεύχομαι ἐν πᾶς καιρός ἐν πνεῦμα καί εἰς αὐτός ἀγρυπνέω ἐν πᾶς προσκαρτέρησις καί δέησις περί πᾶς ὁ ἅγιος διὰ πάσης προσευχῆς καὶ δεήσεως προσευχόμενοι ἐν παντὶ καιρῷ ἐν Πνεύματι, καὶ εἰς αὐτὸ τοῦτο ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων, διὰ πάσης προσευχῆς καὶ δεήσεως προσευχόμενοι ἐν παντὶ καιρῷ ἐν πνεύματι καὶ εἰς αὐτὸ τοῦτο ἀγρυπνοῦντες ἐν πάσῃ προσκαρτερήσει καὶ δεήσει περὶ πάντων τῶν ἁγίων",
+     "source": "https://biblehub.com/text/ephesians/6-18.htm (WH)",
+     "result": "agree (1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11814,
+     "cited_as": "seat (Geneva 1599 at modern spelling; eBible==TRB fresh)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "draft seat exact-modern (alwayes→always, maner→manner, al→all folds); punctuation print-exact (mid-sentence comma); no splice."
+    }
+   ]
+  },
+  {
+   "id": "JUD.1.20",
+   "ref": "Jude 1:20",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But, yee beloued, edifie your selues in your most holy faith, praying in the holy Ghost,",
+     "source": "https://ebible.org/enggnv/JUD01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But, yee beloued, edifie your selues in your most holy faith, praying in the holy Ghost,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/65/1",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὑμεῖς δέ, ἀγαπητοί, ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει, ἐν Πνεύματι Ἁγίῳ προσευχόμενοι, Ὑμεῖς δέ, ἀγαπητοί, ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει, ἐν πνεύματι ἁγίῳ προσευχόμενοι, Ὑμεῖς δέ, ἀγαπητοί, ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει, ἐν πνεύματι ἁγίῳ προσευχόμενοι, Ὑμεῖς δέ, ἀγαπητοί, τῇ ἁγιωτάτῃ ὑμῶν πίστει ἐποικοδομοῦντες ἑαυτούς, ἐν πνεύματι ἁγίῳ προσευχόμενοι, Ὑμεῖς δέ, ἀγαπητοί, τῇ ἁγιωτάτῃ ὑμῶν πίστει ἐποικοδομοῦντες ἑαυτοὺς, ἐν Πνεύματι ἁγίῳ προσευχόμενοι, ὑμεῖς δέ ἀγαπητός ἐποικοδομέω ἑαυτοῦ ὁ ἅγιος ὑμεῖς πίστις ἐν πνεῦμα ἅγιος προσεύχομαι ὑμεῖς δέ, ἀγαπητοί, τῇ ἁγιωτάτῃ ὑμῶν πίστει ἐποικοδομοῦντες ἑαυτοὺς, ἐν Πνεύματι Ἁγίω προσευχόμενοι, ὑμεῖς δέ ἀγαπητοί τῇ ἁγιωτάτῃ ὑμῶν πίστει ἐποικοδομοῦντες ἑαυτοὺς ἐν πνεύματι ἁγίῳ προσευχόμενοι ἑαυτοὺς ἐν ἀγάπῃ Θεοῦ τηρήσατε, προσδεχόμενοι τὸ ἔλεος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον. ἑαυτοὺς ἐν ἀγάπῃ θεοῦ τηρήσατε προσδεχόμενοι τὸ ἔλεος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον. ἑαυτοὺς ἐν ἀγάπῃ θεοῦ τηρήσατε προσδεχόμενοι τὸ ἔλεος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον. ἑαυτοὺς ἐν ἀγάπῃ θεοῦ τηρήσατε, προσδεχόμενοι τὸ ἔλεος τοῦ κυρίου ἡμῶν Ἰησοῦ χριστοῦ εἰς ζωὴν αἰώνιον. ἑαυτοὺς ἐν ἀγάπῃ Θεοῦ τηρήσατε, προσδεχόμενοι τὸ ἔλεος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, εἰς ζωὴν αἰώνιον. ἑαυτοῦ ἐν ἀγάπη θεός τηρέω προσδέχομαι ὁ ἔλεος ὁ κύριος ἡμᾶς Ἰησοῦς Χριστός εἰς ζωή αἰώνιος ἑαυτοὺς ἐν ἀγάπῃ Θεοῦ τηρήσατε, προσδεχόμενοι τὸ ἔλεος τοῦ Κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον. ἑαυτοὺς ἐν ἀγάπῃ θεοῦ τηρήσατε προσδεχόμενοι τὸ ἔλεος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον",
+     "source": "https://biblehub.com/text/jude/1-20.htm (WH)",
+     "result": "agree (1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11820,
+     "cited_as": "seat (Jude 20-21 span, first half)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "span quote; print comma after \"Ghost\" RESTORED over the draft period (\"holy Ghost, And keep\") — splice per the 1599 print (eBible==TRB); participle check: the print itself reads imperatives \"edifie/keepe\" — draft already matches."
+    }
+   ]
+  },
+  {
+   "id": "JUD.1.21",
+   "ref": "Jude 1:21",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And keepe your selues in the loue of God, looking for the mercie of our Lord Iesus Christ, vnto eternall life.",
+     "source": "https://ebible.org/enggnv/JUD01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And keepe your selues in the loue of God, looking for the mercie of our Lord Iesus Christ, vnto eternall life.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/65/1",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11820,
+     "cited_as": "seat (Jude 20-21 span, second half — cut)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "span quote carries only up to \"the love of God,\" (the draft ellipsis); the print tail \"looking for the mercie of our Lord Iesus Christ, vnto eternall life.\" rides in the banked text only."
+    }
+   ]
+  },
+  {
+   "id": "MAT.7.7",
+   "ref": "Matthew 7:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Aske, and it shall be giuen you: seeke, and ye shall finde: knocke, and it shall be opened vnto you.",
+     "source": "https://ebible.org/enggnv/MAT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Aske, and it shall be giuen you: seeke, and ye shall finde: knocke, and it shall be opened vnto you.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/7",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε, καὶ δοθήσεται ὑμῖν κρούετε, καὶ ἀνοιγήσεται ὑμῖν. Αἰτεῖτε καὶ δοθήσεται ὑμῖν ζητεῖτε καὶ εὑρήσετε κρούετε καὶ ἀνοιγήσεται ὑμῖν πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται. πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται. πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται. Πᾶς γὰρ ὁ αἰτῶν λαμβάνει, καὶ ὁ ζητῶν εὑρίσκει, καὶ τῷ κρούοντι ἀνοιγήσεται. πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται. πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται. πᾶς γὰρ ὁ αἰτῶν λαμβάνει, καὶ ὁ ζητῶν εὑρίσκει, καὶ τῷ κρούοντι ἀνοιγήσεται. πᾶς γὰρ ὁ αἰτῶν λαμβάνει καὶ ὁ ζητῶν εὑρίσκει καὶ τῷ κρούοντι ἀνοιγήσεται ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ; ἢ τίς ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ; ἢ τίς [ἐστιν] ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ; Ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν ἐὰν αἰτήσῃ ὁ υἱὸς αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ; ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν ἐὰν αἰτήσῃ ὁ υἱὸς αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ; ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ; ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος, ὃν ἐὰν αἰτήσῃ ὁ υἱὸς αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ; ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος ὃν ἐὰν αἰτήσῃ ὁ υἱὸς αὐτοῦ ἄρτον μὴ λίθον ἐπιδώσει αὐτῷ; ἢ καὶ ἰχθὺν αἰτήσει, μὴ ὄφιν ἐπιδώσει αὐτῷ; ἢ καὶ ἰχθὺν αἰτήσει μὴ ὄφιν ἐπιδώσει αὐτῷ; ἢ καὶ ἰχθὺν αἰτήσει μὴ ὄφιν ἐπιδώσει αὐτῷ; Καὶ ἐὰν ἰχθὺν αἰτήσῃ, μὴ ὄφιν ἐπιδώσει αὐτῷ; καὶ ἐὰν ἰχθὺν αἰτήσῃ, μὴ ὄφιν ἐπιδώσει αὐτῷ; ἢ καὶ ἰχθὺν αἰτήσει, μὴ ὄφιν ἐπιδώσει αὐτῷ; καὶ ἐὰν ἰχθὺν αἰτήσῃ, μὴ ὄφιν ἐπιδώσει αὐτῷ; καὶ ἐὰν ἰχθὺν αἰτήσῃ, μὴ ὄφιν ἐπιδώσει αὐτῷ εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ Πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν. εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν. εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν. Εἰ οὖν ὑμεῖς, πονηροὶ ὄντες, οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν; εἰ οὖν ὑμεῖς, πονηροὶ ὄντες, οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν; εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν. εἰ οὖν ὑμεῖς, πονηροὶ ὄντες, οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν, πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν; εἰ οὖν ὑμεῖς πονηροὶ ὄντες οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν πόσῳ μᾶλλον ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς δώσει ἀγαθὰ τοῖς αἰτοῦσιν αὐτόν",
+     "source": "https://biblehub.com/text/matthew/7-7.htm (WH)",
+     "result": "agree (0.875, comma-attachment class on ζητεῖτε;)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11846,
+     "cited_as": "seat (Matthew 7:7-11 cited; v7 quoted with the draft ellipsis)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "range ref names 7:7-11; the seat quotes v7 and the ellipsis covers 7:8-11 (their texts banked as anchors); print-final period agrees."
+    }
+   ]
+  },
+  {
+   "id": "MAT.7.8",
+   "ref": "Matthew 7:8",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For whosoeuer asketh, receiueth: and he, that seeketh, findeth: and to him that knocketh, it shall be opened.",
+     "source": "https://ebible.org/enggnv/MAT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For whosoeuer asketh, receiueth: and he, that seeketh, findeth: and to him that knocketh, it shall be opened.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/7",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11846,
+     "cited_as": "range anchor (Matthew 7:7-11; not quoted — span ellipsis)",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": "banked with gnv text for the cited range; obs paraphrases 7:11 (\"good gifts\")."
+    }
+   ]
+  },
+  {
+   "id": "MAT.7.9",
+   "ref": "Matthew 7:9",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For what man is there among you, which if his sonne aske him bread, woulde giue him a stone?",
+     "source": "https://ebible.org/enggnv/MAT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For what man is there among you, which if his sonne aske him bread, woulde giue him a stone?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/7",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11846,
+     "cited_as": "range anchor (Matthew 7:7-11; not quoted — span ellipsis)",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "MAT.7.10",
+   "ref": "Matthew 7:10",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Or if he aske fish, wil he giue him a serpent?",
+     "source": "https://ebible.org/enggnv/MAT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Or if he aske fish, wil he giue him a serpent?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/7",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11846,
+     "cited_as": "range anchor (Matthew 7:7-11; not quoted — span ellipsis)",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "MAT.7.11",
+   "ref": "Matthew 7:11",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If ye then, which are euill, can giue to your children good giftes, howe much more shall your Father which is in heauen, giue good thinges to them that aske him?",
+     "source": "https://ebible.org/enggnv/MAT07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "If ye then, which are euill, can giue to your children good giftes, howe much more shall your Father which is in heauen, giue good thinges to them that aske him?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/7",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11846,
+     "cited_as": "range anchor (Matthew 7:7-11; not quoted — span ellipsis)",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": "obs: \"the Father delights to give good gifts\" paraphrases 7:11."
+    }
+   ]
+  },
+  {
+   "id": "1TH.5.18",
+   "ref": "1 Thessalonians 5:18",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "In all thinges giue thankes: for this is the will of God in Christ Iesus toward you.",
+     "source": "https://ebible.org/enggnv/1TH05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "In all thinges giue thankes: for this is the will of God in Christ Iesus toward you.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/52/5",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα Θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα θεοῦ ἐν χριστῷ Ἰησοῦ εἰς ὑμᾶς. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα Θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν πᾶς εὐχαριστέω οὗτος γάρ θέλημα θεός ἐν Χριστός Ἰησοῦς εἰς ὑμεῖς ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα Θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς. ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Α΄ ἐν παντὶ εὐχαριστεῖτε τοῦτο γὰρ θέλημα θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς",
+     "source": "https://biblehub.com/text/1_thessalonians/5-18.htm (WH)",
+     "result": "agree (1.000, re-extract with short-run threshold; the >=4-word run filter had dropped the 3-word head clause)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11856,
+     "cited_as": "seat (Geneva 1599 at modern spelling; eBible==TRB fresh)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "draft seat exact-modern (thinges→things, thankes→thanks); no splice."
+    }
+   ]
+  },
+  {
+   "id": "1TH.5.17",
+   "ref": "1 Thessalonians 5:17",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Pray continually.",
+     "source": "https://ebible.org/enggnv/1TH05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Pray continually.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/52/5",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11950,
+     "cited_as": "Practical Implications item 6: *\"pray without ceasing\"* (1 Thess 5:17)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "flag below."
+    }
+   ],
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Practical Implications item 6 (canon ~11950) quotes \"pray without ceasing\" — KJV-voiced; the 1599 prints \"Pray continually.\" (both eBible and textusreceptusbibles). Italic version-name or re-voice awaits Gideon (standing attribution class, 10 Nov 2026).",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "1TI.2.1",
+   "ref": "1 Timothy 2:1",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I Exhort therefore, that first of all supplications, prayers, intercessions, and giuing of thanks be made for all men,",
+     "source": "https://ebible.org/enggnv/1TI02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I Exhort therefore, that first of all supplications, prayers, intercessions, and giuing of thanks be made for all men,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/2",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων, παρακαλέω οὖν πρῶτον πᾶς ποιέω δέησις προσευχή ἔντευξις εὐχαριστία ὑπέρ πᾶς ἄνθρωπος Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας, ὑπὲρ πάντων ἀνθρώπων Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις προσευχάς ἐντεύξεις εὐχαριστίας ὑπὲρ πάντων ἀνθρώπων ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι. ὑπέρ βασιλεύς καί πᾶς ὁ ἐν ὑπεροχή εἰμί ἵνα ἤρεμος καί ἡσύχιος βίος διάγω ἐν πᾶς εὐσέβεια καί σεμνότης ὑπὲρ βασιλέων, καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι",
+     "source": "https://biblehub.com/text/1_timothy/2-1.htm (WH)",
+     "result": "agree (1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11866,
+     "cited_as": "seat (1 Timothy 2:1-2 span, first half)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "span quote; draft exact-modern (authoritie→authority fold in v2); eBible==TRB fresh."
+    }
+   ]
+  },
+  {
+   "id": "1TI.2.2",
+   "ref": "1 Timothy 2:2",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For Kings, and for all that are in authoritie, that we may leade a quiet and a peaceable life, in all godlinesse and honestie.",
+     "source": "https://ebible.org/enggnv/1TI02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For Kings, and for all that are in authoritie, that we may leade a quiet and a peaceable life, in all godlinesse and honestie.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/2",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11866,
+     "cited_as": "seat (1 Timothy 2:1-2 span, second half — cut)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "span quote carries only up to \"in authority,\" (the draft ellipsis); the print tail \"that we may leade a quiet and peaceable life in all godlinesse and honestie.\" rides in the banked text only."
+    }
+   ]
+  },
+  {
+   "id": "LUK.18.1",
+   "ref": "Luke 18:1",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he spake also a parable vnto them, to this ende, that they ought alwayes to pray, and not to waxe faint,",
+     "source": "https://ebible.org/enggnv/LUK18.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And he spake also a parable vnto them, to this ende, that they ought alwayes to pray, and not to waxe faint,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/42/18",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐνκακεῖν, Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐνκακεῖν, Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐνκακεῖν, Ἔλεγεν δὲ καὶ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι, καὶ μὴ ἐκκακεῖν, Ἔλεγε δὲ καὶ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐκκακεῖν, Ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐνκακεῖν, Ἔλεγε δὲ καὶ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι, καὶ μὴ ἐκκακεῖν, Ἔλεγεν δὲ καὶ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι καὶ μὴ ἐκκακεῖν,",
+     "source": "https://biblehub.com/text/luke/18-1.htm (WH)",
+     "result": "agree (0.923, comma-attachment class on μὴ ἐγκακεῖν;)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11892,
+     "cited_as": "seat (Geneva 1599 at modern spelling; eBible==TRB fresh)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "draft seat exact-modern (ende→end, alwayes→always, waxe→wax folds); print-final comma kept; no splice."
+    }
+   ]
+  },
+  {
+   "id": "MRK.11.24",
+   "ref": "Mark 11:24",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore I say vnto you, Whatsoeuer ye desire when ye pray, beleeue that ye shall haue it, and it shalbe done vnto you.",
+     "source": "https://ebible.org/enggnv/MRK11.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore I say vnto you, Whatsoeuer ye desire when ye pray, beleeue that ye shall haue it, and it shalbe done vnto you.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/41/11",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "διὰ τοῦτο λέγω ὑμῖν, πάντα ὅσα προσεύχεσθε καὶ αἰτεῖσθε, πιστεύετε ὅτι ἐλάβετε, καὶ ἔσται ὑμῖν. διὰ τοῦτο λέγω ὑμῖν, πάντα ὅσα προσεύχεσθε καὶ αἰτεῖσθε, πιστεύετε ὅτι ἐλάβετε, καὶ ἔσται ὑμῖν. διὰ τοῦτο λέγω ὑμῖν, πάντα ὅσα προσεύχεσθε καὶ αἰτεῖσθε, πιστεύετε ὅτι ἐλάβετε, καὶ ἔσται ὑμῖν. Διὰ τοῦτο λέγω ὑμῖν, Πάντα ὅσα ἂν προσευχόμενοι αἰτῆσθε, πιστεύετε ὅτι λαμβάνετε, καὶ ἔσται ὑμῖν. διὰ τοῦτο λέγω ὑμῖν, πάντα ὅσα ἂν προσευχόμενοι αἰτεῖσθε, πιστεύετε ὅτι λαμβάνετε, καὶ ἔσται ὑμῖν. διὰ τοῦτο λέγω ὑμῖν, πάντα ὅσα προσεύχεσθε καὶ αἰτεῖσθε, πιστεύετε ὅτι ἐλάβετε, καὶ ἔσται ὑμῖν. διὰ τοῦτο λέγω ὑμῖν, Πάντα ὅσα ἄν προσεύχομενοι αἰτεῖσθε, πιστεύετε ὅτι λαμβάνετε, καὶ ἔσται ὑμῖν. διὰ τοῦτο λέγω ὑμῖν πάντα ὅσα ἄν προσεύχομενοι αἰτεῖσθε πιστεύετε ὅτι λαμβάνετέ καὶ ἔσται ὑμῖν",
+     "source": "https://biblehub.com/text/mark/11-24.htm (WH)",
+     "result": "agree (1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11902,
+     "cited_as": "seat (spliced to the 1599 print)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "draft \"believe that ye shall receive it\" spliced to the print \"believe that ye shall have it\" (eBible AND textusreceptusbibles both print \"shall haue it\"; KJV reads \"receive them\"; Greek ἐλάβετε aorist — row-noted, no flag: editions verbatim rule)."
+    }
+   ]
+  },
+  {
+   "id": "1JN.5.14",
+   "ref": "1 John 5:14",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And this is that assurance, that we haue in him, that if we aske any thing according to his will, he heareth vs.",
+     "source": "https://ebible.org/enggnv/1JN05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And this is that assurance, that we haue in him, that if we aske any thing according to his will, he heareth vs.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/62/5",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν. καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν. καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν. Καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ, ἀκούει ἡμῶν καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ, ἀκούει ἡμῶν. καί οὗτος εἰμί ὁ παῤῥησία ὅς ἔχω πρός αὐτός ὅτι ἐάν τὶς αἰτέω κατά ὁ θέλημα αὐτός ἀκούω ἡμᾶς καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ, ἀκούει ἡμῶν καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν ἀπ’ αὐτοῦ. καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν ἀπ καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν ἀπ καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν, ὃ ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν παρ’ αὐτοῦ. καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἐὰν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν παρ’ αὐτοῦ. καί ἐάν εἴδω ὅτι ἀκούω ἡμᾶς ὅς ἐάν αἰτέω εἴδω ὅτι ἔχω ὁ αἴτημα ὅς αἰτέω ἀπό αὐτός καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν, ὃ ἂν αἰτώμεθα, οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν παρ’ αὐτοῦ. καὶ ἐὰν οἴδαμεν ὅτι ἀκούει ἡμῶν ὃ ἂν αἰτώμεθα οἴδαμεν ὅτι ἔχομεν τὰ αἰτήματα ἃ ᾐτήκαμεν παρ",
+     "source": "https://biblehub.com/text/1_john/5-14.htm (WH)",
+     "result": "agree (1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11912,
+     "cited_as": "seat (1 John 5:14-15 cited; v14 quoted with the draft ellipsis)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "draft \"ask any thing\" IS the print two-word form (splice over the draft single word \"anything\"); print-final period; the ellipsis covers v15 (banked)."
+    }
+   ]
+  },
+  {
+   "id": "1JN.5.15",
+   "ref": "1 John 5:15",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And if we know that he heareth vs, whatsoeuer we aske, we know that we haue the petitions, that we haue desired of him.",
+     "source": "https://ebible.org/enggnv/1JN05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And if we know that he heareth vs, whatsoeuer we aske, we know that we haue the petitions, that we haue desired of him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/62/5",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11912,
+     "cited_as": "range part (1 John 5:14-15; not quoted — span ellipsis)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "banked with gnv text; the draft ref names 5-15; no seat text."
+    }
+   ]
+  },
+  {
+   "id": "PHP.4.6",
+   "ref": "Philippians 4:6",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Be nothing carefull, but in all thinges let your requestes be shewed vnto God in praier, and supplication with giuing of thankes.",
+     "source": "https://ebible.org/enggnv/PHP04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Be nothing carefull, but in all thinges let your requestes be shewed vnto God in praier, and supplication with giuing of thankes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/4",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "μηδὲν μεριμνᾶτε, ἀλλ’ ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν Θεόν. ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετ μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν Μηδὲν μεριμνᾶτε, ἀλλ’ ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν. μηδὲν μεριμνᾶτε, ἀλλ’ ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν Θεόν, μηδείς μεριμνάω ἀλλά ἐν πᾶς ὁ προσευχή καί ὁ δέησις μετά εὐχαριστία ὁ αἴτημα ὑμεῖς γνωρίζω πρός ὁ θεός μηδὲν μεριμνᾶτε, ἀλλ’ ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν Θεόν, ἐν παντὶ τῇ προσευχῇ καὶ τῇ δεήσει μετὰ εὐχαριστίας τὰ αἰτήματα ὑμῶν γνωριζέσθω πρὸς τὸν θεόν καὶ ἡ εἰρήνη τοῦ Θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ. καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ. καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ. Καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν, φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν χριστῷ Ἰησοῦ. καὶ ἡ εἰρήνη τοῦ Θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ. καί ὁ εἰρήνη ὁ θεός ὁ ὑπερέχω πᾶς νοῦς φρουρέω ὁ καρδία ὑμεῖς καί ὁ νόημα ὑμεῖς ἐν Χριστός Ἰησοῦς καὶ ἡ εἰρήνη τοῦ Θεοῦ ἡ ὑπερέχουσα πάντα νοῦν, φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ. καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ",
+     "source": "https://biblehub.com/text/philippians/4-6.htm (WH)",
+     "result": "agree (1.000)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11932,
+     "cited_as": "seat (Philippians 4:6-7 span, first half)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "span quote; draft exact-modern (carefull→careful, thinges→things, requestes→requests, shewed→showed, praier→prayer, thankes→thanks); no splice."
+    }
+   ]
+  },
+  {
+   "id": "PHP.4.7",
+   "ref": "Philippians 4:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And the peace of God which passeth all vnderstanding, shall preserue your heartes and mindes in Christ Iesus.",
+     "source": "https://ebible.org/enggnv/PHP04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And the peace of God which passeth all vnderstanding, shall preserue your heartes and mindes in Christ Iesus.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/4",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11932,
+     "cited_as": "seat (Philippians 4:6-7 span, second half — cut)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "span quote carries only up to \"shall preserve your hearts\" (the draft ellipsis); the print tail \"and mindes in Christ Iesus.\" rides in the banked text only; print reads \"preserue\" (\"preserve\" — the draft already matches; NOT \"keep\")."
+    }
+   ]
+  },
+  {
+   "id": "MAT.6.10",
+   "ref": "Matthew 6:10",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Thy Kingdome come. Thy will be done euen in earth, as it is in heauen.",
+     "source": "https://ebible.org/enggnv/MAT06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Thy Kingdome come. Thy will be done euen in earth, as it is in heauen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/6",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11900,
+     "cited_as": "pattern-table fragments *\"Thy kingdom come\"* / *\"Thy will be done\"* (table VERBATIM)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "both fragments exact-modern (\"Thy Kingdome come.\" / \"Thy will be done euen in earth, as it is in heauen.\"); both editions print \"in heauen\" for the earth clause (row-noted)."
+    }
+   ]
+  },
+  {
+   "id": "MAT.6.11",
+   "ref": "Matthew 6:11",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Giue vs this day our dayly bread.",
+     "source": "https://ebible.org/enggnv/MAT06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Giue vs this day our dayly bread.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/6",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11900,
+     "cited_as": "pattern-table fragment *\"Give us this day our daily bread\"* (table VERBATIM)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "fragment exact-modern (\"Giue vs this day our dayly bread.\")."
+    }
+   ]
+  },
+  {
+   "id": "MAT.6.12",
+   "ref": "Matthew 6:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And forgiue vs our dettes, as we also forgiue our detters.",
+     "source": "https://ebible.org/enggnv/MAT06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And forgiue vs our dettes, as we also forgiue our detters.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/6",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11900,
+     "cited_as": "pattern-table fragment *\"Forgive us our debts... as we also forgive\"* (table VERBATIM)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "\"as we also forgive\" IS the 1599 print reading (\"as we also forgiue our detters\") — both editions print \"dettes\"/\"detters\"; NO flag (the draft matches the print, not KJV)."
+    }
+   ]
+  },
+  {
+   "id": "MAT.6.13",
+   "ref": "Matthew 6:13",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And leade vs not into tentation, but deliuer vs from euill: for thine is the kingdome, and the power, and the glorie for euer. Amen.",
+     "source": "https://ebible.org/enggnv/MAT06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And leade vs not into tentation, but deliuer vs from euill: for thine is the kingdome, and the power, and the glorie for euer. Amen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/6",
+     "result": "exact per-verse (eBible==TRB 1.0)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11900,
+     "cited_as": "pattern-table fragment *\"Lead us not into temptation, but deliver us from evil\"* (table VERBATIM)",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "blockquote",
+     "note": "fragment exact-modern (\"Leade vs not into tentation, but deliuer vs from euill\"); print \"Amen\" tail banked."
+    }
+   ]
+  },
+  {
+   "id": "EPH.1.15-23",
+   "ref": "Ephesians 1:15-23 (range)",
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11950,
+     "cited_as": "Practical Implications item 3 ref (Paul's prayers) — mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "EPH.3.14-21",
+   "ref": "Ephesians 3:14-21 (range)",
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11950,
+     "cited_as": "Practical Implications item 3 ref (Paul's prayers) — mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "PHP.1.9-11",
+   "ref": "Philippians 1:9-11 (range)",
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11950,
+     "cited_as": "Practical Implications item 3 ref (Paul's prayers) — mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": "COL.1.9-12",
+   "ref": "Colossians 1:9-12 (range)",
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {},
+   "uses": [
+    {
+     "section": "COS-75",
+     "section_label": "THE CHRIST OF SCRIPTURE — Prayer — Completing the Lord's Prayer Pattern; Praying in the Spirit; the Modes and the Posture of Prayer",
+     "article_line": 11950,
+     "cited_as": "Practical Implications item 3 ref (Paul's prayers) — mention-anchor",
+     "quotes": [],
+     "status": "anchor",
+     "quote_kind": "reference",
+     "note": ""
+    }
+   ]
   }
  ]
 }

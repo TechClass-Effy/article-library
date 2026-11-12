@@ -154,3 +154,11 @@ putting off 3:5-9; the new man 3:10-11; garments 3:12-15 with the 3:15 tail rest
 principle 3:17; the household table 3:18-4:1 with every summary fragment restored to the full print verse).
 70. (C) GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER (COS-74 — the common-pattern table verbatim; the
 single practical theology; the modern application; A CLOSING OBSERVATION; the A-D question).
+71. (C) PRAYER — THE THOROUGH EXAMINATION OPENS (COS-75 — the "Yes, let's do a thorough (exhaustive)"
+bridge seated; completing the Lord's Prayer pattern with the six-petition table VERBATIM (every petition
+fragment exact to the 1599 print); Praying in the Spirit (Eph 6:18; Jude 20-21 with the print comma restored);
+the Modes of Prayer (Matt 7:7-11, 1 Thess 5:18, 1 Tim 2:1-2) and the Posture of Prayer (Luke 18:1; Mark 11:24
+with the print "shall have it"; 1 John 5:14-15 with the print "any thing"; John 14:13-14; Phil 4:6-7, all
+draft ellipses honored). The draft carries no explicit PART-1 heading for the prayer part — its H2s begin
+directly; seat follows the draft. 1 Thess 5:17 "pray without ceasing" flagged KJV-voiced (1599: "Pray
+continually." — awaits his word)).
