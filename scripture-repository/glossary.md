@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**849 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**857 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1020 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1028 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -8309,7 +8309,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,”
 - *Note:* the fragment “sealed with the Holy Spirit of promise” matches the Geneva at modern fold with modern caps (“the holy Spirite of promise” — caps class, good-reason, no flag).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
 
 ### Galatians 3:14 — PROSE-REF
 *cited as: Clause-2 list — Galatians 3:14*
@@ -8757,7 +8757,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: re-present (seat composed from the wave-17/29/31 banked print texts; eBible==TRB fresh re-asserted)*
 - **Geneva 1599:** “In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
 
 ### Ephesians 1:14 — CONFIRMED
 *cited as: seat (Geneva 1599 at modern spelling; eBible==TRB fresh)*
@@ -9352,7 +9352,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation quote "He hath made us accepted in the beloved" — 1599 prints "freely accepted in his beloued" (draft compresses)*
 - **Geneva 1599:** “To the prayse of the glory of his grace, wherewith he hath made vs freely accepted in his beloued,”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### John 17:24 — PROSE-REF
 *cited as: seat — "thou lovedst me" IS the 1599 print (draft read "hast loved"); the comma "glorie," restored*
@@ -9648,7 +9648,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention (loved before the foundation of the world)*
 - **Geneva 1599:** “As hee hath chosen vs in him, before the foundation of the worlde, that we should be holy, and without blame before him in loue:”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### 1 Peter 1:18 — PROSE-REF
 *cited as: mention (redeemed by the Son's blood, with v19)*
@@ -9672,7 +9672,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention (sealed by the Spirit)*
 - **Geneva 1599:** “In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
 
 ### Ephesians 1:14 — PROSE-REF
 *cited as: mention (sealed by the Spirit)*
@@ -9897,6 +9897,96 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 1:4 — CONFIRMED
+*cited as: Ephesians 1:4*
+- **Geneva 1599:** “As hee hath chosen vs in him, before the foundation of the worlde, that we should be holy, and without blame before him in loue:”
+- *Note:* POINT-6 Chosen seat (draft exact-modern — no splice)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 1:6 — CONFIRMED
+*cited as: Ephesians 1:6*
+- **Geneva 1599:** “To the prayse of the glory of his grace, wherewith he hath made vs freely accepted in his beloued,”
+- *Note:* POINT-6 Accepted seat — print "freely accepted" seated verbatim (draft dropped "freely")
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### John 17:23 — PROSE-REF
+*cited as: John 17:23*
+- **Geneva 1599:** “I in them, and thou in mee, that they may be made perfect in one, and that the worlde may knowe that thou hast sent mee, and hast loued them, as thou hast loued me.”
+- *Note:* POINT-6 Accepted observation quote "hast loved them as Thou hast loved Me" — matches the 1599 print at modern spelling (draft case-caps its own; print comma after "them" dropped) — good-reason exact, no flag
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 1:7 — CONFIRMED
+*cited as: Ephesians 1:7*
+- **Geneva 1599:** “By whom we haue redemption through his blood, euen the forgiuenes of sinnes, according to his rich grace:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 1:3 — CONFIRMED
+*cited as: Ephesians 1:3*
+- **Geneva 1599:** “Blessed be God, and the Father of our Lord Iesus Christ, which hath blessed vs with all spirituall blessing in heauenly thinges in Christ,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Galatians 2:17 — CONFIRMED
+*cited as: Galatians 2:17*
+- **Geneva 1599:** “If then while we seeke to be made righteous by Christ, we our selues are found sinners, is Christ therefore the minister of sinne? God forbid.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Philippians 3:9 — CONFIRMED
+*cited as: Philippians 3:9*
+- **Geneva 1599:** “And might bee founde in him, that is, not hauing mine owne righteousnesse, which is of the Lawe, but that which is through the faith of Christ, euen the righteousnesse which is of God through faith,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 2 Corinthians 5:17 — PROSE-REF
+*cited as: 2 Corinthians 5:17*
+- **Geneva 1599:** “Therefore if any man be in Christ, let him be a newe creature. Olde things are passed away: beholde, all things are become newe.”
+- *Note:* POINT-6 New-Creation already-cited fragment — kept in the polish verbatim per the already-cited class (wave-36 precedent)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 1 Corinthians 1:2 — CONFIRMED
+*cited as: 1 Corinthians 1:2*
+- **Geneva 1599:** “Vnto the Church of God, which is at Corinthus, to them that are sanctified in Christ Iesus, Saintes by calling, with all that call on the Name of our Lord Iesus Christ in euery place, both their Lord, and ours:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 1:13 — CONFIRMED
+*cited as: Ephesians 1:13*
+- **Geneva 1599:** “In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,”
+- *Note:* POINT-6 Sealed seat (draft exact-modern — no splice; print "wherein ... the holy Spirit" = draft at modern spelling)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Galatians 3:27 — CONFIRMED
+*cited as: Galatians 3:27*
+- **Geneva 1599:** “For all ye that are baptized into Christ, haue put on Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 6:3 — CONFIRMED
+*cited as: Romans 6:3*
+- **Geneva 1599:** “Knowe ye not, that all we which haue bene baptized into Iesus Christ, haue bene baptized into his death?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 1 Corinthians 12:13 — CONFIRMED
+*cited as: 1 Corinthians 12:13*
+- **Geneva 1599:** “For by one Spirit are we all baptized into one body, whether we bee Iewes, or Grecians, whether we be bonde, or free, and haue bene all made to drinke into one Spirit.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Judges 6:34 — PROSE-REF
+*cited as: Judges 6:34*
+- **Geneva 1599:** “But the Spirit of the Lord came vpon Gideon, and he blew a trumpet, and Abiezer was ioyned with him.”
+- *Note:* POINT-7 observation reference — "the Spirit clothing a man (Judg 6:34)"; banked NETS text "a divine spirit entered Gedeon" (wave-32 Rahlfs enedusen row-note stands)
+- *Checked 2026-11-12 · editions fetched: gnv, net*
+- *Double-checked (second source): greek_swete — token-subset 0.833*
 
 # THE BIBLICAL SABBATH
 
@@ -10313,7 +10403,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **KJV:** “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:”
 - *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): trb ✓*
+- *Double-checked (second source): trb ✓ · trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ### 2 Esdras 23:19 — DIFFERS
 *cited as: LXX, NETS*
@@ -11640,7 +11730,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “But unto them which are called, both of the Jews and Grecians, we preach Christ, the power of God, and the wisdom of God. … But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,”
   ()
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): trb ✓*
+- *Double-checked (second source): trb ✓ · trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ## THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn
 
@@ -11651,7 +11741,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “But ye are of him in Christ Jesus, who of God is made unto us wisdom and righteousness, and sanctification, and redemption,”
   (Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim.)
 - *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): trb ✓*
+- *Double-checked (second source): trb ✓ · trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+## The Full Counsel — The Believer's Identification in Christ
+
+### 1 Corinthians 1:30 — CONFIRMED
+*cited as: 1 Corinthians 1:30*
+- **Geneva 1599:** “But ye are of him in Christ Iesus, who of God is made vnto vs wisedome and righteousnesse, and sanctification, and redemption,”
+- **KJV:** “But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:”
+- *Note:* POINT-6 Sanctified seat (draft exact-modern — no splice; "wisdom and righteousness" = print word order)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): trb ✓ · trb_fresh ✓ · greek_biblehub_fresh ✓*
 
 ---
 
@@ -11667,7 +11767,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 1:22 | COS-17 | confirmed |
 | 1 Corinthians 1:23 | COS-17 | confirmed |
 | 1 Corinthians 1:24 | COS-05, COS-17 | confirmed |
-| 1 Corinthians 1:30 | SAB7, COS-05, COS-17 | anchor, confirmed |
+| 1 Corinthians 1:30 | SAB7, COS-05, COS-17, COS-66 | anchor, confirmed |
 | 1 Corinthians 10:1 | COS-12 | confirmed |
 | 1 Corinthians 10:4 | P8, COS-12, COS-19 | anchor, confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
@@ -11729,7 +11829,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62 | prose-ref |
-| 2 Corinthians 5:17 | COS-65 | prose-ref |
+| 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
 | 2 Corinthians 6:16 | COS-52, COS-60, COS-62 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
 | 2 Esdras 23:15 | SAB7, SAB13 | differs, recap cross-reference |
@@ -11842,11 +11942,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Deuteronomy 6:5 | P9 | confirmed, paraphrase |
 | Deuteronomy 9:10 | P1-Q3 | confirmed |
 | Ephesians 1:10 | COS-49 | prose-ref |
-| Ephesians 1:13 | COS-58, COS-59, COS-63 | confirmed, prose-ref |
+| Ephesians 1:13 | COS-58, COS-59, COS-63, COS-66 | confirmed, prose-ref |
 | Ephesians 1:14 | COS-59, COS-63 | confirmed, prose-ref |
 | Ephesians 1:17 | COS-01, COS-18 | confirmed |
-| Ephesians 1:4 | COS-63 | prose-ref |
-| Ephesians 1:6 | COS-62 | prose-ref |
+| Ephesians 1:4 | COS-63, COS-66 | confirmed, prose-ref |
+| Ephesians 1:6 | COS-62, COS-66 | confirmed, prose-ref |
 | Ephesians 2:18 | COS-60 | prose-ref |
 | Ephesians 2:21 | COS-54, COS-60, COS-62 | anchor, prose-ref |
 | Ephesians 2:22 | COS-54, COS-60, COS-62 | anchor, prose-ref |
@@ -12135,7 +12235,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Judges 15:14 | COS-59 | confirmed |
 | Judges 3:10 | COS-55, COS-59 | anchor, prose-ref |
 | Judges 6 (chapter) | COS-54 | anchor |
-| Judges 6:34 | COS-59 | confirmed |
+| Judges 6:34 | COS-59, COS-66 | confirmed, prose-ref |
 | Jeremiah 14:14 | P7 | confirmed |
 | Jeremiah 17:19 | SAB7, SAB13 | differs, recap cross-reference |
 | Jeremiah 17:20 | SAB7 | differs |
@@ -12226,7 +12326,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:20 | COS-62 | prose-ref |
 | John 17:21 | COS-50, COS-55, COS-58, COS-59, COS-60, COS-62 | prose-ref, seat |
 | John 17:22 | COS-62 | prose-ref |
-| John 17:23 | COS-62 | prose-ref |
+| John 17:23 | COS-62, COS-66 | prose-ref |
 | John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
 | John 17:26 | COS-62 | prose-ref |
@@ -12679,6 +12779,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 2:6 | COS-66 | confirmed |
 | Revelation 3:21 | COS-66 | prose-ref |
 | 2 Timothy 2:12 | COS-66 | prose-ref |
+| Ephesians 1:3 | COS-66 | confirmed |
+| Ephesians 1:7 | COS-66 | confirmed |
+| Galatians 2:17 | COS-66 | confirmed |
+| Philippians 3:9 | COS-66 | confirmed |
+| 1 Corinthians 1:2 | COS-66 | confirmed |
+| Galatians 3:27 | COS-66 | confirmed |
+| Romans 6:3 | COS-66 | confirmed |
+| 1 Corinthians 12:13 | COS-66 | confirmed |
 
 ## The editions used
 
