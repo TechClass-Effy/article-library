@@ -91,7 +91,10 @@
    "COS-36",
    "COS-37",
    "COS-38",
-   "COS-39"
+   "COS-39",
+   "COS-40",
+   "COS-41",
+   "COS-42"
   ],
   "sections": [
    {
@@ -403,6 +406,18 @@
    {
     "key": "COS-39",
     "label": "43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)"
+   },
+   {
+    "key": "COS-40",
+    "label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)"
+   },
+   {
+    "key": "COS-41",
+    "label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)"
+   },
+   {
+    "key": "COS-42",
+    "label": "46. Grand Synthesis — The Consummation and the Father-Son Order"
    }
   ],
   "double_check": {
@@ -463,9 +478,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 44016,
+  "so_far_words": 47743,
   "cos_sofar": {
-   "waves": 22
+   "waves": 23
   }
  },
  "verses": [
@@ -11387,6 +11402,15 @@
      ],
      "status": "prose-ref",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5049,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "clause 2: 'the One God of the Shema, identified as the Father' (Deut 6:4; Isa 44-46; John 17:3; 1 Cor 8:6)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -11486,6 +11510,15 @@
       "text": "Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.",
       "reason": "Audit re-lists seated witnesses; seat unchanged — NETS verbatim (Confession)."
      }
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5049,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "clause 2 foundation citation range 'Isa 44-46'",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-07",
@@ -11627,6 +11660,15 @@
      ],
      "status": "prose-ref",
      "note": "Draft quote nearest Brenton “I alone stretched out the heavens”; NETS “I alone stretched out heaven” — propose italic version-name, flagged.",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5132,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "(1) Father-is-One-God list",
      "quote_kind": "mention"
     }
    ],
@@ -12032,6 +12074,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5194,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "consummation bullet seated to NETS fragment",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-07",
@@ -12617,6 +12668,15 @@
       "text": "And this is life eternal, that they know thee to be the only very God *(the author's rendering here reads \"the only true God\")*, and whom thou hast sent, Jesus Christ.",
       "reason": "The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice)."
      }
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5049,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "clause 2 foundation citation (bullet seated to GNV at 5195)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -12736,6 +12796,15 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5049,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "clause 2 foundation citation",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -13019,6 +13088,15 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Backfilled from fresh eBible fetch; text-empty anchor before."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5310,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: creation through the Son",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -13094,6 +13172,15 @@
       "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.",
       "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage)."
      }
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5310,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: creation through the Son",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -13150,6 +13237,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5314,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: exaltation (Phil 2:9-11)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-07",
@@ -13211,6 +13307,15 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5192,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "consummation bullet seated to GNV (draft \"is Lord\"/\"to\" brought to GNV \"is the Lord\"/\"unto\")",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-07",
@@ -13864,6 +13969,15 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: Geneva verbatim (modernized) \"I am the root and the generation of David, and the bright morning star.\" — draft voiced KJV fragment; Geneva carries the full sentence and lowercase \"star\"."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5342,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "(D) preview list reference",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -14177,6 +14291,15 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: Geneva verbatim (modernized) \"God hath made him both Lord, and Christ, this Jesus, I say, whom ye have crucified\" — Geneva pauses after \"Lord\" (comma) and carries \"I say\"."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5314,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: exaltation",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -14268,6 +14391,15 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: Geneva verbatim (modernized) \"declared mightily to be the Son of God ... by the resurrection from the dead\" — draft voiced KJV \"with power\"; the elided Geneva clause is \"touching the Spirit of sanctification\"."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5313,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: resurrection (Rom 1:4)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -14357,6 +14489,15 @@
      "cited_as": "mention (LORD-acting-through-his-Sent-One note)",
      "quotes": [],
      "status": "prose-ref",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5134,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "(1) list: all authority received from the Father",
      "quote_kind": "mention"
     }
    ],
@@ -14465,13 +14606,52 @@
      "status": "confirmed",
      "note": "synthesis opening: OT witness 'Ps 110'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5061,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "clause 4 allusion seat (NETS re-presented; GNV recourse added)",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5249,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (1): the Lamb at His right hand (Ps 110:1)",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5315,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: reign (1 Cor 15:25; Ps 110:1)",
+     "quote_kind": "mention"
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-11",
    "translations": {
     "nets": {
      "text": "The Lord said to my lord, \"Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet.\"",
      "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    },
+    "gnv": {
+     "text": "A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.",
+     "source": "https://ebible.org/enggnv/PSA110.htm",
+     "result": "recourse (eBible v1 folds the psalm title into the verse)"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.",
+      "source": "https://textusreceptusbibles.com/Geneva/19/110",
+      "result": "1.000"
+     }
     }
    },
    "second_check": {}
@@ -14714,6 +14894,15 @@
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5314,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: exaltation",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -17028,6 +17217,15 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft carried BOTH readings: μονογενὴς Θεός (earlier mss, Sinaiticus/Vaticanus; verified vs BibleHub ratio 1.000) vs ὁ μονογενὴς Ὑἱός (Byzantine/TR, which the Geneva follows; eBible=TRB 1.000). Variant note stands from COS-10 use."
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5253,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (3): the face no man has seen (John 1:18; Ex 33:20)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -17116,6 +17314,15 @@
       "version": "nets",
       "text": ""
      }
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5253,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (3) same mention",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -17423,6 +17630,15 @@
      "status": "confirm",
      "matched_source": "",
      "note": "Synthesis bullet 8 quotes the fragment \"today have I begotten Thee\" in the resurrection context (Acts 13:33)."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5313,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: resurrection",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -17974,6 +18190,15 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Seat prints modernized spelling (draft wording); bank keeps 1599 orthography — standing flag. Draft Greek verified vs BibleHub /text/john/1-14.htm ratio 1.000."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5317,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list close: the Sent One (1 Cor 15:24-28)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -19553,6 +19778,15 @@
       "text": "Ye have heard how I said unto you, I go away, and will come unto you. If ye loved me, ye would verily rejoice, because I said, I go unto the Father: for the Father is greater then *(the Geneva prints \"then\" for our modern \"than\")* I.",
       "reason": "The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice)."
      }
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5133,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "(1) list: the Father is greater than the Son",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -20162,6 +20396,15 @@
      "cited_as": "mention (wounds cross-ref in the 13:6 observation)",
      "quotes": [],
      "status": "prose-ref",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5303,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis (4): the marks (John 20:25-27)",
      "quote_kind": "mention"
     }
    ],
@@ -21074,6 +21317,15 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5312,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: death",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -21695,6 +21947,15 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5312,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: death",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -21868,6 +22129,15 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters). Gloss *(stroke)* added after “blow” per VERBATIM + GLOSSES."
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5312,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: death",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24402,6 +24672,15 @@
      "status": "confirmed",
      "note": "Two-Critical-Points: 'Only the Father knows'",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5316,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: return at the Father's appointed time",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24483,6 +24762,15 @@
      "status": "confirmed",
      "note": "obs (2) Daniel 7's 'coming on clouds.' cross-ref",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5268,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 4: the Son’s coming",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24549,6 +24837,15 @@
      "cited_as": "mention",
      "status": "confirmed",
      "note": "synthesis table: establishes the universal Kingdom; Two-Critical-Points: receives the kingdom",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5289,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis (2): receives the Kingdom from the Ancient of Days",
      "quote_kind": "mention"
     }
    ],
@@ -25369,6 +25666,24 @@
      "status": "confirmed",
      "note": "obs (5) 'the authority given Him in John 5:22, 27' mention",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5134,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "(1) list received-from-Father refs",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5270,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 6 same",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -25506,6 +25821,24 @@
      "cited_as": "mention",
      "status": "confirmed",
      "note": "obs (5) mention",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5134,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "(1) list received-from-Father refs",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5270,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 6 same",
      "quote_kind": "mention"
     }
    ],
@@ -26035,6 +26368,15 @@
       "text": "For he that sent me, is with me: the Father hath not left me alone, because I do always those things that please him.",
       "reason": "Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek verbatim."
      }
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5331,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "prose fragment seated to GNV ('please him', draft's 'the Father' KJV-family)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -28427,6 +28769,24 @@
      "status": "anchor",
      "matched_source": "",
      "note": ""
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 4994,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "obs (2): 'the Man Christ Jesus (1 Tim 2:5)'",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5304,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis (4): the Man, the Mediator — eternally",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -28632,6 +28992,15 @@
       "text": "",
       "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
      }
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5311,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: incarnation (Heb 10:5-7)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -28853,6 +29222,15 @@
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5266,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 2: reigns at the right hand (Heb 10:12-13)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29605,6 +29983,15 @@
      "status": "confirmed",
      "note": "Came in the 24:29-31 full-verse seat span; obs (2) mention seated \"then shall all the kinreds *(kindreds)* of the earth mourn\"",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5268,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 4: Matt 24 coming",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11"
@@ -29811,6 +30198,15 @@
      "status": "confirmed",
      "note": "Banked NETS text keeps the print siglum (“between your hands b?”); the seat drops the apparatus siglum. Swete’s page spells χειρῶαν/Ἀs (site artifacts); the draft’s χειρῶν/὘ν substance confirmed.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5303,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis (4): the pierced marks eternally",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29928,6 +30324,15 @@
      "status": "confirmed",
      "note": "synthesis table: Comes to the Mount of Olives (Zech 14:4; Acts 1:11-12)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5268,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 4: Zech 14 coming",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -30021,6 +30426,15 @@
      "cited_as": "mention",
      "status": "confirmed",
      "note": "synthesis table + Two-Critical-Points: 'one LORD, one Name'",
+     "quote_kind": "mention"
+    },
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5193,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "consummation bullet seated to NETS",
      "quote_kind": "mention"
     }
    ],
@@ -30507,6 +30921,15 @@
      "quotes": [
       "> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world."
      ]
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5270,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 6: judgment of the nations (Matt 25:31-46)",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -30655,6 +31078,15 @@
      "quotes": [
       "> For the Lord himself shall descend from heaven with a shout, and with the voice of the Archangel, and with the trumpet of God: and the dead in Christ shall rise first: Then shall we which live and remain, be caught up with them also in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord."
      ]
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5269,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 5: resurrection at His coming",
+     "quote_kind": "mention"
     }
    ],
    "verified": "2026-11-11",
@@ -30982,6 +31414,18 @@
      "note": "seventh-trumpet anchor",
      "quote_kind": "anchor",
      "quotes": []
+    },
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5207,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "witness #1 seat; GNV 'for euermore' → seat 'for evermore' (draft 'forevermore' row-noted)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And the seventh Angel blew the trumpet, and there were great voices in heaven, saying, The kingdoms of this world are our Lord’s, and his Christ’s, and he shall reign for evermore."
+     ]
     }
    ],
    "verified": "2026-11-11",
@@ -30996,6 +31440,11 @@
       "source": "https://textusreceptusbibles.com/Geneva/66/11",
       "result": "1.000"
      }
+    },
+    "greek_nestle": {
+     "text": "ΚαὶKai ὁho ἕβδομοςhebdomos ἄγγελοςangelos ἐσάλπισεν·esalpisen καὶkai ἐγένοντοegenonto φωναὶphōnai μεγάλαιmegalai ἐνen τῷtō οὐρανῷ,ouranō λέγοντεςlegontes ἘγένετοEgeneto ἡhē βασιλείαbasileia τοῦtou κόσμουkosmou τοῦtou ΚυρίουKyriou ἡμῶνhēmōn καὶkai τοῦtou ΧριστοῦChristou αὐτοῦ,autou καὶkai βασιλεύσειbasileusei εἰςeis τοὺςtous αἰῶναςaiōnas τῶνtōn αἰώνων.aiōnōn",
+     "source": "https://biblehub.com/text/revelation/11-15.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.969"
     }
    }
   },
@@ -31104,12 +31553,979 @@
      "article_line": 4949,
      "cited_as": "pure mention-anchor, no text",
      "status": "confirmed",
-     "note": "pure mention-anchor, no text (\"Hand all things over to the Father... which we will examine in (C)\") — the (C) wave seats 15:20-28 fully",
+     "note": "pure mention-anchor, no text (\"Hand all things over to the Father... which we will examine in (C)\") — the (C) wave seats 15:20-28 fully — filled by per-verse COS-40 seats (15:20-28) this wave",
      "quote_kind": "anchor"
     }
    ],
    "verified": "2026-11-11",
    "translations": {}
+  },
+  {
+   "id": "1CO.15.20",
+   "ref": "1 Corinthians 15:20",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 4986,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "firstfruits seat span 20-22; draft Geneva exact to GNV-modern (fold) — seat prints the edition",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But now is Christ risen from the dead, and was made the first fruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But nowe is Christ risen from the dead, and was made the first fruites of them that slept.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "But nowe is Christ risen from the dead, and was made the first fruites of them that slept.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ΝυνὶNyni δὲde ΧριστὸςChristos ἐγήγερταιegēgertai ἐκek νεκρῶν,nekrōn ἀπαρχὴaparchē τῶνtōn κεκοιμημένων.kekoimēmenōn",
+     "source": "https://biblehub.com/text/1_corinthians/15-20.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.939 span 20-22"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.21",
+   "ref": "1 Corinthians 15:21",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 4986,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But now is Christ risen from the dead, and was made the first fruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For since by man came death, by man came also the resurrection of the dead.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For since by man came death, by man came also the resurrection of the dead.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἐπειδὴepeidē γὰρgar δι’di’ ἀνθρώπουanthrōpou θάνατος,thanatos καὶkai δι’di’ ἀνθρώπουanthrōpou ἀνάστασιςanastasis νεκρῶν.nekrōn",
+     "source": "https://biblehub.com/text/1_corinthians/15-21.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.939 span 20-22"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.22",
+   "ref": "1 Corinthians 15:22",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 4986,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But now is Christ risen from the dead, and was made the first fruits of them that slept. For since by man came death, by man came also the resurrection of the dead. For as in Adam all die, even so in Christ shall all be made alive."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For as in Adam all die, euen so in Christ shall all be made aliue,",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For as in Adam all die, euen so in Christ shall all be made aliue,",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ὥσπερhōsper γὰρgar ἐνen τῷtō ἈδὰμAdam πάντεςpantes ἀποθνήσκουσιν,apothnēskousin οὕτωςhoutōs καὶkai ἐνen τῷtō ΧριστῷChristō πάντεςpantes ζωοποιηθήσονται.zōopoiēthēsontai",
+     "source": "https://biblehub.com/text/1_corinthians/15-22.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.939 span 20-22"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.23",
+   "ref": "1 Corinthians 15:23",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5004,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "edition's comma 'afterward, they that are of Christ' kept verbatim (draft dropped the comma)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But every man in his own order: the first fruits is Christ, afterward, they that are of Christ, at his coming shall rise again."
+     ]
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5269,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "synthesis table step 5 same",
+     "quote_kind": "mention"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But euery man in his owne order: the first fruites is Christ, afterward, they that are of Christ, at his comming shall rise againe.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "But euery man in his owne order: the first fruites is Christ, afterward, they that are of Christ, at his comming shall rise againe.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἝκαστοςHekastos δὲde ἐνen τῷtō ἰδίῳidiō τάγματι·tagmati ἀπαρχὴaparchē Χριστός,Christos ἔπειταepeita οἱhoi τοῦtou ΧριστοῦChristou ἐνen τῇtē παρουσίᾳparousia αὐτοῦ,autou",
+     "source": "https://biblehub.com/text/1_corinthians/15-23.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.938"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.24",
+   "ref": "1 Corinthians 15:24",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5025,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "draft's KJV-family 'And then shall be the end' — GNV prints 'Then shall be the end' — seat verbatim GNV (And-drop row-noted)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then shalbe the end, when he hath deliuered vp the kingdome to God, euen the Father, when he hath put downe all rule, and all authoritie and power.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Then shalbe the end, when he hath deliuered vp the kingdome to God, euen the Father, when he hath put downe all rule, and all authoritie and power.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "εἶταeita τὸto τέλος,telos ὅτανhotan παραδιδῷ*paradidō τὴνtēn βασιλείανbasileian τῷtō ΘεῷTheō καὶkai Πατρί,Patri ὅτανhotan καταργήσῃkatargēsē πᾶσανpasan ἀρχὴνarchēn καὶkai πᾶσανpasan ἐξουσίανexousian καὶkai δύναμιν,dynamin",
+     "source": "https://biblehub.com/text/1_corinthians/15-24.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.959 span 24-28"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.25",
+   "ref": "1 Corinthians 15:25",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5025,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
+     ]
+    },
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5315,
+     "cited_as": "mention",
+     "status": "confirmed",
+     "note": "pattern list: reign",
+     "quote_kind": "mention"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For he must reigne till hee hath put all his enemies vnder his feete.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For he must reigne till hee hath put all his enemies vnder his feete.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "δεῖdei γὰρgar αὐτὸνauton βασιλεύεινbasileuein ἄχριachri οὗhou θῇthē πάνταςpantas τοὺςtous ἐχθροὺςechthrous ὑπὸhypo τοὺςtous πόδαςpodas αὐτοῦ.autou",
+     "source": "https://biblehub.com/text/1_corinthians/15-25.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.959 span 24-28"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.26",
+   "ref": "1 Corinthians 15:26",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5025,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "The last enemie that shalbe destroyed, is death.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "The last enemie that shalbe destroyed, is death.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ἔσχατοςeschatos ἐχθρὸςechthros καταργεῖταιkatargeitai ὁho θάνατος·thanatos",
+     "source": "https://biblehub.com/text/1_corinthians/15-26.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.959 span 24-28"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.27",
+   "ref": "1 Corinthians 15:27",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5025,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For he hath put downe all things vnder his feete. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put downe all things vnder him.)",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "For he hath put downe all things vnder his feete. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put downe all things vnder him.)",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "Πάνταpanta γὰρgar Ὑπέταξενhypetaxen ὑπὸhypo τοὺςtous πόδαςpodas αὐτοῦ.autou ὅτανhotan δὲde εἴπῃeipē ὅτιhoti πάνταpanta ὑποτέτακται,hypotetaktai δῆλονdēlon ὅτιhoti ἐκτὸςektos τοῦtou ὑποτάξαντοςhypotaxantos αὐτῷautō τὰta πάντα.panta",
+     "source": "https://biblehub.com/text/1_corinthians/15-27.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.959 span 24-28"
+    }
+   }
+  },
+  {
+   "id": "1CO.15.28",
+   "ref": "1 Corinthians 15:28",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5025,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "prose fragment 'Then shall the Son also himself be subject unto him...' = GNV-modern verbatim",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when all things shalbe subdued vnto him, then shall the Sonne also himselfe be subiect vnto him, that did subdue all things vnder him, that God may be all in all.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And when all things shalbe subdued vnto him, then shall the Sonne also himselfe be subiect vnto him, that did subdue all things vnder him, that God may be all in all.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ὅτανhotan δὲde ὑποταγῇhypotagē αὐτῷautō τὰta πάντα,panta τότεtote καὶkai αὐτὸςautos ὁho ΥἱὸςHuios ὑποταγήσεταιhypotagēsetai τῷtō ὑποτάξαντιhypotaxanti αὐτῷautō τὰta πάντα,panta ἵναhina ᾖē ὁho ΘεὸςTheos [τὰ]ta πάνταpanta ἐνen πᾶσιν.pasin",
+     "source": "https://biblehub.com/text/1_corinthians/15-28.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.959 span 24-28"
+    }
+   }
+  },
+  {
+   "id": "REV.21.22",
+   "ref": "Revelation 21:22 (GNV; spans WH 21:22-23)",
+   "uses": [
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5223,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "BOTH MAPS: GNV v22 = WH/NA 21:22-23 (draft's Greek covers both WH verses); greek_nestle carries the joined WH span",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And I saw no Temple therein: for the Lord God Almighty and the Lamb are the Temple of it. And this city hath no need of the sun, neither of the moon to shine in it: for the glory of God did light it: and the Lamb is the light of it."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And I sawe no Temple therein: for the Lord God almightie and the Lambe are the Temple of it.",
+     "source": "https://ebible.org/enggnv/REV21.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And I sawe no Temple therein: for the Lord God almightie and the Lambe are the Temple of it.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/21",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "ΚαὶKai ναὸνnaon οὐκouk εἶδονeidon ἐνen αὐτῇ·autē ὁho γὰρgar ΚύριοςKyrios ὁho ΘεὸςTheos ὁho ΠαντοκράτωρPantokratōr ναὸςnaos αὐτῆςautēs ἐστιν,estin καὶkai τὸto Ἀρνίον.Arnion",
+     "source": "https://biblehub.com/text/revelation/21-22.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 1.000 WH span (joined 21-22 + 21-23)"
+    }
+   }
+  },
+  {
+   "id": "REV.22.1",
+   "ref": "Revelation 22:1",
+   "uses": [
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5243,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "span seat 1+ellipsis(v2)+3-4 recorded per verse",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And hee shewed me a pure riuer of water of life, cleare as crystall, proceeding out of the throne of God, and of the Lambe.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/22",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "Καὶkai ἔδειξένedeixen μοιmoi ποταμὸνpotamon ὕδατοςhydatos ζωῆςzōēs λαμπρὸνlampron ὡςhōs κρύσταλλον,krystallon ἐκπορευόμενονekporeuomenon ἐκek τοῦtou θρόνουthronou τοῦtou ΘεοῦTheou καὶkai τοῦtou Ἀρνίου.Arniou",
+     "source": "https://biblehub.com/text/revelation/22-1.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.981 span (koronis/apostrophe joins)"
+    }
+   }
+  },
+  {
+   "id": "REV.22.3",
+   "ref": "Revelation 22:3",
+   "uses": [
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5243,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "GNV prints 'ye throne' (y^e) — seat prints 'the throne' (wave-22 ye-king precedent)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And there shalbe no more curse, but ye throne of God and of the Lambe shall be in it, and his seruants shall serue him.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/22",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "Καὶkai πᾶνpan κατάθεμαkatathema οὐκouk ἔσταιestai ἔτι.eti καὶkai ὁho θρόνοςthronos τοῦtou ΘεοῦTheou καὶkai τοῦtou ἈρνίουArniou ἐνen αὐτῇautē ἔσται,estai καὶkai οἱhoi δοῦλοιdouloi αὐτοῦautou λατρεύσουσινlatreusousin αὐτῷ,autō",
+     "source": "https://biblehub.com/text/revelation/22-3.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.981 span"
+    }
+   }
+  },
+  {
+   "id": "REV.22.4",
+   "ref": "Revelation 22:4",
+   "uses": [
+    {
+     "section": "COS-41",
+     "section_label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)",
+     "article_line": 5243,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And he showed me a pure river of water of life, clear as crystal, proceeding out of the throne of God, and of the Lamb. … And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and his servants shall serve him. And they shall see his face, and his Name shall be in their foreheads."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they shall see his face, and his Name shalbe in their foreheads.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And they shall see his face, and his Name shalbe in their foreheads.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/22",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "καὶkai ὄψονταιopsontai τὸto πρόσωπονprosōpon αὐτοῦ,autou καὶkai τὸto ὄνομαonoma αὐτοῦautou ἐπὶepi τῶνtōn μετώπωνmetōpōn αὐτῶν.autōn",
+     "source": "https://biblehub.com/text/revelation/22-4.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.981 span"
+    }
+   }
+  },
+  {
+   "id": "HEB.2.6",
+   "ref": "Hebrews 2:6",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5111,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "cross-witness seat 6+ellipsis+8-9; draft heading \"(Greek)\" becomes the Geneva seat per seat shape",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But one in a certain place witnessed, saying, What is man, that thou shouldest be mindful of him? or the son of man, that thou wouldest consider him? … Thou hast put all things in subjection under his feet. And in that he hath put all things in subjection under him, he left nothing that should not be subject unto him. But we yet see not all things subdued unto him, But we see Jesus crowned with glory and honour, which was made little inferior to the Angels, through the suffering of death, that by Gods grace he might taste death for all men."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But one in a certaine place witnessed, saying, What is man, that thou shouldest bee mindefull of him? or the sonne of man, that thou wouldest consider him?",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "But one in a certaine place witnessed, saying, What is man, that thou shouldest bee mindefull of him? or the sonne of man, that thou wouldest consider him?",
+      "source": "https://textusreceptusbibles.com/Geneva/58/2",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "διεμαρτύρατοdiemartyrato δέde πούpou τιςtis λέγωνlegōn ΤίTi ἐστινestin ἄνθρωποςanthrōpos ὅτιhoti μιμνῄσκῃmimnēskē αὐτοῦ;autou ἢē υἱὸςhuios ἀνθρώπουanthrōpou ὅτιhoti ἐπισκέπτῃepiskeptē αὐτόν;auton",
+     "source": "https://biblehub.com/text/hebrews/2-6.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.913 span (draft elides v7 + fragments)"
+    }
+   }
+  },
+  {
+   "id": "HEB.2.8",
+   "ref": "Hebrews 2:8",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5111,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But one in a certain place witnessed, saying, What is man, that thou shouldest be mindful of him? or the son of man, that thou wouldest consider him? … Thou hast put all things in subjection under his feet. And in that he hath put all things in subjection under him, he left nothing that should not be subject unto him. But we yet see not all things subdued unto him, But we see Jesus crowned with glory and honour, which was made little inferior to the Angels, through the suffering of death, that by Gods grace he might taste death for all men."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Thou hast put all things in subiection vnder his feete. And in that he hath put all things in subiection vnder him, he left nothing that should not be subiect vnto him. But we yet see not all things subdued vnto him,",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Thou hast put all things in subiection vnder his feete. And in that he hath put all things in subiection vnder him, he left nothing that should not be subiect vnto him. But we yet see not all things subdued vnto him,",
+      "source": "https://textusreceptusbibles.com/Geneva/58/2",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "πάνταpanta ὑπέταξαςhypetaxas ὑποκάτωhypokatō τῶνtōn ποδῶνpodōn αὐτοῦ.autou Ἐνen τῷtō γὰρgar ὑποτάξαιhypotaxai αὐτῷautō τὰta πάνταpanta οὐδὲνouden ἀφῆκενaphēken αὐτῷautō ἀνυπότακτον.anypotakton νῦνnyn δὲde οὔπωoupō ὁρῶμενhorōmen αὐτῷautō τὰta πάνταpanta ὑποτεταγμένα·hypotetagmena",
+     "source": "https://biblehub.com/text/hebrews/2-8.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.913 span"
+    }
+   }
+  },
+  {
+   "id": "HEB.2.9",
+   "ref": "Hebrews 2:9",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5111,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "draft 'which was a little inferior' → GNV 'which was made little inferior'; draft-elided v9 tail 'that by Gods grace he might taste death for all men.' restored per wave-16 rule; 'honour' kept (1599 spelling)",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> But one in a certain place witnessed, saying, What is man, that thou shouldest be mindful of him? or the son of man, that thou wouldest consider him? … Thou hast put all things in subjection under his feet. And in that he hath put all things in subjection under him, he left nothing that should not be subject unto him. But we yet see not all things subdued unto him, But we see Jesus crowned with glory and honour, which was made little inferior to the Angels, through the suffering of death, that by Gods grace he might taste death for all men."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But we see Iesus crowned with glory and honour, which was made litle inferiour to the Angels, through the suffering of death, that by Gods grace he might taste death for all men.",
+     "source": "https://ebible.org/enggnv/HEB02.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "But we see Iesus crowned with glory and honour, which was made litle inferiour to the Angels, through the suffering of death, that by Gods grace he might taste death for all men.",
+      "source": "https://textusreceptusbibles.com/Geneva/58/2",
+      "result": "1.000"
+     }
+    },
+    "greek_nestle": {
+     "text": "τὸνton δὲde βραχύbrachy τιti παρ’par’ ἀγγέλουςangelous ἠλαττωμένονēlattōmenon βλέπομενblepomen ἸησοῦνIēsoun διὰdia τὸto πάθημαpathēma τοῦtou θανάτουthanatou δόξῃdoxē καὶkai τιμῇtimē ἐστεφανωμένον,estephanōmenon ὅπωςhopōs χάριτιchariti ΘεοῦTheou ὑπὲρhyper παντὸςpantos γεύσηταιgeusētai θανάτου.thanatou",
+     "source": "https://biblehub.com/text/hebrews/2-9.htm",
+     "result": "BibleHub WH text (greek2); draft span ratio 0.913 span"
+    }
+   }
+  },
+  {
+   "id": "PSA.8.7",
+   "ref": "Psalm 8:7 (NETS/LXX; MT 8:6)",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5096,
+     "cited_as": "seat",
+     "status": "confirmed",
+     "note": "BOTH MAPS: NETS print numbers it 7 (title counted as v1); Geneva/English numbers it 6. Draft label 'Psalm 8:6 LXX (Ps 8:7)' is number-swapped (recorded, prose untouched). NETS from 24-ps.pdf print p550; draft's Greek+Geneva rows dropped per OT seat shape.",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "> And you set him over the works of your hands; you subjected all under his feet, — **Psalm 8:7, LXX (8:6 MT), NETS**"
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "And you set him over the works of your hands; you subjected all under his feet,",
+     "source": "/Users/yeah-/.hermes/cache/scratch/nets/24-ps.pdf (print p550)",
+     "result": "NETS print dump cos_wave23_ps8_pages.txt"
+    },
+    "gnv": {
+     "text": "Thou hast made him to haue dominion in the workes of thine hands: thou hast put all things vnder his feete:",
+     "source": "https://ebible.org/enggnv/PSA008.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Thou hast made him to haue dominion in the workes of thine hands: thou hast put all things vnder his feete:",
+      "source": "https://textusreceptusbibles.com/Geneva/19/8",
+      "result": "1.000"
+     }
+    },
+    "greek_rahlfs": {
+     "text": "",
+     "source": "",
+     "result": "not fetched this wave — Psalter Greek check pending (flag)"
+    }
+   }
+  },
+  {
+   "id": "ISA.25.8",
+   "ref": "Isaiah 25:8",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5087,
+     "cited_as": "obs bullet seated to NETS",
+     "status": "confirmed",
+     "note": "draft bullet was KJV/Brenton-mixed ('Death prevailed and swallowed men up...') — seated to NETS verbatim; '(Cited in 1 Cor 15:54.)' kept",
+     "quote_kind": "blockquote",
+     "quotes": [
+      "Death, having prevailed, swallowed them up, and God has again taken away every tear from every face; the disgrace of the people he has taken away from all the earth, for the mouth of the Lord has spoken."
+     ]
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "nets": {
+     "text": "Death, having prevailed, swallowed them up, and God has again taken away every tear from every face; the disgrace of the people he has taken away from all the earth, for the mouth of the Lord has spoken.",
+     "source": "NETS ISA cache (editions/nets/nets_cache.json)",
+     "result": "cache text"
+    }
+   }
+  },
+  {
+   "id": "REV.20.14",
+   "ref": "Revelation 20:14",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5085,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "obs bullet fragment 'And death and hell were cast into the lake of fire.' exact to GNV-modern (good-reason; GNV continues ': this is the second death.')",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And death and hell were cast into the lake of fire: this is the second death.",
+     "source": "https://ebible.org/enggnv/REV20.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And death and hell were cast into the lake of fire: this is the second death.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/20",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "REV.21.4",
+   "ref": "Revelation 21:4",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5086,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "obs bullet fragment 'and there shall be no more death.' exact to GNV-modern (good-reason)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And God shall wipe away all teares from their eyes: and there shalbe no more death, neither sorow, neither crying, neither shall there be any more paine: for the first things are passed.",
+     "source": "https://ebible.org/enggnv/REV21.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "And God shall wipe away all teares from their eyes: and there shalbe no more death, neither sorow, neither crying, neither shall there be any more paine: for the first things are passed.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/21",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "1CO.15.54",
+   "ref": "1 Corinthians 15:54",
+   "uses": [
+    {
+     "section": "COS-40",
+     "section_label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)",
+     "article_line": 5087,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "the Isaiah-citation locus Paul names (obs bullet '(Cited in 1 Cor 15:54.)')",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "So when this corruptible hath put on incorruption, and this mortall hath put on immortalitie, then shalbe brought to passe the saying that is written, Death is swallowed vp into victorie.",
+     "source": "https://ebible.org/enggnv/1CO15.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "So when this corruptible hath put on incorruption, and this mortall hath put on immortalitie, then shalbe brought to passe the saying that is written, Death is swallowed vp into victorie.",
+      "source": "https://textusreceptusbibles.com/Geneva/46/15",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "PHP.2.9",
+   "ref": "Philippians 2:9",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5314,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "synthesis pattern-list mention (Phil 2:9-11)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,",
+     "source": "https://ebible.org/enggnv/PHP02.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,",
+      "source": "https://textusreceptusbibles.com/Geneva/50/2",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "HEB.1.2",
+   "ref": "Hebrews 1:2",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5310,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "synthesis pattern-list mention (the Father creates through the Son)",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Whom he hath made heire of al things, by whome also he made the worldes,",
+     "source": "https://ebible.org/enggnv/HEB01.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "Whom he hath made heire of al things, by whome also he made the worldes,",
+      "source": "https://textusreceptusbibles.com/Geneva/58/1",
+      "result": "1.000"
+     }
+    }
+   }
+  },
+  {
+   "id": "REV.1.8",
+   "ref": "Revelation 1:8",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5342,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "(D) preview-list reference; TRB second-check at seating",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, Which is, and Which was, and Which is to come, euen the Almightie.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   }
+  },
+  {
+   "id": "REV.1.17",
+   "ref": "Revelation 1:17",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5342,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "(D) preview-list reference",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And when I saw him, I fell at his feete as dead: then he laid his right hand vpon me, saying vnto me, Feare not: I am that first and that last,",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   }
+  },
+  {
+   "id": "REV.1.18",
+   "ref": "Revelation 1:18",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5342,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "(D) preview-list reference",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And am aliue, but I was dead: and beholde, I am aliue for euermore, Amen: and I haue the keyes of hell and of death.",
+     "source": "https://ebible.org/enggnv/REV01.htm"
+    }
+   }
+  },
+  {
+   "id": "REV.2.23",
+   "ref": "Revelation 2:23",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5342,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "(D) preview-list reference",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And I will kill her children with death: and all the Churches shall know that I am he which searche the reines and heartes: and I will giue vnto euery one of you according vnto your workes.",
+     "source": "https://ebible.org/enggnv/REV02.htm"
+    }
+   }
+  },
+  {
+   "id": "REV.22.13",
+   "ref": "Revelation 22:13",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5342,
+     "cited_as": "mention-anchor",
+     "status": "confirmed",
+     "note": "(D) preview-list reference",
+     "quote_kind": "anchor"
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "I am Alpha and Omega, the beginning and the end, the first and the last.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    }
+   }
+  },
+  {
+   "id": "REV.22.20",
+   "ref": "Revelation 22:20",
+   "uses": [
+    {
+     "section": "COS-42",
+     "section_label": "46. Grand Synthesis — The Consummation and the Father-Son Order",
+     "article_line": 5345,
+     "cited_as": "KJV-voiced fragment, flagged",
+     "status": "confirmed",
+     "note": "draft's '(D) preview' bullet quotes 'Yea, I come quickly.' — GNV prints 'Surely, I come quickly.' — prose untouched per proposals-before-changes; propose seating the Geneva wording in the (D) wave",
+     "quote_kind": "anchor",
+     "flag": {
+      "kind": "needs-authorization",
+      "detail": "\"Yea, I come quickly.\" (draft bullet) vs GNV \"Surely, I come quickly.\" (eBible=TRB 1.000) — await Gideon's word to seat Geneva",
+      "awaiting": "Gideon"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.",
+     "source": "https://ebible.org/enggnv/REV22.htm"
+    },
+    "second_check": {
+     "trb_fresh": {
+      "text": "He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.",
+      "source": "https://textusreceptusbibles.com/Geneva/66/22",
+      "result": "1.000"
+     }
+    }
+   }
   }
  ]
 }

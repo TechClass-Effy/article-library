@@ -55,3 +55,6 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 41. Matthew 24-25 — The Olivet Discourse
 42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day
 43. Grand Synthesis — The Son's Return
+44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)
+45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)
+46. Grand Synthesis — The Consummation and the Father-Son Order
