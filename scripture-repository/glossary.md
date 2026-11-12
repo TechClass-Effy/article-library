@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**449 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**515 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**620 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**686 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4287,6 +4287,593 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
 
+## 33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4
+
+### PS 109 4 — CONFIRMED
+*cited as: Ps 110:4 in the Melchizedek foundation*
+- **NETS (Septuagint, modern):** “The Lord swore and will not change his mind, "You are a priest forever according to the order of Melchisedek *(Melchizedek)*."”
+- **Ruling — apply Geneva 1599 exact:** “The Lord swore and will not change his mind, "You are a prie”
+  (use-upsert (pre-bank row; old text kept))
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### GEN 14 17 — CONFIRMED
+*cited as: NETS seat (Gen 14:17-20)*
+- **NETS (Septuagint, modern):** “Now after he had returned from the slaughter of Chodollogomor and the kings who were with him, the king of Sodoma went out to meet him at the valley of Saue (this was the plain of a king).”
+- **Geneva 1599:** “After that he returned from the slaughter of Chedor-laomer, and of the Kings that were with him, came the King of Sodom foorth to meete him in the valley of Shaueh, which is the Kings dale.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Now after he had returned from the slaughter of Chodollogomo”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs Greek window confirms the verse map (Melchisedek phrase)*
+
+### GEN 14 18 — CONFIRMED
+*cited as: NETS seat (Gen 14:17-20)*
+- **NETS (Septuagint, modern):** “Melchisedek king of Salem brought out bread loaves and wine; now he was priest of God Most High.”
+- **Geneva 1599:** “And Melchi-zedek King of Shalem brought foorth bread and wine: and he was a Priest of the most high God.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Melchisedek king of Salem brought out bread loaves and wine;”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs Greek window confirms the verse map (Melchisedek phrase)*
+
+### GEN 14 19 — CONFIRMED
+*cited as: NETS seat (Gen 14:17-20)*
+- **NETS (Septuagint, modern):** “he blessed Abram and said, “Blessed be Abram to God Most High, who created the sky and the earth,”
+- **Geneva 1599:** “Therefore he blessed him, saying, Blessed art thou, Abram, of God most high possessour of heauen and earth,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “he blessed Abram and said, “Blessed be Abram to God Most Hig”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs Greek window confirms the verse map (Melchisedek phrase)*
+
+### GEN 14 20 — CONFIRMED
+*cited as: NETS seat (Gen 14:17-20)*
+- **NETS (Septuagint, modern):** “and blessed be God Most High, who has delivered up your enemies as subjects to you!” And he gave him one tenth of everything.”
+- **Geneva 1599:** “And blessed be the most high God, which hath deliuered thine enemies into thine hand. And Abram gaue him tythe of all.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “and blessed be God Most High, who has delivered up your enem”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs Greek window confirms the verse map (Melchisedek phrase)*
+
+## 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)
+
+### Revelation 5:5 — CONFIRMED
+*cited as: cross-witness (Lion of Judah, Genevas fragment)*
+- **Geneva 1599:** “And one of the Elders saide vnto me, Weepe not: beholde, that Lion which is of the tribe of Iuda, that roote of Dauid, hath obteined to open the Booke, and to loose the seuen seales thereof.”
+- **Ruling — apply Geneva 1599 exact:** “If therefore perfection had been by the Priesthood of the Le”
+  (use-upsert (pre-bank row; old text kept))
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### HEB 7 21 — CONFIRMED
+*cited as: use*
+- **Geneva 1599:** “But this is made with an othe by him that said vnto him, The Lord hath sworne, and will not repent, Thou art a Priest for euer, after the order of Melchi-sedec)”
+- **Ruling — apply Geneva 1599 exact:** “For the commandment that went afore, is disannulled *(annull”
+  (use-upsert (pre-bank row; old text kept))
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Hebrews 7:17 — CONFIRMED
+*cited as: use*
+- **Geneva 1599:** “For hee testifieth thus, Thou art a Priest for euer, after the order of Melchi-sedec.”
+- **Ruling — apply Geneva 1599 exact:** “If therefore perfection had been by the Priesthood of the Le”
+  (use-upsert (pre-bank row; old text kept))
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): trb — eBible=TRB word-for-word (ratio 1.0)*
+
+### Isaiah 53:9 — CONFIRMED
+*cited as: observation quote (Heb 7:26-28)*
+- **NETS (Septuagint, modern):** “And I will give the wicked for his burial and the rich for his death, because he committed no lawlessness, nor was deceit found in his mouth.”
+- **Geneva 1599:** “And he made his grave with the wicked, and with the rich in his death, though he had done no wickedness, neither was any deceit in his mouth.”
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.90 (group seat)*
+
+### HEB 7 1 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For this Melchi-sedec was King of Salem, the Priest of the most high God, who met Abraham, as he returned from the slaughter of the Kings, and blessed him:”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 2 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “To whom also Abraham gaue the tithe of all things: who first is by interpretation King of righteousnes: after that, he is also King of Salem, that is, King of peace,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 3 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Without father, without mother, without kinred, and hath neither beginning of his dayes, neither ende of life: but is likened vnto the Sonne of God, and continueth a Priest for euer.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 11 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “If therefore perfection had bene by the Priesthoode of the Leuites (for vnder it the Lawe was established to the people) what needed it furthermore, that another Priest should rise after the order of Melchi-sedec, and not to be called after the order of Aaron?”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 12 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For if the Priesthood be changed, then of necessitie must there be a change of the Lawe.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 13 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For hee of whome these things are spoken, perteineth vnto another tribe, whereof no man serued at the altar.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 14 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For it is euident, that our Lord sprung out of Iuda, concerning the which tribe Moses spake nothing, touching the Priesthood.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 15 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And it is yet a more euident thing, because that after the similitude of Melchi-sedec, there is risen vp another Priest,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 16 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Which is not made Priest after the Law of the carnal commandement, but after the power of the endlesse life.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 18 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For the commandement that went afore, is disanulled, because of the weakenes thereof, and vnprofitablenes.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 19 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For the Law made nothing perfite, but the bringing in of a better hope made perfite, whereby we drawe neere vnto God.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 20 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And for as much as it is not without an othe (for these are made Priestes without an othe:”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 22 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “By so much is Iesus made a suretie of a better Testament.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 23 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And among them many were made Priests, because they were not suffered to endure, by the reason of death.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 24 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “But this man, because hee endureth euer, hath a Priesthood, which cannot passe from one to another.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 25 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Wherefore, hee is able also perfectly to saue them that come vnto God by him, seeing he euer liueth, to make intercession for them.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 26 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For such an hie Priest it became vs to haue, which is holy, harmelesse, vndefiled, separate from sinners, and made hier then the heauens:”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 27 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Which needeth not daily as those hie Priests to offer vp sacrifice, first for his owne sinnes, and then for the peoples: for that did he once, when he offered vp himselfe.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### HEB 7 28 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For the Law maketh men hie Priestes, which haue infirmitie: but the word of the othe that was since the Lawe, maketh the Sonne, who is consecrated for euermore. Hebrews < 7 >”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### ROM 8 34 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.”
+- **Ruling — apply Geneva 1599 exact:** “Who shall condemne? it is Christ which is dead, yea, or rath”
+  (Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+## 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)
+
+### HEB 8 1 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Nowe of the things which we haue spoken, this is the summe, that wee haue such an hie Priest, that sitteth at the right hand of the throne of the Maiestie in heauens,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 8 2 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And is a minister of the Sanctuarie, and of that true Tabernacle which the Lord pight, and not man.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 8 6 — CONFIRMED
+*cited as: Geneva anchor*
+- **Geneva 1599:** “But nowe our hie Priest hath obteined a more excellent office, in as much as he is the Mediatour of a better Testament, which is established vpon better promises.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+### JER 38 31 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “Behold, days are coming, quoth the Lord, and I will make a new covenant with the house of Israel and the house of Iouda.”
+- **Geneva 1599:** “Beholde, the dayes come, saith the Lord, that I will make a new couenant with the house of Israel, and with the house of Iudah,”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Behold, days are coming, quoth the Lord, and I will make a n”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)*
+
+### JER 38 32 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord,”
+- **Geneva 1599:** “Not according to ye couenant that I made with their fathers, when I tooke them by the hand to bring them out of the land of Egypt, the which my couenant they brake, although I was an husband vnto them, saith the Lord.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “It will not be like the covenant that I made with their fath”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)*
+
+### JER 38 33 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me.”
+- **Geneva 1599:** “But this shall be the couenant that I will make with the house of Israel, After those dayes, saith the Lord, I will put my Lawe in their inward partes, and write it in their hearts, and wil be their God, and they shalbe my people.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “because this is the covenant that I will make with the house”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)*
+
+### JER 38 34 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more.”
+- **Geneva 1599:** “And they shall teach no more euery man his neighbour and euery man his brother, saying, Know the Lord: for they shall all know me from the least of them vnto the greatest of them, saith the Lord: for I wil forgiue their iniquitie, and will remember their sinnes no more.”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “And they shall not teach, each his fellow citizen and each h”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_rahlfs — Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)*
+
+## 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)
+
+### Hebrews 9:28 — CONFIRMED
+*cited as: 9:24-28 span tail (pre-bank wave 13) — COS-32 use*
+- **Geneva 1599:** “So Christ was once offered to take away the sinnes of many, and vnto them that looke for him, shall he appeare the second time without sinne vnto saluation.”
+- **Ruling — apply Geneva 1599 exact:** “For Christ is not entered into the holy places that are made”
+  (use-upsert (pre-bank row; old text kept))
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### HEB 9 11 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “But Christ being come an high Priest of good things to come, by a greater and a more perfect Tabernacle, not made with handes, that is, not of this building,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 12 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Neither by the blood of goates and calues: but by his owne blood entred he in once vnto the holy place, and obteined eternall redemption for vs.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 13 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For if the blood of bulles and of goates, and the ashes of an heifer, sprinkling them that are vncleane, sanctifieth as touching the purifying of the flesh,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 14 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “How much more shall the blood of Christ which through the eternall Spirit offered himselfe without fault to God, purge your conscience from dead workes, to serue the liuing God?”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 15 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And for this cause is he the Mediatour of the newe Testament, that through death which was for the redemption of the transgressions that were in the former Testament, they which were called, might receiue the promise of eternall inheritance.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 24 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For Christ is not entred into ye holy places that are made with hands, which are similitudes of ye true Sanctuarie: but is entred into very heauen, to appeare now in ye sight of God for vs,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 25 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Not that he should offer himselfe often, as the hie Priest entred into the Holy place euery yeere with other blood,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 26 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “(For then must he haue often suffred since the foundation of the world) but now in the end of the world hath he bene made manifest, once to put away sinne by the sacrifice of him selfe.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 9 27 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And as it is appointed vnto men that they shall once die, and after that commeth the iudgement:”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### 1TI 2 5 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- **Ruling — apply Geneva 1599 exact:** “For there is one God, and one Mediator between God and man, ”
+  (Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+## 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)
+
+### Isaiah 53:12 — CONFIRMED
+*cited as: prose mention (Heb 9:28 echo)*
+- **NETS (Septuagint, modern):** “And the Lord desires to cleanse him from his blow. If you offer for sin, your soul shall see a long-lived offspring. And the Lord wishes to take away from the pain of his soul, to show him light and fill him with understanding, to justify a righteous one who is well subject to many, and he himself shall bear their sins. Therefore he shall inherit many, and he shall divide the spoils of the strong, because his soul …”
+- **Geneva 1599:** “Yet the Lord would break him, and make him subject to infirmities: when he shall make his soul an offering for sin, he shall see his seed, and shall prolong his days, and the will of the Lord shall prosper in his hand. He shall see of the travail of his soul, and shall be satisfied: by his knowledge shall my righteous servant justify many: for he shall bear their iniquities. Therefore will I give him a portion with …”
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 0.98 (group seat)*
+
+### HEB 10 1 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For the Law hauing the shadowe of good things to come, and not the very image of the things, can neuer with those sacrifices, which they offer yeere by yeere continually, sanctifie the commers thereunto.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 2 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For would they not then haue ceased to haue bene offered, because that the offerers once purged, should haue had no more conscience of sinnes?”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 3 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “But in those sacrifices there is a remembrance againe of sinnes euery yeere.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 4 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For it is vnpossible that the blood of bulles and goates should take away sinnes.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 5 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 6 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “In burnt offerings, and sinne offrings thou hast had no pleasure.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 7 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Then I sayd, Lo, I come (In the beginning of the booke it is written of me) that I should doe thy will, O God.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 10 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “By the which wil we are sanctified, euen by the offring of the body of Iesus Christ once made.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 11 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And euery Priest standeth dayly ministring, and oft times offreth one maner of offring, which can neuer take away sinnes:”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 12 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 13 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And from hencefoorth tarieth, till his enemies be made his footestoole.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 14 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For with one offering hath he consecrated for euer them that are sanctified.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 19 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Seeing therefore, brethren, that by the blood of Iesus we may be bolde to enter into the Holy place,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 20 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “By the newe and liuing way, which hee hath prepared for vs, through the vaile, that is, his flesh:”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 21 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And seeing we haue an hie Priest, which is ouer the house of God,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### HEB 10 22 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Let vs drawe neere with a true heart in assurance of faith, our hearts being pure from an euill conscience,”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### PSA 39 7 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request.”
+- **Geneva 1599:** “”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Sacrifice and offering you did not want, but ears you fashio”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+
+### PSA 39 8 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “Then I said, “Look, I have come; in a scroll of a book it is written of me.”
+- **Geneva 1599:** “”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “Then I said, “Look, I have come; in a scroll of a book it is”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+
+### PSA 39 9 — CONFIRMED
+*cited as: NETS seat; Geneva MT-recourse*
+- **NETS (Septuagint, modern):** “To do your will, O my God, I desired— and your law, within my belly.””
+- **Geneva 1599:** “”
+- **Ruling — apply NETS (Septuagint, modern) exact:** “To do your will, O my God, I desired— and your law, within m”
+  (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
+- *Checked 2026-11-11 · editions fetched: gnv, nets*
+
+### MAT 27 51 — CONFIRMED
+*cited as: prose mention (veil torn)*
+- **Geneva 1599:** “And behold, the vayle of the Temple was rent in twaine, from the top to the bottome, and the earth did quake, and the stones were cloue.”
+- **Ruling — apply Geneva 1599 exact:** “And behold, the vayle of the Temple was rent in twaine, from”
+  (Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+## 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return
+
+### PS 109 1 — CONFIRMED
+*cited as: synthesis table*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-10 · editions fetched: nets*
+
+### ACT 2 34-36 — CONFIRMED
+*cited as: synthesis table*
+- **Geneva 1599:** “For Dauid is not ascended into heauen, but he sayth, The Lord sayd to my Lord, Sit at my right hande, Vntill I make thine enemies thy footestoole. Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### Acts 1:7 — CONFIRMED
+*cited as: synthesis table*
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: *
+
+### Acts 2:33 — CONFIRMED
+*cited as: synthesis table*
+- **Geneva 1599:** “Since then that he by the right hande of God hath bene exalted, and hath receiued of his Father the promise of the holy Ghost, hee hath shed foorth this which yee nowe see and heare.”
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, wave-16 Greek pass, group coverage 1.00 (see row note for variants)*
+
+### John 20:19-29 — CONFIRMED
+*cited as: synthesis table*
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: *
+
+### HEB 10 12 — CONFIRMED
+*cited as: table use on this run's row*
+- **Geneva 1599:** “But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,”
+- **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### MRK 16 19 — CONFIRMED
+*cited as: Geneva anchor*
+- **Geneva 1599:** “So after ye Lord had spoken vnto them, he was receiued into heauen, and sate at the right hand of God.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+### COL 3 1 — CONFIRMED
+*cited as: Geneva anchor*
+- **Geneva 1599:** “If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+### REV 5 6 — CONFIRMED
+*cited as: Geneva anchor*
+- **Geneva 1599:** “Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+### HEB 12 24 — CONFIRMED
+*cited as: Geneva anchor*
+- **Geneva 1599:** “And to Iesus the Mediatour of the new Testament, and to the blood of sprinkling that speaketh better things then that of Abel.”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse)*
+
+### MAR 13 32 — CONFIRMED
+*cited as: synthesis table*
+- **Geneva 1599:** “”
+- **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
+- *Checked 2026-11-11 · editions fetched: gnv*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -6331,7 +6918,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 3:17 | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
 | Genesis 49:10 | COS-02, COS-19, COS-22 | anchor, confirmed |
 | Haggai 2:7 (LXX) | COS-02, COS-19 | confirmed, confirmed (excerpt) |
-| Revelation 5:5 | COS-02, COS-19 | confirmed (excerpt) |
+| Revelation 5:5 | COS-02, COS-19, COS-30 | confirmed, confirmed (excerpt) |
 | Revelation 22:16 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
 | Numbers 24:17 | COS-02, COS-19 | anchor, confirmed |
 | Matthew 2:2 (Geneva) | COS-02, COS-19 | confirmed (excerpt), differs (minor) |
@@ -6343,14 +6930,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 13 32-33 | COS-03 | confirmed |
 | ROM 1 3-4 | COS-03, COS-19 | confirmed, confirmed (excerpt) |
 | MAT 28 18 | COS-03, COS-27, COS-28 | anchor, confirmed |
-| PS 109 1 | COS-04, COS-16, COS-28 | anchor, confirmed |
+| PS 109 1 | COS-04, COS-16, COS-28, COS-34 | anchor, confirmed |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
-| PS 109 4 | COS-04 | confirmed |
+| PS 109 4 | COS-04, COS-29 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
 | MAT 22 41-45 | COS-04, COS-19 | anchor, confirmed |
-| ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28 | anchor, confirmed |
+| ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28, COS-34 | anchor, confirmed |
 | HEB 5 5-6 | COS-04, COS-19 | anchor, differs (minor) |
-| HEB 7 21 | COS-04, COS-19 | anchor, differs (minor) |
+| HEB 7 21 | COS-04, COS-19, COS-30 | anchor, confirmed, differs (minor) |
 | PRO 8 22 | COS-05, COS-19 | anchor, confirmed |
 | PRO 8 23 | COS-05 | confirmed |
 | PRO 8 24 | COS-05 | confirmed |
@@ -6424,7 +7011,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 4:25-27 | COS-19, COS-22 | anchor, confirmed |
 | Psalm 109:3 (= Hebrew 110:3) | COS-19 | differs (minor) |
 | Hebrews 1:5 | COS-19 | anchor |
-| Hebrews 7:17 | COS-19 | anchor |
+| Hebrews 7:17 | COS-19, COS-30 | anchor, confirmed |
 | John 1:14 | COS-20 | confirmed |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
@@ -6471,7 +7058,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 8:35 | COS-22 | confirmed (excerpt) |
 | Hebrews 2:11 | COS-22 | confirmed |
 | Hebrews 2:12 | COS-22 | confirmed |
-| Hebrews 9:28 | COS-22 | confirmed (excerpt) |
+| Hebrews 9:28 | COS-22, COS-32 | confirmed, confirmed (excerpt) |
 | John 12:37 | COS-22 | confirmed |
 | John 12:38 | COS-22 | confirmed |
 | John 19:23 | COS-22 | confirmed |
@@ -6522,10 +7109,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 53:6 | COS-22 | confirmed |
 | Isaiah 53:7 | COS-22 | confirmed |
 | Isaiah 53:8 | COS-22 | confirmed |
-| Isaiah 53:9 | COS-22 | confirmed |
+| Isaiah 53:9 | COS-22, COS-30 | confirmed |
 | Isaiah 53:10 | COS-22 | confirmed |
 | Isaiah 53:11 | COS-22 | confirmed |
-| Isaiah 53:12 | COS-22 | confirmed |
+| Isaiah 53:12 | COS-22, COS-33 | confirmed |
 | Acts 8:34 | COS-22 | anchor |
 | Matthew 27:13 | COS-22 | anchor |
 | Matthew 27:59 | COS-22 | anchor |
@@ -6618,7 +7205,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 12:42 | COS-24 | anchor |
 | Mark 2:28 | COS-24 | anchor |
 | Matthew 27:11 | COS-24 | anchor |
-| Acts 1:7 | COS-24 | anchor |
+| Acts 1:7 | COS-24, COS-34 | anchor, confirmed |
 | Mark 2:5 | COS-25 | confirmed (excerpt) |
 | Mark 2:6 | COS-25 | confirmed (excerpt) |
 | Mark 2:7 | COS-25 | confirmed (excerpt) |
@@ -6635,7 +7222,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 7:37 | COS-25 | confirmed (excerpt) |
 | John 7:38 | COS-25 | confirmed (excerpt) |
 | John 7:39 | COS-25 | confirmed (excerpt) |
-| Acts 2:33 | COS-25 | confirmed |
+| Acts 2:33 | COS-25, COS-34 | confirmed |
 | Psalm 107:28 | COS-25 | anchor |
 | Psalm 107:29 | COS-25 | anchor |
 | Deuteronomy 32:39 | COS-25 | anchor |
@@ -6652,7 +7239,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 1:11 | COS-27, COS-28 | anchor, confirmed |
 | John 20:11-18 | COS-27 | anchor |
 | Luke 24:36-43 | COS-27 | anchor |
-| John 20:19-29 | COS-27 | anchor |
+| John 20:19-29 | COS-27, COS-34 | anchor, confirmed |
 | Luke 24:42-43 | COS-27 | anchor |
 | Acts 10:41 | COS-27 | anchor |
 | 1 Corinthians 15:6 | COS-27 | anchor |
@@ -6668,6 +7255,72 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 5:17 | COS-28 | anchor |
 | John 10:10 | COS-28 | anchor |
 | Isaiah 35 (chapter) | COS-28 | anchor |
+| GEN 14 17 | COS-29 | confirmed |
+| GEN 14 18 | COS-29 | confirmed |
+| GEN 14 19 | COS-29 | confirmed |
+| GEN 14 20 | COS-29 | confirmed |
+| HEB 7 1 | COS-30 | confirmed |
+| HEB 7 2 | COS-30 | confirmed |
+| HEB 7 3 | COS-30 | confirmed |
+| HEB 7 11 | COS-30 | confirmed |
+| HEB 7 12 | COS-30 | confirmed |
+| HEB 7 13 | COS-30 | confirmed |
+| HEB 7 14 | COS-30 | confirmed |
+| HEB 7 15 | COS-30 | confirmed |
+| HEB 7 16 | COS-30 | confirmed |
+| HEB 7 18 | COS-30 | confirmed |
+| HEB 7 19 | COS-30 | confirmed |
+| HEB 7 20 | COS-30 | confirmed |
+| HEB 7 22 | COS-30 | confirmed |
+| HEB 7 23 | COS-30 | confirmed |
+| HEB 7 24 | COS-30 | confirmed |
+| HEB 7 25 | COS-30 | confirmed |
+| HEB 7 26 | COS-30 | confirmed |
+| HEB 7 27 | COS-30 | confirmed |
+| HEB 7 28 | COS-30 | confirmed |
+| ROM 8 34 | COS-30 | confirmed |
+| HEB 8 1 | COS-31 | confirmed |
+| HEB 8 2 | COS-31 | confirmed |
+| HEB 8 6 | COS-31 | confirmed |
+| JER 38 31 | COS-31 | confirmed |
+| JER 38 32 | COS-31 | confirmed |
+| JER 38 33 | COS-31 | confirmed |
+| JER 38 34 | COS-31 | confirmed |
+| HEB 9 11 | COS-32 | confirmed |
+| HEB 9 12 | COS-32 | confirmed |
+| HEB 9 13 | COS-32 | confirmed |
+| HEB 9 14 | COS-32 | confirmed |
+| HEB 9 15 | COS-32 | confirmed |
+| HEB 9 24 | COS-32 | confirmed |
+| HEB 9 25 | COS-32 | confirmed |
+| HEB 9 26 | COS-32 | confirmed |
+| HEB 9 27 | COS-32 | confirmed |
+| 1TI 2 5 | COS-32 | confirmed |
+| HEB 10 1 | COS-33 | confirmed |
+| HEB 10 2 | COS-33 | confirmed |
+| HEB 10 3 | COS-33 | confirmed |
+| HEB 10 4 | COS-33 | confirmed |
+| HEB 10 5 | COS-33 | confirmed |
+| HEB 10 6 | COS-33 | confirmed |
+| HEB 10 7 | COS-33 | confirmed |
+| HEB 10 10 | COS-33 | confirmed |
+| HEB 10 11 | COS-33 | confirmed |
+| HEB 10 12 | COS-33, COS-34 | confirmed |
+| HEB 10 13 | COS-33 | confirmed |
+| HEB 10 14 | COS-33 | confirmed |
+| HEB 10 19 | COS-33 | confirmed |
+| HEB 10 20 | COS-33 | confirmed |
+| HEB 10 21 | COS-33 | confirmed |
+| HEB 10 22 | COS-33 | confirmed |
+| PSA 39 7 | COS-33 | confirmed |
+| PSA 39 8 | COS-33 | confirmed |
+| PSA 39 9 | COS-33 | confirmed |
+| MAT 27 51 | COS-33 | confirmed |
+| MRK 16 19 | COS-34 | confirmed |
+| COL 3 1 | COS-34 | confirmed |
+| REV 5 6 | COS-34 | confirmed |
+| HEB 12 24 | COS-34 | confirmed |
+| MAR 13 32 | COS-34 | confirmed |
 
 ## The editions used
 

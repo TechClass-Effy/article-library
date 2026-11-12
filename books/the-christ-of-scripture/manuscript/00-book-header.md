@@ -44,3 +44,9 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 30. His Relation to the Father — Part 4: direct statements — the Son can do nothing of Himself (John 5:19, 30); not His own will (John 6:38; 8:28-29); the Father greater than the Son (John 14:28); the Father the only very true God (John 17:3)
 31. Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)
 32. The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A) the Son's Present Session and High-Priestly Ministry (Hebrews 7-10)
+33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4 — the OT roots of the priesthood, seated from LXX NETS
+34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)
+35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)
+36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)
+37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)
+38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return

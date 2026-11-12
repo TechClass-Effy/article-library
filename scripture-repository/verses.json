@@ -80,7 +80,13 @@
    "COS-25",
    "COS-26",
    "COS-27",
-   "COS-28"
+   "COS-28",
+   "COS-29",
+   "COS-30",
+   "COS-31",
+   "COS-32",
+   "COS-33",
+   "COS-34"
   ],
   "sections": [
    {
@@ -348,6 +354,30 @@
    {
     "key": "COS-28",
     "label": "The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)"
+   },
+   {
+    "key": "COS-29",
+    "label": "33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4"
+   },
+   {
+    "key": "COS-30",
+    "label": "34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)"
+   },
+   {
+    "key": "COS-31",
+    "label": "35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)"
+   },
+   {
+    "key": "COS-32",
+    "label": "36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)"
+   },
+   {
+    "key": "COS-33",
+    "label": "37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)"
+   },
+   {
+    "key": "COS-34",
+    "label": "38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return"
    }
   ],
   "double_check": {
@@ -408,9 +438,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 36425,
+  "so_far_words": 41380,
   "cos_sofar": {
-   "waves": 18
+   "waves": 19
   }
  },
  "verses": [
@@ -13648,6 +13678,24 @@
      ],
      "status": "confirmed-excerpt",
      "note": "Seat: Geneva verbatim (modernized) \"that Lion which is of the tribe of Judah\" — draft voiced KJV \"the Lion of the tribe of Judah\"."
+    },
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "cross-witness (Lion of Judah, Genevas fragment)",
+     "quotes": [
+      "If therefore perfection had been by the Priesthood of the Levites (for under it the Law was established to the people) what needed it furthermore, that another Priest should rise after the order of Melchi-sedec, and not to be called after the order of Aaron? For if the Priesthood be changed, then of necessitie must there be a change of the Law. For he of whom these things are spoken, perteineth unto another tribe, whereof no man serued at the altar. For it is euident, that our Lord sprung out of Iuda, concerning the which tribe Moses spake nothing, touching the Priesthood. And it is yet a more euident thing, because that after the similitude of Melchi-sedec, there is risen up another Priest, Which is not made Priest after the Law of the carnal commandment, but after the power of the endlesse life. For he testifieth thus, Thou art a Priest for ever, after the order of Melchi-sedec."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "pre-bank (wave 10 Geneva text); draft Greek fragment dropped per seat shape; draft Geneva fragment kept (fold within edition)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "If therefore perfection had been by the Priesthood of the Le",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -14245,6 +14293,22 @@
      "status": "anchor",
      "matched_source": "",
      "note": "synthesis item 26: He ascends and is enthroned at the Father's right hand (fulfilling Psalm 110:1 MT = 109:1 LXX)."
+    },
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "synthesis table",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Ps 110:1 table use",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-10",
@@ -14318,6 +14382,24 @@
       "ruling": "seat",
       "version": "nets",
       "text": "The Lord swore and will not change his mind, \"You are a priest forever according to the order of Melchisedek *(Melchizedek)*.\""
+     }
+    },
+    {
+     "section": "COS-29",
+     "section_label": "THE CHRIST OF SCRIPTURE — 33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4",
+     "cited_as": "Ps 110:4 in the Melchizedek foundation",
+     "quotes": [
+      "The Lord swore and will not change his mind, \"You are a priest forever according to the order of Melchisedek *(Melchizedek)*.\""
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "pre-bank (wave 2b NETS text carried verbatim); COS-29 use added",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "The Lord swore and will not change his mind, \"You are a prie",
+      "reason": "use-upsert (pre-bank row; old text kept)"
      }
     }
    ],
@@ -14460,6 +14542,22 @@
      "status": "anchor",
      "matched_source": "",
      "note": "5.3 observation: the ascension fulfills the \"sit at My right hand\" of Psalm 110:1 per Acts 2:34-35."
+    },
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "synthesis table",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "table cites Acts 2:33-34",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -14558,6 +14656,24 @@
      "quotes": [],
      "status": "anchor",
      "note": "Audit #3 Claim B bullet (Heb 7:21) — reference only; Geneva banked. Summary item 3 + Refined point 4 re-list it."
+    },
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "use",
+     "quotes": [
+      "For the commandment that went afore, is disannulled *(annulled)*, because of the weakness thereof, and unprofitableness. For the Law made nothing perfect, but the bringing in of a better hope made perfect, whereby we drawe neere unto God. And for as much as it is not without an othe (for these are made Priests without an othe: But this is made with an othe by him that said unto him, The Lord hath sworne, and will not repent, Thou art a Priest for ever, after the order of Melchi-sedec) By so much is Jesus made a surety of a better Testament. And among them many were made Priests, because they were not suffered to endure, by the reason of death. But this man, because he endureth ever, hath a Priesthood, which cannot pass from one to another. Wherefore, he is able also perfectly to save them that come unto God by him, seeing he ever liveth, to make intercession for them."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "oath verse (pre-bank) — COS-30 use",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For the commandment that went afore, is disannulled *(annull",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -17798,6 +17914,24 @@
      "quotes": [],
      "status": "anchor",
      "note": "Backfill (opportunistic): GNV text banked. Note the row order variant \"after the order\" (5:6 prints \"after ye order of Melchi-sedec\" — recorded on HEB.5.5-6 and the earlier note)."
+    },
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "use",
+     "quotes": [
+      "If therefore perfection had been by the Priesthood of the Levites (for under it the Law was established to the people) what needed it furthermore, that another Priest should rise after the order of Melchi-sedec, and not to be called after the order of Aaron? For if the Priesthood be changed, then of necessitie must there be a change of the Law. For he of whom these things are spoken, perteineth unto another tribe, whereof no man serued at the altar. For it is euident, that our Lord sprung out of Iuda, concerning the which tribe Moses spake nothing, touching the Priesthood. And it is yet a more euident thing, because that after the similitude of Melchi-sedec, there is risen up another Priest, Which is not made Priest after the Law of the carnal commandment, but after the power of the endlesse life. For he testifieth thus, Thou art a Priest for ever, after the order of Melchi-sedec."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Ps 110:4 oath quote (pre-bank wave 10) — COS-30 use",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "If therefore perfection had been by the Priesthood of the Le",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -19780,6 +19914,24 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "9:24-28 span tail (pre-bank wave 13) — COS-32 use",
+     "quotes": [
+      "For Christ is not entered into the holy places that are made with hands, which are similitudes *(copies)* of the true Sanctuary: but is entered into very heaven, to appeare now in ye sight of God for us, Not that he should offer himself often, as the high Priest entered into the Holy place every year with other blood, (For then must he have often suffred since the foundation of the world) but now in the end of the world hath he been made manifest, once to put away sin by the sacrifice of him self. And as it is appointed unto men that they shall once die, and after that cometh the judgment: So Christ was once offered to take away the sins of many, and unto them that looke for him, shall he appeare the second time without sin unto saluation. Hebrews < 9 >"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "use added; old text kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For Christ is not entered into the holy places that are made",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -21612,6 +21764,22 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "observation quote (Heb 7:26-28)",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "observation quotes KJV-voiced wording; NETS pre-bank (wave 13); italic in-line attribution awaits his word",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -21632,7 +21800,12 @@
      "result": "verified 2026-11-11, coverage 0.90 (group seat)"
     }
    },
-   "note": ""
+   "note": "",
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "Isa 53:9 prose quote is KJV-voiced; add italic version-name in line? awaits Gideon",
+    "awaiting": "Gideon"
+   }
   },
   {
    "id": "ISA.53.10",
@@ -21726,6 +21899,22 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "prose mention (Heb 9:28 echo)",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "pre-bank COS-22; use added",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -24498,6 +24687,22 @@
      "status": "anchor",
      "matched_source": "",
      "note": "cf. reference in the Mark 13:32 observation: the Father's kept authority."
+    },
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "synthesis table",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "times/seasons in the Father's power",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -25209,6 +25414,22 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block exact to the Geneva, word-for-word at modern spelling (eBible=TRB)."
+    },
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "synthesis table",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "received-from-the-Father / poured-out (table)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -25835,6 +26056,22 @@
      "status": "anchor",
      "matched_source": "",
      "note": "appears to the disciples and shows His wounds, Thomas included (the 5.1 bullet list)."
+    },
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "synthesis table",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "marks of suffering on the risen Christ (observation 2)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -26156,6 +26393,2741 @@
    "translations": {},
    "second_check": {},
    "note": ""
+  },
+  {
+   "id": "GEN.14.17",
+   "ref": "GEN 14 17",
+   "uses": [
+    {
+     "section": "COS-29",
+     "section_label": "THE CHRIST OF SCRIPTURE — 33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4",
+     "cited_as": "NETS seat (Gen 14:17-20)",
+     "quotes": [
+      "Now after he had returned from the slaughter of Chodollogomor and the kings who were with him, the king of Sodoma *(Sodom)* went out to meet him at the valley of Saue (this was the plain of a king). Melchisedek *(Melchizedek)* king of Salem brought out bread loaves and wine; now he was priest of God Most High. And he blessed Abram and said, “Blessed be Abram to God Most High, who created the sky and the earth, and blessed be God Most High, who has delivered up your enemies as subjects to you!” And he gave him one tenth of everything."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS print 01-gen.pdf p.14 (print-vs-cache equality asserted; v20 glued footnote marker b dropped); GNV Gen 14 side = 1599 print banked (eBible=TRB 1.00); draft Greek + Geneva rows dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Now after he had returned from the slaughter of Chodollogomo",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "After that he returned from the slaughter of Chedor-laomer, and of the Kings that were with him, came the King of Sodom foorth to meete him in the valley of Shaueh, which is the Kings dale.",
+     "source": "https://ebible.org/enggnv/GEN14.htm"
+    },
+    "nets": {
+     "text": "Now after he had returned from the slaughter of Chodollogomor and the kings who were with him, the king of Sodoma went out to meet him at the valley of Saue (this was the plain of a king).",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/1/14",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "ὰ τὸ ἀναστρέψαι αὐτὸν ἀπὸ τῆς κοπῆς τοῦ Χοδολλογομορ καὶ τῶν βασιλέων τῶν μετ’ αὐτοῦ – εἰς τὴν κοιλάδα τὴν Σαυη [τοῦτο ἦν τὸ πεδίον βασιλέως]. 18 καὶ Μελχισεδεκ βασιλεὺς Σαλημ ἐξήνεγκεν ἄρτους καὶ οἶνον· ἦν δὲ ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου. 19 καὶ ηὐλόγησεν τὸν Αβραμ καὶ εἶπεν Εὐλογημένος Αβραμ τῷ θεῷ τῷ ὑψίστῳ, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὴν γῆν, 20 καὶ εὐλογητὸς ὁ θεὸς ὁ ὕψιστος, ὃς παρέδωκεν τοὺς ἐχθρούς σου ὑποχειρ",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "Rahlfs Greek window confirms the verse map (Melchisedek phrase)"
+    }
+   }
+  },
+  {
+   "id": "GEN.14.18",
+   "ref": "GEN 14 18",
+   "uses": [
+    {
+     "section": "COS-29",
+     "section_label": "THE CHRIST OF SCRIPTURE — 33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4",
+     "cited_as": "NETS seat (Gen 14:17-20)",
+     "quotes": [
+      "Now after he had returned from the slaughter of Chodollogomor and the kings who were with him, the king of Sodoma *(Sodom)* went out to meet him at the valley of Saue (this was the plain of a king). Melchisedek *(Melchizedek)* king of Salem brought out bread loaves and wine; now he was priest of God Most High. And he blessed Abram and said, “Blessed be Abram to God Most High, who created the sky and the earth, and blessed be God Most High, who has delivered up your enemies as subjects to you!” And he gave him one tenth of everything."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS print 01-gen.pdf p.14 (print-vs-cache equality asserted; v20 glued footnote marker b dropped); GNV Gen 14 side = 1599 print banked (eBible=TRB 1.00); draft Greek + Geneva rows dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Melchisedek king of Salem brought out bread loaves and wine;",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And Melchi-zedek King of Shalem brought foorth bread and wine: and he was a Priest of the most high God.",
+     "source": "https://ebible.org/enggnv/GEN14.htm"
+    },
+    "nets": {
+     "text": "Melchisedek king of Salem brought out bread loaves and wine; now he was priest of God Most High.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/1/14",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "ὰ τὸ ἀναστρέψαι αὐτὸν ἀπὸ τῆς κοπῆς τοῦ Χοδολλογομορ καὶ τῶν βασιλέων τῶν μετ’ αὐτοῦ – εἰς τὴν κοιλάδα τὴν Σαυη [τοῦτο ἦν τὸ πεδίον βασιλέως]. 18 καὶ Μελχισεδεκ βασιλεὺς Σαλημ ἐξήνεγκεν ἄρτους καὶ οἶνον· ἦν δὲ ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου. 19 καὶ ηὐλόγησεν τὸν Αβραμ καὶ εἶπεν Εὐλογημένος Αβραμ τῷ θεῷ τῷ ὑψίστῳ, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὴν γῆν, 20 καὶ εὐλογητὸς ὁ θεὸς ὁ ὕψιστος, ὃς παρέδωκεν τοὺς ἐχθρούς σου ὑποχειρ",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "Rahlfs Greek window confirms the verse map (Melchisedek phrase)"
+    }
+   }
+  },
+  {
+   "id": "GEN.14.19",
+   "ref": "GEN 14 19",
+   "uses": [
+    {
+     "section": "COS-29",
+     "section_label": "THE CHRIST OF SCRIPTURE — 33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4",
+     "cited_as": "NETS seat (Gen 14:17-20)",
+     "quotes": [
+      "Now after he had returned from the slaughter of Chodollogomor and the kings who were with him, the king of Sodoma *(Sodom)* went out to meet him at the valley of Saue (this was the plain of a king). Melchisedek *(Melchizedek)* king of Salem brought out bread loaves and wine; now he was priest of God Most High. And he blessed Abram and said, “Blessed be Abram to God Most High, who created the sky and the earth, and blessed be God Most High, who has delivered up your enemies as subjects to you!” And he gave him one tenth of everything."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS print 01-gen.pdf p.14 (print-vs-cache equality asserted; v20 glued footnote marker b dropped); GNV Gen 14 side = 1599 print banked (eBible=TRB 1.00); draft Greek + Geneva rows dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "he blessed Abram and said, “Blessed be Abram to God Most Hig",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Therefore he blessed him, saying, Blessed art thou, Abram, of God most high possessour of heauen and earth,",
+     "source": "https://ebible.org/enggnv/GEN14.htm"
+    },
+    "nets": {
+     "text": "he blessed Abram and said, “Blessed be Abram to God Most High, who created the sky and the earth,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/1/14",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "ὰ τὸ ἀναστρέψαι αὐτὸν ἀπὸ τῆς κοπῆς τοῦ Χοδολλογομορ καὶ τῶν βασιλέων τῶν μετ’ αὐτοῦ – εἰς τὴν κοιλάδα τὴν Σαυη [τοῦτο ἦν τὸ πεδίον βασιλέως]. 18 καὶ Μελχισεδεκ βασιλεὺς Σαλημ ἐξήνεγκεν ἄρτους καὶ οἶνον· ἦν δὲ ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου. 19 καὶ ηὐλόγησεν τὸν Αβραμ καὶ εἶπεν Εὐλογημένος Αβραμ τῷ θεῷ τῷ ὑψίστῳ, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὴν γῆν, 20 καὶ εὐλογητὸς ὁ θεὸς ὁ ὕψιστος, ὃς παρέδωκεν τοὺς ἐχθρούς σου ὑποχειρ",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "Rahlfs Greek window confirms the verse map (Melchisedek phrase)"
+    }
+   }
+  },
+  {
+   "id": "GEN.14.20",
+   "ref": "GEN 14 20",
+   "uses": [
+    {
+     "section": "COS-29",
+     "section_label": "THE CHRIST OF SCRIPTURE — 33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4",
+     "cited_as": "NETS seat (Gen 14:17-20)",
+     "quotes": [
+      "Now after he had returned from the slaughter of Chodollogomor and the kings who were with him, the king of Sodoma *(Sodom)* went out to meet him at the valley of Saue (this was the plain of a king). Melchisedek *(Melchizedek)* king of Salem brought out bread loaves and wine; now he was priest of God Most High. And he blessed Abram and said, “Blessed be Abram to God Most High, who created the sky and the earth, and blessed be God Most High, who has delivered up your enemies as subjects to you!” And he gave him one tenth of everything."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "NETS print 01-gen.pdf p.14 (print-vs-cache equality asserted; v20 glued footnote marker b dropped); GNV Gen 14 side = 1599 print banked (eBible=TRB 1.00); draft Greek + Geneva rows dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "and blessed be God Most High, who has delivered up your enem",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And blessed be the most high God, which hath deliuered thine enemies into thine hand. And Abram gaue him tythe of all.",
+     "source": "https://ebible.org/enggnv/GEN14.htm"
+    },
+    "nets": {
+     "text": "and blessed be God Most High, who has delivered up your enemies as subjects to you!” And he gave him one tenth of everything.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/1/14",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "ὰ τὸ ἀναστρέψαι αὐτὸν ἀπὸ τῆς κοπῆς τοῦ Χοδολλογομορ καὶ τῶν βασιλέων τῶν μετ’ αὐτοῦ – εἰς τὴν κοιλάδα τὴν Σαυη [τοῦτο ἦν τὸ πεδίον βασιλέως]. 18 καὶ Μελχισεδεκ βασιλεὺς Σαλημ ἐξήνεγκεν ἄρτους καὶ οἶνον· ἦν δὲ ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου. 19 καὶ ηὐλόγησεν τὸν Αβραμ καὶ εἶπεν Εὐλογημένος Αβραμ τῷ θεῷ τῷ ὑψίστῳ, ὃς ἔκτισεν τὸν οὐρανὸν καὶ τὴν γῆν, 20 καὶ εὐλογητὸς ὁ θεὸς ὁ ὕψιστος, ὃς παρέδωκεν τοὺς ἐχθρούς σου ὑποχειρ",
+     "source": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)",
+     "result": "Rahlfs Greek window confirms the verse map (Melchisedek phrase)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.1",
+   "ref": "HEB 7 1",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For this Melchi-sedec was King of Salem, the Priest of the most high God, who met Abraham, as he returned from the slaughter of the Kings, and blessed him:",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Οὗτος Houtos",
+     "source": "https://biblehub.com/text/hebrews/7-1.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.2",
+   "ref": "HEB 7 2",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "To whom also Abraham gaue the tithe of all things: who first is by interpretation King of righteousnes: after that, he is also King of Salem, that is, King of peace,",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ᾧ hō",
+     "source": "https://biblehub.com/text/hebrews/7-2.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.3",
+   "ref": "HEB 7 3",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Without father, without mother, without kinred, and hath neither beginning of his dayes, neither ende of life: but is likened vnto the Sonne of God, and continueth a Priest for euer.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ἀπάτωρ, apatōr",
+     "source": "https://biblehub.com/text/hebrews/7-3.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.11",
+   "ref": "HEB 7 11",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "If therefore perfection had bene by the Priesthoode of the Leuites (for vnder it the Lawe was established to the people) what needed it furthermore, that another Priest should rise after the order of Melchi-sedec, and not to be called after the order of Aaron?",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Εἰ Ei",
+     "source": "https://biblehub.com/text/hebrews/7-11.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.12",
+   "ref": "HEB 7 12",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For if the Priesthood be changed, then of necessitie must there be a change of the Lawe.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "μετατιθεμένης metatithemenēs",
+     "source": "https://biblehub.com/text/hebrews/7-12.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.13",
+   "ref": "HEB 7 13",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For hee of whome these things are spoken, perteineth vnto another tribe, whereof no man serued at the altar.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Ἐφ’ eph’",
+     "source": "https://biblehub.com/text/hebrews/7-13.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.14",
+   "ref": "HEB 7 14",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For it is euident, that our Lord sprung out of Iuda, concerning the which tribe Moses spake nothing, touching the Priesthood.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "πρόδηλον prodēlon",
+     "source": "https://biblehub.com/text/hebrews/7-14.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.15",
+   "ref": "HEB 7 15",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And it is yet a more euident thing, because that after the similitude of Melchi-sedec, there is risen vp another Priest,",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Καὶ Kai",
+     "source": "https://biblehub.com/text/hebrews/7-15.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.16",
+   "ref": "HEB 7 16",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Which is not made Priest after the Law of the carnal commandement, but after the power of the endlesse life.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ὃς hos",
+     "source": "https://biblehub.com/text/hebrews/7-16.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.18",
+   "ref": "HEB 7 18",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the commandement that went afore, is disanulled, because of the weakenes thereof, and vnprofitablenes.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Ἀθέτησις athetēsis",
+     "source": "https://biblehub.com/text/hebrews/7-18.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.19",
+   "ref": "HEB 7 19",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Law made nothing perfite, but the bringing in of a better hope made perfite, whereby we drawe neere vnto God.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "οὐδὲν ouden",
+     "source": "https://biblehub.com/text/hebrews/7-19.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.20",
+   "ref": "HEB 7 20",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And for as much as it is not without an othe (for these are made Priestes without an othe:",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Καὶ Kai",
+     "source": "https://biblehub.com/text/hebrews/7-20.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.22",
+   "ref": "HEB 7 22",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "By so much is Iesus made a suretie of a better Testament.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Κατὰ kata",
+     "source": "https://biblehub.com/text/hebrews/7-22.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.23",
+   "ref": "HEB 7 23",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And among them many were made Priests, because they were not suffered to endure, by the reason of death.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Καὶ Kai",
+     "source": "https://biblehub.com/text/hebrews/7-23.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.24",
+   "ref": "HEB 7 24",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But this man, because hee endureth euer, hath a Priesthood, which cannot passe from one to another.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ὁ ho",
+     "source": "https://biblehub.com/text/hebrews/7-24.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.25",
+   "ref": "HEB 7 25",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore, hee is able also perfectly to saue them that come vnto God by him, seeing he euer liueth, to make intercession for them.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ὅθεν hothen",
+     "source": "https://biblehub.com/text/hebrews/7-25.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.26",
+   "ref": "HEB 7 26",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For such an hie Priest it became vs to haue, which is holy, harmelesse, vndefiled, separate from sinners, and made hier then the heauens:",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Τοιοῦτος Toioutos",
+     "source": "https://biblehub.com/text/hebrews/7-26.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.27",
+   "ref": "HEB 7 27",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Which needeth not daily as those hie Priests to offer vp sacrifice, first for his owne sinnes, and then for the peoples: for that did he once, when he offered vp himselfe.",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ὃς hos",
+     "source": "https://biblehub.com/text/hebrews/7-27.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "HEB.7.28",
+   "ref": "HEB 7 28",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 7 seat verse (eBible=TRB per-verse verified fresh; chapter-final eBible footer glue stripped)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Law maketh men hie Priestes, which haue infirmitie: but the word of the othe that was since the Lawe, maketh the Sonne, who is consecrated for euermore. Hebrews < 7 >",
+     "source": "https://ebible.org/enggnv/HEB07.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/7",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ὁ ho",
+     "source": "https://biblehub.com/text/hebrews/7-28.htm",
+     "result": "WH Greek fetched (BibleHub)"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.34",
+   "ref": "ROM 8 34",
+   "uses": [
+    {
+     "section": "COS-30",
+     "section_label": "THE CHRIST OF SCRIPTURE — 34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "Who shall condemne? it is Christ which is dead, yea, or rather, which is risen again, who is also at the right hand of God, and maketh request also for us."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "second witness for the present intercession (with Heb 7:25)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Who shall condemne? it is Christ which is dead, yea, or rath",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.",
+     "source": "https://ebible.org/enggnv/ROM08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/45/8",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "τίς tis",
+     "source": "https://biblehub.com/text/romans/8-34.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.8.1",
+   "ref": "HEB 8 1",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 8 seat verse",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Nowe of the things which we haue spoken, this is the summe, that wee haue such an hie Priest, that sitteth at the right hand of the throne of the Maiestie in heauens,",
+     "source": "https://ebible.org/enggnv/HEB08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/8",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Κεφάλαιον Kephalaion",
+     "source": "https://biblehub.com/text/hebrews/8-1.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.8.2",
+   "ref": "HEB 8 2",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 8 seat verse",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And is a minister of the Sanctuarie, and of that true Tabernacle which the Lord pight, and not man.",
+     "source": "https://ebible.org/enggnv/HEB08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/8",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "τῶν tōn",
+     "source": "https://biblehub.com/text/hebrews/8-2.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.8.6",
+   "ref": "HEB 8 6",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "Geneva anchor",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "8:6 = mediator/guarantor anchor",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But nowe our hie Priest hath obteined a more excellent office, in as much as he is the Mediatour of a better Testament, which is established vpon better promises.",
+     "source": "https://ebible.org/enggnv/HEB08.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/8",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    }
+   }
+  },
+  {
+   "id": "JER.38.31",
+   "ref": "JER 38 31",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Behold, days are coming, quoth *(says)* the Lord, and I will make a new covenant with the house of Israel and the house of Iouda *(Judah)*. It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord, because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me. And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX/NETS Jer 38:31 = MT 31:31 (NETS print running head ieremias 38(31)-39(32); Brenton prints MT 31:31-33 as 38:31-33); NETS from 34-ieremias-nets.pdf print; GNV side = 1599 MT print (eBible=TRB 1.00); draft Greek dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Behold, days are coming, quoth the Lord, and I will make a n",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Beholde, the dayes come, saith the Lord, that I will make a new couenant with the house of Israel, and with the house of Iudah,",
+     "source": "https://ebible.org/enggnv/JER31.htm"
+    },
+    "nets": {
+     "text": "Behold, days are coming, quoth the Lord, and I will make a new covenant with the house of Israel and the house of Iouda.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/34-ieremias-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/24/31",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "οδομεῖν καὶ καταφυτεύειν, φησὶν κύριος. 29 ἐν ταῖς ἡμέραις ἐκείναις οὐ μὴ εἴπωσιν Οἱ πατέρες ἔφαγον ὄμφακα, καὶ οἱ ὀδόντες τῶν τέκνων ᾑμωδίασαν· 30 ἀλλ’ ἢ ἕκαστος ἐν τῇ ἑαυτοῦ ἁμαρτίᾳ ἀποθανεῖται, καὶ τοῦ φαγόντος τὸν ὄμφακα αἱμωδιάσουσιν οἱ ὀδόντες αὐτοῦ. 31 Ἰδοὺ ἡμέραι ἔρχονται, φησὶν κύριος, καὶ διαθήσομαι τῷ οἴκῳ Ισραηλ καὶ τῷ οἴκῳ Ιουδα διαθήκην καινήν, 32 οὐ κατὰ τὴν διαθήκην, ἣν διεθέμην τοῖς πατράσιν αὐτῶν ἐν",
+     "source": "https://el.wikisource.org/wiki/Ιερεμίας_(Rahlfs)",
+     "result": "Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)"
+    }
+   }
+  },
+  {
+   "id": "JER.38.32",
+   "ref": "JER 38 32",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Behold, days are coming, quoth *(says)* the Lord, and I will make a new covenant with the house of Israel and the house of Iouda *(Judah)*. It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord, because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me. And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX/NETS Jer 38:32 = MT 31:32 (NETS print running head ieremias 38(31)-39(32); Brenton prints MT 31:31-33 as 38:31-33); NETS from 34-ieremias-nets.pdf print; GNV side = 1599 MT print (eBible=TRB 1.00); draft Greek dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "It will not be like the covenant that I made with their fath",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Not according to ye couenant that I made with their fathers, when I tooke them by the hand to bring them out of the land of Egypt, the which my couenant they brake, although I was an husband vnto them, saith the Lord.",
+     "source": "https://ebible.org/enggnv/JER31.htm"
+    },
+    "nets": {
+     "text": "It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord,",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/34-ieremias-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/24/31",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "οδομεῖν καὶ καταφυτεύειν, φησὶν κύριος. 29 ἐν ταῖς ἡμέραις ἐκείναις οὐ μὴ εἴπωσιν Οἱ πατέρες ἔφαγον ὄμφακα, καὶ οἱ ὀδόντες τῶν τέκνων ᾑμωδίασαν· 30 ἀλλ’ ἢ ἕκαστος ἐν τῇ ἑαυτοῦ ἁμαρτίᾳ ἀποθανεῖται, καὶ τοῦ φαγόντος τὸν ὄμφακα αἱμωδιάσουσιν οἱ ὀδόντες αὐτοῦ. 31 Ἰδοὺ ἡμέραι ἔρχονται, φησὶν κύριος, καὶ διαθήσομαι τῷ οἴκῳ Ισραηλ καὶ τῷ οἴκῳ Ιουδα διαθήκην καινήν, 32 οὐ κατὰ τὴν διαθήκην, ἣν διεθέμην τοῖς πατράσιν αὐτῶν ἐν",
+     "source": "https://el.wikisource.org/wiki/Ιερεμίας_(Rahlfs)",
+     "result": "Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)"
+    }
+   }
+  },
+  {
+   "id": "JER.38.33",
+   "ref": "JER 38 33",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Behold, days are coming, quoth *(says)* the Lord, and I will make a new covenant with the house of Israel and the house of Iouda *(Judah)*. It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord, because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me. And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX/NETS Jer 38:33 = MT 31:33 (NETS print running head ieremias 38(31)-39(32); Brenton prints MT 31:31-33 as 38:31-33); NETS from 34-ieremias-nets.pdf print; GNV side = 1599 MT print (eBible=TRB 1.00); draft Greek dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "because this is the covenant that I will make with the house",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But this shall be the couenant that I will make with the house of Israel, After those dayes, saith the Lord, I will put my Lawe in their inward partes, and write it in their hearts, and wil be their God, and they shalbe my people.",
+     "source": "https://ebible.org/enggnv/JER31.htm"
+    },
+    "nets": {
+     "text": "because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/34-ieremias-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/24/31",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "οδομεῖν καὶ καταφυτεύειν, φησὶν κύριος. 29 ἐν ταῖς ἡμέραις ἐκείναις οὐ μὴ εἴπωσιν Οἱ πατέρες ἔφαγον ὄμφακα, καὶ οἱ ὀδόντες τῶν τέκνων ᾑμωδίασαν· 30 ἀλλ’ ἢ ἕκαστος ἐν τῇ ἑαυτοῦ ἁμαρτίᾳ ἀποθανεῖται, καὶ τοῦ φαγόντος τὸν ὄμφακα αἱμωδιάσουσιν οἱ ὀδόντες αὐτοῦ. 31 Ἰδοὺ ἡμέραι ἔρχονται, φησὶν κύριος, καὶ διαθήσομαι τῷ οἴκῳ Ισραηλ καὶ τῷ οἴκῳ Ιουδα διαθήκην καινήν, 32 οὐ κατὰ τὴν διαθήκην, ἣν διεθέμην τοῖς πατράσιν αὐτῶν ἐν",
+     "source": "https://el.wikisource.org/wiki/Ιερεμίας_(Rahlfs)",
+     "result": "Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)"
+    }
+   }
+  },
+  {
+   "id": "JER.38.34",
+   "ref": "JER 38 34",
+   "uses": [
+    {
+     "section": "COS-31",
+     "section_label": "THE CHRIST OF SCRIPTURE — 35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Behold, days are coming, quoth *(says)* the Lord, and I will make a new covenant with the house of Israel and the house of Iouda *(Judah)*. It will not be like the covenant that I made with their fathers in the day when I took them by their hand to bring them out of the land of Egypt, because they did not abide in my covenant, and I was unconcerned for them, quoth the Lord, because this is the covenant that I will make with the house of Israel after those days, quoth the Lord. Giving I will give my laws in their mind, and I will write them on their hearts, and I will become a god to them, and they shall become a people to me. And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more."
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX/NETS Jer 38:34 = MT 31:34 (NETS print running head ieremias 38(31)-39(32); Brenton prints MT 31:31-33 as 38:31-33); NETS from 34-ieremias-nets.pdf print; GNV side = 1599 MT print (eBible=TRB 1.00); draft Greek dropped per seat shape",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "And they shall not teach, each his fellow citizen and each h",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And they shall teach no more euery man his neighbour and euery man his brother, saying, Know the Lord: for they shall all know me from the least of them vnto the greatest of them, saith the Lord: for I wil forgiue their iniquitie, and will remember their sinnes no more.",
+     "source": "https://ebible.org/enggnv/JER31.htm"
+    },
+    "nets": {
+     "text": "And they shall not teach, each his fellow citizen and each his brother, saying, “Know the Lord,” because they shall all know me, from their small even to their great, because I will be gracious regarding their injustices, and remember their sins no more.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/34-ieremias-nets.pdf"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/24/31",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_rahlfs": {
+     "text": "οδομεῖν καὶ καταφυτεύειν, φησὶν κύριος. 29 ἐν ταῖς ἡμέραις ἐκείναις οὐ μὴ εἴπωσιν Οἱ πατέρες ἔφαγον ὄμφακα, καὶ οἱ ὀδόντες τῶν τέκνων ᾑμωδίασαν· 30 ἀλλ’ ἢ ἕκαστος ἐν τῇ ἑαυτοῦ ἁμαρτίᾳ ἀποθανεῖται, καὶ τοῦ φαγόντος τὸν ὄμφακα αἱμωδιάσουσιν οἱ ὀδόντες αὐτοῦ. 31 Ἰδοὺ ἡμέραι ἔρχονται, φησὶν κύριος, καὶ διαθήσομαι τῷ οἴκῳ Ισραηλ καὶ τῷ οἴκῳ Ιουδα διαθήκην καινήν, 32 οὐ κατὰ τὴν διαθήκην, ἣν διεθέμην τοῖς πατράσιν αὐτῶν ἐν",
+     "source": "https://el.wikisource.org/wiki/Ιερεμίας_(Rahlfs)",
+     "result": "Rahlfs window confirms LXX 38:31-32 (Behold days... new covenant)"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.11",
+   "ref": "HEB 9 11",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But Christ being come an high Priest of good things to come, by a greater and a more perfect Tabernacle, not made with handes, that is, not of this building,",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Χριστὸς Christos",
+     "source": "https://biblehub.com/text/hebrews/9-11.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.12",
+   "ref": "HEB 9 12",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Neither by the blood of goates and calues: but by his owne blood entred he in once vnto the holy place, and obteined eternall redemption for vs.",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "οὐδὲ oude",
+     "source": "https://biblehub.com/text/hebrews/9-12.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.13",
+   "ref": "HEB 9 13",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For if the blood of bulles and of goates, and the ashes of an heifer, sprinkling them that are vncleane, sanctifieth as touching the purifying of the flesh,",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Εἰ ei",
+     "source": "https://biblehub.com/text/hebrews/9-13.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.14",
+   "ref": "HEB 9 14",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "How much more shall the blood of Christ which through the eternall Spirit offered himselfe without fault to God, purge your conscience from dead workes, to serue the liuing God?",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "πόσῳ posō",
+     "source": "https://biblehub.com/text/hebrews/9-14.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.15",
+   "ref": "HEB 9 15",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And for this cause is he the Mediatour of the newe Testament, that through death which was for the redemption of the transgressions that were in the former Testament, they which were called, might receiue the promise of eternall inheritance.",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Καὶ Kai",
+     "source": "https://biblehub.com/text/hebrews/9-15.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.24",
+   "ref": "HEB 9 24",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For Christ is not entred into ye holy places that are made with hands, which are similitudes of ye true Sanctuarie: but is entred into very heauen, to appeare now in ye sight of God for vs,",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "οὐ ou",
+     "source": "https://biblehub.com/text/hebrews/9-24.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.25",
+   "ref": "HEB 9 25",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Not that he should offer himselfe often, as the hie Priest entred into the Holy place euery yeere with other blood,",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "οὐδ’ oud’",
+     "source": "https://biblehub.com/text/hebrews/9-25.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.26",
+   "ref": "HEB 9 26",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "(For then must he haue often suffred since the foundation of the world) but now in the end of the world hath he bene made manifest, once to put away sinne by the sacrifice of him selfe.",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Ἐπεὶ epei",
+     "source": "https://biblehub.com/text/hebrews/9-26.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.9.27",
+   "ref": "HEB 9 27",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 9 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And as it is appointed vnto men that they shall once die, and after that commeth the iudgement:",
+     "source": "https://ebible.org/enggnv/HEB09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/9",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Καὶ kai",
+     "source": "https://biblehub.com/text/hebrews/9-27.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "1TI.2.5",
+   "ref": "1TI 2 5",
+   "uses": [
+    {
+     "section": "COS-32",
+     "section_label": "THE CHRIST OF SCRIPTURE — 36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)",
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For there is one God, and one Mediator between God and man, which is the man Christ Jesus,"
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "one Mediator (TRB book-number 54 verified by content match; eBible=TRB 1.00)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For there is one God, and one Mediator between God and man, ",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,",
+     "source": "https://ebible.org/enggnv/1TI02.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/54/2",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Εἷς heis",
+     "source": "https://biblehub.com/text/1_timothy/2-5.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.1",
+   "ref": "HEB 10 1",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For the Law hauing the shadowe of good things to come, and not the very image of the things, can neuer with those sacrifices, which they offer yeere by yeere continually, sanctifie the commers thereunto.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Σκιὰν Skian",
+     "source": "https://biblehub.com/text/hebrews/10-1.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.2",
+   "ref": "HEB 10 2",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For would they not then haue ceased to haue bene offered, because that the offerers once purged, should haue had no more conscience of sinnes?",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ἐπεὶ epei",
+     "source": "https://biblehub.com/text/hebrews/10-2.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.3",
+   "ref": "HEB 10 3",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But in those sacrifices there is a remembrance againe of sinnes euery yeere.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Ἀλλ’ all’",
+     "source": "https://biblehub.com/text/hebrews/10-3.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.4",
+   "ref": "HEB 10 4",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For it is vnpossible that the blood of bulles and goates should take away sinnes.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ἀδύνατον adynaton",
+     "source": "https://biblehub.com/text/hebrews/10-4.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.5",
+   "ref": "HEB 10 5",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Διὸ Dio",
+     "source": "https://biblehub.com/text/hebrews/10-5.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.6",
+   "ref": "HEB 10 6",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "In burnt offerings, and sinne offrings thou hast had no pleasure.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Ὁλοκαυτώματα holokautōmata",
+     "source": "https://biblehub.com/text/hebrews/10-6.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.7",
+   "ref": "HEB 10 7",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then I sayd, Lo, I come (In the beginning of the booke it is written of me) that I should doe thy will, O God.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Τότε tote",
+     "source": "https://biblehub.com/text/hebrews/10-7.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.10",
+   "ref": "HEB 10 10",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "By the which wil we are sanctified, euen by the offring of the body of Iesus Christ once made.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ἐν en",
+     "source": "https://biblehub.com/text/hebrews/10-10.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.11",
+   "ref": "HEB 10 11",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And euery Priest standeth dayly ministring, and oft times offreth one maner of offring, which can neuer take away sinnes:",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Καὶ Kai",
+     "source": "https://biblehub.com/text/hebrews/10-11.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.12",
+   "ref": "HEB 10 12",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    },
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "table use on this run's row",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "use added (row created COS-33)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "use-upsert (pre-bank row; old text kept)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "But this man after he had offered one sacrifice for sinnes, sitteth for euer at the right hand of God,",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "οὗτος houtos",
+     "source": "https://biblehub.com/text/hebrews/10-12.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.13",
+   "ref": "HEB 10 13",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And from hencefoorth tarieth, till his enemies be made his footestoole.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "τὸ to",
+     "source": "https://biblehub.com/text/hebrews/10-13.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.14",
+   "ref": "HEB 10 14",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "For with one offering hath he consecrated for euer them that are sanctified.",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "μιᾷ mia",
+     "source": "https://biblehub.com/text/hebrews/10-14.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.19",
+   "ref": "HEB 10 19",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Seeing therefore, brethren, that by the blood of Iesus we may be bolde to enter into the Holy place,",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "Ἔχοντες Echontes",
+     "source": "https://biblehub.com/text/hebrews/10-19.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.20",
+   "ref": "HEB 10 20",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "By the newe and liuing way, which hee hath prepared for vs, through the vaile, that is, his flesh:",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "ἣν hēn",
+     "source": "https://biblehub.com/text/hebrews/10-20.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.21",
+   "ref": "HEB 10 21",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And seeing we haue an hie Priest, which is ouer the house of God,",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "καὶ kai",
+     "source": "https://biblehub.com/text/hebrews/10-21.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "HEB.10.22",
+   "ref": "HEB 10 22",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "Geneva seat",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Hebrews 10 seat verse (eBible=TRB fresh)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Let vs drawe neere with a true heart in assurance of faith, our hearts being pure from an euill conscience,",
+     "source": "https://ebible.org/enggnv/HEB10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/10",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    },
+    "greek_biblehub": {
+     "text": "προσερχώμεθα proserchōmetha",
+     "source": "https://biblehub.com/text/hebrews/10-22.htm",
+     "result": "WH Greek fetched"
+    }
+   }
+  },
+  {
+   "id": "PSA.39.7",
+   "ref": "PSA 39 7",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request. Then I said, “Look, I have come; in a scroll of a book it is written of me. To do your will, O my God, I desired—and your law, within my belly.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX Ps 39:7 = MT Ps 40:6 (print marks 7(6)/8(7)/9(8)); NETS (Rahlfs base) prints \"ears you fashioned for me\" at 39:7(6); the sigma-oma reading (\"a body\") = the Hebrews citation family (Heb 10:6) + Brenton tradition; GNV side = 1599 MT text (eBible=TRB 1.00)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Sacrifice and offering you did not want, but ears you fashio",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "",
+     "source": ""
+    },
+    "nets": {
+     "text": "Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {},
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "draft observation contrasts LXX \"body\" vs Hebrew \"ears\"; the named NETS prints \"ears\" at Ps 39:7(6) per Rahlfs — awaiting word on any in-line note",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "PSA.39.8",
+   "ref": "PSA 39 8",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request. Then I said, “Look, I have come; in a scroll of a book it is written of me. To do your will, O my God, I desired—and your law, within my belly.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX Ps 39:8 = MT Ps 40:7 (print marks 7(6)/8(7)/9(8)); NETS (Rahlfs base) prints \"ears you fashioned for me\" at 39:7(6); the sigma-oma reading (\"a body\") = the Hebrews citation family (Heb 10:6) + Brenton tradition; GNV side = 1599 MT text (eBible=TRB 1.00)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "Then I said, “Look, I have come; in a scroll of a book it is",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "",
+     "source": ""
+    },
+    "nets": {
+     "text": "Then I said, “Look, I have come; in a scroll of a book it is written of me.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {},
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "draft observation contrasts LXX \"body\" vs Hebrew \"ears\"; the named NETS prints \"ears\" at Ps 39:7(6) per Rahlfs — awaiting word on any in-line note",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "PSA.39.9",
+   "ref": "PSA 39 9",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "NETS seat; Geneva MT-recourse",
+     "quotes": [
+      "Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request. Then I said, “Look, I have come; in a scroll of a book it is written of me. To do your will, O my God, I desired—and your law, within my belly.”"
+     ],
+     "status": "confirmed",
+     "matched_source": "nets",
+     "ref_note": "",
+     "note": "both maps: LXX Ps 39:9 = MT Ps 40:8 (print marks 7(6)/8(7)/9(8)); NETS (Rahlfs base) prints \"ears you fashioned for me\" at 39:7(6); the sigma-oma reading (\"a body\") = the Hebrews citation family (Heb 10:6) + Brenton tradition; GNV side = 1599 MT text (eBible=TRB 1.00)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "nets",
+      "text": "To do your will, O my God, I desired— and your law, within m",
+      "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "",
+     "source": ""
+    },
+    "nets": {
+     "text": "To do your will, O my God, I desired— and your law, within my belly.”",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/24-ps-nets.pdf"
+    }
+   },
+   "second_check": {},
+   "flag": {
+    "kind": "needs-authorization",
+    "detail": "draft observation contrasts LXX \"body\" vs Hebrew \"ears\"; the named NETS prints \"ears\" at Ps 39:7(6) per Rahlfs — awaiting word on any in-line note",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "MAT.27.51",
+   "ref": "MAT 27 51",
+   "uses": [
+    {
+     "section": "COS-33",
+     "section_label": "THE CHRIST OF SCRIPTURE — 37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)",
+     "cited_as": "prose mention (veil torn)",
+     "quotes": [
+      "And behold, the vayle of the Temple was rent in twaine, from the top to the bottome, and the earth did quake, and the stones were cloue."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "anchor row; eBible=TRB 1.00",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And behold, the vayle of the Temple was rent in twaine, from",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And behold, the vayle of the Temple was rent in twaine, from the top to the bottome, and the earth did quake, and the stones were cloue.",
+     "source": "https://ebible.org/enggnv/MAT27.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/40/27",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    }
+   }
+  },
+  {
+   "id": "MRK.16.19",
+   "ref": "MRK 16 19",
+   "uses": [
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "Geneva anchor",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "ascension anchor (synthesis table)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "So after ye Lord had spoken vnto them, he was receiued into heauen, and sate at the right hand of God.",
+     "source": "https://ebible.org/enggnv/MRK16.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/41/16",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    }
+   }
+  },
+  {
+   "id": "COL.3.1",
+   "ref": "COL 3 1",
+   "uses": [
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "Geneva anchor",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "seated at the right hand (table)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "If yee then bee risen with Christ, seeke those thinges which are aboue, where Christ sitteth at the right hand of God.",
+     "source": "https://ebible.org/enggnv/COL03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/51/3",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    }
+   }
+  },
+  {
+   "id": "REV.5.6",
+   "ref": "REV 5 6",
+   "uses": [
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "Geneva anchor",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Lamb as slain (observation 2); eBible prints \"Labe\" (OCR) vs TRB \"Lambe\" — banked from TRB print",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "Then I behelde, and loe, in the middes of the throne, and of the foure beasts, and in the mids of the Elders, stoode a Lambe as though he had bene killed, which had seuen hornes, and seuen eyes, which are the seuen spirites of God, sent into all the world.",
+     "source": "https://ebible.org/enggnv/REV05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/66/5",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    }
+   }
+  },
+  {
+   "id": "HEB.12.24",
+   "ref": "HEB 12 24",
+   "uses": [
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "Geneva anchor",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "Mediator of the new Testament",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "And to Iesus the Mediatour of the new Testament, and to the blood of sprinkling that speaketh better things then that of Abel.",
+     "source": "https://ebible.org/enggnv/HEB12.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "",
+     "source": "https://textusreceptusbibles.com/Geneva/58/12",
+     "result": "eBible=TRB uv-norm ratio 0.0 (per-verse)"
+    }
+   }
+  },
+  {
+   "id": "MAR.13.32",
+   "ref": "MAR 13 32",
+   "uses": [
+    {
+     "section": "COS-34",
+     "section_label": "THE CHRIST OF SCRIPTURE — 38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return",
+     "cited_as": "synthesis table",
+     "quotes": [],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "ref_note": "",
+     "note": "neither the Son but the Father",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "",
+      "reason": "Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal"
+     }
+    }
+   ],
+   "verified": "2026-11-11",
+   "translations": {
+    "gnv": {
+     "text": "",
+     "source": ""
+    }
+   },
+   "second_check": {}
   }
  ]
 }
