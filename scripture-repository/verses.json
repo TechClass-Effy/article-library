@@ -7796,6 +7796,16 @@
      "status": "confirmed",
      "note": "W59: fullness of the Godhead bodily",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15334,
+     "cited_as": "Col 2:9",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "prose mention — \"the fullness of Godhead dwells bodily (Col 2:9)\"",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -29137,9 +29147,33 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE D cross-witness bullet (My God and your God)"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15350,
+     "cited_as": "John 20:17",
+     "quotes": [
+      "*\"...go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.\"*"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "W61 context seat — the draft ellipsis covers \"Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but\"; the covered tail = the print at modern folds; zero splice"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15358,
+     "cited_as": "v. 17",
+     "quotes": [
+      "*\"My God and your God.\"*"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-quote",
+     "note": "the \"Observation of decisive importance\" quotes the fragment \"My God and your God.\" — matches the 1599 print at modern folds (comma dropped in the echo); row-noted, no flag"
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but goe to my brethren, and say vnto them, I ascend vnto my Father, and to your Father, and to my God, and your God.",
@@ -29154,6 +29188,11 @@
     "gnv": {
      "result": "agree",
      "url": "https://www.textusreceptusbibles.com/Geneva/43/20"
+    },
+    "trb_fresh": {
+     "text": "And when he had so saide, he shewed vnto them his handes, and his side. Then were the disciples glad when they had seene the Lord.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/20",
+     "result": "EXACT: eBible print == TRB fresh"
     }
    }
   },
@@ -29287,9 +29326,21 @@
      "status": "confirmed",
      "note": "synthesis (4): the marks (John 20:25-27)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15298,
+     "cited_as": "(v. 25)",
+     "quotes": [
+      "Except I see in his hands the print of the nails... I will not believe."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-quote",
+     "note": "Context echo — the head \"Except I see\" IS the 1599 form (KJV reads \"Except I shall see\"); the tail \"I will not believe.\" vs the 1599 \"I will not beleeue it.\" — the dropped \"it\""
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.",
@@ -29301,9 +29352,19 @@
      "result": "agree (eBible=TRB ratio 1.00)",
      "url": "https://www.textusreceptusbibles.com/Geneva/43/20",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "text": "And when he had so saide, he shewed vnto them his handes, and his side. Then were the disciples glad when they had seene the Lord.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/20",
+     "result": "EXACT: eBible print == TRB fresh"
     }
    },
-   "note": ""
+   "note": "",
+   "flag": {
+    "kind": "proposed-correction",
+    "awaiting": "Gideon",
+    "detail": "Context prose (canon 15298) quotes \"Except I see in his hands the print of the nails... I will not believe.\" (v. 25); the 1599 print ends \"I will not beleeue it.\" — the draft drops the \"it\" (KJV-voiced; the KJV tail is \"I will not believe.\"). The head \"Except I see\" IS the 1599 form. Italic KJV attribution at the tail or re-voice awaits Gideon (wave 61)."
+   }
   },
   {
    "id": "JHN.20.26",
@@ -29373,9 +29434,21 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15300,
+     "cited_as": "(v. 27)",
+     "quotes": [
+      "be not faithless, but believing."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-quote",
+     "note": "Context echo — the 1599 print reads \"and be not faithlesse, but faithfull.\"; the draft \"believing\" is the KJV wording"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "After saide he to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side, and be not faithlesse, but faithfull.",
@@ -29387,9 +29460,19 @@
      "result": "agree (eBible=TRB ratio 1.00)",
      "url": "https://www.textusreceptusbibles.com/Geneva/43/20",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "text": "And when he had so saide, he shewed vnto them his handes, and his side. Then were the disciples glad when they had seene the Lord.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/20",
+     "result": "EXACT: eBible print == TRB fresh"
     }
    },
-   "note": ""
+   "note": "",
+   "flag": {
+    "kind": "proposed-correction",
+    "awaiting": "Gideon",
+    "detail": "Context prose (canon 15300) quotes \"be not faithless, but believing.\" (v. 27); the 1599 print reads \"faithlesse, but faithfull.\" — \"believing\" = the KJV wording (the Geneva translates πιστὸς \"faithful\"). Italic KJV attribution or re-voice awaits Gideon (wave 61)."
+   }
   },
   {
    "id": "JHN.3.13",
@@ -40282,6 +40365,26 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "Peter’s citation at Acts 2:34-35; the section names the connection in prose."
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15320,
+     "cited_as": "Ps 110:1",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "prose mention — the risen enthroned Lord (Ps 110:1) language",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15333,
+     "cited_as": "Ps 110:1",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "prose mention — the risen enthroned Lord (Ps 110:1) language",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -60750,6 +60853,18 @@
      "status": "confirmed",
      "note": "W59 option (B) mention",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15292,
+     "cited_as": "John 20:28",
+     "quotes": [
+      "*\"Then Thomas answered, and said unto him, Thou art my Lord, and my God.\"*"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "W61 opener seat — the draft quote IS the 1599 print at modern folds (vnto->unto); zero splice"
     }
    ],
    "verified": "2026-11-12",
@@ -60765,6 +60880,11 @@
      "text": "Then Thomas answered, and said vnto him, Thou art my Lord, and my God.",
      "source": "https://www.textusreceptusbibles.com/Geneva/43/20",
      "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ Ὁ Κύριός μου καὶ ὁ Θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ Ὁ κύριός μου καὶ ὁ θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ Ὁ κύριός μου καὶ ὁ θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ Καὶ ἀπεκρίθη Θωμᾶς, καὶ εἴπεν αὐτῷ, Ὁ κύριός μου καὶ ὁ θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ· Ὁ Κύριός μου καὶ ὁ Θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ· ὁ κύριός μου καὶ ὁ θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ ἀπεκρίθη ὁ Θωμᾶς, καὶ εἶπεν αὐτῷ, Ὁ Κύριός μου καὶ ὁ Θεός μου. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ ἀπεκρίθη Ὁ Θωμᾶς καὶ εἶπεν αὐτῷ ὁ κύριός μου καὶ ὁ θεός μου ) ἀπεκρίθη Θωμᾶς καὶ εἶπεν αὐτῷ· ὁ κύριος μου καὶ ὁ θεός μου.",
+     "source": "https://biblehub.com/text/john/20-28.htm",
+     "result": "1.000 set-containment; the draft middot after αὐτῷ — BibleHub WH text carries none — punctuation class only"
     }
    },
    "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
@@ -62437,6 +62557,45 @@
    },
    "note": "PSA anchor NEW W60 — NETS from the print master (the Psalms poetry pages parse 0 in the walker, wave-2b class); GNV = Psalm 82 (MT numbering)",
    "diff_notes": "the draft prose says \"gods\" with no quote text banked; the both-maps note records the label mapping (wave-59 PSA.44.7 class: label correct, no flag)"
+  },
+  {
+   "id": "JHN.20.29",
+   "ref": "John 20:29",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus said vnto him, Thomas, because thou hast seene me, thou beleeuest: blessed are they that haue not seene, and haue beleeued.",
+     "source": "https://ebible.org/enggnv/JHN20.htm == textusreceptusbibles.com/Geneva/43/20 (EB==TRB asserted)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-94",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE B — JOHN 20:28",
+     "article_line": 15387,
+     "cited_as": "John 20:29",
+     "quotes": [
+      "*\"...Thomas, because thou hast seen me, thou believest: blessed are they that have not seen, and have believed.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced \"thou hast believed\" under its 1599-Geneva label; the 1599 print (EB==TRB) reads \"thou beleeuest\" — seated \"thou believest\" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers \"Iesus said vnto him,\"",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus said vnto him, Thomas, because thou hast seene me, thou beleeuest: blessed are they that haue not seene, and haue beleeued.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/20",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "λέγει αὐτῷ ὁ Ἰησοῦς Ὅτι ἑώρακάς με, πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ λέγει αὐτῷ ὁ Ἰησοῦς Ὅτι ἑώρακάς με πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ ] λέγει αὐτῷ ὁ Ἰησοῦς Ὅτι ἑώρακάς με πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ Λέγει αὐτῷ ὁ Ἰησοῦς, Ὅτι ἑώρακάς με, πεπίστευκας; Μακάριοι οἱ μὴ ἰδόντες, καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ λέγει αὐτῷ ὁ Ἰησοῦς· Ὅτι ἑώρακάς με, πεπίστευκας· μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ λέγει αὐτῷ ὁ Ἰησοῦς· ὅτι ἑώρακάς με, πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ λέγει αὐτῷ ὁ Ἰησοῦς, Ὅτι ἑώρακάς με, Θωμᾶ, πεπίστευκας· μακάριοι οἱ μὴ ἰδόντες, καὶ πιστεύσαντες. ΚΑΤΑ ΙΩΑΝΝΗΝ λέγει αὐτῷ ὁ Ἰησοῦς Ὅτι ἑώρακάς με Θωμᾷ πεπίστευκας μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες ) λέγει αὐτῷ ὁ Ἰησοῦς ὅτι ἑώρακας με πεπίστευκας; μακάριοι οἱ μὴ ἰδόντες καὶ πιστεύσαντες.",
+     "source": "https://biblehub.com/text/john/20-29.htm",
+     "result": "1.000 set-containment; WH carries a comma after ἑώρακάς με where the draft omits it — punctuation class only"
+    }
+   },
+   "note": "NEW W61 — the \"believing/faithless\" v27 echo context stays in the draft prose (flagged separately on JHN.20.27)"
   }
  ],
  "meta": {
@@ -62585,7 +62744,8 @@
    "COS-90",
    "THE FIVE DIFFICULT PASSAGES EXAMINED",
    "COS-92",
-   "COS-93"
+   "COS-93",
+   "COS-94"
   ],
   "sections": [
    {
@@ -63113,6 +63273,10 @@
    {
     "key": "COS-93",
     "label": "PASSAGE A — JOHN 10:30"
+   },
+   {
+    "key": "COS-94",
+    "label": "PASSAGE B — JOHN 20:28"
    }
   ],
   "double_check": {
@@ -63173,8 +63337,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 130989,
-  "cos_sofar": "waves 60",
-  "glossary": 1385
+  "so_far_words": 131691,
+  "cos_sofar": "waves 61",
+  "glossary": 1386
  }
 }

@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1214 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1215 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1385 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1386 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -821,8 +821,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but goe to my brethren, and say vnto them, I ascend vnto my Father, and to your Father, and to my God, and your God.”
 - **Ruling — apply Geneva 1599 exact:** “Jesus saith unto her, Touch me not: for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.”
   (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
-- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### Ephesians 1:17 — CONFIRMED
 *cited as: Greek NT + “1599 Geneva” label in draft*
@@ -2071,8 +2071,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but goe to my brethren, and say vnto them, I ascend vnto my Father, and to your Father, and to my God, and your God.”
 - **Ruling — apply Geneva 1599 exact:** “Jesus saith unto her, Touch me not: for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.”
   (Audit re-lists seated witnesses; seat unchanged (Confession full verse).)
-- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### Ephesians 1:17 — CONFIRMED
 *cited as: audit witness bullet — KJV-voiced quote in draft (book seat: Geneva 1599 Confession full verse)*
@@ -2845,8 +2845,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 20:25 — CONFIRMED (EXCERPT)
 *cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
 - **Geneva 1599:** “The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### John 20:26 — CONFIRMED (EXCERPT)
 *cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
@@ -2857,8 +2857,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 20:27 — CONFIRMED (EXCERPT)
 *cited as: cross-witness seat, excerpt (Geneva 1599, modern spelling; ellipsis covers the middle; eBible=TRB)*
 - **Geneva 1599:** “After saide he to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side, and be not faithlesse, but faithfull.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### Psalm 22:18 — CONFIRMED
 *cited as: Psalm 21 LXX (22 MT) seat — NETS verbatim (numbering maps on note)*
@@ -5102,8 +5102,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 20:25 — PROSE-REF
 *cited as: mention (wounds cross-ref in the 13:6 observation)*
 - **Geneva 1599:** “The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### John 20:26 — PROSE-REF
 *cited as: mention*
@@ -5114,8 +5114,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 20:27 — PROSE-REF
 *cited as: mention*
 - **Geneva 1599:** “After saide he to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side, and be not faithlesse, but faithfull.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### Zechariah 13:7 — CONFIRMED
 *cited as: seat, NETS verbatim*
@@ -5832,8 +5832,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.”
 - *Note:* synthesis (4): the marks (John 20:25-27)
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
 
 ### Zechariah 13:6 — CONFIRMED
 *cited as: mention*
@@ -13303,7 +13303,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then Thomas answered, and said vnto him, Thou art my Lord, and my God.”
 - *Note:* COS-89 prose reference
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.000 set-containment; the draft middot after αὐτῷ — BibleHub WH text carries none — punctuation class only*
 
 ### Colossians 2:9 — PROSE-REF
 *cited as: Geneva 1599*
@@ -14049,7 +14049,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then Thomas answered, and said vnto him, Thou art my Lord, and my God.”
 - *Note:* W59 option (B) mention
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.000 set-containment; the draft middot after αὐτῷ — BibleHub WH text carries none — punctuation class only*
 
 ### 1 John 5:20 — CONFIRMED
 *cited as: 1 John 5:20*
@@ -14178,6 +14178,57 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* the prose names the verse (label "Psalm 82:6 LXX" = MT/Geneva numbering); NETS/LXX 81:6 = MT 82:6 both-maps; the print v6 runs across the print-page break (pp588-589); the NETS quotation mark opens at "Gods" and closes inside v7
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_swete ✓*
+
+## PASSAGE B — JOHN 20:28
+
+### John 20:28 — CONFIRMED
+*cited as: John 20:28*
+- **Geneva 1599:** “Then Thomas answered, and said vnto him, Thou art my Lord, and my God.”
+- *Note:* W61 opener seat — the draft quote IS the 1599 print at modern folds (vnto->unto); zero splice
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.000 set-containment; the draft middot after αὐτῷ — BibleHub WH text carries none — punctuation class only*
+
+### John 20:25 — PROSE-REF
+*cited as: (v. 25)*
+- **Geneva 1599:** “The other disciples therefore saide vnto him, We haue seene the Lord: but he said vnto them, Except I see in his handes the print of the nailes, and put my finger into the print of the nailes, and put mine hand into his side, I will not beleeue it.”
+- *Note:* Context echo — the head "Except I see" IS the 1599 form (KJV reads "Except I shall see"); the tail "I will not believe." vs the 1599 "I will not beleeue it." — the dropped "it"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
+
+### John 20:27 — PROSE-REF
+*cited as: (v. 27)*
+- **Geneva 1599:** “After saide he to Thomas, Put thy finger here, and see mine hands, and put forth thine hand, and put it into my side, and be not faithlesse, but faithfull.”
+- *Note:* Context echo — the 1599 print reads "and be not faithlesse, but faithfull."; the draft "believing" is the KJV wording
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
+
+### PS 109 1 — PROSE-REF
+*cited as: Ps 110:1*
+- **NETS (Septuagint, modern):** “The Lord said to my lord, "Sit on my right *(at my right hand)* until I make your enemies a footstool for your feet."”
+- **Geneva 1599:** “A Psalme of David. The Lord said vnto my Lord, Sit thou at my right hand, vntill I make thine enemies thy footestoole.”
+- *Note:* prose mention — the risen enthroned Lord (Ps 110:1) language
+- *Checked 2026-11-12 · editions fetched: gnv, nets, second_check*
+
+### Colossians 2:9 — PROSE-REF
+*cited as: Col 2:9*
+- **Geneva 1599:** “For in him dwelleth all the fulnesse of the Godhead bodily.”
+- *Note:* prose mention — "the fullness of Godhead dwells bodily (Col 2:9)"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 20:17 — CONFIRMED
+*cited as: John 20:17*
+- **Geneva 1599:** “Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but goe to my brethren, and say vnto them, I ascend vnto my Father, and to your Father, and to my God, and your God.”
+- *Note:* W61 context seat — the draft ellipsis covers "Iesus saith vnto her, Touch me not: for I am not yet ascended to my Father: but"; the covered tail = the print at modern folds; zero splice
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EXACT: eBible print == TRB fresh*
+
+### John 20:29 — CONFIRMED
+*cited as: John 20:29*
+- **Geneva 1599:** “Iesus said vnto him, Thomas, because thou hast seene me, thou beleeuest: blessed are they that haue not seene, and haue beleeued.”
+- *Note:* W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced "thou hast believed" under its 1599-Geneva label; the 1599 print (EB==TRB) reads "thou beleeuest" — seated "thou believest" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers "Iesus said vnto him,"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment; WH carries a comma after ἑώρακάς με where the draft omits it — punctuation class only*
 
 # THE BIBLICAL SABBATH
 
@@ -16057,7 +16108,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -16149,7 +16200,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:14 | COS-21 | confirmed |
 | Colossians 1:18 | COS-21 | confirmed |
 | Colossians 1:19 | COS-21 | confirmed |
-| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref, seat |
+| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-94, COS-91 | anchor, confirmed, prose-ref, seat |
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
 | Colossians 3:2 | COS-62, COS-69, COS-70, COS-73 | anchor, confirmed, prose-ref |
@@ -16159,7 +16210,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -16482,7 +16533,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90, COS-91 | anchor, confirmed, prose-ref |
@@ -16576,12 +16627,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 19:36 | COS-23 | confirmed |
 | John 19:37 | COS-23, COS-36 | differs (minor), prose-ref |
 | John 20:11-18 | COS-27 | anchor |
-| John 20:17 | COS-01, COS-18, COS-91 | confirmed, prose-ref |
+| John 20:17 | COS-01, COS-18, COS-94, COS-91 | confirmed, prose-ref |
 | John 20:19-29 | COS-27, COS-34 | anchor, confirmed |
 | John 20:22 | P4 | anchor, confirmed |
-| John 20:25 | COS-22, COS-36, COS-41 | confirmed, confirmed (excerpt), prose-ref |
+| John 20:25 | COS-22, COS-36, COS-41, COS-94 | confirmed, confirmed (excerpt), prose-ref |
 | John 20:26 | COS-22, COS-36 | confirmed (excerpt), prose-ref |
-| John 20:27 | COS-22, COS-36 | confirmed (excerpt), prose-ref |
+| John 20:27 | COS-22, COS-36, COS-94 | confirmed (excerpt), prose-ref |
 | John 3:13 | COS-21, COS-90, COS-92 | confirmed, prose-ref |
 | John 3:16 | P1-Q8, COS-63, COS-83, COS-90 | confirmed, prose-ref |
 | John 3:29 | COS-24 | anchor |
@@ -16774,7 +16825,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -16831,7 +16882,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | PRO 8 28 | COS-05 | anchor |
 | PRO 8 29 | COS-05 | anchor |
 | PRO 8 30 | COS-05 | confirmed |
-| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39, COS-40, COS-41, COS-42, COS-52, COS-54, COS-58 | anchor, confirmed, prose-ref |
+| PS 109 1 | COS-04, COS-16, COS-28, COS-34, COS-35, COS-39, COS-40, COS-41, COS-42, COS-52, COS-54, COS-58, COS-94 | anchor, confirmed, prose-ref |
 | PS 109 3 | COS-04, COS-17 | confirmed, differs-significant |
 | PS 109 4 | COS-04, COS-29 | confirmed |
 | PS 109 5 | COS-04 | confirmed |
@@ -17333,7 +17384,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:8 | COS-89 | confirmed |
 | 1 Peter 5:6 | COS-89 | prose-ref |
 | Hebrews 1:4 | COS-89 | prose-ref |
-| John 20:28 | COS-89, COS-92, COS-91 | confirmed, prose-ref |
+| John 20:28 | COS-89, COS-92, COS-94, COS-91 | confirmed, prose-ref |
 | 1 John 5:20 | COS-89, COS-92, COS-91 | confirmed, prose-ref |
 | Titus 2:13 | COS-89, COS-91 | prose-ref, seat |
 | Hebrews 1:8 | COS-89, COS-90, COS-92, COS-91 | confirmed, prose-ref, seat |
@@ -17375,6 +17426,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 10:35 | COS-93 | confirmed |
 | John 10:36 | COS-93 | confirmed |
 | Psalm 81:6 LXX (MT 82:6) | COS-93 | prose-ref |
+| John 20:29 | COS-94 | confirmed |
 
 ## The editions used
 
