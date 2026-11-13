@@ -140,7 +140,8 @@
    "COS-85",
    "COS-86",
    "COS-87",
-   "COS-88"
+   "COS-88",
+   "COS-89"
   ],
   "sections": [
    {
@@ -648,6 +649,10 @@
    {
     "key": "COS-88",
     "label": "THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?"
+   },
+   {
+    "key": "COS-89",
+    "label": "PHILIPPIANS 2:5-11 — THE FULL CONTEXT"
    }
   ],
   "double_check": {
@@ -708,11 +713,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 114562,
+  "so_far_words": 118553,
   "cos_sofar": {
-   "waves": 55
+   "waves": 56
   },
-  "glossary": 1337
+  "glossary": 1349
  },
  "verses": [
   {
@@ -1839,6 +1844,28 @@
      "status": "anchor",
      "note": "Coherence point 4.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13387,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Son also Himself shall be subject to Him"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13402,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -2467,6 +2494,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "synthesis re-cite"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13548,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -5508,6 +5545,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13450,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -6365,6 +6412,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13549,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -6657,6 +6714,16 @@
      "status": "prose-ref",
      "note": "The Content of the Witness bullet - paraphrase echo of the pre-banked seat (print 'God hath made him Lord and Christ')",
      "quote_kind": "paraphrase"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13549,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -7619,6 +7686,26 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13335,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13580,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -7725,6 +7812,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13335,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -7788,6 +7885,16 @@
       "text": "Who is the image of the invisible God, the first begotten of every creature. For by him were all things created, which are in heaven, and which are in earth, things visible and invisible: whether they be Thrones or Dominions, or Principalities, or Powers, all things were created by him, and for him, And he is before all things, and in him all things consist.",
       "reason": "Standing rule: NT Geneva 1599 seat; Wave-3 seat reused verbatim (the retraction re-quotes the same passage)."
      }
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13335,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -8099,6 +8206,18 @@
      "status": "anchor",
      "note": "First banking.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13676,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "In Him dwelleth all the fulness of the Godhead bodily."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -11787,6 +11906,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13556,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -16762,6 +16891,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "COS-44 prose mention."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13333,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -16812,6 +16951,26 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "table step-4 ref."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13333,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13580,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -18033,6 +18192,16 @@
      "status": "prose-ref",
      "note": "Sustaining Truth 4 - \"He sympathizes with our weaknesses\" = paraphrase echo (GNV: touched with the feeling of our infirmities); gnv text BACKFILLED this wave",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13446,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -21058,6 +21227,18 @@
      "status": "confirmed",
      "note": "consummation bullet seated to NETS fragment",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13560,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "unto Me every knee shall bow"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-07",
@@ -21101,6 +21282,10 @@
      "result": "agree",
      "url": "https://theancientbible.org/"
     }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-89 obs (3) quotes 'unto Me every knee shall bow' under the Isaiah 45:23 LXX label; the quote is GNV-voiced (1599: 'unto me every knee shall bow') while NETS prints 'that to me shall bow every knee' — italic version-name or re-voice awaits Gideon (wave-26 Joel-2:32 class)"
    }
   },
   {
@@ -21526,6 +21711,16 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13469,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-02",
@@ -21660,6 +21855,16 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS numbering = MT for Isaiah (no offset in these chapters)."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13446,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -21799,6 +22004,16 @@
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
      }
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13469,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -23997,6 +24212,16 @@
      "status": "anchor",
      "note": "Coherence point 2.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13331,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -24069,6 +24294,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13481,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Word became flesh"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -24234,6 +24471,16 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Backfilled from fresh eBible fetch; text-empty anchor before."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13331,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24398,6 +24645,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13331,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24655,6 +24912,18 @@
      "status": "prose-ref",
      "note": "Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution.",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13672,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "I and the Father are one."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -25563,6 +25832,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13450,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -26318,6 +26597,30 @@
      "status": "confirmed",
      "note": "(1) list: the Father is greater than the Son",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13387,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Father is greater than I"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13400,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Father is greater than I"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -27066,6 +27369,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13556,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -27782,6 +28095,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "synthesis re-cite"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13548,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -27895,6 +28218,38 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13327,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "glorify Me with the glory I had with You before the world was"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13451,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13580,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29035,6 +29390,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "prose-ref cross in (D) Revelation-1 wave"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13401,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Son can do nothing of Himself"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -30401,6 +30768,28 @@
      "status": "anchor",
      "matched_source": "",
      "note": "The draft marks “already cited” — mention in the 2.1 absolutes list."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13329,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Before Abraham was, I am."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13580,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -36616,6 +37005,28 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "What-This-Honors table ref."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13387,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Son does not know"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13403,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -37904,6 +38315,30 @@
      "status": "confirmed",
      "note": "pattern list: exaltation (Phil 2:9-11)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13537,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:9-11 study seat (joined)"
     }
    ],
    "verified": "2026-11-07",
@@ -37919,6 +38354,16 @@
      "result": "agree (eBible=TRB ratio 1.00, fresh check on the wave-16 fetch)",
      "url": "https://www.textusreceptusbibles.com/Geneva/50/2",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "text": "That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ Διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διό καί ὁ θεός αὐτός ὑπερυψόω καί χαρίζομαι αὐτός ὁ ὄνομα ὁ ὑπέρ πᾶς ὄνομα ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν ὁ ὄνομα Ἰησοῦς πᾶς γόνυ κάμπτω ἐπουράνιος καί ἐπίγειος καί καταχθόνιος ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν Θεοῦ Πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς χριστός, εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καί πᾶς γλῶσσα ἐξομολογέω ὅτι κύριος Ἰησοῦς Χριστός εἰς δόξα θεός πατήρ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς, εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
+     "source": "https://biblehub.com/text/philippians/2-9, philippians/2-10, philippians/2-11.htm",
+     "result": "set-containment 1.000 across 2-9 + 2-10 + 2-11"
     }
    }
   },
@@ -37974,6 +38419,30 @@
      "status": "confirmed",
      "note": "consummation bullet seated to GNV (draft \"is Lord\"/\"to\" brought to GNV \"is the Lord\"/\"unto\")",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13537,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:9-11 study seat (joined)"
     }
    ],
    "verified": "2026-11-07",
@@ -37989,6 +38458,16 @@
      "result": "agree (eBible=TRB ratio 1.00",
      "url": "https://www.textusreceptusbibles.com/Geneva/50/2",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "text": "And that euery tongue shoulde confesse that Iesus Christ is the Lord, vnto the glory of God the Father.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ Διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διό καί ὁ θεός αὐτός ὑπερυψόω καί χαρίζομαι αὐτός ὁ ὄνομα ὁ ὑπέρ πᾶς ὄνομα ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν ὁ ὄνομα Ἰησοῦς πᾶς γόνυ κάμπτω ἐπουράνιος καί ἐπίγειος καί καταχθόνιος ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν Θεοῦ Πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς χριστός, εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καί πᾶς γλῶσσα ἐξομολογέω ὅτι κύριος Ἰησοῦς Χριστός εἰς δόξα θεός πατήρ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς, εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
+     "source": "https://biblehub.com/text/philippians/2-9, philippians/2-10, philippians/2-11.htm",
+     "result": "set-containment 1.000 across 2-9 + 2-10 + 2-11"
     }
    },
    "note": "GNV text backfilled 2026-11-11 (wave-16): the 3.4 observation's snippet \"to the glory of God the Father\" (line 3780) is word-for-word the Geneva tail — the standing no-GNV-text flag resolves for 2:11.",
@@ -38075,6 +38554,30 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "table step-4 ref and the What-This-Honors “Phil 2:9-11” ref."
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13537,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:9-11 study seat (joined)"
     }
    ],
    "verified": "2026-11-11",
@@ -38089,6 +38592,18 @@
       "source": "https://textusreceptusbibles.com/Geneva/50/2",
       "result": "1.000"
      }
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ Διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διό καί ὁ θεός αὐτός ὑπερυψόω καί χαρίζομαι αὐτός ὁ ὄνομα ὁ ὑπέρ πᾶς ὄνομα ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν ὁ ὄνομα Ἰησοῦς πᾶς γόνυ κάμπτω ἐπουράνιος καί ἐπίγειος καί καταχθόνιος ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν Θεοῦ Πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς χριστός, εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καί πᾶς γλῶσσα ἐξομολογέω ὅτι κύριος Ἰησοῦς Χριστός εἰς δόξα θεός πατήρ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς, εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
+     "source": "https://biblehub.com/text/philippians/2-9, philippians/2-10, philippians/2-11.htm",
+     "result": "set-containment 1.000 across 2-9 + 2-10 + 2-11"
     }
    }
   },
@@ -58760,6 +59275,496 @@
     }
    },
    "note": "Pauline-prayer range anchor (canon 12963); pure anchor — unseated so far"
+  },
+  {
+   "id": "PHP.2.5",
+   "ref": "Philippians 2:5",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13259,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5 study seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let the same minde be in you that was euen in Christ Iesus,",
+     "source": "https://ebible.org/enggnv/PHP02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let the same minde be in you that was euen in Christ Iesus,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τοῦτο φρονεῖτε ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ Tοῦτο γὰρ φρονείσθω ἐν ὑμῖν ὃ καὶ ἐν χριστῷ Ἰησοῦ· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ τοῦτο φρονείσθω ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ οὗτος φρονέω ἐν ὑμεῖς ὅς καί ἐν Χριστός Ἰησοῦς ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ τοῦτο γὰρ φρονείσθω ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ τοῦτο γὰρ φρονείσθω ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ τοῦτο φρονεῖτε ἐν ὑμῖν ὁ καὶ ἐν Χριστῷ Ἰησοῦ,",
+     "source": "https://biblehub.com/text/philippians/2-5.htm",
+     "result": "set-containment 1.000 across 2-5"
+    }
+   },
+   "note": "Wave 56 COS-89 seat; EB==TRB EXACT fresh; draft Geneva line == folded print (zero-splice)"
+  },
+  {
+   "id": "PHP.2.6",
+   "ref": "Philippians 2:6",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13283,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Who being in the form of God, thought it no robbery to be equal with God:"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:6 study seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Who being in ye forme of God, thought it no robberie to be equall with God:",
+     "source": "https://ebible.org/enggnv/PHP02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Who being in ye forme of God, thought it no robberie to be equall with God:",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὃς ἐν μορφῇ Θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα Θεῷ, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ὃς ἐν μορφῇ θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ὃς ἐν μορφῇ θεοῦ ὑπάρχων, οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἴναι ἴσα θεῷ, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ὅς ἐν μορφή θεός ὑπάρχω οὐ ἁρπαγμός ἡγέομαι ὁ εἰμί ἴσος θεός ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ὃς ἐν μορφῇ Θεοῦ ὑπάρχων, οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα Θεῷ, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ὃς ἐν μορφῇ θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ ὃς ἐν μορφῇ θεοῦ ὑπάρχων οὐχ ἁρπαγμὸν ἡγήσατο τὸ εἶναι ἴσα θεῷ,",
+     "source": "https://biblehub.com/text/philippians/2-6.htm",
+     "result": "set-containment 1.000 across 2-6"
+    }
+   },
+   "note": "Wave 56 COS-89 seat; EB==TRB EXACT fresh; draft Geneva line == folded print (zero-splice)"
+  },
+  {
+   "id": "PHP.2.7",
+   "ref": "Philippians 2:7",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13415,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "But he made himself of no reputation, and took on him the form of a servant, and was made like unto men..."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:7 study seat"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13493,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:8 study seat opens with the 2:7 tail — span head"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But he made himself of no reputation, and tooke on him ye forme of a seruant, and was made like vnto men, and was founde in shape as a man.",
+     "source": "https://ebible.org/enggnv/PHP02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But he made himself of no reputation, and tooke on him ye forme of a seruant, and was made like vnto men, and was founde in shape as a man.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἀλλ’ ἑαυτὸν ἐκένωσεν, μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἀλλ’ ἑαυτὸν ἐκένωσε μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἀλλά ἑαυτοῦ κενόω μορφή δοῦλος λαμβάνω ἐν ὁμοίωμα ἄνθρωπος γίνομαι καί σχῆμα εὑρίσκω ὡς ἄνθρωπος ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἀλλ’ ἑαυτὸν ἐκένωσε, μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἀλλ' ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών ἐν ὁμοιώματι ἀνθρώπων γενόμενος· ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου λαβών, ἐν ὁμοιώματι ἀνθρώπων γενόμενος· καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος",
+     "source": "https://biblehub.com/text/philippians/2-7.htm",
+     "result": "set-containment 1.000 across 2-7"
+    }
+   },
+   "note": "Wave 56 COS-89 seat; EB==TRB EXACT fresh; draft Geneva line == folded print (zero-splice)"
+  },
+  {
+   "id": "PHP.2.8",
+   "ref": "Philippians 2:8",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13247,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Let the same mind be in you that was even in Christ Jesus, Who being in the form of God, thought it no robbery to be equal with God: But he made himself of no reputation, and took on him the form of a servant, and was made like unto men, and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross. Wherefore God hath also highly exalted him, and given him a Name above every name, That at the Name of Jesus should every knee bow, both of things in heaven, and things in earth, and things under the earth, And that every tongue should confess that Jesus Christ is the Lord, unto the glory of God the Father."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:5-11 full-context seat (range)"
+    },
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13493,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "and was found in shape as a man. He humbled himself, and became obedient unto the death, even the death of the Cross."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "PHIL 2:8 study seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "He humbled himselfe, and became obedient vnto the death, euen the death of the Crosse.",
+     "source": "https://ebible.org/enggnv/PHP02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "He humbled himselfe, and became obedient vnto the death, euen the death of the Crosse.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος, ἐταπείνωσεν ἑαυτόν, γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ σχήματι εὑρεθεὶς ὡς ἄνθρωπος ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ταπεινόω ἑαυτοῦ γίνομαι ὑπήκοος μέχρι θάνατος θάνατος δέ σταυρός ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καί σχήματι εὑρεθείς ὥς ἄνθρωπος, ἐταπείνωσεν ἑαυτὸν, γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καί σχήματι εὑρεθείς ὥς ἄνθρωπος ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου θανάτου δὲ σταυροῦ ἐταπείνωσεν ἑαυτὸν γενόμενος ὑπήκοος μέχρι θανάτου, θανάτου δὲ σταυροῦ.",
+     "source": "https://biblehub.com/text/philippians/2-8.htm",
+     "result": "set-containment 1.000 across 2-8"
+    }
+   },
+   "note": "Wave 56 COS-89 seat; EB==TRB EXACT fresh; draft Geneva line == folded print (zero-splice)"
+  },
+  {
+   "id": "1PE.5.6",
+   "ref": "1 Peter 5:6",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13644,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 prose reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Humble your selues therefore vnder the mightie hand of God, that he may exalt you in due time.",
+     "source": "https://ebible.org/enggnv/1PE05.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Humble your selues therefore vnder the mightie hand of God, that he may exalt you in due time.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/60/5",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "HEB.1.4",
+   "ref": "Hebrews 1:4",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13549,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 prose reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And is made so much more excellent then the Angels, in as much as hee hath obteined a more excellent Name then they.",
+     "source": "https://ebible.org/enggnv/HEB01.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And is made so much more excellent then the Angels, in as much as hee hath obteined a more excellent Name then they.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/1",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "JHN.20.28",
+   "ref": "John 20:28",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13674,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "My Lord and my God."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 prose reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then Thomas answered, and said vnto him, Thou art my Lord, and my God.",
+     "source": "https://ebible.org/enggnv/JHN20.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then Thomas answered, and said vnto him, Thou art my Lord, and my God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/20",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "1JN.5.20",
+   "ref": "1 John 5:20",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13684,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "This is the true God, and eternal life."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 prose reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.",
+     "source": "https://ebible.org/enggnv/1JN05.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/62/5",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-89 option (I) quotes 'This is the true God, and eternal life.' KJV-voiced; the 1599 print reads 'this same is that very God, and that eternal life.' (EB==TRB fresh) — italic KJV attribution or re-voice awaits Gideon"
+   }
+  },
+  {
+   "id": "TIT.2.13",
+   "ref": "Titus 2:13",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13680,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the appearing of the glory of our great God and Saviour Jesus Christ"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 prose reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Looking for that blessed hope, and appearing of that glorie of that mightie God, and of our Sauiour Iesus Christ,",
+     "source": "https://ebible.org/enggnv/TIT02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Looking for that blessed hope, and appearing of that glorie of that mightie God, and of our Sauiour Iesus Christ,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/56/2",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-89 option (G) quotes 'the appearing of the glory of our great God and Saviour Jesus Christ' under the Titus 2:13 label; the 1599 print reads 'appearing of that glorie of that mightie God, and of our Sauiour Iesus Christ' (EB==TRB fresh) — 'great God' matches neither the print ('mightie') nor KJV word-order; italic version-name or re-voice awaits Gideon"
+   }
+  },
+  {
+   "id": "HEB.1.8",
+   "ref": "Hebrews 1:8",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13678,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Unto the Son He saith, Thy throne, O God..."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-89 prose reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.",
+     "source": "https://ebible.org/enggnv/HEB01.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/58/1",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-89 option (F) quotes 'Unto the Son He saith, Thy throne, O God...' in KJV word-order; the 1599 print reads 'O God, thy throne is for euer and euer' (EB==TRB fresh) — italic KJV attribution or re-voice awaits Gideon"
+   }
+  },
+  {
+   "id": "MAT.4.2",
+   "ref": "Matthew 4:2",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13446,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And when he had fasted fourtie dayes, and fourtie nights, he was afterward hungrie.",
+     "source": "https://ebible.org/enggnv/MAT04.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when he had fasted fourtie dayes, and fourtie nights, he was afterward hungrie.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/40/4",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "JHN.4.6",
+   "ref": "John 4:6",
+   "uses": [
+    {
+     "section": "COS-89",
+     "section_label": "THE CHRIST OF SCRIPTURE — PHILIPPIANS 2:5-11 — THE FULL CONTEXT",
+     "article_line": 13446,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-89 cross-witness mention"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And there was Iacobs well. Iesus then wearied in the iourney, sate thus on the well: it was about the sixt houre.",
+     "source": "https://ebible.org/enggnv/JHN04.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And there was Iacobs well. Iesus then wearied in the iourney, sate thus on the well: it was about the sixt houre.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/4",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
   }
  ]
 }
