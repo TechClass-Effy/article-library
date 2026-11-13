@@ -134,7 +134,8 @@
    "COS-79",
    "COS-80",
    "COS-81",
-   "COS-82"
+   "COS-82",
+   "COS-83"
   ],
   "sections": [
    {
@@ -618,6 +619,10 @@
    {
     "key": "COS-82",
     "label": "PART 8 — THE BELIEVER'S RESPONSE TO TRIALS"
+   },
+   {
+    "key": "COS-83",
+    "label": "PART 9 — WITNESS AND PROCLAMATION"
    }
   ],
   "double_check": {
@@ -678,11 +683,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 109681,
+  "so_far_words": 110281,
   "cos_sofar": {
-   "waves": 52
+   "waves": 53
   },
-  "glossary": 1299
+  "glossary": 1305
  },
  "verses": [
   {
@@ -6595,6 +6600,18 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "pre-banked row re-seated inside the Acts 2:32-36 span seat; wave-3 comma note CONFIRMED on the 1599 print."
+    },
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12650,
+     "cited_as": "Acts 2:36 (unmarked echo)",
+     "quotes": [
+      "He is now at the Father's right hand, the appointed Lord and Christ."
+     ],
+     "status": "prose-ref",
+     "note": "The Content of the Witness bullet - paraphrase echo of the pre-banked seat (print 'God hath made him Lord and Christ')",
+     "quote_kind": "paraphrase"
     }
    ],
    "verified": "2026-11-11",
@@ -28387,6 +28404,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12648,
+     "cited_as": "John 3:16 (unmarked echo)",
+     "quotes": [
+      "The Father loved the world and sent His Beloved Son."
+     ],
+     "status": "prose-ref",
+     "note": "The Content of the Witness bullet - paraphrase echo (print 'God so loued the worlde, that hee hath giuen his onely begotten Sonne')",
+     "quote_kind": "paraphrase"
     }
    ],
    "verified": "2026-11-02",
@@ -34731,6 +34760,16 @@
       "text": "All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.",
       "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
      }
+    },
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12584,
+     "cited_as": "Matthew 28:19-20 seat (canon 12584)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-11",
@@ -34750,6 +34789,11 @@
      "text": "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,",
      "source": "https://textusreceptusbibles.com/Geneva/40/28",
      "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ Πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος· ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺ | διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδού, ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. Ἀμήν. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς ",
+     "source": "biblehub.com/text/ pages (WH)",
+     "result": "draft Matt 28:19-20 Greek == BibleHub WH pages joined, set containment (case class only)"
     }
    },
    "note": ""
@@ -34776,6 +34820,16 @@
       "text": "All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.",
       "reason": "Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops."
      }
+    },
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12584,
+     "cited_as": "Matthew 28:19-20 seat (canon 12584)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-11",
@@ -34795,6 +34849,16 @@
      "text": "Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.",
      "source": "https://textusreceptusbibles.com/Geneva/40/28",
      "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    },
+    "trb_fresh": {
+     "text": "Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.",
+     "source": "textusreceptusbibles.com/Geneva/40/28",
+     "result": "EXACT"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ Πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος· ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺ | διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδού, ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. Ἀμήν. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς ",
+     "source": "biblehub.com/text/ pages (WH)",
+     "result": "draft Matt 28:19-20 Greek == BibleHub WH pages matthew/28-19 + matthew/28-20 joined, set containment (case class only: Patros/Uliou/Agiou/Pneumatos caps)"
     }
    },
    "note": ""
@@ -54068,6 +54132,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12637,
+     "cited_as": "Rom 10:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "prose 'Faith comes by hearing' - modern paraphrase of the COS-76 seat ('Then faith is by hearing, and hearing by the word of God'); no flag",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -56755,6 +56829,216 @@
     }
    ],
    "note": "range anchor 3:10-12"
+  },
+  {
+   "id": "1PE.3.15",
+   "ref": "1 Peter 3:15",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But sanctifie the Lord God in your hearts: and be ready alwayes to giue an answere to euery man that asketh you a reason of the hope that is in you, with meekenesse and reuerence,",
+     "source": "ebible.org enggnv 1PE03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But sanctifie the Lord God in your hearts: and be ready alwayes to giue an answere to euery man that asketh you a reason of the hope that is in you, with meekenesse and reuerence,",
+     "source": "textusreceptusbibles.com/Geneva/60/3",
+     "result": "EXACT"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Κύριον δὲ τὸν Χριστὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν, ἕτοιμοι ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος, ΠΕΤΡΟΥ Α΄ κύριον δὲ τὸν Χριστὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν, ἕτοιμοι ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος, ἀλλὰ μετὰ πραΰτητος καὶ φόβου, ΠΕΤΡΟΥ Α΄ κύριον δὲ τὸν θεὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν· ἕτοιμοι δὲ ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος, μετὰ πρᾳΰτητος καὶ φόβου· ΠΕΤΡΟΥ Α΄ Κύριον δὲ τὸν Θεὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν, ἕτοιμοι δὲ ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος μετὰ πραΰτητος καὶ φόβου, ΠΕΤΡΟΥ Α΄ κύριος δέ ὁ Χριστός ἁγιάζω ἐν ὁ καρδία ὑμεῖς ἕτοιμος ἀεί πρός ἀπολογία πᾶς ὁ αἰτέω ὑμεῖς λόγος περί ὁ ἐν ὑμεῖς ἐλπίς ἀλλά μετά πραΰτης καί φόβος ΠΕΤΡΟΥ Α΄ Κύριον δὲ τὸν Θεὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν· ἕτοιμοι δὲ ἀεὶ πρὸς ἀπολογία",
+     "source": "biblehub.com/text/ pages (WH)",
+     "result": "draft 1 Pet 3:15 Greek == BibleHub WH, set containment EXACT 26/26 tokens"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12596,
+     "cited_as": "1 Peter 3:15 seat (canon 12596)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: zero-splice exact-modern (draft == print at modern folds); print comma end kept",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-83 canon 12596; ZERO SPLICE exact-modern - the 1599 prints meekenesse and reuerence (KJV prints fear - the draft reverence IS the Geneva print); folds sanctifie/alwayes/giue/answere/euery/meekenesse/reuerence; print comma end kept verbatim; TR/Geneva read tau God (Lord God) vs WH/Byzantine Kurion ton Christon - variant row-noted, seat follows Geneva (specified NT)"
+  },
+  {
+   "id": "MAT.5.16",
+   "ref": "Matthew 5:16",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let your light so shine before men, that they may see your good workes, and glorifie your Father which is in heauen.",
+     "source": "ebible.org enggnv MAT05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Let your light so shine before men, that they may see your good workes, and glorifie your Father which is in heauen.",
+     "source": "textusreceptusbibles.com/Geneva/40/5",
+     "result": "EXACT"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς. ΚΑΤΑ ΜΑΤΘΑΙΟΝ Οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα, καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς. ΚΑΤΑ ΜΑΤΘΑΙΟΝ οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς. ΚΑΤΑ ΜΑΤΘΑΙΟΝ οὕτω λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα, καὶ δοξάσωσι τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς. ΚΑΤΑ ΜΑΤΘΑΙΟΝ οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν ",
+     "source": "biblehub.com/text/ pages (WH)",
+     "result": "draft Matt 5:16 Greek == BibleHub WH, set containment (case class only: Patera/patera)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12621,
+     "cited_as": "Matthew 5:16 seat (canon 12621)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: zero-splice exact-modern (draft == print at modern folds)",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-83 canon 12621; ZERO SPLICE exact-modern; folds workes/glorifie/heauen"
+  },
+  {
+   "id": "ROM.10.14",
+   "ref": "Romans 10:14",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But how shall they call on him, in whome they haue not beleeued? and how shall they beleeue in him, of whom they haue not heard? and howe shall they heare without a preacher?",
+     "source": "ebible.org enggnv ROM10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But how shall they call on him, in whome they haue not beleeued? and how shall they beleeue in him, of whom they haue not heard? and howe shall they heare without a preacher?",
+     "source": "textusreceptusbibles.com/Geneva/45/10",
+     "result": "EXACT"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πῶς οὖν ἐπικαλέσωνται εἰς ὃν οὐκ ἐπίστευσαν; πῶς δὲ πιστεύσωσιν οὗ οὐκ ἤκουσαν; πῶς δὲ ἀκούσωσιν χωρὶς κηρύσσοντος; ΠΡΟΣ ΡΩΜΑΙΟΥΣ Πῶς οὖν ἐπικαλέσωνται εἰς ὃν οὐκ ἐπίστευσαν; πῶς δὲ πιστεύσωσιν οὗ οὐκ ἤκουσαν; πῶς δὲ ἀκούσωσιν χωρὶς κηρύσσοντος; ΠΡΟΣ ΡΩΜΑΙΟΥΣ Πῶς οὖν ἐπικαλέσονται εἰς ὃν οὐκ ἐπίστευσαν; Πῶς δὲ πιστεύσουσιν οὗ οὐκ ἤκουσαν; Πῶς δὲ ἀκούσουσιν χωρὶς κηρύσσοντος; ΠΡΟΣ ΡΩΜΑΙΟΥΣ πῶς οὖν ἐπικαλέσονται εἰς ὃν οὐκ ἐπίστευσαν; πῶς δὲ πιστεύσουσιν οὗ οὐκ ἤκουσαν; πῶς δὲ ἀκούσουσι χωρὶς κηρύσσοντος; ΠΡΟΣ ΡΩΜΑΙΟΥΣ πῶς οὖν ἐπικαλέσωνται εἰς ὃν οὐκ ἐπίστευσαν; πῶς δὲ πιστεύσωσιν οὗ οὐκ ἤκουσαν; πῶς δὲ ἀκούσονται χωρὶς κηρύσσοντος; ΠΡΟΣ ΡΩΜΑΙΟΥΣ πῶς οὖν ἐπικαλέσονται εἰς ὃν οὐκ ἐπίστευσαν; π",
+     "source": "biblehub.com/text/ pages (WH)",
+     "result": "draft Rom 10:14 Greek == BibleHub WH, set containment EXACT 15/15 tokens"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12632,
+     "cited_as": "Romans 10:14 seat (canon 12632)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v14+v15; elided v15 Isaiah-citation tail RESTORED; the draft quote ended at except they be sent?... (wave-44 Col-3:15 tail precedent); folds howe/beautifull/feete",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-83 canon 12632; joined span v14+v15; draft ellipsis honored -> v15 tail RESTORED per wave-44 Col-3:15 tail precedent (Isaiah citation as it is written...good things!); folds howe/beautifull/feete; print exclamation end kept verbatim"
+  },
+  {
+   "id": "ROM.10.15",
+   "ref": "Romans 10:15",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And how shall they preach, except they be sent? as it is written, Howe beautifull are the feete of them which bring glad tidings of peace, and bring glad tidings of good things!",
+     "source": "ebible.org enggnv ROM10.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And how shall they preach, except they be sent? as it is written, Howe beautifull are the feete of them which bring glad tidings of peace, and bring glad tidings of good things!",
+     "source": "textusreceptusbibles.com/Geneva/45/10",
+     "result": "EXACT"
+    },
+    "greek_biblehub_fresh": {
+     "text": "πῶς δὲ κηρύξωσιν ἐὰν μὴ ἀποσταλῶσιν; καθάπερ γέγραπται Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων ἀγαθά. ΠΡΟΣ ΡΩΜΑΙΟΥΣ πῶς δὲ κηρύξωσιν ἐὰν μὴ ἀποσταλῶσιν; καθάπερ καθὼς γέγραπται Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων Πῶς δὲ κηρύξουσιν ἐὰν μὴ ἀποσταλῶσιν; Καθὼς γέγραπται, Ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων εἰρήνην, τῶν εὐαγγελιζομένων τὰ ἀγαθά. ΠΡΟΣ ΡΩΜΑΙΟΥΣ πῶς δὲ κηρύξουσιν ἐὰν μὴ ἀποσταλῶσι; κ",
+     "source": "biblehub.com/text/ pages (WH)",
+     "result": "draft Rom 10:15 clause == BibleHub WH, set containment EXACT 6/6 tokens"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12632,
+     "cited_as": "Romans 10:15 seat (canon 12632)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v14+v15; elided v15 Isaiah-citation tail RESTORED; the draft quote ended at except they be sent?... (wave-44 Col-3:15 tail precedent); folds howe/beautifull/feete",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-83 canon 12632; joined span v14+v15; elided Isaiah-citation tail RESTORED (as it is written, Howe beautifull...)"
+  },
+  {
+   "id": "JHN.9.25",
+   "ref": "John 9:25",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then he answered, and sayd, Whether hee be a sinner or no, I can not tell: one thing I know, that I was blinde, and nowe I see.",
+     "source": "ebible.org enggnv JHN09.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then he answered, and sayd, Whether hee be a sinner or no, I can not tell: one thing I know, that I was blinde, and nowe I see.",
+     "source": "textusreceptusbibles.com/Geneva/43/9",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12665,
+     "cited_as": "John 9:25",
+     "quotes": [
+      "I was blind, now I see"
+     ],
+     "status": "prose-ref",
+     "note": "Practical item 3 compressed italic testimony - the print reads 'that I was blinde, and nowe I see'; the fragment drops the print's 'and' (KJV 'whereas I was blind, now I see' likewise compressed) - paraphrase-echo class, no correction proposed (wave-52 Heb 4:15 'He sympathizes' precedent)",
+     "quote_kind": "quote"
+    }
+   ],
+   "note": "prose mention COS-83 (no seat)"
+  },
+  {
+   "id": "ROM.1.16",
+   "ref": "Romans 1:16",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For I am not ashamed of the Gospel of Christ: for it is the power of God vnto saluation to euery one that beleeueth, to the Iewe first, and also to the Grecian.",
+     "source": "ebible.org enggnv ROM01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For I am not ashamed of the Gospel of Christ: for it is the power of God vnto saluation to euery one that beleeueth, to the Iewe first, and also to the Grecian.",
+     "source": "textusreceptusbibles.com/Geneva/45/1",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-83",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 9 — WITNESS AND PROCLAMATION: The Mandate (Matt 28:19-20); the Posture of the Witness (1 Pet 3:15); the Believer's Witness — By Life (Matt 5:16), By Word (Rom 10:14-15), By Service; the Content of the Witness; Practical Implications",
+     "article_line": 12673,
+     "cited_as": "Rom 1:16",
+     "quotes": [
+      "It is the power of God unto salvation"
+     ],
+     "status": "prose-ref",
+     "note": "'Gospel' + 'power of God unto salvation' GNV-voiced ('the Gospel of Christ: for it is the power of God vnto saluation'); the draft's own sentence continues past the echo; no flag",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "prose mention COS-83 (no seat)"
   }
  ]
 }

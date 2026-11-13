@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1128 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1134 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1299 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1305 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -4146,7 +4146,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
   (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages joined, set containment (case class only)*
 
 ### Matthew 28:20 — CONFIRMED
 *cited as: blockquote tail (span seat)*
@@ -4154,7 +4154,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
   (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — EXACT · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages matthew/28-19 + matthew/28-20 joined, set containment (case class only: Patros/Uliou/Agiou/Pneumatos caps)*
 
 ### Acts 10:48 — ANCHOR
 *cited as: prose ref (mention-anchor)*
@@ -12491,6 +12491,86 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
+## PART 9 — WITNESS AND PROCLAMATION
+
+### Matthew 28:19 — CONFIRMED
+*cited as: Matthew 28:19-20 seat (canon 12584)*
+- **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
+- *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages joined, set containment (case class only)*
+
+### Matthew 28:20 — CONFIRMED
+*cited as: Matthew 28:19-20 seat (canon 12584)*
+- **Geneva 1599:** “Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.”
+- *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — EXACT · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages matthew/28-19 + matthew/28-20 joined, set containment (case class only: Patros/Uliou/Agiou/Pneumatos caps)*
+
+### 1 Peter 3:15 — CONFIRMED
+*cited as: 1 Peter 3:15 seat (canon 12596)*
+- **Geneva 1599:** “But sanctifie the Lord God in your hearts: and be ready alwayes to giue an answere to euery man that asketh you a reason of the hope that is in you, with meekenesse and reuerence,”
+- *Note:* SEAT: zero-splice exact-modern (draft == print at modern folds); print comma end kept
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT · greek_biblehub_fresh — draft 1 Pet 3:15 Greek == BibleHub WH, set containment EXACT 26/26 tokens*
+
+### Matthew 5:16 — CONFIRMED
+*cited as: Matthew 5:16 seat (canon 12621)*
+- **Geneva 1599:** “Let your light so shine before men, that they may see your good workes, and glorifie your Father which is in heauen.”
+- *Note:* SEAT: zero-splice exact-modern (draft == print at modern folds)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT · greek_biblehub_fresh — draft Matt 5:16 Greek == BibleHub WH, set containment (case class only: Patera/patera)*
+
+### Romans 10:14 — CONFIRMED
+*cited as: Romans 10:14 seat (canon 12632)*
+- **Geneva 1599:** “But how shall they call on him, in whome they haue not beleeued? and how shall they beleeue in him, of whom they haue not heard? and howe shall they heare without a preacher?”
+- *Note:* SEAT: joined span v14+v15; elided v15 Isaiah-citation tail RESTORED; the draft quote ended at except they be sent?... (wave-44 Col-3:15 tail precedent); folds howe/beautifull/feete
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT · greek_biblehub_fresh — draft Rom 10:14 Greek == BibleHub WH, set containment EXACT 15/15 tokens*
+
+### Romans 10:15 — CONFIRMED
+*cited as: Romans 10:15 seat (canon 12632)*
+- **Geneva 1599:** “And how shall they preach, except they be sent? as it is written, Howe beautifull are the feete of them which bring glad tidings of peace, and bring glad tidings of good things!”
+- *Note:* SEAT: joined span v14+v15; elided v15 Isaiah-citation tail RESTORED; the draft quote ended at except they be sent?... (wave-44 Col-3:15 tail precedent); folds howe/beautifull/feete
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT · greek_biblehub_fresh — draft Rom 10:15 clause == BibleHub WH, set containment EXACT 6/6 tokens*
+
+### Romans 10:17 — PROSE-REF
+*cited as: Rom 10:17*
+- **Geneva 1599:** “Then faith is by hearing, and hearing by the worde of God.”
+- *Note:* prose 'Faith comes by hearing' - modern paraphrase of the COS-76 seat ('Then faith is by hearing, and hearing by the word of God'); no flag
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### John 3:16 — PROSE-REF
+*cited as: John 3:16 (unmarked echo)*
+- **Geneva 1599:** “For God so loued the worlde, that hee hath giuen his onely begotten Sonne, that whosoeuer beleeueth in him, should not perish, but haue euerlasting life.”
+- **KJV:** “¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”
+- *Note:* The Content of theWitness bullet - paraphrase echo (print 'God so loued the worlde, that hee hath giuen his onely begotten Sonne')
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh ✓*
+
+### ACT 2 36 — PROSE-REF
+*cited as: Acts 2:36 (unmarked echo)*
+- **Geneva 1599:** “Therefore, let all the house of Israel know for a suretie, that God hath made him both Lord, and Christ, this Iesus, I say, whome yee haue crucified.”
+- *Note:* The Content of the Witness bullet - paraphrase echo of the pre-banked seat (print 'God hath made him Lord and Christ')
+- *Checked 2026-11-11 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — exact per-verse (eBible==TRB 1.000 fresh; confirms the wave-3 comma note “both Lord, and Christ”) · greek_biblehub_fresh — draft Greek v36 == WH (see ACT span group check)*
+
+### John 9:25 — PROSE-REF
+*cited as: John 9:25*
+- **Geneva 1599:** “Then he answered, and sayd, Whether hee be a sinner or no, I can not tell: one thing I know, that I was blinde, and nowe I see.”
+- *Note:* Practical item 3 compressed italic testimony - the print reads 'that I was blinde, and nowe I see'; the fragment drops the print's 'and' (KJV 'whereas I was blind, now I see' likewise compressed) - paraphrase-echo class, no correction proposed (wave-52 Heb 4:15 'He sympathizes' precedent)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Romans 1:16 — PROSE-REF
+*cited as: Rom 1:16*
+- **Geneva 1599:** “For I am not ashamed of the Gospel of Christ: for it is the power of God vnto saluation to euery one that beleeueth, to the Iewe first, and also to the Grecian.”
+- *Note:* 'Gospel' + 'power of God unto salvation' GNV-voiced ('the Gospel of Christ: for it is the power of God vnto saluation'); the draft's own sentence continues past the echo; no flag
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -14429,7 +14509,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 2:34 | COS-58 | confirmed |
 | ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28, COS-34, COS-42 | anchor, confirmed |
 | Acts 2:35 | COS-58 | confirmed |
-| ACT 2 36 | COS-03, COS-16, COS-19, COS-42, COS-58 | anchor, confirmed, confirmed (excerpt) |
+| ACT 2 36 | COS-03, COS-16, COS-19, COS-42, COS-58, COS-83 | anchor, confirmed, confirmed (excerpt), prose-ref |
 | Acts 2:38 | COS-27 | anchor |
 | Acts 2:4 | P8 | anchor |
 | Acts 3:13 | COS-22 | anchor |
@@ -14895,7 +14975,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 20:26 | COS-22, COS-36 | confirmed (excerpt), prose-ref |
 | John 20:27 | COS-22, COS-36 | confirmed (excerpt), prose-ref |
 | John 3:13 | COS-21 | confirmed |
-| John 3:16 | P1-Q8, COS-63 | confirmed, prose-ref |
+| John 3:16 | P1-Q8, COS-63, COS-83 | confirmed, prose-ref |
 | John 3:29 | COS-24 | anchor |
 | John 3:31 | COS-21 | confirmed (excerpt) |
 | John 1:4 | COS-21 | confirmed |
@@ -15054,8 +15134,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 27:60 | COS-22 | confirmed (excerpt) |
 | Matthew 27:9 | COS-23 | anchor |
 | MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40 | anchor, confirmed, prose-ref |
-| Matthew 28:19 | COS-27 | confirmed |
-| Matthew 28:20 | COS-27 | confirmed |
+| Matthew 28:19 | COS-27, COS-83 | confirmed |
+| Matthew 28:20 | COS-27, COS-83 | confirmed |
 | Matthew 3:1 | COS-23 | anchor |
 | Matthew 3:16 | COS-55 | anchor |
 | Matthew 3:17 | COS-02, COS-19, COS-63 | confirmed (excerpt), differs (minor), prose-ref |
@@ -15520,7 +15600,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Timothy 3:16 | COS-76 | confirmed |
 | 2 Timothy 3:17 | COS-76 | confirmed |
 | Hebrews 4:12 | COS-76 | confirmed |
-| Romans 10:17 | COS-76 | confirmed |
+| Romans 10:17 | COS-76, COS-83 | confirmed, prose-ref |
 | James 1:22 | COS-76 | confirmed (excerpt) |
 | Psalm 1:1 (LXX = MT) | COS-76 | confirmed (excerpt) |
 | Psalm 1:2 (LXX = MT) | COS-76 | confirmed |
@@ -15601,6 +15681,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Thessalonians 3:10 | COS-82 | prose-ref |
 | 2 Thessalonians 3:11 | COS-82 | prose-ref |
 | 2 Thessalonians 3:12 | COS-82 | prose-ref |
+| 1 Peter 3:15 | COS-83 | confirmed |
+| Matthew 5:16 | COS-83 | confirmed |
+| Romans 10:14 | COS-83 | confirmed |
+| Romans 10:15 | COS-83 | confirmed |
+| John 9:25 | COS-83 | prose-ref |
+| Romans 1:16 | COS-83 | prose-ref |
 
 ## The editions used
 

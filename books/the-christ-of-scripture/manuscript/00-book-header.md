@@ -229,3 +229,19 @@ BACKFILL + 'He sympathizes' paraphrase echo + 'light affliction which is but for
 4:17 GNV-exact fragment good-reason + Rom 8:18 + Rom 8:38-39); Practical Implications 1-7 (1 Pet
 4:12; Gal 6:2 echo cited-without-ref)). EB==TRB 16/16 EXACT fresh; draft Greek James 1:2-4 =
 BibleHub 32/32 tokens verse-joined).
+
+79. (C) PART 9 — WITNESS AND PROCLAMATION (COS-83 — The Mandate: Matt 28:19-20 joined Geneva seat (TWO
+SPLICES: the 1599 print's ONE 'of the' restored over the draft's KJV-voiced 'and of the Father, and of the
+Son, and of the holy Ghost' — the print reads 'and the Son, and the holy Ghost'; the elided print tail
+RESTORED through 'and lo, I am with you alway, until the end of the world, Amen.' — wave-18 Rev 1:7 Amen
+precedent); The Posture of the Witness: 1 Pet 3:15 seat ZERO-SPLICE exact-modern (the 1599 prints 'with
+meekenesse and reuerence' — KJV prints 'fear', so the draft's 'reverence' IS the Geneva print); observations
+verbatim); The Believer's Witness — By Life (Matt 5:16 seat ZERO-SPLICE), By Word (Rom 10:14-15 seat — the
+elided v15 tail RESTORED through the Isaiah citation 'How beautiful are the feet of them which bring glad
+tidings of peace, and bring glad tidings of good things!'; 'Faith comes by hearing (Rom 10:17)' prose —
+COS-76 pre-banked seat), By Service); The Content of the Witness (gospel-summary bullets VERBATIM; Jhn 3:16
++ Acts 2:36 paraphrase echoes banked); Practical Implications 1-7 (John 9:25 'I was blind, now I see'
+compressed echo banked — the print reads 'that I was blinde, and nowe I see'; Rom 1:16 anchor — 'It is the
+power of God unto salvation' GNV-voiced)). EB==TRB 9/9 EXACT fresh (incl Matt 28:19-20 vs TRB 40/28);
+draft Greek Matt 28:19-20 / 1 Pet 3:15 / Matt 5:16 / Rom 10:14-15 = BibleHub WH set containment (case class
+only).
