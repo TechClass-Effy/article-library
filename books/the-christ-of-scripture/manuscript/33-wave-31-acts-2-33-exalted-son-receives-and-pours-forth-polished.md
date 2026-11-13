@@ -151,7 +151,7 @@ This is also what prepares us for **Part F — the Indwelling.** Because:
 - **The Father (Spirit) indwelt the Son** during His earthly ministry (John 14:10; Acts 10:38).
 - **At His exaltation, the Son received the Spirit from the Father** in fullness (Acts 2:33).
 - **The Son now pours out the Spirit upon His elect** — so that the Father, by His Spirit, indwells the redeemed **in the Son**.
-- **The Father-Son union now becomes the model for our union with God** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* (John 17:21).
+- **The Father-Son union now becomes the model for our union with God** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* *(the 1599 print reads, "…as thou, O Father…that they may be also one in us…")* (John 17:21).
 
 ---
 
@@ -238,7 +238,7 @@ What Acts 2:33 reveals is breathtaking when we hold the whole picture:
 
 **This is the entire arc of redemption: the Father, by His Spirit, in His Son, indwelling His people.**
 
-And this is precisely the indwelling we will now examine in Part F — where Jesus prays *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* (John 17:21).
+And this is precisely the indwelling we will now examine in Part F — where Jesus prays *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* *(the 1599 print reads, "…as thou, O Father…that they may be also one in us…")* (John 17:21).
 
 ---
 

@@ -42,7 +42,7 @@ Why? Because **οὗτός** typically points back to the earlier and dominant r
 
 **This reading is grammatically defensible and theologically coherent** with everything John has written elsewhere:
 
-- John 17:3 — *"this is life eternal, that they know **thee** the only true God, and Jesus Christ whom thou hast sent."*
+- John 17:3 — *"this is life eternal, that they know **thee** the only true God, and Jesus Christ whom thou hast sent."* *(the 1599 print reads, "that they know thee to be the only very God, and whom thou hast sent, Jesus Christ")*
 
 **John himself defines "the true God" as the Father in his own Gospel.** This is decisive.
 

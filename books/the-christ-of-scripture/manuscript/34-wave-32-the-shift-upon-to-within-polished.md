@@ -358,7 +358,7 @@ Because:
 
 4. **The promise of John 14:23** — *"We will come unto him, and make Our abode with him"* — refers to both the Father and the Son making the believer Their dwelling through the Spirit. **This was not possible in the OT economy.** It is possible *now*, because the Son has been glorified and the Spirit has been poured out.
 
-5. **The High Priestly Prayer of John 17:20-26** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* — describes a **mutual indwelling** that *requires* the permanent presence of the Spirit. The OT saint could not enter into this; the NT saint can, because of what you have rightly identified.
+5. **The High Priestly Prayer of John 17:20-26** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* *(the 1599 print reads, "…as thou, O Father…that they may be also one in us…")* — describes a **mutual indwelling** that *requires* the permanent presence of the Spirit. The OT saint could not enter into this; the NT saint can, because of what you have rightly identified.
 
 ---
 

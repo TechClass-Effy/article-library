@@ -33,7 +33,7 @@ The Lord's Supper is the appointed act of remembrance and communion that the Lor
 
 ### Observations
 
-**(1) Self-examination is commanded** — **δοκιμαζέτω ἑαυτόν** — *"let a man examine himself."* Before partaking, the believer is to examine his own heart.
+**(1) Self-examination is commanded** — **δοκιμαζέτω ἑαυτόν** — *"let a man examine himself"* *(the 1599 print reads, "Let every man therefore examine himself")*. Before partaking, the believer is to examine his own heart.
 
 **(2) Eating unworthily** is the danger — not because the believer is worthy in himself (none are), but because **the manner** of partaking can be unworthy — without faith, without discernment, in unconfessed sin, in division from the brethren.
 

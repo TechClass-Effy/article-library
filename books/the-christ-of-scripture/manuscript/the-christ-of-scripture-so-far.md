@@ -2534,7 +2534,7 @@ This is **the most extensive and explicit prophecy of the Son's atoning death in
 
 This is the apostolic identification: **Jesus is the παῖς of Isaiah 52-53.**
 
-**(2)** **ὑψωθήσεται καὶ δοξασθήσεται σφόδρα** — *"He shall be exalted and glorified exceedingly."* The Servant's path is exaltation. This corresponds to **John 12:32**: *"And I, if I be lifted up, will draw all unto Me."* John explicitly connects Jesus' "being lifted up" to His glorification (John 12:23, 32; 13:31-32).
+**(2)** **ὑψωθήσεται καὶ δοξασθήσεται σφόδρα** — *"He shall be exalted and glorified exceedingly."* The Servant's path is exaltation. This corresponds to **John 12:32**: *"And I, if I be lifted up, will draw all unto Me."* *(the 1599 print reads, "And I, if I were lifted up from the earth, will draw all men unto me.")* John explicitly connects Jesus' "being lifted up" to His glorification (John 12:23, 32; 13:31-32).
 
 **(3)** **ἀδοξήσει ἀπὸ ἀνθρώπων τὸ εἶδός σου** — *"Your appearance shall be without glory from men."* The Servant is *disfigured* — His visible form unrecognizable. This is fulfilled in Jesus' scourging, beating, and crucifixion.
 
@@ -3555,7 +3555,7 @@ Observe the critical preposition: **δι᾽ αὐτοῦ τῷ Θεῷ** — *"t
 
 ### Observations
 
-**(1)** The Son is **holy, harmless, undefiled, separated from sinners** — fulfilling Isa 53:9 (*"He had done no violence, neither was any deceit in His mouth"*).
+**(1)** The Son is **holy, harmless, undefiled, separated from sinners** — fulfilling Isa 53:9 (*"He had done no violence, neither was any deceit in His mouth"* — the NETS print reads, "though he had done no wickedness, neither was any deceit in his mouth").
 
 **(2)** **τοῦτο γὰρ ἐποίησεν ἐφάπαξ** — *"this He did once for all."* The Son's sacrifice of Himself is **once for all** — never to be repeated. This will become a key theme of chapter 10.
 
@@ -5201,7 +5201,7 @@ This is essential and will clarify many things:
 
 This is the crowning glory of the entire revelation:
 - John 17:20-23 — *"that they may be one, even as We are one... I in them, and Thou in Me"*
-- John 14:23 — *"We will come unto him, and make Our abode with him"*
+- John 14:23 — *"We will come unto him, and make Our abode with him"* *(the 1599 print reads, "we will come unto him, and will dwell with him")*
 - The Father's purpose: that the elect become the habitation of the Father through the Son by the Spirit
 - Ephesians 3:14-19 — *"that ye might be filled with all the fullness of God"*
 - 2 Corinthians 6:16 — *"I will dwell in them, and walk in them"*
@@ -6053,7 +6053,7 @@ This is also what prepares us for **Part F — the Indwelling.** Because:
 - **The Father (Spirit) indwelt the Son** during His earthly ministry (John 14:10; Acts 10:38).
 - **At His exaltation, the Son received the Spirit from the Father** in fullness (Acts 2:33).
 - **The Son now pours out the Spirit upon His elect** — so that the Father, by His Spirit, indwells the redeemed **in the Son**.
-- **The Father-Son union now becomes the model for our union with God** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* (John 17:21).
+- **The Father-Son union now becomes the model for our union with God** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* *(the 1599 print reads, "…as thou, O Father…that they may be also one in us…")* (John 17:21).
 
 ---
 
@@ -6140,7 +6140,7 @@ What Acts 2:33 reveals is breathtaking when we hold the whole picture:
 
 **This is the entire arc of redemption: the Father, by His Spirit, in His Son, indwelling His people.**
 
-And this is precisely the indwelling we will now examine in Part F — where Jesus prays *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* (John 17:21).
+And this is precisely the indwelling we will now examine in Part F — where Jesus prays *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* *(the 1599 print reads, "…as thou, O Father…that they may be also one in us…")* (John 17:21).
 
 ---
 
@@ -6512,7 +6512,7 @@ Because:
 
 4. **The promise of John 14:23** — *"We will come unto him, and make Our abode with him"* — refers to both the Father and the Son making the believer Their dwelling through the Spirit. **This was not possible in the OT economy.** It is possible *now*, because the Son has been glorified and the Spirit has been poured out.
 
-5. **The High Priestly Prayer of John 17:20-26** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* — describes a **mutual indwelling** that *requires* the permanent presence of the Spirit. The OT saint could not enter into this; the NT saint can, because of what you have rightly identified.
+5. **The High Priestly Prayer of John 17:20-26** — *"that they all may be one, as Thou Father art in Me, and I in Thee, that they also may be one in Us"* *(the 1599 print reads, "…as thou, O Father…that they may be also one in us…")* — describes a **mutual indwelling** that *requires* the permanent presence of the Spirit. The OT saint could not enter into this; the NT saint can, because of what you have rightly identified.
 
 ---
 
@@ -11070,7 +11070,7 @@ The Lord's Supper is the appointed act of remembrance and communion that the Lor
 
 ### Observations
 
-**(1) Self-examination is commanded** — **δοκιμαζέτω ἑαυτόν** — *"let a man examine himself."* Before partaking, the believer is to examine his own heart.
+**(1) Self-examination is commanded** — **δοκιμαζέτω ἑαυτόν** — *"let a man examine himself"* *(the 1599 print reads, "Let every man therefore examine himself")*. Before partaking, the believer is to examine his own heart.
 
 **(2) Eating unworthily** is the danger — not because the believer is worthy in himself (none are), but because **the manner** of partaking can be unworthy — without faith, without discernment, in unconfessed sin, in division from the brethren.
 
@@ -14080,7 +14080,7 @@ Why? Because **οὗτός** typically points back to the earlier and dominant r
 
 **This reading is grammatically defensible and theologically coherent** with everything John has written elsewhere:
 
-- John 17:3 — *"this is life eternal, that they know **thee** the only true God, and Jesus Christ whom thou hast sent."*
+- John 17:3 — *"this is life eternal, that they know **thee** the only true God, and Jesus Christ whom thou hast sent."* *(the 1599 print reads, "that they know thee to be the only very God, and whom thou hast sent, Jesus Christ")*
 
 **John himself defines "the true God" as the Father in his own Gospel.** This is decisive.
 
@@ -14140,7 +14140,7 @@ The Son can legitimately be addressed with divine titles because He bears the Fa
 
 **No metaphysical co-equal substance is required.** Only the biblical framework of Name-authority is required.
 
-**Hebrews 1:9 immediately clarifies:** *"Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee..."* — preserving the Father as the Son's God.
+**Hebrews 1:9 immediately clarifies:** *"Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee..."* *(the 1599 print reads, "Wherefore God, even thy God, hath anointed thee")* — preserving the Father as the Son's God.
 
 **Hebrews 1:8-9 together, honestly read under our maxims, present:**
 - **The Son who bears the divine title** (v. 8) — as the Only-Begotten bearing the Father's Name.

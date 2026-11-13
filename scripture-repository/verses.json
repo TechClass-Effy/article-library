@@ -3484,8 +3484,11 @@
      "cited_as": "Cross-witness — 1 Timothy 6:15-16 (seat, verse 16)",
      "quotes": [],
      "status": "seat",
-     "note": "Seat v16 = \"whom never man saw, neither can see\" — the 1599 print (the draft's Part E quote already carried it modern-spelled; \"honour\" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote).",
-     "quote_kind": "seat"
+     "note": "Seat v16 = \"whom never man saw, neither can see\" — the 1599 print (the draft's Part E quote already carried it modern-spelled; \"honour\" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-54",
@@ -3574,6 +3577,10 @@
     "gnv": {
      "text": "For the eyes of the Lord beholde all the earth to shewe him selfe strong with them that are of perfite heart towarde him: thou hast then done foolishly in this: therefore from henceforth thou shalt haue warres.",
      "source": "https://ebible.org/enggnv/2CH16.htm"
+    },
+    "nets": {
+     "text": "For the eyes of the Lord… because the Lord’s eyes range over all the earth, to put strength in every heart full toward him.",
+     "source": "https://ccat.sas.upenn.edu/nets/edition/14-2suppl-nets.pdf (2 Chronicles 16:9 NETS)"
     }
    },
    "second_check": {
@@ -3600,7 +3607,8 @@
     "detail": "NETS (Paraleipomenon II) not in the NETS cache and no Oxford PDF master scraped — the cross-witness #3 seat cannot be brought to NETS until the master PDF is fetched. Seat GNV is banked and TRB-verified; draft Greek Swete-confirmed. Proposal: scrape 2-Paraleipomenon next session and re-seat the 2 Chr 16:9 blocks NETS like the neighboring cross-witnesses.",
     "awaiting": "next run / Gideon word on the seat proposal"
    },
-   "diff_notes": "GNV/MT prints the whole verse (“thou hast then done foolishly...”); the draft’s excerpts use only the eyes-of-the-Lord head clause. TRB OT book number 14 confirmed against eBible==TRB 1.000."
+   "diff_notes": "GNV/MT prints the whole verse (“thou hast then done foolishly...”); the draft’s excerpts use only the eyes-of-the-Lord head clause. TRB OT book number 14 confirmed against eBible==TRB 1.000.",
+   "note": " [backfilled 13 Nov 2026: nets; NETS renders “the Lord’s eyes range over all the earth… heart full toward him”]"
   },
   {
    "id": "2CO.13.1",
@@ -4224,9 +4232,12 @@
      "article_line": 7116,
      "cited_as": "bullet — 'the Spirit of the LORD spoke by me' quoted",
      "status": "anchor",
-     "note": "the bullet's English echo is KJV-voiced; NETS prints 'The Lord's spirit spoke by me, and his word was upon my tongue.'",
+     "note": "the bullet's English echo is KJV-voiced; NETS prints 'The Lord's spirit spoke by me, and his word was upon my tongue.' [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "quote_kind": "mention",
-     "matched_source": "net"
+     "matched_source": "net",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -5468,8 +5479,11 @@
      "cited_as": "Cross-witness — Acts 17:24-28 (seat)",
      "quotes": [],
      "status": "seat",
-     "note": "Seat = the 1599 print modern-spelled over the draft Geneva span. \"heaue\" is the print's own artifact (both eBible and TRB) kept verbatim with gloss (Matt 24:29 precedent). The draft's KJV-voiced comma after \"life\" brought back to the print's \"all life and breath and all things\".",
-     "quote_kind": "seat"
+     "note": "Seat = the 1599 print modern-spelled over the draft Geneva span. \"heaue\" is the print's own artifact (both eBible and TRB) kept verbatim with gloss (Matt 24:29 precedent). The draft's KJV-voiced comma after \"life\" brought back to the print's \"all life and breath and all things\". [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-53",
@@ -9949,12 +9963,15 @@
      ],
      "status": "confirmed",
      "matched": "gnv",
-     "note": "Bullet quote swapped to the Geneva wording (“that Father of glory”) — the KJV-voiced “the Father of glory” is noted as the draft’s wording.",
+     "note": "Bullet quote swapped to the Geneva wording (“that Father of glory”) — the KJV-voiced “the Father of glory” is noted as the draft’s wording. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "gnv",
       "text": "That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,",
       "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     },
     {
@@ -10687,8 +10704,11 @@
      "cited_as": "F-preview: \"that ye might be filled with all the fullness of God\"",
      "quotes": [],
      "status": "prose-ref",
-     "note": "The 1599 prints 'that ye may be filled with all fulnesse of God' — the draft's 'might be filled' is KJV-voiced.",
-     "quote_kind": "reference"
+     "note": "The 1599 prints 'that ye may be filled with all fulnesse of God' — the draft's 'might be filled' is KJV-voiced. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "reference",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-62",
@@ -11979,11 +11999,14 @@
      "status": "confirmed",
      "matched_source": "nets",
      "ref_note": "",
-     "note": "Seat: NETS 23:20-21 both verses full (draft ellipses cover v20's tail \"ὅπως εἰσαγάγῃ σε εἰς τὴν γῆν, ἣν ἡτοίμασά σοι\" and the whole Greek/Geneva rows — dropped per seat shape). Draft Greek = wikisource Rahlfs verbatim for all quoted words (word-set 97%; only the ἐπ᾽ apostrophe token differs — Rahlfs prints ’). Rendering note: NETS \"my name is upon him\"; Geneva \"because my name is in him\"; draft's rendering \"My Name is in Him\" — all recorded; Geneva clause added attributed in the Observation.",
+     "note": "Seat: NETS 23:20-21 both verses full (draft ellipses cover v20's tail \"ὅπως εἰσαγάγῃ σε εἰς τὴν γῆν, ἣν ἡτοίμασά σοι\" and the whole Greek/Geneva rows — dropped per seat shape). Draft Greek = wikisource Rahlfs verbatim for all quoted words (word-set 97%; only the ἐπ᾽ apostrophe token differs — Rahlfs prints ’). Rendering note: NETS \"my name is upon him\"; Geneva \"because my name is in him\"; draft's rendering \"My Name is in Him\" — all recorded; Geneva clause added attributed in the Observation. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "nets",
       "text": "> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him."
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     },
     {
@@ -12067,8 +12090,11 @@
       "My Name is in Him"
      ],
      "status": "confirmed",
-     "note": "Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat (\"my name is upon him\") with the attributed Geneva clause noted.",
-     "matched_source": "gnv"
+     "note": "Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat (\"my name is upon him\") with the attributed Geneva clause noted. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "matched_source": "gnv",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-19",
@@ -14346,8 +14372,8 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+     "text": "In the beginning God made the sky and the earth.",
+     "source": "NETS cache (GEN ch1)"
     },
     "gnv": {
      "text": "In the beginning God created the heauen and the earth.",
@@ -14371,7 +14397,8 @@
      "result": "agree-by-Rahlfs-concurrence",
      "url": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)"
     }
-   }
+   },
+   "note": " [backfilled 13 Nov 2026: nets]"
   },
   {
    "id": "GEN.1.14",
@@ -14445,8 +14472,11 @@
      "cited_as": "OT Foundation — Genesis 1:2 LXX (NETS seat)",
      "quotes": [],
      "status": "seat",
-     "note": "Seat = NETS verbatim (\"a divine wind was being carried along over the water\") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his \"Spirit of God\" reading). Draft Greek + Geneva quote blocks dropped per seat shape.",
-     "quote_kind": "seat"
+     "note": "Seat = NETS verbatim (\"a divine wind was being carried along over the water\") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his \"Spirit of God\" reading). Draft Greek + Geneva quote blocks dropped per seat shape. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-56",
@@ -14619,8 +14649,8 @@
    "verified": "2026-11-07",
    "translations": {
     "nets": {
-     "text": "",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/01-gen-nets.pdf"
+     "text": "then God considered that he had made humankind on the earth, and he thought it over.",
+     "source": "NETS cache (GEN ch6)"
     },
     "gnv": {
      "text": "Againe God said, Let there be a firmament in the mids of the waters: and let it separate the waters from the waters.",
@@ -14636,7 +14666,8 @@
      "result": "agree-by-Rahlfs-concurrence",
      "url": "https://el.wikisource.org/wiki/Γένεσις_(Rahlfs)"
     }
-   }
+   },
+   "note": " [backfilled 13 Nov 2026: nets]"
   },
   {
    "id": "GEN.14.17",
@@ -15798,7 +15829,10 @@
       "text": "And Abraam said, “God will see to a sheep as a whole burnt offering for himself, child.” And as both walked on together",
       "reason": "Standing rule 1: OT seats NETS verbatim."
      },
-     "applied": "2026-11-10"
+     "applied": "2026-11-10",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026, confirmed)"
+     }
     }
    ],
    "verified": "2026-11-10",
@@ -16947,7 +16981,10 @@
      "applied": "2026-11-10",
      "flag": null,
      "seat": "...and I will shake all the nations, and the choice things of all the nations shall come, and I will fill this house with splendor, says the Lord Almighty.",
-     "seat_version": "nets"
+     "seat_version": "nets",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026, confirmed)"
+     }
     },
     {
      "section": "COS-19",
@@ -21348,12 +21385,15 @@
      ],
      "status": "confirmed",
      "matched": "nets",
-     "note": "The KJV-voiced phrase (besides Me there is no God) prints as the NETS wording at 44:6 (“besides me there is no god.”); the range re-cites the Confession seats (44:6/8/24; 45:5-6, 18, 21-23; 46:5, 9).",
+     "note": "The KJV-voiced phrase (besides Me there is no God) prints as the NETS wording at 44:6 (“besides me there is no god.”); the range re-cites the Confession seats (44:6/8/24; 45:5-6, 18, 21-23; 46:5, 9). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "nets",
       "text": "Thus says God, the king of Israel, who delivered him, God Sabaoth: I am first, and I am after these things; besides me there is no god.",
       "reason": "Audit re-lists seated witnesses; seat unchanged — NETS verbatim (Confession)."
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     },
     {
@@ -22474,7 +22514,7 @@
      "source": "NETS Isaiah cache (scraped NETS PDF masters, full ISA book)"
     },
     "gnv": {
-     "text": "",
+     "text": "Who will beleeue our report? and to whom is the arme of the Lord reueiled?",
      "source": "https://ebible.org/enggnv/ISA53.htm"
     }
    },
@@ -22485,7 +22525,7 @@
      "result": "verified 2026-11-11, coverage 1.00 (group seat)"
     }
    },
-   "note": ""
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "ISA.53.10",
@@ -23006,12 +23046,15 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "ref_note": "",
-     "note": "observation quotes KJV-voiced wording; NETS pre-bank (wave 13); italic in-line attribution awaits his word",
+     "note": "observation quotes KJV-voiced wording; NETS pre-bank (wave 13); italic in-line attribution awaits his word [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "gnv",
       "text": "",
       "reason": "use-upsert (pre-bank row; old text kept)"
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     }
    ],
@@ -23722,9 +23765,12 @@
      "article_line": 7118,
      "cited_as": "bullet — 'the Spirit of the LORD came upon Jephthah.' quoted",
      "status": "anchor",
-     "note": "the bullet's English is KJV-voiced; NETS prints the Iephthae verse.",
+     "note": "the bullet's English is KJV-voiced; NETS prints the Iephthae verse. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "quote_kind": "mention",
-     "matched_source": "net"
+     "matched_source": "net",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -25743,8 +25789,11 @@
       "I and the Father are one"
      ],
      "status": "prose-ref",
-     "note": "Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution.",
-     "quote_kind": "mention"
+     "note": "Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "mention",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-89",
@@ -26382,7 +26431,10 @@
      ],
      "status": "differs-minor",
      "matched_source": "",
-     "note": "The Isa 52 observation (2) quotes the working-wording \"And I, if I be lifted up, will draw all unto Me\" — KJV-voiced. Geneva reads \"were lift up\" and \"all men\" — flag: prose attribution proposal, awaiting Gideon."
+     "note": "The Isa 52 observation (2) quotes the working-wording \"And I, if I be lifted up, will draw all unto Me\" — KJV-voiced. Geneva reads \"were lift up\" and \"all men\" — flag: prose attribution proposal, awaiting Gideon. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -27425,8 +27477,11 @@
      "cited_as": "F-preview: \"We will come unto him, and make Our abode with him\"",
      "quotes": [],
      "status": "prose-ref",
-     "note": "F-preview quote is KJV-voiced; the 1599 prints \"we wil come vnto him, and wil dwell with him\".",
-     "quote_kind": "reference"
+     "note": "F-preview quote is KJV-voiced; the 1599 prints \"we wil come vnto him, and wil dwell with him\". [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "reference",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-59",
@@ -27434,8 +27489,11 @@
      "article_line": 7425,
      "cited_as": "KJV-voiced prose quote — standing wave-26 attribution flag",
      "status": "prose-ref",
-     "note": "the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon",
-     "quote_kind": "mention"
+     "note": "the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "mention",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-60",
@@ -28646,8 +28704,11 @@
      "cited_as": "\"that they all may be one\" cross-ref",
      "quotes": [],
      "status": "prose-ref",
-     "note": "Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced.",
-     "quote_kind": "reference"
+     "note": "Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "reference",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-55",
@@ -28667,7 +28728,10 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention",
-     "note": "the beauty-of-Acts-2:33 observation quotes the prayer KJV-voiced; flag updated."
+     "note": "the beauty-of-Acts-2:33 observation quotes the prayer KJV-voiced; flag updated. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-59",
@@ -28675,8 +28739,11 @@
      "article_line": 7427,
      "cited_as": "KJV-voiced prose quote — standing wave-26 attribution flag",
      "status": "prose-ref",
-     "note": "the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon",
-     "quote_kind": "mention"
+     "note": "the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "mention",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-60",
@@ -28869,7 +28936,10 @@
      ],
      "status": "confirmed",
      "matched_source": "gnv",
-     "note": "Draft read KJV-voiced 'thou hast loved me'; seat prints the Geneva's 'thou louedst me' (modern orthography: lovedst)."
+     "note": "Draft read KJV-voiced 'thou hast loved me'; seat prints the Geneva's 'thou louedst me' (modern orthography: lovedst). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-62",
@@ -29214,7 +29284,10 @@
      ],
      "status": "prose-ref",
      "quote_kind": "prose-quote",
-     "note": "Under-Our-Framework bullet quotes the prayer KJV-voiced (\"the only true God\" vs the 1599 \"the onely very God\") — flag (33) scope WIDENED to this line, awaiting Gideon"
+     "note": "Under-Our-Framework bullet quotes the prayer KJV-voiced (\"the only true God\" vs the 1599 \"the onely very God\") — flag (33) scope WIDENED to this line, awaiting Gideon [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-95",
@@ -33053,9 +33126,8 @@
      "source": "NETS Joel (Oxford PDF master 32-twelve.pdf pdf-p25 / print p802, running head ioel 2-3; verse mark 28; Joel NOT in the nets_cache — print dump banked)"
     },
     "gnv": {
-     "text": "",
-     "source": "ebible.org/enggnv/JOL02.htm (local editions cache)",
-     "date": "2026-11-12"
+     "text": "And afterward will I powre out my Spirit vpon all flesh: and your sonnes and your daughters shall prophecie: your olde men shall dreame dreames, and your yong men shall see visions,",
+     "source": "https://ebible.org/enggnv/JOL02.htm"
     }
    },
    "second_check": {},
@@ -33070,7 +33142,10 @@
      ],
      "status": "confirmed",
      "quote_kind": "blockquote",
-     "note": "NETS seat over the draft’s internal ellipsis (his Greek span covers the pour-out clause and 3:2(2:29); the sons/daughters/old-men/young-men clause is his own ellipsis). Draft Greek + Geneva OT blocks dropped per seat shape (wave-15 Daniel class). The clause-3 prose echo “I will pour out My Spirit” is KJV-voiced."
+     "note": "NETS seat over the draft’s internal ellipsis (his Greek span covers the pour-out clause and 3:2(2:29); the sons/daughters/old-men/young-men clause is his own ellipsis). Draft Greek + Geneva OT blocks dropped per seat shape (wave-15 Daniel class). The clause-3 prose echo “I will pour out My Spirit” is KJV-voiced. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-58",
@@ -33101,7 +33176,8 @@
     "detail": "Clause-3 prose quotes “I will pour out My Spirit” — the NETS print reads “I will pour out of my spirit” and the 1599 “I wil powre out my Spirite vpon all flesh” wording; the echo is KJV-voiced. Propose the italic version-name in line or leave as prose echo — his word.",
     "awaiting": "Gideon"
    },
-   "diff_notes": "BOTH-MAPS: NETS/MT-numbering 2:28 == traditional LXX 3:1 (Rahlfs numbers the pour-out chapter 3); the draft labels it “Joel 3:1-2 LXX (= Joel 2:28-29 MT)”. NETS prints “of my spirit on all flesh” vs LXX ἐκχεῶ ἀπὸ τοῦ Πνεύματός μου ἐπὶ πᾶσαν σάρκα."
+   "diff_notes": "BOTH-MAPS: NETS/MT-numbering 2:28 == traditional LXX 3:1 (Rahlfs numbers the pour-out chapter 3); the draft labels it “Joel 3:1-2 LXX (= Joel 2:28-29 MT)”. NETS prints “of my spirit on all flesh” vs LXX ἐκχεῶ ἀπὸ τοῦ Πνεύματός μου ἐπὶ πᾶσαν σάρκα.",
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "JOE.2.29",
@@ -33113,9 +33189,8 @@
      "source": "NETS Joel (Oxford PDF master 32-twelve.pdf pdf-p25 / print p802, running head ioel 2-3; verse mark 29; Joel NOT in the nets_cache — print dump banked)"
     },
     "gnv": {
-     "text": "",
-     "source": "ebible.org/enggnv/JOL02.htm (local editions cache)",
-     "date": "2026-11-12"
+     "text": "And also vpon the seruants, and vpon the maydes in those dayes wil I powre my Spirit.",
+     "source": "https://ebible.org/enggnv/JOL02.htm"
     }
    },
    "second_check": {},
@@ -33146,7 +33221,8 @@
      "matched_source": "net"
     }
    ],
-   "diff_notes": "BOTH-MAPS: NETS/MT 2:29 == traditional LXX 3:2; NETS “Even on the male and female slaves” vs LXX καί γε ἐπὶ τοὺς δούλους."
+   "diff_notes": "BOTH-MAPS: NETS/MT 2:29 == traditional LXX 3:2; NETS “Even on the male and female slaves” vs LXX καί γε ἐπὶ τοὺς δούλους.",
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "JOE.2.31",
@@ -34525,7 +34601,10 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention",
-     "note": "the observation fragment “behold, I send the promise of My Father upon you” is KJV-voiced (1599 reads “And beholde, I doe sende the promise of my Father vpon you:”)."
+     "note": "the observation fragment “behold, I send the promise of My Father upon you” is KJV-voiced (1599 reads “And beholde, I doe sende the promise of my Father vpon you:”). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "flag": {
@@ -34670,8 +34749,11 @@
      "cited_as": "Anointing observation — \"Luke 4:14 — 'And Jesus returned in the power of the Spirit.'\" (mention)",
      "quotes": [],
      "status": "anchor",
-     "note": "Draft fragment is KJV-voiced (\"in the power\" vs the 1599 \"by the power\"; \"into Galilee\" also dropped).",
-     "quote_kind": "reference"
+     "note": "Draft fragment is KJV-voiced (\"in the power\" vs the 1599 \"by the power\"; \"into Galilee\" also dropped). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "reference",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-58",
@@ -35053,11 +35135,12 @@
    "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
-     "source": ""
+     "text": "But of that day and houre knoweth no man, no, not the Angels which are in heauen, neither the Sonne himselfe, but the Father.",
+     "source": "https://ebible.org/enggnv/MRK13.htm"
     }
    },
-   "second_check": {}
+   "second_check": {},
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "MAT.1.21",
@@ -35489,7 +35572,10 @@
       "text": "Saying, Where is that King of the Jews that is born? for wee have seene his star in the East, and are come to worship him.",
       "reason": "Standing rule: NT seats Geneva verbatim."
      },
-     "applied": "2026-11-10"
+     "applied": "2026-11-10",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026, confirmed)"
+     }
     },
     {
      "section": "COS-19",
@@ -36302,11 +36388,14 @@
      "article_line": 4820,
      "cited_as": "ellipsis-seat 31-34 span; \"ye king\"→\"the King\"; \"my father\"→\"my Father\" cap fold",
      "status": "confirmed",
-     "note": "draft v34 was KJV-voiced (\"inherit the kingdom...\"); seat brings GNV verbatim \"take the inheritance of the kingdome...\"",
+     "note": "draft v34 was KJV-voiced (\"inherit the kingdom...\"); seat brings GNV verbatim \"take the inheritance of the kingdome...\" [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "quote_kind": "blockquote",
      "quotes": [
       "> And when the Son of man cometh in his glory, and all the holy Angels with him, then shall he sit upon the throne of his glory, and before him shall be gathered all nations, and he shall separate them one from another, as a shepherd separateth the sheep from the goats. And he shall set the sheep on his right hand, and the goats on the left. Then shall the King say to them on his right hand, Come ye blessed of my Father: take the inheritance of the kingdom prepared for you from the foundation of the world."
-     ]
+     ],
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-63",
@@ -37318,8 +37407,11 @@
      "cited_as": "Matthew 28:19-20 seat (canon 12584)",
      "quotes": [],
      "status": "confirmed",
-     "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde",
-     "quote_kind": "seat"
+     "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-92",
@@ -37404,8 +37496,11 @@
      "cited_as": "Matthew 28:19-20 seat (canon 12584)",
      "quotes": [],
      "status": "confirmed",
-     "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde",
-     "quote_kind": "seat"
+     "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-103",
@@ -37535,7 +37630,10 @@
       "text": "And loe, a voyce came from heaven, saying, This is my beloved Son, in whom I am well pleased.",
       "reason": "Standing rule: NT seats Geneva verbatim."
      },
-     "applied": "2026-11-10"
+     "applied": "2026-11-10",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026, confirmed)"
+     }
     },
     {
      "section": "COS-19",
@@ -39912,11 +40010,12 @@
    "verified": "2026-11-11",
    "translations": {
     "nets": {
-     "text": "",
-     "source": "https://ccat.sas.upenn.edu/nets/edition/04-num-nets.pdf"
+     "text": "Take the rod, and hold an assembly of the congregation, you and your brother Aaron, and speak to the rock before them, and it shall give forth its waters. And you shall bring water out from the rock for them, and you shall provide drink for the congregation and their animals. 9 A",
+     "source": "NETS 04-num.pdf page-dump (chapter 20)"
     }
    },
-   "second_check": {}
+   "second_check": {},
+   "note": " [backfilled 13 Nov 2026: nets]"
   },
   {
    "id": "NUM.24.17",
@@ -41389,11 +41488,14 @@
      "status": "differs-significant",
      "matched_source": "nets",
      "ref_note": "",
-     "note": "NETS: \"I brought you forth\" (ἐγέννησά σε); Brenton renders \"I have begotten thee\" — Brenton clause attributed in the note (his begotten observation load-bearing). Geneva follows the Hebrew here (110:3) — noted inline, per translation-addition rule.",
+     "note": "NETS: \"I brought you forth\" (ἐγέννησά σε); Brenton renders \"I have begotten thee\" — Brenton clause attributed in the note (his begotten observation load-bearing). Geneva follows the Hebrew here (110:3) — noted inline, per translation-addition rule. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "nets",
       "text": "With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth."
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     },
     {
@@ -41406,7 +41508,10 @@
       "From the womb, before the morning star, I have begotten Thee."
      ],
      "status": "confirmed",
-     "note": "Prose echo renders the Brenton-family wording (\"before the morning star\"); attribution \"LXX\" already in his line. The Wave-2 COS-04 seat (NETS Greek) stands. Les/Swete rows unchanged."
+     "note": "Prose echo renders the Brenton-family wording (\"before the morning star\"); attribution \"LXX\" already in his line. The Wave-2 COS-04 seat (NETS Greek) stands. Les/Swete rows unchanged. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-10",
@@ -41553,11 +41658,14 @@
      "status": "confirmed",
      "matched_source": "nets",
      "ref_note": "",
-     "note": "NETS \"Seize upon instruction\"; Geneva \"Kiss the Son\" retained in the note as attributed Hebrew-family wording (translation-addition rule).",
+     "note": "NETS \"Seize upon instruction\"; Geneva \"Kiss the Son\" retained in the note as attributed Hebrew-family wording (translation-addition rule). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "nets",
       "text": "Seize upon instruction *(grasp discipline)*, lest the Lord be angry, and you will perish from the righteous way, when his anger quickly blazes out. Happy are all who trust in him."
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     }
    ],
@@ -41882,12 +41990,15 @@
       "\"From the womb, before the morning star, I have begotten Thee\""
      ],
      "status": "differs-minor",
-     "note": "Draft quote is Brenton-voiced (word-order re-set). Seat: NETS verbatim \"From the womb, before Morning-star, I brought you forth\" with Brenton recourse attributed (Brenton base text reads \"I have begotten thee from the womb before the morning\"). NETS footnote marker d (Or: be) after \"is\" removed as apparatus, not text.",
+     "note": "Draft quote is Brenton-voiced (word-order re-set). Seat: NETS verbatim \"From the womb, before Morning-star, I brought you forth\" with Brenton recourse attributed (Brenton base text reads \"I have begotten thee from the womb before the morning\"). NETS footnote marker d (Or: be) after \"is\" removed as apparatus, not text. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "seat",
       "version": "nets",
       "text": "With you is rule on a day of your power among the splendors of the holy ones. From the womb, before Morning-star, I brought you forth.",
       "reason": "Translation-addition rule: NETS prints verbatim at the seat; Brenton kept as the attributed second recourse covering the draft voicing."
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     },
     {
@@ -42899,7 +43010,10 @@
      ],
      "status": "confirmed",
      "matched_source": "nets",
-     "note": "NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: \"host\" vs \"all their host\"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings)."
+     "note": "NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: \"host\" vs \"all their host\"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-91",
@@ -42983,8 +43097,8 @@
    "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
-     "source": ""
+     "text": "And now Lord, what wait I for? mine hope is euen in thee.",
+     "source": "https://ebible.org/enggnv/PSA39.htm"
     },
     "nets": {
      "text": "Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request.",
@@ -42996,7 +43110,8 @@
     "kind": "needs-authorization",
     "detail": "draft observation contrasts LXX \"body\" vs Hebrew \"ears\"; the named NETS prints \"ears\" at Ps 39:7(6) per Rahlfs — awaiting word on any in-line note",
     "awaiting": "Gideon"
-   }
+   },
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "PSA.39.8",
@@ -43024,8 +43139,8 @@
    "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
-     "source": ""
+     "text": "Deliuer me from all my transgressions, and make me not a rebuke vnto the foolish.",
+     "source": "https://ebible.org/enggnv/PSA39.htm"
     },
     "nets": {
      "text": "Then I said, “Look, I have come; in a scroll of a book it is written of me.",
@@ -43037,7 +43152,8 @@
     "kind": "needs-authorization",
     "detail": "draft observation contrasts LXX \"body\" vs Hebrew \"ears\"; the named NETS prints \"ears\" at Ps 39:7(6) per Rahlfs — awaiting word on any in-line note",
     "awaiting": "Gideon"
-   }
+   },
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "PSA.39.9",
@@ -43065,8 +43181,8 @@
    "verified": "2026-11-11",
    "translations": {
     "gnv": {
-     "text": "",
-     "source": ""
+     "text": "I should haue bene dumme, and not haue opened my mouth, because thou didest it.",
+     "source": "https://ebible.org/enggnv/PSA39.htm"
     },
     "nets": {
      "text": "To do your will, O my God, I desired— and your law, within my belly.”",
@@ -43078,7 +43194,8 @@
     "kind": "needs-authorization",
     "detail": "draft observation contrasts LXX \"body\" vs Hebrew \"ears\"; the named NETS prints \"ears\" at Ps 39:7(6) per Rahlfs — awaiting word on any in-line note",
     "awaiting": "Gideon"
-   }
+   },
+   "note": " [backfilled 13 Nov 2026: gnv]"
   },
   {
    "id": "PSA.51.11",
@@ -44456,7 +44573,10 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention",
-     "note": "COS-44 church-title table anchor (Ephesus row title-carrier, table kept verbatim per his word); the table’s KJV-voiced cell \"He that holdeth... who walketh\" carries the Geneva’s \"and walketh\"."
+     "note": "COS-44 church-title table anchor (Ephesus row title-carrier, table kept verbatim per his word); the table’s KJV-voiced cell \"He that holdeth... who walketh\" carries the Geneva’s \"and walketh\". [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -44516,7 +44636,10 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "mention",
-     "note": "COS-44 church-title table anchor (Thyatira row title-carrier); cell \"The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass\" is KJV-voiced vs the Geneva \"which hath his eyes like unto a flame of fire, and his feete like fine brasse\" — table kept verbatim per his word."
+     "note": "COS-44 church-title table anchor (Thyatira row title-carrier); cell \"The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass\" is KJV-voiced vs the Geneva \"which hath his eyes like unto a flame of fire, and his feete like fine brasse\" — table kept verbatim per his word. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-52",
@@ -44828,8 +44951,11 @@
       "(D) seat — Geneva modern-spelled; see polish seat"
      ],
      "status": "confirmed",
-     "note": "Seat 21:5-7 full span; draft reads KJV-voiced 'for these things are' where the 1599 prints 'for these wordes are' — seat prints the 1599 (recorded).",
-     "quote_kind": "blockquote"
+     "note": "Seat 21:5-7 full span; draft reads KJV-voiced 'for these things are' where the 1599 prints 'for these wordes are' — seat prints the 1599 (recorded). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "blockquote",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -47826,7 +47952,10 @@
      "quotes": [],
      "status": "confirmed",
      "quote_kind": "seat",
-     "note": "POINT-10 span seat — the 1599 print agrees with the draft at modern spelling; the KJV-voiced residue is the canon-8884 Point-5 observation quote only"
+     "note": "POINT-10 span seat — the 1599 print agrees with the draft at modern spelling; the KJV-voiced residue is the canon-8884 Point-5 observation quote only [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-66",
@@ -48913,11 +49042,14 @@
      "status": "prose-ref",
      "matched_source": "gnv",
      "ref_note": "",
-     "note": "Prose echo (canon line 1335, Next-Step bullet) — no seat. Quote = Geneva/KJV-family wording (\"they shall look upon me, whom they haue pearced\"); NETS Zechariah NOT verifiable: the Twelve cache walk is Malachi-junk and Zech pages are not yet walked. Prose left untouched (no attribution added) — flagged for the coming Psalm 22 / Isaiah 53 wave, which will seat Zech in NETS.",
+     "note": "Prose echo (canon line 1335, Next-Step bullet) — no seat. Quote = Geneva/KJV-family wording (\"they shall look upon me, whom they haue pearced\"); NETS Zechariah NOT verifiable: the Twelve cache walk is Malachi-junk and Zech pages are not yet walked. Prose left untouched (no attribution added) — flagged for the coming Psalm 22 / Isaiah 53 wave, which will seat Zech in NETS. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
      "adjudication": {
       "ruling": "paraphrase",
       "version": "gnv",
       "text": ""
+     },
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
      }
     },
     {
@@ -50973,7 +51105,10 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference",
-     "note": "POINT-9 observation quotes \"a man shall cleave to his wife, and they shall be one flesh\" under its \"Gen 2:24 LXX\" label — quote is KJV-voiced (Geneva prints \"shall be joined\"); NETS banked; flag raised"
+     "note": "POINT-9 observation quotes \"a man shall cleave to his wife, and they shall be one flesh\" under its \"Gen 2:24 LXX\" label — quote is KJV-voiced (Geneva prints \"shall be joined\"); NETS banked; flag raised [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -54240,8 +54375,11 @@
      "cited_as": "THE CONTEXT prose quote of Rom 5:20-21 (canon 10003)",
      "quotes": [],
      "status": "anchor",
-     "note": "paraphrase + KJV-voiced quote flagged",
-     "quote_kind": "anchor"
+     "note": "paraphrase + KJV-voiced quote flagged [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "anchor",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -54860,8 +54998,11 @@
       "> O wretched man that I am, who shall deliver me from the body of this death!"
      ],
      "status": "confirmed",
-     "note": "1599 print: \"the body of this death!\" + exclamation mark; draft KJV-voiced \"this body of death?\" — print seated verbatim (eBible==TRB).",
-     "quote_kind": "seat"
+     "note": "1599 print: \"the body of this death!\" + exclamation mark; draft KJV-voiced \"this body of death?\" — print seated verbatim (eBible==TRB). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "second_check": {
@@ -55500,8 +55641,11 @@
       "> And be not drunk with wine, wherein is excess: but be fulfilled *(filled)* with the Spirit,"
      ],
      "status": "confirmed",
-     "note": "1599 prints \"be fulfilled with the Spirit\" (= filled; eBible==TRB both); draft KJV-voiced \"filled\" — print seated + *(filled)* gloss.",
-     "quote_kind": "seat"
+     "note": "1599 prints \"be fulfilled with the Spirit\" (= filled; eBible==TRB both); draft KJV-voiced \"filled\" — print seated + *(filled)* gloss. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-77",
@@ -58196,8 +58340,11 @@
       "In all thy ways acknowledge him, and he shall direct thy paths"
      ],
      "status": "prose-ref",
-     "note": "flag below — the quote tail is KJV-voiced; the 1599 prints \"he shall direct thy wayes\" (twice).",
-     "quote_kind": "reference"
+     "note": "flag below — the quote tail is KJV-voiced; the 1599 prints \"he shall direct thy wayes\" (twice). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "reference",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -59669,8 +59816,11 @@
       "let a man examine himself."
      ],
      "status": "prose-ref",
-     "note": "KJV-voiced: the 1599 prints \"Let euery man therefore examine himselfe\"; \"let a man examine himself\" is exact KJV wording. Row flag holds this for the italic-attribution/re-voice ruling.",
-     "quote_kind": "reference"
+     "note": "KJV-voiced: the 1599 prints \"Let euery man therefore examine himselfe\"; \"let a man examine himself\" is exact KJV wording. Row flag holds this for the italic-attribution/re-voice ruling. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "reference",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -61999,8 +62149,11 @@
      ],
      "status": "prose-ref",
      "quote_kind": "mention",
-     "note": "draft prose quote \"Father, into Thy hands I commend My spirit\" is KJV-voiced; GNV print: \"into thine hands\"",
-     "matched_source": "gnv"
+     "note": "draft prose quote \"Father, into Thy hands I commend My spirit\" is KJV-voiced; GNV print: \"into thine hands\" [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "matched_source": "gnv",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -63009,7 +63162,10 @@
      ],
      "status": "confirmed",
      "quote_kind": "seat",
-     "note": "1CO 15 selections seat (per-verse; ONE WORD-FORM SPLICE: draft KJV-voiced \"earthy\" -> the 1599 print \"earthly\")"
+     "note": "1CO 15 selections seat (per-verse; ONE WORD-FORM SPLICE: draft KJV-voiced \"earthy\" -> the 1599 print \"earthly\") [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-90",
@@ -63443,8 +63599,11 @@
       "Thou art not yet fifty years old, and hast thou seen Abraham?"
      ],
      "status": "anchor",
-     "note": "PASSAGE B context (v. 57) — the echo is KJV-voiced: the 1599 prints \"Then sayd ye Iewes vnto him, Thou art not yet fiftie yeere olde...\" (article-ye, fiftie yeere olde); flagged below",
-     "quote_kind": "prose-ref"
+     "note": "PASSAGE B context (v. 57) — the echo is KJV-voiced: the 1599 prints \"Then sayd ye Iewes vnto him, Thou art not yet fiftie yeere olde...\" (article-ye, fiftie yeere olde); flagged below [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "prose-ref",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": {
@@ -63689,7 +63848,10 @@
      ],
      "status": "confirmed",
      "quote_kind": "seat",
-     "note": "W66 ADDED full-verse seat (the draft carried no Geneva line; the specified NT translation prints per the translation-addition rule, 10 Nov 2026). PRINT FACTS: the 1599 reads \"which is, God is manifested in the flesh\" (present tense + -ed) and ends \"and received up in glory.\" (no \"into\") — the draft's KJV-voiced quotes render it \"God was manifest in the flesh ... received up into glory.\""
+     "note": "W66 ADDED full-verse seat (the draft carried no Geneva line; the specified NT translation prints per the translation-addition rule, 10 Nov 2026). PRINT FACTS: the 1599 reads \"which is, God is manifested in the flesh\" (present tense + -ed) and ends \"and received up in glory.\" (no \"into\") — the draft's KJV-voiced quotes render it \"God was manifest in the flesh ... received up into glory.\" [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-100",
@@ -64472,8 +64634,11 @@
       "*\"...Thomas, because thou hast seen me, thou believest: blessed are they that have not seen, and have believed.\"*"
      ],
      "status": "confirmed",
-     "note": "W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced \"thou hast believed\" under its 1599-Geneva label; the 1599 print (EB==TRB) reads \"thou beleeuest\" — seated \"thou believest\" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers \"Iesus said vnto him,\"",
-     "quote_kind": "seat"
+     "note": "W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced \"thou hast believed\" under its 1599-Geneva label; the 1599 print (EB==TRB) reads \"thou beleeuest\" — seated \"thou believest\" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers \"Iesus said vnto him,\" [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "quote_kind": "seat",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "second_check": {
@@ -64504,7 +64669,10 @@
      ],
      "status": "prose-ref",
      "quote_kind": "prose-quote",
-     "note": "\"Hebrews 1:9 immediately clarifies\" prose quote — the print at folds EXCEPT \"therefore\" vs the 1599 \"Wherefore\" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored"
+     "note": "\"Hebrews 1:9 immediately clarifies\" prose quote — the print at folds EXCEPT \"therefore\" vs the 1599 \"Wherefore\" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     },
     {
      "section": "COS-96",
@@ -65098,7 +65266,10 @@
      ],
      "status": "prose-ref",
      "quote_kind": "reference",
-     "note": "Part-Two Body section embeds the verse KJV-voiced (\"until we all come in the unity of the faith...\")"
+     "note": "Part-Two Body section embeds the verse KJV-voiced (\"until we all come in the unity of the faith...\") [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -65562,7 +65733,10 @@
      ],
      "status": "confirmed",
      "quote_kind": "seat",
-     "note": "SPLICE: the 1599 print reads \"the marriage of THAT Lamb\" (draft \"the Lamb\" KJV-voiced) — seat = print; leading ellipsis honored"
+     "note": "SPLICE: the 1599 print reads \"the marriage of THAT Lamb\" (draft \"the Lamb\" KJV-voiced) — seat = print; leading ellipsis honored [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: \"…\")* is printed; ruling class applied.",
+     "rulings": {
+      "kv-echo": "KEEP (13 Nov 2026)"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -66893,6 +67067,9 @@
   },
   "so_far_words": 140565,
   "cos_sofar": "waves 69",
-  "glossary": 1433
+  "glossary": 1433,
+  "rulings": {
+   "geneva-styling": "MODERN-IZED spelling in seat blocks with italic-parenthesis glosses (Gideon 13 Nov 2026) — confirmed as printed"
+  }
  }
 }

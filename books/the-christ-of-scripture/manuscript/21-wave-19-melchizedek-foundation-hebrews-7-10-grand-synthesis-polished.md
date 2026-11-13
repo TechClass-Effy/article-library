@@ -115,7 +115,7 @@ Observe the critical preposition: **δι᾽ αὐτοῦ τῷ Θεῷ** — *"t
 
 ### Observations
 
-**(1)** The Son is **holy, harmless, undefiled, separated from sinners** — fulfilling Isa 53:9 (*"He had done no violence, neither was any deceit in His mouth"*).
+**(1)** The Son is **holy, harmless, undefiled, separated from sinners** — fulfilling Isa 53:9 (*"He had done no violence, neither was any deceit in His mouth"* — the NETS print reads, "though he had done no wickedness, neither was any deceit in his mouth").
 
 **(2)** **τοῦτο γὰρ ἐποίησεν ἐφάπαξ** — *"this He did once for all."* The Son's sacrifice of Himself is **once for all** — never to be repeated. This will become a key theme of chapter 10.
 

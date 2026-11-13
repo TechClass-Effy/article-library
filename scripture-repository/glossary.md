@@ -668,7 +668,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Genesis 1:1 — ANCHOR
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “In the beginning God made the sky and the earth.”
 - **Brenton LXX:** “In the beginning God made the heaven and the earth.”
 - **Geneva 1599:** “In the beginning God created the heauen and the earth.”
 - **Ruling — SEAT:** 
@@ -685,7 +685,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Genesis 1:6 — ANCHOR
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “then God considered that he had made humankind on the earth, and he thought it over.”
 - **Geneva 1599:** “Againe God said, Let there be a firmament in the mids of the waters: and let it separate the waters from the waters.”
 - **Ruling — SEAT:** 
 - *Checked 2026-11-07 · editions fetched: gnv, greek_swete, nets*
@@ -1723,7 +1723,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Numbers 20:8 — ANCHOR
 *cited as: chapter ref (Ex 17 / Num 20)*
-- **NETS (Septuagint, modern):** “”
+- **NETS (Septuagint, modern):** “Take the rod, and hold an assembly of the congregation, you and your brother Aaron, and speak to the rock before them, and it shall give forth its waters. And you shall bring water out from the rock for them, and you shall provide drink for the congregation and their animals. 9 A”
 - *Note:* Rock at Meribah — anchor for the "(Ex 17 / Num 20)" cite; cache for Numbers not yet parsed (open backfill flag).
 - *Checked 2026-11-11 · editions fetched: nets*
 
@@ -1731,7 +1731,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: prose quoted clause "My Name is in Him"*
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
-- *Note:* Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat ("my name is upon him") with the attributed Geneva clause noted.
+- *Note:* Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat ("my name is upon him") with the attributed Geneva clause noted. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
@@ -2020,7 +2020,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### PS 109 3 — CONFIRMED
 *cited as: prose quoted clause "From the womb, before the morning star, I have begotten Thee." (Psalm 109:3 LXX)*
 - **NETS (Septuagint, modern):** “With you is rule *(dominion)* on a day of your power among the splendors of the holy ones. From the womb, before Morning-star *(the morning star)*, I brought you forth.”
-- *Note:* Prose echo renders the Brenton-family wording ("before the morning star"); attribution "LXX" already in his line. The Wave-2 COS-04 seat (NETS Greek) stands. Les/Swete rows unchanged.
+- *Note:* Prose echo renders the Brenton-family wording ("before the morning star"); attribution "LXX" already in his line. The Wave-2 COS-04 seat (NETS Greek) stands. Les/Swete rows unchanged. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-10 · editions fetched: nets*
 
 ### MIC 5 2 — CONFIRMED
@@ -2365,7 +2365,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “By the word of the Lord the heavens were made firm, and by the breath of his mouth all their host”
 - **Brenton LXX:** “By the word of the Lord the heavens were established; and all the host of them by the breath of his mouth.”
 - **Geneva 1599:** “By the worde of the Lord were the heauens made, and all the hoste of them by the breath of his mouth.”
-- *Note:* NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: "host" vs "all their host"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings).
+- *Note:* NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: "host" vs "all their host"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_swete, nets*
 - *Double-checked (second source): nets ✓*
 
@@ -2586,7 +2586,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 17:24 — CONFIRMED
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
 - **Geneva 1599:** “Father, I will that they which thou hast giuen me, be with me euen where I am, that they may beholde that my glorie, which thou hast giuen mee: for thou louedst me before the foundation of the world.”
-- *Note:* Draft read KJV-voiced 'thou hast loved me'; seat prints the Geneva's 'thou louedst me' (modern orthography: lovedst).
+- *Note:* Draft read KJV-voiced 'thou hast loved me'; seat prints the Geneva's 'thou louedst me' (modern orthography: lovedst). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96 · trb_fresh ✓ · greek_biblehub ✓*
 
@@ -2963,7 +2963,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 12:32 — DIFFERS (MINOR)
 *cited as: observation prose quote (KJV-voiced) — attribution flag*
 - **Geneva 1599:** “And I, if I were lift vp from the earth, will drawe all men vnto me.”
-- **Flag:** The Isa 52 observation (2) quotes the working-wording "And I, if I be lifted up, will draw all unto Me" — KJV-voiced. Geneva reads "were lift up" and "all men" — flag: prose attribution proposal, awaiting Gideon.
+- **Flag:** The Isa 52 observation (2) quotes the working-wording "And I, if I be lifted up, will draw all unto Me" — KJV-voiced. Geneva reads "were lift up" and "all men" — flag: prose attribution proposal, awaiting Gideon. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): gnv — prose wording is not Geneva; flag recorded*
 
@@ -2991,7 +2991,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Isaiah 53:1 — CONFIRMED
 *cited as: Isaiah 53:1 — NETS verbatim seat*
 - **NETS (Septuagint, modern):** “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “Who will beleeue our report? and to whom is the arme of the Lord reueiled?”
 - *Note:* NETS numbering = MT for Isaiah (no offset in these chapters).
 - *Checked 2026-11-11 · editions fetched: gnv, nets*
 - *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
@@ -4812,7 +4812,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### PSA 39 7 — CONFIRMED
 *cited as: NETS seat; Geneva MT-recourse*
 - **NETS (Septuagint, modern):** “Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “And now Lord, what wait I for? mine hope is euen in thee.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Sacrifice and offering you did not want, but ears you fashio”
   (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
 - *Checked 2026-11-11 · editions fetched: gnv, nets*
@@ -4820,7 +4820,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### PSA 39 8 — CONFIRMED
 *cited as: NETS seat; Geneva MT-recourse*
 - **NETS (Septuagint, modern):** “Then I said, “Look, I have come; in a scroll of a book it is written of me.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “Deliuer me from all my transgressions, and make me not a rebuke vnto the foolish.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Then I said, “Look, I have come; in a scroll of a book it is”
   (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
 - *Checked 2026-11-11 · editions fetched: gnv, nets*
@@ -4828,7 +4828,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### PSA 39 9 — CONFIRMED
 *cited as: NETS seat; Geneva MT-recourse*
 - **NETS (Septuagint, modern):** “To do your will, O my God, I desired— and your law, within my belly.””
-- **Geneva 1599:** “”
+- **Geneva 1599:** “I should haue bene dumme, and not haue opened my mouth, because thou didest it.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “To do your will, O my God, I desired— and your law, within m”
   (specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape))
 - *Checked 2026-11-11 · editions fetched: gnv, nets*
@@ -4882,7 +4882,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### MAR 13 32 — CONFIRMED
 *cited as: synthesis table*
-- **Geneva 1599:** “”
+- **Geneva 1599:** “But of that day and houre knoweth no man, no, not the Angels which are in heauen, neither the Sonne himselfe, but the Father.”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
 - *Checked 2026-11-11 · editions fetched: gnv*
 
@@ -5132,7 +5132,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 10:30 — PROSE-REF
 *cited as: mention (observation prose quote)*
 - **Geneva 1599:** “I and my Father are one.”
-- *Note:* Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution.
+- *Note:* Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 
 ### Zechariah 14:3 — CONFIRMED
@@ -5355,7 +5355,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Matthew 25:34 — CONFIRMED
 *cited as: ellipsis-seat 31-34 span; "ye king"→"the King"; "my father"→"my Father" cap fold*
 - **Geneva 1599:** “Then shall ye king say to them on his right hand, Come ye blessed of my father: take the inheritance of the kingdome prepared for you from the foundation of the world.”
-- *Note:* draft v34 was KJV-voiced ("inherit the kingdom..."); seat brings GNV verbatim "take the inheritance of the kingdome..."
+- *Note:* draft v34 was KJV-voiced ("inherit the kingdom..."); seat brings GNV verbatim "take the inheritance of the kingdome..." [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
 
 ### John 5:22 — CONFIRMED
@@ -6308,7 +6308,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Revelation 2:1 — PROSE-REF
 *cited as: *
 - **Geneva 1599:** “VNto the Angel of the Church of Ephesus write, These things saieth he that holdeth the seuen starres in his right hand, and walketh in the middes of the seuen golden candlestickes.”
-- *Note:* COS-44 church-title table anchor (Ephesus row title-carrier, table kept verbatim per his word); the table’s KJV-voiced cell "He that holdeth... who walketh" carries the Geneva’s "and walketh".
+- *Note:* COS-44 church-title table anchor (Ephesus row title-carrier, table kept verbatim per his word); the table’s KJV-voiced cell "He that holdeth... who walketh" carries the Geneva’s "and walketh". [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
@@ -6322,7 +6322,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Revelation 2:18 — PROSE-REF
 *cited as: *
 - **Geneva 1599:** “And vnto ye Angel of the Church which is at Thyatira write, These things saith the Sonne of God, which hath his eyes like vnto a flame of fire, and his feete like fine brasse.”
-- *Note:* COS-44 church-title table anchor (Thyatira row title-carrier); cell "The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass" is KJV-voiced vs the Geneva "which hath his eyes like unto a flame of fire, and his feete like fine brasse" — table kept verbatim per his word.
+- *Note:* COS-44 church-title table anchor (Thyatira row title-carrier); cell "The Son of God, who hath His eyes like unto a flame of fire, and His feet are like fine brass" is KJV-voiced vs the Geneva "which hath his eyes like unto a flame of fire, and his feete like fine brasse" — table kept verbatim per his word. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
@@ -6731,7 +6731,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Revelation 21:5 — CONFIRMED
 *cited as: (D) GNV seat — Revelation 21:5*
 - **Geneva 1599:** “And he that sate vpon the throne, sayd, Behold, I make all things newe: and he sayde vnto me, Write: for these wordes are faithfull and true.”
-- *Note:* Seat 21:5-7 full span; draft reads KJV-voiced 'for these things are' where the 1599 prints 'for these wordes are' — seat prints the 1599 (recorded).
+- *Note:* Seat 21:5-7 full span; draft reads KJV-voiced 'for these things are' where the 1599 prints 'for these wordes are' — seat prints the 1599 (recorded). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
 
@@ -6899,7 +6899,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 17:21 — PROSE-REF
 *cited as: "that they all may be one" cross-ref*
 - **Geneva 1599:** “That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.”
-- *Note:* Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced.
+- *Note:* Observation (2) fragment 'that they all may be one' is exact to the 1599 print (good-reason keep); the (F)-preview's longer John 17:20-23 quote is KJV-voiced. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class) · greek_biblehub ✓*
 
@@ -7266,14 +7266,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 14:23 — PROSE-REF
 *cited as: F-preview: "We will come unto him, and make Our abode with him"*
 - **Geneva 1599:** “Iesus answered, and sayd vnto him, If any man loue me, he will keepe my worde, and my Father will loue him, and we wil come vnto him, and wil dwell with him.”
-- *Note:* F-preview quote is KJV-voiced; the 1599 prints "we wil come vnto him, and wil dwell with him".
+- *Note:* F-preview quote is KJV-voiced; the 1599 prints "we wil come vnto him, and wil dwell with him". [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ### Ephesians 3:19 — PROSE-REF
 *cited as: F-preview: "that ye might be filled with all the fullness of God"*
 - **Geneva 1599:** “And to knowe the loue of Christ, which passeth knowledge, that ye may be filled with all fulnesse of God.”
-- *Note:* The 1599 prints 'that ye may be filled with all fulnesse of God' — the draft's 'might be filled' is KJV-voiced.
+- *Note:* The 1599 prints 'that ye may be filled with all fulnesse of God' — the draft's 'might be filled' is KJV-voiced. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
 
@@ -7317,7 +7317,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### 1 Timothy 6:16 — SEAT
 *cited as: Cross-witness — 1 Timothy 6:15-16 (seat, verse 16)*
 - **Geneva 1599:** “Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.”
-- *Note:* Seat v16 = "whom never man saw, neither can see" — the 1599 print (the draft's Part E quote already carried it modern-spelled; "honour" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote).
+- *Note:* Seat v16 = "whom never man saw, neither can see" — the 1599 print (the draft's Part E quote already carried it modern-spelled; "honour" print form seated). Standing COS-47 flag unchanged (concerns the other section's KJV-voiced quote). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim incl. ἀμήν*
 
@@ -7325,7 +7325,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: OT Foundation — Genesis 1:2 LXX (NETS seat)*
 - **NETS (Septuagint, modern):** “Yet the earth was invisible and unformed, and darkness was over the abyss, and a divine wind was being carried along over the water.”
 - **Geneva 1599:** “And the earth was without forme and void, and darkenesse was vpon the deepe, and the Spirit of God mooued vpon the waters.”
-- *Note:* Seat = NETS verbatim ("a divine wind was being carried along over the water") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his "Spirit of God" reading). Draft Greek + Geneva quote blocks dropped per seat shape.
+- *Note:* Seat = NETS verbatim ("a divine wind was being carried along over the water") + the attributed Geneva recourse note in line per the 10 Nov translation-addition rule (the NETS rendering differs significantly — his prose keeps his "Spirit of God" reading). Draft Greek + Geneva quote blocks dropped per seat shape. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, greek_swete, nets*
 - *Double-checked (second source): nets ✓ · net_print — EXACT — print==cache verified fresh 2026-11-12*
 
@@ -7559,7 +7559,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Acts 17:24 — SEAT
 *cited as: Cross-witness — Acts 17:24-28 (seat)*
 - **Geneva 1599:** “God that made the world, and all things that are therein, seeing that he is Lord of heaue and earth, dwelleth not in temples made with hands,”
-- *Note:* Seat = the 1599 print modern-spelled over the draft Geneva span. "heaue" is the print's own artifact (both eBible and TRB) kept verbatim with gloss (Matt 24:29 precedent). The draft's KJV-voiced comma after "life" brought back to the print's "all life and breath and all things".
+- *Note:* Seat = the 1599 print modern-spelled over the draft Geneva span. "heaue" is the print's own artifact (both eBible and TRB) kept verbatim with gloss (Matt 24:29 precedent). The draft's KJV-voiced comma after "life" brought back to the print's "all life and breath and all things". [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim on the drafted 24-25 span (v24 exact)*
 
@@ -7727,7 +7727,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Luke 4:14 — ANCHOR
 *cited as: Anointing observation — "Luke 4:14 — 'And Jesus returned in the power of the Spirit.'" (mention)*
 - **Geneva 1599:** “And Iesus returned by the power of the spirite into Galile: and there went a fame of him throughout all the region round about.”
-- *Note:* Draft fragment is KJV-voiced ("in the power" vs the 1599 "by the power"; "into Galilee" also dropped).
+- *Note:* Draft fragment is KJV-voiced ("in the power" vs the 1599 "by the power"; "into Galilee" also dropped). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
@@ -8199,9 +8199,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### 2 Chronicles 16:9 — PROSE-REF
 *cited as: Cross-witness #3 — 2 Chron 16:9*
+- **NETS (Septuagint, modern):** “For the eyes of the Lord… because the Lord’s eyes range over all the earth, to put strength in every heart full toward him.”
 - **Geneva 1599:** “For the eyes of the Lord beholde all the earth to shewe him selfe strong with them that are of perfite heart towarde him: thou hast then done foolishly in this: therefore from henceforth thou shalt haue warres.”
 - *Note:* draft carries Greek+Geneva blocks; KEPT VERBATIM in the polish — no NETS master for Paraleipomenon II is scraped. Draft Greek substance-checked vs Swete (theancientbible.org/2-chronicles-lxx-16/): word-for-word except Swete’s ἐπὠ τοῦ before πρὸς αὐτόν.
-- *Checked 2026-11-12 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 ### Psalm 139:10 (LXX 138:10) — PROSE-REF
@@ -8344,7 +8345,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Luke 24:49 — PROSE-REF
 *cited as: Clause-2 list — Luke 24:49*
 - **Geneva 1599:** “And beholde, I doe sende the promise of my Father vpon you: but tary ye in the citie of Hierusalem, vntill ye be endued with power from an hie.”
-- *Note:* the observation fragment “behold, I send the promise of My Father upon you” is KJV-voiced (1599 reads “And beholde, I doe sende the promise of my Father vpon you:”).
+- *Note:* the observation fragment “behold, I send the promise of My Father upon you” is KJV-voiced (1599 reads “And beholde, I doe sende the promise of my Father vpon you:”). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
@@ -8365,14 +8366,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Joel 2:28 LXX — CONFIRMED
 *cited as: Clause 3 — cited in Acts 2:17-18*
 - **NETS (Septuagint, modern):** “And it shall be after these things, I will pour out of my spirit on all flesh, and your sons and your daughters shall prophesy, and your old men shall dream dreams, and your young men shall see visions.”
-- **Geneva 1599:** “”
-- *Note:* NETS seat over the draft’s internal ellipsis (his Greek span covers the pour-out clause and 3:2(2:29); the sons/daughters/old-men/young-men clause is his own ellipsis). Draft Greek + Geneva OT blocks dropped per seat shape (wave-15 Daniel class). The clause-3 prose echo “I will pour out My Spirit” is KJV-voiced.
+- **Geneva 1599:** “And afterward will I powre out my Spirit vpon all flesh: and your sonnes and your daughters shall prophecie: your olde men shall dreame dreames, and your yong men shall see visions,”
+- *Note:* NETS seat over the draft’s internal ellipsis (his Greek span covers the pour-out clause and 3:2(2:29); the sons/daughters/old-men/young-men clause is his own ellipsis). Draft Greek + Geneva OT blocks dropped per seat shape (wave-15 Daniel class). The clause-3 prose echo “I will pour out My Spirit” is KJV-voiced. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 
 ### Joel 2:29 LXX — CONFIRMED
 *cited as: Clause 3 — cited in Acts 2:17-18*
 - **NETS (Septuagint, modern):** “Even on the male and female slaves, in those days, I will pour out of my spirit.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “And also vpon the seruants, and vpon the maydes in those dayes wil I powre my Spirit.”
 - *Note:* the second NETS segment (v29) covered by the draft’s own span; see JOE.2.28 for the seat note.
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 
@@ -8525,7 +8526,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 17:21 — PROSE-REF
 *cited as: Closing observation — John 17:21*
 - **Geneva 1599:** “That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.”
-- *Note:* the beauty-of-Acts-2:33 observation quotes the prayer KJV-voiced; flag updated.
+- *Note:* the beauty-of-Acts-2:33 observation quotes the prayer KJV-voiced; flag updated. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class) · greek_biblehub ✓*
 
@@ -8652,7 +8653,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### 2 Samuel 23:2 — ANCHOR
 *cited as: bullet — 'the Spirit of the LORD spoke by me' quoted*
 - **Geneva 1599:** “The Spirit of the Lord spake by me, and his worde was in my tongue.”
-- *Note:* the bullet's English echo is KJV-voiced; NETS prints 'The Lord's spirit spoke by me, and his word was upon my tongue.'
+- *Note:* the bullet's English echo is KJV-voiced; NETS prints 'The Lord's spirit spoke by me, and his word was upon my tongue.' [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, net*
 
 ### Judges 3:10 — PROSE-REF
@@ -8662,7 +8663,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Judges 11:29 — ANCHOR
 *cited as: bullet — 'the Spirit of the LORD came upon Jephthah.' quoted*
 - **Geneva 1599:** “Then the Spirite of the Lord came vpon Iphtah, and he passed ouer to Gilead and to Manasseh, and came to Mizpeh in Gilead, and from Mizpeh in Gilead he went vnto the children of Ammon.”
-- *Note:* the bullet's English is KJV-voiced; NETS prints the Iephthae verse.
+- *Note:* the bullet's English is KJV-voiced; NETS prints the Iephthae verse. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, net*
 
 ### Ezekiel 2:2 — ANCHOR
@@ -8726,14 +8727,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Joel 2:28 LXX — CONFIRMED
 *cited as: NETS seat re-present (wave-31 print text)*
 - **NETS (Septuagint, modern):** “And it shall be after these things, I will pour out of my spirit on all flesh, and your sons and your daughters shall prophesy, and your old men shall dream dreams, and your young men shall see visions.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “And afterward will I powre out my Spirit vpon all flesh: and your sonnes and your daughters shall prophecie: your olde men shall dreame dreames, and your yong men shall see visions,”
 - *Note:* Geneva echo banked at MT Joel 2 (1599 spellings); both-maps standing.
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 
 ### Joel 2:29 LXX — CONFIRMED
 *cited as: NETS seat re-present (wave-31 print text)*
 - **NETS (Septuagint, modern):** “Even on the male and female slaves, in those days, I will pour out of my spirit.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “And also vpon the seruants, and vpon the maydes in those dayes wil I powre my Spirit.”
 - *Note:* Geneva echo banked at MT Joel 2 (1599 spellings); both-maps standing.
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 
@@ -8843,14 +8844,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 14:23 — PROSE-REF
 *cited as: KJV-voiced prose quote — standing wave-26 attribution flag*
 - **Geneva 1599:** “Iesus answered, and sayd vnto him, If any man loue me, he will keepe my worde, and my Father will loue him, and we wil come vnto him, and wil dwell with him.”
-- *Note:* the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon
+- *Note:* the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ### John 17:21 — PROSE-REF
 *cited as: KJV-voiced prose quote — standing wave-26 attribution flag*
 - **Geneva 1599:** “That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.”
-- *Note:* the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon
+- *Note:* the KJV-voiced quote appears again in the Shift section (canon 7425/7427); the italic version-name or re-voice awaits Gideon [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class) · greek_biblehub ✓*
 
@@ -10042,7 +10043,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Genesis 2:24*
 - **NETS (Septuagint, modern):** “Therefore a man will leave his father and mother and will be joined to his wife, and the two will become one flesh.”
 - **Geneva 1599:** “Therefore shall man leaue his father and his mother, and shall cleaue to his wife, and they shall be one flesh.”
-- *Note:* POINT-9 observation quotes "a man shall cleave to his wife, and they shall be one flesh" under its "Gen 2:24 LXX" label — quote is KJV-voiced (Geneva prints "shall be joined"); NETS banked; flag raised
+- *Note:* POINT-9 observation quotes "a man shall cleave to his wife, and they shall be one flesh" under its "Gen 2:24 LXX" label — quote is KJV-voiced (Geneva prints "shall be joined"); NETS banked; flag raised [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh ✓*
 
@@ -10586,7 +10587,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Romans 5:20 — ANCHOR
 *cited as: THE CONTEXT prose quote of Rom 5:20-21 (canon 10003)*
 - **Geneva 1599:** “Moreouer the Law entred thereupon that the offence shoulde abound: neuerthelesse, where sinne abounded, there grace abounded much more:”
-- *Note:* paraphrase + KJV-voiced quote flagged
+- *Note:* paraphrase + KJV-voiced quote flagged [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
@@ -10955,7 +10956,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Romans 7:24 — CONFIRMED
 *cited as: Romans 7:24 seat — print order "the body of this death!" seated over draft KJV order "this body of death?"*
 - **Geneva 1599:** “O wretched man that I am, who shall deliuer me from the body of this death!”
-- *Note:* 1599 print: "the body of this death!" + exclamation mark; draft KJV-voiced "this body of death?" — print seated verbatim (eBible==TRB).
+- *Note:* 1599 print: "the body of this death!" + exclamation mark; draft KJV-voiced "this body of death?" — print seated verbatim (eBible==TRB). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 0.909 of draft Greek; dup-stream window 0.909; draft tokens not on WH page: ['ἄνθρωπος']*
 
@@ -11222,7 +11223,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Ephesians 5:18 — CONFIRMED
 *cited as: Ephesians 5:18 seat — 1599 idiom "fulfilled" seated verbatim with gloss; architecture row (canon 11090)*
 - **Geneva 1599:** “And be not drunke with wine, wherein is excesse: but be fulfilled with the Spirit,”
-- *Note:* 1599 prints "be fulfilled with the Spirit" (= filled; eBible==TRB both); draft KJV-voiced "filled" — print seated + *(filled)* gloss.
+- *Note:* 1599 prints "be fulfilled with the Spirit" (= filled; eBible==TRB both); draft KJV-voiced "filled" — print seated + *(filled)* gloss. [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 1.0*
 
@@ -11867,7 +11868,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Proverbs 3:6 — PROSE-REF
 *cited as: Worship in Daily Life bullet — *"In all thy ways acknowledge him, and he shall direct thy paths"* (Prov 3:6 Geneva)*
 - **Geneva 1599:** “In all thy wayes acknowledge him, and he shall direct thy wayes.”
-- *Note:* flag below — the quote tail is KJV-voiced; the 1599 prints "he shall direct thy wayes" (twice).
+- *Note:* flag below — the quote tail is KJV-voiced; the 1599 prints "he shall direct thy wayes" (twice). [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
@@ -12517,14 +12518,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Matthew 28:19 — CONFIRMED
 *cited as: Matthew 28:19-20 seat (canon 12584)*
 - **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
-- *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde
+- *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — 1.000 · trb_fresh — 1.000*
 
 ### Matthew 28:20 — CONFIRMED
 *cited as: Matthew 28:19-20 seat (canon 12584)*
 - **Geneva 1599:** “Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.”
-- *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde
+- *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — EXACT · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages matthew/28-19 + matthew/28-20 joined, set containment (case class only: Patros/Uliou/Agiou/Pneumatos caps)*
 
@@ -12847,7 +12848,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Luke 23:46 — PROSE-REF
 *cited as: prose-ref (obs 4 — Stephen parallels Jesus)*
 - **Geneva 1599:** “And Iesus cryed with a loude voyce, and sayd, Father, into thine hands I commend my spirit. And when hee thus had sayd, hee gaue vp the ghost.”
-- *Note:* draft prose quote "Father, into Thy hands I commend My spirit" is KJV-voiced; GNV print: "into thine hands"
+- *Note:* draft prose quote "Father, into Thy hands I commend My spirit" is KJV-voiced; GNV print: "into thine hands" [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
 
@@ -13174,7 +13175,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Isaiah 53:1 — PROSE-REF
 *cited as: Geneva 1599*
 - **NETS (Septuagint, modern):** “Lord, who has believed our report? And to whom has the arm of the Lord been revealed?”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “Who will beleeue our report? and to whom is the arme of the Lord reueiled?”
 - *Note:* COS-89 cross-witness mention
 - *Checked 2026-11-11 · editions fetched: gnv, nets*
 - *Double-checked (second source): greek_rahlfs — verified 2026-11-11, coverage 1.00 (group seat)*
@@ -13380,7 +13381,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### PSA 39 7 — PROSE-REF
 *cited as: Geneva 1599*
 - **NETS (Septuagint, modern):** “Sacrifice and offering you did not want, but ears you fashioned for me. Whole burnt offering and one for sin you did not request.”
-- **Geneva 1599:** “”
+- **Geneva 1599:** “And now Lord, what wait I for? mine hope is euen in thee.”
 - *Note:* COS-90 cross-witness mention
 - *Checked 2026-11-11 · editions fetched: gnv, nets*
 
@@ -13422,7 +13423,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### 1 Corinthians 15:47 — CONFIRMED
 *cited as: Geneva 1599*
 - **Geneva 1599:** “The first man is of the earth, earthly: the second man is the Lord from heauen.”
-- *Note:* 1CO 15 selections seat (per-verse; ONE WORD-FORM SPLICE: draft KJV-voiced "earthy" -> the 1599 print "earthly")
+- *Note:* 1CO 15 selections seat (per-verse; ONE WORD-FORM SPLICE: draft KJV-voiced "earthy" -> the 1599 print "earthly") [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 15-47 (ellipsis-dots artifact excluded)*
 
@@ -14233,7 +14234,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 20:29 — CONFIRMED
 *cited as: John 20:29*
 - **Geneva 1599:** “Iesus said vnto him, Thomas, because thou hast seene me, thou beleeuest: blessed are they that haue not seene, and haue beleeued.”
-- *Note:* W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced "thou hast believed" under its 1599-Geneva label; the 1599 print (EB==TRB) reads "thou beleeuest" — seated "thou believest" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers "Iesus said vnto him,"
+- *Note:* W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced "thou hast believed" under its 1599-Geneva label; the 1599 print (EB==TRB) reads "thou beleeuest" — seated "thou believest" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers "Iesus said vnto him," [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment; WH carries a comma after ἑώρακάς με where the draft omits it — punctuation class only*
 
@@ -14249,7 +14250,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 17:3 — PROSE-REF
 *cited as: John 17:3*
 - **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
-- *Note:* Under-Our-Framework bullet quotes the prayer KJV-voiced ("the only true God" vs the 1599 "the onely very God") — flag (33) scope WIDENED to this line, awaiting Gideon
+- *Note:* Under-Our-Framework bullet quotes the prayer KJV-voiced ("the only true God" vs the 1599 "the onely very God") — flag (33) scope WIDENED to this line, awaiting Gideon [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
 
@@ -14310,7 +14311,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Hebrews 1:9 — PROSE-REF
 *cited as: Heb 1:9*
 - **Geneva 1599:** “Thou hast loued righteousnes and hated iniquitie. Wherefore God, eue thy God, hath anointed thee with the oyle of gladnes aboue thy fellowes.”
-- *Note:* "Hebrews 1:9 immediately clarifies" prose quote — the print at folds EXCEPT "therefore" vs the 1599 "Wherefore" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored
+- *Note:* "Hebrews 1:9 immediately clarifies" prose quote — the print at folds EXCEPT "therefore" vs the 1599 "Wherefore" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12; eBible HEB01 unreachable (download failed x3) — biblehub-geneva (biblehub.com/geneva/hebrews/1.htm) fetched as the independent second source · geneva_biblehub_fresh — concurs on the whole verse — orthography classes only (& for and; felowes/fellowes); both sources print "hast loued" and "eue thy God" · greek_biblehub_fresh — 1.0 set-containment vs the draft prose fragment (canon 15495, ἔχρισέν σε ὁ Θεός ὁ Θεός σου) at accent-fold; the WH text reads δια τουτου (the LXX wording) where TR/Geneva read διὸ — row-noted, prose keeps the author's own Greek*
 
@@ -14409,7 +14410,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### 1 Timothy 3:16 — CONFIRMED
 *cited as: 1 Timothy 3:16 (Geneva 1599)*
 - **Geneva 1599:** “And without controuersie, great is the mysterie of godlinesse, which is, God is manifested in the flesh, iustified in the Spirit, seene of Angels, preached vnto the Gentiles, beleeued on in the world, and receiued vp in glorie.”
-- *Note:* W66 ADDED full-verse seat (the draft carried no Geneva line; the specified NT translation prints per the translation-addition rule, 10 Nov 2026). PRINT FACTS: the 1599 reads "which is, God is manifested in the flesh" (present tense + -ed) and ends "and received up in glory." (no "into") — the draft's KJV-voiced quotes render it "God was manifest in the flesh ... received up into glory."
+- *Note:* W66 ADDED full-verse seat (the draft carried no Geneva line; the specified NT translation prints per the translation-addition rule, 10 Nov 2026). PRINT FACTS: the 1599 reads "which is, God is manifested in the flesh" (present tense + -ed) and ends "and received up in glory." (no "into") — the draft's KJV-voiced quotes render it "God was manifest in the flesh ... received up into glory." [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked {'date': '2026-11-12', 'editions': ['gnv'], 'result': 'confirmed'} · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · geneva_biblehub — concurs word-for-word with the 1599 print (the page labels the Geneva Bible of 1587; slug 1_timothy/3; eBible 1TI03 == TRB fresh 54/3 ALL-EXACT whole chapter, 2026-11-12) · greek_biblehub_fresh — the critical print reads ὃς (3739 Ὃς "Who", RelPro-NMS) — the draft's TR-fragment Θεός is the variant the whole section discusses; both draft fragments verified at token level (TR-fragment containment 1.0; OS-fragment containment 1.0; ὅς token present in the print) · aleph_itsee — CODEX SINAITICUS VERIFIED GOLD-STANDARD: aleph's ORIGINAL HAND reads ΟΣ (the relative pronoun, no bar); the CORRECTOR hand altered it to θεὸϲ (ΘΣ) — the draft's "small horizontal line added inside the omicron" narrative (canon 15687) corroborated by the codex's own apparatus*
 
@@ -15294,7 +15295,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Ephesians 4:13 — PROSE-REF
 *cited as: Eph 4:13*
 - **Geneva 1599:** “Till we all meete together (in the vnitie of faith and that acknowledging of the Sonne of God) vnto a perfite man, and vnto the measure of the age of the fulnesse of Christ,”
-- *Note:* Part-Two Body section embeds the verse KJV-voiced ("until we all come in the unity of the faith...")
+- *Note:* Part-Two Body section embeds the verse KJV-voiced ("until we all come in the unity of the faith...") [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
@@ -15320,7 +15321,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Revelation 19:7 — CONFIRMED
 *cited as: Revelation 19:7*
 - **Geneva 1599:** “Let vs be glad and reioyce, and giue glory to him: for the marriage of that Lambe is come, and his wife hath made her selfe ready.”
-- *Note:* SPLICE: the 1599 print reads "the marriage of THAT Lamb" (draft "the Lamb" KJV-voiced) — seat = print; leading ellipsis honored
+- *Note:* SPLICE: the 1599 print reads "the marriage of THAT Lamb" (draft "the Lamb" KJV-voiced) — seat = print; leading ellipsis honored [RULING 13 Nov 2026] Gideon: KEEP — prose stays as written; ensure the italic attribution *(the 1599 print reads: "…")* is printed; ruling class applied.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
 

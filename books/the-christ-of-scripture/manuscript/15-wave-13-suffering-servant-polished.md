@@ -190,7 +190,7 @@ This is **the most extensive and explicit prophecy of the Son's atoning death in
 
 This is the apostolic identification: **Jesus is the παῖς of Isaiah 52-53.**
 
-**(2)** **ὑψωθήσεται καὶ δοξασθήσεται σφόδρα** — *"He shall be exalted and glorified exceedingly."* The Servant's path is exaltation. This corresponds to **John 12:32**: *"And I, if I be lifted up, will draw all unto Me."* John explicitly connects Jesus' "being lifted up" to His glorification (John 12:23, 32; 13:31-32).
+**(2)** **ὑψωθήσεται καὶ δοξασθήσεται σφόδρα** — *"He shall be exalted and glorified exceedingly."* The Servant's path is exaltation. This corresponds to **John 12:32**: *"And I, if I be lifted up, will draw all unto Me."* *(the 1599 print reads, "And I, if I were lifted up from the earth, will draw all men unto me.")* John explicitly connects Jesus' "being lifted up" to His glorification (John 12:23, 32; 13:31-32).
 
 **(3)** **ἀδοξήσει ἀπὸ ἀνθρώπων τὸ εἶδός σου** — *"Your appearance shall be without glory from men."* The Servant is *disfigured* — His visible form unrecognizable. This is fulfilled in Jesus' scourging, beating, and crucifixion.
 

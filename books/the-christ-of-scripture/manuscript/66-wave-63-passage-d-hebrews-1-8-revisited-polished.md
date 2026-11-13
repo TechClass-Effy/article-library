@@ -30,7 +30,7 @@ The Son can legitimately be addressed with divine titles because He bears the Fa
 
 **No metaphysical co-equal substance is required.** Only the biblical framework of Name-authority is required.
 
-**Hebrews 1:9 immediately clarifies:** *"Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee..."* — preserving the Father as the Son's God.
+**Hebrews 1:9 immediately clarifies:** *"Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee..."* *(the 1599 print reads, "Wherefore God, even thy God, hath anointed thee")* — preserving the Father as the Son's God.
 
 **Hebrews 1:8-9 together, honestly read under our maxims, present:**
 - **The Son who bears the divine title** (v. 8) — as the Only-Begotten bearing the Father's Name.

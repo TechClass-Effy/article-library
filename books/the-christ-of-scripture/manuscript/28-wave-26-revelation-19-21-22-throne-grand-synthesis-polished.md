@@ -239,7 +239,7 @@ This is essential and will clarify many things:
 
 This is the crowning glory of the entire revelation:
 - John 17:20-23 — *"that they may be one, even as We are one... I in them, and Thou in Me"*
-- John 14:23 — *"We will come unto him, and make Our abode with him"*
+- John 14:23 — *"We will come unto him, and make Our abode with him"* *(the 1599 print reads, "we will come unto him, and will dwell with him")*
 - The Father's purpose: that the elect become the habitation of the Father through the Son by the Spirit
 - Ephesians 3:14-19 — *"that ye might be filled with all the fullness of God"*
 - 2 Corinthians 6:16 — *"I will dwell in them, and walk in them"*
