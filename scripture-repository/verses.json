@@ -8426,9 +8426,19 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15581,
+     "cited_as": "Dan 7:13-14; Matt 28:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "ref-bullet: \"the Son bears the government / kingdom given to Him by the Father (Dan 7:13-14; Matt 28:18)\" — range ref (7:13-14)"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets_og": {
      "text": "I was watching in the night visions, and lo, as it were a son of man was coming upon the clouds of heaven. And he came as far as the ancient of days, and the attendants were present with him.",
@@ -8512,9 +8522,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close mention-anchor."
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15581,
+     "cited_as": "Dan 7:13-14; Matt 28:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "ref-bullet: \"the Son bears the government / kingdom given to Him by the Father (Dan 7:13-14; Matt 28:18)\" — range ref (7:13-14)"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets_og": {
      "text": "And royal authority was given to him, and all the nations of the earth according to posterity, and all honor was serving him. And his authority is an everlasting authority, which shall never be removed— and his kingship, which will never perish.",
@@ -11612,6 +11632,16 @@
      "status": "prose-ref",
      "quote_kind": "prose-quote",
      "note": "Passage-D embed — the 1599 print at modern folds with the author's own caps (\"because my name is in him\", banked gnv + trb) — no flag (pre-decided in the run state)"
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15580,
+     "cited_as": "John 5:43; Ex 23:21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "ref-bullet: \"bearing the Father's Name and authority (John 5:43; Ex 23:21)\""
     }
    ],
    "verified": "2026-11-12",
@@ -36382,6 +36412,16 @@
      "status": "confirmed",
      "note": "W59 re-present",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15581,
+     "cited_as": "Matt 28:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "ref-bullet: \"the Son bears the government / kingdom given to Him by the Father (Dan 7:13-14; Matt 28:18)\""
     }
    ],
    "verified": "2026-11-12",
@@ -62060,6 +62100,30 @@
      "status": "confirmed",
      "note": "W59 option (E) mention",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15530,
+     "cited_as": "Isaiah 9:6 (Geneva 1599)",
+     "quotes": [
+      "*\"For unto us a child is born, and unto us a Son is given: and the government is upon his shoulder, and he shall call his name Wonderful, Counsellor, The mighty God, The everlasting Father, The prince of peace,\"*"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "The Hebrew-Reading seat — the 1599 print at modern folds; ONE splice (the draft's comma after \"name\" dropped — the print reads \"call his name Wonderfull\"); the print's verse-final comma kept verbatim (flows into v7); folds vs/childe/borne/sonne/giuen/gouernement/vpon/shal/counseller/mightie/euerlasting — 1599 orthography stays on the banked row"
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15541,
+     "cited_as": "Isaiah 9:6 (LXX 9:5)",
+     "quotes": [
+      "because a child was born for us, a son also given to us, whose sovereignty was upon his shoulder, and he is named Messenger of Great Counsel, for I will bring peace upon the rulers, peace and health to him."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "The LXX-Reading seat — the draft's Greek blockquote dropped per the OT seat shape; the NETS print seat (33-esaias.pdf pp 831-832, x-split columns pp-joined; mark 6(5)) — the blob (old walk) concurs word-for-word"
     }
    ],
    "verified": "2026-11-12",
@@ -62068,6 +62132,11 @@
      "text": "For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,",
      "source": "https://ebible.org/enggnv/ISA09.htm",
      "date": "2026-11-12"
+    },
+    "nets": {
+     "text": "because a child was born for us, a son also given to us, whose sovereignty was upon his shoulder, and he is named Messenger of Great Counsel, for I will bring peace upon the rulers, peace and health to him.",
+     "source": "NETS Isaiah print master 33-esaias.pdf, print pp 831-832 (two-column word-mode dump, wave-64 pp-join; mark 6 = LXX paren (5))",
+     "date": "2026-11-12"
     }
    },
    "second_check": {
@@ -62075,9 +62144,24 @@
      "result": "agree",
      "source": "textusreceptusbibles.com/Geneva/23/9",
      "date": "2026-11-12"
+    },
+    "greek_swete": {
+     "text": "ὅτι παιδίον ἐγεννήθη ἡμῖν , υἱὸς ἐδόθη ἡμῖν , οὗ ἡ ἀρχὴ ἐγενήθη ἐπὶ τοῦ ὤμου αὐτοῦ , καὶ καλεῖται τὸ ὄνομα αὐτοῦ Μεγάλης βουλῆς ἄγγελος · ἄξω γὰρ εἰρήνην ἐπὶ τοὺς ἄρχοντας καὶ ὑγείαν αὐτῷ .",
+     "source": "https://www.theancientbible.org/isaiah-lxx-9/",
+     "result": "0.929 set-containment vs the draft Greek quote (canon 15541) at accent-fold; Swete variant set row-noted: clause-1 reads ἐγεννήθη (draft ἐγενήθη), Swete drops ἐγὼ (reads ἄξω γὰρ) and has ὑγείαν (draft ὑγίειان); the draft Greek is Rahlfs-voiced"
+    },
+    "nets_blob": {
+     "text": "child was born for us, a son also given to us, whose sovereignty was upon his shoulder, and he is named Messenger of Great Counsel, for I will bring peace upon the rulers, peace and health to him. His sovereign",
+     "source": "nets_cache.json ISA ch9 (glued blob from the wave-14 walk) — cross-parse concurrence",
+     "result": "word-for-word agree with the print-dump seat (normalized whitespace)"
+    },
+    "geneva_biblehub": {
+     "text": "For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,",
+     "source": "https://biblehub.com/geneva/isaiah/9.htm",
+     "result": "concurs with the 1599 print at orthography fold classes (token diff NONE; eBible ISA09 == TRB 23/9 EXACT fresh 2026-11-12)"
     }
    },
-   "note": "NETS Isaiah ch9 cache remains a glued mega-verse (parked) — no NETS text banked; option mention only."
+   "note": "NETS Isaiah ch9 cache remains a glued mega-verse (parked) — no NETS text banked; option mention only. | W64 (COS-97 PASSAGE E): the NETS print seat is banked from the 33-esaias.pdf print dump — print pp 831-832 (two-column ENGLISH-only volume; x-split columns joined ACROSS the print break, wave-60 recipe; mark 6 = LXX paren (5); the paren scheme is a uniform Rahlfs shift of -1 through ch9: 9:1(8.23) … 6(5) … 7(6)). Numbering: NONE of the consulted traditions splits the verse — Brenton numbers it 9:6 and Swete prints mark 6 before the run and 7 after (one continuous run); the NETS/Rahlfs-Hanhart paren numbers it 9:5; the draft label \"9:5-6 LXX\" is recorded on the row (polish head renamed to the print-verified numbering). The nets-cache blob (old walk) concurs word-for-word. The draft Greek quote (canon 15541) = Rahlfs 9:5, verified vs Swete at 0.929 (variant set row-noted); el.wikisource has NO Rahlfs Isaiah chapter (red-link) — Swete + the Rahlfs-Hanhart print paren are the Greek checks of record. Geneva seat = the 1599 print at modern folds — ONE splice (the print carries no comma after \"name\"; eBible ISA09 + TRB 23/9 EXACT fresh + biblehub-geneva concur) and the print's verse-final comma KEPT verbatim (it flows into v7; the W59-banked row already carried it). el.wikisource Rahlfs fetch is the standing gap; Swete is the independent Greek source this wave."
   },
   {
    "id": "ISA.43.11",
@@ -62154,6 +62238,16 @@
      "status": "confirmed",
      "note": "W59 — the decisive text; exact-modern zero-splice",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-97",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE E — ISAIAH 9:6 LXX",
+     "article_line": 15580,
+     "cited_as": "John 5:43; Ex 23:21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "ref-bullet: \"bearing the Father's Name and authority (John 5:43; Ex 23:21)\""
     }
    ],
    "second_check": {
@@ -62915,7 +63009,8 @@
    "COS-93",
    "COS-94",
    "COS-95",
-   "COS-96"
+   "COS-96",
+   "COS-97"
   ],
   "sections": [
    {
@@ -63455,6 +63550,10 @@
    {
     "key": "COS-96",
     "label": "PASSAGE D — HEBREWS 1:8 REVISITED"
+   },
+   {
+    "key": "COS-97",
+    "label": "PASSAGE E — ISAIAH 9:6 LXX"
    }
   ],
   "double_check": {
@@ -63515,8 +63614,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 132643,
-  "cos_sofar": "waves 63",
+  "so_far_words": 133328,
+  "cos_sofar": "waves 64",
   "glossary": 1387
  }
 }

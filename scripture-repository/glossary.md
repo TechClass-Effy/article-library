@@ -3790,14 +3790,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Daniel 7:13-14 seat — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; draft LXX-Greek differences recorded*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
 - *Note:* NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change.
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Daniel 7:14 — CONFIRMED
 *cited as: Daniel 7:13-14 seat — NETS Old Greek verbatim; Theodotion differences attributed in the seat note; draft LXX-Greek differences recorded*
 - **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
 - *Note:* NETS Daniel. The draft cites the LXX voice; its Greek (Rahlfs column) reads καὶ ὡς παλαιὸς ἡμερῶν παρῆν — “and, as Ancient of days, he was present” — which the Old Greek print renders “And he came as far as the ancient of days”; and ἤρχετο (Rahlfs) vs ἐρχόμενος ἦν (draft) — same sense. Recorded, no seat change.
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Matthew 26:63 — CONFIRMED (EXCERPT)
@@ -4931,13 +4931,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Daniel 7:13 — CONFIRMED
 *cited as: Daniel 7 section seat (B arc) — the wave-15 NETS Old Greek seat re-presented; Theodotion note repeated*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Daniel 7:14 — CONFIRMED
 *cited as: Daniel 7 section seat (B arc) — the wave-15 NETS Old Greek seat re-presented*
 - **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### 1TI 2 5 — ANCHOR
@@ -5292,7 +5292,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
 - *Note:* obs (2) Daniel 7's "coming on clouds." cross-ref
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Zechariah 12:10 — CONFIRMED
@@ -5457,7 +5457,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
 - *Note:* synthesis table: Comes on the clouds of heaven
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Matthew 26:64 — CONFIRMED
@@ -5492,7 +5492,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
 - *Note:* synthesis table: establishes the universal Kingdom; Two-Critical-Points: receives the kingdom
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Zechariah 12:10 — CONFIRMED
@@ -5862,7 +5862,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
 - *Note:* synthesis table step 4: the Son’s coming
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Matt 24:30 — CONFIRMED
@@ -5914,7 +5914,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
 - *Note:* synthesis (2): receives the Kingdom from the Ancient of Days
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Colossians 1:16 — CONFIRMED
@@ -6552,7 +6552,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Rev 5 observation — the fulfillment of Daniel 7:13-14*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
 - *Note:* COS-45 prose mention (span covers Dan 7:14).
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Genesis 49:10 — PROSE-REF
@@ -6996,7 +6996,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Ruler of the Kings of the Earth — Dan 7:14 fulfilled*
 - **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
 - *Note:* (D)-close mention-anchor.
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Revelation 1:17 — PROSE-REF
@@ -7206,7 +7206,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Dan 7 — the Son of Man before the Ancient of Days (Rev 1, 5)*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
 - *Note:* (D)-close mention-anchor.
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Genesis 3:15 — PROSE-REF
@@ -9640,7 +9640,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Daniel 7:13 — PROSE-REF
 *cited as: mention (the Son of Man), with Acts 7:56*
 - **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
-- *Checked 2026-11-11 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
 - *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
 
 ### Revelation 19:16 — PROSE-REF
@@ -14067,10 +14067,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Isaiah 9:6 (NETS/MT numbering) — CONFIRMED
 *cited as: Isaiah 9:6 (LXX)*
+- **NETS (Septuagint, modern):** “because a child was born for us, a son also given to us, whose sovereignty was upon his shoulder, and he is named Messenger of Great Counsel, for I will bring peace upon the rulers, peace and health to him.”
 - **Geneva 1599:** “For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,”
 - *Note:* W59 option (E) mention
-- *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓ · greek_swete — 0.929 set-containment vs the draft Greek quote (canon 15541) at accent-fold; Swete variant set row-noted: clause-1 reads ἐγεννήθη (draft ἐγενήθη), Swete drops ἐγὼ (reads ἄξω γὰρ) and has ὑγείαν (draft ὑγίειان); the draft Greek is Rahlfs-voiced · nets_blob — word-for-word agree with the print-dump seat (normalized whitespace) · geneva_biblehub — concurs with the 1599 print at orthography fold classes (token diff NONE; eBible ISA09 == TRB 23/9 EXACT fresh 2026-11-12)*
 
 ## PASSAGE A — JOHN 10:30
 
@@ -14306,6 +14307,52 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* "Hebrews 1:9 immediately clarifies" prose quote — the print at folds EXCEPT "therefore" vs the 1599 "Wherefore" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12; eBible HEB01 unreachable (download failed x3) — biblehub-geneva (biblehub.com/geneva/hebrews/1.htm) fetched as the independent second source · geneva_biblehub_fresh — concurs on the whole verse — orthography classes only (& for and; felowes/fellowes); both sources print "hast loued" and "eue thy God" · greek_biblehub_fresh — 1.0 set-containment vs the draft prose fragment (canon 15495, ἔχρισέν σε ὁ Θεός ὁ Θεός σου) at accent-fold; the WH text reads δια τουτου (the LXX wording) where TR/Geneva read διὸ — row-noted, prose keeps the author's own Greek*
+
+## PASSAGE E — ISAIAH 9:6 LXX
+
+### Isaiah 9:6 (NETS/MT numbering) — CONFIRMED
+*cited as: Isaiah 9:6 (Geneva 1599)*
+- **NETS (Septuagint, modern):** “because a child was born for us, a son also given to us, whose sovereignty was upon his shoulder, and he is named Messenger of Great Counsel, for I will bring peace upon the rulers, peace and health to him.”
+- **Geneva 1599:** “For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,”
+- *Note:* The Hebrew-Reading seat — the 1599 print at modern folds; ONE splice (the draft's comma after "name" dropped — the print reads "call his name Wonderfull"); the print's verse-final comma kept verbatim (flows into v7); folds vs/childe/borne/sonne/giuen/gouernement/vpon/shal/counseller/mightie/euerlasting — 1599 orthography stays on the banked row
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓ · greek_swete — 0.929 set-containment vs the draft Greek quote (canon 15541) at accent-fold; Swete variant set row-noted: clause-1 reads ἐγεννήθη (draft ἐγενήθη), Swete drops ἐγὼ (reads ἄξω γὰρ) and has ὑγείαν (draft ὑγίειان); the draft Greek is Rahlfs-voiced · nets_blob — word-for-word agree with the print-dump seat (normalized whitespace) · geneva_biblehub — concurs with the 1599 print at orthography fold classes (token diff NONE; eBible ISA09 == TRB 23/9 EXACT fresh 2026-11-12)*
+
+### Exodus 23:21 — PROSE-REF
+*cited as: John 5:43; Ex 23:21*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* ref-bullet: "bearing the Father's Name and authority (John 5:43; Ex 23:21)"
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
+
+### John 5:43 — PROSE-REF
+*cited as: John 5:43; Ex 23:21*
+- **Geneva 1599:** “I am come in my Fathers Name, and ye receiue me not: if another shall come in his owne name, him will ye receiue.”
+- *Note:* ref-bullet: "bearing the Father's Name and authority (John 5:43; Ex 23:21)"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### Daniel 7:13 — PROSE-REF
+*cited as: Dan 7:13-14; Matt 28:18*
+- **Geneva 1599:** “As I behelde in visions by night, behold, one like the sonne of man came in the cloudes of heauen, and approched vnto the Ancient of dayes, and they brought him before him.”
+- *Note:* ref-bullet: "the Son bears the government / kingdom given to Him by the Father (Dan 7:13-14; Matt 28:18)" — range ref (7:13-14)
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### Daniel 7:14 — PROSE-REF
+*cited as: Dan 7:13-14; Matt 28:18*
+- **Geneva 1599:** “And he gaue him dominion, and honour, and a kingdome, that all people, nations and languages should serue him: his dominion is an euerlasting dominion, which shall neuer bee taken away: and his kingdome shall neuer be destroyed.”
+- *Note:* ref-bullet: "the Son bears the government / kingdom given to Him by the Father (Dan 7:13-14; Matt 28:18)" — range ref (7:13-14)
+- *Checked 2026-11-12 · editions fetched: gnv, nets_og, nets_theodotion*
+- *Double-checked (second source): gnv ✓ · greek_rahlfs — verified 2026-11-11*
+
+### MAT 28 18 — PROSE-REF
+*cited as: Matt 28:18*
+- **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
+- *Note:* ref-bullet: "the Son bears the government / kingdom given to Him by the Father (Dan 7:13-14; Matt 28:18)"
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 # THE BIBLICAL SABBATH
 
@@ -16185,7 +16232,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -16284,10 +16331,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 3:3 | COS-60, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
 | Colossians 3:4 | COS-60, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, flagged, prose-ref |
 | Dan 7:10 | COS-35, COS-38 | confirmed |
-| Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
-| Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
+| Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63, COS-97 | confirmed, prose-ref |
+| Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52, COS-97 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -16342,7 +16389,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Exodus 20:8 | SAB4, SAB13 | confirmed, recap cross-reference |
 | Exodus 20:9 | SAB4, SAB13 | differs (minor), recap cross-reference |
 | Exodus 23:20 | COS-14, COS-16, COS-92 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-96, COS-91 | anchor, confirmed, prose-ref |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-96, COS-97, COS-91 | anchor, confirmed, prose-ref |
 | Exodus 25:8 | COS-54, COS-64 | prose-ref, seat |
 | Exodus 3:14 | P8, COS-11, COS-92 | anchor, commentary, confirmed |
 | Exodus 3:15 | P1-Q3, P2, CLOSE, COS-92 | confirmed |
@@ -16610,7 +16657,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90, COS-91 | anchor, confirmed, prose-ref |
@@ -16869,7 +16916,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 27:59 | COS-22 | anchor |
 | Matthew 27:60 | COS-22 | confirmed (excerpt) |
 | Matthew 27:9 | COS-23 | anchor |
-| MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40, COS-92 | anchor, confirmed, prose-ref |
+| MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40, COS-92, COS-97 | anchor, confirmed, prose-ref |
 | Matthew 28:19 | COS-27, COS-83, COS-92 | confirmed |
 | Matthew 28:20 | COS-27, COS-83 | confirmed |
 | Matthew 3:1 | COS-23 | anchor |
@@ -16902,7 +16949,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -17486,10 +17533,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Luke 2:11 | COS-91 | anchor |
 | Romans 9:5 | COS-91 | anchor |
 | 1 Timothy 3:16 | COS-91 | anchor |
-| Isaiah 9:6 (NETS/MT numbering) | COS-92, COS-91 | anchor, confirmed |
+| Isaiah 9:6 (NETS/MT numbering) | COS-92, COS-97, COS-91 | anchor, confirmed |
 | Isaiah 43:11 | COS-92 | confirmed |
 | Isaiah 43:12 | COS-92 | confirmed |
-| John 5:43 | COS-92 | confirmed |
+| John 5:43 | COS-92, COS-97 | confirmed, prose-ref |
 | John 10:25 | COS-92 | confirmed |
 | Matthew 10:40 | COS-92 | confirmed |
 | John 8:19 | COS-92 | confirmed |
