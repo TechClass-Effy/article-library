@@ -142,7 +142,8 @@
    "COS-87",
    "COS-88",
    "COS-89",
-   "COS-90"
+   "COS-90",
+   "THE FIVE DIFFICULT PASSAGES EXAMINED"
   ],
   "sections": [
    {
@@ -658,6 +659,10 @@
    {
     "key": "COS-90",
     "label": "YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT"
+   },
+   {
+    "key": "COS-91",
+    "label": "THE FIVE DIFFICULT PASSAGES EXAMINED"
    }
   ],
   "double_check": {
@@ -718,9 +723,10 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 121866,
+  "so_far_words": 126564,
   "cos_sofar": {
-   "waves": 57
+   "waves": 58,
+   "updated": "2026-11-12"
   },
   "glossary": 1358
  },
@@ -1645,6 +1651,16 @@
      "quotes": [
       "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
      ]
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14439,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE D prose (delivers all things 1 Cor 15:24-28)"
     }
    ],
    "verified": "2026-11-11",
@@ -2539,6 +2555,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14169,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE A/C prose (Father Source / Son Agent)"
     }
    ],
    "verified": "2026-11-12",
@@ -3833,6 +3859,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14553,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE E maxims list (the Father the One God)"
     }
    ],
    "verified": "2026-11-12",
@@ -6811,6 +6847,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14525,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE E two-witness list (Lord and Christ)"
     }
    ],
    "verified": "2026-11-11",
@@ -7793,6 +7839,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14365,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE C prose (Image of the invisible God)"
     }
    ],
    "verified": "2026-11-12",
@@ -8317,6 +8373,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14280,
+     "cited_as": "",
+     "quotes": [
+      "For in him dwelleth all the fulness of the Godhead bodily."
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE C seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-12",
@@ -10052,6 +10120,16 @@
       "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
       "url": "https://biblehub.com/text/"
      }
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14427,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE D cross-witness bullet"
     }
    ],
    "verified": "2026-11-07",
@@ -12025,6 +12103,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14250,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE B/D prose (My Name is in Him)"
     }
    ],
    "verified": "2026-11-11",
@@ -14124,6 +14212,16 @@
       "text": "",
       "reason": ""
      }
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14102,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE A prose: \"In the beginning\" points back to Gen 1:1 LXX (en arche)"
     }
    ],
    "verified": "2026-11-07",
@@ -17837,6 +17935,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14182,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "Summary/coherence lists (a body prepared)"
     }
    ],
    "verified": "2026-11-11",
@@ -20748,6 +20856,16 @@
      "status": "anchor",
      "matched_source": "nets",
      "note": "listed in the 2.1 observation’s LXX echo list"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14231,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE B prose (egw eimi echo)"
     }
    ],
    "verified": "2026-11-11",
@@ -21619,6 +21737,16 @@
      "status": "anchor",
      "matched_source": "nets",
      "note": "listed in the 2.1 observation’s LXX echo list"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14232,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE B prose (egw eimi echo)"
     }
    ],
    "verified": "2026-11-11",
@@ -24420,6 +24548,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14092,
+     "cited_as": "",
+     "quotes": [
+      "In the beginning was that Word, and that Word was with God, and that Word was God."
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE A seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-12",
@@ -24554,6 +24694,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14185,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE A bullet (only-begotten) + PASSAGE C (eskênosen, tabernacled)"
     }
    ],
    "verified": "2026-11-12",
@@ -24689,6 +24839,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14185,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE A bullet (only-begotten)"
     }
    ],
    "verified": "2026-11-12",
@@ -24769,6 +24929,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14092,
+     "cited_as": "",
+     "quotes": [
+      "This same was in the beginning with God."
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE A seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-11",
@@ -24953,6 +25125,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14092,
+     "cited_as": "",
+     "quotes": [
+      "All things were made by it, and without it was made nothing that was made.."
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE A seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-11",
@@ -25222,6 +25406,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14624,
+     "cited_as": "",
+     "quotes": [
+      "I and the Father are one."
+     ],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "QUESTION option (A)"
     }
    ],
    "verified": "2026-11-11",
@@ -25237,7 +25433,7 @@
    },
    "flag": {
     "kind": "proposed-correction",
-    "detail": "Observation (Zech 13:7 section) quotes \"I and the Father are one\"; Geneva 1599 prints \"I and my Father are one\" — propose italic version-name in line per the 10 Nov 2026 attribution rule.",
+    "detail": "Observation (Zech 13:7 section) quotes \"I and the Father are one\"; Geneva 1599 prints \"I and my Father are one\" — propose italic version-name in line per the 10 Nov 2026 attribution rule. / PLUS wave-58: QUESTION option (A) (canon 14624) quotes \"I and the Father are one.\" — NETS-voiced; the 1599 prints \"I and my Father are one.\" — italic version-name or re-voice awaits Gideon.",
     "awaiting": "Gideon"
    }
   },
@@ -27687,6 +27883,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14627,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE E two-witness list (bears the Father's Name)"
     }
    ],
    "verified": "2026-11-11",
@@ -28608,6 +28814,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14120,
+     "cited_as": "",
+     "quotes": [
+      "the glory I had with You before the world was"
+     ],
+     "status": "paraphrase",
+     "note": "paraphrase",
+     "quote_kind": "PASSAGE A prose"
     }
    ],
    "verified": "2026-11-11",
@@ -29094,6 +29312,16 @@
       "text": "Jesus saith unto her, Touch me not: for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and to your Father, and to my God, and your God.",
       "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
      }
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14426,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE D cross-witness bullet (My God and your God)"
     }
    ],
    "verified": "2026-11-07",
@@ -29724,6 +29952,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14169,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE A/Summary prose (the Father is Spirit)"
     }
    ],
    "verified": "2026-11-12",
@@ -31415,6 +31653,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14198,
+     "cited_as": "",
+     "quotes": [
+      "Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am."
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE B seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-11",
@@ -31477,6 +31727,16 @@
      "status": "anchor",
      "matched_source": "",
      "note": "The 2.1 observation cites the stoning attempt over the absolute ἐγώ εἰμι (mention; the seat stays wave-earlier’s)."
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14208,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE B context (v. 59 stones) — mention"
     }
    ],
    "verified": "2026-11-02",
@@ -33888,6 +34148,16 @@
      "status": "prose-ref",
      "note": "True-to-type pattern reference; no quote.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14528,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE E two-witness list"
     }
    ],
    "verified": "2026-11-12",
@@ -36287,6 +36557,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14523,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE E two-witness list (Beloved Son)"
     }
    ],
    "verified": "2026-11-11",
@@ -41558,6 +41838,18 @@
      "status": "confirmed",
      "matched_source": "nets",
      "note": "NETS text backfilled from this row's COS-01 use-note (recorded + verified 2026-11-07). Geneva kept as attributed recourse (differs: \"host\" vs \"all their host\"). Greek ἐστερεώθησαν carries the στερεόω chain (Isa 44:24; Gen 1:6) — load-bearing in the study. GNV text for 33:6 fresh-backfilled from the eBible cache (PSA033.htm, 1599 spellings)."
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14173,
+     "cited_as": "",
+     "quotes": [
+      "By the Word of the LORD were the heavens made, and all the host of them by the breath of His mouth."
+     ],
+     "status": "prose-ref",
+     "note": "confirmed-excerpt",
+     "quote_kind": "PASSAGE A prose echo (Ps 32:6 LXX / 33:6 MT)"
     }
    ],
    "verified": "2026-11-11",
@@ -41584,6 +41876,11 @@
      "result": "agree-by-Rahlfs-concurrence",
      "url": "https://el.wikisource.org/wiki/Ψαλμοί_(Rahlfs)"
     }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "PASSAGE-A prose (canon 14173) quotes \"By the Word of the LORD were the heavens made, and all the host of them by the breath of His mouth.\" under its \"Ps 32:6 LXX (33:6 MT)\" label — KJV-voiced; the 1599 prints \"The heauens were made by the worde of the Lord, and all the hoast of them by the breath of his mouth.\" and NETS prints \"By the word of the Lord the heavens were made firm, and by the breath of his mouth all their host.\" — italic version-name or re-voice awaits Gideon (10 Nov 2026 class).",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -44842,6 +45139,16 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14345,
+     "cited_as": "",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "PASSAGE C prose (the exalted state)"
     }
    ],
    "verified": "2026-11-11",
@@ -60344,6 +60651,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 prose reference"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14626,
+     "cited_as": "",
+     "quotes": [
+      "My Lord and my God."
+     ],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "QUESTION option (B)"
     }
    ],
    "verified": "2026-11-12",
@@ -60378,6 +60697,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 prose reference"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14628,
+     "cited_as": "",
+     "quotes": [
+      "This is the true God, and eternal life."
+     ],
+     "status": "prose-ref",
+     "note": "anchor",
+     "quote_kind": "QUESTION option (C)"
     }
    ],
    "verified": "2026-11-12",
@@ -60416,6 +60747,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 prose reference"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14479,
+     "cited_as": "",
+     "quotes": [
+      "Looking for that blessed hope, and appearing of the glory of the mighty God, and of our Saviour Jesus Christ,"
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE E seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-12",
@@ -60466,6 +60809,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14379,
+     "cited_as": "",
+     "quotes": [
+      "But unto the Son he saith, O God, thy throne is for ever and ever: the scepter of thy kingdom is a scepter of righteousness."
+     ],
+     "status": "seat",
+     "note": "confirmed",
+     "quote_kind": "PASSAGE D seat (re-present, banked==fresh)"
     }
    ],
    "verified": "2026-11-12",
@@ -60902,6 +61257,485 @@
     }
    },
    "note": "Wave 57 COS-90 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "PSA.44.7",
+   "ref": "Psalm 44:7 LXX (Psalm 45:6 MT)",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14389,
+     "cited_as": "Psalm 44:7-8 LXX (Psalm 45:6-7 MT)",
+     "quotes": [
+      "Your throne, O God, is forever and ever. A rod of equity is the rod of your rule;"
+     ],
+     "status": "confirmed",
+     "note": "NETS seat, PASSAGE D; group span 44:7-8 LXX = 45:6-7 MT",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "nets",
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "nets": {
+     "text": "Your throne, O God, is forever and ever. A rod of equity is the rod of your rule;",
+     "source": "NETS print master 24-ps.pdf p569 (pdf page 27, 2009 print)",
+     "date": "2026-11-12"
+    },
+    "gnv": {
+     "text": "Thy throne, O God, is for euer and euer: the scepter of thy kingdome is a scepter of righteousnesse.",
+     "source": "https://ebible.org/enggnv/PSA045.htm (Geneva, MT numbering 45:6)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/19/45",
+     "date": "2026-11-12"
+    },
+    "nets_print": {
+     "result": "agree",
+     "source": "24-ps.pdf line dump p569 (print=pdf+542)",
+     "note": "single-master text: NETS Psalms English exists only in the print master; psalm Greek left row-noted (Rahlfs family, Rahlfs-source pages unreachable this run)"
+    },
+    "greek_rahlfs": {
+     "result": "not-fetched",
+     "source": "",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "MT 45:6 = LXX 44:7. Geneva seated as attributed recourse (differs significantly from NETS)."
+  },
+  {
+   "id": "PSA.44.8",
+   "ref": "Psalm 44:8 LXX (Psalm 45:7 MT)",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14389,
+     "cited_as": "Psalm 44:7-8 LXX (Psalm 45:6-7 MT)",
+     "quotes": [
+      "you loved righteousness and hated lawlessness. Therefore God, your God, anointed you with oil of rejoicing beyond your partners."
+     ],
+     "status": "confirmed",
+     "note": "NETS seat, PASSAGE D; group span 44:7-8 LXX = 45:6-7 MT",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "nets",
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "nets": {
+     "text": "you loved righteousness and hated lawlessness. Therefore God, your God, anointed you with oil of rejoicing beyond your partners.",
+     "source": "NETS print master 24-ps.pdf p569 (pdf page 27, 2009 print)",
+     "date": "2026-11-12"
+    },
+    "gnv": {
+     "text": "Thou louest righteousnes, and hatest wickednesse, because God, euen thy God hath anoynted thee with the oyle of gladnes aboue thy fellowes.",
+     "source": "https://ebible.org/enggnv/PSA045.htm (Geneva, MT numbering 45:7)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/19/45",
+     "date": "2026-11-12"
+    },
+    "nets_print": {
+     "result": "agree",
+     "source": "24-ps.pdf line dump p569",
+     "note": "single-master text"
+    }
+   },
+   "note": "MT 45:7 = LXX 44:8. NETS prints \"oil of rejoicing beyond your partners\"."
+  },
+  {
+   "id": "2PE.1.1",
+   "ref": "2 Peter 1:1",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14489,
+     "cited_as": "2 Peter 1:1",
+     "quotes": [
+      "Simon Peter a servant and an Apostle of Jesus Christ, to you which have obtained like precious faith with us by the righteousness of our God and Saviour Jesus Christ:"
+     ],
+     "status": "confirmed",
+     "note": "PASSAGE E seat; zero-splice exact-modern (seruant/Sauiour/righteousnesse folds)",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "Simon Peter a seruant and an Apostle of Iesus Christ, to you which haue obteined like precious faith with vs by the righteousnesse of our God and Sauiour Iesus Christ:",
+     "source": "https://ebible.org/enggnv/2PE01.htm",
+     "date": "2026-11-12"
+    },
+    "greek_biblehub": {
+     "text": "Συμεὼν Πέτρος δοῦλος καὶ ἀπόστολος Ἰησοῦ Χριστοῦ τοῖς ἰσότιμον ἡμῖν λαχοῦσιν πίστιν ἐν δικαιοσύνῃ τοῦ Θεοῦ ἡμῶν καὶ Σωτῆρος Ἰησοῦ Χριστοῦ· ΠΕΤΡΟΥ Β΄",
+     "source": "https://biblehub.com/text/2_peter/1-1.htm (WH)",
+     "date": "2026-11-12",
+     "result": "draft-greek 1.000 set-containment"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/61/1",
+     "date": "2026-11-12"
+    },
+    "greek_biblehub_fresh": {
+     "result": "1.000",
+     "source": "biblehub.com/text/2_peter/1-1.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "Granville-Sharp question (one Person vs two) discussed in PASSAGE E; the Geneva renders the construction as drafted."
+  },
+  {
+   "id": "JHN.8.56",
+   "ref": "John 8:56",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14204,
+     "cited_as": "John 8:56",
+     "quotes": [
+      "Your father Abraham rejoiced to see My day, and he saw it, and was glad"
+     ],
+     "status": "confirmed",
+     "note": "PASSAGE B context (v. 56); zero-splice exact-modern; capital \"My day\" = reverential-caps class, row-noted per wave-49 precedent",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "Your father Abraham reioyced to see my day, and he sawe it, and was glad.",
+     "source": "https://ebible.org/enggnv/JHN08.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/43/8",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "Geneva-voiced echo; capital-M class, no flag."
+  },
+  {
+   "id": "JHN.8.57",
+   "ref": "John 8:57",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14204,
+     "cited_as": "John 8:57",
+     "quotes": [
+      "Thou art not yet fifty years old, and hast thou seen Abraham?"
+     ],
+     "status": "anchor",
+     "note": "PASSAGE B context (v. 57) — the echo is KJV-voiced: the 1599 prints \"Then sayd ye Iewes vnto him, Thou art not yet fiftie yeere olde...\" (article-ye, fiftie yeere olde); flagged below",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "Then sayd ye Iewes vnto him, Thou art not yet fiftie yeere olde, and hast thou seene Abraham?",
+     "source": "https://ebible.org/enggnv/JHN08.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/43/8",
+     "date": "2026-11-12"
+    }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "PASSAGE B context (canon 14204) quotes (v. 57) \"Thou art not yet fifty years old, and hast thou seen Abraham?\" — KJV-voiced; the 1599 prints \"Then sayd ye Iewes vnto him, Thou art not yet fiftie yeere olde, and hast thou seene Abraham?\" (ye = the article; fiftie yeere olde; eBible AND TRB) — italic KJV attribution or re-voice awaits Gideon (10 Nov 2026 class).",
+    "awaiting": "Gideon"
+   },
+   "note": "KJV-voiced echo (fiftie-yeere class + article-ye)."
+  },
+  {
+   "id": "1PE.1.3",
+   "ref": "1 Peter 1:3",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14428,
+     "cited_as": "1 Pet 1:3",
+     "quotes": [
+      "the God and Father of our Lord Jesus Christ."
+     ],
+     "status": "confirmed-excerpt",
+     "note": "PASSAGE D cross-witness bullet; GNV-voiced fragment",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "Blessed bee God, euen the Father of our Lord Iesus Christ, which according to his aboundant mercie hath begotten vs againe vnto a liuely hope by the resurrection of Iesus Christ from the dead,",
+     "source": "https://ebible.org/enggnv/1PE01.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/60/1",
+     "date": "2026-11-12"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "REV.3.12",
+   "ref": "Revelation 3:12",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14429,
+     "cited_as": "Rev 3:12",
+     "quotes": [],
+     "status": "anchor",
+     "note": "PASSAGE D bullet: Jesus speaks of \"My God\" four times (mention, no quote)",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "Him that ouercommeth, will I make a pillar in the Temple of my God, and he shall goe no more out: and I will write vpon him the Name of my God, and the name of the citie of my God, which is the newe Hierusalem, which commeth downe out of heauen from my God, and I will write vpon him my newe Name.",
+     "source": "https://ebible.org/enggnv/REV03.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/66/3",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "mention-anchor (My God x4)."
+  },
+  {
+   "id": "LUK.2.11",
+   "ref": "Luke 2:11",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14528,
+     "cited_as": "Luke 2:11",
+     "quotes": [],
+     "status": "anchor",
+     "note": "PASSAGE E two-witness list: \"Jesus is our Saviour\" (mention)",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "That is, that vnto you is borne this day in the citie of Dauid, a Sauiour, which is Christ the Lord.",
+     "source": "https://ebible.org/enggnv/LUK02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/42/2",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "mention-anchor."
+  },
+  {
+   "id": "ROM.9.5",
+   "ref": "Romans 9:5",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14632,
+     "cited_as": "Romans 9:5",
+     "quotes": [
+      "of whom is Christ... who is over all, God blessed for ever"
+     ],
+     "status": "anchor",
+     "note": "QUESTION option (E); the draft itself notes contested punctuation; option mention, no seat",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "Of whome are the fathers, and of whome concerning the flesh, Christ came, who is God ouer all, blessed for euer, Amen.",
+     "source": "https://ebible.org/enggnv/ROM09.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/45/9",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "option mention; punctuation controversy acknowledged in the draft itself."
+  },
+  {
+   "id": "1TI.3.16",
+   "ref": "1 Timothy 3:16",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14634,
+     "cited_as": "1 Timothy 3:16",
+     "quotes": [
+      "God was manifest in the flesh"
+     ],
+     "status": "anchor",
+     "note": "QUESTION option (F); the draft itself notes textual variants; option mention, no seat",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "And without controuersie, great is the mysterie of godlinesse, which is, God is manifested in the flesh, iustified in the Spirit, seene of Angels, preached vnto the Gentiles, beleeued on in the world, and receiued vp in glorie.",
+     "source": "https://ebible.org/enggnv/1TI03.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/54/3",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "option mention; the KJV form quoted, 1599 prints \"God is manifested in the flesh\" family — covered by the draft own variant note."
+  },
+  {
+   "id": "ISA.9.6",
+   "ref": "Isaiah 9:6 (NETS/MT numbering)",
+   "uses": [
+    {
+     "section": "COS-91",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE FIVE DIFFICULT PASSAGES EXAMINED",
+     "article_line": 14630,
+     "cited_as": "Isaiah 9:6 LXX",
+     "quotes": [
+      "Mighty God, Everlasting Father"
+     ],
+     "status": "anchor",
+     "note": "QUESTION option (D); the draft notes LXX/Hebrew read differently; option mention, no seat",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "verified": {
+    "date": "2026-11-12",
+    "editions": [
+     "gnv"
+    ],
+    "result": "confirmed"
+   },
+   "translations": {
+    "gnv": {
+     "text": "For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,",
+     "source": "https://ebible.org/enggnv/ISA09.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree",
+     "source": "textusreceptusbibles.com/Geneva/23/9",
+     "date": "2026-11-12"
+    }
+   },
+   "note": "NETS Isaiah ch9 cache remains a glued mega-verse (parked) — no NETS text banked; option mention only."
   }
  ]
 }

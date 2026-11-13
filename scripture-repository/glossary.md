@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1187 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1198 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1358 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1369 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -15454,7 +15454,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 15:21 | COS-40 | confirmed |
 | 1 Corinthians 15:22 | COS-40 | confirmed |
 | 1 Corinthians 15:23 | COS-40, COS-42 | confirmed |
-| 1 Corinthians 15:24 | COS-40 | confirmed |
+| 1 Corinthians 15:24 | COS-40, COS-91 | confirmed, prose-ref |
 | 1 Corinthians 15:24-28 (range) | COS-39, COS-58 | confirmed, prose-ref |
 | 1 Corinthians 15:25 | COS-40, COS-42 | confirmed |
 | 1 Corinthians 15:26 | COS-40 | confirmed |
@@ -15472,7 +15472,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 6:19 | COS-60, COS-62 | prose-ref |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90 | anchor, confirmed, prose-ref |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
 | 1 John 1:9 | P7, COS-69, COS-81 | anchor, confirmed |
@@ -15499,7 +15499,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Thessalonians 4:16 | COS-38, COS-42 | confirmed |
 | 1 Thessalonians 4:17 | COS-38, COS-66 | confirmed |
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
-| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90 | anchor, confirmed, prose-ref |
+| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
@@ -15563,7 +15563,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 2:34 | COS-58 | confirmed |
 | ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28, COS-34, COS-42 | anchor, confirmed |
 | Acts 2:35 | COS-58 | confirmed |
-| ACT 2 36 | COS-03, COS-16, COS-19, COS-42, COS-58, COS-83, COS-89 | anchor, confirmed, confirmed (excerpt), prose-ref |
+| ACT 2 36 | COS-03, COS-16, COS-19, COS-42, COS-58, COS-83, COS-89, COS-91 | anchor, confirmed, confirmed (excerpt), prose-ref |
 | Acts 2:38 | COS-27 | anchor |
 | Acts 2:4 | P8 | anchor |
 | Acts 3:13 | COS-22 | anchor |
@@ -15586,7 +15586,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 2:22 | SAB11, SAB13 | confirmed (excerpt), recap cross-reference |
 | Colossians 2:23 | SAB11 | confirmed |
 | Colossians 2:8 | SAB11, SAB13 | confirmed, recap cross-reference |
-| COL 1 15 | COS-05, COS-13, COS-17, COS-43, COS-44, COS-49, COS-56, COS-63, COS-89 | anchor, confirmed, prose-ref |
+| COL 1 15 | COS-05, COS-13, COS-17, COS-43, COS-44, COS-49, COS-56, COS-63, COS-89, COS-91 | anchor, confirmed, prose-ref |
 | Colossians 1:16 | COS-01, COS-05, COS-17, COS-42, COS-44, COS-49, COS-89 | anchor, confirmed, prose-ref |
 | COL 1 17 | COS-05, COS-17, COS-89 | confirmed, prose-ref |
 | Colossians 1:18 | COS-43, COS-49, COS-56 | anchor, prose-ref |
@@ -15595,7 +15595,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:14 | COS-21 | confirmed |
 | Colossians 1:18 | COS-21 | confirmed |
 | Colossians 1:19 | COS-21 | confirmed |
-| Colossians 2:9 | COS-55, COS-89, COS-90 | anchor, prose-ref |
+| Colossians 2:9 | COS-55, COS-89, COS-90, COS-91 | anchor, prose-ref, seat |
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
 | Colossians 3:2 | COS-62, COS-69, COS-70, COS-73 | anchor, confirmed, prose-ref |
@@ -15621,7 +15621,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 1:10 | COS-49 | prose-ref |
 | Ephesians 1:13 | COS-58, COS-59, COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
 | Ephesians 1:14 | COS-59, COS-63 | confirmed, prose-ref |
-| Ephesians 1:17 | COS-01, COS-18, COS-88 | confirmed |
+| Ephesians 1:17 | COS-01, COS-18, COS-88, COS-91 | confirmed, prose-ref |
 | Ephesians 1:4 | COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
 | Ephesians 1:6 | COS-62, COS-66, COS-69, COS-81 | anchor, confirmed, prose-ref |
 | Ephesians 2:18 | COS-60, COS-88 | prose-ref |
@@ -15660,7 +15660,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Exodus 20:8 | SAB4, SAB13 | confirmed, recap cross-reference |
 | Exodus 20:9 | SAB4, SAB13 | differs (minor), recap cross-reference |
 | Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89 | anchor, confirmed, prose-ref |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-91 | anchor, confirmed, prose-ref |
 | Exodus 25:8 | COS-54, COS-64 | prose-ref, seat |
 | Exodus 3:14 | P8, COS-11 | anchor, commentary, confirmed |
 | Exodus 3:15 | P1-Q3, P2, CLOSE | confirmed |
@@ -15703,7 +15703,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 4:6 | COS-55, COS-60, COS-66, COS-90 | anchor, confirmed, prose-ref |
 | Galatians 5:24 | COS-66, COS-69, COS-72 | anchor, confirmed, prose-ref |
 | Galatians 6:14 | COS-66, COS-69 | anchor, prose-ref |
-| Genesis 1:1 | COS-01 | anchor |
+| Genesis 1:1 | COS-01, COS-91 | anchor, prose-ref |
 | Genesis 1:14 | SAB10, SAB13 | confirmed (excerpt), recap cross-reference |
 | Genesis 1:2 | COS-01, COS-53, COS-56 | anchor, seat |
 | Genesis 1:3 | SAB10, SAB13 | confirmed, recap cross-reference |
@@ -15782,7 +15782,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 10 22 | COS-33, COS-60 | confirmed, prose-ref |
 | HEB 10 3 | COS-33 | confirmed |
 | HEB 10 4 | COS-33 | confirmed |
-| HEB 10 5 | COS-33, COS-42, COS-90 | confirmed, prose-ref |
+| HEB 10 5 | COS-33, COS-42, COS-90, COS-91 | confirmed, prose-ref |
 | HEB 10 6 | COS-33 | confirmed |
 | HEB 10 7 | COS-33 | confirmed |
 | Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
@@ -15855,7 +15855,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 42:1 | COS-63 | prose-ref |
 | Isaiah 42:6 | SAB5 | anchor |
 | Isaiah 42:8 | P1-Q8 | confirmed |
-| Isaiah 43:10 | COS-24 | anchor |
+| Isaiah 43:10 | COS-24, COS-91 | anchor, prose-ref |
 | Isaiah 43:13 | COS-24 | anchor |
 | Isaiah 43:25 | COS-24 | anchor |
 | Isaiah 44:24 | COS-01, COS-36, COS-40, COS-45 | confirmed, prose-ref |
@@ -15868,7 +15868,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 45:23 | COS-01, COS-35, COS-40, COS-89 | anchor, confirmed, prose-ref |
 | Isaiah 45:5 | COS-01 | confirmed |
 | Isaiah 45:6 | COS-01 | confirmed |
-| Isaiah 46:4 | COS-24 | anchor |
+| Isaiah 46:4 | COS-24, COS-91 | anchor, prose-ref |
 | Isaiah 46:5 | COS-01, COS-13 | confirmed, prose-ref |
 | Isaiah 46:9 | COS-01 | confirmed |
 | Isaiah 48:12 | COS-24, COS-43 | anchor |
@@ -15929,20 +15929,20 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
 | Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90 | anchor, confirmed, prose-ref |
-| John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90 | anchor, confirmed, prose-ref |
-| John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90 | anchor, confirmed, prose-ref |
-| John 1:2 | COS-01, COS-20, COS-89, COS-90 | anchor, confirmed, prose-ref |
+| John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
+| John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
+| John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90, COS-91 | anchor, confirmed, prose-ref |
+| John 1:2 | COS-01, COS-20, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:23 | COS-23 | anchor |
 | John 1:29 | P1-Q8, COS-15 | anchor, confirmed |
-| John 1:3 | COS-01, COS-20, COS-42, COS-44, COS-49, COS-89, COS-90 | anchor, confirmed, prose-ref |
+| John 1:3 | COS-01, COS-20, COS-42, COS-44, COS-49, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:10 | COS-21 | confirmed |
 | John 10:10 | COS-28 | anchor |
 | John 10:11 | P8, COS-24 | confirmed |
 | John 10:14 | COS-24 | confirmed |
 | John 10:28 | COS-62 | prose-ref |
 | John 10:29 | COS-62 | prose-ref |
-| John 10:30 | COS-36, COS-89 | prose-ref |
+| John 10:30 | COS-36, COS-89, COS-91 | prose-ref |
 | John 10:38 | COS-55, COS-56 | anchor, seat |
 | John 10:7 | COS-24 | confirmed |
 | John 10:9 | P8, COS-24 | confirmed |
@@ -15994,7 +15994,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 16:9 | COS-60 | prose-ref |
 | John 1:17 | COS-21 | confirmed |
 | John 17:1 | COS-55, COS-61 | anchor, prose-ref |
-| John 17:11 | COS-14, COS-43, COS-50, COS-61, COS-89 | confirmed, prose-ref |
+| John 17:11 | COS-14, COS-43, COS-50, COS-61, COS-89, COS-91 | confirmed, prose-ref |
 | John 17:12 | COS-14, COS-62 | confirmed, prose-ref |
 | John 17:17 | COS-61 | prose-ref |
 | John 17:18 | COS-61 | prose-ref |
@@ -16009,7 +16009,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:26 | COS-62 | prose-ref |
 | John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90 | anchor, confirmed, prose-ref |
 | John 17:4 | COS-55, COS-61 | anchor, prose-ref |
-| John 17:5 | COS-21, COS-43, COS-61, COS-89, COS-90 | confirmed, prose-ref |
+| John 17:5 | COS-21, COS-43, COS-61, COS-89, COS-90, COS-91 | confirmed, paraphrase, prose-ref |
 | John 17:6 | COS-62 | prose-ref |
 | John 17:9 | COS-62 | prose-ref |
 | John 18:5 | COS-24 | confirmed (excerpt) |
@@ -16022,7 +16022,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 19:36 | COS-23 | confirmed |
 | John 19:37 | COS-23, COS-36 | differs (minor), prose-ref |
 | John 20:11-18 | COS-27 | anchor |
-| John 20:17 | COS-01, COS-18 | confirmed |
+| John 20:17 | COS-01, COS-18, COS-91 | confirmed, prose-ref |
 | John 20:19-29 | COS-27, COS-34 | anchor, confirmed |
 | John 20:22 | P4 | anchor, confirmed |
 | John 20:25 | COS-22, COS-36, COS-41 | confirmed, confirmed (excerpt), prose-ref |
@@ -16033,7 +16033,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 3:29 | COS-24 | anchor |
 | John 3:31 | COS-21 | confirmed (excerpt) |
 | John 1:4 | COS-21 | confirmed |
-| John 4:24 | COS-50, COS-53, COS-56, COS-58, COS-77, COS-90 | anchor, confirmed, prose-ref, seat |
+| John 4:24 | COS-50, COS-53, COS-56, COS-58, COS-77, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 4:25-26 | COS-28 | anchor |
 | John 1:5 | COS-21 | confirmed |
 | John 5:19 | COS-26, COS-43, COS-89 | confirmed, prose-ref |
@@ -16061,8 +16061,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 8:24 | COS-24 | confirmed |
 | John 8:28 | COS-26, COS-56 | anchor, confirmed |
 | John 8:29 | COS-26, COS-40, COS-56 | anchor, confirmed |
-| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24, COS-89, COS-90 | anchor, confirmed, prose-ref |
-| John 8:59 | P8, COS-24 | anchor |
+| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
+| John 8:59 | P8, COS-24, COS-91 | anchor, prose-ref |
 | John 1:9 | COS-21 | confirmed |
 | John 11:9 | SAB10, SAB13, RECAP | confirmed, recap cross-reference |
 | John 15:5 | SAB7 | anchor |
@@ -16129,7 +16129,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Malachi 1:6 | P7 | confirmed |
 | Malachi 4:2 | COS-52 | prose-ref |
 | MAR 13 32 | COS-34 | confirmed |
-| Matthew 1:21 | COS-52 | prose-ref |
+| Matthew 1:21 | COS-52, COS-91 | prose-ref |
 | Matthew 1:22 | COS-23 | confirmed |
 | Matthew 1:23 | COS-23 | confirmed |
 | Matthew 11:2 | COS-23 | confirmed |
@@ -16192,7 +16192,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 28:20 | COS-27, COS-83 | confirmed |
 | Matthew 3:1 | COS-23 | anchor |
 | Matthew 3:16 | COS-55 | anchor |
-| Matthew 3:17 | COS-02, COS-19, COS-63 | confirmed (excerpt), differs (minor), prose-ref |
+| Matthew 3:17 | COS-02, COS-19, COS-63, COS-91 | confirmed (excerpt), differs (minor), prose-ref |
 | Matthew 3:2 | COS-23 | anchor |
 | Matthew 3:3 | COS-23 | confirmed |
 | Matthew 4:14 | COS-23 | differs (minor) |
@@ -16309,7 +16309,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 22:6 | COS-22 | confirmed |
 | Psalm 22:7 | COS-22 | confirmed |
 | Psalm 22:8 | COS-22 | confirmed |
-| Psalm 32:6 | COS-01, COS-20 | commentary, confirmed |
+| Psalm 32:6 | COS-01, COS-20, COS-91 | commentary, confirmed, prose-ref |
 | PSA 39 7 | COS-33, COS-90 | confirmed, prose-ref |
 | PSA 39 8 | COS-33 | confirmed |
 | PSA 39 9 | COS-33 | confirmed |
@@ -16381,7 +16381,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 5:14 | COS-45 | confirmed |
 | Revelation 5:2 | COS-45 | confirmed |
 | Revelation 5:5 | COS-02, COS-19, COS-30, COS-45, COS-52 | confirmed, confirmed (excerpt), prose-ref |
-| REV 5 6 | COS-34, COS-45, COS-52, COS-57, COS-58, COS-63, COS-90 | confirmed, prose-ref |
+| REV 5 6 | COS-34, COS-45, COS-52, COS-57, COS-58, COS-63, COS-90, COS-91 | confirmed, prose-ref |
 | Revelation 5:7 | COS-45 | confirmed |
 | Revelation 5:9-10 | COS-45, COS-63 | confirmed, prose-ref |
 | Revelation 6:12-14 (range) | COS-37 | confirmed |
@@ -16779,10 +16779,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:8 | COS-89 | confirmed |
 | 1 Peter 5:6 | COS-89 | prose-ref |
 | Hebrews 1:4 | COS-89 | prose-ref |
-| John 20:28 | COS-89 | prose-ref |
-| 1 John 5:20 | COS-89 | prose-ref |
-| Titus 2:13 | COS-89 | prose-ref |
-| Hebrews 1:8 | COS-89, COS-90 | prose-ref |
+| John 20:28 | COS-89, COS-91 | prose-ref |
+| 1 John 5:20 | COS-89, COS-91 | prose-ref |
+| Titus 2:13 | COS-89, COS-91 | prose-ref, seat |
+| Hebrews 1:8 | COS-89, COS-90, COS-91 | prose-ref, seat |
 | Matthew 4:2 | COS-89 | prose-ref |
 | John 4:6 | COS-89 | prose-ref |
 | John 3:6 | COS-90 | confirmed, prose-ref |
@@ -16794,6 +16794,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 John 4:9 | COS-90 | prose-ref |
 | John 6:33 | COS-90 | prose-ref |
 | John 6:51 | COS-90 | prose-ref |
+| Psalm 44:7 LXX (Psalm 45:6 MT) | COS-91 | confirmed |
+| Psalm 44:8 LXX (Psalm 45:7 MT) | COS-91 | confirmed |
+| 2 Peter 1:1 | COS-91 | confirmed |
+| John 8:56 | COS-91 | confirmed |
+| John 8:57 | COS-91 | anchor |
+| 1 Peter 1:3 | COS-91 | confirmed (excerpt) |
+| Revelation 3:12 | COS-91 | anchor |
+| Luke 2:11 | COS-91 | anchor |
+| Romans 9:5 | COS-91 | anchor |
+| 1 Timothy 3:16 | COS-91 | anchor |
+| Isaiah 9:6 (NETS/MT numbering) | COS-91 | anchor |
 
 ## The editions used
 
