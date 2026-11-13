@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1113 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1128 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1284 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1299 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -2659,8 +2659,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Hebrews 4:15 — ANCHOR
 *cited as: prose ref (anchor)*
+- **Geneva 1599:** “For we haue not an hie Priest, which can not be touched with the feeling of our infirmities, but was in all things tempted in like sort, yet without sinne.”
 - *Note:* Referenced in the Ps 21:1 observation (2): the Son had no transgressions of His own.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
 
 ### John 12:23 — ANCHOR
 *cited as: prose ref (anchor)*
@@ -10964,7 +10966,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Hebrews 4:15 — ANCHOR
 *cited as: mention — "yet without sin (Heb 4:15)" (canon 10675)*
-- *Checked 2026-11-11 · editions fetched: *
+- **Geneva 1599:** “For we haue not an hie Priest, which can not be touched with the feeling of our infirmities, but was in all things tempted in like sort, yet without sinne.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
 
 ### Romans 8:5 — CONFIRMED
 *cited as: Romans 8:5-8 span seat; print "enimitie" glossed*
@@ -12267,6 +12271,225 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Practical Implications (5) — "as Daniel did in Dan 9"*
 - *Note:* chapter-only mention; NETS Daniel book cache absent (ch-7 print-dump rows only)
 - *Checked 2026-11-12 · editions fetched: *
+
+## PART 8 — THE BELIEVER'S RESPONSE TO TRIALS
+
+### James 1:2 — CONFIRMED
+*cited as: James 1:2-4 seat (canon 12492)*
+- **Geneva 1599:** “My brethren, count it exceeding ioy, when ye fall into diuers tentations,”
+- *Note:* SEAT: joined span v2+v3+v4 (each range row holds the seat); ONE SPLICE: print v3-end comma restored over the draft period (draft-KJV-punctuation class); article-ye y^e trying -> the; folds ioy/diuers/tentations/haue/worke/entier
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT · greek_biblehub_fresh — draft Greek == BibleHub WH/text pages verse-joined 32/32 tokens (interlinear lemma columns excluded)*
+
+### James 1:3 — CONFIRMED
+*cited as: James 1:2-4 seat (canon 12492)*
+- **Geneva 1599:** “Knowing that ye trying of your faith bringeth forth patience,”
+- *Note:* SEAT: joined span v2+v3+v4 (each range row holds the seat); ONE SPLICE: print v3-end comma restored over the draft period (draft-KJV-punctuation class); article-ye y^e trying -> the; folds ioy/diuers/tentations/haue/worke/entier
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### James 1:4 — CONFIRMED
+*cited as: James 1:2-4 seat (canon 12492)*
+- **Geneva 1599:** “And let patience haue her perfect worke, that ye may be perfect and entier, lacking nothing.”
+- *Note:* SEAT: joined span v2+v3+v4 (each range row holds the seat); ONE SPLICE: print v3-end comma restored over the draft period (draft-KJV-punctuation class); article-ye y^e trying -> the; folds ioy/diuers/tentations/haue/worke/entier
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Matthew 5:11 — PROSE-REF
+*cited as: Matt 5:11-12*
+- **Geneva 1599:** “Blessed shall ye be when men reuile you, and persecute you, and say all maner of euill against you for my sake, falsely.”
+- *Note:* Persecution for Righteousness - rejoice (range 5:11-12), pre-banked COS-68 seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Matthew 5:12 — PROSE-REF
+*cited as: Matt 5:11-12*
+- **Geneva 1599:** “Reioyce and be glad, for great is your reward in heauen: for so persecuted they the Prophets which were before you.”
+- *Note:* Persecution for Righteousness - rejoice (range 5:11-12), pre-banked COS-68 seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Acts 5:41 — PROSE-REF
+*cited as: Acts 5:41*
+- **Geneva 1599:** “So they departed from the Councill, reioycing, that they were counted worthy to suffer rebuke for his Name.”
+- *Note:* count it joy to suffer for the Name, COS-68 seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 12:14 — PROSE-REF
+*cited as: Rom 12:14*
+- **Geneva 1599:** “Blesse them which persecute you: blesse, I say, and curse not.”
+- *Note:* Persecution for Righteousness - bless, COS-73 seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.833)*
+
+### Romans 8:23 — PROSE-REF
+*cited as: Rom 8:23*
+- **Geneva 1599:** “And not onely the creature, but we also which haue the first fruites of the Spirit, euen we doe sigh in our selues, waiting for the adoption, euen the redemption of our body.”
+- *Note:* Affliction in the Body - endure with hope of the resurrection
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### James 5:16 — PROSE-REF
+*cited as: James 5:14-16*
+- **Geneva 1599:** “Acknowledge your faultes one to another, and pray one for another, that ye may be healed: for the prayer of a righteous man auaileth much, if it be feruent.”
+- *Note:* range 5:14-16 (5.14/15 anchors new)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 (εὔχεσθε on page; variant columns recorded)*
+
+### James 5:14 — PROSE-REF
+*cited as: James 5:14-16*
+- **Geneva 1599:** “Is any sicke among you? Let him call for the Elders of the Church, and let them pray for him, and anoynt him with oyle in the Name of the Lord.”
+- *Note:* seek prayer (James 5:14-16)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### James 5:15 — PROSE-REF
+*cited as: James 5:14-16*
+- **Geneva 1599:** “And the prayer of faith shall saue the sicke, and the Lord shall raise him vp: and if he haue committed sinnes, they shalbe forgiuen him.”
+- *Note:* seek prayer (James 5:14-16)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### 1 Thessalonians 4:13 — PROSE-REF
+*cited as: 1 Thess 4:13*
+- **Geneva 1599:** “I would not, brethren, haue you ignorant concerning them which are a sleepe, that ye sorow not euen as other which haue no hope.”
+- *Note:* Loss and Bereavement - grieve, but not as those without hope
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Matthew 6:25 — PROSE-REF
+*cited as: Matt 6:25-34*
+- **Geneva 1599:** “Therefore I say vnto you, be not carefull for your life, what ye shall eate, or what ye shall drinke: nor yet for your body, what ye shall put on. Is not the life more worth then meate? and the bodie then raiment?”
+- *Note:* Economic Hardship - trust the Father provision
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Matthew 6:33 — PROSE-REF
+*cited as: Matt 6:33*
+- **Geneva 1599:** “But seeke ye first the kingdome of God, and his righteousnesse, and all these things shall be ministred vnto you.”
+- *Note:* Economic Hardship - seek the kingdom first
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Philippians 4:11 — PROSE-REF
+*cited as: Phil 4:11-13*
+- **Geneva 1599:** “I speake not because of want: for I haue learned in whatsoeuer state I am, therewith to bee content.”
+- *Note:* Economic Hardship - be content
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Philippians 4:12 — PROSE-REF
+*cited as: Phil 4:11-13*
+- **Geneva 1599:** “And I can be abased, and I can abounde: euery where in all things I am instructed, both to be full, and to be hungrie, and to abounde, and to haue want.”
+- *Note:* Economic Hardship - be content
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Philippians 4:13 — PROSE-REF
+*cited as: Phil 4:11-13*
+- **Geneva 1599:** “I am able to do al things through the helpe of Christ, which strengtheneth me.”
+- *Note:* Economic Hardship - be content
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### 2 Thessalonians 3:10 — PROSE-REF
+*cited as: 2 Thess 3:10-12*
+- **Geneva 1599:** “For euen when we were with you, this we warned you of, that if there were any, which would not worke, that he should not eate.”
+- *Note:* Economic Hardship - work diligently
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### 2 Thessalonians 3:11 — PROSE-REF
+*cited as: 2 Thess 3:10-12*
+- **Geneva 1599:** “For we heare, that there are some which walke among you inordinately, and worke not at all, but are busie bodies.”
+- *Note:* Economic Hardship - work diligently
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### 2 Thessalonians 3:12 — PROSE-REF
+*cited as: 2 Thess 3:10-12*
+- **Geneva 1599:** “Therefore them that are such, we warne and exhort by our Lord Iesus Christ, that they worke with quietnes, and eate their owne bread.”
+- *Note:* Economic Hardship - work diligently
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Romans 12:18 — PROSE-REF
+*cited as: Rom 12:18*
+- **Geneva 1599:** “If it bee possible, as much as in you is, haue peace with all men.”
+- *Note:* seek peace as far as it depends on you, COS-73 seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Colossians 3:13 — PROSE-REF
+*cited as: Col 3:13*
+- **Geneva 1599:** “Forbearing one another, and forgiuing one another, if any man haue a quarel to another: euen as Christ forgaue, euen so doe ye.”
+- *Note:* forgive as Christ forgave, COS-73 seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.569)*
+
+### Matthew 5:44 — PROSE-REF
+*cited as: Matt 5:44*
+- **Geneva 1599:** “But I say vnto you, Loue your enemies: blesse them that curse you: doe good to them that hate you, and pray for them which hurt you, and persecute you,”
+- *Note:* Relational Trials - pray for those who hurt you
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### Romans 8:28 — PROSE-REF
+*cited as: Rom 8:28*
+- **Geneva 1599:** “Also we knowe that all thinges worke together for the best vnto them that loue God, euen to them that are called of his purpose.”
+- *Note:* Sustaining Truth 3 - all things work for good, wave-41 anchor
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Hebrews 4:15 — PROSE-REF
+*cited as: Heb 4:15*
+- **Geneva 1599:** “For we haue not an hie Priest, which can not be touched with the feeling of our infirmities, but was in all things tempted in like sort, yet without sinne.”
+- *Note:* Sustaining Truth 4 - "He sympathizes with our weaknesses" = paraphrase echo (GNV: touched with the feeling of our infirmities); gnv text BACKFILLED this wave
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT*
+
+### 2 Corinthians 4:17 — PROSE-REF
+*cited as: 2 Cor 4:17*
+- **Geneva 1599:** “For our light affliction which is but for a moment, causeth vnto vs a farre most excellent and an eternall waight of glorie:”
+- *Note:* Sustaining Truth 6 - the trial is temporary; italic fragment GNV-EXACT at modern folds (gnv print 'our light affliction which is but for a moment,') - good-reason, KJV identical modulo its 'affliction,' comma
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:18 — PROSE-REF
+*cited as: Rom 8:18*
+- **Geneva 1599:** “For I count that the afflictions of this present time are not worthy of the glory, which shalbe shewed vnto vs.”
+- *Note:* Sustaining Truth 7 - the glory coming
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:38 — PROSE-REF
+*cited as: Rom 8:38-39*
+- **Geneva 1599:** “For I am perswaded that neither death, nor life, nor Angels, nor principalities, nor powers, nor things present, nor things to come,”
+- *Note:* Nothing separates us from His love (range)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.0 of draft Greek; dup-stream window 1.0*
+
+### Romans 8:39 — PROSE-REF
+*cited as: Rom 8:38-39*
+- **Geneva 1599:** “Nor height, nor depth, nor any other creature shalbe able to separate vs from the loue of God, which is in Christ Iesus our Lord.”
+- *Note:* Nothing separates us from His love (range)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse after eBible tnav footer-glue strip (eBible==TRB 1.000 token)*
+
+### 1 Peter 4:12 — PROSE-REF
+*cited as: 1 Pet 4:12*
+- **Geneva 1599:** “Dearely beloued, thinke it not strange concerning the firie triall, which is among you to proue you, as though some strange thing were come vnto you:”
+- *Note:* Do not be surprised by trials; pre-banked COS-68 era row
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Galatians 6:2 — PROSE-REF
+*cited as: Gal 6:2 (unmarked echo)*
+- **Geneva 1599:** “Beare ye one anothers burden, and so fulfill the Lawe of Christ.”
+- *Note:* Practical 4 'Bear one another burdens' - echoes Gal 6:2, no ref cited in draft
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 # THE BIBLICAL SABBATH
 
@@ -14438,7 +14661,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 2:8 | COS-40 | confirmed |
 | Hebrews 2:9 | COS-40 | confirmed |
 | Hebrews 1:3 | COS-21 | confirmed |
-| Hebrews 4:15 | COS-22, COS-70 | anchor |
+| Hebrews 4:15 | COS-22, COS-70, COS-82 | anchor, prose-ref |
 | HEB 5 5-6 | COS-04, COS-19 | anchor, differs (minor) |
 | HEB 6 13 | COS-08 | confirmed |
 | HEB 6 14 | COS-08 | confirmed |
@@ -15128,14 +15351,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 2:13 | COS-66 | prose-ref |
 | Colossians 1:14 | COS-66 | prose-ref |
 | Matthew 5:10 | COS-68 | confirmed |
-| Matthew 5:11 | COS-68 | anchor, confirmed |
-| Matthew 5:12 | COS-68 | confirmed |
+| Matthew 5:11 | COS-68, COS-82 | anchor, confirmed, prose-ref |
+| Matthew 5:12 | COS-68, COS-82 | confirmed, prose-ref |
 | John 15:18 | COS-68 | confirmed |
 | John 15:19 | COS-68 | confirmed |
 | John 15:20 | COS-68 | confirmed |
 | 2 Timothy 3:12 | COS-68 | confirmed |
 | John 15:21 | COS-68 | confirmed |
-| Acts 5:41 | COS-68 | confirmed |
+| Acts 5:41 | COS-68, COS-82 | confirmed, prose-ref |
 | 1 Peter 4:14 | COS-68 | confirmed |
 | 1 Peter 4:16 | COS-68 | anchor, confirmed |
 | 1 Peter 4:15 | COS-68 | anchor, prose-ref |
@@ -15144,10 +15367,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 4:10 | COS-68 | confirmed |
 | 2 Corinthians 4:11 | COS-68 | confirmed |
 | Romans 8:36 | COS-68 | confirmed |
-| Romans 8:18 | COS-68, COS-70 | anchor, confirmed |
+| Romans 8:18 | COS-68, COS-70, COS-82 | anchor, confirmed, prose-ref |
 | Romans 8:19 | COS-68 | confirmed |
 | Romans 8:22 | COS-68 | confirmed |
-| Romans 8:23 | COS-68, COS-70 | confirmed |
+| Romans 8:23 | COS-68, COS-70, COS-82 | confirmed, prose-ref |
 | 2 Corinthians 11:28 | COS-68 | confirmed |
 | 2 Corinthians 11:29 | COS-68 | confirmed |
 | Colossians 1:24 | COS-68 | confirmed |
@@ -15164,11 +15387,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 12:7 | COS-68 | confirmed |
 | Hebrews 12:8 | COS-68 | confirmed |
 | Hebrews 12:11 | COS-68 | confirmed |
-| 2 Corinthians 4:17 | COS-68 | confirmed |
+| 2 Corinthians 4:17 | COS-68, COS-82 | confirmed, prose-ref |
 | Philippians 1:29 | COS-68 | confirmed |
-| 1 Peter 4:12 | COS-68 | confirmed |
+| 1 Peter 4:12 | COS-68, COS-82 | confirmed, prose-ref |
 | Psalm 43:23 (MT 44:22) | COS-68 | anchor |
-| Romans 8:28 | COS-68, COS-70 | anchor, confirmed |
+| Romans 8:28 | COS-68, COS-70, COS-82 | anchor, confirmed, prose-ref |
 | Romans 8:31 | COS-68, COS-70 | anchor, confirmed |
 | Romans 8:33 | COS-68 | anchor |
 | Romans 8:35 | COS-68 | anchor |
@@ -15228,8 +15451,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 8:12 | COS-70 | confirmed |
 | Romans 8:26 | COS-70, COS-75 | confirmed |
 | Romans 8:27 | COS-70 | confirmed |
-| Romans 8:38 | COS-70 | confirmed |
-| Romans 8:39 | COS-70 | confirmed |
+| Romans 8:38 | COS-70, COS-82 | confirmed, prose-ref |
+| Romans 8:39 | COS-70, COS-82 | confirmed, prose-ref |
 | Galatians 5:16 | COS-70 | confirmed |
 | Galatians 5:17 | COS-70 | confirmed |
 | Ephesians 5:18 | COS-70, COS-77 | confirmed |
@@ -15237,11 +15460,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 12:2 | COS-71, COS-76 | anchor, confirmed |
 | Romans 12:9 | COS-71 | confirmed |
 | Romans 12:10 | COS-71, COS-78 | confirmed, prose-ref |
-| Romans 12:14 | COS-71 | confirmed |
+| Romans 12:14 | COS-71, COS-82 | confirmed, prose-ref |
 | Romans 12:17 | COS-71 | confirmed |
 | Romans 12:19 | COS-71 | confirmed |
 | Romans 12:21 | COS-71 | confirmed |
-| Romans 12:18 | COS-71 | anchor |
+| Romans 12:18 | COS-71, COS-82 | anchor, prose-ref |
 | Galatians 5:1 | COS-72 | confirmed |
 | Galatians 5:13 | COS-72, COS-78 | confirmed, prose-ref |
 | Galatians 5:14 | COS-72 | confirmed |
@@ -15256,7 +15479,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 3:10 | COS-73 | confirmed |
 | Colossians 3:11 | COS-73 | confirmed |
 | Colossians 3:12 | COS-73 | confirmed |
-| Colossians 3:13 | COS-73, COS-78 | confirmed, prose-ref |
+| Colossians 3:13 | COS-73, COS-78, COS-82 | confirmed, prose-ref |
 | Colossians 3:14 | COS-73 | confirmed |
 | Colossians 3:15 | COS-73 | confirmed |
 | Colossians 3:17 | COS-73 | confirmed |
@@ -15321,7 +15544,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 John 4:11 | COS-78 | prose-ref |
 | 1 John 4:12 | COS-78 | prose-ref |
 | Ephesians 4:2 | COS-78 | prose-ref |
-| Galatians 6:2 | COS-78 | prose-ref |
+| Galatians 6:2 | COS-78, COS-82 | prose-ref |
 | 1 Thessalonians 4:18 | COS-78 | prose-ref |
 | 1 Thessalonians 5:11 | COS-78 | prose-ref |
 | Hebrews 3:13 | COS-78 | prose-ref |
@@ -15331,7 +15554,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 5:21 | COS-78 | prose-ref |
 | 1 Peter 5:5 | COS-78 | prose-ref |
 | 1 Peter 4:9 | COS-78 | prose-ref |
-| James 5:16 | COS-78, COS-81 | confirmed, prose-ref |
+| James 5:16 | COS-78, COS-81, COS-82 | confirmed, prose-ref |
 | Colossians 3:16 | COS-78 | prose-ref |
 | 1 Corinthians 16:20 | COS-78 | prose-ref |
 | Romans 16:16 | COS-78 | prose-ref |
@@ -15363,6 +15586,21 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Genesis 39:12 | COS-80 | prose-ref |
 | 1 Corinthians 11 | COS-81 | anchor |
 | Daniel 9 | COS-81 | anchor |
+| James 1:2 | COS-82 | confirmed |
+| James 1:3 | COS-82 | confirmed |
+| James 1:4 | COS-82 | confirmed |
+| James 5:14 | COS-82 | prose-ref |
+| James 5:15 | COS-82 | prose-ref |
+| 1 Thessalonians 4:13 | COS-82 | prose-ref |
+| Matthew 5:44 | COS-82 | prose-ref |
+| Matthew 6:25 | COS-82 | prose-ref |
+| Matthew 6:33 | COS-82 | prose-ref |
+| Philippians 4:11 | COS-82 | prose-ref |
+| Philippians 4:12 | COS-82 | prose-ref |
+| Philippians 4:13 | COS-82 | prose-ref |
+| 2 Thessalonians 3:10 | COS-82 | prose-ref |
+| 2 Thessalonians 3:11 | COS-82 | prose-ref |
+| 2 Thessalonians 3:12 | COS-82 | prose-ref |
 
 ## The editions used
 

@@ -133,7 +133,8 @@
    "COS-78",
    "COS-79",
    "COS-80",
-   "COS-81"
+   "COS-81",
+   "COS-82"
   ],
   "sections": [
    {
@@ -613,6 +614,10 @@
    {
     "key": "COS-81",
     "label": "PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications"
+   },
+   {
+    "key": "COS-82",
+    "label": "PART 8 — THE BELIEVER'S RESPONSE TO TRIALS"
    }
   ],
   "double_check": {
@@ -673,11 +678,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 109059,
+  "so_far_words": 109681,
   "cos_sofar": {
-   "waves": 51
+   "waves": 52
   },
-  "glossary": 1284
+  "glossary": 1299
  },
  "verses": [
   {
@@ -17777,11 +17782,32 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12551,
+     "cited_as": "Heb 4:15",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Sustaining Truth 4 - \"He sympathizes with our weaknesses\" = paraphrase echo (GNV: touched with the feeling of our infirmities); gnv text BACKFILLED this wave",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-11",
-   "translations": {},
-   "second_check": {},
+   "translations": {
+    "gnv": {
+     "text": "For we haue not an hie Priest, which can not be touched with the feeling of our infirmities, but was in all things tempted in like sort, yet without sinne.",
+     "source": "ebible.org enggnv HEB04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we haue not an hie Priest, which can not be touched with the feeling of our infirmities, but was in all things tempted in like sort, yet without sinne.",
+     "source": "textusreceptusbibles.com/Geneva/58/4",
+     "result": "EXACT"
+    }
+   },
    "note": ""
   },
   {
@@ -47891,6 +47917,16 @@
      "status": "anchor",
      "note": "modern-believer §2 \"Reviling and slander (Matt 5:11)\" heading (canon 9760)",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12516,
+     "cited_as": "Matt 5:11-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Persecution for Righteousness - rejoice (range 5:11-12), pre-banked COS-68 seat",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -47927,6 +47963,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12516,
+     "cited_as": "Matt 5:11-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Persecution for Righteousness - rejoice (range 5:11-12), pre-banked COS-68 seat",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -48143,6 +48189,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12516,
+     "cited_as": "Acts 5:41",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "count it joy to suffer for the Name, COS-68 seat",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -48497,6 +48553,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12554,
+     "cited_as": "Rom 8:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Sustaining Truth 7 - the glory coming",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -48615,6 +48681,16 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12520,
+     "cited_as": "Rom 8:23",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Affliction in the Body - endure with hope of the resurrection",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -49262,6 +49338,18 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12553,
+     "cited_as": "2 Cor 4:17",
+     "quotes": [
+      "light affliction which is but for a moment"
+     ],
+     "status": "prose-ref",
+     "note": "Sustaining Truth 6 - the trial is temporary; italic fragment GNV-EXACT at modern folds (gnv print 'our light affliction which is but for a moment,') - good-reason, KJV identical modulo its 'affliction,' comma",
+     "quote_kind": "quote"
     }
    ],
    "verified": "2026-11-12",
@@ -49334,6 +49422,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12561,
+     "cited_as": "1 Pet 4:12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Do not be surprised by trials; pre-banked COS-68 era row",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -49411,6 +49509,16 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12550,
+     "cited_as": "Rom 8:28",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Sustaining Truth 3 - all things work for good, wave-41 anchor",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51525,6 +51633,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12555,
+     "cited_as": "Rom 8:38-39",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Nothing separates us from His love (range)",
+     "quote_kind": "reference"
     }
    ],
    "second_check": {
@@ -51560,6 +51678,16 @@
      "status": "confirmed",
      "note": "eBible chapter-closing footer (\"Romans < 8 >\") glued to v39 text — stripped before the EB==TRB compare; TRB clean.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12555,
+     "cited_as": "Rom 8:38-39",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Nothing separates us from His love (range)",
+     "quote_kind": "reference"
     }
    ],
    "second_check": {
@@ -51870,6 +51998,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12516,
+     "cited_as": "Rom 12:14",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Persecution for Righteousness - bless, COS-73 seat",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -52014,6 +52152,16 @@
      "status": "anchor",
      "note": "prose paraphrase \"Be at peace with all men so far as it depends on you\" (canon 11739); anchor row",
      "quote_kind": "paraphrase"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12532,
+     "cited_as": "Rom 12:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "seek peace as far as it depends on you, COS-73 seat",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -52583,6 +52731,16 @@
      "quotes": [],
      "status": "prose-ref",
      "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12532,
+     "cited_as": "Col 3:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "forgive as Christ forgave, COS-73 seat",
      "quote_kind": "reference"
     }
    ],
@@ -54739,6 +54897,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12567,
+     "cited_as": "Gal 6:2 (unmarked echo)",
+     "quotes": [
+      "Bear one another's burdens."
+     ],
+     "status": "prose-ref",
+     "note": "Practical 4 'Bear one another burdens' - echoes Gal 6:2, no ref cited in draft",
+     "quote_kind": "paraphrase"
     }
    ],
    "verified": "2026-11-12",
@@ -55099,6 +55269,16 @@
      "status": "confirmed",
      "note": "SEAT: ZERO-SPLICE exact-modern (faultes/auaileth/feruent folds); draft Greek καὶ εὔχεσθε matches the page's εὔχεσθε column; variant column προσεύχεσθε; TR column reads τὰ παραπτώματα — row-noted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12520,
+     "cited_as": "James 5:14-16",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "range 5:14-16 (5.14/15 anchors new)",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -56105,6 +56285,476 @@
    "verified": "2026-11-12",
    "translations": {},
    "note": "chapter anchor (ISA.35 shape)"
+  },
+  {
+   "id": "JAM.1.2",
+   "ref": "James 1:2",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "My brethren, count it exceeding ioy, when ye fall into diuers tentations,",
+     "source": "ebible.org enggnv JAS01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "My brethren, count it exceeding ioy, when ye fall into diuers tentations,",
+     "source": "textusreceptusbibles.com/Geneva/59/1",
+     "result": "EXACT"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Πᾶσαν χαρὰν ἡγήσασθε, ἀδελφοί μου, ὅταν πειρασμοῖς περιπέσητε ποικίλοις, γινώσκοντες ὅτι τὸ δοκίμιον ὑμῶν τῆς πίστεως κατεργάζεται ὑπομονήν· ἡ δὲ ὑπομονὴ ἔργον τέλειον ἐχέτω, ἵνα ἦτε τέλειοι καὶ ὁλόκληροι, ἐν μηδενὶ λειπόμενοι.",
+     "source": "biblehub.com/text/james/1-2,1-3,1-4",
+     "result": "draft Greek == BibleHub WH/text pages verse-joined 32/32 tokens (interlinear lemma columns excluded)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12492,
+     "cited_as": "James 1:2-4 seat (canon 12492)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v2+v3+v4 (each range row holds the seat); ONE SPLICE: print v3-end comma restored over the draft period (draft-KJV-punctuation class); article-ye y^e trying -> the; folds ioy/diuers/tentations/haue/worke/entier",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-82 canon 12492; joined span v2+v3+v4; ONE SPLICE: print v3-end comma restored over the draft's period 'patience.' (draft-KJV-punctuation class); article-ye y^e trying -> 'the trying' (both sources print 'ye'); fold ioy/diuers/tentations; folds ioy/diuers/tentations"
+  },
+  {
+   "id": "JAM.1.3",
+   "ref": "James 1:3",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Knowing that ye trying of your faith bringeth forth patience,",
+     "source": "ebible.org enggnv JAS01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Knowing that ye trying of your faith bringeth forth patience,",
+     "source": "textusreceptusbibles.com/Geneva/59/1",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12492,
+     "cited_as": "James 1:2-4 seat (canon 12492)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v2+v3+v4 (each range row holds the seat); ONE SPLICE: print v3-end comma restored over the draft period (draft-KJV-punctuation class); article-ye y^e trying -> the; folds ioy/diuers/tentations/haue/worke/entier",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-82 canon 12492; joined span v2+v3+v4; ONE SPLICE: print v3-end comma restored over the draft's period 'patience.' (draft-KJV-punctuation class); article-ye y^e trying -> 'the trying' (both sources print 'ye'); fold ioy/diuers/tentations; splice + article-ye here ('patience.' -> print 'patience,')"
+  },
+  {
+   "id": "JAM.1.4",
+   "ref": "James 1:4",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And let patience haue her perfect worke, that ye may be perfect and entier, lacking nothing.",
+     "source": "ebible.org enggnv JAS01.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And let patience haue her perfect worke, that ye may be perfect and entier, lacking nothing.",
+     "source": "textusreceptusbibles.com/Geneva/59/1",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12492,
+     "cited_as": "James 1:2-4 seat (canon 12492)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "SEAT: joined span v2+v3+v4 (each range row holds the seat); ONE SPLICE: print v3-end comma restored over the draft period (draft-KJV-punctuation class); article-ye y^e trying -> the; folds ioy/diuers/tentations/haue/worke/entier",
+     "quote_kind": "seat"
+    }
+   ],
+   "note": "Geneva 1599 seat COS-82 canon 12492; joined span v2+v3+v4; ONE SPLICE: print v3-end comma restored over the draft's period 'patience.' (draft-KJV-punctuation class); article-ye y^e trying -> 'the trying' (both sources print 'ye'); fold ioy/diuers/tentations; folds haue/worke/entier"
+  },
+  {
+   "id": "JAM.5.14",
+   "ref": "James 5:14",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Is any sicke among you? Let him call for the Elders of the Church, and let them pray for him, and anoynt him with oyle in the Name of the Lord.",
+     "source": "ebible.org enggnv JAS05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Is any sicke among you? Let him call for the Elders of the Church, and let them pray for him, and anoynt him with oyle in the Name of the Lord.",
+     "source": "textusreceptusbibles.com/Geneva/59/5",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12520,
+     "cited_as": "James 5:14-16",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "seek prayer (James 5:14-16)",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 5:14-16 (5:16 pre-banked COS-81)"
+  },
+  {
+   "id": "JAM.5.15",
+   "ref": "James 5:15",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And the prayer of faith shall saue the sicke, and the Lord shall raise him vp: and if he haue committed sinnes, they shalbe forgiuen him.",
+     "source": "ebible.org enggnv JAS05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And the prayer of faith shall saue the sicke, and the Lord shall raise him vp: and if he haue committed sinnes, they shalbe forgiuen him.",
+     "source": "textusreceptusbibles.com/Geneva/59/5",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12520,
+     "cited_as": "James 5:14-16",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "seek prayer (James 5:14-16)",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 5:14-16 (5:16 pre-banked COS-81)"
+  },
+  {
+   "id": "1TH.4.13",
+   "ref": "1 Thessalonians 4:13",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I would not, brethren, haue you ignorant concerning them which are a sleepe, that ye sorow not euen as other which haue no hope.",
+     "source": "ebible.org enggnv 1TH04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I would not, brethren, haue you ignorant concerning them which are a sleepe, that ye sorow not euen as other which haue no hope.",
+     "source": "textusreceptusbibles.com/Geneva/52/4",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12524,
+     "cited_as": "1 Thess 4:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Loss and Bereavement - grieve, but not as those without hope",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "print 'that ye sorow not' = article-ye"
+  },
+  {
+   "id": "MAT.5.44",
+   "ref": "Matthew 5:44",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But I say vnto you, Loue your enemies: blesse them that curse you: doe good to them that hate you, and pray for them which hurt you, and persecute you,",
+     "source": "ebible.org enggnv MAT05.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But I say vnto you, Loue your enemies: blesse them that curse you: doe good to them that hate you, and pray for them which hurt you, and persecute you,",
+     "source": "textusreceptusbibles.com/Geneva/40/5",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12532,
+     "cited_as": "Matt 5:44",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Relational Trials - pray for those who hurt you",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "MAT.6.25",
+   "ref": "Matthew 6:25",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore I say vnto you, be not carefull for your life, what ye shall eate, or what ye shall drinke: nor yet for your body, what ye shall put on. Is not the life more worth then meate? and the bodie then raiment?",
+     "source": "ebible.org enggnv MAT06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore I say vnto you, be not carefull for your life, what ye shall eate, or what ye shall drinke: nor yet for your body, what ye shall put on. Is not the life more worth then meate? and the bodie then raiment?",
+     "source": "textusreceptusbibles.com/Geneva/40/6",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "Matt 6:25-34",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - trust the Father provision",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 6:25-34"
+  },
+  {
+   "id": "MAT.6.33",
+   "ref": "Matthew 6:33",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But seeke ye first the kingdome of God, and his righteousnesse, and all these things shall be ministred vnto you.",
+     "source": "ebible.org enggnv MAT06.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "But seeke ye first the kingdome of God, and his righteousnesse, and all these things shall be ministred vnto you.",
+     "source": "textusreceptusbibles.com/Geneva/40/6",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "Matt 6:33",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - seek the kingdom first",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "PHP.4.11",
+   "ref": "Philippians 4:11",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I speake not because of want: for I haue learned in whatsoeuer state I am, therewith to bee content.",
+     "source": "ebible.org enggnv PHP04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I speake not because of want: for I haue learned in whatsoeuer state I am, therewith to bee content.",
+     "source": "textusreceptusbibles.com/Geneva/50/4",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "Phil 4:11-13",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - be content",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 4:11-13"
+  },
+  {
+   "id": "PHP.4.12",
+   "ref": "Philippians 4:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I can be abased, and I can abounde: euery where in all things I am instructed, both to be full, and to be hungrie, and to abounde, and to haue want.",
+     "source": "ebible.org enggnv PHP04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And I can be abased, and I can abounde: euery where in all things I am instructed, both to be full, and to be hungrie, and to abounde, and to haue want.",
+     "source": "textusreceptusbibles.com/Geneva/50/4",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "Phil 4:11-13",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - be content",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 4:11-13"
+  },
+  {
+   "id": "PHP.4.13",
+   "ref": "Philippians 4:13",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I am able to do al things through the helpe of Christ, which strengtheneth me.",
+     "source": "ebible.org enggnv PHP04.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I am able to do al things through the helpe of Christ, which strengtheneth me.",
+     "source": "textusreceptusbibles.com/Geneva/50/4",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "Phil 4:11-13",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - be content",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "print 'al things' = the 1599 all-'al' form"
+  },
+  {
+   "id": "2TH.3.10",
+   "ref": "2 Thessalonians 3:10",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For euen when we were with you, this we warned you of, that if there were any, which would not worke, that he should not eate.",
+     "source": "ebible.org enggnv 2TH03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For euen when we were with you, this we warned you of, that if there were any, which would not worke, that he should not eate.",
+     "source": "textusreceptusbibles.com/Geneva/53/3",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "2 Thess 3:10-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - work diligently",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 3:10-12"
+  },
+  {
+   "id": "2TH.3.11",
+   "ref": "2 Thessalonians 3:11",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we heare, that there are some which walke among you inordinately, and worke not at all, but are busie bodies.",
+     "source": "ebible.org enggnv 2TH03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For we heare, that there are some which walke among you inordinately, and worke not at all, but are busie bodies.",
+     "source": "textusreceptusbibles.com/Geneva/53/3",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "2 Thess 3:10-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - work diligently",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 3:10-12"
+  },
+  {
+   "id": "2TH.3.12",
+   "ref": "2 Thessalonians 3:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore them that are such, we warne and exhort by our Lord Iesus Christ, that they worke with quietnes, and eate their owne bread.",
+     "source": "ebible.org enggnv 2TH03.htm"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore them that are such, we warne and exhort by our Lord Iesus Christ, that they worke with quietnes, and eate their owne bread.",
+     "source": "textusreceptusbibles.com/Geneva/53/3",
+     "result": "EXACT"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-82",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 8 — THE BELIEVER'S RESPONSE TO TRIALS: Joy in Trial (James 1:2-4); the Kinds of Trials; the Sustaining Truths; Practical Implications",
+     "article_line": 12528,
+     "cited_as": "2 Thess 3:10-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "Economic Hardship - work diligently",
+     "quote_kind": "reference"
+    }
+   ],
+   "note": "range anchor 3:10-12"
   }
  ]
 }

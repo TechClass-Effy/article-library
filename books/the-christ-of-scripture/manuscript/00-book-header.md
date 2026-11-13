@@ -216,3 +216,16 @@ folds; draft Greek εὔχεσθε matches the page's εὔχεσθε column —
 Observation; Practical Implications 1-6 (Dan 9 chapter anchor)). EB==TRB 2/2 fresh both verses;
 WH Greek set-containment on both draft Greek blocks (1JN 1:9 page variant column ἐστι vs
 seat/Byzantine ἐστιν — row-noted).
+
+78. (C) PART 8 — THE BELIEVER'S RESPONSE TO TRIALS (COS-82 — Joy in Trial: James 1:2-4 joined
+Geneva seat (ONE SPLICE: print v3-end comma restored over the draft's period 'patience.' —
+draft-KJV-punctuation class; article-ye 'ye trying' folded 'the' — both sources print 'ye';
+ioy/diuers/tentations/haue/worke/entier modern folds); observations verbatim incl. ὑπομονή +
+gloss); The Different Kinds of Trials (Matt 5:11-12 + Acts 5:41 + Rom 12:14 + James 5:14-16
+(JAM.5.14/15 anchors) + Rom 8:23 + 1 Thess 4:13 anchor + Matt 6:25-34 range anchor + Matt 6:33 +
+2 Thess 3:10-12 anchors + Phil 4:11-13 anchors + Matt 5:44 anchor + Col 3:13 + Rom 12:18);
+The Sustaining Truths (Rom 8:28 + Heb 4:15 'touched with the feeling of our infirmities' — text
+BACKFILL + 'He sympathizes' paraphrase echo + 'light affliction which is but for a moment' 2 Cor
+4:17 GNV-exact fragment good-reason + Rom 8:18 + Rom 8:38-39); Practical Implications 1-7 (1 Pet
+4:12; Gal 6:2 echo cited-without-ref)). EB==TRB 16/16 EXACT fresh; draft Greek James 1:2-4 =
+BibleHub 32/32 tokens verse-joined).
