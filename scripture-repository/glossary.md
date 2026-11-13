@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1226 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1256 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1397 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1427 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -6148,8 +6148,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Colossians 1:18 — ANCHOR
 *cited as: mention-anchor*
+- **Geneva 1599:** “And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.”
 - *Note:* prose cross-ref in the (D) Revelation-1 wave observation
-- *Checked 2026-11-12 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 ### Psalm 2:7 — ANCHOR
 *cited as: mention-anchor*
@@ -6812,8 +6814,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Colossians 1:18 — PROSE-REF
 *cited as: the firstborn from the dead (Col 1:18)*
+- **Geneva 1599:** “And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.”
 - *Note:* (D)-close mention-anchor.
-- *Checked 2026-11-12 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 ### Ephesians 1:10 — PROSE-REF
 *cited as: the One in whom "all things are gathered up" (Eph 1:10)*
@@ -7884,8 +7888,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Colossians 1:18 — ANCHOR
 *cited as: Pattern table — "The Firstborn from the dead (Col 1:18; Rev 1:5)" (table mention)*
+- **Geneva 1599:** “And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.”
 - *Note:* Pattern-table mention.
-- *Checked 2026-11-12 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
 
 ### Hebrews 12:9 — ANCHOR
 *cited as: Pattern table — "The Father of spirits (Heb 12:9)" (table mention)*
@@ -15162,6 +15168,419 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
+## PART TWO — WHAT THIS MEANS FOR US CORPORATELY
+
+### Ephesians 1:10 — CONFIRMED
+*cited as: Ephesians 1:10*
+- **Geneva 1599:** “That in the dispensation of the fulnesse of the times, he might gather together in one all things, both which are in heauen, and which are in earth, euen in Christ:”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Ephesians 1:9 — CONFIRMED
+*cited as: Ephesians 1:9*
+- **Geneva 1599:** “And hath opened vnto vs the mysterie of his will according to his good pleasure, which he had purposed in him,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 1:18 — PROSE-REF
+*cited as: Col 1:18*
+- **Geneva 1599:** “And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 12:12 — PROSE-REF
+*cited as: 1 Cor 12:12-27*
+- **Geneva 1599:** “For as the body is one, and hath many members, and all the members of the body, which is one, though they be many, yet are but one body: euen so is Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Colossians 1:24 — PROSE-REF
+*cited as: Col 1:24*
+- **Geneva 1599:** “Now reioyce I in my suffrings for you, and fulfill the rest of the afflictions of Christ in my flesh, for his bodies sake, which is the Church,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Ephesians 4:16 — PROSE-REF
+*cited as: Eph 4:12-16*
+- **Geneva 1599:** “By whome al the body being coupled and knit together by euery ioynt, for ye furniture therof (according to the effectual power, which is in the measure of euery part) receiueth increase of the body, vnto the edifying of itselfe in loue.”
+- *Note:* range endpoint (Eph 4:12-16 parenthetical)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 12:4 — PROSE-REF
+*cited as: Rom 12:4-5*
+- **Geneva 1599:** “For as wee haue many members in one body, and all members haue not one office,”
+- *Note:* range pair with Rom 12:5 (W48 seat)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Colossians 2:19 — PROSE-REF
+*cited as: Col 2:19*
+- **Geneva 1599:** “And holdeth not the head, whereof all the body furnished and knit together by ioyntes and bands, increaseth with the increasing of God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 4:15 — PROSE-REF
+*cited as: Eph 4:15-16*
+- **Geneva 1599:** “But let vs folowe the truth in loue, and in all things, grow vp into him, which is the head, that is, Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 12:5 — PROSE-REF
+*cited as: Rom 12:5; Eph 4:25*
+- **Geneva 1599:** “So we being many are one body in Christ, and euery one, one anothers members.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 4:25 — PROSE-REF
+*cited as: Rom 12:5; Eph 4:25*
+- **Geneva 1599:** “Wherefore cast off lying, and speake euery man truth vnto his neighbour: for we are members one of another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 12:21 — PROSE-REF
+*cited as: 1 Cor 12:21*
+- **Geneva 1599:** “And the eye cannot say vnto the hand, I haue no neede of thee: nor the head againe to the feete, I haue no neede of you.”
+- *Note:* bullet quotes "I have no need of thee"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 4:12 — PROSE-REF
+*cited as: Eph 4:12*
+- **Geneva 1599:** “For the repairing of the Saintes, for the woorke of the ministerie, and for the edification of the bodie of Christ,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 6:2 — PROSE-REF
+*cited as: Gal 6:2*
+- **Geneva 1599:** “Beare ye one anothers burden, and so fulfill the Lawe of Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 12:15 — PROSE-REF
+*cited as: Rom 12:15*
+- *Checked 2026-11-12 · editions fetched: *
+
+### Ephesians 4:3 — PROSE-REF
+*cited as: Eph 4:3*
+- **Geneva 1599:** “Endeuouring to keepe the vnitie of the Spirit in the bond of peace.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Galatians 5:20 — PROSE-REF
+*cited as: 1 Cor 3:1-4; Gal 5:20*
+- **Geneva 1599:** “Idolatrie, witchcraft, hatred, debate, emulations, wrath, contentions, seditions, heresies,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — close (set-containment 0.0; window 0.641)*
+
+### Hebrews 10:24 — PROSE-REF
+*cited as: Heb 10:24-25*
+- **Geneva 1599:** “And let vs consider one another, to prouoke vnto loue, and to good workes,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Hebrews 10:25 — PROSE-REF
+*cited as: Heb 10:24-25*
+- **Geneva 1599:** “Not forsaking the fellowship that we haue among our selues, as the maner of some is: but let vs exhort one another, and that so much the more, because ye see that the day draweth neere.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Philippians 2:4 — PROSE-REF
+*cited as: Phil 2:4*
+- **Geneva 1599:** “Looke not euery man on his owne things, but euery man also on the things of other men.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 4:13 — PROSE-REF
+*cited as: Eph 4:13*
+- **Geneva 1599:** “Till we all meete together (in the vnitie of faith and that acknowledging of the Sonne of God) vnto a perfite man, and vnto the measure of the age of the fulnesse of Christ,”
+- *Note:* Part-Two Body section embeds the verse KJV-voiced ("until we all come in the unity of the faith...")
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 5:25 — CONFIRMED
+*cited as: Ephesians 5:25*
+- **Geneva 1599:** “Husbands, loue your wiues, euen as Christ loued the Church, and gaue himselfe for it,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 5:26 — CONFIRMED
+*cited as: Ephesians 5:26*
+- **Geneva 1599:** “That hee might sanctifie it, and clense it by the washing of water through the worde,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 5:27 — CONFIRMED
+*cited as: Ephesians 5:27*
+- **Geneva 1599:** “That hee might make it vnto him selfe a glorious Church, not hauing spot or wrinkle, or any such thing: but that it shoulde bee holy and without blame.”
+- *Note:* print v27 carries NO comma after "holy" — the draft's KJV punctuation dropped (seat = print)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Revelation 19:7 — CONFIRMED
+*cited as: Revelation 19:7*
+- **Geneva 1599:** “Let vs be glad and reioyce, and giue glory to him: for the marriage of that Lambe is come, and his wife hath made her selfe ready.”
+- *Note:* SPLICE: the 1599 print reads "the marriage of THAT Lamb" (draft "the Lamb" KJV-voiced) — seat = print; leading ellipsis honored
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Revelation 19:8 — CONFIRMED
+*cited as: Revelation 19:8*
+- **Geneva 1599:** “And to her was granted, that she should be arayed with pure fine linnen and shining, for the fine linnen is the righteousnesse of Saintes.”
+- *Note:* Part-Two Bride bullet (canon 16054) quotes "the righteousness of saints" — print-agree at folds (righteousnesse/Saintes); no flag; v8 sits under the seat mid-ellipsis
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Revelation 19:9 — CONFIRMED
+*cited as: Revelation 19:9*
+- **Geneva 1599:** “Then he said vnto me, Write, Blessed are they which are called vnto the Lambes supper. And he said vnto me, These wordes of God are true.”
+- *Note:* possessive Lambes->Lamb's modern fold; print tail "And he said unto me, These words of God are true." under the draft trailing ellipsis
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Revelation 22:20 — PROSE-REF
+*cited as: Rev 22:17, 20*
+- **Geneva 1599:** “He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.”
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### Revelation 22:17 — PROSE-REF
+*cited as: Rev 22:17*
+- **Geneva 1599:** “And the Spirit and the bride say, Come. And let him that heareth, say, Come: and let him that is a thirst, come: and let whosoeuer will, take of the water of life freely.”
+- *Note:* the Bride's cry bullet pairs 22:17 with 22:20
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 3:16 — PROSE-REF
+*cited as: 1 Cor 3:16-17*
+- **Geneva 1599:** “Knowe ye not that ye are the Temple of God, and that the Spirit of God dwelleth in you?”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### 1 Corinthians 3:17 — PROSE-REF
+*cited as: 1 Cor 3:16-17*
+- **Geneva 1599:** “If any man destroy the Temple of God, him shall God destroy: for the Temple of God is holy, which ye are.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### 2 Corinthians 6:16 — PROSE-REF
+*cited as: 1 Cor 3:16-17; 2 Cor 6:16*
+- **Geneva 1599:** “And what agreement hath the Temple of God with idols? for ye are the Temple of the liuing God: as God hath said, I will dwell among them, and walke there: and I will be their God, and they shalbe my people.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 2:21 — CONFIRMED
+*cited as: Eph 2:19-22*
+- **Geneva 1599:** “In whom all the building coupled together, groweth vnto an holy Temple in the Lord.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 2:22 — CONFIRMED
+*cited as: Eph 2:19-22*
+- **Geneva 1599:** “In whom ye also are built together to be the habitation of God by the Spirit.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 2:19 — CONFIRMED
+*cited as: Ephesians 2:19*
+- **Geneva 1599:** “Nowe therefore ye are no more strangers and forreiners: but citizens with the Saintes, and of the houshold of God,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Ephesians 2:20 — CONFIRMED
+*cited as: Ephesians 2:20*
+- **Geneva 1599:** “And are built vpon the foundation of the Apostles and Prophets, Iesus Christ himselfe being the chiefe corner stone,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### 1 Peter 2:5 — PROSE-REF
+*cited as: 1 Pet 2:5*
+- **Geneva 1599:** “Yee also as liuely stones, bee made a spirituall house, an holy Priesthoode to offer vp spirituall sacrifices acceptable to God by Iesus Christ.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Revelation 21:3 — PROSE-REF
+*cited as: Rev 21:3*
+- **Geneva 1599:** “And I heard a great voice out of heauen, saying, Behold, the Tabernacle of God is with men, and he will dwell with them: and they shalbe his people, and God himselfe shalbe their God with them.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### 1 Peter 2:9 — CONFIRMED
+*cited as: 1 Peter 2:9*
+- **Geneva 1599:** “But yee are a chosen generation, a royall Priesthoode, an holy nation, a people set at libertie, that yee shoulde shewe foorth the vertues of him that hath called you out of darkenesse into his marueilous light,”
+- *Note:* SPLICE: print "a people set at liberty" over draft "a peculiar people"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Hebrews 13:15 — PROSE-REF
+*cited as: Heb 13:15-16*
+- **Geneva 1599:** “Let vs therefore by him offer the sacrifice of prayse alwaies to God, that is, the fruite of the lippes, which confesse his Name.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Hebrews 13:16 — PROSE-REF
+*cited as: Heb 13:15-16*
+- **Geneva 1599:** “To doe good, and to distribute forget not: for with such sacrifices God is pleased.”
+- *Note:* range endpoint (Heb 13:15 pre-banked W47)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Ephesians 3:14 — CONFIRMED
+*cited as: Eph 3:14-15*
+- **Geneva 1599:** “For this cause I bowe my knees vnto the Father of our Lord Iesus Christ,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 3:15 — CONFIRMED
+*cited as: Eph 3:14-15*
+- **Geneva 1599:** “(Of whom is named the whole familie in heauen and in earth)”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Ephesians 1:17 — PROSE-REF
+*cited as: Eph 1:17*
+- **Geneva 1599:** “That the God of our Lord Iesus Christ, that Father of glory, might giue vnto you the Spirit of wisedome, and reuelation through the acknowledging of him,”
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Hebrews 2:11 — PROSE-REF
+*cited as: Heb 2:11-12*
+- **Geneva 1599:** “For he that sanctifieth, and they which are sanctified, are all of one: wherefore he is not ashamed to call them brethren,”
+- *Note:* range pair with Heb 2:12 (shared parenthetical)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Hebrews 2:12 — PROSE-REF
+*cited as: Heb 2:11-12*
+- **Geneva 1599:** “Saying, I will declare thy Name vnto my brethren: in the middes of the Church will I sing praises to thee.”
+- *Note:* range pair with Heb 2:11 (shared parenthetical)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### Romans 8:29 — PROSE-REF
+*cited as: Rom 8:29; Heb 2:11-12*
+- **Geneva 1599:** “For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 8:17 — PROSE-REF
+*cited as: Rom 8:17*
+- **Geneva 1599:** “If we be children, we are also heires, euen the heires of God, and heires annexed with Christ: if so be that we suffer with him, that we may also be glorified with him.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### John 13:34 — PROSE-REF
+*cited as: John 13:34-35; 1 Pet 1:22*
+- **Geneva 1599:** “A newe commandement giue I vnto you, that ye loue one another: as I haue loued you, that ye also loue one another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### John 13:35 — PROSE-REF
+*cited as: John 13:34-35; 1 Pet 1:22*
+- **Geneva 1599:** “By this shall all men knowe that ye are my disciples, if ye haue loue one to another.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 1:22 — PROSE-REF
+*cited as: John 13:34-35; 1 Pet 1:22*
+- **Geneva 1599:** “Hauing purified your soules in obeying the trueth through the spirite, to loue brotherly without faining, loue one another with a pure heart feruently,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Corinthians 5:18 — CONFIRMED
+*cited as: 2 Cor 5:18-20*
+- **Geneva 1599:** “And all things are of God, which hath reconciled vs vnto himselfe by Iesus Christ, and hath giuen vnto vs the ministerie of reconciliation.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Corinthians 5:19 — CONFIRMED
+*cited as: 2 Cor 5:18-20*
+- **Geneva 1599:** “For God was in Christ, and reconciled the world to himselfe, not imputing their sinnes vnto them, and hath committed to vs the word of reconciliation.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Corinthians 5:20 — CONFIRMED
+*cited as: 2 Cor 5:18-20*
+- **Geneva 1599:** “Now then are we ambassadours for Christ: as though God did beseeche you through vs, we pray you in Christes steade, that ye be reconciled to God.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Matthew 28:19 — PROSE-REF
+*cited as: Matt 28:19-20*
+- **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — 1.000 · trb_fresh — 1.000*
+
+### Matthew 28:20 — PROSE-REF
+*cited as: Matt 28:19-20*
+- **Geneva 1599:** “Teaching them to obserue all things, whatsoeuer I haue commanded you: and lo, I am with you alway, vntill the ende of the worlde, Amen.”
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — EXACT · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages matthew/28-19 + matthew/28-20 joined, set containment (case class only: Patros/Uliou/Agiou/Pneumatos caps)*
+
+### Acts 1:8 — PROSE-REF
+*cited as: Acts 1:8*
+- **Geneva 1599:** “But yee shall receiue power of the holy Ghost, when he shall come on you: and ye shalbe witnesses vnto me both in Hierusalem and in all Iudea, and in Samaria, and vnto the vttermost part of the earth.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Corinthians 3:9 — PROSE-REF
+*cited as: 1 Cor 3:9*
+- **Geneva 1599:** “For we together are Gods labourers: yee are Gods husbandrie, and Gods building.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Revelation 5:9-10 — PROSE-REF
+*cited as: Rev 5:9*
+- **Geneva 1599:** “And they sung a new song, saying, Thou art worthie to take the Booke, and to open the seales thereof, because thou wast killed, and hast redeemed vs to God by thy blood out of euery kinred, and tongue, and people, and nation,”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 fwd (120/120); WH v12 head Και μεγαλη φωνη sits in the draft’s own ellipsis*
+
+### Revelation 7:9-17 — PROSE-REF
+*cited as: Rev 7:9*
+- **Geneva 1599:** “After these thinges I behelde, and loe a great multitude, which no man coulde number, of all nations and kindreds, and people, and tongues, stoode before the throne, and before the Lambe, clothed with long white robes, and palmes in their hands.”
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.976 fwd (2 artifact tokens: Εἰσιν case-class; ἐπ᾽ koronis vs ἐπ’ apostrophe — wave-11/24 class)*
+
+### James 1:18 — CONFIRMED
+*cited as: James 1:18*
+- **Geneva 1599:** “Of his owne will begate hee vs with the woorde of trueth, that we shoulde be as the first fruites of his creatures.”
+- *Note:* ZERO-SPLICE — "as the first fruits" IS the 1599 printing (not KJV "a kind of firstfruits"); enggnv code = JAS01
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 8:19 — PROSE-REF
+*cited as: Rom 8:19-22*
+- **Geneva 1599:** “For the feruent desire of the creature waiteth when the sonnes of God shalbe reueiled,”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:22 — PROSE-REF
+*cited as: Rom 8:19-22*
+- **Geneva 1599:** “For we knowe that euery creature groneth with vs also, and trauaileth in paine together vnto this present.”
+- *Note:* range endpoint (Rom 8:19-22 parenthetical)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:23 — PROSE-REF
+*cited as: Rom 8:23; Rom 8:19-22*
+- **Geneva 1599:** “And not onely the creature, but we also which haue the first fruites of the Spirit, euen we doe sigh in our selues, waiting for the adoption, euen the redemption of our body.”
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Romans 8:20 — PROSE-REF
+*cited as: Rom 8:19-22*
+- **Geneva 1599:** “Because the creature is subiect to vanitie, not of it owne will, but by reason of him, which hath subdued it vnder hope,”
+- *Note:* range endpoint (Rom 8:19-22 parenthetical); Rom 8:19 pre-banked (W52)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:21 — PROSE-REF
+*cited as: Rom 8:19-22*
+- **Geneva 1599:** “Because the creature also shall be deliuered from the bondage of corruption into the glorious libertie of the sonnes of God.”
+- *Note:* range interior (Rom 8:19-22 parenthetical)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -16967,6 +17386,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv, kjv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
+## PART TWO — WHAT THIS MEANS FOR US CORPORATELY
+
+### 1 Corinthians 12:27 — PROSE-REF
+*cited as: 1 Cor 12:12-27*
+- **Geneva 1599:** “Now ye are the body of Christ, and members for your part.”
+- **KJV:** “Now ye are the body of Christ, and members in particular.”
+- *Checked 2026-11-04 · editions fetched: gnv, kjv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
 ---
 
 ## Master index (by book)
@@ -16986,7 +17414,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 10:4 | P8, COS-12, COS-19 | anchor, confirmed |
 | 1 Corinthians 10:9 | COS-12 | confirmed |
 | 1 Corinthians 12:11 | COS-58 | prose-ref |
-| 1 Corinthians 12:27 | SAB11, COS-66 | anchor, confirmed, prose-ref |
+| 1 Corinthians 12:27 | SAB11, COS-66, COS-103 | anchor, confirmed, prose-ref |
 | 1 Corinthians 15:20 | COS-40, COS-49 | confirmed, prose-ref |
 | 1 Corinthians 15:21 | COS-40 | confirmed |
 | 1 Corinthians 15:22 | COS-40 | confirmed |
@@ -17006,8 +17434,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 2:10 | COS-60 | prose-ref |
 | 1 Corinthians 2:11 | COS-60 | prose-ref |
 | 1 Corinthians 2:14 | COS-60 | prose-ref |
-| 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
-| 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
+| 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62, COS-103 | anchor, prose-ref |
+| 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62, COS-103 | anchor, prose-ref |
 | 1 Corinthians 6:19 | COS-60, COS-62, COS-102 | prose-ref |
 | 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-92, COS-95, COS-98, COS-91 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
@@ -17044,7 +17472,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66, COS-102 | prose-ref |
-| 2 Corinthians 6:16 | COS-52, COS-60, COS-62, COS-102 | prose-ref |
+| 2 Corinthians 6:16 | COS-52, COS-60, COS-62, COS-102, COS-103 | prose-ref |
 | 2 Corinthians 6:18 | COS-48 | prose-ref |
 | 2 Esdras 23:15 | SAB7, SAB13 | differs, recap cross-reference |
 | 2 Esdras 23:16 | SAB7 | differs |
@@ -17126,7 +17554,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | COL 1 15 | COS-05, COS-13, COS-17, COS-43, COS-44, COS-49, COS-56, COS-63, COS-89, COS-91 | anchor, confirmed, prose-ref |
 | Colossians 1:16 | COS-01, COS-05, COS-17, COS-42, COS-44, COS-49, COS-89 | anchor, confirmed, prose-ref |
 | COL 1 17 | COS-05, COS-17, COS-89 | confirmed, prose-ref |
-| Colossians 1:18 | COS-43, COS-49, COS-56 | anchor, prose-ref |
+| Colossians 1:18 | COS-43, COS-49, COS-56, COS-103 | anchor, prose-ref |
 | Colossians 1:27 | COS-60, COS-62, COS-66, COS-102 | confirmed, prose-ref |
 | Colossians 1:13 | COS-21 | confirmed |
 | Colossians 1:14 | COS-21 | confirmed |
@@ -17155,16 +17583,16 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-36, COS-40, COS-56, COS-57, COS-58, COS-90, COS-92 | anchor, confirmed, prose-ref |
 | Deuteronomy 6:5 | P9 | confirmed, paraphrase |
 | Deuteronomy 9:10 | P1-Q3 | confirmed |
-| Ephesians 1:10 | COS-49 | prose-ref |
+| Ephesians 1:10 | COS-49, COS-103 | confirmed, prose-ref |
 | Ephesians 1:13 | COS-58, COS-59, COS-63, COS-66, COS-69, COS-100, COS-101, COS-102 | anchor, confirmed, prose-ref |
 | Ephesians 1:14 | COS-59, COS-63, COS-100, COS-101, COS-102 | confirmed, prose-ref |
-| Ephesians 1:17 | COS-01, COS-18, COS-88, COS-91 | confirmed, prose-ref |
+| Ephesians 1:17 | COS-01, COS-18, COS-88, COS-103, COS-91 | confirmed, prose-ref |
 | Ephesians 1:4 | COS-63, COS-66, COS-69, COS-100, COS-101, COS-102 | anchor, confirmed, prose-ref |
 | Ephesians 1:6 | COS-62, COS-66, COS-69, COS-81, COS-100, COS-101, COS-102 | anchor, confirmed, prose-ref |
 | Ephesians 2:18 | COS-60, COS-88 | prose-ref |
-| Ephesians 2:21 | COS-54, COS-60, COS-62 | anchor, prose-ref |
-| Ephesians 2:22 | COS-54, COS-60, COS-62, COS-69 | anchor, prose-ref |
-| Ephesians 3:14 | COS-62, COS-88 | confirmed, prose-ref |
+| Ephesians 2:21 | COS-54, COS-60, COS-62, COS-103 | anchor, confirmed, prose-ref |
+| Ephesians 2:22 | COS-54, COS-60, COS-62, COS-69, COS-103 | anchor, confirmed, prose-ref |
+| Ephesians 3:14 | COS-62, COS-88, COS-103 | confirmed, prose-ref |
 | Ephesians 3:16 | COS-62, COS-70, COS-88 | confirmed, prose-ref |
 | Ephesians 3:17 | COS-62, COS-88 | confirmed, prose-ref |
 | Ephesians 3:18 | COS-62, COS-88 | confirmed, prose-ref |
@@ -17326,8 +17754,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 12 24 | COS-34 | confirmed |
 | Hebrews 12:9 | COS-53, COS-56 | anchor, seat |
 | Hebrews 1:2 | COS-21 | confirmed |
-| Hebrews 2:11 | COS-22 | confirmed |
-| Hebrews 2:12 | COS-22 | confirmed |
+| Hebrews 2:11 | COS-22, COS-103 | confirmed, prose-ref |
+| Hebrews 2:12 | COS-22, COS-103 | confirmed, prose-ref |
 | Hebrews 2:6 | COS-40 | confirmed |
 | Hebrews 2:8 | COS-40 | confirmed |
 | Hebrews 2:9 | COS-40 | confirmed |
@@ -17725,8 +18153,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 27:60 | COS-22 | confirmed (excerpt) |
 | Matthew 27:9 | COS-23 | anchor |
 | MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40, COS-92, COS-97 | anchor, confirmed, prose-ref |
-| Matthew 28:19 | COS-27, COS-83, COS-92 | confirmed |
-| Matthew 28:20 | COS-27, COS-83 | confirmed |
+| Matthew 28:19 | COS-27, COS-83, COS-92, COS-103 | confirmed, prose-ref |
+| Matthew 28:20 | COS-27, COS-83, COS-103 | confirmed, prose-ref |
 | Matthew 3:1 | COS-23 | anchor |
 | Matthew 3:16 | COS-55 | anchor |
 | Matthew 3:17 | COS-02, COS-19, COS-63, COS-91 | confirmed (excerpt), differs (minor), prose-ref |
@@ -17888,7 +18316,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 20:14 | COS-40 | confirmed |
 | Revelation 21:22 (GNV; spans WH 21:22-23) | COS-41 | confirmed |
 | Revelation 21:23 | COS-43, COS-50 | anchor, prose-ref |
-| Revelation 21:3 | COS-52, COS-60, COS-62 | confirmed, prose-ref |
+| Revelation 21:3 | COS-52, COS-60, COS-62, COS-103 | confirmed, prose-ref |
 | Revelation 21:4 | COS-40 | confirmed |
 | Revelation 21:5 | COS-48 | confirmed |
 | Revelation 21:6 | COS-48 | confirmed |
@@ -17898,7 +18326,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:13 | COS-42, COS-49, COS-52 | confirmed, prose-ref |
 | Revelation 22:16 | COS-02, COS-19, COS-42, COS-49, COS-52 | confirmed, confirmed (excerpt), prose-ref |
 | Revelation 22:2 | COS-50 | confirmed |
-| Revelation 22:20 | COS-42, COS-51, COS-88 | confirmed |
+| Revelation 22:20 | COS-42, COS-51, COS-88, COS-103 | confirmed, prose-ref |
 | Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
 | Revelation 22:4 | COS-41, COS-50, COS-62, COS-66, COS-92, COS-100, COS-101, COS-102 | confirmed, prose-ref |
 | Revelation 22:5 | COS-50, COS-66, COS-102 | confirmed, prose-ref |
@@ -17920,13 +18348,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 5:5 | COS-02, COS-19, COS-30, COS-45, COS-52 | confirmed, confirmed (excerpt), prose-ref |
 | REV 5 6 | COS-34, COS-45, COS-52, COS-57, COS-58, COS-63, COS-90, COS-91 | confirmed, prose-ref |
 | Revelation 5:7 | COS-45 | confirmed |
-| Revelation 5:9-10 | COS-45, COS-63 | confirmed, prose-ref |
+| Revelation 5:9-10 | COS-45, COS-63, COS-103 | confirmed, prose-ref |
 | Revelation 6:12-14 (range) | COS-37 | confirmed |
 | Revelation 7:10 | COS-46 | confirmed |
 | Revelation 7:15 | COS-46 | confirmed |
 | Revelation 7:16 | COS-46 | confirmed |
 | Revelation 7:17 | COS-46, COS-54 | anchor, confirmed |
-| Revelation 7:9-17 | COS-46 | confirmed |
+| Revelation 7:9-17 | COS-46, COS-103 | confirmed, prose-ref |
 | Romans 1:23 | COS-53, COS-56 | anchor, seat |
 | ROM 1 3-4 | COS-03, COS-19, COS-42 | confirmed, confirmed (excerpt) |
 | Romans 10:16 | COS-22 | confirmed |
@@ -17949,8 +18377,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60, COS-70 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63, COS-70, COS-102 | confirmed, prose-ref |
-| Romans 8:17 | COS-62, COS-66, COS-67, COS-70 | confirmed, prose-ref |
-| Romans 8:29 | COS-63, COS-66, COS-68, COS-70, COS-100, COS-101, COS-102 | anchor, confirmed, prose-ref |
+| Romans 8:17 | COS-62, COS-66, COS-67, COS-70, COS-103 | confirmed, prose-ref |
+| Romans 8:29 | COS-63, COS-66, COS-68, COS-70, COS-100, COS-101, COS-102, COS-103 | anchor, confirmed, prose-ref |
 | Romans 8:30 | COS-62, COS-68, COS-70, COS-102 | anchor, confirmed, prose-ref |
 | Romans 8:32 | COS-22, COS-42, COS-70 | confirmed, confirmed (excerpt) |
 | ROM 8 34 | COS-30, COS-62, COS-68, COS-88, COS-102 | anchor, confirmed, prose-ref |
@@ -18001,7 +18429,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 3:27 | COS-66 | confirmed, prose-ref |
 | Romans 6:3 | COS-66, COS-69, COS-100, COS-101 | confirmed, prose-ref |
 | 1 Corinthians 12:13 | COS-66 | confirmed |
-| 1 Corinthians 12:12 | COS-66 | confirmed |
+| 1 Corinthians 12:12 | COS-66, COS-103 | confirmed, prose-ref |
 | Ephesians 5:30 | COS-66 | confirmed, prose-ref |
 | 1 Corinthians 6:17 | COS-66 | confirmed, prose-ref |
 | Romans 8:14 | COS-66, COS-70 | confirmed |
@@ -18039,12 +18467,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 4:11 | COS-68 | confirmed |
 | Romans 8:36 | COS-68 | confirmed |
 | Romans 8:18 | COS-68, COS-70, COS-82, COS-102 | anchor, confirmed, prose-ref |
-| Romans 8:19 | COS-68 | confirmed |
-| Romans 8:22 | COS-68 | confirmed |
-| Romans 8:23 | COS-68, COS-70, COS-82 | confirmed, prose-ref |
+| Romans 8:19 | COS-68, COS-103 | confirmed, prose-ref |
+| Romans 8:22 | COS-68, COS-103 | confirmed, prose-ref |
+| Romans 8:23 | COS-68, COS-70, COS-82, COS-103 | confirmed, prose-ref |
 | 2 Corinthians 11:28 | COS-68 | confirmed |
 | 2 Corinthians 11:29 | COS-68 | confirmed |
-| Colossians 1:24 | COS-68, COS-102 | confirmed, prose-ref |
+| Colossians 1:24 | COS-68, COS-102, COS-103 | confirmed, prose-ref |
 | Matthew 16:24 | COS-68 | confirmed |
 | Matthew 16:25 | COS-68 | confirmed |
 | Luke 9:23 | COS-68 | confirmed |
@@ -18069,7 +18497,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 12:2 | COS-68 | anchor |
 | Hebrews 13:3 | COS-68 | anchor |
 | 1 Peter 1:4 | COS-68 | anchor |
-| Romans 12:15 | COS-68 | anchor |
+| Romans 12:15 | COS-68, COS-103 | anchor, prose-ref |
 | Colossians 3:5 | COS-68, COS-69, COS-73 | anchor, confirmed |
 | Colossians 2:23 | COS-68 | anchor |
 | Matthew 10:34-37 | COS-68 | anchor |
@@ -18103,7 +18531,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 2:14 | COS-69 | anchor |
 | Hebrews 2:15 | COS-69 | anchor |
 | Ephesians 2:10 | COS-69, COS-102 | anchor, prose-ref |
-| Ephesians 2:19 | COS-69 | anchor |
+| Ephesians 2:19 | COS-69, COS-103 | anchor, confirmed |
 | Philippians 4:8 | COS-69 | anchor |
 | 1 John 1:7 | COS-69 | anchor |
 | 1 John 1:8 | COS-69 | anchor |
@@ -18141,7 +18569,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Galatians 5:14 | COS-72 | confirmed |
 | Galatians 5:15 | COS-72, COS-78 | confirmed, prose-ref |
 | Galatians 5:19 | COS-72 | confirmed |
-| Galatians 5:20 | COS-72 | confirmed |
+| Galatians 5:20 | COS-72, COS-103 | confirmed, prose-ref |
 | Galatians 5:21 | COS-72 | confirmed |
 | Colossians 3:6 | COS-73 | confirmed |
 | Colossians 3:7 | COS-73 | confirmed |
@@ -18197,25 +18625,25 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 1:2 (LXX = MT) | COS-76 | confirmed |
 | Psalm 119:11 (MT; LXX 118:11) | COS-76 | confirmed |
 | John 4:23 | COS-77 | confirmed |
-| Hebrews 13:15 | COS-77 | confirmed |
+| Hebrews 13:15 | COS-77, COS-103 | confirmed, prose-ref |
 | Ephesians 5:19 | COS-77 | confirmed |
 | Ephesians 5:20 | COS-77 | confirmed |
 | Proverbs 3:6 | COS-77 | prose-ref |
-| Romans 12:5 | COS-78 | confirmed, prose-ref |
-| Hebrews 10:24 | COS-78 | confirmed |
-| Hebrews 10:25 | COS-78 | confirmed |
+| Romans 12:5 | COS-78, COS-103 | confirmed, prose-ref |
+| Hebrews 10:24 | COS-78, COS-103 | confirmed, prose-ref |
+| Hebrews 10:25 | COS-78, COS-103 | confirmed, prose-ref |
 | Romans 13:8 | COS-78 | prose-ref |
-| John 13:34 | COS-78 | prose-ref |
-| John 13:35 | COS-78 | prose-ref |
+| John 13:34 | COS-78, COS-103 | prose-ref |
+| John 13:35 | COS-78, COS-103 | prose-ref |
 | 1 Thessalonians 4:9 | COS-78 | prose-ref |
-| 1 Peter 1:22 | COS-78 | prose-ref |
+| 1 Peter 1:22 | COS-78, COS-103 | prose-ref |
 | 1 John 3:11 | COS-78 | prose-ref |
 | 1 John 3:23 | COS-78 | prose-ref |
 | 1 John 4:7 | COS-78 | prose-ref |
 | 1 John 4:11 | COS-78 | prose-ref |
 | 1 John 4:12 | COS-78 | prose-ref |
 | Ephesians 4:2 | COS-78 | prose-ref |
-| Galatians 6:2 | COS-78, COS-82 | prose-ref |
+| Galatians 6:2 | COS-78, COS-82, COS-103 | prose-ref |
 | 1 Thessalonians 4:18 | COS-78 | prose-ref |
 | 1 Thessalonians 5:11 | COS-78 | prose-ref |
 | Hebrews 3:13 | COS-78 | prose-ref |
@@ -18291,7 +18719,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:8 | COS-84 | prose-ref |
 | Acts 4:24 | COS-88 | confirmed |
 | Acts 4:25 | COS-88 | confirmed |
-| Ephesians 3:15 | COS-88 | confirmed |
+| Ephesians 3:15 | COS-88, COS-103 | confirmed |
 | Hebrews 13:20 | COS-88 | confirmed |
 | Hebrews 13:21 | COS-88 | confirmed |
 | 2 Cor 12:8 | COS-88 | confirmed |
@@ -18370,6 +18798,36 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Cor 5:10 | COS-102 | prose-ref |
 | Phil 1:6 | COS-102 | prose-ref |
 | Phil 3:14 | COS-102 | prose-ref |
+| 1 Corinthians 12:21 | COS-103 | prose-ref |
+| 1 Corinthians 3:9 | COS-103 | prose-ref |
+| 1 Peter 2:5 | COS-103 | prose-ref |
+| Acts 1:8 | COS-103 | prose-ref |
+| Colossians 2:19 | COS-103 | prose-ref |
+| Ephesians 4:12 | COS-103 | prose-ref |
+| Ephesians 4:13 | COS-103 | prose-ref |
+| Ephesians 4:15 | COS-103 | prose-ref |
+| Ephesians 4:16 | COS-103 | prose-ref |
+| Ephesians 4:3 | COS-103 | prose-ref |
+| Hebrews 13:16 | COS-103 | prose-ref |
+| Philippians 2:4 | COS-103 | prose-ref |
+| Revelation 22:17 | COS-103 | prose-ref |
+| Romans 12:4 | COS-103 | prose-ref |
+| Romans 8:20 | COS-103 | prose-ref |
+| Romans 8:21 | COS-103 | prose-ref |
+| Ephesians 1:9 | COS-103 | confirmed |
+| Ephesians 5:25 | COS-103 | confirmed |
+| Ephesians 5:26 | COS-103 | confirmed |
+| Ephesians 5:27 | COS-103 | confirmed |
+| Revelation 19:7 | COS-103 | confirmed |
+| Revelation 19:8 | COS-103 | confirmed |
+| Revelation 19:9 | COS-103 | confirmed |
+| Ephesians 2:20 | COS-103 | confirmed |
+| 1 Peter 2:9 | COS-103 | confirmed |
+| James 1:18 | COS-103 | confirmed |
+| 2 Corinthians 5:18 | COS-103 | confirmed |
+| 2 Corinthians 5:19 | COS-103 | confirmed |
+| 2 Corinthians 5:20 | COS-103 | confirmed |
+| Ephesians 4:25 | COS-103 | prose-ref |
 
 ## The editions used
 

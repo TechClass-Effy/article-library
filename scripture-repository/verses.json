@@ -712,6 +712,15 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16004,
+     "cited_as": "1 Cor 12:12-27",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-04",
@@ -1546,6 +1555,15 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16063,
+     "cited_as": "1 Cor 3:16-17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -1616,6 +1634,15 @@
      "quotes": [],
      "status": "prose-ref",
      "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16063,
+     "cited_as": "1 Cor 3:16-17",
+     "quotes": [],
+     "status": "prose-ref",
      "quote_kind": "reference"
     }
    ],
@@ -3777,6 +3804,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "shared parenthetical list"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16063,
+     "cited_as": "1 Cor 3:16-17; 2 Cor 6:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -7659,10 +7695,33 @@
      "status": "anchor",
      "note": "Pattern-table mention.",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16004,
+     "cited_as": "Col 1:18",
+     "quotes": [
+      "And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
-   "translations": {}
+   "translations": {
+    "gnv": {
+     "text": "And hee is the head of the body of the Church: he is the beginning, and the first begotten of the dead, that in all thinges hee might haue the preeminence.",
+     "source": "eBible.org enggnv COL01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/51/1"
+    }
+   }
   },
   {
    "id": "COL.1.27",
@@ -9570,6 +9629,17 @@
      "status": "prose-ref",
      "note": "Typological-principle bullet mention (Eph 1:10 — the gathering of all things in the Son).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 15990,
+     "cited_as": "Ephesians 1:10",
+     "quotes": [
+      "That in the dispensation of the fulnesse of the times, he might gather together in one all things, both which are in heauen, and which are in earth, euen in Christ:"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -9859,6 +9929,15 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE D cross-witness bullet"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16122,
+     "cited_as": "Eph 1:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-07",
@@ -10164,6 +10243,15 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16065,
+     "cited_as": "Eph 2:19-22",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -10231,6 +10319,15 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16065,
+     "cited_as": "Eph 2:19-22",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -10291,6 +10388,15 @@
       "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
       "url": "https://biblehub.com/text/"
      }
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16111,
+     "cited_as": "Eph 3:14-15",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -18206,6 +18312,18 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16123,
+     "cited_as": "Heb 2:11-12",
+     "quotes": [
+      "For he that sanctifieth, and they which are sanctified, are all of one: wherefore he is not ashamed to call them brethren,"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range pair with Heb 2:12 (shared parenthetical)"
     }
    ],
    "verified": "2026-11-11",
@@ -18240,6 +18358,18 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16123,
+     "cited_as": "Heb 2:11-12",
+     "quotes": [
+      "Saying, I will declare thy Name vnto my brethren: in the middes of the Church will I sing praises to thee."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range pair with Heb 2:11 (shared parenthetical)"
     }
    ],
    "verified": "2026-11-11",
@@ -37094,6 +37224,15 @@
      "status": "confirmed",
      "note": "W59 re-present; the print single \"of the\" — W53 class",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16145,
+     "cited_as": "Matt 28:19-20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -37159,6 +37298,15 @@
      "status": "confirmed",
      "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16145,
+     "cited_as": "Matt 28:19-20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-11",
@@ -44499,6 +44647,15 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16081,
+     "cited_as": "Rev 21:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -45003,6 +45160,15 @@
       "result": "draft Greek set-containment 1.000 vs WH",
       "url": "https://biblehub.com/text/revelation/22-20"
      }
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16055,
+     "cited_as": "Rev 22:17, 20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -46144,6 +46310,17 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16151,
+     "cited_as": "Rev 5:9",
+     "quotes": [
+      "And they sung a new song, saying, Thou art worthie to take the Booke, and to open the seales thereof, because thou wast killed, and hast redeemed vs to God by thy blood out of euery kinred, and tongue, and people, and nation,"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-11",
@@ -46336,6 +46513,17 @@
      "status": "confirmed",
      "note": "7:9-17 ellipsis seat; v9 head restored; v10, v15 seated; v16 restored — the draft passed it by silently inside the v15→v17 span (wave-14 full-span class); draft’s silent drop of the v17 comma after \"Lamb\" → seat keeps the print’s \"For the Lamb, which is in the midst\".",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16151,
+     "cited_as": "Rev 7:9",
+     "quotes": [
+      "After these thinges I behelde, and loe a great multitude, which no man coulde number, of all nations and kindreds, and people, and tongues, stoode before the throne, and before the Lambe, clothed with long white robes, and palmes in their hands."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-11",
@@ -47569,6 +47757,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16124,
+     "cited_as": "Rom 8:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -47689,6 +47886,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "range anchor (W43 seats)"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16123,
+     "cited_as": "Rom 8:29; Heb 2:11-12",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -50191,6 +50397,15 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": ""
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16004,
+     "cited_as": "1 Cor 12:12-27",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51809,6 +52024,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16169,
+     "cited_as": "Rom 8:19-22",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51845,6 +52069,18 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16169,
+     "cited_as": "Rom 8:19-22",
+     "quotes": [
+      "For we knowe that euery creature groneth with vs also, and trauaileth in paine together vnto this present."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint (Rom 8:19-22 parenthetical)"
     }
    ],
    "verified": "2026-11-12",
@@ -51900,6 +52136,15 @@
      "quotes": [],
      "status": "prose-ref",
      "note": "Affliction in the Body - endure with hope of the resurrection",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16169,
+     "cited_as": "Rom 8:23; Rom 8:19-22",
+     "quotes": [],
+     "status": "prose-ref",
      "quote_kind": "reference"
     }
    ],
@@ -52016,6 +52261,17 @@
      "article_line": 15946,
      "cited_as": "Col 1:24",
      "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16004,
+     "cited_as": "Col 1:24",
+     "quotes": [
+      "Now reioyce I in my suffrings for you, and fulfill the rest of the afflictions of Christ in my flesh, for his bodies sake, which is the Church,"
+     ],
      "status": "prose-ref",
      "quote_kind": "reference"
     }
@@ -52984,6 +53240,17 @@
      "status": "anchor",
      "note": "\"weeping with those who weep\" mention (modern-believer §5)",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16015,
+     "cited_as": "Rom 12:15",
+     "quotes": [
+      "Reioyce with them that reioyce, and weepe with them that weepe."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -54276,6 +54543,17 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16065,
+     "cited_as": "Ephesians 2:19",
+     "quotes": [
+      "Nowe therefore ye are no more strangers and forreiners: but citizens with the Saintes, and of the houshold of God,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -55671,6 +55949,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16020,
+     "cited_as": "1 Cor 3:1-4; Gal 5:20",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -57641,6 +57928,15 @@
      "status": "confirmed",
      "note": "SPLICE: the draft drops the print comma — \"that is the fruit\" seated per 1599 \"that is, the fruite\"; 1599 prints vs/prayse/alwaies/fruite/lippes/confesse — modern spelling class",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16098,
+     "cited_as": "Heb 13:15-16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -57792,6 +58088,15 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16008,
+     "cited_as": "Rom 12:5; Eph 4:25",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -57828,6 +58133,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16022,
+     "cited_as": "Heb 10:24-25",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -57864,6 +58178,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16022,
+     "cited_as": "Heb 10:24-25",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -57932,6 +58255,15 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16127,
+     "cited_as": "John 13:34-35; 1 Pet 1:22",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -57962,6 +58294,15 @@
      "quotes": [],
      "status": "prose-ref",
      "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16127,
+     "cited_as": "John 13:34-35; 1 Pet 1:22",
+     "quotes": [],
+     "status": "prose-ref",
      "quote_kind": "reference"
     }
    ],
@@ -58024,6 +58365,15 @@
      "quotes": [],
      "status": "prose-ref",
      "note": "",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16127,
+     "cited_as": "John 13:34-35; 1 Pet 1:22",
+     "quotes": [],
+     "status": "prose-ref",
      "quote_kind": "reference"
     }
    ],
@@ -58254,6 +58604,15 @@
      "status": "prose-ref",
      "note": "Practical 4 'Bear one another burdens' - echoes Gal 6:2, no ref cited in draft",
      "quote_kind": "paraphrase"
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16014,
+     "cited_as": "Gal 6:2",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -60817,6 +61176,15 @@
       "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
       "url": "https://biblehub.com/text/"
      }
+    },
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16111,
+     "cited_as": "Eph 3:14-15",
+     "quotes": [],
+     "status": "confirmed",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -64348,6 +64716,1002 @@
     }
    },
    "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15973)"
+  },
+  {
+   "id": "1CO.12.21",
+   "ref": "1 Corinthians 12:21",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16012,
+     "cited_as": "1 Cor 12:21",
+     "quotes": [
+      "And the eye cannot say vnto the hand, I haue no neede of thee: nor the head againe to the feete, I haue no neede of you."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "bullet quotes \"I have no need of thee\""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And the eye cannot say vnto the hand, I haue no neede of thee: nor the head againe to the feete, I haue no neede of you.",
+     "source": "eBible.org enggnv 1CO12.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/46/12"
+    }
+   }
+  },
+  {
+   "id": "1CO.3.9",
+   "ref": "1 Corinthians 3:9",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16149,
+     "cited_as": "1 Cor 3:9",
+     "quotes": [
+      "For we together are Gods labourers: yee are Gods husbandrie, and Gods building."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we together are Gods labourers: yee are Gods husbandrie, and Gods building.",
+     "source": "eBible.org enggnv 1CO03.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/46/3"
+    }
+   }
+  },
+  {
+   "id": "1PE.2.5",
+   "ref": "1 Peter 2:5",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16077,
+     "cited_as": "1 Pet 2:5",
+     "quotes": [
+      "Yee also as liuely stones, bee made a spirituall house, an holy Priesthoode to offer vp spirituall sacrifices acceptable to God by Iesus Christ."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Yee also as liuely stones, bee made a spirituall house, an holy Priesthoode to offer vp spirituall sacrifices acceptable to God by Iesus Christ.",
+     "source": "eBible.org enggnv 1PE02.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/60/2"
+    }
+   }
+  },
+  {
+   "id": "ACT.1.8",
+   "ref": "Acts 1:8",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16148,
+     "cited_as": "Acts 1:8",
+     "quotes": [
+      "But yee shall receiue power of the holy Ghost, when he shall come on you: and ye shalbe witnesses vnto me both in Hierusalem and in all Iudea, and in Samaria, and vnto the vttermost part of the earth."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But yee shall receiue power of the holy Ghost, when he shall come on you: and ye shalbe witnesses vnto me both in Hierusalem and in all Iudea, and in Samaria, and vnto the vttermost part of the earth.",
+     "source": "eBible.org enggnv ACT01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/44/1"
+    }
+   }
+  },
+  {
+   "id": "COL.2.19",
+   "ref": "Colossians 2:19",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16006,
+     "cited_as": "Col 2:19",
+     "quotes": [
+      "And holdeth not the head, whereof all the body furnished and knit together by ioyntes and bands, increaseth with the increasing of God."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And holdeth not the head, whereof all the body furnished and knit together by ioyntes and bands, increaseth with the increasing of God.",
+     "source": "eBible.org enggnv COL02.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/51/2"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.12",
+   "ref": "Ephesians 4:12",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16013,
+     "cited_as": "Eph 4:12",
+     "quotes": [
+      "For the repairing of the Saintes, for the woorke of the ministerie, and for the edification of the bodie of Christ,"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the repairing of the Saintes, for the woorke of the ministerie, and for the edification of the bodie of Christ,",
+     "source": "eBible.org enggnv EPH04.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.13",
+   "ref": "Ephesians 4:13",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16026,
+     "cited_as": "Eph 4:13",
+     "quotes": [
+      "Till we all meete together (in the vnitie of faith and that acknowledging of the Sonne of God) vnto a perfite man, and vnto the measure of the age of the fulnesse of Christ,"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Part-Two Body section embeds the verse KJV-voiced (\"until we all come in the unity of the faith...\")"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Till we all meete together (in the vnitie of faith and that acknowledging of the Sonne of God) vnto a perfite man, and vnto the measure of the age of the fulnesse of Christ,",
+     "source": "eBible.org enggnv EPH04.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4"
+    }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Part-Two Body section (canon 16026) embeds the verse KJV-voiced: \"until we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fullness of Christ\" — the 1599 Geneva prints \"till we all meet together in the unity of faith, and knowledge of the Son of God, unto a perfect man, and unto the measure of the age of the fulness of Christ\" (eBible EPH04 == TRB fresh 49/4 ALL-EXACT whole chapter). Italic KJV attribution or re-voice awaits Gideon (10 Nov 2026 class).",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "EPH.4.15",
+   "ref": "Ephesians 4:15",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16006,
+     "cited_as": "Eph 4:15-16",
+     "quotes": [
+      "But let vs folowe the truth in loue, and in all things, grow vp into him, which is the head, that is, Christ."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But let vs folowe the truth in loue, and in all things, grow vp into him, which is the head, that is, Christ.",
+     "source": "eBible.org enggnv EPH04.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.16",
+   "ref": "Ephesians 4:16",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16004,
+     "cited_as": "Eph 4:12-16",
+     "quotes": [
+      "By whome al the body being coupled and knit together by euery ioynt, for ye furniture therof (according to the effectual power, which is in the measure of euery part) receiueth increase of the body, vnto the edifying of itselfe in loue."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint (Eph 4:12-16 parenthetical)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "By whome al the body being coupled and knit together by euery ioynt, for ye furniture therof (according to the effectual power, which is in the measure of euery part) receiueth increase of the body, vnto the edifying of itselfe in loue.",
+     "source": "eBible.org enggnv EPH04.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4"
+    }
+   }
+  },
+  {
+   "id": "EPH.4.3",
+   "ref": "Ephesians 4:3",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16016,
+     "cited_as": "Eph 4:3",
+     "quotes": [
+      "Endeuouring to keepe the vnitie of the Spirit in the bond of peace."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Endeuouring to keepe the vnitie of the Spirit in the bond of peace.",
+     "source": "eBible.org enggnv EPH04.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4"
+    }
+   }
+  },
+  {
+   "id": "HEB.13.16",
+   "ref": "Hebrews 13:16",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16098,
+     "cited_as": "Heb 13:15-16",
+     "quotes": [
+      "To doe good, and to distribute forget not: for with such sacrifices God is pleased."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint (Heb 13:15 pre-banked W47)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "To doe good, and to distribute forget not: for with such sacrifices God is pleased.",
+     "source": "eBible.org enggnv HEB13.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/58/13"
+    }
+   }
+  },
+  {
+   "id": "PHI.2.4",
+   "ref": "Philippians 2:4",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16024,
+     "cited_as": "Phil 2:4",
+     "quotes": [
+      "Looke not euery man on his owne things, but euery man also on the things of other men."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Looke not euery man on his owne things, but euery man also on the things of other men.",
+     "source": "eBible.org enggnv PHP02.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/50/2"
+    }
+   }
+  },
+  {
+   "id": "REV.22.17",
+   "ref": "Revelation 22:17",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16055,
+     "cited_as": "Rev 22:17",
+     "quotes": [
+      "And the Spirit and the bride say, Come. And let him that heareth, say, Come: and let him that is a thirst, come: and let whosoeuer will, take of the water of life freely."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "the Bride's cry bullet pairs 22:17 with 22:20"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And the Spirit and the bride say, Come. And let him that heareth, say, Come: and let him that is a thirst, come: and let whosoeuer will, take of the water of life freely.",
+     "source": "eBible.org enggnv REV22.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/66/22"
+    }
+   }
+  },
+  {
+   "id": "ROM.12.4",
+   "ref": "Romans 12:4",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16004,
+     "cited_as": "Rom 12:4-5",
+     "quotes": [
+      "For as wee haue many members in one body, and all members haue not one office,"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range pair with Rom 12:5 (W48 seat)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For as wee haue many members in one body, and all members haue not one office,",
+     "source": "eBible.org enggnv ROM12.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/45/12"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.20",
+   "ref": "Romans 8:20",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16169,
+     "cited_as": "Rom 8:19-22",
+     "quotes": [
+      "Because the creature is subiect to vanitie, not of it owne will, but by reason of him, which hath subdued it vnder hope,"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint (Rom 8:19-22 parenthetical); Rom 8:19 pre-banked (W52)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Because the creature is subiect to vanitie, not of it owne will, but by reason of him, which hath subdued it vnder hope,",
+     "source": "eBible.org enggnv ROM08.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/45/8"
+    }
+   }
+  },
+  {
+   "id": "ROM.8.21",
+   "ref": "Romans 8:21",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16169,
+     "cited_as": "Rom 8:19-22",
+     "quotes": [
+      "Because the creature also shall be deliuered from the bondage of corruption into the glorious libertie of the sonnes of God."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range interior (Rom 8:19-22 parenthetical)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Because the creature also shall be deliuered from the bondage of corruption into the glorious libertie of the sonnes of God.",
+     "source": "eBible.org enggnv ROM08.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/45/8"
+    }
+   }
+  },
+  {
+   "id": "EPH.1.9",
+   "ref": "Ephesians 1:9",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 15990,
+     "cited_as": "Ephesians 1:9",
+     "quotes": [
+      "And hath opened vnto vs the mysterie of his will according to his good pleasure, which he had purposed in him,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And hath opened vnto vs the mysterie of his will according to his good pleasure, which he had purposed in him,",
+     "source": "eBible.org enggnv EPH01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/1"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/eph.1.9.htm"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.25",
+   "ref": "Ephesians 5:25",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16034,
+     "cited_as": "Ephesians 5:25",
+     "quotes": [
+      "Husbands, loue your wiues, euen as Christ loued the Church, and gaue himselfe for it,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Husbands, loue your wiues, euen as Christ loued the Church, and gaue himselfe for it,",
+     "source": "eBible.org enggnv EPH05.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/5"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/eph.5.25.htm"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.26",
+   "ref": "Ephesians 5:26",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16034,
+     "cited_as": "Ephesians 5:26",
+     "quotes": [
+      "That hee might sanctifie it, and clense it by the washing of water through the worde,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That hee might sanctifie it, and clense it by the washing of water through the worde,",
+     "source": "eBible.org enggnv EPH05.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/5"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/eph.5.26.htm"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.27",
+   "ref": "Ephesians 5:27",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16034,
+     "cited_as": "Ephesians 5:27",
+     "quotes": [
+      "That hee might make it vnto him selfe a glorious Church, not hauing spot or wrinkle, or any such thing: but that it shoulde bee holy and without blame."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "print v27 carries NO comma after \"holy\" — the draft's KJV punctuation dropped (seat = print)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That hee might make it vnto him selfe a glorious Church, not hauing spot or wrinkle, or any such thing: but that it shoulde bee holy and without blame.",
+     "source": "eBible.org enggnv EPH05.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/5"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/eph.5.27.htm"
+    }
+   },
+   "note": "print v27 carries NO comma after \"holy\" — the draft's KJV punctuation dropped (seat = print)"
+  },
+  {
+   "id": "REV.19.7",
+   "ref": "Revelation 19:7",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16044,
+     "cited_as": "Revelation 19:7",
+     "quotes": [
+      "Let vs be glad and reioyce, and giue glory to him: for the marriage of that Lambe is come, and his wife hath made her selfe ready."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "SPLICE: the 1599 print reads \"the marriage of THAT Lamb\" (draft \"the Lamb\" KJV-voiced) — seat = print; leading ellipsis honored"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Let vs be glad and reioyce, and giue glory to him: for the marriage of that Lambe is come, and his wife hath made her selfe ready.",
+     "source": "eBible.org enggnv REV19.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/66/19"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/rev.19.7.htm"
+    }
+   },
+   "note": "SPLICE: the 1599 print reads \"the marriage of THAT Lamb\" (draft \"the Lamb\" KJV-voiced) — seat = print; leading ellipsis honored"
+  },
+  {
+   "id": "REV.19.8",
+   "ref": "Revelation 19:8",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16044,
+     "cited_as": "Revelation 19:8",
+     "quotes": [
+      "And to her was granted, that she should be arayed with pure fine linnen and shining, for the fine linnen is the righteousnesse of Saintes."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "Part-Two Bride bullet (canon 16054) quotes \"the righteousness of saints\" — print-agree at folds (righteousnesse/Saintes); no flag; v8 sits under the seat mid-ellipsis"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And to her was granted, that she should be arayed with pure fine linnen and shining, for the fine linnen is the righteousnesse of Saintes.",
+     "source": "eBible.org enggnv REV19.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/66/19"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/rev.19.8.htm"
+    }
+   },
+   "note": "Part-Two Bride bullet (canon 16054) quotes \"the righteousness of saints\" — print-agree at folds (righteousnesse/Saintes); no flag; v8 sits under the seat mid-ellipsis"
+  },
+  {
+   "id": "REV.19.9",
+   "ref": "Revelation 19:9",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16044,
+     "cited_as": "Revelation 19:9",
+     "quotes": [
+      "Then he said vnto me, Write, Blessed are they which are called vnto the Lambes supper. And he said vnto me, These wordes of God are true."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "possessive Lambes->Lamb's modern fold; print tail \"And he said unto me, These words of God are true.\" under the draft trailing ellipsis"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then he said vnto me, Write, Blessed are they which are called vnto the Lambes supper. And he said vnto me, These wordes of God are true.",
+     "source": "eBible.org enggnv REV19.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/66/19"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/rev.19.9.htm"
+    }
+   },
+   "note": "possessive Lambes->Lamb's modern fold; print tail \"And he said unto me, These words of God are true.\" under the draft trailing ellipsis"
+  },
+  {
+   "id": "EPH.2.20",
+   "ref": "Ephesians 2:20",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16065,
+     "cited_as": "Ephesians 2:20",
+     "quotes": [
+      "And are built vpon the foundation of the Apostles and Prophets, Iesus Christ himselfe being the chiefe corner stone,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And are built vpon the foundation of the Apostles and Prophets, Iesus Christ himselfe being the chiefe corner stone,",
+     "source": "eBible.org enggnv EPH02.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/2"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/eph.2.20.htm"
+    }
+   }
+  },
+  {
+   "id": "1PE.2.9",
+   "ref": "1 Peter 2:9",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16089,
+     "cited_as": "1 Peter 2:9",
+     "quotes": [
+      "But yee are a chosen generation, a royall Priesthoode, an holy nation, a people set at libertie, that yee shoulde shewe foorth the vertues of him that hath called you out of darkenesse into his marueilous light,"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "SPLICE: print \"a people set at liberty\" over draft \"a peculiar people\""
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But yee are a chosen generation, a royall Priesthoode, an holy nation, a people set at libertie, that yee shoulde shewe foorth the vertues of him that hath called you out of darkenesse into his marueilous light,",
+     "source": "eBible.org enggnv 1PE02.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/60/2"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/1pe.2.9.htm"
+    }
+   },
+   "note": "SPLICE: the 1599 print reads \"a people set at liberty\" (draft \"a peculiar people\" KJV-voiced) — seat = print"
+  },
+  {
+   "id": "JAM.1.18",
+   "ref": "James 1:18",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16159,
+     "cited_as": "James 1:18",
+     "quotes": [
+      "Of his owne will begate hee vs with the woorde of trueth, that we shoulde be as the first fruites of his creatures."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "ZERO-SPLICE — \"as the first fruits\" IS the 1599 printing (not KJV \"a kind of firstfruits\"); enggnv code = JAS01"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Of his owne will begate hee vs with the woorde of trueth, that we shoulde be as the first fruites of his creatures.",
+     "source": "eBible.org enggnv JAS01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/59/1"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree — WH-Greek set-containment 1.000 vs the draft Greek (2026-11-12)",
+     "source": "https://biblehub.com/text/jam.1.18.htm"
+    }
+   },
+   "note": "ZERO-SPLICE — \"as the first fruits\" IS the 1599 printing (not KJV \"a kind of firstfruits\"); enggnv code = JAS01"
+  },
+  {
+   "id": "2CO.5.18",
+   "ref": "2 Corinthians 5:18",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16135,
+     "cited_as": "2 Cor 5:18-20",
+     "quotes": [
+      "And all things are of God, which hath reconciled vs vnto himselfe by Iesus Christ, and hath giuen vnto vs the ministerie of reconciliation."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And all things are of God, which hath reconciled vs vnto himselfe by Iesus Christ, and hath giuen vnto vs the ministerie of reconciliation.",
+     "source": "eBible.org enggnv 2CO05.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/47/5"
+    }
+   }
+  },
+  {
+   "id": "2CO.5.19",
+   "ref": "2 Corinthians 5:19",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16135,
+     "cited_as": "2 Cor 5:18-20",
+     "quotes": [
+      "For God was in Christ, and reconciled the world to himselfe, not imputing their sinnes vnto them, and hath committed to vs the word of reconciliation."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For God was in Christ, and reconciled the world to himselfe, not imputing their sinnes vnto them, and hath committed to vs the word of reconciliation.",
+     "source": "eBible.org enggnv 2CO05.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/47/5"
+    }
+   }
+  },
+  {
+   "id": "2CO.5.20",
+   "ref": "2 Corinthians 5:20",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16135,
+     "cited_as": "2 Cor 5:18-20",
+     "quotes": [
+      "Now then are we ambassadours for Christ: as though God did beseeche you through vs, we pray you in Christes steade, that ye be reconciled to God."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now then are we ambassadours for Christ: as though God did beseeche you through vs, we pray you in Christes steade, that ye be reconciled to God.",
+     "source": "eBible.org enggnv 2CO05.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/47/5"
+    }
+   },
+   "note": "v20 print \"that ye be reconciled to God\" — draft IS print"
+  },
+  {
+   "id": "EPH.4.25",
+   "ref": "Ephesians 4:25",
+   "uses": [
+    {
+     "section": "COS-103",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART TWO — WHAT THIS MEANS FOR US CORPORATELY",
+     "article_line": 16008,
+     "cited_as": "Rom 12:5; Eph 4:25",
+     "quotes": [
+      "Wherefore cast off lying, and speake euery man truth vnto his neighbour: for we are members one of another."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore cast off lying, and speake euery man truth vnto his neighbour: for we are members one of another.",
+     "source": "eBible.org enggnv EPH04.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/49/4"
+    }
+   }
   }
  ],
  "meta": {
@@ -64505,7 +65869,8 @@
    "COS-99",
    "COS-100",
    "COS-101",
-   "COS-102"
+   "COS-102",
+   "COS-103"
   ],
   "sections": [
    {
@@ -65069,6 +66434,10 @@
    {
     "key": "COS-102",
     "label": "PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY"
+   },
+   {
+    "key": "COS-103",
+    "label": "PART TWO — WHAT THIS MEANS FOR US CORPORATELY"
    }
   ],
   "double_check": {
@@ -65129,8 +66498,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 137186,
-  "cos_sofar": "waves 67",
+  "so_far_words": 139186,
+  "cos_sofar": "waves 68",
   "glossary": 1391
  }
 }
