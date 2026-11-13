@@ -141,7 +141,8 @@
    "COS-86",
    "COS-87",
    "COS-88",
-   "COS-89"
+   "COS-89",
+   "COS-90"
   ],
   "sections": [
    {
@@ -653,6 +654,10 @@
    {
     "key": "COS-89",
     "label": "PHILIPPIANS 2:5-11 — THE FULL CONTEXT"
+   },
+   {
+    "key": "COS-90",
+    "label": "YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT"
    }
   ],
   "double_check": {
@@ -713,11 +718,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 118553,
+  "so_far_words": 121866,
   "cos_sofar": {
-   "waves": 56
+   "waves": 57
   },
-  "glossary": 1349
+  "glossary": 1358
  },
  "verses": [
   {
@@ -1866,6 +1871,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13952,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14040,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -2504,6 +2529,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13953,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -3746,6 +3781,58 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "cited 13158 and 13186"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13924,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Man Christ Jesus"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13961,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13975,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13977,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14022,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -8218,6 +8305,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14068,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "In Him dwelleth all the fulness of the Godhead bodily (option C; drops the print's \"For\")"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -9557,6 +9656,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "What-This-Honors table ref."
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13949,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -13848,6 +13957,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-10 fragment seat — full verse printed in the fragment"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14005,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -17654,6 +17773,70 @@
      "status": "confirmed",
      "note": "pattern list: incarnation (Heb 10:5-7)",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13734,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not: but a body hast thou ordained me."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "HEB 10:5 seat (re-present; print colon restored over the draft comma — draft-KJV-punctuation class)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13912,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "σῶμα δὲ κατηρτίσω μοι — the body prepared for Him"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13960,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13974,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14018,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14036,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -17673,6 +17856,11 @@
      "text": "Διὸ Dio",
      "source": "https://biblehub.com/text/hebrews/10-5.htm",
      "result": "WH Greek fetched"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι· ΠΡΟΣ ΕΒΡΑΙΟΥΣ Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει, Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι· ΠΡΟΣ ΕΒΡΑΙΟΥΣ Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει· θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι· ΠΡΟΣ ΕΒΡΑΙΟΥΣ διό εἰσέρχομαι εἰς ὁ κόσμος λέγω θυσία καί προσφορά οὐ θέλω σῶμα δέ καταρτίζω ἐγώ ΠΡΟΣ ΕΒΡΑΙΟΥΣ διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει, Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι· ΠΡΟΣ ΕΒΡΑΙΟΥΣ Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας σῶμα δὲ κατηρτίσω μοι· Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει, Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι·",
+     "source": "https://biblehub.com/text/hebrews/10-5.htm",
+     "result": "set-containment 1.000 across 10-5"
     }
    }
   },
@@ -24222,6 +24410,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14064,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -24306,6 +24504,56 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13854,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13959,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13961,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13975,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14021,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -24411,6 +24659,36 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13854,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13971,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14016,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -24481,6 +24759,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14064,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -24655,6 +24943,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14064,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -26621,6 +26919,16 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13951,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -28105,6 +28413,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13950,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -28250,6 +28568,46 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13720,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13957,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13972,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14017,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29006,6 +29364,28 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13799,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "For no man ascendeth up to heaven, but he that hath descended from heaven, that Son of man which is in heaven."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "JHN 3:13 seat (re-present; draft's \"Son of Man\" caps class row-noted; print \"Sonne of man\")"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14019,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29029,6 +29409,16 @@
      "text": "draft Greek = BibleHub Nestle (group ratio 0.97)",
      "source": "https://biblehub.com/text/john/3-13.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97"
+    },
+    "trb_fresh": {
+     "text": "For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/3",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ Υἱὸς τοῦ ἀνθρώπου. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου. ΚΑΤΑ ΙΩΑΝΝΗΝ Καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανόν, εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου ὁ ὢν ἐν τῷ οὐρανῷ. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου ὁ ὤν ἐν τῷ οὐρανῷ. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου ὁ ὢν ἐν τῷ οὐρανῷ. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανόν, εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου ὁ ὤν ἐν τῷ οὐρανῷ ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς ὁ υἱὸς τοῦ ἀνθρώπου ὁ ὤν ἐν τῷ οὐρανῷ καὶ οὐδεὶς ἀναβέβηκεν εἰς τὸν οὐρανὸν εἰ μὴ ὁ ἐκ τοῦ οὐρανοῦ καταβάς, ὁ υἱὸς τοῦ ἀνθρώπου,",
+     "source": "https://biblehub.com/text/john/3-13.htm",
+     "result": "set-containment 1.000 across 3-13"
     }
    },
    "note": ""
@@ -29071,6 +29461,26 @@
      "status": "prose-ref",
      "note": "The Content of the Witness bullet - paraphrase echo (print 'God so loued the worlde, that hee hath giuen his onely begotten Sonne')",
      "quote_kind": "paraphrase"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13854,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14016,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-02",
@@ -29260,6 +29670,60 @@
      "status": "confirmed",
      "note": "joined blockquote; v24 print == banked (banked==fresh assert passed); folds only",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13704,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13716,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Πνεῦμα ὁ Θεός — \"God is Spirit\""
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13824,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Greek phrase-gloss block \"Πνεῦμα ὁ Θεός… God is Spirit…\""
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13970,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14037,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -29912,6 +30376,58 @@
       "text": "For I came down from heaven, not to do mine own will, but his will which hath sent me.",
       "reason": "The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice)."
      }
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13765,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "For I came down from heaven, not to do mine own will, but his will which hath sent me."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "JHN 6:38 seat (re-present; zero-splice exact-modern)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13957,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13973,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14017,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14019,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -29945,6 +30461,11 @@
      "text": "ὅτιhoti καταβέβηκαkatabebēka ἀπὸapo τοῦtou οὐρανοῦouranou οὐχouch ἵναhina ποιῶpoiō τὸto θέλημαthelēma τὸto ἐμὸνemon ἀλλὰalla τὸto θέλημαthelēma τοῦtou πέμψαντόςpempsantos με.me",
      "source": "https://biblehub.com/text/john/6-38.htm",
      "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με. ΚΑΤΑ ΙΩΑΝΝΗΝ ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με· ΚΑΤΑ ΙΩΑΝΝΗΝ Ὅτι καταβέβηκα ἐκ τοῦ οὐρανοῦ, οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμόν, ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με. ΚΑΤΑ ΙΩΑΝΝΗΝ ὅτι καταβέβηκα ἐκ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν, ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με. ΚΑΤΑ ΙΩΑΝΝΗΝ ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιήσω τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με· ΚΑΤΑ ΙΩΑΝΝΗΝ ὅτι καταβέβηκα ἐκ τοῦ οὐρανοῦ, οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμόν, ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με. ΚΑΤΑ ΙΩΑΝΝΗΝ ὅτι καταβέβηκα ἐκ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με ὅτι καταβέβηκα ἀπὸ τοῦ οὐρανοῦ οὐχ ἵνα ποιῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντος με.",
+     "source": "https://biblehub.com/text/john/6-38.htm",
+     "result": "set-containment 1.000 across 6-38"
     }
    },
    "note": ""
@@ -30073,6 +30594,58 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": ""
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13771,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "What then if ye should see that Son of man ascend up where he was before?"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "JHN 6:62 seat (re-present; zero-splice exact-modern)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13720,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13957,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13973,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14017,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -30096,6 +30669,16 @@
      "text": "draft Greek = BibleHub Nestle (group ratio 0.96)",
      "source": "https://biblehub.com/text/john/6-62.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96"
+    },
+    "trb_fresh": {
+     "text": "What then if yee should see that Sonne of man ascend vp where he was before?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/6",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐὰν οὖν θεωρῆτε τὸν Υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον; ΚΑΤΑ ΙΩΑΝΝΗΝ ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον; ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον; ΚΑΤΑ ΙΩΑΝΝΗΝ ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον ΚΑΤΑ ΙΩΑΝΝΗΝ ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;",
+     "source": "https://biblehub.com/text/john/6-62.htm",
+     "result": "set-containment 1.000 across 6-62"
     }
    },
    "note": ""
@@ -30790,6 +31373,48 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13720,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13957,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14017,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14066,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Before Abraham was, I am (option B; caps class)"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -36135,6 +36760,18 @@
      ],
      "status": "confirmed",
      "note": "Seat reused from the Wave-3 NETS seat."
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13881,
+     "cited_as": "NETS",
+     "quotes": [
+      "...and his goings forth are from of old, from days of yore *(long ago)*."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "Micah 5:2 goings-forth clause seat — NETS (wave-10 clause class; the draft quoted Geneva-voiced wording; NETS prints \"from days of yore\")"
     }
    ],
    "verified": "2026-11-11",
@@ -37027,6 +37664,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13954,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -38339,6 +38986,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "PHIL 2:9-11 study seat (joined)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13920,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-07",
@@ -38443,6 +39100,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "PHIL 2:9-11 study seat (joined)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13920,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-07",
@@ -38578,6 +39245,16 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "PHIL 2:9-11 study seat (joined)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13920,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -38989,6 +39666,16 @@
       "version": "nets",
       "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
      }
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13859,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -39025,6 +39712,16 @@
       "version": "nets",
       "text": "The Lord created me as the beginning of his ways, for the sake of his works. Before the present age he founded me, in the beginning. Before he made the earth and before he made the depths, before he brought forth the springs of the waters, before the mountains were established and before all the hills, he begets me."
      }
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13859,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -39850,6 +40547,18 @@
       "text": "With you is rule on a day of your power among the splendors of the holy ones. From the womb, before Morning-star, I brought you forth.",
       "reason": "Translation-addition rule: NETS prints verbatim at the seat; Brenton kept as the attributed second recourse covering the draft voicing."
      }
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13859,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Ps 109:3 LXX"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -40307,6 +41016,36 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13859,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13971,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14016,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -40868,6 +41607,18 @@
       "text": "Sacrifice and offering you did not want, but ears you fashio",
       "reason": "specified OT version = LXX NETS (draft Greek + Geneva OT rows dropped per seat shape)"
      }
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13740,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Heb 10:5 quotation family (Ps 39:7 LXX = Ps 40:6 MT)"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -44079,6 +44830,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14001,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the Lamb \"as having been slain\" (paraphrase echo)"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-11",
@@ -59354,6 +60117,18 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "PHIL 2:6 study seat"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13900,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the re-reading of Phil 2:6 under the proposal"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -59679,6 +60454,18 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 prose reference"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14070,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "Unto the Son He saith, Thy throne, O God (option D; KJV word-order — flag 29 class)"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
     }
    ],
    "verified": "2026-11-12",
@@ -59699,7 +60486,7 @@
    "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh",
    "flag": {
     "kind": "proposed-correction",
-    "detail": "COS-89 option (F) quotes 'Unto the Son He saith, Thy throne, O God...' in KJV word-order; the 1599 print reads 'O God, thy throne is for euer and euer' (EB==TRB fresh) — italic KJV attribution or re-voice awaits Gideon"
+    "detail": "COS-89 option (F) quotes 'Unto the Son He saith, Thy throne, O God...' in KJV word-order; the 1599 print reads 'O God, thy throne is for euer and euer' (EB==TRB fresh) — italic KJV attribution or re-voice awaits Gideon ; COS-90 option (D) (canon 14070) repeats the same KJV-voiced fragment"
    }
   },
   {
@@ -59765,6 +60552,356 @@
     }
    },
    "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "JHN.3.6",
+   "ref": "John 3:6",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13793,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "That which is born of the flesh, is flesh: and that that is born of the Spirit, is spirit."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "JHN 3:6 seat (SPLICE: print first clause \"That which is born\" restored over the draft conflated \"That that is born\"; borne→born fold)"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14005,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "born of the Spirit (John 3:5-6)"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That which is borne of the flesh, is flesh: and that that is borne of the Spirit, is spirit.",
+     "source": "https://ebible.org/enggnv/JHN03.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That which is borne of the flesh, is flesh: and that that is borne of the Spirit, is spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/3",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ Πνεύματος πνεῦμά ἐστιν. ΚΑΤΑ ΙΩΑΝΝΗΝ τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστιν. ΚΑΤΑ ΙΩΑΝΝΗΝ Tὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν· καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστιν. ΚΑΤΑ ΙΩΑΝΝΗΝ τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν, καὶ τὸ γεγεννημένον ἐκ τοῦ Πνεύματος πνεῦμά ἐστι. ΚΑΤΑ ΙΩΑΝΝΗΝ τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστι· καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστι. ΚΑΤΑ ΙΩΑΝΝΗΝ τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμά ἐστιν τὸ γεγεννημένον ἐκ τῆς σαρκὸς σάρξ ἐστιν καὶ τὸ γεγεννημένον ἐκ τοῦ πνεύματος πνεῦμα ἐστιν.",
+     "source": "https://biblehub.com/text/john/3-6.htm",
+     "result": "set-containment 1.000 across 3-6"
+    }
+   },
+   "note": "Wave 57 COS-90 seat; EB==TRB EXACT fresh; JHN 3:6 seat (SPLICE: print first clause \"That which is born\" restored over the draft conflated \"That that is born\"; borne→born fold)"
+  },
+  {
+   "id": "1CO.15.44",
+   "ref": "1 Corinthians 15:44",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13832,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "It is sown a natural body, and is raised a spiritual body: there is a natural body, and there is a spiritual body. As it is also written, The first man Adam was made a living soul: and the last Adam was made a quickening Spirit...The first man is of the earth, earthly: the second man is the Lord from heaven."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "1CO 15:44-45, 47 selections seat (zero-splice exact-modern; folds sowen/raysed/naturall/spirituall; ellipsis covers v46)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "It is sowen a naturall body, and is raysed a spirituall body: there is a naturall body, and there is a spirituall body.",
+     "source": "https://ebible.org/enggnv/1CO15.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "It is sowen a naturall body, and is raysed a spirituall body: there is a naturall body, and there is a spirituall body.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/15",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. Εἰ ἔστιν σῶμα ψυχικόν, ἔστιν καὶ πνευματικόν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. Ἔστιν σῶμα ψυχικόν, καὶ ἔστιν σῶμα πνευματικόν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. ἔστι σῶμα ψυχικόν, καὶ ἔστι σῶμα πνευματικόν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. εἰ ἔστιν σῶμα Ψυχικόν, ἔστιν καὶ πνευματικόν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ σπείρεται σῶμα ψυχικόν ἐγείρεται σῶμα πνευματικόν ἔστιν σῶμα ψυχικόν καὶ ἔστιν σῶμα πνευματικόν σπείρεται σῶμα ψυχικόν, ἐγείρεται σῶμα πνευματικόν. Εἰ ἔστιν σῶμα ψυχικόν, ἔστιν καὶ πνευματικόν.",
+     "source": "https://biblehub.com/text/1_corinthians/15-44.htm",
+     "result": "set-containment 1.000 across 15-44 (ellipsis-dots artifact excluded)"
+    }
+   },
+   "note": "Wave 57 COS-90 seat; EB==TRB EXACT fresh; 1CO 15:44-45, 47 selections seat (zero-splice exact-modern; folds sowen/raysed/naturall/spirituall; ellipsis covers v46)"
+  },
+  {
+   "id": "1CO.15.45",
+   "ref": "1 Corinthians 15:45",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13832,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "It is sown a natural body, and is raised a spiritual body: there is a natural body, and there is a spiritual body. As it is also written, The first man Adam was made a living soul: and the last Adam was made a quickening Spirit...The first man is of the earth, earthly: the second man is the Lord from heaven."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "1CO 15 selections seat (per-verse; draft's \"As it is also written\" + capital \"Spirit\" ARE the 1599 print)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "As it is also written, The first man Adam was made a liuing soule: and the last Adam was made a quickening Spirit.",
+     "source": "https://ebible.org/enggnv/1CO15.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "As it is also written, The first man Adam was made a liuing soule: and the last Adam was made a quickening Spirit.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/15",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οὕτως καὶ γέγραπται Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζωοποιοῦν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ Οὕτως καὶ γέγραπται, Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν. Ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ οὕτω καὶ γέγραπται· ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζωοποιοῦν· ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ οὕτως καὶ γέγραπται, ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν· ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ οὕτω καὶ γέγραπται, Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζωσαν. ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζωοποιοῦν. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ οὕτως καὶ γέγραπται Ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν οὕτως καὶ γέγραπται· ἐγένετο ὁ πρῶτος ἄνθρωπος Ἀδὰμ εἰς ψυχὴν ζῶσαν, ὁ ἔσχατος Ἀδὰμ εἰς πνεῦμα ζῳοποιοῦν.",
+     "source": "https://biblehub.com/text/1_corinthians/15-45.htm",
+     "result": "set-containment 1.000 across 15-45 (ellipsis-dots artifact excluded)"
+    }
+   },
+   "note": "Wave 57 COS-90 seat; EB==TRB EXACT fresh; 1CO 15 selections seat (per-verse; draft's \"As it is also written\" + capital \"Spirit\" ARE the 1599 print)"
+  },
+  {
+   "id": "1CO.15.47",
+   "ref": "1 Corinthians 15:47",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13832,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "It is sown a natural body, and is raised a spiritual body: there is a natural body, and there is a spiritual body. As it is also written, The first man Adam was made a living soul: and the last Adam was made a quickening Spirit...The first man is of the earth, earthly: the second man is the Lord from heaven."
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "1CO 15 selections seat (per-verse; ONE WORD-FORM SPLICE: draft KJV-voiced \"earthy\" -> the 1599 print \"earthly\")"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13976,
+     "cited_as": "Geneva 1599",
+     "quotes": [
+      "the second Adam from heaven"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14020,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "COS-90 cross-witness mention"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "The first man is of the earth, earthly: the second man is the Lord from heauen.",
+     "source": "https://ebible.org/enggnv/1CO15.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "The first man is of the earth, earthly: the second man is the Lord from heauen.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/15",
+     "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός, ὁ δεύτερος ἄνθρωπος ἐξ οὐρανοῦ. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ Ὁ πρῶτος ἄνθρωπος ἐκ γῆς, χοϊκός· ὁ δεύτερος ἄνθρωπος ὁ κύριος ἐξ οὐρανοῦ. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός, ὁ δεύτερος ἄνθρωπος ὁ Κύριος ἐξ οὐρανοῦ. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός ὁ δεύτερος ἄνθρωπος ὁ Κύριος ἐξ οὐρανοῦ. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός ὁ δεύτερος ἄνθρωπος ὁ Κύριος ἐξ οὐρανοῦ ὁ πρῶτος ἄνθρωπος ἐκ γῆς χοϊκός, ὁ δεύτερος ἄνθρωπος ἐξ οὐρανοῦ.",
+     "source": "https://biblehub.com/text/1_corinthians/15-47.htm",
+     "result": "set-containment 1.000 across 15-47 (ellipsis-dots artifact excluded)"
+    }
+   },
+   "note": "Wave 57 COS-90 seat; EB==TRB EXACT fresh; 1CO 15 selections seat (per-verse; ONE WORD-FORM SPLICE: draft KJV-voiced \"earthy\" -> the 1599 print \"earthly\")"
+  },
+  {
+   "id": "JHN.3.5",
+   "ref": "John 3:5",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14005,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 prose reference: born of the Spirit (John 3:5-6)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus answered, Verely, verely I say vnto thee, except that a man be borne of water and of the Spirite, hee can not enter into the kingdome of God.",
+     "source": "https://ebible.org/enggnv/JHN03.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus answered, Verely, verely I say vnto thee, except that a man be borne of water and of the Spirite, hee can not enter into the kingdome of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/3",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 57 COS-90 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "JHN.3.18",
+   "ref": "John 3:18",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13854,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 prose reference: only-begotten language (1:14, 18; 3:16, 18; 1 John 4:9)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Hee that beleeueth in him, is not condemned: but hee that beleeueth not, is condemned already, because he hath not beleeued in the Name of that onely begotten Sonne of God.",
+     "source": "https://ebible.org/enggnv/JHN03.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Hee that beleeueth in him, is not condemned: but hee that beleeueth not, is condemned already, because he hath not beleeued in the Name of that onely begotten Sonne of God.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/3",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 57 COS-90 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "1JN.4.9",
+   "ref": "1 John 4:9",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 13854,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 prose reference: only-begotten language list"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Herein was that loue of God made manifest amongst vs, because God sent that his onely begotten sonne into this world, that we might liue through him.",
+     "source": "https://ebible.org/enggnv/1JN04.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Herein was that loue of God made manifest amongst vs, because God sent that his onely begotten sonne into this world, that we might liue through him.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/62/4",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 57 COS-90 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "JHN.6.33",
+   "ref": "John 6:33",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14019,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 prose reference: came down from heaven (6:33, 38, 51)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For the breade of God is hee which commeth downe from heauen, and giueth life vnto the world.",
+     "source": "https://ebible.org/enggnv/JHN06.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "For the breade of God is hee which commeth downe from heauen, and giueth life vnto the world.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/6",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 57 COS-90 prose-ref anchor; EB==TRB EXACT fresh"
+  },
+  {
+   "id": "JHN.6.51",
+   "ref": "John 6:51",
+   "uses": [
+    {
+     "section": "COS-90",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT",
+     "article_line": 14019,
+     "cited_as": "Geneva 1599",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "prose-ref",
+     "note": "COS-90 prose reference: came down from heaven (6:33, 38, 51)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I am that liuing breade, which came downe from heauen: if any man eate of this breade, hee shall liue for euer: and the bread that I will giue, is my flesh, which I will giue for the life of the world.",
+     "source": "https://ebible.org/enggnv/JHN06.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "I am that liuing breade, which came downe from heauen: if any man eate of this breade, hee shall liue for euer: and the bread that I will giue, is my flesh, which I will giue for the life of the world.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/43/6",
+     "result": "agree exact (EB==TRB)"
+    }
+   },
+   "note": "Wave 57 COS-90 prose-ref anchor; EB==TRB EXACT fresh"
   }
  ]
 }
