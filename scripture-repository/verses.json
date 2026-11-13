@@ -1866,6 +1866,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "prose mention in \"The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)\""
+    },
+    {
+     "section": "COS-98",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE F — ROMANS 9:5",
+     "article_line": 15659,
+     "cited_as": "1 Cor 8:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Safest-reading line: \"texts like John 17:3, 1 Cor 8:6, and 1 Tim 2:5 which unambiguously identify the Father as the One God\" — no quote seated"
     }
    ],
    "verified": "2026-11-12",
@@ -3192,6 +3202,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "prose mention in \"The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)\""
+    },
+    {
+     "section": "COS-98",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE F — ROMANS 9:5",
+     "article_line": 15659,
+     "cited_as": "1 Tim 2:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Safest-reading line: \"texts like John 17:3, 1 Cor 8:6, and 1 Tim 2:5 which unambiguously identify the Father as the One God\" — no quote seated"
     }
    ],
    "verified": "2026-11-12",
@@ -28499,6 +28519,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "prose mention in \"The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)\""
+    },
+    {
+     "section": "COS-98",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE F — ROMANS 9:5",
+     "article_line": 15659,
+     "cited_as": "John 17:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Safest-reading line: \"texts like John 17:3, 1 Cor 8:6, and 1 Tim 2:5 which unambiguously identify the Father as the One God\" — no quote seated"
     }
    ],
    "verified": "2026-11-12",
@@ -62010,6 +62040,18 @@
      "status": "anchor",
      "note": "QUESTION option (E); the draft itself notes contested punctuation; option mention, no seat",
      "quote_kind": "prose-ref"
+    },
+    {
+     "section": "COS-98",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE F — ROMANS 9:5",
+     "article_line": 15610,
+     "cited_as": "Romans 9:5 (Geneva 1599)",
+     "quotes": [
+      "*\"Of whom are the fathers, and of whom concerning the flesh, Christ came, who is God over all, blessed for ever, Amen.\"*"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "W65 seat — ZERO-SPLICE: the draft IS the 1599 print at modern folds (whome/ouer/euer; every word identical, incl. Reading-A punctuation \"who is God over all, blessed for ever, Amen.\"); the rename-pair seat drops the Greek blockquote (wave-62/63 class) — the Greek lives here (WH 1.000); the COS-91 QUESTION-option use at 14632 stays — both uses kept"
     }
    ],
    "verified": {
@@ -62031,9 +62073,19 @@
      "result": "agree",
      "source": "textusreceptusbibles.com/Geneva/45/9",
      "date": "2026-11-12"
+    },
+    "geneva_biblehub": {
+     "text": "Of whome are the fathers, and of whome concerning the flesh, Christ came, who is God ouer all, blessed for euer, Amen. God’s Sovereign Choice ( Genesis 25:19–28 ; Malachi 1:1–5 )",
+     "source": "https://biblehub.com/geneva/romans/9.htm",
+     "result": "concurs with the 1599 print at fold classes (one final-e variance: \"of whom\" vs \"of whome\"; slice trimmed at \"Amen.\" where the running head glues on; eBible ROM09 == TRB 45/9 EXACT fresh 2026-11-12)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "﻿ Romans 9:5 Greek Text Analysis Bible > Greek > Romans 9:5 ◄ Romans 9:5 ► Text Analysis Go to Parallel Greek Strong's Greek English Morphology 3739 [e] ὧν hōn whose [are] RelPro-GMP 3588 [e] οἱ hoi the Art-NMP 3962 [e] πατέρες, pateres patriarchs; N-NMP 2532 [e] καὶ kai and Conj 1537 [e] ἐξ ex from Prep 3739 [e] ὧν hōn whom [is] RelPro-GMP 3588 [e] ὁ ho - Art-NMS 5547 [e] Χριστὸς Christos Christ N-NMS 3588 [e] τὸ to - Art-ANS 2596 [e] κατὰ kata according to Prep 4561 [e] σάρκα, sarka the flesh, N-AFS 3588 [e] ὁ ho - Art-NMS 1510 [e] ὢν ōn being V-PPA-NMS 1909 [e] ἐπὶ epi over Prep 3956 [e] πάντων pantōn all Adj-GNP 2316 [e] Θεὸς Theos God, N-NMS 2128 [e] εὐλογητὸς eulogētos blessed Adj-NMS 1519 [e] εἰς eis to Prep 3588 [e] τοὺς tous the Art-AMP 165 [e] αἰῶνας, aiōnas ages. N-AMP 281 [e] ἀμήν. amēn Amen. Heb Greek Texts ΠΡΟΣ ΡΩΜΑΙΟΥΣ 9:5 Greek NT: Nestle 1904 ὧν οἱ πατέρες, καὶ ἐξ ὧν ὁ Χριστὸς τὸ κατὰ σάρκα, ὁ ὢν ἐπὶ πάντων Θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας, ἀμήν. ΠΡΟΣ ΡΩΜΑΙΟΥΣ 9:5 Greek NT: Westcott and Hort 1881 ὧν οἱ πατέρες, καὶ ἐξ ὧν ὁ χριστὸς τὸ κατὰ σάρκα, ὁ ὢν ἐπὶ πάντων, θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν. ΠΡΟΣ ΡΩΜΑΙΟΥΣ 9:5 Greek NT: Westcott and Hort / [NA27 and UBS4 varia",
+     "source": "https://biblehub.com/text/romans/9-5.htm",
+     "result": "set-containment 1.000 vs the author's Greek quote (canon 15606) at accent/case fold — the draft Greek is WH-identical (ὧν οἱ πατέρες … ὁ ὢν ἐπὶ πάντων Θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν)"
     }
    },
-   "note": "option mention; punctuation controversy acknowledged in the draft itself."
+   "note": "option mention; punctuation controversy acknowledged in the draft itself. | W65 (COS-98 PASSAGE F): the passage's opening seat — ZERO-SPLICE: the draft quote (canon 15610) is the 1599 print at modern folds (whome/ouer/euer); rename-pair seat = ONE \"## **Romans 9:5 — Geneva 1599:**\" head (wave-62/63 class); the Greek blockquote (canon 15606) dropped per the seat shape — Greek lives on this row (draft Greek = WH, containment 1.000 at biblehub.com/text/romans/9-5.htm). The draft itself holds BOTH punctuations open (Readings A/B) and lets the clearer texts govern (John 17:3, 1 Cor 8:6, 1 Tim 2:5) — no flag: the seat is verbatim print and the discussion is kept whole. The COS-91 option-mention use kept."
   },
   {
    "id": "1TI.3.16",
@@ -62858,6 +62910,70 @@
     "detail": "Passage-D prose quote (canon 15513) reads \"therefore God, even thy God\" where the 1599 print reads \"Wherefore God, eue thy God\" — the KJV-voiced connective; everything else in the quote is the print at folds (Thou hast loued / hated iniquitie / hath anointed). Italic KJV attribution or re-voice awaits Gideon (10 Nov 2026 attribution class).",
     "awaiting": "Gideon"
    }
+  },
+  {
+   "id": "ROM.1.7",
+   "ref": "Romans 1:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "To all you that be at Rome beloued of God, called to be Saints: Grace be with you, and peace from God our Father, and from the Lord Iesus Christ.",
+     "source": "ebible.org enggnv ROM01.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "To all you that be at Rome beloued of God, called to be Saints: Grace be with you, and peace from God our Father, and from the Lord Iesus Christ.",
+     "source": "https://textusreceptusbibles.com/Geneva/45/1",
+     "result": "EXACT: eBible print == TRB fresh (whole chapter ALL-EXACT)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-98",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE F — ROMANS 9:5",
+     "article_line": 15639,
+     "cited_as": "Romans 1:7",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Contextual bullet: \"Paul consistently distinguishes Christ from 'God' (the Father) elsewhere in Romans (1:7; 15:6; etc.)\" — Reading-B argument; no quote seated"
+    }
+   ],
+   "note": "prose-ref anchor (Contextual Considerations; evidence ref, no quote)"
+  },
+  {
+   "id": "ROM.15.6",
+   "ref": "Romans 15:6",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That ye with one minde, and with one mouth may prayse God, euen the Father of our Lord Iesus Christ.",
+     "source": "ebible.org enggnv ROM15.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "That ye with one minde, and with one mouth may prayse God, euen the Father of our Lord Iesus Christ.",
+     "source": "https://textusreceptusbibles.com/Geneva/45/15",
+     "result": "EXACT: eBible print == TRB fresh (whole chapter ALL-EXACT)"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-98",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE F — ROMANS 9:5",
+     "article_line": 15639,
+     "cited_as": "Romans 15:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Contextual bullet: \"Paul consistently distinguishes Christ from 'God' (the Father) elsewhere in Romans (1:7; 15:6; etc.)\" — Reading-B argument; no quote seated"
+    }
+   ],
+   "note": "prose-ref anchor (Contextual Considerations; evidence ref, no quote)"
   }
  ],
  "meta": {
@@ -63010,7 +63126,8 @@
    "COS-94",
    "COS-95",
    "COS-96",
-   "COS-97"
+   "COS-97",
+   "COS-98"
   ],
   "sections": [
    {
@@ -63554,6 +63671,10 @@
    {
     "key": "COS-97",
     "label": "PASSAGE E — ISAIAH 9:6 LXX"
+   },
+   {
+    "key": "COS-98",
+    "label": "PASSAGE F — ROMANS 9:5"
    }
   ],
   "double_check": {
@@ -63614,8 +63735,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 133328,
-  "cos_sofar": "waves 64",
-  "glossary": 1387
+  "so_far_words": 133729,
+  "cos_sofar": "waves 65",
+  "glossary": 1389
  }
 }

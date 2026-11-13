@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1216 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1218 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1387 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1389 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -14354,6 +14354,50 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
 - *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
+## PASSAGE F — ROMANS 9:5
+
+### Romans 9:5 — CONFIRMED
+*cited as: Romans 9:5 (Geneva 1599)*
+- **Geneva 1599:** “Of whome are the fathers, and of whome concerning the flesh, Christ came, who is God ouer all, blessed for euer, Amen.”
+- *Note:* W65 seat — ZERO-SPLICE: the draft IS the 1599 print at modern folds (whome/ouer/euer; every word identical, incl. Reading-A punctuation "who is God over all, blessed for ever, Amen."); the rename-pair seat drops the Greek blockquote (wave-62/63 class) — the Greek lives here (WH 1.000); the COS-91 QUESTION-option use at 14632 stays — both uses kept
+- *Checked {'date': '2026-11-12', 'editions': ['gnv'], 'result': 'confirmed'} · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · geneva_biblehub — concurs with the 1599 print at fold classes (one final-e variance: "of whom" vs "of whome"; slice trimmed at "Amen." where the running head glues on; eBible ROM09 == TRB 45/9 EXACT fresh 2026-11-12) · greek_biblehub_fresh — set-containment 1.000 vs the author's Greek quote (canon 15606) at accent/case fold — the draft Greek is WH-identical (ὧν οἱ πατέρες … ὁ ὢν ἐπὶ πάντων Θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν)*
+
+### Romans 1:7 — PROSE-REF
+*cited as: Romans 1:7*
+- **Geneva 1599:** “To all you that be at Rome beloued of God, called to be Saints: Grace be with you, and peace from God our Father, and from the Lord Iesus Christ.”
+- *Note:* Contextual bullet: "Paul consistently distinguishes Christ from 'God' (the Father) elsewhere in Romans (1:7; 15:6; etc.)" — Reading-B argument; no quote seated
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh (whole chapter ALL-EXACT)*
+
+### Romans 15:6 — PROSE-REF
+*cited as: Romans 15:6*
+- **Geneva 1599:** “That ye with one minde, and with one mouth may prayse God, euen the Father of our Lord Iesus Christ.”
+- *Note:* Contextual bullet: "Paul consistently distinguishes Christ from 'God' (the Father) elsewhere in Romans (1:7; 15:6; etc.)" — Reading-B argument; no quote seated
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh (whole chapter ALL-EXACT)*
+
+### 1 Corinthians 8:6 — PROSE-REF
+*cited as: 1 Cor 8:6*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Note:* Safest-reading line: "texts like John 17:3, 1 Cor 8:6, and 1 Tim 2:5 which unambiguously identify the Father as the One God" — no quote seated
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1TI 2 5 — PROSE-REF
+*cited as: 1 Tim 2:5*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- *Note:* Safest-reading line: "texts like John 17:3, 1 Cor 8:6, and 1 Tim 2:5 which unambiguously identify the Father as the One God" — no quote seated
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### John 17:3 — PROSE-REF
+*cited as: John 17:3*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* Safest-reading line: "texts like John 17:3, 1 Cor 8:6, and 1 Tim 2:5 which unambiguously identify the Father as the One God" — no quote seated
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -16201,7 +16245,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 6:19 | COS-60, COS-62 | prose-ref |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-92, COS-95, COS-91 | anchor, confirmed, prose-ref |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-92, COS-95, COS-98, COS-91 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
 | 1 John 1:9 | P7, COS-69, COS-81 | anchor, confirmed |
@@ -16228,11 +16272,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Thessalonians 4:16 | COS-38, COS-42 | confirmed |
 | 1 Thessalonians 4:17 | COS-38, COS-66 | confirmed |
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
-| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-92, COS-95, COS-91 | anchor, confirmed, prose-ref |
+| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-92, COS-95, COS-98, COS-91 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -16334,7 +16378,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63, COS-97 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52, COS-97 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -16657,7 +16701,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90, COS-91 | anchor, confirmed, prose-ref |
@@ -16736,7 +16780,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
 | John 17:26 | COS-62 | prose-ref |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92, COS-95 | anchor, confirmed, prose-ref |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92, COS-95, COS-98 | anchor, confirmed, prose-ref |
 | John 17:4 | COS-55, COS-61 | anchor, prose-ref |
 | John 17:5 | COS-21, COS-43, COS-61, COS-89, COS-90, COS-91 | confirmed, paraphrase, prose-ref |
 | John 17:6 | COS-62 | prose-ref |
@@ -16949,7 +16993,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -17531,7 +17575,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Peter 1:3 | COS-91 | confirmed (excerpt) |
 | Revelation 3:12 | COS-91 | anchor |
 | Luke 2:11 | COS-91 | anchor |
-| Romans 9:5 | COS-91 | anchor |
+| Romans 9:5 | COS-98, COS-91 | anchor, confirmed |
 | 1 Timothy 3:16 | COS-91 | anchor |
 | Isaiah 9:6 (NETS/MT numbering) | COS-92, COS-97, COS-91 | anchor, confirmed |
 | Isaiah 43:11 | COS-92 | confirmed |
@@ -17552,6 +17596,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 81:6 LXX (MT 82:6) | COS-93 | prose-ref |
 | John 20:29 | COS-94 | confirmed |
 | Hebrews 1:9 | COS-96 | prose-ref |
+| Romans 1:7 | COS-98 | prose-ref |
+| Romans 15:6 | COS-98 | prose-ref |
 
 ## The editions used
 
