@@ -135,7 +135,11 @@
    "COS-80",
    "COS-81",
    "COS-82",
-   "COS-83"
+   "COS-83",
+   "COS-84",
+   "COS-85",
+   "COS-86",
+   "COS-87"
   ],
   "sections": [
    {
@@ -623,6 +627,22 @@
    {
     "key": "COS-83",
     "label": "PART 9 — WITNESS AND PROCLAMATION"
+   },
+   {
+    "key": "COS-84",
+    "label": "PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications"
+   },
+   {
+    "key": "COS-85",
+    "label": "GRAND SYNTHESIS — THE ARCHITECTURE OF THE FAITHFUL CHRISTIAN LIFE"
+   },
+   {
+    "key": "COS-86",
+    "label": "A FINAL OBSERVATION"
+   },
+   {
+    "key": "COS-87",
+    "label": "A QUESTION FOR YOU — the prayer-to-Jesus bridge"
    }
   ],
   "double_check": {
@@ -683,11 +703,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 110281,
+  "so_far_words": 111553,
   "cos_sofar": {
-   "waves": 53
+   "waves": 54
   },
-  "glossary": 1305
+  "glossary": 1316
  },
  "verses": [
   {
@@ -55168,6 +55188,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12735,
+     "cited_as": "1 Peter 4:10 seat (re-present; seat of record wave-48)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "re-present seat ZERO-SPLICE exact-modern + *(stewards)* gloss on the print's \"disposers\"; banked==fresh assert passed.",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -55182,6 +55212,11 @@
      "text": "Let euery man as hee hath receiued the gift, minister the same one to another, as good disposers of the manifolde grace of God.",
      "source": "https://textusreceptusbibles.com/Geneva/60/4",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἕκαστος καθὼς ἔλαβεν χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος Θεοῦ· ΠΕΤΡΟΥ Α΄ ἕκαστος καθὼς ἔλαβεν χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ· ΠΕΤΡΟΥ Α΄ ἕκαστος καθὼς ἔλαβεν χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες, ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ· ΠΕΤΡΟΥ Α΄ ἕκαστος καθὼς ἔλαβε χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος Θεοῦ· ΠΕΤΡΟΥ Α΄ ἕκαστος καθώς λαμβάνω χάρισμα εἰς ἑαυτοῦ αὐτός διακονέω ὡς καλός οἰκονόμος ποικίλος χάρις θεός ΠΕΤΡΟΥ Α΄ ἕκαστος καθὼς ἔλαβε χάρισμα, εἰς ἑαυτοὺς αὐτὸ διακονοῦντες, ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος Θεοῦ· ΠΕΤΡΟΥ Α΄ ἕκαστος καθὼς ἔλαβεν χάρισμα εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ ἕκαστος καθὼς ἔλαβεν χάρισμα εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ.",
+     "source": "https://biblehub.com/text/ [1_peter/4-10]",
+     "result": "set-containment 1.000 of draft Greek (koronis strip class)"
     }
    },
    "note": ""
@@ -57039,6 +57074,363 @@
     }
    ],
    "note": "prose mention COS-83 (no seat)"
+  },
+  {
+   "id": "1CO.4.7",
+   "ref": "1 Corinthians 4:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For who separateth thee? and what hast thou, that thou hast not receiued? if thou hast receiued it, why reioycest thou, as though thou haddest not receiued it?",
+     "source": "https://ebible.org/enggnv/1CO04.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12683,
+     "cited_as": "1 Corinthians 4:7 seat (the Foundation)",
+     "quotes": [
+      "> For who separateth thee? and what hast thou, that thou hast not received? if thou hast received it, why rejoicest thou, as though thou hadst not received it?"
+     ],
+     "status": "confirmed",
+     "note": "1579 print 'haddest' (2sg past; EB+TRB both); seat renders the draft's 'hadst' — polish-modern class; ZERO-SPLICE exact-modern.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "For who separateth thee? and what hast thou, that thou hast not receiued? if thou hast receiued it, why reioycest thou, as though thou haddest not receiued it?",
+     "source": "https://www.textusreceptusbibles.com/Geneva/46/4",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τίς γάρ σε διακρίνει; τί δὲ ἔχεις ὃ οὐκ ἔλαβες; εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών; ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ Tίς γάρ σε διακρίνει; Tί δὲ ἔχεις ὃ οὐκ ἔλαβες; Εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών; ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α΄ τίς γάρ σε διακρίνει τί δὲ ἔχεις ὃ οὐκ ἔλαβες εἰ δὲ καὶ ἔλαβες τί καυχᾶσαι ὡς μὴ λαβών τίς γάρ σε διακρίνει; τί δὲ ἔχεις ὃ οὐκ ἔλαβες; εἰ δὲ καὶ ἔλαβες, τί καυχᾶσαι ὡς μὴ λαβών;",
+     "source": "https://biblehub.com/text/ [1_corinthians/4-7]",
+     "result": "set-containment 1.000 of draft Greek (koronis strip class)"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.15",
+   "ref": "Ephesians 5:15",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Take heede therefore that yee walke circumspectly, not as fooles, but as wise,",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12695,
+     "cited_as": "1599 Geneva seat — Ephesians 5:15-17 joined range (canon 12695; v17 RESTORED per range completeness)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "the draft's closing ellipsis covered v17 — restored (wave-53 Matt 28:19-20 tail class); article-ye folds 'Redeeming the season: for the days are evil' (wave-25 class).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Take heede therefore that yee walke circumspectly, not as fooles, but as wise,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Βλέπετε οὖν ἀκριβῶς πῶς περιπατεῖτε, μὴ ὡς ἄσοφοι ἀλλ’ ὡς σοφοί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ Βλέπετε οὖν ἀκριβῶς πῶς περιπατεῖτε, μὴ ὡς ἄσοφοι ἀλλ' ὡς σοφοί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ Βλέπετε οὖν πῶς ἀκριβῶς περιπατεῖτε, μὴ ὡς ἄσοφοι, ἀλλ’ ὡς σοφοί, ΠΡΟΣ ΕΦΕΣΙΟΥΣ βλέπω οὖν ἀκριβῶς πῶς περιπατέω μή ὡς ἄσοφος ἀλλά ὡς σοφός ΠΡΟΣ ΕΦΕΣΙΟΥΣ Βλέπετε οὖν πῶς ἀκριβῶς περιπατεῖτε μὴ ὡς ἄσοφοι ἀλλ' ὡς σοφοί Βλέπετε οὖν ἀκριβῶς πῶς περιπατεῖτε, μὴ ὡς ἄσοφοι ἀλλ’ ὡς σοφοί, | ἐξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσιν. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσι. ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐξαγοράζω ὁ καιρός ὅτι ὁ ἡμέρα πονηρός εἰμί ΠΡΟΣ ΕΦΕΣΙΟΥΣ ἐξαγοραζόμενοι τὸν καιρόν ὅτι αἱ ἡμέραι πονηραί εἰσιν έξαγοραζόμενοι τὸν καιρόν, ὅτι αἱ ἡμέραι πονηραί εἰσιν. | διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνίετε τί τὸ θέλημα τοῦ Κυρίου. ΠΡΟΣ ΕΦΕΣΙΟΥΣ διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνίετε τί τὸ θέλημα τοῦ κυρίου· ΠΡΟΣ ΕΦΕΣΙΟΥΣ Διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνιέντες τί τὸ θέλημα τοῦ κυρίου. ΠΡΟΣ ΕΦΕΣΙΟΥΣ διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνιέντες τί τὸ θέλημα τοῦ Κυρίου. ΠΡΟΣ ΕΦΕΣΙΟΥΣ διά οὗτος μή γίνομαι ἄφρων ἀλλά συνίημι τίς ὁ θέλημα ὁ κύριος ΠΡΟΣ ΕΦΕΣΙΟΥΣ διὰ τοῦτο μὴ γίνεσθε ἄφρονες ἀλλὰ συνιέντες τί τὸ θέλημα τοῦ κυρίου διὰ τοῦτο μὴ γίνεσθε ἄφρονες, ἀλλὰ συνίετε τί τὸ θέλημα τοῦ κυρίου.",
+     "source": "https://biblehub.com/text/ [ephesians/5-15,5-16,5-17]",
+     "result": "set-containment 1.000 of draft Greek (koronis strip class)"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.16",
+   "ref": "Ephesians 5:16",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Redeeming ye season: for ye daies are euill.",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12695,
+     "cited_as": "1599 Geneva seat — Ephesians 5:15-17 joined range (canon 12695; v17 RESTORED per range completeness)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "same joined range seat; v16 exact-modern (daies/euill folds).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Redeeming ye season: for ye daies are euill.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "EPH.5.17",
+   "ref": "Ephesians 5:17",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Wherefore, be ye not vnwise, but vnderstand what the will of the Lord is.",
+     "source": "https://ebible.org/enggnv/EPH05.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12695,
+     "cited_as": "1599 Geneva seat — Ephesians 5:15-17 joined range (canon 12695; v17 RESTORED per range completeness)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "same joined range seat — THIS VERSE RESTORED (draft had elided it, '...' after 'days are evil'); print 'Wherefore, be ye not vnwise' seated.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Wherefore, be ye not vnwise, but vnderstand what the will of the Lord is.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/49/5",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "1TI.6.17",
+   "ref": "1 Timothy 6:17",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Charge them that are rich in this world, that they be not high minded, and that they trust not in vncertaine riches, but in the liuing God, (which giueth vs aboundantly, all things to enioy)",
+     "source": "https://ebible.org/enggnv/1TI06.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12707,
+     "cited_as": "1599 Geneva seat — 1 Timothy 6:17-19 joined range (canon 12707; v19 RESTORED)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "ONE SPLICE in the range: draft KJV-echo 'willing to communicate' → print 'and communicate,' (EB+TRB both); the print comma after 'aboundantly' restored (draft dropped); draft 'high minded' seated 'high-minded' (polish-modern class).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Charge them that are rich in this world, that they be not high minded, and that they trust not in vncertaine riches, but in the liuing God, (which giueth vs aboundantly, all things to enioy)",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν, μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐπὶ Θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ' ἐπὶ θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ Tοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε, μὴ ὑψηλοφρονεῖν, μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐν τῷ θεῷ τῷ ζῶντι, τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν· ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν, μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐν τῷ Θεῷ τῷ ζῶντι, τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ὁ πλούσιος ἐν ὁ νῦν αἰών παραγγέλλω μή ὑψηλός φρονέω μηδέ ἐλπίζω ἐπί πλοῦτος ἀδηλότης ἀλλά ἐπί θεός ὁ παρέχω ἡμᾶς πᾶς πλουσίως εἰς ἀπόλαυσις ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν, μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι, ἀλλ’ ἐν τῷ θεῷ, τῷ ζῶντι τῷ παρέχοντι ἡμῖν πλουσίως πάντα εἰς ἀπόλαυσιν ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι ἀλλ' ἐν τῷ θεῷ τῷ ζῶντι, τῷ παρέχοντι ἡμῖν πλουσίως πάντα εἰς ἀπόλαυσιν Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλοφρονεῖν, μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι ἀλλ’ ἐπὶ θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν, | ἀγαθοεργεῖν, πλουτεῖν ἐν ἔργοις καλοῖς, εὐμεταδότους εἶναι, κοινωνικούς, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀγαθοεργεῖν, πλουτεῖν ἐν ἔργοις καλοῖς, εὐμεταδότους εἴναι, κοινωνικούς, ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀγαθοεργέω πλουτέω ἐν ἔργον καλός εὐμετάδοτος εἰμί κοινωνικός ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀγαθοεργεῖν πλουτεῖν ἐν ἔργοις καλοῖς εὐμεταδότους εἶναι κοινωνικούς ἀγαθοεργεῖν, πλουτεῖν ἐν ἔργοις καλοῖς, εὐμεταδότους εἶναι κοινωνικούς, | ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον, ἵνα ἐπιλάβωνται τῆς ὄντως ζωῆς. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον, ἵνα ἐπιλάβωνται τῆς αἰωνίου ζωῆς. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀποθησαυρίζω ἑαυτοῦ θεμέλιος καλός εἰς ὁ μέλλω ἵνα ἐπιλαμβάνομαι ὁ ὄντως ζωή ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον, ἵνα ἐπιλάβωνται τῆς αἰωνιόυ ζωῆς. ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄ ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον ἵνα ἐπιλάβωνται τῆς αἰωνιόυ ζωῆς ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον, ἵνα ἐπιλάβωνται τῆς ὄντως ζωῆς.",
+     "source": "https://biblehub.com/text/ [1_timothy/6-17,6-18,6-19]",
+     "result": "set-containment 1.000 of draft Greek (koronis strip class)"
+    }
+   }
+  },
+  {
+   "id": "1TI.6.18",
+   "ref": "1 Timothy 6:18",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "That they doe good, and be riche in good woorkes, and readie to distribute, and comunicate,",
+     "source": "https://ebible.org/enggnv/1TI06.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12707,
+     "cited_as": "1599 Geneva seat — 1 Timothy 6:17-19 joined range (canon 12707; v19 RESTORED)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "same joined range seat; the splice lands in this verse (print 'and comunicate,').",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "That they doe good, and be riche in good woorkes, and readie to distribute, and comunicate,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "1TI.6.19",
+   "ref": "1 Timothy 6:19",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Laying vp in store for themselues a good foundation against the time to come, that they may obteine eternall life.",
+     "source": "https://ebible.org/enggnv/1TI06.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12707,
+     "cited_as": "1599 Geneva seat — 1 Timothy 6:17-19 joined range (canon 12707; v19 RESTORED)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "same joined range seat — THIS VERSE RESTORED (draft had elided it); print 'obteine eternall life' — KJV reads 'lay hold on'.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Laying vp in store for themselues a good foundation against the time to come, that they may obteine eternall life.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "2CO.9.6",
+   "ref": "2 Corinthians 9:6",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "This yet remember, that he which soweth sparingly, shall reape also sparingly, and hee that soweth liberally, shall reape also liberally.",
+     "source": "https://ebible.org/enggnv/2CO09.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12719,
+     "cited_as": "1599 Geneva seat — 2 Corinthians 9:6-8 joined range (canon 12719)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "ZERO-SPLICE exact-modern; print 'This yet remember' is Geneva's own head (KJV differs); draft GNV-voiced.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "This yet remember, that he which soweth sparingly, shall reape also sparingly, and hee that soweth liberally, shall reape also liberally.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/9",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Τοῦτο δέ, ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει, καὶ ὁ σπείρων ἐπ’ εὐλογίαις ἐπ’ εὐλογίαις καὶ θερίσει. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ Τοῦτο δέ, ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει, καὶ ὁ σπείρων ἐπ' εὐλογίαις ἐπ' εὐλογίαις καὶ θερίσει. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ Tοῦτο δέ, ὁ σπείρων φειδομένως, φειδομένως καὶ θερίσει· καὶ ὁ σπείρων ἐπ’ εὐλογίαις, ἐπ’ εὐλογίαις καὶ θερίσει. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ Τοῦτο δέ, ὁ σπείρων φειδομένως, φειδομένως καὶ θερίσει· καὶ ὁ σπείρων ἐπ’ εὐλογίαις, ἐπ’ εὐλογίαις καὶ θερίσει. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ Τοῦτο δέ ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει καὶ ὁ σπείρων ἐπ' εὐλογίαις ἐπ' εὐλογίαις καὶ θερίσει Τοῦτο δὲ, ὁ σπείρων φειδομένως φειδομένως καὶ θερίσει, καὶ ὁ σπείρων ἐπ’ εὐλογίαις ἐπ’ εὐλογίαις καὶ θερίσει. | ἕκαστος καθὼς προῄρηται τῇ καρδίᾳ, μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ Θεός. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ ἕκαστος καθὼς προῄρηται τῇ καρδίᾳ, μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης, ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ Ἕκαστος καθὼς προαιρεῖται τῇ καρδίᾳ· μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ ἕκαστος καθὼς προαιρεῖται τῇ καρδίᾳ, μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ Θεός. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ ἕκαστος καθὼς προαιρεῖται τῇ καρδίᾳ· μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ Θεός. ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ ἕκαστος καθὼς προαιρεῖται τῇ καρδίᾳ μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός ἕκαστος καθὼς προῄρηται τῇ καρδίᾳ, μὴ ἐκ λύπης ἢ ἐξ ἀνάγκης· ἱλαρὸν γὰρ δότην ἀγαπᾷ ὁ θεός. | δυνατεῖ δὲ ὁ Θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ δυνατεῖ δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν· ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ Δυνατὸς δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν· ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ δυνατὸς δὲ ὁ Θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ δυνατεῖ δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν, ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ δυνατὸς δὲ ὁ Θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν· ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β΄ δυνατὸς δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν δυνατεῖ δὲ ὁ θεὸς πᾶσαν χάριν περισσεῦσαι εἰς ὑμᾶς, ἵνα ἐν παντὶ πάντοτε πᾶσαν αὐτάρκειαν ἔχοντες περισσεύητε εἰς πᾶν ἔργον ἀγαθόν,",
+     "source": "https://biblehub.com/text/ [2_corinthians/9-6,9-7,9-8]",
+     "result": "set-containment 1.000 of draft Greek (koronis strip class)"
+    }
+   }
+  },
+  {
+   "id": "2CO.9.7",
+   "ref": "2 Corinthians 9:7",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "As euery man wisheth in his heart, so let him giue, not grudgingly, or of necessitie: for God loueth a cheerefull giuer.",
+     "source": "https://ebible.org/enggnv/2CO09.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12719,
+     "cited_as": "1599 Geneva seat — 2 Corinthians 9:6-8 joined range (canon 12719)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "same joined range seat; print 'wisheth' (EB+TRB both) — KJV 'purposeth' — the draft is GNV-voiced here.",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "As euery man wisheth in his heart, so let him giue, not grudgingly, or of necessitie: for God loueth a cheerefull giuer.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/9",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "2CO.9.8",
+   "ref": "2 Corinthians 9:8",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And God is able to make all grace to abound towarde you, that yee alwayes hauing all sufficiencie in all thinges, may abounde in euery good worke,",
+     "source": "https://ebible.org/enggnv/2CO09.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12719,
+     "cited_as": "1599 Geneva seat — 2 Corinthians 9:6-8 joined range (canon 12719)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "same joined range seat; the print's verse-final comma kept (sentence continues v9).",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "And God is able to make all grace to abound towarde you, that yee alwayes hauing all sufficiencie in all thinges, may abounde in euery good worke,",
+     "source": "https://www.textusreceptusbibles.com/Geneva/47/9",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   }
+  },
+  {
+   "id": "1TI.6.8",
+   "ref": "1 Timothy 6:8",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Therefore when wee haue foode and raiment, let vs therewith be content.",
+     "source": "https://ebible.org/enggnv/1TI06.htm"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-84",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications",
+     "article_line": 12753,
+     "cited_as": "Practical Implications item 4: *\"Having food and raiment, let us be therewith content\"* (1 Tim 6:8 Geneva)",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "flag below.",
+     "quote_kind": "reference"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Therefore when wee haue foode and raiment, let vs therewith be content.",
+     "source": "https://www.textusreceptusbibles.com/Geneva/54/6",
+     "result": "exact per-verse (eBible==TRB 1.000)"
+    }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Practical Implications item 4 (canon 12753) quotes \"Having food and raiment, let us be therewith content\" under '(1 Tim 6:8 Geneva)'; the 1599 print reads \"Therefore when wee haue foode and raiment, let vs therewith be content.\" (EB+TRB) — the item's word order 'let us be therewith content' is the KJV echo (GNV: 'let vs therewith be content'). Italic version-name or re-voice awaits Gideon (standing attribution class, 10 Nov 2026).",
+    "awaiting": "Gideon"
+   }
   }
  ]
 }

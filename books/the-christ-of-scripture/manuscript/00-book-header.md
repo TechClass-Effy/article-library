@@ -245,3 +245,11 @@ compressed echo banked — the print reads 'that I was blinde, and nowe I see'; 
 power of God unto salvation' GNV-voiced)). EB==TRB 9/9 EXACT fresh (incl Matt 28:19-20 vs TRB 40/28);
 draft Greek Matt 28:19-20 / 1 Pet 3:15 / Matt 5:16 / Rom 10:14-15 = BibleHub WH set containment (case class
 only).
+
+80. (C) PART 10 — STEWARDSHIP (COS-84 — The Foundation: 1 Cor 4:7 seat ZERO-SPLICE exact-modern (print 'haddest' — the draft renders the 2sg past 'hadst', polish-modern class); Time Stewardship: Eph 5:15-17 joined range — the draft's closing ellipsis covered v17, RESTORED per range completeness ('Wherefore, be ye not unwise, but understand what the will of the Lord is.'); article-ye folds x2 'Redeeming the season: for the days are evil'; Material Stewardship: 1 Tim 6:17-19 — ONE SPLICE: draft KJV-echo 'willing to communicate' → print 'and communicate,' + v19 RESTORED (print 'obteine eternall life' — KJV 'lay hold on'); the print comma after 'aboundantly' restored (draft dropped); 2 Cor 9:6-8 seat ZERO-SPLICE exact-modern (print 'wisheth' — EB+TRB both; the print's verse-final comma kept); Stewardship of Gifts: 1 Pet 4:10 seat ZERO-SPLICE exact-modern + *(stewards)* gloss on the print's 'disposers' (KJV 'stewards'); Practical Implications 1-7 verbatim (item 4's 1 Tim 6:8 quote is KJV-order — FLAGGED, prose untouched). EB==TRB 11/11 EXACT fresh (46/4, 49/5, 54/6, 47/9, 60/4); draft Greek all 5 blocks = BibleHub WH set containment 1.000 (koronis strip class).)
+
+81. GRAND SYNTHESIS — THE ARCHITECTURE OF THE FAITHFUL CHRISTIAN LIFE (COS-85 — the ten disciplines gathered: the Daily, Weekly, Ongoing, and Whole-Life patterns; prose VERBATIM, no scripture seats).
+
+82. A FINAL OBSERVATION (COS-86 — the disciplines as expressions — not the means of earning — of a salvation already received; prose VERBATIM incl. the modern-believer ten-point list).
+
+83. A QUESTION FOR YOU (COS-87 — the A-D options verbatim; the Seeker's inserted question seated as a blockquote ('> Given all the maxims as the governing precepts in our study, does the WORD instruct us to pray to Jesus?'); the reply + maxim-rehearsal + 'Let us proceed.' kept per the wave-34 directive-bridge precedent; next section THE QUESTION FRAMED PRECISELY (canon 12867) awaits wave 55).

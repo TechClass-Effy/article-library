@@ -90,6 +90,42 @@ provisional pending his voice (Mark 12:29 Nicaea note; LXX-dating note).*
 55. (E) The Acts 2:33 Examination — The Exalted Son Receives and Pours Forth the Promise of the Spirit (Acts 2:32-36 Geneva span seat; John 15:26 seat; Joel 2:28-29 NETS seat; John 7:37-39 re-presented; Ephesians 4:7-10 seat; cross-witness fragments Luke 24:49 / Acts 1:4 / Gal 3:14 / Eph 1:13; Psalm 67(68):18; 1 Corinthians 12:11 note; the pattern table banked; what is established; what this preserves; the beauty of Acts 2:33; READY FOR PART F)
 56. The Shift in the Spirit’s Operation — From “Upon” to “Within” (Part F groundwork: the OT “upon” pattern; the promised “within” pattern; the two economies; sealing and irrevocability)
 
+57. (F) John 14:16-23 — The Father and Son Making Their Abode with Us (COS-60: six Geneva seats — 14:16-17 span, 14:18, 14:19-20, 14:21, 14:22, 14:23; "Yes." bridge seated; KJV-voiced attribution flags await Gideon)
+
+58. (F) John 17 — The Context (COS-61: the chapter divides; foundational verses 17:1-5, 17:3, 17:11, 17:17-19 Geneva-modern seats — draft exact-modern; the trajectory vv.1-19)
+
+59. (F) John 17:20-26 — The Prayer for the Elect (COS-62: clauses examined; seats 17:20-26 — 17:21 comma/colon seat, 17:24 "thou lovedst", 17:26 print "unto the *(them)*"; Romans 5:5 mechanism; cross-witnesses 1 Cor 3:16-17, 6:19, 2 Cor 6:16, Eph 2:21-22, Eph 3:14-19, Col 1:27, Gal 2:20, Rev 21:3; the consummation)
+
+60. (F) Grand Synthesis — The Consummation of Our Entire Study + Conclusion of Our Study (COS-63/64: the arc Genesis-to-New-Jerusalem; what this establishes about the Person of Christ and the elect; "A Personal Word" and "A Final Question"; the new directive bridge seated — the believer's identification in Christ ahead, opening Galatians 2:20)
+
+61. (F) Galatians 2:20 — The Foundational Declaration (context: the Antioch rebuke;
+Galatians 2:19-20 Geneva seat — "yet not I any more" per the 1599 print; the clause-by-clause
+examination (dying to the law to live unto God; co-crucified with Christ — the perfect passive;
+no longer I; Christ lives in me; by the faith in/of the Son of God; who hath loved me and given
+himself for me); cross-witnesses Romans 6:6 and 2 Corinthians 5:17 Geneva seats; the synthesis
+of the believer's identification)
+
+62. (F) The Full Counsel — The Believer's Identification in Christ (COMPLETE — all fourteen
+ Points seated: Galatians 2:20 foundation + Point 1 Co-Crucified (Gal 2:20, Rom 6:6, Gal 5:24,
+Gal 6:14); Points 2-5 Died/Buried/Made-Alive/Raised/Hidden (Rom 6:8, 2 Tim 2:11, Rom 6:4,
+Col 2:12, Col 2:20-22, Col 3:1-3, Eph 2:5-6); Points 6-7 Chosen/Accepted/Redeemed/Justified/
+New-Creation/Sanctified/Sealed (Eph 1:3/1:4/1:6/1:7, Phil 3:9, 2 Cor 5:17, 1 Cor 1:2/1:30,
+Eph 1:13, Gal 2:17, Gal 3:27, Rom 6:3, 1 Cor 12:13); Points 8-10 Members/One-Spirit/
+Children-Heirs (1 Cor 12:12+12:27, Eph 5:30, 1 Cor 6:17, Rom 8:14-17, Gal 4:4-7); Points 11-14
+Conformed/Co-Sufferers/Appearing/Reigning (Rom 8:29, 2 Cor 3:18, Phil 3:10-11, 1 Peter 4:13,
+Col 3:4, 1 John 3:2, 1 Thess 4:17 tail, 2 Tim 2:12, Rev 20:6, Rev 22:5 tail); the Grand
+Synthesis identification tables + "In Christ" realities + Trajectory; the Closing Observation;
+and the (D) Seeker bridge — the Romans 8:17 "sufferings of the modern believer" arc opens
+next wave)
+63. (D) Romans 8:17 — The Foundational Text (COS-67 COMPLETE: the verse seated from the
+verified 1599 print — draft exact-modern, no splice; the εἴπερ conditional examined; co-suffering
+normative, corporate, and the path to co-glorification)
+64. (D) What Does "Suffering with Christ" Mean? (COS-68 COMPLETE:
+Righteousness-sake persecution (Matt 5:10-12, John 15:18-20, 2 Tim 3:12) and the world's hatred
+for His Name (John 15:21, Acts 5:41, 1 Peter 4:14-16), every seat exact-modern of the verified
+1599 print; Categories 3-8, the modern-believer block, What-Is-Not, The Gifts, the Grand
+Synthesis, and Final Observation seated in the recovery run)
+
 65. (A) THE INDICATIVE-TO-IMPERATIVE PATTERN (COS-69 — the Romans-6 arc seated complete:
 vv 1-2, 3-5, 6-7, 8-10, 11, 12-13, 14, 15-18 selections, 23 + the cross-witnesses Eph 4:1,
 Col 3:1-5, Gal 5:24-25, Eph 4:22-24 + the practical-implications close and the (A) answer.
@@ -180,3 +216,40 @@ folds; draft Greek εὔχεσθε matches the page's εὔχεσθε column —
 Observation; Practical Implications 1-6 (Dan 9 chapter anchor)). EB==TRB 2/2 fresh both verses;
 WH Greek set-containment on both draft Greek blocks (1JN 1:9 page variant column ἐστι vs
 seat/Byzantine ἐστιν — row-noted).
+
+78. (C) PART 8 — THE BELIEVER'S RESPONSE TO TRIALS (COS-82 — Joy in Trial: James 1:2-4 joined
+Geneva seat (ONE SPLICE: print v3-end comma restored over the draft's period 'patience.' —
+draft-KJV-punctuation class; article-ye 'ye trying' folded 'the' — both sources print 'ye';
+ioy/diuers/tentations/haue/worke/entier modern folds); observations verbatim incl. ὑπομονή +
+gloss); The Different Kinds of Trials (Matt 5:11-12 + Acts 5:41 + Rom 12:14 + James 5:14-16
+(JAM.5.14/15 anchors) + Rom 8:23 + 1 Thess 4:13 anchor + Matt 6:25-34 range anchor + Matt 6:33 +
+2 Thess 3:10-12 anchors + Phil 4:11-13 anchors + Matt 5:44 anchor + Col 3:13 + Rom 12:18);
+The Sustaining Truths (Rom 8:28 + Heb 4:15 'touched with the feeling of our infirmities' — text
+BACKFILL + 'He sympathizes' paraphrase echo + 'light affliction which is but for a moment' 2 Cor
+4:17 GNV-exact fragment good-reason + Rom 8:18 + Rom 8:38-39); Practical Implications 1-7 (1 Pet
+4:12; Gal 6:2 echo cited-without-ref)). EB==TRB 16/16 EXACT fresh; draft Greek James 1:2-4 =
+BibleHub 32/32 tokens verse-joined).
+
+79. (C) PART 9 — WITNESS AND PROCLAMATION (COS-83 — The Mandate: Matt 28:19-20 joined Geneva seat (TWO
+SPLICES: the 1599 print's ONE 'of the' restored over the draft's KJV-voiced 'and of the Father, and of the
+Son, and of the holy Ghost' — the print reads 'and the Son, and the holy Ghost'; the elided print tail
+RESTORED through 'and lo, I am with you alway, until the end of the world, Amen.' — wave-18 Rev 1:7 Amen
+precedent); The Posture of the Witness: 1 Pet 3:15 seat ZERO-SPLICE exact-modern (the 1599 prints 'with
+meekenesse and reuerence' — KJV prints 'fear', so the draft's 'reverence' IS the Geneva print); observations
+verbatim); The Believer's Witness — By Life (Matt 5:16 seat ZERO-SPLICE), By Word (Rom 10:14-15 seat — the
+elided v15 tail RESTORED through the Isaiah citation 'How beautiful are the feet of them which bring glad
+tidings of peace, and bring glad tidings of good things!'; 'Faith comes by hearing (Rom 10:17)' prose —
+COS-76 pre-banked seat), By Service); The Content of the Witness (gospel-summary bullets VERBATIM; Jhn 3:16
++ Acts 2:36 paraphrase echoes banked); Practical Implications 1-7 (John 9:25 'I was blind, now I see'
+compressed echo banked — the print reads 'that I was blinde, and nowe I see'; Rom 1:16 anchor — 'It is the
+power of God unto salvation' GNV-voiced)). EB==TRB 9/9 EXACT fresh (incl Matt 28:19-20 vs TRB 40/28);
+draft Greek Matt 28:19-20 / 1 Pet 3:15 / Matt 5:16 / Rom 10:14-15 = BibleHub WH set containment (case class
+only).
+
+80. (C) PART 10 — STEWARDSHIP (COS-84 — The Foundation: 1 Cor 4:7 seat ZERO-SPLICE exact-modern (print 'haddest' — the draft renders the 2sg past 'hadst', polish-modern class); Time Stewardship: Eph 5:15-17 joined range — the draft's closing ellipsis covered v17, RESTORED per range completeness ('Wherefore, be ye not unwise, but understand what the will of the Lord is.'); article-ye folds x2 'Redeeming the season: for the days are evil'; Material Stewardship: 1 Tim 6:17-19 — ONE SPLICE: draft KJV-echo 'willing to communicate' → print 'and communicate,' + v19 RESTORED (print 'obteine eternall life' — KJV 'lay hold on'); the print comma after 'aboundantly' restored (draft dropped); 2 Cor 9:6-8 seat ZERO-SPLICE exact-modern (print 'wisheth' — EB+TRB both; the print's verse-final comma kept); Stewardship of Gifts: 1 Pet 4:10 seat ZERO-SPLICE exact-modern + *(stewards)* gloss on the print's 'disposers' (KJV 'stewards'); Practical Implications 1-7 verbatim (item 4's 1 Tim 6:8 quote is KJV-order — FLAGGED, prose untouched). EB==TRB 11/11 EXACT fresh (46/4, 49/5, 54/6, 47/9, 60/4); draft Greek all 5 blocks = BibleHub WH set containment 1.000 (koronis strip class).)
+
+81. GRAND SYNTHESIS — THE ARCHITECTURE OF THE FAITHFUL CHRISTIAN LIFE (COS-85 — the ten disciplines gathered: the Daily, Weekly, Ongoing, and Whole-Life patterns; prose VERBATIM, no scripture seats).
+
+82. A FINAL OBSERVATION (COS-86 — the disciplines as expressions — not the means of earning — of a salvation already received; prose VERBATIM incl. the modern-believer ten-point list).
+
+83. A QUESTION FOR YOU (COS-87 — the A-D options verbatim; the Seeker's inserted question seated as a blockquote ('> Given all the maxims as the governing precepts in our study, does the WORD instruct us to pray to Jesus?'); the reply + maxim-rehearsal + 'Let us proceed.' kept per the wave-34 directive-bridge precedent; next section THE QUESTION FRAMED PRECISELY (canon 12867) awaits wave 55).

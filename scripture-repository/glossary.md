@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1134 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1145 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1305 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1316 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -11994,7 +11994,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Serve one another*
 - **Geneva 1599:** “Let euery man as hee hath receiued the gift, minister the same one to another, as good disposers of the manifolde grace of God.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 of draft Greek (koronis strip class)*
 
 ### Ephesians 5:21 — PROSE-REF
 *cited as: Submit to one another*
@@ -12546,7 +12546,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: John 3:16 (unmarked echo)*
 - **Geneva 1599:** “For God so loued the worlde, that hee hath giuen his onely begotten Sonne, that whosoeuer beleeueth in him, should not perish, but haue euerlasting life.”
 - **KJV:** “¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.”
-- *Note:* The Content of theWitness bullet - paraphrase echo (print 'God so loued the worlde, that hee hath giuen his onely begotten Sonne')
+- *Note:* The Content of the Witness bullet - paraphrase echo (print 'God so loued the worlde, that hee hath giuen his onely begotten Sonne')
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh ✓*
 
@@ -12570,6 +12570,92 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* 'Gospel' + 'power of God unto salvation' GNV-voiced ('the Gospel of Christ: for it is the power of God vnto saluation'); the draft's own sentence continues past the echo; no flag
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT*
+
+## PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications
+
+### 1 Corinthians 4:7 — CONFIRMED
+*cited as: 1 Corinthians 4:7 seat (the Foundation)*
+- **Geneva 1599:** “For who separateth thee? and what hast thou, that thou hast not receiued? if thou hast receiued it, why reioycest thou, as though thou haddest not receiued it?”
+- *Note:* 1579 print 'haddest' (2sg past; EB+TRB both); seat renders the draft's 'hadst' — polish-modern class; ZERO-SPLICE exact-modern.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.000 of draft Greek (koronis strip class)*
+
+### Ephesians 5:15 — CONFIRMED
+*cited as: 1599 Geneva seat — Ephesians 5:15-17 joined range (canon 12695; v17 RESTORED per range completeness)*
+- **Geneva 1599:** “Take heede therefore that yee walke circumspectly, not as fooles, but as wise,”
+- *Note:* the draft's closing ellipsis covered v17 — restored (wave-53 Matt 28:19-20 tail class); article-ye folds 'Redeeming the season: for the days are evil' (wave-25 class).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.000 of draft Greek (koronis strip class)*
+
+### Ephesians 5:16 — CONFIRMED
+*cited as: 1599 Geneva seat — Ephesians 5:15-17 joined range (canon 12695; v17 RESTORED per range completeness)*
+- **Geneva 1599:** “Redeeming ye season: for ye daies are euill.”
+- *Note:* same joined range seat; v16 exact-modern (daies/euill folds).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### Ephesians 5:17 — CONFIRMED
+*cited as: 1599 Geneva seat — Ephesians 5:15-17 joined range (canon 12695; v17 RESTORED per range completeness)*
+- **Geneva 1599:** “Wherefore, be ye not vnwise, but vnderstand what the will of the Lord is.”
+- *Note:* same joined range seat — THIS VERSE RESTORED (draft had elided it, '...' after 'days are evil'); print 'Wherefore, be ye not vnwise' seated.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 1 Timothy 6:17 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Timothy 6:17-19 joined range (canon 12707; v19 RESTORED)*
+- **Geneva 1599:** “Charge them that are rich in this world, that they be not high minded, and that they trust not in vncertaine riches, but in the liuing God, (which giueth vs aboundantly, all things to enioy)”
+- *Note:* ONE SPLICE in the range: draft KJV-echo 'willing to communicate' → print 'and communicate,' (EB+TRB both); the print comma after 'aboundantly' restored (draft dropped); draft 'high minded' seated 'high-minded' (polish-modern class).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.000 of draft Greek (koronis strip class)*
+
+### 1 Timothy 6:18 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Timothy 6:17-19 joined range (canon 12707; v19 RESTORED)*
+- **Geneva 1599:** “That they doe good, and be riche in good woorkes, and readie to distribute, and comunicate,”
+- *Note:* same joined range seat; the splice lands in this verse (print 'and comunicate,').
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 1 Timothy 6:19 — CONFIRMED
+*cited as: 1599 Geneva seat — 1 Timothy 6:17-19 joined range (canon 12707; v19 RESTORED)*
+- **Geneva 1599:** “Laying vp in store for themselues a good foundation against the time to come, that they may obteine eternall life.”
+- *Note:* same joined range seat — THIS VERSE RESTORED (draft had elided it); print 'obteine eternall life' — KJV reads 'lay hold on'.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 2 Corinthians 9:6 — CONFIRMED
+*cited as: 1599 Geneva seat — 2 Corinthians 9:6-8 joined range (canon 12719)*
+- **Geneva 1599:** “This yet remember, that he which soweth sparingly, shall reape also sparingly, and hee that soweth liberally, shall reape also liberally.”
+- *Note:* ZERO-SPLICE exact-modern; print 'This yet remember' is Geneva's own head (KJV differs); draft GNV-voiced.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh — set-containment 1.000 of draft Greek (koronis strip class)*
+
+### 2 Corinthians 9:7 — CONFIRMED
+*cited as: 1599 Geneva seat — 2 Corinthians 9:6-8 joined range (canon 12719)*
+- **Geneva 1599:** “As euery man wisheth in his heart, so let him giue, not grudgingly, or of necessitie: for God loueth a cheerefull giuer.”
+- *Note:* same joined range seat; print 'wisheth' (EB+TRB both) — KJV 'purposeth' — the draft is GNV-voiced here.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 2 Corinthians 9:8 — CONFIRMED
+*cited as: 1599 Geneva seat — 2 Corinthians 9:6-8 joined range (canon 12719)*
+- **Geneva 1599:** “And God is able to make all grace to abound towarde you, that yee alwayes hauing all sufficiencie in all thinges, may abounde in euery good worke,”
+- *Note:* same joined range seat; the print's verse-final comma kept (sentence continues v9).
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+### 1 Peter 4:10 — CONFIRMED
+*cited as: 1 Peter 4:10 seat (re-present; seat of record wave-48)*
+- **Geneva 1599:** “Let euery man as hee hath receiued the gift, minister the same one to another, as good disposers of the manifolde grace of God.”
+- *Note:* re-present seat ZERO-SPLICE exact-modern + *(stewards)* gloss on the print's "disposers"; banked==fresh assert passed.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 of draft Greek (koronis strip class)*
+
+### 1 Timothy 6:8 — PROSE-REF
+*cited as: Practical Implications item 4: *"Having food and raiment, let us be therewith content"* (1 Tim 6:8 Geneva)*
+- **Geneva 1599:** “Therefore when wee haue foode and raiment, let vs therewith be content.”
+- *Note:* flag below.
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
 
 # THE BIBLICAL SABBATH
 
@@ -15629,7 +15715,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Thessalonians 5:11 | COS-78 | prose-ref |
 | Hebrews 3:13 | COS-78 | prose-ref |
 | Romans 14:19 | COS-78 | prose-ref |
-| 1 Peter 4:10 | COS-78 | prose-ref |
+| 1 Peter 4:10 | COS-78, COS-84 | confirmed, prose-ref |
 | 1 Peter 4:11 | COS-78 | prose-ref |
 | Ephesians 5:21 | COS-78 | prose-ref |
 | 1 Peter 5:5 | COS-78 | prose-ref |
@@ -15687,6 +15773,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 10:15 | COS-83 | confirmed |
 | John 9:25 | COS-83 | prose-ref |
 | Romans 1:16 | COS-83 | prose-ref |
+| 1 Corinthians 4:7 | COS-84 | confirmed |
+| Ephesians 5:15 | COS-84 | confirmed |
+| Ephesians 5:16 | COS-84 | confirmed |
+| Ephesians 5:17 | COS-84 | confirmed |
+| 1 Timothy 6:17 | COS-84 | confirmed |
+| 1 Timothy 6:18 | COS-84 | confirmed |
+| 1 Timothy 6:19 | COS-84 | confirmed |
+| 2 Corinthians 9:6 | COS-84 | confirmed |
+| 2 Corinthians 9:7 | COS-84 | confirmed |
+| 2 Corinthians 9:8 | COS-84 | confirmed |
+| 1 Timothy 6:8 | COS-84 | prose-ref |
 
 ## The editions used
 
