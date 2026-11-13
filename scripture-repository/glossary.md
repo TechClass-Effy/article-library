@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1215 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1216 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1386 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1387 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -13317,7 +13317,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
 - *Note:* COS-89 prose reference
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12 (TRB 58/1; biblehub.com/geneva/hebrews/1.htm concurs — a different publisher; eBible HEB01 unreachable by download today)*
 
 ### Titus 2:13 — PROSE-REF
 *cited as: Geneva 1599*
@@ -13636,7 +13636,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
 - *Note:* COS-90 cross-witness mention
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12 (TRB 58/1; biblehub.com/geneva/hebrews/1.htm concurs — a different publisher; eBible HEB01 unreachable by download today)*
 
 ## YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY
 
@@ -14063,7 +14063,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
 - *Note:* W59 option (D) mention
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12 (TRB 58/1; biblehub.com/geneva/hebrews/1.htm concurs — a different publisher; eBible HEB01 unreachable by download today)*
 
 ### Isaiah 9:6 (NETS/MT numbering) — CONFIRMED
 *cited as: Isaiah 9:6 (LXX)*
@@ -14266,6 +14266,46 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* prose mention — Reading A (His fullness bodily, Col 2:9)
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+## PASSAGE D — HEBREWS 1:8 REVISITED
+
+### Hebrews 1:8 — CONFIRMED
+*cited as: Heb 1:8*
+- **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
+- *Note:* W63 rename-pair seat (The Greek Text/1599 Geneva heads -> ONE "Hebrews 1:8 — Geneva 1599:" head); the Greek excerpt blockquote drops, Greek lives in the framework prose (WH containment 1.000 vs hebrews/1-8); ZERO-SPLICE — the draft IS the 1599 print at modern folds; the print DOES carry the vocative comma ("O God, thy throne" — TRB fresh 58/1 + biblehub-geneva concur; eBible HEB01 unreachable today); flag 29 scope unchanged (canon 13678 remains the KJV-order prose quote)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12 (TRB 58/1; biblehub.com/geneva/hebrews/1.htm concurs — a different publisher; eBible HEB01 unreachable by download today)*
+
+### Psalm 44:7 LXX (Psalm 45:6 MT) — PROSE-REF
+*cited as: Psalm 45:6-7 LXX (Ps 44:7-8 LXX)*
+- **NETS (Septuagint, modern):** “Your throne, O God, is forever and ever. A rod of equity is the rod of your rule;”
+- **Geneva 1599:** “Thy throne, O God, is for euer and euer: the scepter of thy kingdome is a scepter of righteousnesse.”
+- *Note:* Combined-Framework recall line — the draft labels the citation Psalm 45:6-7 LXX (Ps 44:7-8 LXX); the rows stay W58-print-verified (both-maps)
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓ · nets_print ✓ · greek_rahlfs — not-fetched*
+
+### Psalm 44:8 LXX (Psalm 45:7 MT) — PROSE-REF
+*cited as: Psalm 45:6-7 LXX (Ps 44:7-8 LXX)*
+- **NETS (Septuagint, modern):** “you loved righteousness and hated lawlessness. Therefore God, your God, anointed you with oil of rejoicing beyond your partners.”
+- **Geneva 1599:** “Thou louest righteousnes, and hatest wickednesse, because God, euen thy God hath anoynted thee with the oyle of gladnes aboue thy fellowes.”
+- *Note:* Combined-Framework recall line — the draft labels the citation Psalm 45:6-7 LXX (Ps 44:7-8 LXX); the rows stay W58-print-verified (both-maps)
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓ · nets_print ✓*
+
+### Exodus 23:21 — PROSE-REF
+*cited as: Ex 23:21*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* Passage-D embed — the 1599 print at modern folds with the author's own caps ("because my name is in him", banked gnv + trb) — no flag (pre-decided in the run state)
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
+
+### Hebrews 1:9 — PROSE-REF
+*cited as: Heb 1:9*
+- **Geneva 1599:** “Thou hast loued righteousnes and hated iniquitie. Wherefore God, eue thy God, hath anointed thee with the oyle of gladnes aboue thy fellowes.”
+- *Note:* "Hebrews 1:9 immediately clarifies" prose quote — the print at folds EXCEPT "therefore" vs the 1599 "Wherefore" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12; eBible HEB01 unreachable (download failed x3) — biblehub-geneva (biblehub.com/geneva/hebrews/1.htm) fetched as the independent second source · geneva_biblehub_fresh — concurs on the whole verse — orthography classes only (& for and; felowes/fellowes); both sources print "hast loued" and "eue thy God" · greek_biblehub_fresh — 1.0 set-containment vs the draft prose fragment (canon 15495, ἔχρισέν σε ὁ Θεός ὁ Θεός σου) at accent-fold; the WH text reads δια τουτου (the LXX wording) where TR/Geneva read διὸ — row-noted, prose keeps the author's own Greek*
 
 # THE BIBLICAL SABBATH
 
@@ -16145,7 +16185,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -16247,7 +16287,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -16302,7 +16342,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Exodus 20:8 | SAB4, SAB13 | confirmed, recap cross-reference |
 | Exodus 20:9 | SAB4, SAB13 | differs (minor), recap cross-reference |
 | Exodus 23:20 | COS-14, COS-16, COS-92 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-91 | anchor, confirmed, prose-ref |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-96, COS-91 | anchor, confirmed, prose-ref |
 | Exodus 25:8 | COS-54, COS-64 | prose-ref, seat |
 | Exodus 3:14 | P8, COS-11, COS-92 | anchor, commentary, confirmed |
 | Exodus 3:15 | P1-Q3, P2, CLOSE, COS-92 | confirmed |
@@ -16570,7 +16610,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90, COS-91 | anchor, confirmed, prose-ref |
@@ -16862,7 +16902,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -17424,7 +17464,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 20:28 | COS-89, COS-92, COS-94, COS-91 | confirmed, prose-ref |
 | 1 John 5:20 | COS-89, COS-92, COS-95, COS-91 | confirmed, prose-ref |
 | Titus 2:13 | COS-89, COS-91 | prose-ref, seat |
-| Hebrews 1:8 | COS-89, COS-90, COS-92, COS-91 | confirmed, prose-ref, seat |
+| Hebrews 1:8 | COS-89, COS-90, COS-92, COS-96, COS-91 | confirmed, prose-ref, seat |
 | Matthew 4:2 | COS-89 | prose-ref |
 | John 4:6 | COS-89 | prose-ref |
 | John 3:6 | COS-90 | confirmed, prose-ref |
@@ -17436,8 +17476,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 John 4:9 | COS-90 | prose-ref |
 | John 6:33 | COS-90 | prose-ref |
 | John 6:51 | COS-90 | prose-ref |
-| Psalm 44:7 LXX (Psalm 45:6 MT) | COS-91 | confirmed |
-| Psalm 44:8 LXX (Psalm 45:7 MT) | COS-91 | confirmed |
+| Psalm 44:7 LXX (Psalm 45:6 MT) | COS-96, COS-91 | confirmed, prose-ref |
+| Psalm 44:8 LXX (Psalm 45:7 MT) | COS-96, COS-91 | confirmed, prose-ref |
 | 2 Peter 1:1 | COS-91 | confirmed |
 | John 8:56 | COS-91 | confirmed |
 | John 8:57 | COS-91 | anchor |
@@ -17464,6 +17504,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 10:36 | COS-93 | confirmed |
 | Psalm 81:6 LXX (MT 82:6) | COS-93 | prose-ref |
 | John 20:29 | COS-94 | confirmed |
+| Hebrews 1:9 | COS-96 | prose-ref |
 
 ## The editions used
 

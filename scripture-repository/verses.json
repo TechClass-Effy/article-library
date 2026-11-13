@@ -11600,6 +11600,18 @@
      "status": "confirmed",
      "note": "W59 NETS seat; Greek phrase kept in the observation prose",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15505,
+     "cited_as": "Ex 23:21",
+     "quotes": [
+      "*\"My Name is IN him.\"*"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-quote",
+     "note": "Passage-D embed — the 1599 print at modern folds with the author's own caps (\"because my name is in him\", banked gnv + trb) — no flag (pre-decided in the run state)"
     }
    ],
    "verified": "2026-11-12",
@@ -61119,6 +61131,28 @@
      "status": "confirmed",
      "note": "W59 option (D) mention",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15487,
+     "cited_as": "Heb 1:8",
+     "quotes": [
+      "*\"But unto the Son he saith, O God, thy throne is for ever and ever...\"*"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "W63 rename-pair seat (The Greek Text/1599 Geneva heads -> ONE \"Hebrews 1:8 — Geneva 1599:\" head); the Greek excerpt blockquote drops, Greek lives in the framework prose (WH containment 1.000 vs hebrews/1-8); ZERO-SPLICE — the draft IS the 1599 print at modern folds; the print DOES carry the vocative comma (\"O God, thy throne\" — TRB fresh 58/1 + biblehub-geneva concur; eBible HEB01 unreachable today); flag 29 scope unchanged (canon 13678 remains the KJV-order prose quote)"
+    },
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15516,
+     "cited_as": "Heb 1:8 (v. 8)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "\"Hebrews 1:8-9 together\" bullet (v. 8) — prose reference only"
     }
    ],
    "verified": "2026-11-12",
@@ -61133,7 +61167,7 @@
     "trb_fresh": {
      "text": "But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.",
      "source": "https://www.textusreceptusbibles.com/Geneva/58/1",
-     "result": "agree exact (EB==TRB)"
+     "result": "EXACT fresh 2026-11-12 (TRB 58/1; biblehub.com/geneva/hebrews/1.htm concurs — a different publisher; eBible HEB01 unreachable by download today)"
     }
    },
    "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh",
@@ -61571,16 +61605,19 @@
      "status": "confirmed",
      "note": "NETS seat, PASSAGE D; group span 44:7-8 LXX = 45:6-7 MT",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15493,
+     "cited_as": "Psalm 45:6-7 LXX (Ps 44:7-8 LXX)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Combined-Framework recall line — the draft labels the citation Psalm 45:6-7 LXX (Ps 44:7-8 LXX); the rows stay W58-print-verified (both-maps)"
     }
    ],
-   "verified": {
-    "date": "2026-11-12",
-    "editions": [
-     "nets",
-     "gnv"
-    ],
-    "result": "confirmed"
-   },
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Your throne, O God, is forever and ever. A rod of equity is the rod of your rule;",
@@ -61627,16 +61664,19 @@
      "status": "confirmed",
      "note": "NETS seat, PASSAGE D; group span 44:7-8 LXX = 45:6-7 MT",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15493,
+     "cited_as": "Psalm 45:6-7 LXX (Ps 44:7-8 LXX)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "Combined-Framework recall line — the draft labels the citation Psalm 45:6-7 LXX (Ps 44:7-8 LXX); the rows stay W58-print-verified (both-maps)"
     }
    ],
-   "verified": {
-    "date": "2026-11-12",
-    "editions": [
-     "nets",
-     "gnv"
-    ],
-    "result": "confirmed"
-   },
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "you loved righteousness and hated lawlessness. Therefore God, your God, anointed you with oil of rejoicing beyond your partners.",
@@ -62665,6 +62705,65 @@
     }
    },
    "note": "NEW W61 — the \"believing/faithless\" v27 echo context stays in the draft prose (flagged separately on JHN.20.27)"
+  },
+  {
+   "id": "HEB.1.9",
+   "ref": "Hebrews 1:9",
+   "uses": [
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15513,
+     "cited_as": "Heb 1:9",
+     "quotes": [
+      "**Hebrews 1:9 immediately clarifies:** *\"Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee...\"* — preserving the Father as the Son's God."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-quote",
+     "note": "\"Hebrews 1:9 immediately clarifies\" prose quote — the print at folds EXCEPT \"therefore\" vs the 1599 \"Wherefore\" (KJV-voiced) — flag awaiting Gideon; the ellipsis tail (the oil of gladness) honored"
+    },
+    {
+     "section": "COS-96",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE D — HEBREWS 1:8 REVISITED",
+     "article_line": 15517,
+     "cited_as": "Heb 1:9 (v. 9)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "\"Hebrews 1:8-9 together\" bullet (v. 9) — prose reference only"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Thou hast loued righteousnes and hated iniquitie. Wherefore God, eue thy God, hath anointed thee with the oyle of gladnes aboue thy fellowes.",
+     "source": "https://textusreceptusbibles.com/Geneva/58/1",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Thou hast loued righteousnes and hated iniquitie. Wherefore God, eue thy God, hath anointed thee with the oyle of gladnes aboue thy fellowes.",
+     "source": "https://textusreceptusbibles.com/Geneva/58/1",
+     "result": "EXACT fresh 2026-11-12; eBible HEB01 unreachable (download failed x3) — biblehub-geneva (biblehub.com/geneva/hebrews/1.htm) fetched as the independent second source"
+    },
+    "geneva_biblehub_fresh": {
+     "text": "Thou hast loued righteousnes & hated iniquitie. Wherefore God, eue thy God, hath anointed thee with the oyle of gladnes aboue thy felowes.",
+     "source": "https://biblehub.com/geneva/hebrews/1.htm",
+     "result": "concurs on the whole verse — orthography classes only (& for and; felowes/fellowes); both sources print \"hast loued\" and \"eue thy God\""
+    },
+    "greek_biblehub_fresh": {
+     "text": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε, ὁ Θεός, ὁ Θεός σου ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου. ΠΡΟΣ ΕΒΡΑΙΟΥΣ ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου· ΠΡΟΣ ΕΒΡΑΙΟΥΣ ] ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου· ΠΡΟΣ ΕΒΡΑΙΟΥΣ Ἠγάπησας δικαιοσύνην, καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός, ὁ θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου. ΠΡΟΣ ΕΒΡΑΙΟΥΣ ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέ σε, ὁ Θεός, ὁ Θεός σου ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου· ΠΡΟΣ ΕΒΡΑΙΟΥΣ ἀγαπάω δικαιοσύνη καί μισέω ἀδικία διά οὗτος χρίω σύ ὁ θεός ὁ θεός σύ ἔλαιον ἀγαλλίασις παρά ὁ μέτοχος σύ ΠΡΟΣ ΕΒΡΑΙΟΥΣ ἠγάπησας δικαιοσύνην, καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέ σε ὁ Θεός ὁ Θεός σου, ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου. ΠΡΟΣ ΕΒΡΑΙΟΥΣ ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισέν σε ὁ θεός ὁ θεός σου ἔλαιον ἀγαλλιάσεως παρὰ τοὺς μετόχους σου ) ἠγάπησας δικαιοσύνην καὶ ἐμίσησας ἀνομίαν· διὰ τοῦτο ἔχρισεν σε ὁ θεὸς ὁ θεός σου ἔλαιον ἀγαλ",
+     "source": "https://biblehub.com/text/hebrews/1-9.htm",
+     "result": "1.0 set-containment vs the draft prose fragment (canon 15495, ἔχρισέν σε ὁ Θεός ὁ Θεός σου) at accent-fold; the WH text reads δια τουτου (the LXX wording) where TR/Geneva read διὸ — row-noted, prose keeps the author's own Greek"
+    }
+   },
+   "note": "Hebrews 1:9 (Geneva 1599 = the Heb citation, distinct from the Ps 44:8 print: \"iniquitie\" vs the psalm's \"wickednesse\"). The draft prose quote (canon 15513) matches the print at folds EXCEPT the connective: draft \"therefore\" vs the 1599 \"Wherefore\" (KJV-voiced) — flag below. eBible HEB01 was unreachable this wave; TRB is the seat source of record (W45 precedent), biblehub-geneva is the independent concurrence.",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "Passage-D prose quote (canon 15513) reads \"therefore God, even thy God\" where the 1599 print reads \"Wherefore God, eue thy God\" — the KJV-voiced connective; everything else in the quote is the print at folds (Thou hast loued / hated iniquitie / hath anointed). Italic KJV attribution or re-voice awaits Gideon (10 Nov 2026 attribution class).",
+    "awaiting": "Gideon"
+   }
   }
  ],
  "meta": {
@@ -62815,7 +62914,8 @@
    "COS-92",
    "COS-93",
    "COS-94",
-   "COS-95"
+   "COS-95",
+   "COS-96"
   ],
   "sections": [
    {
@@ -63351,6 +63451,10 @@
    {
     "key": "COS-95",
     "label": "PASSAGE C — 1 JOHN 5:20"
+   },
+   {
+    "key": "COS-96",
+    "label": "PASSAGE D — HEBREWS 1:8 REVISITED"
    }
   ],
   "double_check": {
@@ -63411,8 +63515,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 132260,
-  "cos_sofar": "waves 62",
-  "glossary": 1386
+  "so_far_words": 132643,
+  "cos_sofar": "waves 63",
+  "glossary": 1387
  }
 }
