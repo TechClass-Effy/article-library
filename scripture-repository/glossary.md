@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1145 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1166 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1316 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1337 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -643,7 +643,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “After this maner therefore pray ye, Our father which art in heauen, halowed be thy name.”
 - **KJV:** “After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.”
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
 
 ## THE CHRIST OF SCRIPTURE — 1. The Foundational Confession: The One God (Deut 6:4; Isa 44–46)
 
@@ -826,7 +826,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,”
   (Maxim 4: NT seats Geneva 1599 (modernized spelling; his restored names preserved).)
 - *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
 
 ### Isaiah 44:6 — CONFIRMED
 *cited as: LXX Greek + “1599 Geneva” label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
@@ -2075,7 +2075,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,”
   (Audit re-lists seated witnesses; seat unchanged (Confession full verse).)
 - *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
 
 ### Isaiah 44:6 — CONFIRMED
 *cited as: audit witness bullet — range cite Isa 44-46 with quoted phrase (book seat: NETS Confession verses)*
@@ -2953,7 +2953,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,”
 - *Note:* Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering.
 - *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
 
 ### John 12:32 — DIFFERS (MINOR)
 *cited as: observation prose quote (KJV-voiced) — attribution flag*
@@ -11625,7 +11625,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **KJV:** “After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.”
 - *Note:* upsert: pre-banked; fragment exact-modern to the 1599 print ("Our father which art in heauen, halowed be thy name." — the draft's capitalization "Thy Name" is his table stylization); COS-75 use added.
 - *Checked 2026-11-02 · editions fetched: gnv, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
 
 ### Matthew 6:10 — CONFIRMED
 *cited as: pattern-table fragments *"Thy kingdom come"* / *"Thy will be done"* (table VERBATIM)*
@@ -12656,6 +12656,344 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* flag below.
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000)*
+
+## THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?
+
+### Matthew 6:9 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “After this maner therefore pray ye, Our father which art in heauen, halowed be thy name.”
+- **KJV:** “After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.”
+- **Ruling — apply Geneva 1599 exact:** “After this manner therefore pray ye, Our father which art in heaven, hallowed be thy name.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-02 · editions fetched: gnv, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### John 14:13 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And whatsoeuer ye aske in my Name, that will I doe, that the Father may be glorified in the Sonne.”
+- **Ruling — apply Geneva 1599 exact:** “And whatsoever ye ask in my Name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my Name, I will do it.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 14:14 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “If ye shall aske any thing in my Name, I will doe it.”
+- **Ruling — apply Geneva 1599 exact:** “And whatsoever ye ask in my Name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my Name, I will do it.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### John 15:16 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Ye haue not chosen me, but I haue chosen you, and ordeined you, that ye goe and bring foorth fruite, and that your fruite remaine, that whatsoeuer ye shall aske of the Father in my Name, he may giue it you.”
+- **Ruling — apply Geneva 1599 exact:** “...that whatsoever ye shall ask of the Father in my Name, he may give it you.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### John 16:23 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And in that day shall ye aske me nothing. Verely, verely I say vnto you, whatsoeuer ye shall aske the Father in my Name, he will giue it you.”
+- **Ruling — apply Geneva 1599 exact:** “...Verily, verily I say unto you, whatsoever ye shall ask the Father in my Name, he will give it you.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Acts 4:27 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For doutlesse, against thine holy Sonne Iesus, whome thou haddest anoynted, both Herod and Pontius Pilate, with the Gentiles and the people of Israel gathered themselues together,”
+- **Ruling — apply Geneva 1599 exact:** “...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed...”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Acts 4:24 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And when they heard it, they lift vp their voyces to God with one accord, and said, O Lord, thou art the God which hast made the heaue, and the earth, the sea, and all things that are in them,”
+- **Ruling — apply Geneva 1599 exact:** “...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed...”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Acts 4:25 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Which by the mouth of thy seruant Dauid hast saide, Why did the Gentiles rage, and the people imagine vaine things?”
+- **Ruling — apply Geneva 1599 exact:** “...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed...”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Ephesians 1:15-23 (range) — PROSE-REF
+*cited as: range mention intro (Paul's great prayer)*
+- *Note:* intro line seats the Eph 1:17 fragment; range kept as anchor
+- *Checked 2026-11-12 · editions fetched: *
+
+### Ephesians 1:17 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “That the God of our Lord Iesus Christ, that Father of glory, might giue vnto you the Spirit of wisedome, and reuelation through the acknowledging of him,”
+- **Ruling — apply Geneva 1599 exact:** “That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom...”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-07 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Ephesians 3:14 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For this cause I bowe my knees vnto the Father of our Lord Iesus Christ,”
+- **Ruling — apply Geneva 1599 exact:** “For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, …”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 3:16 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “That he might graunt you according to the riches of his glorie, that ye may be strengthened by his Spirit in the inner man,”
+- **Ruling — apply Geneva 1599 exact:** “For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, …”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 3:17 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “That Christ may dwell in your heartes by faith:”
+- **Ruling — apply Geneva 1599 exact:** “For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, …”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 3:18 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “That ye, being rooted and grounded in loue, may be able to comprehend with al Saints, what is the breadth, and length, and depth, and height:”
+- **Ruling — apply Geneva 1599 exact:** “For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, …”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 3:19 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And to knowe the loue of Christ, which passeth knowledge, that ye may be filled with all fulnesse of God.”
+- **Ruling — apply Geneva 1599 exact:** “For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, …”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### Ephesians 3:15 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “(Of whom is named the whole familie in heauen and in earth)”
+- **Ruling — apply Geneva 1599 exact:** “For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, …”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Philippians 1:9-11 (range) — PROSE-REF
+*cited as: range mention*
+- *Note:* Pauline-prayer list — see COS-88 range anchor
+- *Checked 2026-11-12 · editions fetched: *
+
+### Colossians 1:9-12 (range) — ANCHOR
+*cited as: range mention (every substantial Pauline prayer)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-12 · editions fetched: *
+
+### 1 Thess 3:11-13 — ANCHOR
+*cited as: range mention (every substantial Pauline prayer)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): anchor — anchor — referenced only*
+
+### 2 Thess 2:16-17 — ANCHOR
+*cited as: range mention (every substantial Pauline prayer)*
+- **Ruling — ANCHOR:** 
+- *Checked 2026-11-12 · editions fetched: *
+- *Double-checked (second source): anchor — anchor — referenced only*
+
+### Hebrews 13:20 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “The God of peace that brought againe from the dead our Lord Iesus, the great shepheard of the sheepe, through the blood of the euerlasting Couenant,”
+- **Ruling — apply Geneva 1599 exact:** “The God of peace that brought again from the dead our Lord Jesus, the great Shepherd of the sheep, through the blood of the everlasting Covenant, Make you perfect in all good works, to do his will, working in you that which is pleasant in his sight through Jesus Christ, to whom be praise for ever and ever, Amen.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Hebrews 13:21 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Make you perfect in all good workes, to doe his will, working in you that which is pleasant in his sight through Iesus Christ, to whom be praise for euer and euer, Amen.”
+- **Ruling — apply Geneva 1599 exact:** “The God of peace that brought again from the dead our Lord Jesus, the great Shepherd of the sheep, through the blood of the everlasting Covenant, Make you perfect in all good works, to do his will, working in you that which is pleasant in his sight through Jesus Christ, to whom be praise for ever and ever, Amen.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Luke 23:46 — PROSE-REF
+*cited as: prose-ref (obs 4 — Stephen parallels Jesus)*
+- **Geneva 1599:** “And Iesus cryed with a loude voyce, and sayd, Father, into thine hands I commend my spirit. And when hee thus had sayd, hee gaue vp the ghost.”
+- *Note:* draft prose quote "Father, into Thy hands I commend My spirit" is KJV-voiced; GNV print: "into thine hands"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### 2 Cor 12:8 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For this thing I besought the Lord thrise, that it might depart from me.”
+- **Ruling — apply Geneva 1599 exact:** “For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my power is made perfect through weakness. Very gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### 2 Cor 12:9 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And he said vnto me, My grace is sufficient for thee: for my power is made perfect through weakenesse. Very gladly therefore will I reioyce rather in mine infirmities, that the power of Christ may dwell in me.”
+- **Ruling — apply Geneva 1599 exact:** “For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my power is made perfect through weakness. Very gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Revelation 22:20 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “He which testifieth these things, saith, Surely, I come quickly. Amen. Euen so, come Lord Iesus.”
+- **Ruling — apply Geneva 1599 exact:** “...Amen. Even so, come Lord Jesus.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.0 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+
+### 1 Cor 16:22 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “If any man loue not the Lord Iesus Christ, let him be had in execration maran-atha.”
+- **Ruling — apply Geneva 1599 exact:** “If any man love not the Lord Jesus Christ, let him be had in execration *(a curse)* maran-atha *(Aramaic — "our Lord, come")*.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Acts 9:14 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Moreouer here hee hath authoritie of the hie Priestes, to binde all that call on thy Name.”
+- **Ruling — apply Geneva 1599 exact:** “Moreover here he hath authority of the high Priests, to bind all that call on thy Name.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Acts 22:16 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Now therefore why tariest thou? Arise, and be baptized, and wash away thy sinnes, in calling on the Name of the Lord.”
+- **Ruling — apply Geneva 1599 exact:** “...Arise, and be baptized, and wash away thy sins, in calling on the Name of the Lord.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### 1 Corinthians 1:2 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “Vnto the Church of God, which is at Corinthus, to them that are sanctified in Christ Iesus, Saintes by calling, with all that call on the Name of our Lord Iesus Christ in euery place, both their Lord, and ours:”
+- **Ruling — apply Geneva 1599 exact:** “...with all that call on the Name of our Lord Jesus Christ...”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Rom 10:12 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For there is no difference betweene the Iewe and the Grecian: for he that is Lord ouer all, is rich vnto all, that call on him.”
+- **Ruling — apply Geneva 1599 exact:** “...For there is no difference between the Jew and the Grecian: for he that is Lord over all, is rich unto all, that call on him. For whosoever shall call upon the Name of the Lord, shall be saved.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Rom 10:13 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “For whosoeuer shall call vpon the Name of the Lord, shalbe saued.”
+- **Ruling — apply Geneva 1599 exact:** “...For there is no difference between the Jew and the Grecian: for he that is Lord over all, is rich unto all, that call on him. For whosoever shall call upon the Name of the Lord, shall be saved.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Joel 2:32 (NETS/MT) = Joel 3:5 (traditional LXX) — PROSE-REF
+*cited as: prose-ref (Rom 10:13 OT source)*
+- **NETS (Septuagint, modern):** “And it shall be, everyone who calls on the name of the Lord shall be saved, because in Mount Sion and in Ierousalem there shall be one who escapes, as the Lord has said, and people who have good news announced to them, whom the Lord has called.”
+- **Geneva 1599:** “But whosoeuer shall call on the Name of the Lord, shalbe saued: for in mount Zion, and in Ierusale shalbe deliuerance, as the Lord hath said, and in the remnant, whom the Lord shall call.”
+- *Note:* draft prose echo of the cite; label "Joel 2:32 LXX" numbered by MT/NETS
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — GNV EB==TRB EXACT (string equality), fetched fresh 17:55 · nets_print — NETS text verified word-for-word from 32-twelve.pdf p26 (print 802), verse mark 32*
+
+### Rom 10:9 — PROSE-REF
+*cited as: prose-ref (Calling on His Name bullet)*
+- **Geneva 1599:** “For if thou shalt confesse with thy mouth the Lord Iesus, and shalt beleeue in thine heart, that God raised him vp from the dead, thou shalt be saued:”
+- *Note:* bullet "Confessing Him as Lord (Rom 10:9)" — referenced, not quoted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh this run*
+
+### 2 Peter 3:18 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “But grow in grace, and in the knowledge of our Lord and Sauiour Iesus Christ: to him be glory both now and for euermore. Amen.”
+- **Ruling — apply Geneva 1599 exact:** “But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ: to him be glory both now and for evermore. Amen.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### 2 Timothy 4:18 — CONFIRMED
+*cited as: Geneva seat*
+- **Geneva 1599:** “And the Lord will deliuer me from euery euil worke, and will preserue me vnto his heauenly kingdome: to whome be praise for euer and euer, Amen.”
+- **Ruling — apply Geneva 1599 exact:** “...to whom be praise for ever and ever, Amen.”
+  (Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Revelation 5:12 — PROSE-REF
+*cited as: mention (worship rendered to the Lamb)*
+- **Geneva 1599:** “Saying with a loude voice, Worthie is the Lambe that was killed to receiue power, and riches, and wisdome, and strength, and honour, and glory, and praise.”
+- *Note:* also cited 13140
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 5:13 — PROSE-REF
+*cited as: mention (worship rendered to the Lamb)*
+- **Geneva 1599:** “And al the creatures which are in heauen, and on the earth, and vnder the earth, and in the sea, and al that are in them, heard I, saying, Praise, and honour, and glory, and power be vnto him, that sitteth vpon the throne, and vnto the Lambe for euermore.”
+- *Note:* also cited 13140
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 1 Corinthians 8:6 — PROSE-REF
+*cited as: mention (the Father is the One God)*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Note:* synthesis re-cite
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1TI 2 5 — PROSE-REF
+*cited as: mention (One God; One Mediator)*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- *Note:* cited 13158 and 13186
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### John 17:3 — PROSE-REF
+*cited as: mention (the Father is the One God)*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* synthesis re-cite
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
+
+### HEB 7 25 — PROSE-REF
+*cited as: mention (He intercedes for us)*
+- **Geneva 1599:** “Wherefore, hee is able also perfectly to saue them that come vnto God by him, seeing he euer liueth, to make intercession for them.”
+- *Note:* with Rom 8:34
+- *Checked 2026-11-11 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched (BibleHub)*
+
+### ROM 8 34 — PROSE-REF
+*cited as: mention (He intercedes for us)*
+- **Geneva 1599:** “Who shall condemne? it is Christ which is dead, yea, or rather, which is risen againe, who is also at the right hand of God, and maketh request also for vs.”
+- *Note:* with Heb 7:25
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub — WH Greek fetched*
+
+### Ephesians 2:18 — PROSE-REF
+*cited as: mention (all access to the Father through the Son)*
+- *Note:* with JHN 14:6
+- *Checked 2026-11-12 · editions fetched: *
+
+### John 14:6 — PROSE-REF
+*cited as: mention (all access to the Father through the Son)*
+- **Geneva 1599:** “Iesus sayd vnto him, I am that Way, and that Trueth, and that Life. No man commeth vnto the Father, but by me.”
+- **KJV:** “Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.”
+- *Note:* with Eph 2:18
+- *Checked 2026-11-02 · editions fetched: gnv, greek_nestle, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 # THE BIBLICAL SABBATH
 
@@ -14504,7 +14842,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 6:19 | COS-60, COS-62 | prose-ref |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60 | anchor, confirmed, prose-ref |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
 | 1 John 1:9 | P7, COS-69, COS-81 | anchor, confirmed |
@@ -14531,11 +14869,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Thessalonians 4:16 | COS-38, COS-42 | confirmed |
 | 1 Thessalonians 4:17 | COS-38, COS-66 | confirmed |
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
-| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62 | anchor, confirmed, prose-ref |
+| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
-| 2 Corinthians 13:1 | SAB13, SAB-INTRO, INTRO | confirmed, recap cross-reference |
+| 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
 | 2 Corinthians 3:18 | COS-62, COS-66, COS-68 | anchor, confirmed, prose-ref |
 | 2 Corinthians 5:17 | COS-65, COS-66 | prose-ref |
@@ -14601,7 +14939,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 3:13 | COS-22 | anchor |
 | Acts 3:26 | COS-22 | anchor |
 | Acts 4:25-27 | COS-19, COS-22 | anchor, confirmed |
-| Acts 4:27 | COS-22 | confirmed |
+| Acts 4:27 | COS-22, COS-88 | confirmed |
 | Acts 4:30 | COS-22 | anchor |
 | Acts 7:48 | COS-53, COS-56 | anchor, seat |
 | Acts 7:49 | COS-53, COS-56 | anchor, seat |
@@ -14637,7 +14975,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Daniel 7:13 | COS-24, COS-35, COS-37, COS-39, COS-42, COS-45, COS-52, COS-63 | confirmed, prose-ref |
 | Daniel 7:14 | COS-24, COS-35, COS-39, COS-42, COS-52 | confirmed, prose-ref |
 | Dan 7:9 | COS-35, COS-38, COS-43 | confirmed, prose-ref |
-| Deuteronomy 19:15 | SAB13, SAB-INTRO, INTRO | composite quote, recap cross-reference |
+| Deuteronomy 19:15 | SAB13, INTRO, SAB-INTRO | composite quote, recap cross-reference |
 | Deuteronomy 22:4 | SAB6, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 23:25 | SAB8, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 30:6 | P9 | confirmed |
@@ -14653,17 +14991,17 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 1:10 | COS-49 | prose-ref |
 | Ephesians 1:13 | COS-58, COS-59, COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
 | Ephesians 1:14 | COS-59, COS-63 | confirmed, prose-ref |
-| Ephesians 1:17 | COS-01, COS-18 | confirmed |
+| Ephesians 1:17 | COS-01, COS-18, COS-88 | confirmed |
 | Ephesians 1:4 | COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
 | Ephesians 1:6 | COS-62, COS-66, COS-69, COS-81 | anchor, confirmed, prose-ref |
-| Ephesians 2:18 | COS-60 | prose-ref |
+| Ephesians 2:18 | COS-60, COS-88 | prose-ref |
 | Ephesians 2:21 | COS-54, COS-60, COS-62 | anchor, prose-ref |
 | Ephesians 2:22 | COS-54, COS-60, COS-62, COS-69 | anchor, prose-ref |
-| Ephesians 3:14 | COS-62 | prose-ref |
-| Ephesians 3:16 | COS-62, COS-70 | confirmed, prose-ref |
-| Ephesians 3:17 | COS-62 | prose-ref |
-| Ephesians 3:18 | COS-62 | prose-ref |
-| Ephesians 3:19 | COS-52, COS-62, COS-69 | anchor, prose-ref |
+| Ephesians 3:14 | COS-62, COS-88 | confirmed, prose-ref |
+| Ephesians 3:16 | COS-62, COS-70, COS-88 | confirmed, prose-ref |
+| Ephesians 3:17 | COS-62, COS-88 | confirmed, prose-ref |
+| Ephesians 3:18 | COS-62, COS-88 | confirmed, prose-ref |
+| Ephesians 3:19 | COS-52, COS-62, COS-69, COS-88 | anchor, confirmed, prose-ref |
 | Ephesians 4:10 | COS-58 | confirmed |
 | Ephesians 4:30 | COS-55, COS-59, COS-63, COS-81 | anchor, confirmed, prose-ref |
 | Ephesians 4:5 | COS-36 | prose-ref |
@@ -14847,7 +15185,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 7 22 | COS-30 | confirmed |
 | HEB 7 23 | COS-30 | confirmed |
 | HEB 7 24 | COS-30 | confirmed |
-| HEB 7 25 | COS-30, COS-62 | confirmed, prose-ref |
+| HEB 7 25 | COS-30, COS-62, COS-88 | confirmed, prose-ref |
 | HEB 7 26 | COS-30 | confirmed |
 | HEB 7 27 | COS-30 | confirmed |
 | HEB 7 28 | COS-30 | confirmed |
@@ -14960,7 +15298,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
-| Jeremiah 6:16 | SAB13, SAB-INTRO, INTRO | confirmed (excerpt), recap cross-reference |
+| Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56 | anchor, confirmed, prose-ref |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62 | anchor, confirmed, prose-ref |
@@ -14999,8 +15337,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 14:10 | COS-55, COS-56, COS-58, COS-59, COS-60 | anchor, prose-ref, seat |
 | John 14:11 | COS-55, COS-56, COS-60 | anchor, prose-ref, seat |
 | John 14:12 | COS-60 | prose-ref |
-| John 14:13 | COS-60, COS-75 | confirmed, prose-ref |
-| John 14:14 | COS-60, COS-75 | confirmed, prose-ref |
+| John 14:13 | COS-60, COS-75, COS-88 | confirmed, prose-ref |
+| John 14:14 | COS-60, COS-75, COS-88 | confirmed, prose-ref |
 | John 14:15 | COS-60 | flagged |
 | John 14:16 | COS-59, COS-60 | confirmed, prose-ref |
 | John 14:17 | COS-59, COS-60 | confirmed, prose-ref |
@@ -15013,7 +15351,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 14:23 | COS-52, COS-59, COS-60, COS-63 | prose-ref |
 | John 14:28 | COS-21, COS-26, COS-40 | anchor, confirmed |
 | John 14:3 | COS-62 | prose-ref |
-| John 14:6 | P8, COS-24, COS-60, COS-63 | confirmed, flagged, prose-ref |
+| John 14:6 | P8, COS-24, COS-60, COS-63, COS-88 | confirmed, flagged, prose-ref |
 | John 14:9 | COS-55, COS-56, COS-60 | anchor, prose-ref, seat |
 | John 1:15 | COS-21 | confirmed |
 | John 15:1 | P8, COS-24 | confirmed |
@@ -15039,7 +15377,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
 | John 17:26 | COS-62 | prose-ref |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61 | anchor, confirmed, prose-ref |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88 | anchor, confirmed, prose-ref |
 | John 17:4 | COS-55, COS-61 | anchor, prose-ref |
 | John 17:5 | COS-21, COS-43, COS-61 | confirmed, prose-ref |
 | John 17:6 | COS-62 | prose-ref |
@@ -15232,7 +15570,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 4:16 | COS-23 | confirmed |
 | Matthew 5:17 | COS-28 | anchor |
 | Matthew 5:37 | P7 | confirmed |
-| Matthew 6:9 | CLOSE, COS-75 | confirmed |
+| Matthew 6:9 | CLOSE, COS-75, COS-88 | confirmed |
 | Matthew 8:16 | COS-22, COS-23 | anchor, confirmed (excerpt) |
 | Matthew 8:17 | COS-22 | confirmed (excerpt) |
 | Matthew 9:15 | COS-24 | anchor |
@@ -15252,7 +15590,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Mark 3:5 | SAB8 | confirmed |
 | Mark 3:6 | SAB8 | confirmed |
 | Mark 6:2 | SAB8, SAB13 | confirmed (excerpt), recap cross-reference |
-| Mark 7:13 | SAB13, SAB-INTRO, INTRO | differs (minor), recap cross-reference |
+| Mark 7:13 | SAB13, INTRO, SAB-INTRO | differs (minor), recap cross-reference |
 | Mark 7:7 | SAB13 | anchor |
 | Mark 1:2 | COS-23 | anchor |
 | Mark 1:3 | COS-23 | anchor |
@@ -15393,7 +15731,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:13 | COS-42, COS-49, COS-52 | confirmed, prose-ref |
 | Revelation 22:16 | COS-02, COS-19, COS-42, COS-49, COS-52 | confirmed, confirmed (excerpt), prose-ref |
 | Revelation 22:2 | COS-50 | confirmed |
-| Revelation 22:20 | COS-42, COS-51 | confirmed |
+| Revelation 22:20 | COS-42, COS-51, COS-88 | confirmed |
 | Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
 | Revelation 22:4 | COS-41, COS-50, COS-62, COS-66 | confirmed, prose-ref |
 | Revelation 22:5 | COS-50, COS-66 | confirmed, prose-ref |
@@ -15408,8 +15746,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 4:8 | COS-45, COS-52 | confirmed, prose-ref |
 | Revelation 5:1-7 | COS-45 | confirmed |
 | Revelation 5:10 | COS-45 | confirmed |
-| Revelation 5:12 | COS-45 | confirmed |
-| Revelation 5:13 | COS-45 | confirmed |
+| Revelation 5:12 | COS-45, COS-88 | confirmed, prose-ref |
+| Revelation 5:13 | COS-45, COS-88 | confirmed, prose-ref |
 | Revelation 5:14 | COS-45 | confirmed |
 | Revelation 5:2 | COS-45 | confirmed |
 | Revelation 5:5 | COS-02, COS-19, COS-30, COS-45, COS-52 | confirmed, confirmed (excerpt), prose-ref |
@@ -15448,7 +15786,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 8:29 | COS-63, COS-66, COS-68, COS-70 | anchor, confirmed, prose-ref |
 | Romans 8:30 | COS-62, COS-68, COS-70 | anchor, confirmed, prose-ref |
 | Romans 8:32 | COS-22, COS-42, COS-70 | confirmed, confirmed (excerpt) |
-| ROM 8 34 | COS-30, COS-62, COS-68 | anchor, confirmed, prose-ref |
+| ROM 8 34 | COS-30, COS-62, COS-68, COS-88 | anchor, confirmed, prose-ref |
 | Romans 8:9 | COS-55, COS-59, COS-60, COS-63, COS-70 | anchor, confirmed, prose-ref |
 | Romans 9:21 | SAB7 | anchor |
 | Revelation 1:10 | SAB12, RECAP | confirmed, recap cross-reference |
@@ -15492,7 +15830,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 1:7 | COS-66, COS-69 | anchor, confirmed, prose-ref |
 | Galatians 2:17 | COS-66 | confirmed, prose-ref |
 | Philippians 3:9 | COS-66 | confirmed, prose-ref |
-| 1 Corinthians 1:2 | COS-66 | confirmed, prose-ref |
+| 1 Corinthians 1:2 | COS-66, COS-88 | confirmed, prose-ref |
 | Galatians 3:27 | COS-66 | confirmed, prose-ref |
 | Romans 6:3 | COS-66, COS-69 | confirmed, prose-ref |
 | 1 Corinthians 12:13 | COS-66 | confirmed |
@@ -15679,10 +16017,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 6:11 | COS-75 | confirmed |
 | Matthew 6:12 | COS-75 | confirmed |
 | Matthew 6:13 | COS-75 | confirmed |
-| Ephesians 1:15-23 (range) | COS-75 | anchor |
+| Ephesians 1:15-23 (range) | COS-75, COS-88 | anchor, prose-ref |
 | Ephesians 3:14-21 (range) | COS-75 | anchor |
-| Philippians 1:9-11 (range) | COS-75 | anchor |
-| Colossians 1:9-12 (range) | COS-75 | anchor |
+| Philippians 1:9-11 (range) | COS-75, COS-88 | anchor, prose-ref |
+| Colossians 1:9-12 (range) | COS-75, COS-88 | anchor |
 | 2 Timothy 3:16 | COS-76 | confirmed |
 | 2 Timothy 3:17 | COS-76 | confirmed |
 | Hebrews 4:12 | COS-76 | confirmed |
@@ -15784,6 +16122,27 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Corinthians 9:7 | COS-84 | confirmed |
 | 2 Corinthians 9:8 | COS-84 | confirmed |
 | 1 Timothy 6:8 | COS-84 | prose-ref |
+| Acts 4:24 | COS-88 | confirmed |
+| Acts 4:25 | COS-88 | confirmed |
+| Ephesians 3:15 | COS-88 | confirmed |
+| Hebrews 13:20 | COS-88 | confirmed |
+| Hebrews 13:21 | COS-88 | confirmed |
+| 2 Cor 12:8 | COS-88 | confirmed |
+| 2 Cor 12:9 | COS-88 | confirmed |
+| Rom 10:12 | COS-88 | confirmed |
+| Rom 10:13 | COS-88 | confirmed |
+| John 15:16 | COS-88 | confirmed |
+| John 16:23 | COS-88 | confirmed |
+| Acts 9:14 | COS-88 | confirmed |
+| Acts 22:16 | COS-88 | confirmed |
+| 2 Peter 3:18 | COS-88 | confirmed |
+| 2 Timothy 4:18 | COS-88 | confirmed |
+| 1 Cor 16:22 | COS-88 | confirmed |
+| Luke 23:46 | COS-88 | prose-ref |
+| Joel 2:32 (NETS/MT) = Joel 3:5 (traditional LXX) | COS-88 | prose-ref |
+| Rom 10:9 | COS-88 | prose-ref |
+| 1 Thess 3:11-13 | COS-88 | anchor |
+| 2 Thess 2:16-17 | COS-88 | anchor |
 
 ## The editions used
 

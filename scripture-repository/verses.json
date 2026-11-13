@@ -139,7 +139,8 @@
    "COS-84",
    "COS-85",
    "COS-86",
-   "COS-87"
+   "COS-87",
+   "COS-88"
   ],
   "sections": [
    {
@@ -643,6 +644,10 @@
    {
     "key": "COS-87",
     "label": "A QUESTION FOR YOU — the prayer-to-Jesus bridge"
+   },
+   {
+    "key": "COS-88",
+    "label": "THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?"
    }
   ],
   "double_check": {
@@ -703,11 +708,11 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 111553,
+  "so_far_words": 114562,
   "cos_sofar": {
-   "waves": 54
+   "waves": 55
   },
-  "glossary": 1316
+  "glossary": 1337
  },
  "verses": [
   {
@@ -2452,6 +2457,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13158,
+     "cited_as": "mention (the Father is the One God)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "synthesis re-cite"
     }
    ],
    "verified": "2026-11-12",
@@ -3684,6 +3699,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13158,
+     "cited_as": "mention (One God; One Mediator)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "cited 13158 and 13186"
     }
    ],
    "verified": "2026-11-12",
@@ -6831,6 +6856,29 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block aligned with the Geneva edition (word-for-word); seat = the author's modern-spelled rendering."
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12940,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "seat fragment concurs with banked print; haddest folded hadst",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed...",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-11",
@@ -6845,6 +6893,10 @@
      "result": "agree (eBible=TRB ratio 1.00)",
      "url": "https://www.textusreceptusbibles.com/Geneva/44/4",
      "checked": "2026-11-11"
+    },
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/4"
     }
    },
    "note": ""
@@ -9749,6 +9801,29 @@
       "text": "That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom, and reuelation through the acknowledging of him,",
       "reason": "Audit re-lists seated witnesses; seat unchanged (Confession full verse)."
      }
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12949,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "fragment seat (draft ellipsis covers the revelation tail)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "That the God of our Lord Jesus Christ, that Father of glory, might give unto you the Spirit of wisdom...",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-07",
@@ -9765,6 +9840,10 @@
    "second_check": {
     "gnv": {
      "result": "agree",
+     "url": "https://www.textusreceptusbibles.com/Geneva/49/1"
+    },
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
      "url": "https://www.textusreceptusbibles.com/Geneva/49/1"
     }
    }
@@ -9938,6 +10017,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13186,
+     "cited_as": "mention (all access to the Father through the Son)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "with JHN 14:6"
     }
    ],
    "translations": {}
@@ -10079,6 +10168,29 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12958,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -10124,6 +10236,29 @@
      "status": "confirmed",
      "note": "banked==fresh asserted (no change)",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12958,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -10159,6 +10294,29 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12958,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -10194,6 +10352,29 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12958,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -10250,6 +10431,29 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12958,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -18689,6 +18893,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13180,
+     "cited_as": "mention (He intercedes for us)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "with Rom 8:34"
     }
    ],
    "verified": "2026-11-11",
@@ -25521,6 +25735,29 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "upsert: pre-banked (wave 33); banked gnv asserted == fresh print; COS-75 seat-use added."
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12903,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "And whatsoever ye ask in my Name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my Name, I will do it."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "joined seat; v14 restored per range head; print v13 \"ye aske\" (no shall) — draft agrees (wave-45 check)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And whatsoever ye ask in my Name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my Name, I will do it.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ]
   },
@@ -25563,6 +25800,29 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "upsert: pre-banked (wave 33); banked gnv asserted == fresh print; COS-75 seat-use added."
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12903,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "And whatsoever ye ask in my Name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my Name, I will do it."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "joined seat; v14 restored per range head; print v13 \"ye aske\" (no shall) — draft agrees (wave-45 check)",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "And whatsoever ye ask in my Name, that will I do, that the Father may be glorified in the Son. If ye shall ask any thing in my Name, I will do it.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
     }
    ]
   },
@@ -26172,6 +26432,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13186,
+     "cited_as": "mention (all access to the Father through the Son)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "with Eph 2:18"
     }
    ],
    "verified": "2026-11-02",
@@ -27502,6 +27772,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13158,
+     "cited_as": "mention (the Father is the One God)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "synthesis re-cite"
     }
    ],
    "verified": "2026-11-12",
@@ -35253,6 +35533,29 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "upsert: pre-banked; fragment exact-modern to the 1599 print (\"Our father which art in heauen, halowed be thy name.\" — the draft's capitalization \"Thy Name\" is his table stylization); COS-75 use added."
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12893,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "After this manner therefore pray ye, Our father which art in heaven, hallowed be thy name."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "print comma after 'pray ye' kept (draft colon dropped); print 'Our father' LOWERCASE row-noted; tail 'hallowed be thy name.' restored",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "After this manner therefore pray ye, Our father which art in heaven, hallowed be thy name.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.000 vs WH",
+      "url": "https://biblehub.com/text/matthew/6-9"
+     }
     }
    ],
    "verified": "2026-11-02",
@@ -35274,6 +35577,10 @@
     "kjv": {
      "result": "agree",
      "url": "https://biblehub.com/kjv/"
+    },
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/40/6"
     }
    }
   },
@@ -42251,6 +42558,29 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "Re-presented in the (D)-close seat; see polish 28-wave-26."
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13037,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...Amen. Even so, come Lord Jesus."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "ZERO-SPLICE — the PRINT reads \"Amen.\" period (EB==TRB); the draft agrees; the prior-run note guessing print \"Amen,\" is CORRECTED from the print",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...Amen. Even so, come Lord Jesus.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.000 vs WH",
+      "url": "https://biblehub.com/text/revelation/22-20"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -42931,6 +43261,16 @@
      "status": "confirmed",
      "note": "5:9-10 + 12-14 seat — v12; the elided \"Saying with a loud voice,\" head restored; 1599 \"honour\" kept.",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13113,
+     "cited_as": "mention (worship rendered to the Lamb)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "also cited 13140"
     }
    ],
    "verified": "2026-11-11",
@@ -42963,6 +43303,16 @@
      "status": "confirmed",
      "note": "5:9-10 + 12-14 seat — v13; \"for evermore\" (1599 two-word form) vs draft \"forevermore\".",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13113,
+     "cited_as": "mention (worship rendered to the Lamb)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "also cited 13140"
     }
    ],
    "verified": "2026-11-11",
@@ -44903,6 +45253,16 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13180,
+     "cited_as": "mention (He intercedes for us)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "with Heb 7:25"
     }
    ],
    "verified": "2026-11-12",
@@ -46920,6 +47280,29 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13073,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...with all that call on the Name of our Lord Jesus Christ..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "fragment seat; print \"Corinthus\" stays behind the draft head-ellipsis",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...with all that call on the Name of our Lord Jesus Christ...",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.000 vs WH",
+      "url": "https://biblehub.com/text/1_corinthians/1-2"
+     }
     }
    ],
    "verified": "2026-11-12",
@@ -53971,6 +54354,16 @@
      "status": "anchor",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12945,
+     "cited_as": "range mention intro (Paul's great prayer)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "intro line seats the Eph 1:17 fragment; range kept as anchor"
     }
    ]
   },
@@ -54009,6 +54402,32 @@
      "status": "anchor",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12963,
+     "cited_as": "range mention (every substantial Pauline prayer)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "quote_kind": "reference",
+     "note": "referenced, not quoted",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "",
+      "text": ""
+     }
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12963,
+     "cited_as": "range mention",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "Pauline-prayer list — see COS-88 range anchor"
     }
    ]
   },
@@ -54028,6 +54447,22 @@
      "status": "anchor",
      "quote_kind": "reference",
      "note": ""
+    },
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12963,
+     "cited_as": "range mention (every substantial Pauline prayer)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "quote_kind": "reference",
+     "note": "referenced, not quoted",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "",
+      "text": ""
+     }
     }
    ]
   },
@@ -57431,6 +57866,900 @@
     "detail": "Practical Implications item 4 (canon 12753) quotes \"Having food and raiment, let us be therewith content\" under '(1 Tim 6:8 Geneva)'; the 1599 print reads \"Therefore when wee haue foode and raiment, let vs therewith be content.\" (EB+TRB) — the item's word order 'let us be therewith content' is the KJV echo (GNV: 'let vs therewith be content'). Italic version-name or re-voice awaits Gideon (standing attribution class, 10 Nov 2026).",
     "awaiting": "Gideon"
    }
+  },
+  {
+   "id": "ACT.4.24",
+   "ref": "Acts 4:24",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12940,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "selection seat honors draft ellipses; print \"the heaue\" kept + *(heaven)* gloss; ACT.4.27 carries the anointed clause",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed...",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And when they heard it, they lift vp their voyces to God with one accord, and said, O Lord, thou art the God which hast made the heaue, and the earth, the sea, and all things that are in them,",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/4"
+    }
+   },
+   "note": "selection seat honors draft ellipses; print \"the heaue\" kept + *(heaven)* gloss; ACT.4.27 carries the anointed clause"
+  },
+  {
+   "id": "ACT.4.25",
+   "ref": "Acts 4:25",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12940,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed..."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "selection seat honors draft ellipses; print \"the heaue\" kept + *(heaven)* gloss; ACT.4.27 carries the anointed clause",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...they lift up their voices to God with one accord, and said, O Lord, thou art the God which hast made the heaue *(heaven)*, and the earth... Which by the mouth of thy servant David hast said... against thine holy Son Jesus, whom thou hadst anointed...",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Which by the mouth of thy seruant Dauid hast saide, Why did the Gentiles rage, and the people imagine vaine things?",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/4"
+    }
+   },
+   "note": "selection seat honors draft ellipses; print \"the heaue\" kept + *(heaven)* gloss; ACT.4.27 carries the anointed clause"
+  },
+  {
+   "id": "EPH.3.15",
+   "ref": "Ephesians 3:15",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12958,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ, (Of whom is named the whole family in heaven and in earth) That he might grant you according to the riches of his glory, that ye may be strengthened by his Spirit in the inner man, That Christ may dwell in your hearts by faith: That ye, being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height: And to know the love of Christ, which passeth knowledge, that ye may be filled with all fulness of God.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "(Of whom is named the whole familie in heauen and in earth)",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/49/3"
+    }
+   },
+   "note": "member of the Eph 3:14-19 joined range seat (range restored per range-completeness); v15 parenthetical print form kept"
+  },
+  {
+   "id": "HEB.13.20",
+   "ref": "Hebrews 13:20",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12969,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "The God of peace that brought again from the dead our Lord Jesus, the great Shepherd of the sheep, through the blood of the everlasting Covenant, Make you perfect in all good works, to do his will, working in you that which is pleasant in his sight through Jesus Christ, to whom be praise for ever and ever, Amen."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "SPLICES: draft KJV echo 'that great Shepherd' -> print 'the great shepheard'; draft comma after 'peace' dropped per print; v21 tail restored through 'Amen.'",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "The God of peace that brought again from the dead our Lord Jesus, the great Shepherd of the sheep, through the blood of the everlasting Covenant, Make you perfect in all good works, to do his will, working in you that which is pleasant in his sight through Jesus Christ, to whom be praise for ever and ever, Amen.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "The God of peace that brought againe from the dead our Lord Iesus, the great shepheard of the sheepe, through the blood of the euerlasting Couenant,",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/13"
+    }
+   },
+   "note": "SPLICES: draft KJV echo 'that great Shepherd' -> print 'the great shepheard'; draft comma after 'peace' dropped per print; v21 tail restored through 'Amen.'"
+  },
+  {
+   "id": "HEB.13.21",
+   "ref": "Hebrews 13:21",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12969,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "The God of peace that brought again from the dead our Lord Jesus, the great Shepherd of the sheep, through the blood of the everlasting Covenant, Make you perfect in all good works, to do his will, working in you that which is pleasant in his sight through Jesus Christ, to whom be praise for ever and ever, Amen."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "SPLICES: draft KJV echo 'that great Shepherd' -> print 'the great shepheard'; draft comma after 'peace' dropped per print; v21 tail restored through 'Amen.'",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "The God of peace that brought again from the dead our Lord Jesus, the great Shepherd of the sheep, through the blood of the everlasting Covenant, Make you perfect in all good works, to do his will, working in you that which is pleasant in his sight through Jesus Christ, to whom be praise for ever and ever, Amen.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Make you perfect in all good workes, to doe his will, working in you that which is pleasant in his sight through Iesus Christ, to whom be praise for euer and euer, Amen.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/58/13"
+    }
+   },
+   "note": "SPLICES: draft KJV echo 'that great Shepherd' -> print 'the great shepheard'; draft comma after 'peace' dropped per print; v21 tail restored through 'Amen.'"
+  },
+  {
+   "id": "2CO.12.8",
+   "ref": "2 Cor 12:8",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13015,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my power is made perfect through weakness. Very gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "v8 print thrise folded; v9 tail restored; print reads Very gladly",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my power is made perfect through weakness. Very gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For this thing I besought the Lord thrise, that it might depart from me.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/47/12"
+    }
+   },
+   "note": "v8 print thrise folded; v9 tail restored; print reads Very gladly"
+  },
+  {
+   "id": "2CO.12.9",
+   "ref": "2 Cor 12:9",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13015,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my power is made perfect through weakness. Very gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "v8 print thrise folded; v9 tail restored; print reads Very gladly",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "For this thing I besought the Lord thrice, that it might depart from me. And he said unto me, My grace is sufficient for thee: for my power is made perfect through weakness. Very gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he said vnto me, My grace is sufficient for thee: for my power is made perfect through weakenesse. Very gladly therefore will I reioyce rather in mine infirmities, that the power of Christ may dwell in me.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/47/12"
+    }
+   },
+   "note": "v8 print thrise folded; v9 tail restored; print reads Very gladly",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "obs (2) (canon 13024) quotes \"most gladly therefore will I rejoice rather in mine infirmities, that the power of Christ may dwell in me.\" — the 1599 print reads \"Very gladly therefore...\" (EB==TRB); italic version-name or re-voice awaits Gideon (10 Nov 2026 attribution rule)",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "ROM.10.12",
+   "ref": "Rom 10:12",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13079,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...For there is no difference between the Jew and the Grecian: for he that is Lord over all, is rich unto all, that call on him. For whosoever shall call upon the Name of the Lord, shall be saved."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "zero-splice exact-modern; v13 = the Joel 2:32 citation verse",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...For there is no difference between the Jew and the Grecian: for he that is Lord over all, is rich unto all, that call on him. For whosoever shall call upon the Name of the Lord, shall be saved.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For there is no difference betweene the Iewe and the Grecian: for he that is Lord ouer all, is rich vnto all, that call on him.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/10"
+    }
+   },
+   "note": "zero-splice exact-modern; v13 = the Joel 2:32 citation verse"
+  },
+  {
+   "id": "ROM.10.13",
+   "ref": "Rom 10:13",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13079,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...For there is no difference between the Jew and the Grecian: for he that is Lord over all, is rich unto all, that call on him. For whosoever shall call upon the Name of the Lord, shall be saved."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "zero-splice exact-modern; v13 = the Joel 2:32 citation verse",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...For there is no difference between the Jew and the Grecian: for he that is Lord over all, is rich unto all, that call on him. For whosoever shall call upon the Name of the Lord, shall be saved.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For whosoeuer shall call vpon the Name of the Lord, shalbe saued.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/10"
+    }
+   },
+   "note": "zero-splice exact-modern; v13 = the Joel 2:32 citation verse"
+  },
+  {
+   "id": "JHN.15.16",
+   "ref": "John 15:16",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12909,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...that whatsoever ye shall ask of the Father in my Name, he may give it you."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...that whatsoever ye shall ask of the Father in my Name, he may give it you.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Ye haue not chosen me, but I haue chosen you, and ordeined you, that ye goe and bring foorth fruite, and that your fruite remaine, that whatsoeuer ye shall aske of the Father in my Name, he may giue it you.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/15"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "JHN.16.23",
+   "ref": "John 16:23",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12915,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...Verily, verily I say unto you, whatsoever ye shall ask the Father in my Name, he will give it you."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...Verily, verily I say unto you, whatsoever ye shall ask the Father in my Name, he will give it you.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And in that day shall ye aske me nothing. Verely, verely I say vnto you, whatsoeuer ye shall aske the Father in my Name, he will giue it you.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/43/16"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "ACT.9.14",
+   "ref": "Acts 9:14",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13061,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "Moreover here he hath authority of the high Priests, to bind all that call on thy Name."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "SPLICE: draft 'And here' -> print 'Moreover here'",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "Moreover here he hath authority of the high Priests, to bind all that call on thy Name.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Moreouer here hee hath authoritie of the hie Priestes, to binde all that call on thy Name.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/9"
+    }
+   },
+   "note": "SPLICE: draft 'And here' -> print 'Moreover here'"
+  },
+  {
+   "id": "ACT.22.16",
+   "ref": "Acts 22:16",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13067,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...Arise, and be baptized, and wash away thy sins, in calling on the Name of the Lord."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...Arise, and be baptized, and wash away thy sins, in calling on the Name of the Lord.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Now therefore why tariest thou? Arise, and be baptized, and wash away thy sinnes, in calling on the Name of the Lord.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/44/22"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "2PE.3.18",
+   "ref": "2 Peter 3:18",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13104,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ: to him be glory both now and for evermore. Amen."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "SPLICE: draft 'glory both now, and forevermore, Amen.' -> print 'both now and for evermore. Amen.'",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ: to him be glory both now and for evermore. Amen.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But grow in grace, and in the knowledge of our Lord and Sauiour Iesus Christ: to him be glory both now and for euermore. Amen.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/61/3"
+    }
+   },
+   "note": "SPLICE: draft 'glory both now, and forevermore, Amen.' -> print 'both now and for evermore. Amen.'"
+  },
+  {
+   "id": "2TI.4.18",
+   "ref": "2 Timothy 4:18",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13110,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "...to whom be praise for ever and ever, Amen."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "SPLICE: draft 'for ever, and ever' -> print 'for ever and ever'",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "...to whom be praise for ever and ever, Amen.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And the Lord will deliuer me from euery euil worke, and will preserue me vnto his heauenly kingdome: to whome be praise for euer and euer, Amen.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/55/4"
+    }
+   },
+   "note": "SPLICE: draft 'for ever, and ever' -> print 'for ever and ever'"
+  },
+  {
+   "id": "1CO.16.22",
+   "ref": "1 Cor 16:22",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13043,
+     "cited_as": "Geneva seat",
+     "quotes": [
+      "If any man love not the Lord Jesus Christ, let him be had in execration *(a curse)* maran-atha *(Aramaic — \"our Lord, come\")*."
+     ],
+     "status": "confirmed",
+     "matched_source": "gnv",
+     "quote_kind": "seat",
+     "note": "REAL CATCH: the draft printed \"...Come Lord Jesus.\" — NOT the Geneva print; seat REPLACED with the print (full verse); his prose keeps the identification; glosses on print forms",
+     "adjudication": {
+      "ruling": "seat",
+      "version": "gnv",
+      "text": "If any man love not the Lord Jesus Christ, let him be had in execration *(a curse)* maran-atha *(Aramaic — \"our Lord, come\")*.",
+      "reason": "Geneva 1599 NT seat (specified NT version); draft Greek heads dropped per seat shape; 1599 print seated with modern folds; splice facts row-noted"
+     },
+     "greek_biblehub_fresh": {
+      "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
+      "url": "https://biblehub.com/text/"
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If any man loue not the Lord Iesus Christ, let him be had in execration maran-atha.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/46/16"
+    }
+   },
+   "note": "seat replaced with the Geneva print; glosses execration *(a curse)*, maran-atha *(Aramaic — \"our Lord, come\")*",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "seat now prints the Geneva text ('let him be had in execration maran-atha.'); his prose 'Come, Lord Jesus' reading of maran-atha keeps the identification — italic-attribution or re-voice decision awaits Gideon (10 Nov 2026 class)",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "LUK.23.46",
+   "ref": "Luke 23:46",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13000,
+     "cited_as": "prose-ref (obs 4 — Stephen parallels Jesus)",
+     "quotes": [
+      "Father, into Thy hands I commend My spirit"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "draft prose quote \"Father, into Thy hands I commend My spirit\" is KJV-voiced; GNV print: \"into thine hands\"",
+     "matched_source": "gnv"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And Iesus cryed with a loude voyce, and sayd, Father, into thine hands I commend my spirit. And when hee thus had sayd, hee gaue vp the ghost.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/42/23"
+    }
+   },
+   "note": "draft prose quote = modernized KJV voice (Thy/My caps); 1599 prints \"into thine hands\"",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "obs (4) (canon 13000) quotes \"Father, into Thy hands I commend My spirit\" — the 1599 print reads \"into thine hands I commend my spirit\" (EB==TRB); italic version-name or re-voice awaits Gideon (10 Nov 2026 attribution rule)",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "JOE.2.32",
+   "ref": "Joel 2:32 (NETS/MT) = Joel 3:5 (traditional LXX)",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13088,
+     "cited_as": "prose-ref (Rom 10:13 OT source)",
+     "quotes": [
+      "whoever calls on the Name of the LORD shall be saved"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "draft prose echo of the cite; label \"Joel 2:32 LXX\" numbered by MT/NETS",
+     "matched_source": "nets"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "And it shall be, everyone who calls on the name of the Lord shall be saved, because in Mount Sion and in Ierousalem there shall be one who escapes, as the Lord has said, and people who have good news announced to them, whom the Lord has called.",
+     "source": "32-twelve.pdf p26 (print 802) NETS Twelve print master",
+     "date": "2026-11-12"
+    },
+    "gnv": {
+     "text": "But whosoeuer shall call on the Name of the Lord, shalbe saued: for in mount Zion, and in Ierusale shalbe deliuerance, as the Lord hath said, and in the remnant, whom the Lord shall call.",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "GNV EB==TRB EXACT (string equality), fetched fresh 17:55",
+     "url": "https://www.textusreceptusbibles.com/Geneva/29/2"
+    },
+    "nets_print": {
+     "result": "NETS text verified word-for-word from 32-twelve.pdf p26 (print 802), verse mark 32",
+     "url": "scratch/nets/32-twelve.pdf"
+    }
+   },
+   "note": "BOTH-MAPS: NETS/MT 2:32 = traditional-LXX 3:5 (Rahlfs); NETS is the OT seat source, GNV banked alongside as recourse",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "obs prose echo \"whoever calls on the Name of the LORD shall be saved\" is GNV/NETS-voiced without a label — italic version-name or re-voice awaits Gideon; the label \"Joel 2:32 LXX\" uses MT/NETS numbering (= traditional LXX 3:5), both maps on the row",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "ROM.10.9",
+   "ref": "Rom 10:9",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 13091,
+     "cited_as": "prose-ref (Calling on His Name bullet)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "bullet \"Confessing Him as Lord (Rom 10:9)\" — referenced, not quoted"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For if thou shalt confesse with thy mouth the Lord Iesus, and shalt beleeue in thine heart, that God raised him vp from the dead, thou shalt be saued:",
+     "source": "textusreceptusbibles.com Geneva (EB==TRB string-equality verified)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT (string equality), fetched fresh this run",
+     "url": "https://www.textusreceptusbibles.com/Geneva/45/10"
+    }
+   },
+   "note": ""
+  },
+  {
+   "id": "1TH.3.11-13",
+   "ref": "1 Thess 3:11-13",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12963,
+     "cited_as": "range mention (every substantial Pauline prayer)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "quote_kind": "reference",
+     "note": "referenced, not quoted",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "anchor": {
+     "result": "anchor — referenced only",
+     "url": ""
+    }
+   },
+   "note": "Pauline-prayer range anchor (canon 12963); pure anchor — unseated so far"
+  },
+  {
+   "id": "2TH.2.16-17",
+   "ref": "2 Thess 2:16-17",
+   "uses": [
+    {
+     "section": "COS-88",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?",
+     "article_line": 12963,
+     "cited_as": "range mention (every substantial Pauline prayer)",
+     "quotes": [],
+     "status": "anchor",
+     "matched_source": null,
+     "quote_kind": "reference",
+     "note": "referenced, not quoted",
+     "adjudication": {
+      "ruling": "anchor",
+      "version": "",
+      "text": ""
+     }
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {},
+   "second_check": {
+    "anchor": {
+     "result": "anchor — referenced only",
+     "url": ""
+    }
+   },
+   "note": "Pauline-prayer range anchor (canon 12963); pure anchor — unseated so far"
   }
  ]
 }
