@@ -940,6 +940,16 @@
      "status": "confirmed",
      "note": "W59: delivering all to the Father",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15760,
+     "cited_as": "1 Cor 15:24-28",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W23 span)"
     }
    ],
    "verified": "2026-11-12",
@@ -1196,6 +1206,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15760,
+     "cited_as": "1 Cor 15:24-28",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W23 span)"
     }
    ],
    "verified": "2026-11-12",
@@ -1650,6 +1670,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15861,
+     "cited_as": "1 Cor 6:19; 2 Cor 6:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "translations": {},
@@ -2119,6 +2149,15 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15938,
+     "cited_as": "1 John 3:2",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -2486,6 +2525,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Redeemed by His precious blood (1 Pet 1:18-19)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15768,
+     "cited_as": "1 Pet 1:18-19",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor"
     }
    ],
    "verified": "2026-11-12",
@@ -2516,6 +2565,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15768,
+     "cited_as": "1 Pet 1:18-19",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor"
     }
    ],
    "verified": "2026-11-12",
@@ -3370,6 +3429,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15750,
+     "cited_as": "John 4:24; John 17:3; 1 Tim 6:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "maxim-recap parenthetical; 1 Ti 6:16 endpoint (anchor row is the 15-16 passage)"
     }
    ],
    "verified": "2026-11-12",
@@ -3628,6 +3697,15 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15822,
+     "cited_as": "2 Cor 5:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -3689,6 +3767,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15861,
+     "cited_as": "1 Cor 6:19; 2 Cor 6:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -5972,6 +6060,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Acts 2:33",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -7632,6 +7729,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Gal 2:20; Col 1:27",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list (good-reason row)"
     }
    ]
   },
@@ -7906,6 +8013,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "\"bearing the fullness of the Godhead bodily forever (Col 2:9)\""
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15758,
+     "cited_as": "Col 2:9",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -9563,6 +9679,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Indwelt by the Father's Spirit — sealed (Eph 1:13-14; 4:30)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15770,
+     "cited_as": "Eph 1:13-14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range anchor (W32 seats)"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Eph 1:13-14; 4:30; Rom 11:29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "diff_notes": ""
@@ -9610,6 +9746,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15770,
+     "cited_as": "Eph 1:13-14",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range anchor (W32 seats)"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Eph 1:13-14; 4:30; Rom 11:29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -9790,6 +9946,24 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Chosen in Him before the foundation of the world (Eph 1:4)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15766,
+     "cited_as": "Eph 1:4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15822,
+     "cited_as": "Eph 1:4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -9875,6 +10049,33 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Closing line: \"All to the praise of the glory of His grace, wherein He has made us accepted in the Beloved (Eph 1:6)\" — row-flagged (needs-authorization) standing"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15778,
+     "cited_as": "Eph 1:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15842,
+     "cited_as": "Eph 1:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15849,
+     "cited_as": "Eph 1:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -10471,6 +10672,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15770,
+     "cited_as": "4:30 (Eph 1:13-14; 4:30 list)",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Eph 1:13-14; 4:30; Rom 11:29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -13556,6 +13777,26 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "use"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15822,
+     "cited_as": "Gal 2:20; Rom 6:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Gal 2:20; Col 1:27",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "flag": {
@@ -17653,6 +17894,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "\"the Father prepared a body for the Son (Heb 10:5)\""
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15754,
+     "cited_as": "Heb 10:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -19076,6 +19326,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "with Rom 8:34"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15869,
+     "cited_as": "Heb 7:25; Rom 8:34",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-11",
@@ -24655,6 +24915,15 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE A bullet (only-begotten)"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15936,
+     "cited_as": "John 1:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -26584,6 +26853,15 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15868,
+     "cited_as": "John 14:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -26940,6 +27218,15 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "John 14:23",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -27562,6 +27849,15 @@
      "status": "flagged",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15867,
+     "cited_as": "John 16:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "flag": {
@@ -28286,6 +28582,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "POINT-6 Accepted observation quote \"hast loved them as Thou hast loved Me\" — matches the 1599 print at modern spelling (draft case-caps its own; print comma after \"them\" dropped) — good-reason exact, no flag"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15836,
+     "cited_as": "John 17:23",
+     "quotes": [
+      "*\"...and hast loved them, as thou hast loved me.\"*"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "seat",
+     "note": "W67 seat (Part-1 §1 open): Geneva head renamed, Greek dropped; print tail loued/mee folded — ZERO-SPLICE; EB==TRB EXACT fresh 43/17"
     }
    ],
    "verified": "2026-11-12",
@@ -28344,6 +28652,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15767,
+     "cited_as": "John 17:6, 24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15822,
+     "cited_as": "John 17:6, 24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-11",
@@ -28689,6 +29017,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line — cited with John 4:24 and 1 Tim 6:16"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15750,
+     "cited_as": "John 4:24; John 17:3; 1 Tim 6:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "maxim-recap parenthetical (shared list)"
     }
    ],
    "verified": "2026-11-12",
@@ -28951,6 +29289,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Given to the Son by the Father (John 17:6, 24)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15767,
+     "cited_as": "John 17:6, 24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15822,
+     "cited_as": "John 17:6, 24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -30174,6 +30532,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Culminating-beauty-of-the-Study line: \"eternal Spirit, invisible, immortal, unapproachable in His essential glory (John 4:24; John 17:3; 1 Tim 6:16)\""
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15750,
+     "cited_as": "John 4:24; John 17:3; 1 Tim 6:16",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "maxim-recap parenthetical (shared list)"
     }
    ],
    "verified": "2026-11-12",
@@ -39944,6 +40312,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Grand Synthesis: \"The Father gave Him the Name above every name (Phil 2:9)\""
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15756,
+     "cited_as": "Phil 2:9",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -44790,6 +45167,33 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Bearing the Father's Name (Rev 22:4)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15771,
+     "cited_as": "Rev 22:4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15774,
+     "cited_as": "Rev 22:4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15936,
+     "cited_as": "Rev 22:4",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -44856,6 +45260,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15937,
+     "cited_as": "2 Tim 2:12; Rev 22:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -46108,6 +46522,16 @@
       "For the gifts and calling of God are without repentance."
      ],
      "matched_source": "gnv"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15859,
+     "cited_as": "Eph 1:13-14; 4:30; Rom 11:29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list; print \"giftes\" row-noted (W32)"
     }
    ],
    "verified": "2026-11-12",
@@ -46684,6 +47108,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15769,
+     "cited_as": "Rom 6:3-5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W44 seats)"
     }
    ],
    "flag": {
@@ -46758,6 +47192,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15769,
+     "cited_as": "Rom 6:3-5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W44 seats)"
     }
    ],
    "flag": {
@@ -46799,6 +47243,16 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15822,
+     "cited_as": "Gal 2:20; Rom 6:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -47007,6 +47461,15 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15866,
+     "cited_as": "Rom 8:11",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -47198,6 +47661,34 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Being conformed to the image of the Son (Rom 8:29)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15772,
+     "cited_as": "Rom 8:29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15879,
+     "cited_as": "Rom 8:29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15881,
+     "cited_as": "Rom 8:28-29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range anchor (W43 seats)"
     }
    ],
    "verified": "2026-11-12",
@@ -47254,6 +47745,18 @@
      "status": "confirmed",
      "note": "banked==fresh asserted",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15924,
+     "cited_as": "Romans 8:30",
+     "quotes": [
+      "*\"Moreover whom he predestinate *(predestinated)*, them also he called, and whom he called, them also he justified, and whom he justified, them he also glorified.\"*"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "seat",
+     "note": "W67 seat (Part-1 §5): Geneva head renamed, Greek dropped; draft KJV-echo \"predestinated\" seated as the 1599 print \"predestinate\" + *(predestinated)* gloss (W39 8:29 class); Moreouer/iustified plain folds — EB==TRB ALL-EXACT fresh 45/8 whole chapter; WH-Greek 1.000"
     }
    ],
    "verified": "2026-11-12",
@@ -47268,6 +47771,10 @@
      "text": "Moreouer whom he predestinate, them also he called, and whom he called, them also he iustified, and whom he iustified, them he also glorified.",
      "source": "textusreceptusbibles.com/Geneva/45/8",
      "result": "agree (1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree (set-containment 1.000)",
+     "url": "https://biblehub.com/text/romans/8-30.htm"
     }
    }
   },
@@ -47380,6 +47887,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "with Heb 7:25"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15869,
+     "cited_as": "Heb 7:25; Rom 8:34",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -48992,6 +49509,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Seated with Him at the Father's right hand (Eph 2:5-6)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15769,
+     "cited_as": "Eph 2:5-6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range anchor (W35 POINT-4 span seats)"
     }
    ],
    "verified": "2026-11-12",
@@ -49068,6 +49595,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15769,
+     "cited_as": "Eph 2:5-6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range anchor (W35 POINT-4 span seats)"
     }
    ],
    "verified": "2026-11-12",
@@ -49172,6 +49709,26 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15937,
+     "cited_as": "2 Tim 2:12; Rev 22:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical; standing flag (drops \"together\") untouched"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15955,
+     "cited_as": "2 Tim 2:12",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "standing flag (drops \"together\") untouched"
     }
    ],
    "verified": "2026-11-12",
@@ -49552,6 +50109,16 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Baptized into His death, buried with Him, raised with Him (Rom 6:3-5)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15769,
+     "cited_as": "Rom 6:3-5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W44 seats)"
     }
    ],
    "verified": "2026-11-12",
@@ -50186,6 +50753,16 @@
      "status": "confirmed",
      "note": "wave-41 span seat; gnv pre-banked",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15953,
+     "cited_as": "Acts 5:41; 1 Pet 4:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -50813,6 +51390,16 @@
      "status": "prose-ref",
      "note": "count it joy to suffer for the Name, COS-68 seat",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15953,
+     "cited_as": "Acts 5:41; 1 Pet 4:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list"
     }
    ],
    "verified": "2026-11-12",
@@ -51177,6 +51764,15 @@
      "status": "prose-ref",
      "note": "Sustaining Truth 7 - the glory coming",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15940,
+     "cited_as": "Rom 8:18",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51413,6 +52009,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15946,
+     "cited_as": "Col 1:24",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -51964,6 +52569,15 @@
      "status": "prose-ref",
      "note": "Sustaining Truth 6 - the trial is temporary; italic fragment GNV-EXACT at modern folds (gnv print 'our light affliction which is but for a moment,') - good-reason, KJV identical modulo its 'affliction,' comma",
      "quote_kind": "quote"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15889,
+     "cited_as": "2 Cor 4:17",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -52133,6 +52747,16 @@
      "status": "prose-ref",
      "note": "Sustaining Truth 3 - all things work for good, wave-41 anchor",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15881,
+     "cited_as": "Rom 8:28-29",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range anchor (W43 seats)"
     }
    ],
    "verified": "2026-11-12",
@@ -53001,6 +53625,15 @@
      "status": "confirmed",
      "note": "",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15965,
+     "cited_as": "Eph 4:1",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -53596,6 +54229,18 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15899,
+     "cited_as": "Ephesians 2:10",
+     "quotes": [
+      "*\"For we are his workmanship created in Christ Jesus unto good works, which God hath ordained, that we should walk in them.\"*"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "seat",
+     "note": "W67 seat (Part-1 §4): Geneva head renamed, Greek dropped (ποίημα/προητοίμασεν live in the prose glosses); print carries NO comma after workemanship — draft IS print, ZERO-SPLICE; EB==TRB ALL-EXACT fresh 49/2 whole chapter; WH-Greek 1.000"
     }
    ],
    "verified": "2026-11-12",
@@ -53610,6 +54255,10 @@
      "text": "For we are his workemanship created in Christ Iesus vnto good workes, which God hath ordeined, that we should walke in them.",
      "source": "https://www.textusreceptusbibles.com/Geneva/49/2",
      "result": "exact per-verse (eBible==TRB 1.000)"
+    },
+    "greek_biblehub_fresh": {
+     "result": "agree (set-containment 1.000)",
+     "url": "https://biblehub.com/text/ephesians/2-10.htm"
     }
    },
    "diff_notes": ""
@@ -54257,6 +54906,16 @@
      "status": "prose-ref",
      "note": "Nothing separates us from His love (range)",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15844,
+     "cited_as": "Rom 8:38-39",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W43 seats)"
     }
    ],
    "second_check": {
@@ -54302,6 +54961,16 @@
      "status": "prose-ref",
      "note": "Nothing separates us from His love (range)",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15844,
+     "cited_as": "Rom 8:38-39",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W43 seats)"
     }
    ],
    "second_check": {
@@ -57780,6 +58449,16 @@
      "status": "confirmed",
      "note": "re-present seat ZERO-SPLICE exact-modern + *(stewards)* gloss on the print's \"disposers\"; banked==fresh assert passed.",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15907,
+     "cited_as": "1 Cor 12:7-11; Rom 12:6-8; 1 Pet 4:10-11",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list (range endpoints for 4:10-11)"
     }
    ],
    "verified": "2026-11-12",
@@ -57816,6 +58495,16 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15907,
+     "cited_as": "1 Cor 12:7-11; Rom 12:6-8; 1 Pet 4:10-11",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "shared parenthetical list (range endpoints for 4:10-11)"
     }
    ],
    "verified": "2026-11-12",
@@ -61429,6 +62118,15 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Table row: paired with 2 Pet 1:1 — \"Jesus as God and Savior\""
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15974,
+     "cited_as": "Titus 2:13",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -63395,6 +64093,26 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "Grand Synthesis: \"change our vile bodies to be conformed to His glorious body (Phil 3:20-21)\""
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15773,
+     "cited_as": "Phil 3:20-21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W66 fallback rows)"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15935,
+     "cited_as": "Phil 3:20-21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor"
     }
    ],
    "note": "prose-ref anchor (Grand Synthesis ref; no quote seated)"
@@ -63427,9 +64145,209 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "See above line (Phil 3:20-21 range)"
+    },
+    {
+     "section": "COS-101",
+     "section_label": "THE CHRIST OF SCRIPTURE — THE CULMINATING BEAUTY OF OUR STUDY",
+     "article_line": 15773,
+     "cited_as": "Phil 3:20-21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor (W66 fallback rows)"
+    },
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15935,
+     "cited_as": "Phil 3:20-21",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "range endpoint anchor"
     }
    ],
    "note": "prose-ref anchor (Grand Synthesis ref; no quote seated)"
+  },
+  {
+   "id": "1CO.12.7-11",
+   "ref": "1 Cor 12:7-11",
+   "uses": [
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15907,
+     "cited_as": "1 Cor 12:7-11; Rom 12:6-8; 1 Pet 4:10-11",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "But the manifestation of the Spirit is giuen to euery man, to profite withall. For to one is giuen by the Spirit the word of wisdome: and to an other the word of knowledge, by the same Spirit: And to another is giuen faith by the same Spirit: and to another the giftes of healing, by the same Spirit: And to another the operations of great workes: and to another, prophecie: and to another, the discerning of spirits: and to another, diuersities of tongues: and to another, the interpretation of tongues. And all these thinges worketh one and the selfe same Spirit, distributing to euery man seuerally as he will.",
+     "source": "https://ebible.org/enggnv/1CO12.htm == textusreceptusbibles.com fresh 46.12 (EB==TRB 46/12 whole chapter exact)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT fresh per verse (46.12)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/12"
+    }
+   },
+   "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15907)"
+  },
+  {
+   "id": "ROM.12.6-8",
+   "ref": "Rom 12:6-8",
+   "uses": [
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15907,
+     "cited_as": "1 Cor 12:7-11; Rom 12:6-8; 1 Pet 4:10-11",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Seeing then that we haue gifts that are diuers, according to the grace that is giuen vnto vs, whether we haue prophecie, let vs prophecie according to the portion of faith: Or an office, let vs waite on the office: or he that teacheth, on teaching: Or he that exhorteth, on exhortation: he that distributeth, let him doe it with simplicitie: he that ruleth, with diligence: he that sheweth mercie, with cheerefulnesse.",
+     "source": "https://ebible.org/enggnv/ROM12.htm == textusreceptusbibles.com fresh 45.12 (EB==TRB 45/12 whole chapter exact)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT fresh per verse (45.12)",
+     "url": "https://textusreceptusbibles.com/Geneva/45/12"
+    }
+   },
+   "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15907)"
+  },
+  {
+   "id": "1CO.3.10-15",
+   "ref": "1 Cor 3:10-15",
+   "uses": [
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15914,
+     "cited_as": "2 Cor 5:10; 1 Cor 3:10-15",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "According to the grace of God giuen to mee, as a skilfull master builder, I haue laide the foundation, and another buildeth thereon: but let euery man take heede how he buildeth vpon it. For other foundation can no man laie, then that which is laied, which is Iesus Christ. And if any man builde on this foundation, golde, siluer, precious stones, timber, haye, or stubble, Euery mans worke shalbe made manifest: for the day shall declare it, because it shalbe reueiled by the fire: and the fire shall trie euery mans worke of what sort it is. If any mans worke, that he hath built vpon, abide, he shall receiue wages. If any mans worke burne, he shall lose, but he shalbe saued himselfe: neuerthelesse yet as it were by the fire.",
+     "source": "https://ebible.org/enggnv/1CO03.htm == textusreceptusbibles.com fresh 46.3 (EB==TRB 46/3 whole chapter exact (BSS-builder warning))"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT fresh per verse (46.3)",
+     "url": "https://textusreceptusbibles.com/Geneva/46/3"
+    }
+   },
+   "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15914)"
+  },
+  {
+   "id": "2CO.5.10",
+   "ref": "2 Cor 5:10",
+   "uses": [
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15914,
+     "cited_as": "2 Cor 5:10; 1 Cor 3:10-15",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "For we must all appeare before the iudgement seate of Christ, that euery man may receiue the things which are done in his body, according to that he hath done, whether it be good or euill.",
+     "source": "https://ebible.org/enggnv/2CO05.htm == textusreceptusbibles.com fresh 47.5 (EB==TRB 47/5 whole chapter exact (BSS warning))"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT fresh per verse (47.5)",
+     "url": "https://textusreceptusbibles.com/Geneva/47/5"
+    }
+   },
+   "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15914)"
+  },
+  {
+   "id": "PHP.1.6",
+   "ref": "Phil 1:6",
+   "uses": [
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15934,
+     "cited_as": "Phil 1:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And I am persuaded of this same thing, that he that hath begunne this good worke in you, wil perfourme it vntill the day of Iesus Christ,",
+     "source": "https://ebible.org/enggnv/PHP01.htm == textusreceptusbibles.com fresh 50.1 (EB==TRB 50/1 whole chapter exact)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT fresh per verse (50.1)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/1"
+    }
+   },
+   "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15934)"
+  },
+  {
+   "id": "PHP.3.14",
+   "ref": "Phil 3:14",
+   "uses": [
+    {
+     "section": "COS-102",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY",
+     "article_line": 15973,
+     "cited_as": "Phil 3:14",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "reference only; no verse quoted in line",
+     "quote_kind": "reference"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And follow hard toward the marke, for the prise of the hie calling of God in Christ Iesus.",
+     "source": "https://ebible.org/enggnv/PHP03.htm == textusreceptusbibles.com fresh 50.3 (EB==TRB 50/3 whole chapter exact)"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "EB==TRB EXACT fresh per verse (50.3)",
+     "url": "https://textusreceptusbibles.com/Geneva/50/3"
+    }
+   },
+   "note": "W67 prose-ref anchor (Part 1 gifts/calling refs; canon 15973)"
   }
  ],
  "meta": {
@@ -63585,7 +64503,9 @@
    "COS-97",
    "COS-98",
    "COS-99",
-   "COS-100"
+   "COS-100",
+   "COS-101",
+   "COS-102"
   ],
   "sections": [
    {
@@ -64141,6 +65061,14 @@
    {
     "key": "COS-100",
     "label": "GRAND SYNTHESIS — ALL SEVEN PASSAGES TOGETHER"
+   },
+   {
+    "key": "COS-101",
+    "label": "THE CULMINATING BEAUTY OF OUR STUDY"
+   },
+   {
+    "key": "COS-102",
+    "label": "PART ONE — WHAT THIS MEANS FOR US INDIVIDUALLY"
    }
   ],
   "double_check": {
@@ -64201,8 +65129,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 134488,
-  "cos_sofar": "waves 66",
+  "so_far_words": 137186,
+  "cos_sofar": "waves 67",
   "glossary": 1391
  }
 }
