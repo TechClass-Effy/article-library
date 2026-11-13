@@ -143,7 +143,8 @@
    "COS-88",
    "COS-89",
    "COS-90",
-   "THE FIVE DIFFICULT PASSAGES EXAMINED"
+   "THE FIVE DIFFICULT PASSAGES EXAMINED",
+   "COS-92"
   ],
   "sections": [
    {
@@ -663,6 +664,10 @@
    {
     "key": "COS-91",
     "label": "THE FIVE DIFFICULT PASSAGES EXAMINED"
+   },
+   {
+    "key": "COS-92",
+    "label": "YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY"
    }
   ],
   "double_check": {
@@ -723,12 +728,9 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 126564,
-  "cos_sofar": {
-   "waves": 58,
-   "updated": "2026-11-12"
-  },
-  "glossary": 1358
+  "so_far_words": 130120,
+  "cos_sofar": 59,
+  "glossary": 1376
  },
  "verses": [
   {
@@ -1661,9 +1663,19 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE D prose (delivers all things 1 Cor 15:24-28)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15091,
+     "cited_as": "1 Corinthians 15:24-28",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: delivering all to the Father",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Then shalbe the end, when he hath deliuered vp the kingdome to God, euen the Father, when he hath put downe all rule, and all authoritie and power.",
@@ -2565,6 +2577,18 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE A/C prose (Father Source / Son Agent)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15004,
+     "cited_as": "1 Corinthians 8:6",
+     "quotes": [
+      "one God, the Father."
+     ],
+     "status": "confirmed",
+     "note": "W59 implication bullet",
+     "quote_kind": "prose-ref"
     }
    ],
    "verified": "2026-11-12",
@@ -3869,6 +3893,18 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE E maxims list (the Father the One God)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15005,
+     "cited_as": "1 Timothy 2:5",
+     "quotes": [
+      "one God, one Mediator."
+     ],
+     "status": "confirmed",
+     "note": "W59 implication bullet",
+     "quote_kind": "prose-ref"
     }
    ],
    "verified": "2026-11-12",
@@ -5552,9 +5588,19 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "What-This-Honors table ref."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15021,
+     "cited_as": "Acts 1:7",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 delegated-authority pattern list",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {},
    "second_check": {},
    "note": ""
@@ -5747,11 +5793,33 @@
      "status": "anchor",
      "matched_source": "",
      "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14985,
+     "cited_as": "Acts 10:48",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 mention: baptized in the Name (baptismal-formula observation)",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
-   "translations": {},
-   "second_check": {},
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "So he commanded them to be baptized in the Name of the Lord. Then prayed they him to tary certaine dayes.",
+     "source": "https://ebible.org/enggnv/ACT10.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "So he commanded them to be baptized in the Name of the Lord. Then prayed they him to tary certaine dayes.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/10",
+     "result": "1.000"
+    }
+   },
    "note": ""
   },
   {
@@ -6227,11 +6295,33 @@
      "status": "anchor",
      "matched_source": "",
      "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14985,
+     "cited_as": "Acts 19:5",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 mention: baptized in the Name (baptismal-formula observation)",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
-   "translations": {},
-   "second_check": {},
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And when they heard it, they were baptized in the Name of the Lord Iesus.",
+     "source": "https://ebible.org/enggnv/ACT19.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "And when they heard it, they were baptized in the Name of the Lord Iesus.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/19",
+     "result": "1.000"
+    }
+   },
    "note": ""
   },
   {
@@ -6901,11 +6991,33 @@
      "status": "anchor",
      "matched_source": "",
      "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14985,
+     "cited_as": "Acts 2:38",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 mention: baptized in the Name (baptismal-formula observation)",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
-   "translations": {},
-   "second_check": {},
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then Peter said vnto them, Amend your liues, and bee baptized euery one of you in the Name of Iesus Christ for the remission of sinnes: and ye shall receiue the gift of the holy Ghost.",
+     "source": "https://ebible.org/enggnv/ACT02.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then Peter said vnto them, Amend your liues, and bee baptized euery one of you in the Name of Iesus Christ for the remission of sinnes: and ye shall receiue the gift of the holy Ghost.",
+     "source": "https://textusreceptusbibles.com/Geneva/44/2",
+     "result": "1.000"
+    }
+   },
    "note": ""
   },
   {
@@ -7260,11 +7372,33 @@
      "status": "anchor",
      "matched_source": "",
      "note": "apostles baptize \"in the Name of Jesus Christ\" — observation (2) of 5.2."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14985,
+     "cited_as": "Acts 8:16",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 mention: baptized in the Name (baptismal-formula observation)",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
-   "translations": {},
-   "second_check": {},
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "(For as yet, hee was fallen downe on none of them, but they were baptized onely in the Name of the Lord Iesus.)",
+     "source": "https://ebible.org/enggnv/ACT08.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "text": "(For as yet, hee was fallen downe on none of them, but they were baptized onely in the Name of the Lord Iesus.)",
+     "source": "https://textusreceptusbibles.com/Geneva/44/8",
+     "result": "1.000"
+    }
+   },
    "note": ""
   },
   {
@@ -8385,6 +8519,16 @@
      "status": "seat",
      "note": "confirmed",
      "quote_kind": "PASSAGE C seat (re-present, banked==fresh)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15089,
+     "cited_as": "Colossians 2:9",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: fullness of the Godhead bodily",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -9734,6 +9878,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15002,
+     "cited_as": "Deuteronomy 6:4",
+     "quotes": [
+      "the LORD our God is one LORD."
+     ],
+     "status": "confirmed",
+     "note": "W59: echo NETS-voiced (the NETS row text carries the same reading) — no flag",
+     "quote_kind": "prose-ref"
     }
    ],
    "verified": "2026-11-12",
@@ -11993,9 +12149,21 @@
      "quotes": [],
      "status": "anchor",
      "note": "ESTABLISHED block re-cites Ex 23:20."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14666,
+     "cited_as": "Exodus 23:20",
+     "quotes": [
+      "And look, I am sending my angel in front of you in order to guard you on the way … Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him."
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat (draft ellipsis honored at the v20 cut)",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.",
@@ -12113,9 +12281,21 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE B/D prose (My Name is in Him)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14666,
+     "cited_as": "Exodus 23:21",
+     "quotes": [
+      "And look, I am sending my angel in front of you in order to guard you on the way … Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him."
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat; Greek phrase kept in the observation prose",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.",
@@ -12139,6 +12319,11 @@
     "trb": {
      "result": "agree (eBible=TRB)",
      "url": "https://textusreceptusbibles.com/Geneva/2/23"
+    },
+    "greek_swete": {
+     "text": "Οὐ παραδέξῃ ἀκοὴν ματαίαν · οὐ συνκαταθήσῃ μετὰ τοῦ ἀδίκου γενέσθαι μάρτυς ἄδικος . οὐκ ἔσῃ μετὰ πλειόνων ἐν κακίᾳ · οὐ προσθήσῃ μετὰ πλήθους ἐκκλῖναι μετὰ πλειόνων , ὥστε ἐκκλεῖσαι κρίσιν . καὶ πένητα οὐκ ἐλεήσεις ἐν κρίσει . Ἐὰν δὲ συναντήσῃς τῷ βοὶ τοῦ ἐχθροῦ σου ἢ τῷ ὑποζυγίῳ αὐτοῦ πλανωμένοις , ἀποστρέψας ἀποδώσεις αὐτῷ . ἐὰν δὲ ἴδῃς τὸ ὑποζύγιον τοῦ ἐχθροῦ σου πεπτωκὸς ὑπὸ τὸν γόμον αὖ · τοῦ",
+     "source": "https://theancientbible.org/exodus-lxx-23/",
+     "result": "1.000"
     }
    }
   },
@@ -12254,9 +12439,21 @@
       "version": "nets",
       "text": "And God said to Moyses *(Moses)*, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’”"
      }
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14750,
+     "cited_as": "Exodus 3:14",
+     "quotes": [
+      "\"I am The One Who Is.\" … \"Thus shall you say to the sons of Israel, 'The One Who Is has sent me to you.'\" And God said again to Moyses *(Moses)*, … \"The Lord, the God of your fathers, … This is an everlasting name of mine and a memorial of generations to generations.\""
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat (draft ellipses honored); nets translation added",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "brenton": {
      "text": "And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.",
@@ -12269,6 +12466,11 @@
     "kjv": {
      "text": "And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.",
      "source": "https://ebible.org/eng-kjv2006/EXO03.htm"
+    },
+    "nets": {
+     "text": "And God said to Moyses, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’ “",
+     "source": "scripture-repository/editions/nets/nets_cache.json (02-exod walk; 12-isaiah/15-isaiah print masters)",
+     "date": "2026-11-12"
     }
    },
    "second_check": {
@@ -12349,9 +12551,21 @@
      "status": "confirmed",
      "matched_source": "brenton",
      "note": ""
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14750,
+     "cited_as": "Exodus 3:15",
+     "quotes": [
+      "\"I am The One Who Is.\" … \"Thus shall you say to the sons of Israel, 'The One Who Is has sent me to you.'\" And God said again to Moyses *(Moses)*, … \"The Lord, the God of your fathers, … This is an everlasting name of mine and a memorial of generations to generations.\""
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat; nets translation added",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-02",
+   "verified": "2026-11-12",
    "translations": {
     "brenton": {
      "text": "And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.",
@@ -12364,6 +12578,11 @@
     "kjv": {
      "text": "And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.",
      "source": "https://ebible.org/eng-kjv2006/EXO03.htm"
+    },
+    "nets": {
+     "text": "And God said again to Moyses, “Thus you shall say to the sons of Israel, ‘The Lord, the God of your fathers, God of Abraam and God of Isaak and God of Iakob, has sent me to you.’ This is an everlasting name of mine and a memorial of generations to generations.",
+     "source": "scripture-repository/editions/nets/nets_cache.json (02-exod walk; 12-isaiah/15-isaiah print masters)",
+     "date": "2026-11-12"
     }
    },
    "second_check": {
@@ -17945,9 +18164,19 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "Summary/coherence lists (a body prepared)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15083,
+     "cited_as": "Hebrews 10:5",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: descended when the body was prepared",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.",
@@ -20723,9 +20952,19 @@
      "status": "anchor",
      "matched_source": "nets",
      "note": "listed in the 2.1 observation’s LXX echo list"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15016,
+     "cited_as": "Isaiah 41:4",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 Isaiah cross-refs",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Who has wrought and done these things? The one calling her from the beginning of generations has called her. I, God, am first, and for the things that are coming, I am.",
@@ -20866,9 +21105,21 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE B prose (egw eimi echo)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14777,
+     "cited_as": "Isaiah 43:10",
+     "quotes": [
+      "so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me. I am God, and besides me there is none who saves. …"
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat (v10 back-half)",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Be my witnesses; I too am a witness, says the Lord God, and the servant whom I have chosen so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me.",
@@ -20892,9 +21143,21 @@
      "status": "anchor",
      "matched_source": "nets",
      "note": "listed in the 2.1 observation’s LXX echo list"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14777,
+     "cited_as": "Isaiah 43:13",
+     "quotes": [
+      "so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me. I am God, and besides me there is none who saves. …"
+     ],
+     "status": "confirmed",
+     "note": "W59: covered by the seat trailing ellipsis",
+     "quote_kind": "range-member"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Even from the beginning there is also no one who rescues from my hands; I will do it, and who will turn it back?",
@@ -20918,9 +21181,19 @@
      "status": "anchor",
      "matched_source": "nets",
      "note": "listed in the 2.1 observation’s LXX echo list"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15016,
+     "cited_as": "Isaiah 43:25",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 Isaiah cross-refs",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "I am, I am the one who blots out your acts of lawlessness, and I will not remember them at all.",
@@ -21747,9 +22020,21 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE B prose (egw eimi echo)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14783,
+     "cited_as": "Isaiah 46:4",
+     "quotes": [
+      "Until your old age, I am, and until you grow old, I am; I bear with you … I am God, and there is no other besides me …"
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat (draft cut after \"I bear with you\")",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Until your old age, I am, and until you grow old, I am; I bear with you; I have made, and I will set free; I will take up and save you.",
@@ -21873,9 +22158,21 @@
       "reason": "Maxim 4: OT seats NETS verbatim; LES differences noted where captured."
      },
      "applied": "2026-11-07"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14783,
+     "cited_as": "Isaiah 46:9",
+     "quotes": [
+      "Until your old age, I am, and until you grow old, I am; I bear with you … I am God, and there is no other besides me …"
+     ],
+     "status": "confirmed",
+     "note": "W59 NETS seat",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "and remember the former things of old, because I am God, and there is no other besides me,",
@@ -21942,9 +22239,19 @@
      "status": "anchor",
      "quote_kind": "mention",
      "note": "Draft observation quotes Geneva; banked as GNV text."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15016,
+     "cited_as": "Isaiah 48:12",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 Isaiah cross-refs",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.",
@@ -23311,9 +23618,19 @@
      ],
      "status": "confirmed",
      "note": "Seat reused from the banked COS-01/COS-19 NETS text."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15085,
+     "cited_as": "Isaiah 7:14",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: born of the virgin",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "nets": {
      "text": "Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.",
@@ -25418,9 +25735,21 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "QUESTION option (A)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15124,
+     "cited_as": "John 10:30",
+     "quotes": [
+      "I and the Father are one"
+     ],
+     "status": "confirmed",
+     "note": "W59 option (A) mention — flag standing from the Zech-13:7 observation",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "I and my Father are one.",
@@ -26216,9 +26545,21 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block aligned with the Geneva edition (word-for-word at modern spelling)."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14833,
+     "cited_as": "John 13:19",
+     "quotes": [
+      "From henceforth tell I you before it come, that when it is come to pass, ye might believe that I am he."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "From henceforth tell I you before it come, that when it is come to passe, ye might beleeue that I am he.",
@@ -26239,6 +26580,16 @@
      "text": "draft Greek = BibleHub /text/ Nestle verse text",
      "source": "https://biblehub.com/text/john/13-19.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    },
+    "trb_fresh": {
+     "text": "From henceforth tell I you before it come, that when it is come to passe, ye might beleeue that I am he.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/13",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπ’ ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι, ἵνα πιστεύητε ὅταν γένηται ὅτι ἐγώ εἰμι. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπ' ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι, ἵνα πιστεύητε ὅταν γένηται ὅτι ἐγώ εἰμι. ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἀπ' ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι, ἵνα πιστεύητε πιστεύσητε ὅταν γένηται ὅτι ἐγώ εἰμι. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἀπ’ ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι, ἵνα, ὅταν γένηται, πιστεύσητε ὅτι ἐγώ εἰμι. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπ’ ἄρτι λέγω ὑμῖν π",
+     "source": "https://biblehub.com/text/john/13-19.htm",
+     "result": "1.000"
     }
    },
    "note": ""
@@ -26336,6 +26687,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14959,
+     "cited_as": "John 14:10",
+     "quotes": [
+      "Believest thou not, that I am in the Father, and the Father is in me? The words that I speak unto you, I speak not of myself: but the Father that dwelleth in me, he doeth the works."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present (fresh JHN14 eBible + TRB 43/14 assert passed)",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -26348,13 +26711,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.",
-     "source": "https://www.textusreceptusbibles.com/Geneva/43/14",
-     "result": "EXACT (normalized per-verse, eBible==TRB)"
+     "source": "https://textusreceptusbibles.com/Geneva/43/14",
+     "result": "1.000"
     },
     "greek_biblehub_fresh": {
-     "text": "οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ λέγω ὑμῖν ἀπ’ ἐμαυτοῦ οὐ λαλῶ· ὁ δὲ Πατὴρ ἐν ἐμοὶ μένων ποιεῖ τὰ ἔργα αὐτοῦ.",
-     "source": "https://biblehub.com/text/john/14-10.htm (WH/Nestle print)",
-     "result": "WH v10 == draft Greek verbatim on the drafted span"
+     "text": "οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ Πατρὶ καὶ ὁ Πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ λέγω ὑμῖν ἀπ’ ἐμαυτοῦ οὐ λαλῶ· ὁ δὲ Πατὴρ ἐν ἐμοὶ μένων ποιεῖ τὰ ἔργα αὐτοῦ. ΚΑΤΑ ΙΩΑΝΝΗΝ οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ πατρὶ καὶ ὁ πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήματα ἃ ἐγὼ λέγω ὑμῖν ἀπ' ἐμαυτοῦ οὐ λαλῶ· ὁ δὲ πατὴρ ἐν ἐμοὶ μένων ποιεῖ τὰ ἔργα αὐτοῦ. ΚΑΤΑ ΙΩΑΝΝΗΝ ] οὐ πιστεύεις ὅτι ἐγὼ ἐν τῷ πατρὶ καὶ ὁ πατὴρ ἐν ἐμοί ἐστιν; τὰ ῥήμ",
+     "source": "https://biblehub.com/text/john/14-10.htm",
+     "result": "1.000"
     }
    },
    "second_checks": {
@@ -27893,9 +28256,21 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "PASSAGE E two-witness list (bears the Father's Name)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14690,
+     "cited_as": "John 17:11",
+     "quotes": [
+      "Holy Father, keep them in thy Name, even them whom thou hast given me … While I was with them in the world, I kept them in thy Name: those that thou gavest me …"
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; print colon kept; Name-clause selection per the draft",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.",
@@ -27914,8 +28289,13 @@
     },
     "trb_fresh": {
      "text": "And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.",
-     "source": "textusreceptusbibles.com/Geneva/43/17",
-     "result": "agree (1.000)"
+     "source": "https://textusreceptusbibles.com/Geneva/43/17",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ πρὸς σὲ ἔρχομαι. Πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, ἵνα ὦσιν ἓν καθὼς ἡμεῖς. ΚΑΤΑ ΙΩΑΝΝΗΝ καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ πρὸς σὲ ἔρχομαι. πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, ἵνα ὦσιν ἓν καθὼς ἡμεῖς. ΚΑΤΑ ΙΩΑΝΝΗΝ ] καὶ οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν ",
+     "source": "https://biblehub.com/text/john/17-11.htm",
+     "result": "1.000"
     }
    }
   },
@@ -27949,9 +28329,21 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14690,
+     "cited_as": "John 17:12",
+     "quotes": [
+      "Holy Father, keep them in thy Name, even them whom thou hast given me … While I was with them in the world, I kept them in thy Name: those that thou gavest me …"
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; the oneness clause stays under the draft ellipsis (Passage A examines it)",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.",
@@ -27970,8 +28362,13 @@
     },
     "trb_fresh": {
      "text": "While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.",
-     "source": "textusreceptusbibles.com/Geneva/43/17",
-     "result": "agree (1.000)"
+     "source": "https://textusreceptusbibles.com/Geneva/43/17",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὅτε ἤμην μετ’ αὐτῶν, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. ΚΑΤΑ ΙΩΑΝΝΗΝ Ὅτε ἤμην μετ' αὐτῶν ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι, καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ. ΚΑΤΑ ΙΩΑΝΝΗΝ ] Ὅτε ἤμην μετ' αὐτῶν ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόμ",
+     "source": "https://biblehub.com/text/john/17-12.htm",
+     "result": "1.000"
     }
    }
   },
@@ -28629,6 +29026,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15003,
+     "cited_as": "John 17:3",
+     "quotes": [
+      "the only true God."
+     ],
+     "status": "confirmed",
+     "note": "W59 implication bullet — flag 33",
+     "quote_kind": "prose-ref"
     }
    ],
    "verified": "2026-11-12",
@@ -28657,6 +29066,11 @@
      "source": "biblehub.com/text/john/17-3",
      "result": "agree (1.000)"
     }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-92 implication bullet (canon 15003) quotes \"the only true God.\" KJV-voiced; the 1599 prints \"the onely very God\" (EB==TRB) — italic KJV attribution or re-voice awaits Gideon (wave-56 1JN.5.20 class)",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -28939,9 +29353,21 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14841,
+     "cited_as": "John 18:5",
+     "quotes": [
+      "They answered him, Jesus of Nazareth. Jesus said unto them, I am he. Now Judas also which betrayed him, stood with them."
+     ],
+     "status": "confirmed",
+     "note": "W59; Iudas->Judas fold",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "They answered him, Iesus of Nazareth. Iesus sayde vnto them, I am hee. Nowe Iudas also which betraied him, stoode with them.",
@@ -28962,6 +29388,16 @@
      "text": "draft Greek = BibleHub /text/ Nestle verse text",
      "source": "https://biblehub.com/text/john/18-5.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    },
+    "trb_fresh": {
+     "text": "They answered him, Iesus of Nazareth. Iesus sayde vnto them, I am hee. Nowe Iudas also which betraied him, stoode with them.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/18",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπεκρίθησαν αὐτῷ Ἰησοῦν τὸν Ναζωραῖον. λέγει αὐτοῖς Ἐγώ εἰμι. εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ’ αὐτῶν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθησαν αὐτῷ Ἰησοῦν τὸν Ναζωραῖον. λέγει αὐτοῖς Ἐγώ εἰμι. ἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ' αὐτῶν. ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἀπεκρίθησαν αὐτῷ Ἰησοῦν τὸν Ναζωραῖον. λέγει αὐτοῖς Ἐγώ εἰμι. ἱστήκει εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ' αὐτῶν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἀπεκ",
+     "source": "https://biblehub.com/text/john/18-5.htm",
+     "result": "1.000"
     }
    },
    "note": ""
@@ -28982,9 +29418,21 @@
      "status": "confirmed-excerpt",
      "matched_source": "gnv",
      "note": "Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14841,
+     "cited_as": "John 18:6",
+     "quotes": [
+      "As soon then as he had said unto them, I am he, they went away backwards, and fell to the ground."
+     ],
+     "status": "confirmed",
+     "note": "W59; the draft v6 paraphrase \"When he had then said\" replaced by the 1599 \"As soon then as he had said\" — row-noted",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Assoone then as hee had saide vnto them, I am hee, they went away backewardes, and fell to the grounde.",
@@ -29005,6 +29453,16 @@
      "text": "draft Greek = BibleHub /text/ Nestle verse text",
      "source": "https://biblehub.com/text/john/18-6.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    },
+    "trb_fresh": {
+     "text": "Assoone then as hee had saide vnto them, I am hee, they went away backewardes, and fell to the grounde.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/18",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὡς οὖν εἶπεν αὐτοῖς Ἐγώ εἰμι, ἀπῆλθαν εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί. ΚΑΤΑ ΙΩΑΝΝΗΝ ὡς οὖν εἶπεν αὐτοῖς Ἐγώ εἰμι, ἀπῆλθαν εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί. ΚΑΤΑ ΙΩΑΝΝΗΝ ] ὡς οὖν εἶπεν αὐτοῖς Ἐγώ εἰμι, ἀπῆλθαν ἀπῆλθον εἰς τὰ ὀπίσω καὶ ἔπεσαν χαμαί. ΚΑΤΑ ΙΩΑΝΝΗΝ Ὡς οὖν εἴπεν αὐτοῖς ὅτι Ἐγώ εἰμι, ἀπῆλθον εἰς τὰ ὀπίσω, καὶ ἔπεσον χαμαί. ΚΑΤΑ ΙΩΑΝΝΗΝ ὡς οὖν εἶπεν αὐτοῖς ὅτι ἐγώ εἰμι, ἀπῆλθον εἰς τὰ ὀπίσω κα",
+     "source": "https://biblehub.com/text/john/18-6.htm",
+     "result": "1.000"
     }
    },
    "note": ""
@@ -29614,9 +30072,19 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15084,
+     "cited_as": "John 3:13",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 synthesis bullet",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.",
@@ -30104,9 +30572,19 @@
      "status": "prose-ref",
      "quote_kind": "prose-ref",
      "note": "COS-89 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15086,
+     "cited_as": "John 5:19",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: walking in the Father authority",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.",
@@ -30666,9 +31144,19 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15084,
+     "cited_as": "John 6:38",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 synthesis bullet",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.",
@@ -30884,9 +31372,19 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15084,
+     "cited_as": "John 6:62",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 synthesis bullet",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "What then if yee should see that Sonne of man ascend vp where he was before?",
@@ -31364,9 +31862,21 @@
      "status": "confirmed",
      "matched_source": "gnv",
      "note": "Draft block aligned with the Geneva edition (word-for-word at modern spelling)."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14809,
+     "cited_as": "John 8:24",
+     "quotes": [
+      "I said therefore unto you, That ye shall die in your sins: for except ye believe, that I am he, ye shall die in your sins."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "I said therefore vnto you, That ye shall die in your sinnes: for except ye beleeue, that I am he, ye shall die in your sinnes.",
@@ -31387,6 +31897,16 @@
      "text": "draft Greek = BibleHub /text/ Nestle verse text",
      "source": "https://biblehub.com/text/john/8-24.htm",
      "result": "verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)"
+    },
+    "trb_fresh": {
+     "text": "I said therefore vnto you, That ye shall die in your sinnes: for except ye beleeue, that I am he, ye shall die in your sinnes.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/8",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἶπον οὖν ὑμῖν ὅτι ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν· ἐὰν γὰρ μὴ πιστεύσητε ὅτι ἐγώ εἰμι, ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν. ΚΑΤΑ ΙΩΑΝΝΗΝ εἶπον οὖν ὑμῖν ὅτι ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν· ἐὰν γὰρ μὴ πιστεύσητε ὅτι ἐγώ εἰμι, ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν. ΚΑΤΑ ΙΩΑΝΝΗΝ ] εἶπον οὖν ὑμῖν ὅτι ἀποθανεῖσθε ἐν ταῖς ἁμαρτίαις ὑμῶν· ἐὰν γὰρ μὴ πιστεύσητε ὅτι ἐγώ εἰμι, ἀποθανεῖσθε ἐν ταῖς ἁμαρτία",
+     "source": "https://biblehub.com/text/john/8-24.htm",
+     "result": "1.000"
     }
    },
    "note": ""
@@ -31423,6 +31943,18 @@
      "status": "anchor",
      "note": "Coherence point 3. BH john-8-28 refreshed; the 8:28-29 Geneva seat re-presented in Q3 (canon 6319).",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14817,
+     "cited_as": "John 8:28",
+     "quotes": [
+      "Then said Jesus unto them, When ye have lift up the Son of man, then shall ye know that I am he, and that I do nothing of myself, but as my Father hath taught me, so I speak these things."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; print tail restored (\"so I speak these things\")",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -31447,6 +31979,16 @@
      "text": "εἶπενeipen οὖνoun [αὐτοῖς]autois ὁho ἸησοῦςIēsous ὍτανHotan ὑψώσητεhypsōsēte τὸνton ΥἱὸνHuion τοῦtou ἀνθρώπου,anthrōpou τότεtote γνώσεσθεgnōsesthe ὅτιhoti ἐγώegō εἰμι,eimi καὶkai ἀπ’ap’ ἐμαυτοῦemautou ποιῶpoiō οὐδέν,ouden ἀλλὰalla καθὼςkathōs ἐδίδαξένedidaxen μεme ὁho Πατὴρ,Patēr ταῦταtauta λαλῶ.lalō",
      "source": "https://biblehub.com/text/john/8-28.htm",
      "result": "draft Greek verified vs WH/Nestle (BibleHub); variants noted"
+    },
+    "trb_fresh": {
+     "text": "Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/8",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἶπεν οὖν ὁ Ἰησοῦς Ὅταν ὑψώσητε τὸν Υἱὸν τοῦ ἀνθρώπου, τότε γνώσεσθε ὅτι ἐγώ εἰμι, καὶ ἀπ’ ἐμαυτοῦ ποιῶ οὐδέν, ἀλλὰ καθὼς ἐδίδαξέν με ὁ Πατὴρ, ταῦτα λαλῶ. ΚΑΤΑ ΙΩΑΝΝΗΝ εἶπεν οὖν ὁ Ἰησοῦς Ὅταν ὑψώσητε τὸν υἱὸν τοῦ ἀνθρώπου, τότε γνώσεσθε ὅτι ἐγώ εἰμι, καὶ ἀπ' ἐμαυτοῦ ποιῶ οὐδέν, ἀλλὰ καθὼς ἐδίδαξέν με ὁ πατὴρ ταῦτα λαλῶ. ΚΑΤΑ ΙΩΑΝΝΗΝ ] εἶπεν οὖν [αὐτοῖς] ὁ Ἰησοῦς Ὅταν ὑψώσητε τὸν υἱὸν τοῦ ἀνθρώπου,",
+     "source": "https://biblehub.com/text/john/8-28.htm",
+     "result": "1.000"
     }
    },
    "note": "Draft Greek word-order: οὐδὲν ποιῶ (WH/BibleHub prints ποιῶ οὐδέν) — variant recorded; substance identical. Draft English = modern-spelled Geneva verbatim."
@@ -31665,9 +32207,21 @@
      "status": "seat",
      "note": "confirmed",
      "quote_kind": "PASSAGE B seat (re-present, banked==fresh)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14825,
+     "cited_as": "John 8:58",
+     "quotes": [
+      "Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present (W58 seat line lifted)",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.",
@@ -31699,6 +32253,16 @@
     "trb": {
      "result": "agree (eBible=TRB, ratio 0.92)",
      "url": "https://textusreceptusbibles.com/Geneva/43/8"
+    },
+    "trb_fresh": {
+     "text": "Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/8",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ ] εἶπεν αὐτοῖς Ἰησοῦς Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι ἐγὼ εἰμί. ΚΑΤΑ ΙΩΑΝΝΗΝ Εἴπεν αὐτοῖς ὁ Ἰησοῦς, Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰμ γενέσθαι, ἐγώ εἰμι. ΚΑΤΑ ΙΩΑΝΝΗΝ εἶπεν αὐτοῖς ὁ Ἰησοῦς· Ἀμὴν ἀμὴν λέγω ὑμῖν, πρὶν Ἀβραὰ",
+     "source": "https://biblehub.com/text/john/8-58.htm",
+     "result": "1.000"
     }
    }
   },
@@ -34220,9 +34784,19 @@
      ],
      "status": "confirmed",
      "note": "1.1 GNV seat (joined from 1:22) — BibleHub /text/ Greek exact: Idou he parthenos ... Meth' hemon ho Theos."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15085,
+     "cited_as": "Matthew 1:23",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: born of the virgin",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Behold, a virgine shalbe with childe, and shall beare a sonne, and they shall call his name Emmanuel, which is by interpretation, God with vs.",
@@ -36292,9 +36866,21 @@
      "status": "confirmed",
      "note": "(1) list: all authority received from the Father",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14901,
+     "cited_as": "Matthew 28:18",
+     "quotes": [
+      "And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-10",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.",
@@ -36319,6 +36905,16 @@
      "text": "And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.",
      "source": "https://textusreceptusbibles.com/Geneva/40/28",
      "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
+    },
+    "trb_fresh": {
+     "text": "And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.",
+     "source": "https://textusreceptusbibles.com/Geneva/40/28",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς. ΚΑΤΑ ΜΑΤΘΑΙΟΝ καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς· ΚΑΤΑ ΜΑΤΘΑΙΟΝ ] καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων Ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς· ΚΑΤΑ ΜΑΤΘΑΙΟΝ Καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς, λέγων, Ἐδόθη μοι πᾶσα ἐξουσία ἐ",
+     "source": "https://biblehub.com/text/matthew/28-18.htm",
+     "result": "1.000"
     }
    }
   },
@@ -36354,9 +36950,21 @@
      "status": "confirmed",
      "note": "SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14977,
+     "cited_as": "Matthew 28:19",
+     "quotes": [
+      "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost,"
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; the print single \"of the\" — W53 class",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,",
@@ -36375,9 +36983,14 @@
      "result": "eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)"
     },
     "greek_biblehub_fresh": {
-     "text": "πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ Πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος· ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺ | διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδοὺ ἐγὼ μεθ ὑμῶν εἰμὶ πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς τηρεῖν πάντα ὅσα ἐνετειλάμην ὑμῖν· καὶ ἰδού, ἐγὼ μεθ’ ὑμῶν εἰμι πάσας τὰς ἡμέρας ἕως τῆς συντελείας τοῦ αἰῶνος. Ἀμήν. ΚΑΤΑ ΜΑΤΘΑΙΟΝ διδάσκοντες αὐτοὺς ",
-     "source": "biblehub.com/text/ pages (WH)",
-     "result": "draft Matt 28:19-20 Greek == BibleHub WH pages joined, set containment (case class only)"
+     "text": "πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ Πατρὸς καὶ τοῦ Υἱοῦ καὶ τοῦ Ἁγίου Πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος, ΚΑΤΑ ΜΑΤΘΑΙΟΝ ] πορευθέντες οὖν μαθητεύσατε πάντα τὰ ἔθνη, βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος",
+     "source": "https://biblehub.com/text/matthew/28-19.htm",
+     "result": "1.000"
+    },
+    "trb_fresh": {
+     "text": "Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,",
+     "source": "https://textusreceptusbibles.com/Geneva/40/28",
+     "result": "1.000"
     }
    },
    "note": ""
@@ -39276,9 +39889,19 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14717,
+     "cited_as": "Philippians 2:10",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: the legal basis for every knee bowing",
+     "quote_kind": "reference"
     }
    ],
-   "verified": "2026-11-07",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,",
@@ -39535,9 +40158,21 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "COS-90 cross-witness mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14708,
+     "cited_as": "Philippians 2:9",
+     "quotes": [
+      "Wherefore God hath also highly exalted him, and given him a Name above every name,"
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present (W56-verified print line)",
+     "quote_kind": "seat"
     }
    ],
-   "verified": "2026-11-11",
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,",
@@ -39554,13 +40189,13 @@
    "second_check": {
     "trb_fresh": {
      "text": "Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,",
-     "source": "https://www.textusreceptusbibles.com/Geneva/50/2",
-     "result": "agree exact (EB==TRB)"
+     "source": "https://textusreceptusbibles.com/Geneva/50/2",
+     "result": "1.000"
     },
     "greek_biblehub_fresh": {
-     "text": "διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ Διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διό καί ὁ θεός αὐτός ὑπερυψόω καί χαρίζομαι αὐτός ὁ ὄνομα ὁ ὑπέρ πᾶς ὄνομα ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσε, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν ὁ ὄνομα Ἰησοῦς πᾶς γόνυ κάμπτω ἐπουράνιος καί ἐπίγειος καί καταχθόνιος ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ἵνα ἐν τῷ ὀνόματι Ἰησοῦ πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ ἐπιγείων καὶ καταχθονίων καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν Θεοῦ Πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι ΚΥΡΙΟΣ ΙΗΣΟΥΣ ΧΡΙΣΤΟΣ εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς χριστός, εἰς δόξαν θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καί πᾶς γλῶσσα ἐξομολογέω ὅτι κύριος Ἰησοῦς Χριστός εἰς δόξα θεός πατήρ ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι Κύριος Ἰησοῦς Χριστὸς, εἰς δόξαν Θεοῦ πατρός. ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός καὶ πᾶσα γλῶσσα ἐξομολογήσηται ὅτι κύριος Ἰησοῦς Χριστὸς εἰς δόξαν θεοῦ πατρός.",
-     "source": "https://biblehub.com/text/philippians/2-9, philippians/2-10, philippians/2-11.htm",
-     "result": "set-containment 1.000 across 2-9 + 2-10 + 2-11"
+     "text": "διὸ καὶ ὁ Θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ ] διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ τὸ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα, ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ Διὸ καὶ ὁ θεὸς αὐτὸν ὑπερύψωσεν, καὶ ἐχαρίσατο αὐτῷ ὄνομα τὸ ὑπὲρ πᾶν ὄνομα· ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ διὸ καὶ ὁ",
+     "source": "https://biblehub.com/text/philippians/2-9.htm",
+     "result": "1.000"
     }
    }
   },
@@ -43119,6 +43754,18 @@
      "status": "confirmed",
      "note": "Seat 19:11-16 (ellipsis over vv. 14-15 per draft). Seat prints the 1599 modern-spelled; the print's lowercase 'true' and the comma after 'called' kept (draft prints 'Faithful and True').",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14729,
+     "cited_as": "Revelation 19:11",
+     "quotes": [
+      "…he that sat upon him, was called, Faithful and true … he had a name written, that no man knew but himself … and his name is called THE WORD OF GOD … And he hath upon his garment, and upon his thigh a name written, THE KINGS *(KING)* OF KINGS, AND LORD OF LORDS."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; the draft KJV caps no-comma voicing replaced by the 1599 print",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -43135,9 +43782,9 @@
      "result": "EXACT (normalized per-verse, eBible==TRB)"
     },
     "greek_biblehub_fresh": {
-     "text": "Καὶ Kai εἶδον eidon τὸν ton οὐρανὸν ouranon ἠνεῳγμένον, ēneōgmenon καὶ kai ἰδοὺ idou ἵππος hippos λευκός, leukos καὶ kai ὁ ho καθήμενος kathēmenos ἐπ’ ep’ αὐτὸν auton καλούμενος ⇔ kaloumenos Πιστὸς Pistos καὶ kai Ἀληθινός, Alēthinos καὶ kai ἐν en δικαιοσύνῃ dikaiosynē κρίνει krinei καὶ kai πολεμεῖ. polemei",
+     "text": "",
      "source": "https://biblehub.com/text/revelation/19-11.htm",
-     "result": "0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+     "result": "0.000"
     }
    }
   },
@@ -43156,6 +43803,18 @@
      "status": "confirmed",
      "note": "Seat 19:11-16; draft matches the print (sawe→saw fold class).",
      "quote_kind": "blockquote"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14729,
+     "cited_as": "Revelation 19:12",
+     "quotes": [
+      "…he that sat upon him, was called, Faithful and true … he had a name written, that no man knew but himself … and his name is called THE WORD OF GOD … And he hath upon his garment, and upon his thigh a name written, THE KINGS *(KING)* OF KINGS, AND LORD OF LORDS."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -43172,9 +43831,9 @@
      "result": "EXACT (normalized per-verse, eBible==TRB)"
     },
     "greek_biblehub_fresh": {
-     "text": "οἱ hoi δὲ de ὀφθαλμοὶ ophthalmoi αὐτοῦ autou [ὡς] hōs φλὸξ phlox πυρός, pyros καὶ kai ἐπὶ epi τὴν tēn κεφαλὴν kephalēn αὐτοῦ autou διαδήματα diadēmata πολλά, polla ἔχων echōn ὄνομα onoma γεγραμμένον gegrammenon ὃ ho οὐδεὶς oudeis οἶδεν oiden εἰ ei μὴ mē αὐτός, autos",
+     "text": "οἱ δὲ ὀφθαλμοὶ αὐτοῦ φλὸξ πυρός, καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλά, ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ αὐτός, ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ οἱ δὲ ὀφθαλμοὶ αὐτοῦ φλὸξ πυρός, καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλά, ἔχων ὄνομα γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ αὐτός, ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ ] οἱ δὲ ὀφθαλμοὶ αὐτοῦ [ὡς] φλὸξ πυρός, καὶ ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα πολλά, ἔχων ὄνομα γεγραμμένον ὃ ",
      "source": "https://biblehub.com/text/revelation/19-12.htm",
-     "result": "0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+     "result": "1.000"
     }
    }
   },
@@ -43213,6 +43872,18 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": "Re-presented in the (D)-close seat; see polish 28-wave-26."
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14729,
+     "cited_as": "Revelation 19:13",
+     "quotes": [
+      "…he that sat upon him, was called, Faithful and true … he had a name written, that no man knew but himself … and his name is called THE WORD OF GOD … And he hath upon his garment, and upon his thigh a name written, THE KINGS *(KING)* OF KINGS, AND LORD OF LORDS."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; the dipt clause stays under the draft ellipsis",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -43230,9 +43901,9 @@
      "note": "eBible=TRB ratio 1.000 fresh"
     },
     "greek_biblehub_fresh": {
-     "text": "draft Greek = BibleHub word-for-word (ratio 1.000)",
+     "text": "καὶ περιβεβλημένος ἱμάτιον βεβαμμένον αἵματι, καὶ κέκληται τὸ ὄνομα αὐτοῦ Ὁ Λόγος τοῦ Θεοῦ. ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ καὶ περιβεβλημένος ἱμάτιον ῤεραντισμένον αἵματι, καὶ κέκληται τὸ ὄνομα αὐτοῦ Ὁ Λόγος τοῦ Θεοῦ. ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ ] καὶ περιβεβλημένος ἱμάτιον ῤεραντισμένον βεβαμμένον αἵματι, καὶ κέκληται τὸ ὄνομα αὐτοῦ Ὁ Λόγος τοῦ Θεοῦ. ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ καὶ περιβεβλημένος ἱμάτιον βεβαμμένον αἵματι· κα",
      "source": "https://biblehub.com/text/revelation/19-13.htm",
-     "result": "verified 2026-11-11, ratio 1.000"
+     "result": "1.000"
     },
     "trb_fresh": {
      "text": "And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.",
@@ -43277,6 +43948,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14729,
+     "cited_as": "Revelation 19:16",
+     "quotes": [
+      "…he that sat upon him, was called, Faithful and true … he had a name written, that no man knew but himself … and his name is called THE WORD OF GOD … And he hath upon his garment, and upon his thigh a name written, THE KINGS *(KING)* OF KINGS, AND LORD OF LORDS."
+     ],
+     "status": "confirmed",
+     "note": "W59 re-present; THE KINGS *(KING)* OF KINGS gloss per the W24 print seat",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -43293,10 +43976,15 @@
      "result": "EXACT (normalized per-verse, eBible==TRB)"
     },
     "greek_biblehub_fresh": {
-     "text": "καὶ kai ἔχει echei ἐπὶ epi τὸ to ἱμάτιον himation καὶ kai ἐπὶ epi τὸν ton μηρὸν mēron αὐτοῦ autou ὄνομα onoma γεγραμμένον gegrammenon ΒΑΣΙΛΕΥΣ BASILEUS ΒΑΣΙΛΕΩΝ BASILEŌN ΚΑΙ KAI ΚΥΡΙΟΣ KYRIOS ΚΥΡΙΩΝ. KYRIŌN",
+     "text": "καὶ ἔχει ἐπὶ τὸ ἱμάτιον καὶ ἐπὶ τὸν μηρὸν αὐτοῦ ὄνομα γεγραμμένον ΒΑΣΙΛΕΥΣ ΒΑΣΙΛΕΩΝ ΚΑΙ ΚΥΡΙΟΣ ΚΥΡΙΩΝ. ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ καὶ ἔχει ἐπὶ τὸ ἱμάτιον καὶ ἐπὶ τὸν μηρὸν αὐτοῦ ὄνομα γεγραμμένον ΒΑΣΙΛΕΥΣ ΒΑΣΙΛΕΩΝ ΚΑΙ ΚΥΡΙΟΣ ΚΥΡΙΩΝ. ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ ] καὶ ἔχει ἐπὶ τὸ ἱμάτιον καὶ ἐπὶ τὸν μηρὸν αὐτοῦ ὄνομα γεγραμμένον ΒΑΣΙΛΕΥΣ ΒΑΣΙΛΕΩΝ ΚΑΙ ΚΥΡΙΟΣ ΚΥΡΙΩΝ. ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ Καὶ ἔχει ἐπὶ τὸ ἱμάτιον καὶ ἐπὶ ",
      "source": "https://biblehub.com/text/revelation/19-16.htm",
-     "result": "0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)"
+     "result": "1.000"
     }
+   },
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-92 Observation bullet (canon 14739) cites the title KJV-voiced \"KING OF KINGS AND LORD OF LORDS\"; the 1599 prints \"THE KINGS OF KINGS, AND LORD OF LORDS.\" (EB==TRB; the seat carries the *(KING)* gloss) — italic KJV attribution or re-voice awaits Gideon",
+    "awaiting": "Gideon"
    }
   },
   {
@@ -44288,6 +44976,16 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": ""
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15034,
+     "cited_as": "Revelation 22:4",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: the Name on our foreheads",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -59835,6 +60533,16 @@
       "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
       "url": "https://biblehub.com/text/"
      }
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15032,
+     "cited_as": "Romans 10:13",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: we call on the Name",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -60011,6 +60719,16 @@
       "result": "draft Greek set-containment 1.0 vs WH (biblehub joined pages)",
       "url": "https://biblehub.com/text/"
      }
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15032,
+     "cited_as": "Acts 22:16",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59: we call on the Name",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -60663,6 +61381,18 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "QUESTION option (B)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15126,
+     "cited_as": "John 20:28",
+     "quotes": [
+      "My Lord and my God"
+     ],
+     "status": "confirmed",
+     "note": "W59 option (B) mention",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -60709,6 +61439,18 @@
      "status": "prose-ref",
      "note": "anchor",
      "quote_kind": "QUESTION option (C)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15128,
+     "cited_as": "1 John 5:20",
+     "quotes": [
+      "This is the true God, and eternal life"
+     ],
+     "status": "confirmed",
+     "note": "W59 option (C) mention — flag 30 standing",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -60821,6 +61563,16 @@
      "status": "seat",
      "note": "confirmed",
      "quote_kind": "PASSAGE D seat (re-present, banked==fresh)"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15130,
+     "cited_as": "Hebrews 1:8",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 option (D) mention",
+     "quote_kind": "reference"
     }
    ],
    "verified": "2026-11-12",
@@ -61712,15 +62464,19 @@
      "status": "anchor",
      "note": "QUESTION option (D); the draft notes LXX/Hebrew read differently; option mention, no seat",
      "quote_kind": "prose-ref"
+    },
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15132,
+     "cited_as": "Isaiah 9:6 (LXX)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 option (E) mention",
+     "quote_kind": "reference"
     }
    ],
-   "verified": {
-    "date": "2026-11-12",
-    "editions": [
-     "gnv"
-    ],
-    "result": "confirmed"
-   },
+   "verified": "2026-11-12",
    "translations": {
     "gnv": {
      "text": "For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,",
@@ -61736,6 +62492,246 @@
     }
    },
    "note": "NETS Isaiah ch9 cache remains a glued mega-verse (parked) — no NETS text banked; option mention only."
+  },
+  {
+   "id": "ISA.43.11",
+   "ref": "Isaiah 43:11",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "I am God, and besides me there is none who saves.",
+     "source": "scripture-repository/editions/nets/nets_cache.json (02-exod walk; 12-isaiah/15-isaiah print masters)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14773,
+     "cited_as": "Isaiah 43:10-13 (NETS)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 NETS backfill; seat member (draft label 43:10-13, trailing ellipsis covers 12-13)",
+     "quote_kind": "range-member"
+    }
+   ],
+   "second_check": {},
+   "note": "NEW W59"
+  },
+  {
+   "id": "ISA.43.12",
+   "ref": "Isaiah 43:12",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "I declared and saved; I reproached, and there was no stranger among you. You are my witnesses; I too am a witness, says the Lord God.",
+     "source": "scripture-repository/editions/nets/nets_cache.json (02-exod walk; 12-isaiah/15-isaiah print masters)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14773,
+     "cited_as": "Isaiah 43:10-13 (NETS)",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 range-member: covered by the seat trailing ellipsis",
+     "quote_kind": "range-member"
+    }
+   ],
+   "second_check": {},
+   "note": "NEW W59"
+  },
+  {
+   "id": "JHN.5.43",
+   "ref": "John 5:43",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "I am come in my Fathers Name, and ye receiue me not: if another shall come in his owne name, him will ye receiue.",
+     "source": "https://ebible.org/enggnv/JHN05.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14916,
+     "cited_as": "John 5:43",
+     "quotes": [
+      "I am come in my Father's Name, and ye receive me not: if another shall come in his own name, him will ye receive."
+     ],
+     "status": "confirmed",
+     "note": "W59 — the decisive text; exact-modern zero-splice",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "I am come in my Fathers Name, and ye receiue me not: if another shall come in his owne name, him will ye receiue.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/5",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ Πατρός μου, καὶ οὐ λαμβάνετέ με· ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ, ἐκεῖνον λήμψεσθε. ΚΑΤΑ ΙΩΑΝΝΗΝ ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ πατρός μου καὶ οὐ λαμβάνετέ με· ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ, ἐκεῖνον λήμψεσθε. ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἐγὼ ἐλήλυθα ἐν τῷ ὀνόματι τοῦ πατρός μου καὶ οὐ λαμβάνετέ με· ἐὰν ἄλλος ἔλθῃ ἐν τῷ ὀνόματι τῷ ἰδίῳ, ἐκεῖνον λήμψεσθε. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐγὼ ",
+     "source": "https://biblehub.com/text/john/5-43.htm",
+     "result": "1.000"
+    }
+   },
+   "note": "NEW W59"
+  },
+  {
+   "id": "JHN.10.25",
+   "ref": "John 10:25",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus answered them, I tolde you, and ye beleeue not: the workes that I doe in my Fathers Name, they beare witnes of me.",
+     "source": "https://ebible.org/enggnv/JHN10.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14938,
+     "cited_as": "John 10:25",
+     "quotes": [
+      "Jesus answered them, I told you, and ye believe not: the works that I do in my Father's Name, they bear witness of me."
+     ],
+     "status": "confirmed",
+     "note": "W59 seat; print \"witnes\" folded modern",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus answered them, I tolde you, and ye beleeue not: the workes that I doe in my Fathers Name, they beare witnes of me.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "1.000"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Εἶπον ὑμῖν, καὶ οὐ πιστεύετε· τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ Πατρός μου, ταῦτα μαρτυρεῖ περὶ ἐμοῦ· ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Εἶπον ὑμῖν καὶ οὐ πιστεύετε· τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου ταῦτα μαρτυρεῖ περὶ ἐμοῦ· ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Εἶπον ὑμῖν καὶ οὐ πιστεύετε· τὰ ἔργα ἃ ἐγὼ ποιῶ ἐν τῷ ὀνόματι τοῦ πατρός μου ταῦτα μαρτυρ",
+     "source": "https://biblehub.com/text/john/10-25.htm",
+     "result": "1.000"
+    }
+   },
+   "note": "NEW W59"
+  },
+  {
+   "id": "MAT.10.40",
+   "ref": "Matthew 10:40",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "He that receiueth you, receiueth me: and hee that receiueth mee, receiueth him that hath sent me.",
+     "source": "https://ebible.org/enggnv/MAT10.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 14865,
+     "cited_as": "Matthew 10:40",
+     "quotes": [
+      "He that receiveth you, receiveth me: and he that receiveth me, receiveth him that sent me."
+     ],
+     "status": "confirmed",
+     "note": "W59 prose-ref: authorized-representation principle",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "He that receiueth you, receiueth me: and hee that receiueth mee, receiueth him that hath sent me.",
+     "source": "https://textusreceptusbibles.com/Geneva/40/10",
+     "result": "1.000"
+    }
+   },
+   "note": "NEW W59",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-92 prose quote (canon 14865) drops the 1599 print \"hath\" (\"receiveth him that sent me\" vs print \"receiueth him that hath sent me\", EB==TRB) — italic KJV attribution or re-voice awaits Gideon",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "JHN.8.19",
+   "ref": "John 8:19",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then saide they vnto him, Where is that Father of thine? Iesus answered, Ye neither know me, nor that Father of mine. If ye had knowen me, ye should haue knowen that Father of mine also.",
+     "source": "https://ebible.org/enggnv/JHN08.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15072,
+     "cited_as": "John 8:19",
+     "quotes": [
+      "If ye had known me, ye should have known my Father also."
+     ],
+     "status": "confirmed",
+     "note": "W59 prose-ref in the 8:58 resolution",
+     "quote_kind": "prose-ref"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then saide they vnto him, Where is that Father of thine? Iesus answered, Ye neither know me, nor that Father of mine. If ye had knowen me, ye should haue knowen that Father of mine also.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/8",
+     "result": "1.000"
+    }
+   },
+   "note": "NEW W59",
+   "flag": {
+    "kind": "proposed-correction",
+    "detail": "COS-92 prose quote (canon 15072) \"my Father also\" vs the 1599 print \"that Father of mine also\" (EB==TRB) — italic KJV attribution or re-voice awaits Gideon",
+    "awaiting": "Gideon"
+   }
+  },
+  {
+   "id": "LUK.24.47",
+   "ref": "Luke 24:47",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And that repentance, and remission of sinnes should be preached in his Name among all nations, beginning at Hierusalem.",
+     "source": "https://ebible.org/enggnv/LUK24.htm",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-92",
+     "section_label": "THE CHRIST OF SCRIPTURE — YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY",
+     "article_line": 15019,
+     "cited_as": "Luke 24:47",
+     "quotes": [],
+     "status": "confirmed",
+     "note": "W59 mention: apostles sent in His Name",
+     "quote_kind": "reference"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "And that repentance, and remission of sinnes should be preached in his Name among all nations, beginning at Hierusalem.",
+     "source": "https://textusreceptusbibles.com/Geneva/42/24",
+     "result": "1.000"
+    }
+   },
+   "note": "NEW W59 mention-anchor"
   }
  ]
 }

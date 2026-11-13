@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1198 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1205 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1369 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1376 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -22,10 +22,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Exodus 3:15 — CONFIRMED
 *cited as: brenton*
+- **NETS (Septuagint, modern):** “And God said again to Moyses, “Thus you shall say to the sons of Israel, ‘The Lord, the God of your fathers, God of Abraam and God of Isaak and God of Iakob, has sent me to you.’ This is an everlasting name of mine and a memorial of generations to generations.”
 - **Brenton LXX:** “And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.”
 - **Geneva 1599:** “And God spake further vnto Moses, Thus shalt thou say vnto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Izhak, and the God of Iaakob hath sent me vnto you: this is my Name for euer, and this is my memoriall vnto all ages.”
 - **KJV:** “And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
 
 ### Genesis 4:26 — CONFIRMED
@@ -264,10 +265,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ## Part Two — The Four Letters
 
 ### Exodus 3:15 — CONFIRMED
+- **NETS (Septuagint, modern):** “And God said again to Moyses, “Thus you shall say to the sons of Israel, ‘The Lord, the God of your fathers, God of Abraam and God of Isaak and God of Iakob, has sent me to you.’ This is an everlasting name of mine and a memorial of generations to generations.”
 - **Brenton LXX:** “And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.”
 - **Geneva 1599:** “And God spake further vnto Moses, Thus shalt thou say vnto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Izhak, and the God of Iaakob hath sent me vnto you: this is my Name for euer, and this is my memoriall vnto all ages.”
 - **KJV:** “And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.”
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
 
 ## Part Four — The Breath of Christ Upon His Disciples
@@ -414,11 +416,12 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ## Part Eight — The Great "I AM"
 
 ### Exodus 3:14 — COMMENTARY
+- **NETS (Septuagint, modern):** “And God said to Moyses, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’ “”
 - **Brenton LXX:** “And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.”
 - **Geneva 1599:** “And God answered Moses, I Am That I Am. Also he said, Thus shalt thou say vnto the children of Israel, I Am hath sent me vnto you.”
 - **KJV:** “And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.”
 - *Note:* Ehyeh Asher Ehyeh + renderings; all three canonical texts banked
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets — NETS 3:14 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs · trb ✓*
 
 ### 1 Corinthians 10:4 — CONFIRMED
@@ -544,8 +547,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 8:58 — CONFIRMED
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 8:59 — ANCHOR
 - **Geneva 1599:** “Then tooke they vp stones, to cast at him, but Iesus hid himselfe, and went out of the Temple: And hee passed through the middes of them, and so went his way.”
@@ -616,12 +619,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ## A Closing Word to the Body of Christ
 
 ### Exodus 3:15 — CONFIRMED
+- **NETS (Septuagint, modern):** “And God said again to Moyses, “Thus you shall say to the sons of Israel, ‘The Lord, the God of your fathers, God of Abraam and God of Isaak and God of Iakob, has sent me to you.’ This is an everlasting name of mine and a memorial of generations to generations.”
 - **Brenton LXX:** “And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.”
 - **Geneva 1599:** “And God spake further vnto Moses, Thus shalt thou say vnto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Izhak, and the God of Iaakob hath sent me vnto you: this is my Name for euer, and this is my memoriall vnto all ages.”
 - **KJV:** “And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.”
 - **Ruling — apply Brenton LXX exact:** “This is my name for ever, and my memorial to generations of generations.”
   (Rule: the article cites Exodus 3:15 Brenton twice — closing quote brought to Brenton's 'for ever... and my memorial'.)
-- *Checked 2026-11-02 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
 
 ### Psalm 124:8 — CONFIRMED
@@ -723,7 +727,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
   (Standing rule 1: OT seats NETS verbatim; LES row noted (not significantly different — both say "the virgin").)
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### John 1:1 — ANCHOR
@@ -752,14 +756,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - *Note:* Existing banked row now also cited by THE CHRIST OF SCRIPTURE.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Philippians 2:10 — ANCHOR
 *cited as: named reference in draft prose*
 - **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
 - **Ruling — SEAT:** 
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
 
 ### Philippians 2:11 — ANCHOR
@@ -902,7 +906,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Brenton LXX:** “and remember the former things that were of old: for I am God, and there is none other beside me,”
 - **Geneva 1599:** “Remember the former things of old: for I am God, and there is none other God, and there is nothing like me,”
 - **Ruling — PROPOSED-SEAT:** Maxim 4: OT seats NETS verbatim; LES differences noted where captured.
-- *Checked 2026-11-07 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### Isaiah 46:5 — CONFIRMED
@@ -1030,8 +1034,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
 - **Ruling — apply Geneva 1599 exact:** “And Jesus came, and spake unto them, saying, All power is given unto me, in heaven, and in earth.”
   ()
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
-- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### PS 2 1-2 — CONFIRMED
 *cited as: LXX Greek + Geneva rows in draft (book seat: NETS)*
@@ -1466,12 +1470,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Exodus 3:14 — CONFIRMED
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
+- **NETS (Septuagint, modern):** “And God said to Moyses, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’ “”
 - **Brenton LXX:** “And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.”
 - **Geneva 1599:** “And God answered Moses, I Am That I Am. Also he said, Thus shalt thou say vnto the children of Israel, I Am hath sent me vnto you.”
 - **KJV:** “And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “And God said to Moyses *(Moses)*, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’””
   ()
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, kjv*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
 - *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets — NETS 3:14 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs · trb ✓*
 
 ### Exodus 3:2 — CONFIRMED
@@ -1516,8 +1521,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - **Ruling — apply Geneva 1599 exact:** “Jesus said unto them, Verily, verily I say unto you, before Abraham was, I am.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ## THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses
 
@@ -1604,7 +1609,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): nets — NETS vv 20-21 verbatim vs 02-exod walk; seat-vs-cache asserted gloss-stripped · greek_rahlfs — Draft Greek = Rahlfs verbatim (97% word-set, apostrophe token only) · trb ✓*
 
 ### Exodus 23:21 — CONFIRMED
@@ -1613,24 +1618,24 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - **Ruling — apply NETS (Septuagint, modern) exact:** “> And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you. Mind yourself *(take care)*, and listen to him, and do not disobey him. For he shall not hold you in undue awe *(he will not spare you)*, for my name is upon him.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### John 17:11 — CONFIRMED
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
 - **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
 - **Ruling — apply Geneva 1599 exact:** “And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 17:12 — CONFIRMED
 *cited as: LXX Greek + "1599 Geneva" label in draft (book seat: NETS for OT / Geneva 1599 for NT)*
 - **Geneva 1599:** “While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.”
 - **Ruling — apply Geneva 1599 exact:** “And now am I no more in the world, but these are in the world, and I come to thee. Holy Father, keep them in thy Name, even them whom thou hast given me, that they may be one, as we are. While I was with them in the world, I kept them in thy Name: those that thou gavest me, have I kept, and none of them is lost, but the child of perdition, that the Scripture might be fulfilled.”
   ()
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v12 fragment = Nestle word-for-word · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v12 fragment = Nestle word-for-word · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ## THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step
 
@@ -1727,15 +1732,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - *Note:* Prose quotes the Geneva-family clause; the row keeps the Wave-7 NETS seat ("my name is upon him") with the attributed Geneva clause noted.
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### Exodus 23:20 — ANCHOR
 *cited as: prose ref*
 - **NETS (Septuagint, modern):** “And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you.”
 - **Geneva 1599:** “Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.”
 - *Note:* ESTABLISHED block re-cites Ex 23:20.
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): nets — NETS vv 20-21 verbatim vs 02-exod walk; seat-vs-cache asserted gloss-stripped · greek_rahlfs — Draft Greek = Rahlfs verbatim (97% word-set, apostrophe token only) · trb ✓*
 
 ### Genesis 16:7 — CONFIRMED
@@ -2111,7 +2116,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Brenton LXX:** “Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.”
 - **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
 - *Note:* Seat: NETS verbatim "the virgin shall be with child and bear a son" — draft voiced KJV "shall conceive and bear".
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### Hebrews 11:17-19 — CONFIRMED (EXCERPT)
@@ -2292,8 +2297,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - *Note:* Audit #5 established-observations list (bears the LORD's Name).
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### 1 Corinthians 8:6 — ANCHOR
 *cited as: audit bullet — reference only*
@@ -2397,7 +2402,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.”
 - *Note:* Seat modernizes eBible "dipt" to "dipped" with gloss *(the Geneva prints \"dipt\")*; edition prints the name in caps emphasis (THE WORD OF GOD), seat lower-cases per draft — both recorded under the modern-spelling flag. Draft Greek (βεβαμμένον αἵματι, περιβεβλημένος...) verified vs BibleHub /text/revelation/19-13.htm ratio 1.000.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ## THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation
 
@@ -2589,8 +2594,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### 1 Corinthians 8:6 — CONFIRMED
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
@@ -2601,7 +2606,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 3:13 — CONFIRMED
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
 - **Geneva 1599:** “For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 3-13*
 
 ### John 3:31 — CONFIRMED (EXCERPT)
@@ -2614,13 +2619,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 6:38 — CONFIRMED
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
 - **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · greek_biblehub_fresh — set-containment 1.000 across 6-38*
 
 ### John 6:62 — CONFIRMED
 *cited as: cross-witness seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599)*
 - **Geneva 1599:** “What then if yee should see that Sonne of man ascend vp where he was before?”
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96 · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 6-62*
 
 ### John 14:28 — ANCHOR
@@ -3235,7 +3240,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Brenton LXX:** “Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.”
 - **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
 - *Note:* Seat reused from the banked COS-01/COS-19 NETS text.
-- *Checked 2026-11-11 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
 - *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
 
 ### MIC 5 2 — CONFIRMED
@@ -3256,7 +3261,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: 1.1 GNV seat (joined from 1:22)*
 - **Geneva 1599:** “Behold, a virgine shalbe with childe, and shall beare a sonne, and they shall call his name Emmanuel, which is by interpretation, God with vs.”
 - *Note:* 1.1 GNV seat (joined from 1:22) — BibleHub /text/ Greek exact: Idou he parthenos ... Meth' hemon ho Theos.
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — he parthenos + Meth' hemon ho Theos confirmed exact*
 
 ### MAT 2 5 — ANCHOR
@@ -3703,74 +3708,74 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
 - **Geneva 1599:** “I said therefore vnto you, That ye shall die in your sinnes: for except ye beleeue, that I am he, ye shall die in your sinnes.”
 - *Note:* Draft block aligned with the Geneva edition (word-for-word at modern spelling).
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 8:58 — ANCHOR
 *cited as: prose ref (mention)*
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - *Note:* The draft marks “already cited” — mention in the 2.1 absolutes list.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 13:19 — CONFIRMED
 *cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
 - **Geneva 1599:** “From henceforth tell I you before it come, that when it is come to passe, ye might beleeue that I am he.”
 - *Note:* Draft block aligned with the Geneva edition (word-for-word at modern spelling).
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 18:5 — CONFIRMED (EXCERPT)
 *cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
 - **Geneva 1599:** “They answered him, Iesus of Nazareth. Iesus sayde vnto them, I am hee. Nowe Iudas also which betraied him, stoode with them.”
 - *Note:* Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 18:6 — CONFIRMED (EXCERPT)
 *cited as: seat (Geneva 1599, modern spelling as the draft voices; wording verified word-for-word 1599; eBible=TRB)*
 - **Geneva 1599:** “Assoone then as hee had saide vnto them, I am hee, they went away backewardes, and fell to the grounde.”
 - *Note:* Segments composed from the Geneva over the draft’s ellipsis span: segment 1 matches the draft’s wording (v. 5); segment 2 carries the Geneva’s “As soon then as” where the draft paraphrased “When he had then said” (v. 6); the comma as the Geneva prints.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Isaiah 41:4 — ANCHOR
 *cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
 - **NETS (Septuagint, modern):** “Who has wrought and done these things? The one calling her from the beginning of generations has called her. I, God, am first, and for the things that are coming, I am.”
 - *Note:* listed in the 2.1 observation’s LXX echo list
-- *Checked 2026-11-11 · editions fetched: nets*
+- *Checked 2026-11-12 · editions fetched: nets*
 
 ### Isaiah 43:10 — ANCHOR
 *cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
 - **NETS (Septuagint, modern):** “Be my witnesses; I too am a witness, says the Lord God, and the servant whom I have chosen so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me.”
 - *Note:* listed in the 2.1 observation’s LXX echo list
-- *Checked 2026-11-11 · editions fetched: nets*
+- *Checked 2026-11-12 · editions fetched: nets*
 
 ### Isaiah 43:13 — ANCHOR
 *cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
 - **NETS (Septuagint, modern):** “Even from the beginning there is also no one who rescues from my hands; I will do it, and who will turn it back?”
 - *Note:* listed in the 2.1 observation’s LXX echo list
-- *Checked 2026-11-11 · editions fetched: nets*
+- *Checked 2026-11-12 · editions fetched: nets*
 
 ### Isaiah 43:25 — ANCHOR
 *cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
 - **NETS (Septuagint, modern):** “I am, I am the one who blots out your acts of lawlessness, and I will not remember them at all.”
 - *Note:* listed in the 2.1 observation’s LXX echo list
-- *Checked 2026-11-11 · editions fetched: nets*
+- *Checked 2026-11-12 · editions fetched: nets*
 
 ### Isaiah 46:4 — ANCHOR
 *cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
 - **NETS (Septuagint, modern):** “Until your old age, I am, and until you grow old, I am; I bear with you; I have made, and I will set free; I will take up and save you.”
 - *Note:* listed in the 2.1 observation’s LXX echo list
-- *Checked 2026-11-11 · editions fetched: nets*
+- *Checked 2026-11-12 · editions fetched: nets*
 
 ### Isaiah 48:12 — ANCHOR
 *cited as: observation mention (anchor): the LORD’s absolute ἐγώ εἰμι (2.1 observation)*
 - **NETS (Septuagint, modern):** “Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.”
 - **Geneva 1599:** “Heare me, O Iaakob and Israel, my called, I am, I am the first, and I am the last.”
 - *Note:* listed in the 2.1 observation’s LXX echo list
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ### John 8:59 — ANCHOR
@@ -3826,7 +3831,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Acts 1:7 — ANCHOR
 *cited as: prose ref (mention-anchor)*
 - *Note:* cf. reference in the Mark 13:32 observation: the Father's kept authority.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: *
 
 ### John 3:29 — ANCHOR
 *cited as: prose ref (mention-anchor)*
@@ -4039,7 +4044,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.”
 - **Ruling — apply Geneva 1599 exact:** “Then answered Jesus, and said unto them, Verily, verily I say unto you, The Son can do nothing of himself, save that he seeth the Father do: for whatsoever things he doth, the same things doeth the Son in like manner.”
   (Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; draft Greek block drops, fragments recorded on the row.)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### John 5:30 — CONFIRMED
@@ -4055,7 +4060,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
 - **Ruling — apply Geneva 1599 exact:** “For I came down from heaven, not to do mine own will, but his will which hath sent me.”
   (The specified translation always prints verbatim in the seat (his word, 10 Nov 2026); Geneva 1599 mod-spelled as the draft voices it (standing practice).)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · greek_biblehub_fresh — set-containment 1.000 across 6-38*
 
 ### John 8:28 — CONFIRMED
@@ -4064,7 +4069,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Ruling — apply Geneva 1599 exact:** “Then said Jesus unto them, When ye have lift up the Son of man, then shall ye know that I am he, and that I do nothing of myself, but as my Father hath taught me, so I speak these things.”
   (Seat shape (his word, 6-7 Nov): NT seats Geneva 1599 verbatim, modern-spelled, full verse; word-order variant recorded.)
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 8:29 — CONFIRMED
 *cited as: gather-list ref (Greek + “1599 Geneva” label in draft; book seat: Geneva 1599 for NT)*
@@ -4137,16 +4142,16 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
 - **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
   (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
-- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Matthew 28:19 — CONFIRMED
 *cited as: blockquote mid-segment (span seat)*
 - **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
 - **Ruling — apply Geneva 1599 exact:** “All power is given unto me, in heaven, and in earth. Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Son, and the holy Ghost, Teaching them to observe all things, whatsoever I have commanded you: and lo, I am with you alway, until the end of the world, Amen.”
   (Seat shape (6-7 Nov): NT seats Geneva 1599 verbatim at modern spelling, composed edition-verbatim over the draft span; the draft Greek block drops.)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages joined, set containment (case class only)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — 1.000 · trb_fresh — 1.000*
 
 ### Matthew 28:20 — CONFIRMED
 *cited as: blockquote tail (span seat)*
@@ -4158,23 +4163,31 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Acts 10:48 — ANCHOR
 *cited as: prose ref (mention-anchor)*
+- **Geneva 1599:** “So he commanded them to be baptized in the Name of the Lord. Then prayed they him to tary certaine dayes.”
 - *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
 
 ### Acts 19:5 — ANCHOR
 *cited as: prose ref (mention-anchor)*
+- **Geneva 1599:** “And when they heard it, they were baptized in the Name of the Lord Iesus.”
 - *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
 
 ### Acts 2:38 — ANCHOR
 *cited as: prose ref (mention-anchor)*
+- **Geneva 1599:** “Then Peter said vnto them, Amend your liues, and bee baptized euery one of you in the Name of Iesus Christ for the remission of sinnes: and ye shall receiue the gift of the holy Ghost.”
 - *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
 
 ### Acts 8:16 — ANCHOR
 *cited as: prose ref (mention-anchor)*
+- **Geneva 1599:** “(For as yet, hee was fallen downe on none of them, but they were baptized onely in the Name of the Lord Iesus.)”
 - *Note:* apostles baptize "in the Name of Jesus Christ" — observation (2) of 5.2.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
 
 ### Acts 1:11 — CONFIRMED
 *cited as: blockquote tail-segment (span seat)*
@@ -4262,8 +4275,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: synthesis recap ref (mention)*
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
 - *Note:* synthesis item 24: he receives all authority from the Father after resurrection; item 25 commissions the worldwide proclamation.
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
-- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Matthew 5:17 — ANCHOR
 *cited as: synthesis item ref (mention-anchor)*
@@ -4763,7 +4776,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva seat*
 - **Geneva 1599:** “Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.”
 - **Ruling — SEAT:** Geneva NT seat; draft Greek blocks dropped per seat shape; draft wording where fold-equal
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched · greek_biblehub_fresh — set-containment 1.000 across 10-5*
 
 ### HEB 10 6 — CONFIRMED
@@ -4825,7 +4838,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Acts 1:7 — CONFIRMED
 *cited as: synthesis table*
 - **Ruling — SEAT:** use-upsert (pre-bank row; old text kept)
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: *
 
 ### Acts 2:33 — CONFIRMED
 *cited as: synthesis table*
@@ -4968,13 +4981,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### MAT 28 18 — ANCHOR
 *cited as: mention-anchor (observation (4): “Matches Matt 28:18 … explicitly received from the Father”)*
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
-- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Philippians 2:10 — ANCHOR
 *cited as: mention-anchor (observation (5): Paul applies Isa 45:23 to Jesus in Phil 2:10-11)*
 - **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
 
 ### Philippians 2:11 — ANCHOR
@@ -5120,7 +5133,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention (observation prose quote)*
 - **Geneva 1599:** “I and my Father are one.”
 - *Note:* Draft obs quotes “I and the Father are one” — the Geneva prints “I and my Father are one” (KJV-family wording, unattributed). Left verbatim; flagged for attribution.
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 
 ### Zechariah 14:3 — CONFIRMED
 *cited as: seat (14:3-5 group), NETS verbatim*
@@ -5160,13 +5173,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 
 ### Acts 1:7 — PROSE-REF
 *cited as: mention*
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: *
 
 ### MAT 28 18 — PROSE-REF
 *cited as: mention (LORD-acting-through-his-Sent-One note)*
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
-- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Mark 13:32 — PROSE-REF
 *cited as: mention (Father’s appointed time)*
@@ -5320,7 +5333,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Acts 1:7 — CONFIRMED
 *cited as: mention*
 - *Note:* obs quote seated to GNV-modern: 'the times, or the seasons, which the Father hath put in his own power'
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: *
 
 ### Matthew 25:31 — CONFIRMED
 *cited as: ellipsis-seat 31-34 span (draft v34 KJV-voiced "inherit the kingdom" brought to GNV "take the inheritance...")*
@@ -5527,7 +5540,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Acts 1:7 — CONFIRMED
 *cited as: mention*
 - *Note:* Two-Critical-Points: 'Only the Father knows the day and hour (Matt 24:36; Mark 13:32; Acts 1:7)'
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: *
 
 ### Mark 13:32 — CONFIRMED
 *cited as: mention*
@@ -5541,8 +5554,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - *Note:* Two-Critical-Points: 'bearing the LORD's Name (Ex 23:21)'
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### 1 Corinthians 15:24-28 (range) — CONFIRMED
 *cited as: pure mention-anchor, no text*
@@ -5584,7 +5597,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: seat*
 - **Geneva 1599:** “Then shalbe the end, when he hath deliuered vp the kingdome to God, euen the Father, when he hath put downe all rule, and all authoritie and power.”
 - *Note:* draft's KJV-family 'And then shall be the end' — GNV prints 'Then shall be the end' — seat verbatim GNV (And-drop row-noted)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle, second_check*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
 
 ### 1 Corinthians 15:25 — CONFIRMED
 *cited as: seat*
@@ -5728,8 +5741,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
 - *Note:* (1) list: all authority received from the Father
-- *Checked 2026-11-10 · editions fetched: gnv, greek_byz, greek_nestle*
-- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Philippians 2:11 — CONFIRMED
 *cited as: mention*
@@ -5928,7 +5941,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.”
 - *Note:* pattern list: incarnation (Heb 10:5-7)
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched · greek_biblehub_fresh — set-containment 1.000 across 10-5*
 
 ### Isaiah 53:10 — CONFIRMED
@@ -5986,15 +5999,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention*
 - **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
 - *Note:* pattern list: exaltation (Phil 2:9-11)
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
 
 ### Philippians 2:9 — CONFIRMED
 *cited as: mention-anchor*
 - **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
 - *Note:* synthesis pattern-list mention (Phil 2:9-11)
-- *Checked 2026-11-11 · editions fetched: gnv, second_check*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### 1 Corinthians 15:25 — CONFIRMED
 *cited as: mention*
@@ -6085,7 +6098,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention (Rev 1 observation prose-ref / echo)*
 - **Geneva 1599:** “Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.”
 - *Note:* prose-ref cross in (D) Revelation-1 wave
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### John 5:20 — ANCHOR
@@ -6258,7 +6271,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.”
 - **Geneva 1599:** “Heare me, O Iaakob and Israel, my called, I am, I am the first, and I am the last.”
 - *Note:* Draft observation quotes Geneva; banked as GNV text.
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
 - *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ### Exodus 23:21 — PROSE-REF
@@ -6266,15 +6279,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - *Note:* prose-ref cross in (D) Revelation-1 wave
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### John 17:11 — PROSE-REF
 *cited as: mention (Rev 1 observation prose-ref / echo)*
 - **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
 - *Note:* prose-ref cross in (D) Revelation-1 wave
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Philippians 2:9 — ANCHOR
 *cited as: mention-anchor*
@@ -6667,28 +6680,28 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And I sawe heauen open, and behold, a white horse, and he that sate vpon him, was called, Faithfull and true, and he iudgeth and fighteth righteously.”
 - *Note:* Seat 19:11-16 (ellipsis over vv. 14-15 per draft). Seat prints the 1599 modern-spelled; the print's lowercase 'true' and the comma after 'called' kept (draft prints 'Faithful and True').
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.000*
 
 ### Revelation 19:12 — CONFIRMED
 *cited as: (D) GNV seat — Revelation 19:12*
 - **Geneva 1599:** “And his eyes were as a flame of fire, and on his head were many crownes: and he had a name written, that no man knewe but himselfe.”
 - *Note:* Seat 19:11-16; draft matches the print (sawe→saw fold class).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000*
 
 ### Revelation 19:13 — CONFIRMED
 *cited as: (D) GNV seat re-presented — REV.19.13 (prior seat text kept)*
 - **Geneva 1599:** “And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.”
 - *Note:* Re-presented in the (D)-close seat; see polish.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — verified 2026-11-11, ratio 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 ### Revelation 19:16 — CONFIRMED
 *cited as: (D) GNV seat — Revelation 19:16*
 - **Geneva 1599:** “And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.”
 - *Note:* Seat 19:11-16; the 1599 print reads THE KINGS OF KINGS for our modern KING OF KINGS — seat keeps the print with gloss *(KING)*; Greek Βασιλεὺς βασιλέων = King of kings; draft prints KING OF KINGS (recorded, no flag).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000*
 
 ### John 1:1 — PROSE-REF
 *cited as: directly tying back to John 1:1 ("In the beginning was the Word")*
@@ -6913,15 +6926,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - *Note:* (D)-close mention-anchor.
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### John 17:11 — PROSE-REF
 *cited as: The Name borne by the Son (John 17:11)*
 - **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
 - *Note:* (D)-close mention-anchor.
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Philippians 2:9 — PROSE-REF
 *cited as: The Name borne by the Son (Phil 2:9)*
@@ -7101,7 +7114,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.”
 - *Note:* (D)-close mention-anchor.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000*
 
 ### Numbers 24:17 — PROSE-REF
 *cited as: 'the Star' (Num 24:17 fulfilled — Rev 22:16)*
@@ -7656,7 +7669,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
 - *Note:* Seat = the 1599 print modern-spelled (wordes > words, "my selfe" > "myself"; -eth dwelleth kept). Draft Greek == WH verbatim on the drafted span.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v10 == draft Greek verbatim on the drafted span*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 14:11 — SEAT
 *cited as: John 14:9-11 — The Direct Statement (seat)*
@@ -7920,7 +7933,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
 - *Note:* Coherence point 3.
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v10 == draft Greek verbatim on the drafted span*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Acts 10:38 — ANCHOR
 *cited as: Point 3 — anointed the Son for His ministry (Acts 10:38; Luke 4:14) (mention)*
@@ -7934,7 +7947,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.”
 - *Note:* Coherence point 3. BH john-8-28 refreshed; the 8:28-29 Geneva seat re-presented in Q3 (canon 6319).
 - *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 8:29 — ANCHOR
 *cited as: Point 3 — "… (John 8:28; 12:49-50)" (mention)*
@@ -8448,7 +8461,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### Acts 1:7 — PROSE-REF
 *cited as: Synthesis — Acts 1:7*
 - *Note:* What-This-Honors table ref.
-- *Checked 2026-11-11 · editions fetched: *
+- *Checked 2026-11-12 · editions fetched: *
 
 ### Acts 10:38 — PROSE-REF
 *cited as: Synthesis — Acts 10:38*
@@ -8501,7 +8514,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
 - *Note:* pattern-table reference (the Father indwelt the Son during the earthly ministry).
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v10 == draft Greek verbatim on the drafted span*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 17:21 — PROSE-REF
 *cited as: Closing observation — John 17:21*
@@ -8542,8 +8555,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Synthesis — Phil 2:9 (-11)*
 - **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
 - *Note:* table step-4 ref and the What-This-Honors “Phil 2:9-11” ref.
-- *Checked 2026-11-11 · editions fetched: gnv, second_check*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### REV 5 6 — PROSE-REF
 *cited as: Synthesis — Rev 5:6*
@@ -8851,7 +8864,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as:  READY bullet 'the Father's Spirit indwelt the Son fully (John 14:10)'*
 - **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v10 == draft Greek verbatim on the drafted span*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ## John 14:16-23 — The Father and Son Making Their Abode with Us
 
@@ -8960,7 +8973,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: observation (the Father indwells the Son)*
 - **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v10 == draft Greek verbatim on the drafted span*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 14:18 — CONFIRMED
 *cited as: seat (Geneva 1599 at modern spelling; eBible==TRB fresh)*
@@ -9258,8 +9271,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 17:11 — PROSE-REF
 *cited as: seat tail from "Holy Father" (the draft ellipsis covers the verse head)*
 - **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 17:17 — PROSE-REF
 *cited as: seat (Geneva 1599 modern-spelled; draft exact-modern)*
@@ -9392,8 +9405,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 ### John 17:12 — PROSE-REF
 *cited as: cited within the "John 17:6, 9, 11" chain*
 - **Geneva 1599:** “While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.”
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v12 fragment = Nestle word-for-word · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v12 fragment = Nestle word-for-word · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 17:6 — PROSE-REF
 *cited as: quoted: "thine they were, and thou gavest them me" — 1599 reads "thou gauest them me"*
@@ -9634,7 +9647,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: mention (KING OF KINGS and LORD OF LORDS)*
 - **Geneva 1599:** “And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.”
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.981 — draft Greek vs WH (BibleHub group check; koronis-bound apostrophe class only)*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000*
 
 ### John 14:6 — PROSE-REF
 *cited as: mention (the Way to the Father)*
@@ -12499,8 +12512,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Matthew 28:19-20 seat (canon 12584)*
 - **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
 - *Note:* SEAT: joined span v19+v20; TWO SPLICES: draft-KJV-voiced and of the Son, and of the holy Ghost -> print and the Son, and the holy Ghost; draft ellipsis -> RESTORED print tail and lo, I am with you alway, until the end of the world, Amen. (wave-18 Rev 1:7 Amen precedent); folds obserue/whatsoeuer/haue/vntill/ende/worlde
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
-- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — draft Matt 28:19-20 Greek == BibleHub WH pages joined, set containment (case class only)*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — 1.000 · trb_fresh — 1.000*
 
 ### Matthew 28:20 — CONFIRMED
 *cited as: Matthew 28:19-20 seat (canon 12584)*
@@ -13003,7 +13016,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
 - *Note:* PHIL 2:5-11 full-context seat (range)
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
 
 ### Philippians 2:11 — CONFIRMED
@@ -13017,8 +13030,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
 - *Note:* PHIL 2:5-11 full-context seat (range)
-- *Checked 2026-11-11 · editions fetched: gnv, second_check*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Philippians 2:5 — CONFIRMED
 *cited as: Geneva 1599*
@@ -13060,8 +13073,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - *Note:* COS-89 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### John 1:1 — PROSE-REF
 *cited as: Geneva 1599*
@@ -13142,7 +13155,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.”
 - *Note:* COS-89 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
 
 ### Hebrews 4:15 — PROSE-REF
@@ -13186,7 +13199,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
 - *Note:* COS-89 cross-witness mention
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — WH v10 == draft Greek verbatim on the drafted span*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Isaiah 52:13 — PROSE-REF
 *cited as: Geneva 1599*
@@ -13253,15 +13266,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
 - **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
 - *Note:* COS-89 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, nets*
-- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
 
 ### John 17:11 — PROSE-REF
 *cited as: Geneva 1599*
 - **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
 - *Note:* COS-89 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv*
-- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh ✓*
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### Isaiah 45:23 — PROSE-REF
 *cited as: Geneva 1599*
@@ -13283,7 +13296,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “I and my Father are one.”
 - *Note:* COS-89 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 
 ### John 20:28 — PROSE-REF
 *cited as: Geneva 1599*
@@ -13340,7 +13353,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “What then if yee should see that Sonne of man ascend vp where he was before?”
 - *Note:* COS-90 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96 · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 6-62*
 
 ### John 8:58 — PROSE-REF
@@ -13348,14 +13361,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
 - **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
 - *Note:* COS-90 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, greek_byz, kjv*
-- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### HEB 10 5 — CONFIRMED
 *cited as: Geneva 1599*
 - **Geneva 1599:** “Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.”
 - *Note:* HEB 10:5 seat (re-present; print colon restored over the draft comma — draft-KJV-punctuation class)
-- *Checked 2026-11-11 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched · greek_biblehub_fresh — set-containment 1.000 across 10-5*
 
 ### PSA 39 7 — PROSE-REF
@@ -13369,7 +13382,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
 - *Note:* JHN 6:38 seat (re-present; zero-splice exact-modern)
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · greek_biblehub_fresh — set-containment 1.000 across 6-38*
 
 ### John 3:6 — CONFIRMED
@@ -13383,7 +13396,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.”
 - *Note:* JHN 3:13 seat (re-present; draft's "Son of Man" caps class row-noted; print "Sonne of man")
-- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
 - *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 3-13*
 
 ### 1 Corinthians 15:44 — CONFIRMED
@@ -13488,7 +13501,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
 - *Note:* COS-90 cross-witness mention
-- *Checked 2026-11-07 · editions fetched: gnv*
+- *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
 
 ### Philippians 2:11 — PROSE-REF
@@ -13502,8 +13515,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
 - *Note:* COS-90 cross-witness mention
-- *Checked 2026-11-11 · editions fetched: gnv, second_check*
-- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
 
 ### 1TI 2 5 — PROSE-REF
 *cited as: Geneva 1599*
@@ -13622,6 +13635,440 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 *cited as: Geneva 1599*
 - **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
 - *Note:* COS-90 cross-witness mention
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+## YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY
+
+### Exodus 23:20 — CONFIRMED
+*cited as: Exodus 23:20*
+- **NETS (Septuagint, modern):** “And look, I am sending my angel in front of you in order to guard you on the way in order to bring you into the land that I prepared for you.”
+- **Geneva 1599:** “Behold, I send an Angel before thee, to keepe thee in the way, and to bring thee to the place which I haue prepared.”
+- *Note:* W59 NETS seat (draft ellipsis honored at the v20 cut)
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS vv 20-21 verbatim vs 02-exod walk; seat-vs-cache asserted gloss-stripped · greek_rahlfs — Draft Greek = Rahlfs verbatim (97% word-set, apostrophe token only) · trb ✓*
+
+### Exodus 23:21 — CONFIRMED
+*cited as: Exodus 23:21*
+- **NETS (Septuagint, modern):** “Mind yourself, and listen to him, and do not disobey him. For he shall not hold you in undue awe, for my name is upon him.”
+- **Geneva 1599:** “Beware of him, and heare his voyce, and prouoke him not: for he will not spare your misdeedes, because my name is in him.”
+- *Note:* W59 NETS seat; Greek phrase kept in the observation prose
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): nets — NETS v21 verbatim · greek_rahlfs — Rahlfs verbatim · trb ✓ · greek_swete — 1.000*
+
+### John 17:11 — CONFIRMED
+*cited as: John 17:11*
+- **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
+- *Note:* W59 re-present; print colon kept; Name-clause selection per the draft
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 17:12 — CONFIRMED
+*cited as: John 17:12*
+- **Geneva 1599:** “While I was with them in the worlde, I kept them in thy Name: those that thou gauest me, haue I kept, and none of them is lost, but the childe of perdition, that the Scripture might be fulfilled.”
+- *Note:* W59 re-present; the oneness clause stays under the draft ellipsis (Passage A examines it)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub — Draft v12 fragment = Nestle word-for-word · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### Philippians 2:9 — CONFIRMED
+*cited as: Philippians 2:9*
+- **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
+- *Note:* W59 re-present (W56-verified print line)
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### Philippians 2:10 — CONFIRMED
+*cited as: Philippians 2:10*
+- **Geneva 1599:** “That at the Name of Iesus shoulde euery knee bowe, both of things in heauen, and things in earth, and things vnder the earth,”
+- *Note:* W59: the legal basis for every knee bowing
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 2-9 + 2-10 + 2-11*
+
+### Revelation 19:11 — CONFIRMED
+*cited as: Revelation 19:11*
+- **Geneva 1599:** “And I sawe heauen open, and behold, a white horse, and he that sate vpon him, was called, Faithfull and true, and he iudgeth and fighteth righteously.”
+- *Note:* W59 re-present; the draft KJV caps no-comma voicing replaced by the 1599 print
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 0.000*
+
+### Revelation 19:12 — CONFIRMED
+*cited as: Revelation 19:12*
+- **Geneva 1599:** “And his eyes were as a flame of fire, and on his head were many crownes: and he had a name written, that no man knewe but himselfe.”
+- *Note:* W59 re-present
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000*
+
+### Revelation 19:13 — CONFIRMED
+*cited as: Revelation 19:13*
+- **Geneva 1599:** “And he was clothed with a garment dipt in blood, and his name is called THE WORD OF GOD.”
+- *Note:* W59 re-present; the dipt clause stays under the draft ellipsis
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓ · greek_biblehub_fresh — 1.000 · trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 19:16 — CONFIRMED
+*cited as: Revelation 19:16*
+- **Geneva 1599:** “And he hath vpon his garment, and vpon his thigh a name written, THE KINGS OF KINGS, AND LORD OF LORDS.”
+- *Note:* W59 re-present; THE KINGS *(KING)* OF KINGS gloss per the W24 print seat
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000*
+
+### Exodus 3:14 — CONFIRMED
+*cited as: Exodus 3:14*
+- **NETS (Septuagint, modern):** “And God said to Moyses, “I am The One Who Is.” And he said, “Thus shall you say to the sons of Israel, ‘The One Who Is has sent me to you.’ “”
+- **Brenton LXX:** “And God spoke to Moses, saying, I am THE BEING; and he said, Thus shall ye say to the children of Israel, THE BEING has sent me to you.”
+- **Geneva 1599:** “And God answered Moses, I Am That I Am. Also he said, Thus shalt thou say vnto the children of Israel, I Am hath sent me vnto you.”
+- **KJV:** “And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.”
+- *Note:* W59 NETS seat (draft ellipses honored); nets translation added
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓ · nets — NETS 3:14 verbatim · greek_rahlfs — Draft LXX word-set 100% vs wikisource Rahlfs · trb ✓*
+
+### Exodus 3:15 — CONFIRMED
+*cited as: Exodus 3:15*
+- **NETS (Septuagint, modern):** “And God said again to Moyses, “Thus you shall say to the sons of Israel, ‘The Lord, the God of your fathers, God of Abraam and God of Isaak and God of Iakob, has sent me to you.’ This is an everlasting name of mine and a memorial of generations to generations.”
+- **Brenton LXX:** “And God said again to Moses, Thus shalt thou say to the sons of Israel, The Lord God of our fathers, the God of Abraam, and God of Isaac, and God of Jacob, has sent me to you: this is my name for ever, and my memorial to generations of generations.”
+- **Geneva 1599:** “And God spake further vnto Moses, Thus shalt thou say vnto the children of Israel, The Lord God of your fathers, the God of Abraham, the God of Izhak, and the God of Iaakob hath sent me vnto you: this is my Name for euer, and this is my memoriall vnto all ages.”
+- **KJV:** “And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.”
+- *Note:* W59 NETS seat; nets translation added
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, kjv, nets*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · brenton ✓*
+
+### Isaiah 43:11 — CONFIRMED
+*cited as: Isaiah 43:10-13 (NETS)*
+- **NETS (Septuagint, modern):** “I am God, and besides me there is none who saves.”
+- *Note:* W59 NETS backfill; seat member (draft label 43:10-13, trailing ellipsis covers 12-13)
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 43:12 — CONFIRMED
+*cited as: Isaiah 43:10-13 (NETS)*
+- **NETS (Septuagint, modern):** “I declared and saved; I reproached, and there was no stranger among you. You are my witnesses; I too am a witness, says the Lord God.”
+- *Note:* W59 range-member: covered by the seat trailing ellipsis
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 43:10 — CONFIRMED
+*cited as: Isaiah 43:10*
+- **NETS (Septuagint, modern):** “Be my witnesses; I too am a witness, says the Lord God, and the servant whom I have chosen so that you may know and believe and understand that I am. Before me there was no other god, nor shall there be any after me.”
+- *Note:* W59 NETS seat (v10 back-half)
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 43:13 — CONFIRMED
+*cited as: Isaiah 43:13*
+- **NETS (Septuagint, modern):** “Even from the beginning there is also no one who rescues from my hands; I will do it, and who will turn it back?”
+- *Note:* W59: covered by the seat trailing ellipsis
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 46:4 — CONFIRMED
+*cited as: Isaiah 46:4*
+- **NETS (Septuagint, modern):** “Until your old age, I am, and until you grow old, I am; I bear with you; I have made, and I will set free; I will take up and save you.”
+- *Note:* W59 NETS seat (draft cut after "I bear with you")
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 46:9 — CONFIRMED
+*cited as: Isaiah 46:9*
+- **NETS (Septuagint, modern):** “and remember the former things of old, because I am God, and there is no other besides me,”
+- **Brenton LXX:** “and remember the former things that were of old: for I am God, and there is none other beside me,”
+- **Geneva 1599:** “Remember the former things of old: for I am God, and there is none other God, and there is nothing like me,”
+- *Note:* W59 NETS seat
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### John 8:24 — CONFIRMED
+*cited as: John 8:24*
+- **Geneva 1599:** “I said therefore vnto you, That ye shall die in your sinnes: for except ye beleeue, that I am he, ye shall die in your sinnes.”
+- *Note:* W59 re-present
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 8:28 — CONFIRMED
+*cited as: John 8:28*
+- **Geneva 1599:** “Then said Iesus vnto them, When ye haue lift vp the Sonne of man, then shall ye know that I am he, and that I doe nothing of my selfe, but as my Father hath taught me, so I speake these things.”
+- *Note:* W59 re-present; print tail restored ("so I speak these things")
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 8:58 — CONFIRMED
+*cited as: John 8:58*
+- **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
+- **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+- *Note:* W59 re-present (W58 seat line lifted)
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 13:19 — CONFIRMED
+*cited as: John 13:19*
+- **Geneva 1599:** “From henceforth tell I you before it come, that when it is come to passe, ye might beleeue that I am he.”
+- *Note:* W59 re-present
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 18:5 — CONFIRMED
+*cited as: John 18:5*
+- **Geneva 1599:** “They answered him, Iesus of Nazareth. Iesus sayde vnto them, I am hee. Nowe Iudas also which betraied him, stoode with them.”
+- *Note:* W59; Iudas->Judas fold
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 18:6 — CONFIRMED
+*cited as: John 18:6*
+- **Geneva 1599:** “Assoone then as hee had saide vnto them, I am hee, they went away backewardes, and fell to the grounde.”
+- *Note:* W59; the draft v6 paraphrase "When he had then said" replaced by the 1599 "As soon then as he had said" — row-noted
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub word-set coverage 1.00 (wave-15 Greek pass; word-level variants noted on the row where present) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### Matthew 10:40 — CONFIRMED
+*cited as: Matthew 10:40*
+- **Geneva 1599:** “He that receiueth you, receiueth me: and hee that receiueth mee, receiueth him that hath sent me.”
+- *Note:* W59 prose-ref: authorized-representation principle
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### MAT 28 18 — CONFIRMED
+*cited as: Matthew 28:18*
+- **Geneva 1599:** “And Iesus came, and spake vnto them, saying, All power is giuen vnto me, in heauen, and in earth.”
+- *Note:* W59 re-present
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, greek_nestle*
+- *Double-checked (second source): gnv ✓ · gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 5:43 — CONFIRMED
+*cited as: John 5:43*
+- **Geneva 1599:** “I am come in my Fathers Name, and ye receiue me not: if another shall come in his owne name, him will ye receiue.”
+- *Note:* W59 — the decisive text; exact-modern zero-splice
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 10:25 — CONFIRMED
+*cited as: John 10:25*
+- **Geneva 1599:** “Iesus answered them, I tolde you, and ye beleeue not: the workes that I doe in my Fathers Name, they beare witnes of me.”
+- *Note:* W59 seat; print "witnes" folded modern
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 14:10 — CONFIRMED
+*cited as: John 14:10*
+- **Geneva 1599:** “Beleeuest thou not, that I am in the Father, and the Father is in me? The wordes that I speake vnto you, I speake not of my selfe: but the Father that dwelleth in me, he doeth the workes.”
+- *Note:* W59 re-present (fresh JHN14 eBible + TRB 43/14 assert passed)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### Matthew 28:19 — CONFIRMED
+*cited as: Matthew 28:19*
+- **Geneva 1599:** “Go therefore, and teach all nations, baptizing them in the Name of the Father, and the Sonne, and the holy Ghost,”
+- *Note:* W59 re-present; the print single "of the" — W53 class
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB word-for-word, ratio 1.000 (fresh 2026-11-11) · greek_biblehub_fresh — 1.000 · trb_fresh — 1.000*
+
+### Acts 10:48 — CONFIRMED
+*cited as: Acts 10:48*
+- **Geneva 1599:** “So he commanded them to be baptized in the Name of the Lord. Then prayed they him to tary certaine dayes.”
+- *Note:* W59 mention: baptized in the Name (baptismal-formula observation)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### Acts 19:5 — CONFIRMED
+*cited as: Acts 19:5*
+- **Geneva 1599:** “And when they heard it, they were baptized in the Name of the Lord Iesus.”
+- *Note:* W59 mention: baptized in the Name (baptismal-formula observation)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### Acts 2:38 — CONFIRMED
+*cited as: Acts 2:38*
+- **Geneva 1599:** “Then Peter said vnto them, Amend your liues, and bee baptized euery one of you in the Name of Iesus Christ for the remission of sinnes: and ye shall receiue the gift of the holy Ghost.”
+- *Note:* W59 mention: baptized in the Name (baptismal-formula observation)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### Acts 8:16 — CONFIRMED
+*cited as: Acts 8:16*
+- **Geneva 1599:** “(For as yet, hee was fallen downe on none of them, but they were baptized onely in the Name of the Lord Iesus.)”
+- *Note:* W59 mention: baptized in the Name (baptismal-formula observation)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### Deuteronomy 6:4 — CONFIRMED
+*cited as: Deuteronomy 6:4*
+- **NETS (Septuagint, modern):** “And these are the statutes and the judgments, which the Lord commanded to the sons of Israel in the wilderness as they were coming out from the land of Egypt. Hear, O Israel: The Lord our God is one Lord.”
+- **Brenton LXX:** “Hear, O Israel, The Lord our God is one Lord.”
+- **Geneva 1599:** “Heare, O Israel, The Lord our God is Lord onely,”
+- *Note:* W59: echo NETS-voiced (the NETS row text carries the same reading) — no flag
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### John 17:3 — CONFIRMED
+*cited as: John 17:3*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* W59 implication bullet — flag 33
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
+
+### 1 Corinthians 8:6 — CONFIRMED
+*cited as: 1 Corinthians 8:6*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Note:* W59 implication bullet
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1TI 2 5 — CONFIRMED
+*cited as: 1 Timothy 2:5*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- *Note:* W59 implication bullet
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### Isaiah 41:4 — CONFIRMED
+*cited as: Isaiah 41:4*
+- **NETS (Septuagint, modern):** “Who has wrought and done these things? The one calling her from the beginning of generations has called her. I, God, am first, and for the things that are coming, I am.”
+- *Note:* W59 Isaiah cross-refs
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 43:25 — CONFIRMED
+*cited as: Isaiah 43:25*
+- **NETS (Septuagint, modern):** “I am, I am the one who blots out your acts of lawlessness, and I will not remember them at all.”
+- *Note:* W59 Isaiah cross-refs
+- *Checked 2026-11-12 · editions fetched: nets*
+
+### Isaiah 48:12 — CONFIRMED
+*cited as: Isaiah 48:12*
+- **NETS (Septuagint, modern):** “Hear me, O Iakob, and Israel, whom I call: I am the first, and I am forever.”
+- **Geneva 1599:** “Heare me, O Iaakob and Israel, my called, I am, I am the first, and I am the last.”
+- *Note:* W59 Isaiah cross-refs
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Luke 24:47 — CONFIRMED
+*cited as: Luke 24:47*
+- **Geneva 1599:** “And that repentance, and remission of sinnes should be preached in his Name among all nations, beginning at Hierusalem.”
+- *Note:* W59 mention: apostles sent in His Name
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### Acts 1:7 — CONFIRMED
+*cited as: Acts 1:7*
+- *Note:* W59 delegated-authority pattern list
+- *Checked 2026-11-12 · editions fetched: *
+
+### Rom 10:13 — CONFIRMED
+*cited as: Romans 10:13*
+- **Geneva 1599:** “For whosoeuer shall call vpon the Name of the Lord, shalbe saued.”
+- *Note:* W59: we call on the Name
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Acts 22:16 — CONFIRMED
+*cited as: Acts 22:16*
+- **Geneva 1599:** “Now therefore why tariest thou? Arise, and be baptized, and wash away thy sinnes, in calling on the Name of the Lord.”
+- *Note:* W59: we call on the Name
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EB==TRB EXACT (string equality), fetched fresh 17:55*
+
+### Revelation 22:4 — CONFIRMED
+*cited as: Revelation 22:4*
+- **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
+- *Note:* W59: the Name on our foreheads
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+- *Double-checked (second source): trb_fresh ✓*
+
+### John 8:19 — CONFIRMED
+*cited as: John 8:19*
+- **Geneva 1599:** “Then saide they vnto him, Where is that Father of thine? Iesus answered, Ye neither know me, nor that Father of mine. If ye had knowen me, ye should haue knowen that Father of mine also.”
+- *Note:* W59 prose-ref in the 8:58 resolution
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — 1.000*
+
+### HEB 10 5 — CONFIRMED
+*cited as: Hebrews 10:5*
+- **Geneva 1599:** “Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.”
+- *Note:* W59: descended when the body was prepared
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched · greek_biblehub_fresh — set-containment 1.000 across 10-5*
+
+### John 3:13 — CONFIRMED
+*cited as: John 3:13*
+- **Geneva 1599:** “For no man ascendeth vp to heauen, but he that hath descended from heauen, that Sonne of man which is in heauen.”
+- *Note:* W59 synthesis bullet
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 3-13*
+
+### John 6:38 — CONFIRMED
+*cited as: John 6:38*
+- **Geneva 1599:** “For I came downe from heauen, not to do mine owne wil, but his wil which hath sent me.”
+- *Note:* W59 synthesis bullet
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.97 · trb_fresh — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted · greek_biblehub_fresh — set-containment 1.000 across 6-38*
+
+### John 6:62 — CONFIRMED
+*cited as: John 6:62*
+- **Geneva 1599:** “What then if yee should see that Sonne of man ascend vp where he was before?”
+- *Note:* W59 synthesis bullet
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96 · trb_fresh ✓ · greek_biblehub_fresh — set-containment 1.000 across 6-62*
+
+### Isaiah 7:14 — CONFIRMED
+*cited as: Isaiah 7:14*
+- **NETS (Septuagint, modern):** “Therefore the Lord himself will give you a sign. Look, the virgin shall be with child and bear a son, and you shall name him Emmanouel.”
+- **Brenton LXX:** “Therefore the Lord himself shall give you a sign; behold, a virgin shall conceive in the womb, and shall bring forth a son, and thou shalt call his name Emmanuel.”
+- **Geneva 1599:** “Therefore the Lord himselfe will giue you a signe. Beholde, the virgine shall conceiue and beare a sonne, and she shall call his name Immanu-el.”
+- *Note:* W59: born of the virgin
+- *Checked 2026-11-12 · editions fetched: brenton, gnv, greek_rahlfs, greek_swete, les, nets*
+- *Double-checked (second source): gnv ✓ · nets ✓ · greek ✓*
+
+### Matthew 1:23 — CONFIRMED
+*cited as: Matthew 1:23*
+- **Geneva 1599:** “Behold, a virgine shalbe with childe, and shall beare a sonne, and they shall call his name Emmanuel, which is by interpretation, God with vs.”
+- *Note:* W59: born of the virgin
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — he parthenos + Meth' hemon ho Theos confirmed exact*
+
+### John 5:19 — CONFIRMED
+*cited as: John 5:19*
+- **Geneva 1599:** “Then answered Iesus, and said vnto them, Verely, verely I say vnto you, The Sonne can doe nothing of himselfe, saue that he seeth the Father doe: for whatsoeuer things he doth, the same things doeth the Sonne in like maner.”
+- *Note:* W59: walking in the Father authority
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv_trb — eBible=TRB ratio 1.00 (fresh fetch 2026-11-11) · greek_biblehub — draft Greek verified vs WH/Nestle (BibleHub); variants noted*
+
+### Colossians 2:9 — CONFIRMED
+*cited as: Colossians 2:9*
+- **Geneva 1599:** “For in him dwelleth all the fulnesse of the Godhead bodily.”
+- *Note:* W59: fullness of the Godhead bodily
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### 1 Corinthians 15:24 — CONFIRMED
+*cited as: 1 Corinthians 15:24-28*
+- **Geneva 1599:** “Then shalbe the end, when he hath deliuered vp the kingdome to God, euen the Father, when he hath put downe all rule, and all authoritie and power.”
+- *Note:* W59: delivering all to the Father
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+
+### John 10:30 — CONFIRMED
+*cited as: John 10:30*
+- **Geneva 1599:** “I and my Father are one.”
+- *Note:* W59 option (A) mention — flag standing from the Zech-13:7 observation
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+
+### John 20:28 — CONFIRMED
+*cited as: John 20:28*
+- **Geneva 1599:** “Then Thomas answered, and said vnto him, Thou art my Lord, and my God.”
+- *Note:* W59 option (B) mention
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 John 5:20 — CONFIRMED
+*cited as: 1 John 5:20*
+- **Geneva 1599:** “But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.”
+- *Note:* W59 option (C) mention — flag 30 standing
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Hebrews 1:8 — CONFIRMED
+*cited as: Hebrews 1:8*
+- **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
+- *Note:* W59 option (D) mention
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Isaiah 9:6 (NETS/MT numbering) — CONFIRMED
+*cited as: Isaiah 9:6 (LXX)*
+- **Geneva 1599:** “For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,”
+- *Note:* W59 option (E) mention
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
@@ -15454,7 +15901,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 15:21 | COS-40 | confirmed |
 | 1 Corinthians 15:22 | COS-40 | confirmed |
 | 1 Corinthians 15:23 | COS-40, COS-42 | confirmed |
-| 1 Corinthians 15:24 | COS-40, COS-91 | confirmed, prose-ref |
+| 1 Corinthians 15:24 | COS-40, COS-92, COS-91 | confirmed, prose-ref |
 | 1 Corinthians 15:24-28 (range) | COS-39, COS-58 | confirmed, prose-ref |
 | 1 Corinthians 15:25 | COS-40, COS-42 | confirmed |
 | 1 Corinthians 15:26 | COS-40 | confirmed |
@@ -15472,7 +15919,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 6:19 | COS-60, COS-62 | prose-ref |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
 | 1 John 1:9 | P7, COS-69, COS-81 | anchor, confirmed |
@@ -15499,7 +15946,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Thessalonians 4:16 | COS-38, COS-42 | confirmed |
 | 1 Thessalonians 4:17 | COS-38, COS-66 | confirmed |
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
-| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-91 | anchor, confirmed, prose-ref |
+| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
@@ -15539,11 +15986,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 9:31 | SAB6 | anchor |
 | Acts 1:11 | COS-27, COS-28, COS-35, COS-36, COS-39 | anchor, confirmed, prose-ref |
 | Acts 1:4 | COS-58 | prose-ref |
-| Acts 1:7 | COS-24, COS-34, COS-36, COS-37, COS-39, COS-58 | anchor, confirmed, prose-ref |
+| Acts 1:7 | COS-24, COS-34, COS-36, COS-37, COS-39, COS-58, COS-92 | anchor, confirmed, prose-ref |
 | Acts 1:9 | COS-27, COS-28, COS-35 | anchor, confirmed |
 | Acts 10:38 | COS-55, COS-56, COS-58, COS-59, COS-89 | anchor, prose-ref, seat |
 | Acts 10:41 | COS-27 | anchor |
-| Acts 10:48 | COS-27 | anchor |
+| Acts 10:48 | COS-27, COS-92 | anchor, confirmed |
 | ACT 13 32-33 | COS-03 | confirmed |
 | Acts 13:33 | COS-16, COS-19, COS-22, COS-42, COS-43 | anchor, confirm, confirmed, confirmed (excerpt), prose-ref |
 | Acts 17:24 | COS-53, COS-54 | anchor, seat |
@@ -15552,7 +15999,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 17:27 | COS-53, COS-54 | anchor, seat |
 | Acts 17:28 | COS-53, COS-54, COS-56, COS-57 | anchor, prose-ref, seat |
 | Acts 19:15 | P7 | confirmed |
-| Acts 19:5 | COS-27 | anchor |
+| Acts 19:5 | COS-27, COS-92 | anchor, confirmed |
 | Acts 2 (chapter ref) | COS-22 | anchor |
 | Acts 2:17 | COS-59 | anchor |
 | Acts 2:2 | P8 | anchor |
@@ -15564,7 +16011,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | ACT 2 34-36 | COS-04, COS-17, COS-19, COS-28, COS-34, COS-42 | anchor, confirmed |
 | Acts 2:35 | COS-58 | confirmed |
 | ACT 2 36 | COS-03, COS-16, COS-19, COS-42, COS-58, COS-83, COS-89, COS-91 | anchor, confirmed, confirmed (excerpt), prose-ref |
-| Acts 2:38 | COS-27 | anchor |
+| Acts 2:38 | COS-27, COS-92 | anchor, confirmed |
 | Acts 2:4 | P8 | anchor |
 | Acts 3:13 | COS-22 | anchor |
 | Acts 3:26 | COS-22 | anchor |
@@ -15574,7 +16021,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Acts 7:48 | COS-53, COS-56 | anchor, seat |
 | Acts 7:49 | COS-53, COS-56 | anchor, seat |
 | Acts 7:56 | COS-63 | prose-ref |
-| Acts 8:16 | COS-27 | anchor |
+| Acts 8:16 | COS-27, COS-92 | anchor, confirmed |
 | Acts 8:20 | P7 | confirmed |
 | Acts 8:32 | COS-22 | confirmed (excerpt) |
 | Acts 8:33 | COS-22 | confirmed (excerpt) |
@@ -15595,7 +16042,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:14 | COS-21 | confirmed |
 | Colossians 1:18 | COS-21 | confirmed |
 | Colossians 1:19 | COS-21 | confirmed |
-| Colossians 2:9 | COS-55, COS-89, COS-90, COS-91 | anchor, prose-ref, seat |
+| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref, seat |
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
 | Colossians 3:2 | COS-62, COS-69, COS-70, COS-73 | anchor, confirmed, prose-ref |
@@ -15615,7 +16062,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Deuteronomy 5:13 | SAB4, SAB13 | differs (minor), recap cross-reference |
 | Deuteronomy 5:14 | SAB4, SAB12, SAB13 | differs, recap cross-reference |
 | Deuteronomy 5:15 | SAB4, SAB13 | differs (minor), recap cross-reference |
-| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-36, COS-40, COS-56, COS-57, COS-58, COS-90 | anchor, confirmed, prose-ref |
+| Deuteronomy 6:4 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-36, COS-40, COS-56, COS-57, COS-58, COS-90, COS-92 | anchor, confirmed, prose-ref |
 | Deuteronomy 6:5 | P9 | confirmed, paraphrase |
 | Deuteronomy 9:10 | P1-Q3 | confirmed |
 | Ephesians 1:10 | COS-49 | prose-ref |
@@ -15659,11 +16106,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Exodus 20:7 | P1-Q3, P7 | confirmed |
 | Exodus 20:8 | SAB4, SAB13 | confirmed, recap cross-reference |
 | Exodus 20:9 | SAB4, SAB13 | differs (minor), recap cross-reference |
-| Exodus 23:20 | COS-14, COS-16 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-91 | anchor, confirmed, prose-ref |
+| Exodus 23:20 | COS-14, COS-16, COS-92 | anchor, confirmed |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-91 | anchor, confirmed, prose-ref |
 | Exodus 25:8 | COS-54, COS-64 | prose-ref, seat |
-| Exodus 3:14 | P8, COS-11 | anchor, commentary, confirmed |
-| Exodus 3:15 | P1-Q3, P2, CLOSE | confirmed |
+| Exodus 3:14 | P8, COS-11, COS-92 | anchor, commentary, confirmed |
+| Exodus 3:15 | P1-Q3, P2, CLOSE, COS-92 | confirmed |
 | Exodus 3:2 | COS-11 | confirmed |
 | Exodus 3:3 | COS-11 | anchor |
 | Exodus 3:4 | COS-11 | confirmed |
@@ -15782,7 +16229,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 10 22 | COS-33, COS-60 | confirmed, prose-ref |
 | HEB 10 3 | COS-33 | confirmed |
 | HEB 10 4 | COS-33 | confirmed |
-| HEB 10 5 | COS-33, COS-42, COS-90, COS-91 | confirmed, prose-ref |
+| HEB 10 5 | COS-33, COS-42, COS-90, COS-92, COS-91 | confirmed, prose-ref |
 | HEB 10 6 | COS-33 | confirmed |
 | HEB 10 7 | COS-33 | confirmed |
 | Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
@@ -15851,13 +16298,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 35:6 | COS-23 | confirmed |
 | Isaiah 40:10 | COS-49 | prose-ref |
 | Isaiah 40:3 | COS-23 | confirmed |
-| Isaiah 41:4 | COS-24 | anchor |
+| Isaiah 41:4 | COS-24, COS-92 | anchor, confirmed |
 | Isaiah 42:1 | COS-63 | prose-ref |
 | Isaiah 42:6 | SAB5 | anchor |
 | Isaiah 42:8 | P1-Q8 | confirmed |
-| Isaiah 43:10 | COS-24, COS-91 | anchor, prose-ref |
-| Isaiah 43:13 | COS-24 | anchor |
-| Isaiah 43:25 | COS-24 | anchor |
+| Isaiah 43:10 | COS-24, COS-92, COS-91 | anchor, confirmed, prose-ref |
+| Isaiah 43:13 | COS-24, COS-92 | anchor, confirmed |
+| Isaiah 43:25 | COS-24, COS-92 | anchor, confirmed |
 | Isaiah 44:24 | COS-01, COS-36, COS-40, COS-45 | confirmed, prose-ref |
 | Isaiah 44:3 | COS-58 | prose-ref |
 | Isaiah 44:6 | COS-01, COS-17, COS-18, COS-40, COS-43, COS-44, COS-49, COS-56, COS-58 | anchor, confirmed, prose-ref |
@@ -15868,10 +16315,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 45:23 | COS-01, COS-35, COS-40, COS-89 | anchor, confirmed, prose-ref |
 | Isaiah 45:5 | COS-01 | confirmed |
 | Isaiah 45:6 | COS-01 | confirmed |
-| Isaiah 46:4 | COS-24, COS-91 | anchor, prose-ref |
+| Isaiah 46:4 | COS-24, COS-92, COS-91 | anchor, confirmed, prose-ref |
 | Isaiah 46:5 | COS-01, COS-13 | confirmed, prose-ref |
-| Isaiah 46:9 | COS-01 | confirmed |
-| Isaiah 48:12 | COS-24, COS-43 | anchor |
+| Isaiah 46:9 | COS-01, COS-92 | confirmed |
+| Isaiah 48:12 | COS-24, COS-43, COS-92 | anchor, confirmed |
 | Isaiah 49:2 | COS-44 | prose-ref |
 | Isaiah 52:13 | P1-Q8, COS-16, COS-22, COS-89 | anchor, confirmed, prose-ref |
 | Isaiah 52:14 | COS-22 | confirmed |
@@ -15902,7 +16349,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 66:1 | COS-53, COS-56 | anchor, seat |
 | Isaiah 66:22 | SAB12, SAB13 | differs (minor), recap cross-reference |
 | Isaiah 66:23 | SAB12, SAB13 | differs (minor), recap cross-reference |
-| Isaiah 7:14 | COS-01, COS-19, COS-23 | confirmed, confirmed (excerpt) |
+| Isaiah 7:14 | COS-01, COS-19, COS-23, COS-92 | confirmed, confirmed (excerpt) |
 | Isaiah 9:1 LXX (= MT 8:23) | COS-23 | confirmed |
 | Isaiah 9:2 LXX (= MT 9:1) | COS-23 | confirmed |
 | Judges 11:29 | COS-59 | anchor |
@@ -15942,7 +16389,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 10:14 | COS-24 | confirmed |
 | John 10:28 | COS-62 | prose-ref |
 | John 10:29 | COS-62 | prose-ref |
-| John 10:30 | COS-36, COS-89, COS-91 | prose-ref |
+| John 10:30 | COS-36, COS-89, COS-92, COS-91 | confirmed, prose-ref |
 | John 10:38 | COS-55, COS-56 | anchor, seat |
 | John 10:7 | COS-24 | confirmed |
 | John 10:9 | P8, COS-24 | confirmed |
@@ -15962,9 +16409,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 12:49 | COS-55 | anchor |
 | John 12:50 | COS-55 | anchor |
 | John 1:13 | COS-21 | confirmed |
-| John 13:19 | COS-24 | confirmed |
+| John 13:19 | COS-24, COS-92 | confirmed |
 | John 13:31-32 | COS-22 | anchor |
-| John 14:10 | COS-55, COS-56, COS-58, COS-59, COS-60, COS-89 | anchor, prose-ref, seat |
+| John 14:10 | COS-55, COS-56, COS-58, COS-59, COS-60, COS-89, COS-92 | anchor, confirmed, prose-ref, seat |
 | John 14:11 | COS-55, COS-56, COS-60 | anchor, prose-ref, seat |
 | John 14:12 | COS-60 | prose-ref |
 | John 14:13 | COS-60, COS-75, COS-88 | confirmed, prose-ref |
@@ -15994,8 +16441,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 16:9 | COS-60 | prose-ref |
 | John 1:17 | COS-21 | confirmed |
 | John 17:1 | COS-55, COS-61 | anchor, prose-ref |
-| John 17:11 | COS-14, COS-43, COS-50, COS-61, COS-89, COS-91 | confirmed, prose-ref |
-| John 17:12 | COS-14, COS-62 | confirmed, prose-ref |
+| John 17:11 | COS-14, COS-43, COS-50, COS-61, COS-89, COS-92, COS-91 | confirmed, prose-ref |
+| John 17:12 | COS-14, COS-62, COS-92 | confirmed, prose-ref |
 | John 17:17 | COS-61 | prose-ref |
 | John 17:18 | COS-61 | prose-ref |
 | John 17:19 | COS-61 | prose-ref |
@@ -16007,13 +16454,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
 | John 17:26 | COS-62 | prose-ref |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90 | anchor, confirmed, prose-ref |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92 | anchor, confirmed, prose-ref |
 | John 17:4 | COS-55, COS-61 | anchor, prose-ref |
 | John 17:5 | COS-21, COS-43, COS-61, COS-89, COS-90, COS-91 | confirmed, paraphrase, prose-ref |
 | John 17:6 | COS-62 | prose-ref |
 | John 17:9 | COS-62 | prose-ref |
-| John 18:5 | COS-24 | confirmed (excerpt) |
-| John 18:6 | COS-24 | confirmed (excerpt) |
+| John 18:5 | COS-24, COS-92 | confirmed, confirmed (excerpt) |
+| John 18:6 | COS-24, COS-92 | confirmed, confirmed (excerpt) |
 | John 19:23 | COS-22 | confirmed |
 | John 19:24 | COS-22 | confirmed |
 | John 19:28 | COS-22 | confirmed |
@@ -16028,7 +16475,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 20:25 | COS-22, COS-36, COS-41 | confirmed, confirmed (excerpt), prose-ref |
 | John 20:26 | COS-22, COS-36 | confirmed (excerpt), prose-ref |
 | John 20:27 | COS-22, COS-36 | confirmed (excerpt), prose-ref |
-| John 3:13 | COS-21, COS-90 | confirmed, prose-ref |
+| John 3:13 | COS-21, COS-90, COS-92 | confirmed, prose-ref |
 | John 3:16 | P1-Q8, COS-63, COS-83, COS-90 | confirmed, prose-ref |
 | John 3:29 | COS-24 | anchor |
 | John 3:31 | COS-21 | confirmed (excerpt) |
@@ -16036,7 +16483,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 4:24 | COS-50, COS-53, COS-56, COS-58, COS-77, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 4:25-26 | COS-28 | anchor |
 | John 1:5 | COS-21 | confirmed |
-| John 5:19 | COS-26, COS-43, COS-89 | confirmed, prose-ref |
+| John 5:19 | COS-26, COS-43, COS-89, COS-92 | confirmed, prose-ref |
 | John 5:20 | COS-43 | anchor |
 | John 5:22 | COS-25, COS-37, COS-40, COS-42 | confirmed, confirmed (excerpt) |
 | John 5:23 | COS-25 | confirmed (excerpt) |
@@ -16046,11 +16493,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 1:6 | COS-21 | confirmed |
 | John 6:35 | P8, COS-24 | confirmed |
 | John 6:37 | COS-62 | prose-ref |
-| John 6:38 | COS-21, COS-26, COS-90 | confirmed, prose-ref |
+| John 6:38 | COS-21, COS-26, COS-90, COS-92 | confirmed, prose-ref |
 | John 6:39 | COS-62 | prose-ref |
 | John 6:46 | COS-13 | confirmed |
 | John 6:57 | COS-55 | anchor |
-| John 6:62 | COS-21, COS-90 | confirmed, prose-ref |
+| John 6:62 | COS-21, COS-90, COS-92 | confirmed, prose-ref |
 | John 1:7 | COS-21 | confirmed |
 | John 7:37 | COS-25, COS-58 | confirmed, confirmed (excerpt) |
 | John 7:38 | COS-25, COS-58, COS-59 | confirmed, confirmed (excerpt) |
@@ -16058,10 +16505,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JHN 7 42 | COS-06, COS-16, COS-19 | anchor, confirmed |
 | John 1:8 | COS-21 | confirmed |
 | John 8:12 | P8, COS-24 | confirmed |
-| John 8:24 | COS-24 | confirmed |
-| John 8:28 | COS-26, COS-56 | anchor, confirmed |
+| John 8:24 | COS-24, COS-92 | confirmed |
+| John 8:28 | COS-26, COS-56, COS-92 | anchor, confirmed |
 | John 8:29 | COS-26, COS-40, COS-56 | anchor, confirmed |
-| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
+| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24, COS-89, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 8:59 | P8, COS-24, COS-91 | anchor, prose-ref |
 | John 1:9 | COS-21 | confirmed |
 | John 11:9 | SAB10, SAB13, RECAP | confirmed, recap cross-reference |
@@ -16131,7 +16578,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | MAR 13 32 | COS-34 | confirmed |
 | Matthew 1:21 | COS-52, COS-91 | prose-ref |
 | Matthew 1:22 | COS-23 | confirmed |
-| Matthew 1:23 | COS-23 | confirmed |
+| Matthew 1:23 | COS-23, COS-92 | confirmed |
 | Matthew 11:2 | COS-23 | confirmed |
 | Matthew 11:27 | COS-24 | confirmed |
 | Matthew 11:3 | COS-23 | confirmed |
@@ -16187,8 +16634,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 27:59 | COS-22 | anchor |
 | Matthew 27:60 | COS-22 | confirmed (excerpt) |
 | Matthew 27:9 | COS-23 | anchor |
-| MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40 | anchor, confirmed, prose-ref |
-| Matthew 28:19 | COS-27, COS-83 | confirmed |
+| MAT 28 18 | COS-03, COS-27, COS-28, COS-35, COS-36, COS-40, COS-92 | anchor, confirmed, prose-ref |
+| Matthew 28:19 | COS-27, COS-83, COS-92 | confirmed |
 | Matthew 28:20 | COS-27, COS-83 | confirmed |
 | Matthew 3:1 | COS-23 | anchor |
 | Matthew 3:16 | COS-55 | anchor |
@@ -16259,10 +16706,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Numbers 6:26 | P1-Q5 | confirmed |
 | Numbers 6:27 | P1-Q5 | confirmed |
 | Philippians 2:9 | COS-43, COS-50 | anchor, prose-ref |
-| Philippians 2:10 | COS-01, COS-35, COS-42, COS-89, COS-90 | anchor, confirmed, prose-ref |
+| Philippians 2:10 | COS-01, COS-35, COS-42, COS-89, COS-90, COS-92 | anchor, confirmed, prose-ref |
 | Philippians 2:11 | COS-01, COS-25, COS-35, COS-40, COS-89, COS-90 | anchor, confirmed, prose-ref |
 | Philippians 2:13 | P9, COS-70 | confirmed |
-| Philippians 2:9 | COS-42, COS-58, COS-89, COS-90 | confirmed, prose-ref |
+| Philippians 2:9 | COS-42, COS-58, COS-89, COS-90, COS-92 | confirmed, prose-ref |
 | Philippians 2:5 | COS-21 | confirmed |
 | Philippians 2:6 | COS-21 | confirmed |
 | Philippians 2:7 | COS-21 | confirmed |
@@ -16337,10 +16784,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 15:3 | COS-52 | prose-ref |
 | Revelation 16:7 | COS-52 | prose-ref |
 | Revelation 17:14 | COS-52 | prose-ref |
-| Revelation 19:11 | COS-47 | confirmed |
-| Revelation 19:12 | COS-47 | confirmed |
-| Revelation 19:13 | COS-20, COS-47 | confirmed |
-| Revelation 19:16 | COS-47, COS-52, COS-63 | confirmed, prose-ref |
+| Revelation 19:11 | COS-47, COS-92 | confirmed |
+| Revelation 19:12 | COS-47, COS-92 | confirmed |
+| Revelation 19:13 | COS-20, COS-47, COS-92 | confirmed |
+| Revelation 19:16 | COS-47, COS-52, COS-63, COS-92 | confirmed, prose-ref |
 | Revelation 19:6 | COS-52 | prose-ref |
 | Revelation 2:1 | COS-44 | prose-ref |
 | Revelation 2:12 | COS-44 | prose-ref |
@@ -16363,7 +16810,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:2 | COS-50 | confirmed |
 | Revelation 22:20 | COS-42, COS-51, COS-88 | confirmed |
 | Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
-| Revelation 22:4 | COS-41, COS-50, COS-62, COS-66 | confirmed, prose-ref |
+| Revelation 22:4 | COS-41, COS-50, COS-62, COS-66, COS-92 | confirmed, prose-ref |
 | Revelation 22:5 | COS-50, COS-66 | confirmed, prose-ref |
 | Revelation 22:7 | COS-51 | confirmed |
 | Revelation 3:1 | COS-57 | confirmed |
@@ -16760,11 +17207,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Cor 12:8 | COS-88 | confirmed |
 | 2 Cor 12:9 | COS-88 | confirmed |
 | Rom 10:12 | COS-88 | confirmed |
-| Rom 10:13 | COS-88 | confirmed |
+| Rom 10:13 | COS-88, COS-92 | confirmed |
 | John 15:16 | COS-88 | confirmed |
 | John 16:23 | COS-88 | confirmed |
 | Acts 9:14 | COS-88 | confirmed |
-| Acts 22:16 | COS-88 | confirmed |
+| Acts 22:16 | COS-88, COS-92 | confirmed |
 | 2 Peter 3:18 | COS-88 | confirmed |
 | 2 Timothy 4:18 | COS-88 | confirmed |
 | 1 Cor 16:22 | COS-88 | confirmed |
@@ -16779,10 +17226,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:8 | COS-89 | confirmed |
 | 1 Peter 5:6 | COS-89 | prose-ref |
 | Hebrews 1:4 | COS-89 | prose-ref |
-| John 20:28 | COS-89, COS-91 | prose-ref |
-| 1 John 5:20 | COS-89, COS-91 | prose-ref |
+| John 20:28 | COS-89, COS-92, COS-91 | confirmed, prose-ref |
+| 1 John 5:20 | COS-89, COS-92, COS-91 | confirmed, prose-ref |
 | Titus 2:13 | COS-89, COS-91 | prose-ref, seat |
-| Hebrews 1:8 | COS-89, COS-90, COS-91 | prose-ref, seat |
+| Hebrews 1:8 | COS-89, COS-90, COS-92, COS-91 | confirmed, prose-ref, seat |
 | Matthew 4:2 | COS-89 | prose-ref |
 | John 4:6 | COS-89 | prose-ref |
 | John 3:6 | COS-90 | confirmed, prose-ref |
@@ -16804,7 +17251,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Luke 2:11 | COS-91 | anchor |
 | Romans 9:5 | COS-91 | anchor |
 | 1 Timothy 3:16 | COS-91 | anchor |
-| Isaiah 9:6 (NETS/MT numbering) | COS-91 | anchor |
+| Isaiah 9:6 (NETS/MT numbering) | COS-92, COS-91 | anchor, confirmed |
+| Isaiah 43:11 | COS-92 | confirmed |
+| Isaiah 43:12 | COS-92 | confirmed |
+| John 5:43 | COS-92 | confirmed |
+| John 10:25 | COS-92 | confirmed |
+| Matthew 10:40 | COS-92 | confirmed |
+| John 8:19 | COS-92 | confirmed |
+| Luke 24:47 | COS-92 | confirmed |
 
 ## The editions used
 
