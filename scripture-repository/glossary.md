@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1218 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1220 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1389 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1391 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -14398,6 +14398,261 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
 - *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
 
+## PASSAGE G — 1 TIMOTHY 3:16
+
+### 1 Timothy 3:16 — CONFIRMED
+*cited as: 1 Timothy 3:16 (Geneva 1599)*
+- **Geneva 1599:** “And without controuersie, great is the mysterie of godlinesse, which is, God is manifested in the flesh, iustified in the Spirit, seene of Angels, preached vnto the Gentiles, beleeued on in the world, and receiued vp in glorie.”
+- *Note:* W66 ADDED full-verse seat (the draft carried no Geneva line; the specified NT translation prints per the translation-addition rule, 10 Nov 2026). PRINT FACTS: the 1599 reads "which is, God is manifested in the flesh" (present tense + -ed) and ends "and received up in glory." (no "into") — the draft's KJV-voiced quotes render it "God was manifest in the flesh ... received up into glory."
+- *Checked {'date': '2026-11-12', 'editions': ['gnv'], 'result': 'confirmed'} · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · geneva_biblehub — concurs word-for-word with the 1599 print (the page labels the Geneva Bible of 1587; slug 1_timothy/3; eBible 1TI03 == TRB fresh 54/3 ALL-EXACT whole chapter, 2026-11-12) · greek_biblehub_fresh — the critical print reads ὃς (3739 Ὃς "Who", RelPro-NMS) — the draft's TR-fragment Θεός is the variant the whole section discusses; both draft fragments verified at token level (TR-fragment containment 1.0; OS-fragment containment 1.0; ὅς token present in the print) · aleph_itsee — CODEX SINAITICUS VERIFIED GOLD-STANDARD: aleph's ORIGINAL HAND reads ΟΣ (the relative pronoun, no bar); the CORRECTOR hand altered it to θεὸϲ (ΘΣ) — the draft's "small horizontal line added inside the omicron" narrative (canon 15687) corroborated by the codex's own apparatus*
+
+## GRAND SYNTHESIS — ALL SEVEN PASSAGES TOGETHER
+
+### Isaiah 9:6 (NETS/MT numbering) — PROSE-REF
+*cited as: Isaiah 9:6*
+- **NETS (Septuagint, modern):** “because a child was born for us, a son also given to us, whose sovereignty was upon his shoulder, and he is named Messenger of Great Counsel, for I will bring peace upon the rulers, peace and health to him.”
+- **Geneva 1599:** “For vnto vs a childe is borne, and vnto vs a Sonne is giuen: and the gouernement is vpon his shoulder, and he shall call his name Wonderfull, Counseller, The mightie God, The euerlasting Father, The prince of peace,”
+- *Note:* Section opening: "seven of the most difficult Christological passages ... along with Isaiah 9:6"
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh ✓ · greek_swete — 0.929 set-containment vs the draft Greek quote (canon 15541) at accent-fold; Swete variant set row-noted: clause-1 reads ἐγεννήθη (draft ἐγενήθη), Swete drops ἐγὼ (reads ἄξω γὰρ) and has ὑγείαν (draft ὑγίειان); the draft Greek is Rahlfs-voiced · nets_blob — word-for-word agree with the print-dump seat (normalized whitespace) · geneva_biblehub — concurs with the 1599 print at orthography fold classes (token diff NONE; eBible ISA09 == TRB 23/9 EXACT fresh 2026-11-12)*
+
+### John 1:1 — PROSE-REF
+*cited as: John 1:1-3*
+- **Geneva 1599:** “In the beginning was that Word, and that Word was with God, and that Word was God.”
+- *Note:* Table row: Traditional Weight "The Word \"was God\"; the Word shares the Father's Spirit-nature qualitatively; distinct in Person from ho Theos"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): gnv ✓*
+
+### John 8:58 — PROSE-REF
+*cited as: John 8:58*
+- **Geneva 1599:** “Iesus sayd vnto them, Verely, verely I say vnto you, before Abraham was, I am.”
+- **KJV:** “Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.”
+- *Note:* Table row: "Before Abraham was, I AM" — genuine pre-existence + Name-authority
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz, kjv*
+- *Double-checked (second source): gnv ✓ · kjv ✓ · greek_biblehub — Draft Greek word-set 100% vs BibleHub (Nestle 1904 + WH 1881 word-for-word) (RP Byzantine span backfilled into translations.greek_byz, wave 12) · trb ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 10:30 — PROSE-REF
+*cited as: John 10:30*
+- **Geneva 1599:** “I and my Father are one.”
+- *Note:* Table row: "I and the Father are one" — oneness in purpose, will, Spirit-communion
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+
+### John 20:28 — PROSE-REF
+*cited as: John 20:28*
+- **Geneva 1599:** “Then Thomas answered, and said vnto him, Thou art my Lord, and my God.”
+- *Note:* Table row: "My Lord and my God" — recognition of the Name-bearing manifestation
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.000 set-containment; the draft middot after αὐτῷ — BibleHub WH text carries none — punctuation class only*
+
+### Colossians 2:9 — PROSE-REF
+*cited as: Col 2:9*
+- **Geneva 1599:** “For in him dwelleth all the fulnesse of the Godhead bodily.”
+- *Note:* Table row: "Fullness of Godhead bodily" — the Father's fullness dwells in the incarnate Son who bears the Name
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Hebrews 1:8 — PROSE-REF
+*cited as: Heb 1:8*
+- **Geneva 1599:** “But vnto the Sonne he saith, O God, thy throne is for euer and euer: the scepter of thy kingdome is a scepter of righteousnes.”
+- *Note:* Table row: "Thy throne, O God" — Son bears the divine title as Name-bearer
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT fresh 2026-11-12 (TRB 58/1; biblehub.com/geneva/hebrews/1.htm concurs — a different publisher; eBible HEB01 unreachable by download today)*
+
+### Titus 2:13 — PROSE-REF
+*cited as: Titus 2:13*
+- **Geneva 1599:** “Looking for that blessed hope, and appearing of that glorie of that mightie God, and of our Sauiour Iesus Christ,”
+- *Note:* Table row: paired with 2 Pet 1:1 — "Jesus as God and Savior"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 2 Peter 1:1 — PROSE-REF
+*cited as: 2 Pet 1:1*
+- **Geneva 1599:** “Simon Peter a seruant and an Apostle of Iesus Christ, to you which haue obteined like precious faith with vs by the righteousnesse of our God and Sauiour Iesus Christ:”
+- *Note:* Table row: paired with Titus 2:13
+- *Checked {'date': '2026-11-12', 'editions': ['gnv'], 'result': 'confirmed'} · editions fetched: gnv, greek_biblehub*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.000*
+
+### John 17:3 — PROSE-REF
+*cited as: John 17:3*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* Inside the 1 John 5:20 table row's framework cell — "more naturally refers to the Father (John 17:3)"
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
+
+### 1 John 5:20 — PROSE-REF
+*cited as: 1 John 5:20*
+- **Geneva 1599:** “But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.”
+- *Note:* Table row: "This is the true God" — grammatically refers more naturally to the Father (John 17:3)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.0 set-containment; the draft Greek is TR/Byzantine-voiced — gamma-ginwskwmen (WH main text ginwskomen), esmen (WH esmen-with-different-accent), kai-acute — the WH-page streams carry the TR-family alternates; capitalization + punctuation classes only*
+
+### Romans 9:5 — PROSE-REF
+*cited as: Rom 9:5*
+- **Geneva 1599:** “Of whome are the fathers, and of whome concerning the flesh, Christ came, who is God ouer all, blessed for euer, Amen.”
+- *Note:* Table row: punctuation-dependent; compatible with either reading; not doctrinally decisive
+- *Checked {'date': '2026-11-12', 'editions': ['gnv'], 'result': 'confirmed'} · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · geneva_biblehub — concurs with the 1599 print at fold classes (one final-e variance: "of whom" vs "of whome"; slice trimmed at "Amen." where the running head glues on; eBible ROM09 == TRB 45/9 EXACT fresh 2026-11-12) · greek_biblehub_fresh — set-containment 1.000 vs the author's Greek quote (canon 15606) at accent/case fold — the draft Greek is WH-identical (ὧν οἱ πατέρες … ὁ ὢν ἐπὶ πάντων Θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας· ἀμήν)*
+
+### 1 Timothy 3:16 — PROSE-REF
+*cited as: 1 Timothy 3:16*
+- **Geneva 1599:** “And without controuersie, great is the mysterie of godlinesse, which is, God is manifested in the flesh, iustified in the Spirit, seene of Angels, preached vnto the Gentiles, beleeued on in the world, and receiued vp in glorie.”
+- *Note:* GRAND SYNTHESIS table row: Traditional Weight cell "God manifest in flesh"; Under-Our-Framework cell "Best manuscripts read \"who\" — coherent with our framework"
+- *Checked {'date': '2026-11-12', 'editions': ['gnv'], 'result': 'confirmed'} · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · geneva_biblehub — concurs word-for-word with the 1599 print (the page labels the Geneva Bible of 1587; slug 1_timothy/3; eBible 1TI03 == TRB fresh 54/3 ALL-EXACT whole chapter, 2026-11-12) · greek_biblehub_fresh — the critical print reads ὃς (3739 Ὃς "Who", RelPro-NMS) — the draft's TR-fragment Θεός is the variant the whole section discusses; both draft fragments verified at token level (TR-fragment containment 1.0; OS-fragment containment 1.0; ὅς token present in the print) · aleph_itsee — CODEX SINAITICUS VERIFIED GOLD-STANDARD: aleph's ORIGINAL HAND reads ΟΣ (the relative pronoun, no bar); the CORRECTOR hand altered it to θεὸϲ (ΘΣ) — the draft's "small horizontal line added inside the omicron" narrative (canon 15687) corroborated by the codex's own apparatus*
+
+### 1 Timothy 6:16 — PROSE-REF
+*cited as: 1 Tim 6:16*
+- **Geneva 1599:** “Who onely hath immortalitie, and dwelleth in the light that none can attaine vnto, whom neuer man sawe, neither can see, vnto whome bee honour and power euerlasting, Amen.”
+- *Note:* See above line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim incl. ἀμήν*
+
+### John 4:24 — PROSE-REF
+*cited as: John 4:24*
+- **Geneva 1599:** “God is a Spirite, and they that worship him, must worship him in spirit and trueth.”
+- *Note:* Culminating-beauty-of-the-Study line: "eternal Spirit, invisible, immortal, unapproachable in His essential glory (John 4:24; John 17:3; 1 Tim 6:16)"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh — 1.000 — draft Greek == WH verbatim (‹αὐτὸν› bracket is WH apparatus, not text)*
+
+### HEB 10 5 — PROSE-REF
+*cited as: Heb 10:5*
+- **Geneva 1599:** “Wherefore when he commeth into the world, he saith, Sacrifice and offring thou wouldest not: but a body hast thou ordeined me.”
+- *Note:* "the Father prepared a body for the Son (Heb 10:5)"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched · greek_biblehub_fresh — set-containment 1.000 across 10-5*
+
+### Philippians 2:9 — PROSE-REF
+*cited as: Phil 2:9*
+- **Geneva 1599:** “Wherefore God hath also highly exalted him, and giuen him a Name aboue euery name,”
+- *Note:* Grand Synthesis: "The Father gave Him the Name above every name (Phil 2:9)"
+- *Checked 2026-11-12 · editions fetched: gnv, second_check*
+- *Double-checked (second source): trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### 1 Corinthians 15:24-28 (range) — PROSE-REF
+*cited as: 1 Cor 15:24-28*
+- *Note:* "He will deliver the Kingdom to God the Father ... that God (the Father) may be all in all (1 Cor 15:24-28)"
+- *Checked 2026-11-11 · editions fetched: *
+
+### Ephesians 1:4 — PROSE-REF
+*cited as: Eph 1:4*
+- **Geneva 1599:** “As hee hath chosen vs in him, before the foundation of the worlde, that we should be holy, and without blame before him in loue:”
+- *Note:* Chosen in Him before the foundation of the world (Eph 1:4)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### John 17:24 — PROSE-REF
+*cited as: John 17:24*
+- **Geneva 1599:** “Father, I will that they which thou hast giuen me, be with me euen where I am, that they may beholde that my glorie, which thou hast giuen mee: for thou louedst me before the foundation of the world.”
+- *Note:* See above line
+- *Checked 2026-11-11 · editions fetched: gnv, greek_nestle*
+- *Double-checked (second source): gnv ✓ · greek_nestle — verified 2026-11-11, draft Greek vs BibleHub Nestle group ratio 0.96 · trb_fresh ✓ · greek_biblehub ✓*
+
+### John 17:6 — PROSE-REF
+*cited as: John 17:6*
+- **Geneva 1599:** “I haue declared thy Name vnto the men which thou gauest me out of the world: thine they were, and thou gauest them me, and they haue kept thy worde.”
+- *Note:* Given to the Son by the Father (John 17:6, 24)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### 1 Peter 1:18 — PROSE-REF
+*cited as: 1 Pet 1:18-19*
+- **Geneva 1599:** “Knowing that yee were not redeemed with corruptible things, as siluer and golde, from your vaine conuersation, receiued by the traditions of the fathers,”
+- *Note:* Redeemed by His precious blood (1 Pet 1:18-19)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 6:4 — PROSE-REF
+*cited as: Rom 6:3-5*
+- **Geneva 1599:** “We are buried then with him by baptisme into his death, that like as Christ was raysed vp from the dead to the glorie of the Father, so we also should walke in newnesse of life.”
+- *Note:* See above line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+
+### Romans 6:5 — PROSE-REF
+*cited as: Rom 6:3-5*
+- **Geneva 1599:** “For if we be planted with him to the similitude of his death, euen so shall we be to the similitude of his resurrection,”
+- *Note:* See above line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB) · greek_biblehub_fresh ✓*
+
+### Ephesians 2:5 — PROSE-REF
+*cited as: Eph 2:5-6*
+- **Geneva 1599:** “Euen when we were dead by sinnes, hath quickened vs together in Christ, by whose grace ye are saued,”
+- *Note:* Seated with Him at the Father's right hand (Eph 2:5-6)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 2:6 — PROSE-REF
+*cited as: Eph 2:5-6*
+- **Geneva 1599:** “And hath raysed vs vp together, and made vs sit together in the heauenly places in Christ Iesus,”
+- *Note:* See above line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Romans 6:3 — PROSE-REF
+*cited as: Rom 6:3-5*
+- **Geneva 1599:** “Knowe ye not, that all we which haue bene baptized into Iesus Christ, haue bene baptized into his death?”
+- *Note:* Baptized into His death, buried with Him, raised with Him (Rom 6:3-5)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Ephesians 1:13 — PROSE-REF
+*cited as: Eph 1:13-14*
+- **Geneva 1599:** “In whom also ye haue trusted, after that ye heard the worde of trueth, euen the Gospel of your saluation, wherein also after that ye beleeued, ye were sealed with the holy Spirite of promise,”
+- *Note:* Indwelt by the Father's Spirit — sealed (Eph 1:13-14; 4:30)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact per-verse (eBible==TRB 1.000) · greek_biblehub_fresh ✓*
+
+### Ephesians 1:14 — PROSE-REF
+*cited as: Eph 1:13-14*
+- **Geneva 1599:** “Which is the earnest of our inheritance, for the redemption of that libertie purchased vnto the prayse of his glory.”
+- *Note:* See above line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — exact · greek_biblehub — draft tokens all present in the WH text (koronis/apostrophe artifacts only)*
+
+### Ephesians 4:30 — PROSE-REF
+*cited as: Eph 4:30*
+- **Geneva 1599:** “And grieue not the holy Spirit of God, by whom ye are sealed vnto ye day of redemption.”
+- *Note:* See above line
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
+
+### Revelation 22:4 — PROSE-REF
+*cited as: Rev 22:4*
+- **Geneva 1599:** “And they shall see his face, and his Name shalbe in their foreheads.”
+- *Note:* Bearing the Father's Name (Rev 22:4)
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle, second_check*
+- *Double-checked (second source): trb_fresh ✓*
+
+### Romans 8:29 — PROSE-REF
+*cited as: Rom 8:29*
+- **Geneva 1599:** “For those which hee knewe before, he also predestinate to bee made like to the image of his Sonne, that hee might be the first borne among many brethren.”
+- *Note:* Being conformed to the image of the Son (Rom 8:29)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
+### Philippians 3:20 — PROSE-REF
+*cited as: Phil 3:20-21*
+- **Geneva 1599:** “But our conuersation is in heauen, from whence also we looke for the Sauiour, euen the Lord Iesus Christ,”
+- *Note:* Grand Synthesis: "change our vile bodies to be conformed to His glorious body (Phil 3:20-21)"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh (PHP03 == 50/3)*
+
+### Philippians 3:21 — PROSE-REF
+*cited as: Phil 3:20-21*
+- **Geneva 1599:** “Who shall change our vile bodie, that it may be fashioned like vnto his glorious body, according to the working, whereby hee is able euen to subdue all things vnto him selfe.”
+- *Note:* See above line (Phil 3:20-21 range)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh (PHP03 == 50/3)*
+
+### Ephesians 1:6 — PROSE-REF
+*cited as: Eph 1:6*
+- **Geneva 1599:** “To the prayse of the glory of his grace, wherewith he hath made vs freely accepted in his beloued,”
+- *Note:* Closing line: "All to the praise of the glory of His grace, wherein He has made us accepted in the Beloved (Eph 1:6)" — row-flagged (needs-authorization) standing
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -16228,7 +16483,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 15:22 | COS-40 | confirmed |
 | 1 Corinthians 15:23 | COS-40, COS-42 | confirmed |
 | 1 Corinthians 15:24 | COS-40, COS-92, COS-91 | confirmed, prose-ref |
-| 1 Corinthians 15:24-28 (range) | COS-39, COS-58 | confirmed, prose-ref |
+| 1 Corinthians 15:24-28 (range) | COS-39, COS-58, COS-100 | confirmed, prose-ref |
 | 1 Corinthians 15:25 | COS-40, COS-42 | confirmed |
 | 1 Corinthians 15:26 | COS-40 | confirmed |
 | 1 Corinthians 15:27 | COS-40 | confirmed |
@@ -16259,7 +16514,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Kings 8:10 | COS-54, COS-60, COS-64 | anchor, prose-ref |
 | 1 Kings 8:11 | COS-54, COS-60, COS-64 | anchor, prose-ref |
 | 1 Kings 8:27 (LXX 3 Kingdoms 8:27) | COS-53, COS-54, COS-56 | anchor, seat |
-| 1 Peter 1:18 | COS-63 | prose-ref |
+| 1 Peter 1:18 | COS-63, COS-100 | prose-ref |
 | 1 Peter 1:19 | COS-63 | prose-ref |
 | 1 Peter 2:22 | COS-22 | confirmed |
 | 1 Peter 2:24 | P1-Q8, COS-22 | confirmed, confirmed (excerpt) |
@@ -16274,7 +16529,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
 | 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-92, COS-95, COS-98, COS-91 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
-| 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
+| 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56, COS-100 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
 | 2 Corinthians 13:1 | SAB13, INTRO, SAB-INTRO | confirmed, recap cross-reference |
 | 2 Corinthians 3:17 | COS-60 | flagged |
@@ -16368,7 +16623,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:14 | COS-21 | confirmed |
 | Colossians 1:18 | COS-21 | confirmed |
 | Colossians 1:19 | COS-21 | confirmed |
-| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-94, COS-95, COS-91 | anchor, confirmed, prose-ref, seat |
+| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-94, COS-95, COS-100, COS-91 | anchor, confirmed, prose-ref, seat |
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
 | Colossians 3:2 | COS-62, COS-69, COS-70, COS-73 | anchor, confirmed, prose-ref |
@@ -16392,11 +16647,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Deuteronomy 6:5 | P9 | confirmed, paraphrase |
 | Deuteronomy 9:10 | P1-Q3 | confirmed |
 | Ephesians 1:10 | COS-49 | prose-ref |
-| Ephesians 1:13 | COS-58, COS-59, COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Ephesians 1:14 | COS-59, COS-63 | confirmed, prose-ref |
+| Ephesians 1:13 | COS-58, COS-59, COS-63, COS-66, COS-69, COS-100 | anchor, confirmed, prose-ref |
+| Ephesians 1:14 | COS-59, COS-63, COS-100 | confirmed, prose-ref |
 | Ephesians 1:17 | COS-01, COS-18, COS-88, COS-91 | confirmed, prose-ref |
-| Ephesians 1:4 | COS-63, COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Ephesians 1:6 | COS-62, COS-66, COS-69, COS-81 | anchor, confirmed, prose-ref |
+| Ephesians 1:4 | COS-63, COS-66, COS-69, COS-100 | anchor, confirmed, prose-ref |
+| Ephesians 1:6 | COS-62, COS-66, COS-69, COS-81, COS-100 | anchor, confirmed, prose-ref |
 | Ephesians 2:18 | COS-60, COS-88 | prose-ref |
 | Ephesians 2:21 | COS-54, COS-60, COS-62 | anchor, prose-ref |
 | Ephesians 2:22 | COS-54, COS-60, COS-62, COS-69 | anchor, prose-ref |
@@ -16406,7 +16661,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Ephesians 3:18 | COS-62, COS-88 | confirmed, prose-ref |
 | Ephesians 3:19 | COS-52, COS-62, COS-69, COS-88 | anchor, confirmed, prose-ref |
 | Ephesians 4:10 | COS-58 | confirmed |
-| Ephesians 4:30 | COS-55, COS-59, COS-63, COS-81 | anchor, confirmed, prose-ref |
+| Ephesians 4:30 | COS-55, COS-59, COS-63, COS-81, COS-100 | anchor, confirmed, prose-ref |
 | Ephesians 4:5 | COS-36 | prose-ref |
 | Ephesians 4:6 | COS-36 | prose-ref |
 | Ephesians 4:7 | COS-58 | confirmed |
@@ -16555,7 +16810,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | HEB 10 22 | COS-33, COS-60 | confirmed, prose-ref |
 | HEB 10 3 | COS-33 | confirmed |
 | HEB 10 4 | COS-33 | confirmed |
-| HEB 10 5 | COS-33, COS-42, COS-90, COS-92, COS-91 | confirmed, prose-ref |
+| HEB 10 5 | COS-33, COS-42, COS-90, COS-92, COS-100, COS-91 | confirmed, prose-ref |
 | HEB 10 6 | COS-33 | confirmed |
 | HEB 10 7 | COS-33 | confirmed |
 | Hebrews 11:17-19 | COS-02, COS-19 | confirmed, confirmed (excerpt) |
@@ -16702,7 +16957,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | JER 38 33 | COS-31, COS-59 | confirmed |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
 | Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
-| John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
+| John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-100, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 1:14 | COS-20, COS-42, COS-56, COS-60, COS-63, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | John 1:18 | COS-13, COS-20, COS-41, COS-50, COS-54, COS-56, COS-62, COS-90, COS-91 | anchor, confirmed, prose-ref |
 | John 1:2 | COS-01, COS-20, COS-89, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
@@ -16715,7 +16970,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 10:14 | COS-24 | confirmed |
 | John 10:28 | COS-62, COS-93 | confirmed, prose-ref |
 | John 10:29 | COS-62, COS-93 | confirmed, prose-ref |
-| John 10:30 | COS-36, COS-89, COS-92, COS-93, COS-91 | confirmed, prose-ref |
+| John 10:30 | COS-36, COS-89, COS-92, COS-93, COS-100, COS-91 | confirmed, prose-ref |
 | John 10:38 | COS-55, COS-56 | anchor, seat |
 | John 10:7 | COS-24 | confirmed |
 | John 10:9 | P8, COS-24 | confirmed |
@@ -16777,13 +17032,13 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:21 | COS-50, COS-55, COS-58, COS-59, COS-60, COS-62, COS-93 | confirmed, prose-ref, seat |
 | John 17:22 | COS-62, COS-93 | confirmed, prose-ref |
 | John 17:23 | COS-62, COS-66 | prose-ref |
-| John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
+| John 17:24 | COS-21, COS-62, COS-100 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
 | John 17:26 | COS-62 | prose-ref |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92, COS-95, COS-98 | anchor, confirmed, prose-ref |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92, COS-95, COS-98, COS-100 | anchor, confirmed, prose-ref |
 | John 17:4 | COS-55, COS-61 | anchor, prose-ref |
 | John 17:5 | COS-21, COS-43, COS-61, COS-89, COS-90, COS-91 | confirmed, paraphrase, prose-ref |
-| John 17:6 | COS-62 | prose-ref |
+| John 17:6 | COS-62, COS-100 | prose-ref |
 | John 17:9 | COS-62 | prose-ref |
 | John 18:5 | COS-24, COS-92 | confirmed, confirmed (excerpt) |
 | John 18:6 | COS-24, COS-92 | confirmed, confirmed (excerpt) |
@@ -16806,7 +17061,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 3:29 | COS-24 | anchor |
 | John 3:31 | COS-21 | confirmed (excerpt) |
 | John 1:4 | COS-21 | confirmed |
-| John 4:24 | COS-50, COS-53, COS-56, COS-58, COS-77, COS-90, COS-91 | anchor, confirmed, prose-ref, seat |
+| John 4:24 | COS-50, COS-53, COS-56, COS-58, COS-77, COS-90, COS-100, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 4:25-26 | COS-28 | anchor |
 | John 1:5 | COS-21 | confirmed |
 | John 5:19 | COS-26, COS-43, COS-89, COS-92 | confirmed, prose-ref |
@@ -16834,7 +17089,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 8:24 | COS-24, COS-92 | confirmed |
 | John 8:28 | COS-26, COS-56, COS-92 | anchor, confirmed |
 | John 8:29 | COS-26, COS-40, COS-56 | anchor, confirmed |
-| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24, COS-89, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref, seat |
+| John 8:58 | P8, COS-01, COS-11, COS-21, COS-24, COS-89, COS-90, COS-92, COS-100, COS-91 | anchor, confirmed, prose-ref, seat |
 | John 8:59 | P8, COS-24, COS-91 | anchor, prose-ref |
 | John 1:9 | COS-21 | confirmed |
 | John 11:9 | SAB10, SAB13, RECAP | confirmed, recap cross-reference |
@@ -17035,7 +17290,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:10 | COS-01, COS-35, COS-42, COS-89, COS-90, COS-92 | anchor, confirmed, prose-ref |
 | Philippians 2:11 | COS-01, COS-25, COS-35, COS-40, COS-89, COS-90 | anchor, confirmed, prose-ref |
 | Philippians 2:13 | P9, COS-70 | confirmed |
-| Philippians 2:9 | COS-42, COS-58, COS-89, COS-90, COS-92 | confirmed, prose-ref |
+| Philippians 2:9 | COS-42, COS-58, COS-89, COS-90, COS-92, COS-100 | confirmed, prose-ref |
 | Philippians 2:5 | COS-21 | confirmed |
 | Philippians 2:6 | COS-21 | confirmed |
 | Philippians 2:7 | COS-21 | confirmed |
@@ -17136,7 +17391,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:2 | COS-50 | confirmed |
 | Revelation 22:20 | COS-42, COS-51, COS-88 | confirmed |
 | Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
-| Revelation 22:4 | COS-41, COS-50, COS-62, COS-66, COS-92 | confirmed, prose-ref |
+| Revelation 22:4 | COS-41, COS-50, COS-62, COS-66, COS-92, COS-100 | confirmed, prose-ref |
 | Revelation 22:5 | COS-50, COS-66 | confirmed, prose-ref |
 | Revelation 22:7 | COS-51 | confirmed |
 | Revelation 3:1 | COS-57 | confirmed |
@@ -17178,15 +17433,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 5:19 | COS-22 | confirmed (excerpt) |
 | Romans 5:5 | P9, COS-62 | confirmed, prose-ref |
 | Romans 6:13 | SAB7, COS-69, COS-70 | anchor, confirmed |
-| Romans 6:4 | COS-60, COS-66, COS-69 | confirmed, flagged, prose-ref |
-| Romans 6:5 | COS-60, COS-66, COS-69 | confirmed, flagged, prose-ref |
+| Romans 6:4 | COS-60, COS-66, COS-69, COS-100 | confirmed, flagged, prose-ref |
+| Romans 6:5 | COS-60, COS-66, COS-69, COS-100 | confirmed, flagged, prose-ref |
 | Romans 6:6 | COS-65, COS-66, COS-69 | confirmed, prose-ref |
 | Romans 7:18 | SAB7, COS-70 | anchor, confirmed |
 | Romans 7:7 | COS-65 | prose-ref |
 | Romans 8:10 | COS-59, COS-60, COS-70 | confirmed, prose-ref |
 | Romans 8:11 | COS-59, COS-60, COS-63, COS-70 | confirmed, prose-ref |
 | Romans 8:17 | COS-62, COS-66, COS-67, COS-70 | confirmed, prose-ref |
-| Romans 8:29 | COS-63, COS-66, COS-68, COS-70 | anchor, confirmed, prose-ref |
+| Romans 8:29 | COS-63, COS-66, COS-68, COS-70, COS-100 | anchor, confirmed, prose-ref |
 | Romans 8:30 | COS-62, COS-68, COS-70 | anchor, confirmed, prose-ref |
 | Romans 8:32 | COS-22, COS-42, COS-70 | confirmed, confirmed (excerpt) |
 | ROM 8 34 | COS-30, COS-62, COS-68, COS-88 | anchor, confirmed, prose-ref |
@@ -17225,8 +17480,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 2 Timothy 2:11 | COS-66 | confirmed, prose-ref |
 | Colossians 2:20 | COS-66, COS-68 | anchor, confirmed |
 | Colossians 2:12 | COS-66 | confirmed, prose-ref |
-| Ephesians 2:5 | COS-66, COS-69 | anchor, confirmed, prose-ref |
-| Ephesians 2:6 | COS-66, COS-69 | anchor, confirmed, prose-ref |
+| Ephesians 2:5 | COS-66, COS-69, COS-100 | anchor, confirmed, prose-ref |
+| Ephesians 2:6 | COS-66, COS-69, COS-100 | anchor, confirmed, prose-ref |
 | Revelation 3:21 | COS-66 | prose-ref |
 | 2 Timothy 2:12 | COS-66 | confirmed, prose-ref |
 | Ephesians 1:3 | COS-66 | confirmed, prose-ref |
@@ -17235,7 +17490,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 3:9 | COS-66 | confirmed, prose-ref |
 | 1 Corinthians 1:2 | COS-66, COS-88 | confirmed, prose-ref |
 | Galatians 3:27 | COS-66 | confirmed, prose-ref |
-| Romans 6:3 | COS-66, COS-69 | confirmed, prose-ref |
+| Romans 6:3 | COS-66, COS-69, COS-100 | confirmed, prose-ref |
 | 1 Corinthians 12:13 | COS-66 | confirmed |
 | 1 Corinthians 12:12 | COS-66 | confirmed |
 | Ephesians 5:30 | COS-66 | confirmed, prose-ref |
@@ -17552,10 +17807,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Philippians 2:8 | COS-89 | confirmed |
 | 1 Peter 5:6 | COS-89 | prose-ref |
 | Hebrews 1:4 | COS-89 | prose-ref |
-| John 20:28 | COS-89, COS-92, COS-94, COS-91 | confirmed, prose-ref |
-| 1 John 5:20 | COS-89, COS-92, COS-95, COS-91 | confirmed, prose-ref |
-| Titus 2:13 | COS-89, COS-91 | prose-ref, seat |
-| Hebrews 1:8 | COS-89, COS-90, COS-92, COS-96, COS-91 | confirmed, prose-ref, seat |
+| John 20:28 | COS-89, COS-92, COS-94, COS-100, COS-91 | confirmed, prose-ref |
+| 1 John 5:20 | COS-89, COS-92, COS-95, COS-100, COS-91 | confirmed, prose-ref |
+| Titus 2:13 | COS-89, COS-100, COS-91 | prose-ref, seat |
+| Hebrews 1:8 | COS-89, COS-90, COS-92, COS-96, COS-100, COS-91 | confirmed, prose-ref, seat |
 | Matthew 4:2 | COS-89 | prose-ref |
 | John 4:6 | COS-89 | prose-ref |
 | John 3:6 | COS-90 | confirmed, prose-ref |
@@ -17569,15 +17824,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 6:51 | COS-90 | prose-ref |
 | Psalm 44:7 LXX (Psalm 45:6 MT) | COS-96, COS-91 | confirmed, prose-ref |
 | Psalm 44:8 LXX (Psalm 45:7 MT) | COS-96, COS-91 | confirmed, prose-ref |
-| 2 Peter 1:1 | COS-91 | confirmed |
+| 2 Peter 1:1 | COS-100, COS-91 | confirmed, prose-ref |
 | John 8:56 | COS-91 | confirmed |
 | John 8:57 | COS-91 | anchor |
 | 1 Peter 1:3 | COS-91 | confirmed (excerpt) |
 | Revelation 3:12 | COS-91 | anchor |
 | Luke 2:11 | COS-91 | anchor |
-| Romans 9:5 | COS-98, COS-91 | anchor, confirmed |
-| 1 Timothy 3:16 | COS-91 | anchor |
-| Isaiah 9:6 (NETS/MT numbering) | COS-92, COS-97, COS-91 | anchor, confirmed |
+| Romans 9:5 | COS-98, COS-100, COS-91 | anchor, confirmed, prose-ref |
+| 1 Timothy 3:16 | COS-99, COS-100, COS-91 | anchor, confirmed, prose-ref |
+| Isaiah 9:6 (NETS/MT numbering) | COS-92, COS-97, COS-100, COS-91 | anchor, confirmed, prose-ref |
 | Isaiah 43:11 | COS-92 | confirmed |
 | Isaiah 43:12 | COS-92 | confirmed |
 | John 5:43 | COS-92, COS-97 | confirmed, prose-ref |
@@ -17598,6 +17853,8 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hebrews 1:9 | COS-96 | prose-ref |
 | Romans 1:7 | COS-98 | prose-ref |
 | Romans 15:6 | COS-98 | prose-ref |
+| Philippians 3:20 | COS-100 | prose-ref |
+| Philippians 3:21 | COS-100 | prose-ref |
 
 ## The editions used
 
