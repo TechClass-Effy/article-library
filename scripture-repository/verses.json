@@ -959,6 +959,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "range endpoint anchor (W23 span)"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16202,
+     "cited_as": "prose-ref (In-the-consummation stage, range 1 Cor 15:24-28)",
+     "quotes": [
+      "the Son shall deliver the Kingdom to the Father, and shall Himself be subjected to the Father, that God (the Father) may be all in all"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -1116,6 +1128,18 @@
      "quotes": [
       "> Then shall be the end, when he hath delivered up the kingdom to God, even the Father, when he hath put down all rule, and all authority and power. For he must reign till he hath put all his enemies under his feet. The last enemy that shall be destroyed, is death. For he hath put down all things under his feet. (And when he saith that all things are subdued to him, it is manifest that he is excepted, which did put down all things under him.) And when all things shall be subdued unto him, then shall the Son also himself be subject unto him, that did subdue all things under him, that God may be all in all."
      ]
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16202,
+     "cited_as": "prose-ref (range ref)",
+     "quotes": [
+      "the Son shall deliver the Kingdom to the Father, and shall Himself be subjected to the Father, that God (the Father) may be all in all"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-11",
@@ -1225,6 +1249,18 @@
      "status": "prose-ref",
      "quote_kind": "reference",
      "note": "range endpoint anchor (W23 span)"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16202,
+     "cited_as": "prose-ref (range ref)",
+     "quotes": [
+      "the Son shall deliver the Kingdom to the Father, and shall Himself be subjected to the Father, that God (the Father) may be all in all"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -2969,6 +3005,18 @@
      "status": "confirmed",
      "note": "synthesis table step 5: resurrection at His coming",
      "quote_kind": "mention"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16200,
+     "cited_as": "mention (un-ref'd In-the-appearing bullet)",
+     "quotes": [
+      "The dead in Christ shall rise first."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "EXACT-modern echo of the COS-38 seat print; un-ref'd bullet in the arc — no flag"
     }
    ],
    "verified": "2026-11-11",
@@ -3018,6 +3066,18 @@
      "status": "confirmed",
      "quote_kind": "blockquote",
      "note": ""
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16200,
+     "cited_as": "mention (un-ref'd appearing bullet)",
+     "quotes": [
+      "All shall be gathered together to meet the Lord in the air."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "paraphrase echo of the print (\"caught up ... to meet the Lord in the air\"), un-ref'd — no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -10043,6 +10103,18 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16186,
+     "cited_as": "prose-ref (arc ref-cluster)",
+     "quotes": [
+      "to gather a people for His own possession — chosen, predestined, foreknown from before the foundation of the world"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -14012,6 +14084,18 @@
      "status": "confirmed",
      "quote_kind": "seat",
      "note": "POINT-10 fragment seat — v4 tail only (\"God sent forth his Son…\"); the draft ellipsis covers the head \"But when the fulnesse of time…\""
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16194,
+     "cited_as": "prose-ref (In-the-fullness-of-time stage)",
+     "quotes": [
+      "The Father sent forth His Son, born of a woman, born under the law"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "paraphrase re-voices the print \"made of a woman, made under the Law\" (KJV also \"made\") — paraphrase class, no flag"
     }
    ],
    "verified": "2026-11-11",
@@ -15902,6 +15986,18 @@
      "status": "prose-ref",
      "quote_kind": "mention",
      "note": "(D)-close upsert use."
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16190,
+     "cited_as": "prose-ref (arc — In the fall stage)",
+     "quotes": [
+      "the Seed of the woman would crush the serpent's head"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "echo of the Geneva/Hebrew \"crush\" family; the row's standing NETS-watch flag unchanged — no new flag"
     }
    ],
    "verified": "2026-11-11",
@@ -18009,6 +18105,18 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16194,
+     "cited_as": "prose-ref (same stage)",
+     "quotes": [
+      "descended into the body the Father prepared for Him"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "paraphrase of the print's 'preparedst me a body' — no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -45169,6 +45277,18 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16242,
+     "cited_as": "mention (Wait-together-for-the-Bridegroom bullet)",
+     "quotes": [
+      "Come, Lord Jesus."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "natural short form of the settled print ('Surely I come quickly. Amen. Come Lord Iesus.' — W55 note) — no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -47895,6 +48015,18 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16186,
+     "cited_as": "prose-ref (arc ref-cluster)",
+     "quotes": [
+      "to gather a people for His own possession — chosen, predestined, foreknown from before the foundation of the world"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -47963,6 +48095,18 @@
      "status": "prose-ref",
      "quote_kind": "seat",
      "note": "W67 seat (Part-1 §5): Geneva head renamed, Greek dropped; draft KJV-echo \"predestinated\" seated as the 1599 print \"predestinate\" + *(predestinated)* gloss (W39 8:29 class); Moreouer/iustified plain folds — EB==TRB ALL-EXACT fresh 45/8 whole chapter; WH-Greek 1.000"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16186,
+     "cited_as": "prose-ref (arc ref-cluster)",
+     "quotes": [
+      "to gather a people for His own possession — chosen, predestined, foreknown from before the foundation of the world"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -51067,6 +51211,18 @@
      "status": "anchor",
      "note": "",
      "quote_kind": "anchor"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16186,
+     "cited_as": "prose-ref (arc ref-cluster)",
+     "quotes": [
+      "to gather a people for His own possession — chosen, predestined, foreknown from before the foundation of the world"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "use-upsert — paraphrase echo, no flag"
     }
    ],
    "verified": "2026-11-12",
@@ -58142,6 +58298,18 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16230,
+     "cited_as": "prose-ref (Commit-to-a-local-assembly bullet)",
+     "quotes": [
+      "Do not neglect the gathering"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "ref-only pairing (Heb 10:24-25 seated W48); the bullet is the paraphrase class — no new flag"
     }
    ],
    "verified": "2026-11-12",
@@ -58187,6 +58355,18 @@
      "quotes": [],
      "status": "prose-ref",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16230,
+     "cited_as": "prose-ref (same bullet)",
+     "quotes": [
+      "Do not neglect the gathering"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "ref-only pairing; the row's W48 proposed-correction flag stands untouched — no new flag"
     }
    ],
    "verified": "2026-11-12",
@@ -65712,6 +65892,204 @@
      "source": "https://textusreceptusbibles.com/Geneva/49/4"
     }
    }
+  },
+  {
+   "id": "1PE.1.2",
+   "ref": "1 Peter 1:2",
+   "uses": [
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16186,
+     "cited_as": "prose-ref (arc ref-cluster — chosen, predestined, foreknown)",
+     "quotes": [
+      "to gather a people for His own possession — chosen, predestined, foreknown from before the foundation of the world"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "paraphrase echo in the closing ref-cluster (Eph 1:4-5; Rom 8:29-30; 1 Pet 1:2, 20) — no flag"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Elect according to the foreknowledge of God ye Father vnto sanctification of ye Spirit, through obedience and sprinkeling of the blood of Iesus Christ: Grace and peace bee multiplied vnto you.",
+     "source": "eBible.org enggnv 1PE01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/60/1"
+    }
+   },
+   "note": "paraphrase echo in the closing ref-cluster (Eph 1:4-5; Rom 8:29-30; 1 Pet 1:2, 20) — no flag"
+  },
+  {
+   "id": "1PE.1.20",
+   "ref": "1 Peter 1:20",
+   "uses": [
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16186,
+     "cited_as": "prose-ref (arc ref-cluster)",
+     "quotes": [
+      "foreknown from before the foundation of the world"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "the 1599 print reads 'ordeined before the foundation of the world' (KJV 'foreordained'); the draft paraphrase 'foreknown' — no flag (paraphrase class)"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Which was ordeined before the foundation of the world, but was declared in the last times for your sakes,",
+     "source": "eBible.org enggnv 1PE01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/60/1"
+    }
+   },
+   "note": "the 1599 print reads 'ordeined before the foundation of the world' (KJV 'foreordained'); the draft paraphrase 'foreknown' — no flag (paraphrase class)"
+  },
+  {
+   "id": "JAM.1.27",
+   "ref": "James 1:27",
+   "uses": [
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16240,
+     "cited_as": "prose-ref (Care-for-the-weak bullet)",
+     "quotes": [
+      "The widow, the orphan, the poor, the stranger — the Father's heart is toward them, and so must ours be"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "bullet paraphrases the print ('to visite the fatherlesse, and widdowes in their aduersitie') + ref — paraphrase class, no flag"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Pure religion and vndefiled before God, euen the Father, is this, to visite the fatherlesse, and widdowes in their aduersitie, and to keepe himselfe vnspotted of the world.",
+     "source": "eBible.org enggnv JAS01.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/59/1"
+    }
+   },
+   "note": "bullet paraphrases the print ('to visite the fatherlesse, and widdowes in their aduersitie') + ref — paraphrase class, no flag"
+  },
+  {
+   "id": "MAT.26.41",
+   "ref": "Matthew 26:41",
+   "uses": [
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16222,
+     "cited_as": "italic phrase-quote (bold-expectation bullet)",
+     "quotes": [
+      "Watch and pray."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "italic phrase-quote drops the print's comma (\"Watch, and praie:\") and the tail — phrase-compression, no flag; Mark 13:33 banks the same phrase"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Watch, and praie, that yee enter not into tentation: the spirit in deede is readie, but the flesh is weake.",
+     "source": "eBible.org enggnv MAT26.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/40/26"
+    }
+   },
+   "note": "italic phrase-quote drops the print's comma (\"Watch, and praie:\") and the tail — phrase-compression, no flag; Mark 13:33 banks the same phrase"
+  },
+  {
+   "id": "MRK.13.33",
+   "ref": "Mark 13:33",
+   "uses": [
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16222,
+     "cited_as": "italic phrase-quote (bold-expectation bullet)",
+     "quotes": [
+      "Watch and pray."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "EXACT at Geneva modern folds of the print's \"watch, and praie\" — good-reason exact (10 Nov rule), no flag"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Take heede: watch, and praie: for yee knowe not when the time is.",
+     "source": "eBible.org enggnv MRK13.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/41/13"
+    }
+   },
+   "note": "EXACT at Geneva modern folds of the print's \"watch, and praie\" — good-reason exact (10 Nov rule), no flag"
+  },
+  {
+   "id": "LUK.19.13",
+   "ref": "Luke 19:13",
+   "uses": [
+    {
+     "section": "COS-104",
+     "section_label": "THE CHRIST OF SCRIPTURE — PART THREE — THE FATHER'S UNFOLDING PLAN",
+     "article_line": 16222,
+     "cited_as": "italic phrase-quote (bold-expectation bullet)",
+     "quotes": [
+      "Occupy till I come."
+     ],
+     "status": "prose-ref",
+     "quote_kind": "mention",
+     "note": "EXACT at Geneva modern folds of the print (\"Occupie till I come.\") — good-reason exact (10 Nov rule), no flag"
+    }
+   ],
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "And he called his ten seruants, and deliuered them ten pieces of money, and sayd vnto them, Occupie till I come.",
+     "source": "eBible.org enggnv LUK19.htm (1599 Geneva)",
+     "date": "2026-11-12"
+    }
+   },
+   "second_check": {
+    "trb_fresh": {
+     "result": "agree — EB==TRB ALL-EXACT whole chapter (2026-11-12)",
+     "source": "https://textusreceptusbibles.com/Geneva/42/19"
+    }
+   },
+   "note": "EXACT at Geneva modern folds of the print (\"Occupie till I come.\") — good-reason exact (10 Nov rule), no flag"
   }
  ],
  "meta": {
@@ -65870,7 +66248,10 @@
    "COS-100",
    "COS-101",
    "COS-102",
-   "COS-103"
+   "COS-103",
+   "COS-104",
+   "COS-105",
+   "COS-106"
   ],
   "sections": [
    {
@@ -66438,6 +66819,18 @@
    {
     "key": "COS-103",
     "label": "PART TWO — WHAT THIS MEANS FOR US CORPORATELY"
+   },
+   {
+    "key": "COS-104",
+    "label": "PART THREE — THE FATHER'S UNFOLDING PLAN"
+   },
+   {
+    "key": "COS-105",
+    "label": "A PERSONAL CLOSING WORD"
+   },
+   {
+    "key": "COS-106",
+    "label": "A FINAL QUESTION"
    }
   ],
   "double_check": {
@@ -66498,8 +66891,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 139186,
-  "cos_sofar": "waves 68",
-  "glossary": 1391
+  "so_far_words": 140565,
+  "cos_sofar": "waves 69",
+  "glossary": 1433
  }
 }
