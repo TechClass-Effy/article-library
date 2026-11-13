@@ -1856,6 +1856,16 @@
      "status": "confirmed",
      "note": "W59 implication bullet",
      "quote_kind": "prose-ref"
+    },
+    {
+     "section": "COS-95",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE C — 1 JOHN 5:20",
+     "article_line": 15461,
+     "cited_as": "1 Cor 8:6",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "prose mention in \"The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)\""
     }
    ],
    "verified": "2026-11-12",
@@ -3172,6 +3182,16 @@
      "status": "confirmed",
      "note": "W59 implication bullet",
      "quote_kind": "prose-ref"
+    },
+    {
+     "section": "COS-95",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE C — 1 JOHN 5:20",
+     "article_line": 15461,
+     "cited_as": "1 Tim 2:5",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "prose mention in \"The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)\""
     }
    ],
    "verified": "2026-11-12",
@@ -7806,6 +7826,16 @@
      "status": "prose-ref",
      "note": "prose mention — \"the fullness of Godhead dwells bodily (Col 2:9)\"",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-95",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE C — 1 JOHN 5:20",
+     "article_line": 15469,
+     "cited_as": "Col 2:9",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "prose mention — Reading A (His fullness bodily, Col 2:9)"
     }
    ],
    "verified": "2026-11-12",
@@ -28405,6 +28435,28 @@
      "status": "confirmed",
      "note": "W59 implication bullet — flag 33",
      "quote_kind": "prose-ref"
+    },
+    {
+     "section": "COS-95",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE C — 1 JOHN 5:20",
+     "article_line": 15449,
+     "cited_as": "John 17:3",
+     "quotes": [
+      "- John 17:3 — *\"this is life eternal, that they know **thee** the only true God, and Jesus Christ whom thou hast sent.\"*"
+     ],
+     "status": "prose-ref",
+     "quote_kind": "prose-quote",
+     "note": "Under-Our-Framework bullet quotes the prayer KJV-voiced (\"the only true God\" vs the 1599 \"the onely very God\") — flag (33) scope WIDENED to this line, awaiting Gideon"
+    },
+    {
+     "section": "COS-95",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE C — 1 JOHN 5:20",
+     "article_line": 15461,
+     "cited_as": "John 17:3",
+     "quotes": [],
+     "status": "prose-ref",
+     "quote_kind": "reference",
+     "note": "prose mention in \"The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)\""
     }
    ],
    "verified": "2026-11-12",
@@ -28436,7 +28488,7 @@
    },
    "flag": {
     "kind": "proposed-correction",
-    "detail": "COS-92 implication bullet (canon 15003) quotes \"the only true God.\" KJV-voiced; the 1599 prints \"the onely very God\" (EB==TRB) — italic KJV attribution or re-voice awaits Gideon (wave-56 1JN.5.20 class)",
+    "detail": "COS-92 implication bullet (canon 15003) quotes \"the only true God.\" KJV-voiced; the 1599 prints \"the onely very God\" (EB==TRB) — italic KJV attribution or re-voice awaits Gideon (wave-56 1JN.5.20 class) WAVE-62 SCOPE WIDENED: the PASSAGE C framework bullet (canon 15449) quotes the same KJV-voiced wording (\"this is life eternal, that they know thee the only true God, and Jesus Christ whom thou hast sent.\") — same decision awaits Gideon.",
     "awaiting": "Gideon"
    }
   },
@@ -60928,6 +60980,18 @@
      "status": "confirmed",
      "note": "W59 option (C) mention — flag 30 standing",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-95",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE C — 1 JOHN 5:20",
+     "article_line": 15409,
+     "cited_as": "1 John 5:20",
+     "quotes": [
+      "*\"But we know that that Son of God is come, and hath given us a mind to know him, which is true: and we are in him that is true, that is, in that his Son Jesus Christ: this same is that very God, and that eternal life.\"*"
+     ],
+     "status": "confirmed",
+     "quote_kind": "seat",
+     "note": "W62 rename-pair seat (The Greek Text/1599 Geneva heads -> ONE \"1 John 5:20 — Geneva 1599:\" head); the full-verse Greek blockquote drops, Greek lives in the exam prose; ZERO-SPLICE — the draft IS the 1599 print at modern folds (giue/vs/Sone/Iesus class); EB==TRB EXACT fresh (62/5)"
     }
    ],
    "verified": "2026-11-12",
@@ -60943,6 +61007,11 @@
      "text": "But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.",
      "source": "https://www.textusreceptusbibles.com/Geneva/62/5",
      "result": "agree exact (EB==TRB)"
+    },
+    "greek_biblehub_fresh": {
+     "text": "οἴδαμεν δὲ ὅτι ὁ Υἱὸς τοῦ Θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκομεν τὸν ἀληθινόν· καὶ ἐσμὲν ἐν τῷ ἀληθινῷ, ἐν τῷ Υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ. οὗτός ἐστιν ὁ ἀληθινὸς Θεὸς καὶ ζωὴ αἰώνιος. ΙΩΑΝΝΟΥ Α΄ οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκομεν τὸν ἀληθινόν· καί ἐσμεν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ. οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος. ΙΩΑΝΝΟΥ Α΄ ] οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκομεν γινώσκωμεν τὸν ἀληθινόν· καί ἐσμεν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ. οὗτός ἐστιν ὁ ἀληθινὸς θεὸς καὶ ζωὴ αἰώνιος. ΙΩΑΝΝΟΥ Α΄ Οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ θεοῦ ἥκει, καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκωμεν τὸν ἀληθινόν· καί ἐσμεν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ χριστῷ. Οὗτός ἐστιν ὁ ἀληθινὸς θεός, καὶ ζωὴ αἰώνιος. ΙΩΑΝΝΟΥ Α΄ οἴδαμεν δὲ ὅτι ὁ υἱὸς τοῦ Θεοῦ ἥκει καὶ δέδωκεν ἡμῖν διάνοιαν ἵνα γινώσκομεν τὸν ἀληθινόν· καὶ ἐσμὲν ἐν τῷ ἀληθινῷ, ἐν τῷ υἱῷ αὐτοῦ Ἰησοῦ Χριστῷ. οὗτός ἐστιν ὁ ἀληθινὸς Θεὸς καὶ ζωὴ αἰώνιος. ΙΩΑΝΝΟΥ Α΄ εἴδω δέ ὅτι ὁ υἱός ὁ θεός ἥκω καί δίδωμι ἡμᾶς διάνοια ἵνα γινώσκω ὁ ἀληθινός καί εἰμί ἐν ὁ ἀληθινός ἐν ὁ υἱός αὐτός Ἰησοῦς Χριστός οὗτος εἰμί ὁ ἀληθινός θεός καί ζωή αἰώνιο",
+     "source": "https://biblehub.com/text/1_john/5-20.htm",
+     "result": "1.0 set-containment; the draft Greek is TR/Byzantine-voiced — gamma-ginwskwmen (WH main text ginwskomen), esmen (WH esmen-with-different-accent), kai-acute — the WH-page streams carry the TR-family alternates; capitalization + punctuation classes only"
     }
    },
    "note": "Wave 56 COS-89 prose-ref anchor; EB==TRB EXACT fresh",
@@ -62745,7 +62814,8 @@
    "THE FIVE DIFFICULT PASSAGES EXAMINED",
    "COS-92",
    "COS-93",
-   "COS-94"
+   "COS-94",
+   "COS-95"
   ],
   "sections": [
    {
@@ -63277,6 +63347,10 @@
    {
     "key": "COS-94",
     "label": "PASSAGE B — JOHN 20:28"
+   },
+   {
+    "key": "COS-95",
+    "label": "PASSAGE C — 1 JOHN 5:20"
    }
   ],
   "double_check": {
@@ -63337,8 +63411,8 @@
    ],
    "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
   },
-  "so_far_words": 131691,
-  "cos_sofar": "waves 61",
+  "so_far_words": 132260,
+  "cos_sofar": "waves 62",
   "glossary": 1386
  }
 }

@@ -13331,7 +13331,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.”
 - *Note:* COS-89 prose reference
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.0 set-containment; the draft Greek is TR/Byzantine-voiced — gamma-ginwskwmen (WH main text ginwskomen), esmen (WH esmen-with-different-accent), kai-acute — the WH-page streams carry the TR-family alternates; capitalization + punctuation classes only*
 
 ## YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT
 
@@ -14056,7 +14056,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - **Geneva 1599:** “But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.”
 - *Note:* W59 option (C) mention — flag 30 standing
 - *Checked 2026-11-12 · editions fetched: gnv*
-- *Double-checked (second source): trb_fresh ✓*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.0 set-containment; the draft Greek is TR/Byzantine-voiced — gamma-ginwskwmen (WH main text ginwskomen), esmen (WH esmen-with-different-accent), kai-acute — the WH-page streams carry the TR-family alternates; capitalization + punctuation classes only*
 
 ### Hebrews 1:8 — CONFIRMED
 *cited as: Hebrews 1:8*
@@ -14229,6 +14229,43 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Note:* W61 seat — ONE-WORD SPLICE: the draft reads the KJV-voiced "thou hast believed" under its 1599-Geneva label; the 1599 print (EB==TRB) reads "thou beleeuest" — seated "thou believest" (the print form at modern folds, JHN-14:17 knoweth class); the draft ellipsis covers "Iesus said vnto him,"
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment; WH carries a comma after ἑώρακάς με where the draft omits it — punctuation class only*
+
+## PASSAGE C — 1 JOHN 5:20
+
+### 1 John 5:20 — CONFIRMED
+*cited as: 1 John 5:20*
+- **Geneva 1599:** “But we know that that Sone of God is come, and hath giue vs a mind to know him, which is true: and we are in him that is true, that is, in that his Sone Iesus Christ: this same is that very God, and that eternal life.”
+- *Note:* W62 rename-pair seat (The Greek Text/1599 Geneva heads -> ONE "1 John 5:20 — Geneva 1599:" head); the full-verse Greek blockquote drops, Greek lives in the exam prose; ZERO-SPLICE — the draft IS the 1599 print at modern folds (giue/vs/Sone/Iesus class); EB==TRB EXACT fresh (62/5)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — 1.0 set-containment; the draft Greek is TR/Byzantine-voiced — gamma-ginwskwmen (WH main text ginwskomen), esmen (WH esmen-with-different-accent), kai-acute — the WH-page streams carry the TR-family alternates; capitalization + punctuation classes only*
+
+### John 17:3 — PROSE-REF
+*cited as: John 17:3*
+- **Geneva 1599:** “And this is life eternall, that they knowe thee to be the onely very God, and whom thou hast sent, Iesus Christ.”
+- *Note:* Under-Our-Framework bullet quotes the prayer KJV-voiced ("the only true God" vs the 1599 "the onely very God") — flag (33) scope WIDENED to this line, awaiting Gideon
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓ · trb_fresh ✓ · greek_biblehub ✓*
+
+### 1 Corinthians 8:6 — PROSE-REF
+*cited as: 1 Cor 8:6*
+- **Geneva 1599:** “Yet vnto vs there is but one God, which is that Father, of whome are all things, and we in him: and one Lord Iesus Christ, by whome are all things, and we by him.”
+- *Note:* prose mention in "The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)"
+- *Checked 2026-11-12 · editions fetched: gnv, greek_byz*
+- *Double-checked (second source): gnv ✓*
+
+### 1TI 2 5 — PROSE-REF
+*cited as: 1 Tim 2:5*
+- **Geneva 1599:** “For there is one God, and one Mediatour betweene God and man, which is the man Christ Iesus,”
+- *Note:* prose mention in "The Father as the One True God (John 17:3; 1 Cor 8:6; 1 Tim 2:5)"
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — eBible=TRB uv-norm ratio 0.0 (per-verse) · greek_biblehub — WH Greek fetched*
+
+### Colossians 2:9 — PROSE-REF
+*cited as: Col 2:9*
+- **Geneva 1599:** “For in him dwelleth all the fulnesse of the Godhead bodily.”
+- *Note:* prose mention — Reading A (His fullness bodily, Col 2:9)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT (normalized per-verse, eBible==TRB)*
 
 # THE BIBLICAL SABBATH
 
@@ -16077,7 +16114,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Corinthians 3:16 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 3:17 | COS-54, COS-59, COS-60, COS-62 | anchor, prose-ref |
 | 1 Corinthians 6:19 | COS-60, COS-62 | prose-ref |
-| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref |
+| 1 Corinthians 8:6 | COS-01, COS-15, COS-16, COS-18, COS-19, COS-21, COS-40, COS-44, COS-45, COS-56, COS-58, COS-60, COS-88, COS-89, COS-90, COS-92, COS-95, COS-91 | anchor, confirmed, prose-ref |
 | 1 John 1:1 | COS-20 | confirmed |
 | 1 John 1:2 | COS-20 | confirmed |
 | 1 John 1:9 | P7, COS-69, COS-81 | anchor, confirmed |
@@ -16104,7 +16141,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Thessalonians 4:16 | COS-38, COS-42 | confirmed |
 | 1 Thessalonians 4:17 | COS-38, COS-66 | confirmed |
 | 1 Timothy 1:17 | COS-53, COS-56, COS-62 | anchor, prose-ref, seat |
-| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-92, COS-91 | anchor, confirmed, prose-ref |
+| 1TI 2 5 | COS-32, COS-35, COS-40, COS-41, COS-52, COS-56, COS-58, COS-60, COS-62, COS-88, COS-90, COS-92, COS-95, COS-91 | anchor, confirmed, prose-ref |
 | 1 Timothy 6:15 | COS-47, COS-53 | prose-ref, seat |
 | 1 Timothy 6:16 | COS-47, COS-53, COS-54, COS-56 | anchor, prose-ref, seat |
 | 2 Chronicles 16:9 | COS-57 | prose-ref |
@@ -16200,7 +16237,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Colossians 1:14 | COS-21 | confirmed |
 | Colossians 1:18 | COS-21 | confirmed |
 | Colossians 1:19 | COS-21 | confirmed |
-| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-94, COS-91 | anchor, confirmed, prose-ref, seat |
+| Colossians 2:9 | COS-55, COS-89, COS-90, COS-92, COS-94, COS-95, COS-91 | anchor, confirmed, prose-ref, seat |
 | Colossians 1:20 | COS-21 | confirmed |
 | COL 3 1 | COS-34, COS-62, COS-66, COS-69, COS-73 | anchor, confirmed, prose-ref |
 | Colossians 3:2 | COS-62, COS-69, COS-70, COS-73 | anchor, confirmed, prose-ref |
@@ -16612,7 +16649,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
 | John 17:26 | COS-62 | prose-ref |
-| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92 | anchor, confirmed, prose-ref |
+| John 17:3 | COS-01, COS-15, COS-16, COS-17, COS-18, COS-19, COS-26, COS-40, COS-56, COS-58, COS-61, COS-88, COS-89, COS-90, COS-92, COS-95 | anchor, confirmed, prose-ref |
 | John 17:4 | COS-55, COS-61 | anchor, prose-ref |
 | John 17:5 | COS-21, COS-43, COS-61, COS-89, COS-90, COS-91 | confirmed, paraphrase, prose-ref |
 | John 17:6 | COS-62 | prose-ref |
@@ -17385,7 +17422,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | 1 Peter 5:6 | COS-89 | prose-ref |
 | Hebrews 1:4 | COS-89 | prose-ref |
 | John 20:28 | COS-89, COS-92, COS-94, COS-91 | confirmed, prose-ref |
-| 1 John 5:20 | COS-89, COS-92, COS-91 | confirmed, prose-ref |
+| 1 John 5:20 | COS-89, COS-92, COS-95, COS-91 | confirmed, prose-ref |
 | Titus 2:13 | COS-89, COS-91 | prose-ref, seat |
 | Hebrews 1:8 | COS-89, COS-90, COS-92, COS-91 | confirmed, prose-ref, seat |
 | Matthew 4:2 | COS-89 | prose-ref |
