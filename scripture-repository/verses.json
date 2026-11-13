@@ -1,737 +1,4 @@
 {
- "meta": {
-  "repository": "Gideon Ephratah — Scripture Repository (verified-verse bank)",
-  "created": "2026-11-02",
-  "purpose": "Every scripture quoted or referenced in Gideon's writings, fetched from named digital editions and verified word-for-word, banked so future work needs no repeat online confirmation.",
-  "editions": {
-   "brenton": "Brenton Septuagint (1851 English), eBible.org id eng-Brenton — OT only",
-   "gnv": "Geneva Bible 1599, eBible.org id enggnv — whole Bible",
-   "kjv": "King James Version 1769 standard text, eBible.org id eng-kjv2006 — whole Bible",
-   "nets": "NEW ENGLISH TRANSLATION OF THE SEPTUAGINT (NETS), Oxford PDF masters at ccat.sas.upenn.edu/nets/edition/ — THE SABBATH OF SCRIPTURE's OT standard (OT always NETS; LES noted where meaningfully different) NETS verse cache persisted at scripture-repository/editions/nets/nets_cache.json (Gen/Deut/Isa/Psa parsed 2026-11-07).",
-   "sinaiticus": "Codex Sinaiticus (Aleph 01, 4th c.) Greek readings + critical apparatus via greeknewtestament.net — the book's NT standard, codex named per quote",
-   "les": "Lexham English Septuagint v2 (2019, Lexham Press) — based on Swete’s Greek edition. No free public full text; rows captured only from sourced public citations (biblia.com + hermeneutics.stackexchange; thirdpeter.com posts, Aug 2026) and must be confirmed against the author’s Logos copy. Where Swete and Rahlfs Greek differ, LES follows Swete.",
-   "swete_greek": "Swete Septuagint Greek — theancientbible.org chapter pages (e.g. /isaiah-lxx-46/). Base text of the LES.",
-   "rahlfs_greek": "Rahlfs Septuagint Greek — el.wikisource.org book pages (Ησαΐας_(Rahlfs), Γένεσις_(Rahlfs)). Base text of NETS.",
-   "greek_byz": "Byzantine NT Greek readings via biblehub.com /text/ verse pages — used to check the author’s Greek NT annotation lines."
-  },
-  "conventions": [
-   "status: confirmed = quote matches the cited edition word-for-word; confirmed-excerpt = word-for-word but partial (ellipsis/clipped); differs-minor = same verse, few words changed; paraphrase = reworded; anchor = referenced narratively, not quoted; commentary = article's own rendering (canonical texts banked for reference).",
-   "For HALLOWED BE THY NAME: quotes cited 'LXX, Brenton' verified against Brenton's English Septuagint; quotes cited 'Geneva' against the 1599 Geneva Bible. Uncited blockquotes diagnosed against KJV (their usual voice) with GNV/Brenton banked alongside.",
-   "Psalms: the article cites Hebrew-psalm numbers (Ps 22:16); Brenton prints LXX numbers (Ps 21:17). Both recorded.",
-   "Hebrew names in the body (Moshe, Yohoshua, Yerushalayim, etc.) are the author's intentional practice - never flagged.",
-   "Ben Yachid uses JPS 1917 (Tanakh) + Geneva (NT); add JPS entries to this bank when those verses next need verification.",
-   "THE SABBATH OF SCRIPTURE (Nov 2026): OT = NETS exact; NT = ancient codex with the codex named (Sinaiticus dominant). Genesis-2 note: NETS Exodus uses 'heaven', NETS Genesis uses 'sky'."
-  ],
-  "section_order": [
-   "P1-Q1",
-   "P1-Q2",
-   "P1-Q3",
-   "P1-Q4",
-   "P1-Q5",
-   "P1-Q6",
-   "P1-Q7",
-   "P1-Q8",
-   "P2",
-   "P3",
-   "P4",
-   "P5",
-   "P6",
-   "P7",
-   "P8",
-   "P9",
-   "CLOSE",
-   "SAB1",
-   "SAB2",
-   "SAB3",
-   "SAB4",
-   "SAB5",
-   "SAB6",
-   "SAB7",
-   "SAB8",
-   "SAB9",
-   "SAB10",
-   "SAB11",
-   "SAB12",
-   "SAB13",
-   "COS-01",
-   "COS-02",
-   "COS-03",
-   "COS-04",
-   "COS-05",
-   "COS-06",
-   "COS-07",
-   "COS-08",
-   "COS-09",
-   "COS-10",
-   "COS-11",
-   "COS-12",
-   "COS-13",
-   "COS-14",
-   "COS-15",
-   "COS-16",
-   "COS-17",
-   "COS-18",
-   "COS-19",
-   "COS-20",
-   "COS-21",
-   "COS-22",
-   "COS-23",
-   "COS-24",
-   "COS-25",
-   "COS-26",
-   "COS-27",
-   "COS-28",
-   "COS-29",
-   "COS-30",
-   "COS-31",
-   "COS-32",
-   "COS-33",
-   "COS-34",
-   "COS-35",
-   "COS-36",
-   "COS-37",
-   "COS-38",
-   "COS-39",
-   "COS-40",
-   "COS-41",
-   "COS-42",
-   "COS-43",
-   "COS-44",
-   "COS-45",
-   "COS-46",
-   "COS-47",
-   "COS-48",
-   "COS-49",
-   "COS-50",
-   "COS-51",
-   "COS-52",
-   "COS-53",
-   "COS-54",
-   "COS-55",
-   "COS-56",
-   "COS-57",
-   "COS-58",
-   "COS-59",
-   "COS-60",
-   "COS-61",
-   "COS-62",
-   "COS-63",
-   "COS-64",
-   "COS-65",
-   "COS-66",
-   "COS-67",
-   "COS-68",
-   "COS-69",
-   "COS-70",
-   "COS-71",
-   "COS-72",
-   "COS-73",
-   "COS-74",
-   "COS-75",
-   "COS-76",
-   "COS-77",
-   "COS-78",
-   "COS-79",
-   "COS-80",
-   "COS-81",
-   "COS-82",
-   "COS-83",
-   "COS-84",
-   "COS-85",
-   "COS-86",
-   "COS-87",
-   "COS-88",
-   "COS-89",
-   "COS-90",
-   "THE FIVE DIFFICULT PASSAGES EXAMINED",
-   "COS-92"
-  ],
-  "sections": [
-   {
-    "key": "CLOSE",
-    "label": "A Closing Word to the Body of Christ",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P1-Q1",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q1",
-    "seeker_text": "The Seeker asked: Before you show me God's Name, I have to ask a question that sits underneath all the others. Letters didn't fall from the sky. Somewhere, somebody took the first picture and made it stand for a sound — and after him the whole world learned to write. Who was he? Where did he stand? And how did Israel come by her letters? Before we open the Name, I want to meet the hand that wrote it."
-   },
-   {
-    "key": "P1-Q2",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q2",
-    "seeker_text": "The Seeker asked: \"Who invented the alphabet? And how does anybody even do such a thing?\""
-   },
-   {
-    "key": "P1-Q3",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q3",
-    "seeker_text": "The Seeker asked: \"Wait. If men made the letters — did men make up God's Name?\""
-   },
-   {
-    "key": "P1-Q4",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q4",
-    "seeker_text": "The Seeker asked: \"But did Israel write? How do we know a people like that wrote at all?\""
-   },
-   {
-    "key": "P1-Q5",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q5",
-    "seeker_text": "The Seeker asked: \"What's the oldest piece of God's Book we still have?\""
-   },
-   {
-    "key": "P1-Q6",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q6",
-    "seeker_text": "The Seeker asked: \"So where did the old letters go? Are they gone?\""
-   },
-   {
-    "key": "P1-Q7",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q7",
-    "seeker_text": "The Seeker asked: \"But WHAT did the letters look like? Show me. Show me God's Name.\""
-   },
-   {
-    "key": "P1-Q8",
-    "label": "Part One — The Old Hand — Where the Letters Were Born",
-    "sub": "Seeker Q8",
-    "seeker_text": "The Seeker asked: \"Stop. Look not only at the letters — look at their ORDER. Is the Plan itself written in the Name?\""
-   },
-   {
-    "key": "P2",
-    "label": "Part Two — The Four Letters",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P3",
-    "label": "Part Three — When the Letters Themselves Are the Sound",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P4",
-    "label": "Part Four — The Breath of Christ Upon His Disciples",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P5",
-    "label": "Part Five — The Puzzle of \"Jehovah\"",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P6",
-    "label": "Part Six — Why the Two Breaths Sound Different",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P7",
-    "label": "Part Seven — Not Taking His Name in Vain",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P8",
-    "label": "Part Eight — The Great \"I AM\"",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "P9",
-    "label": "Part Nine — The Great Commandment as a Great Promise",
-    "sub": "",
-    "seeker_text": ""
-   },
-   {
-    "key": "SAB1",
-    "label": "THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)"
-   },
-   {
-    "key": "SAB10",
-    "label": "THE SABBATH OF SCRIPTURE — 10. When Does the Sabbath Start and End?"
-   },
-   {
-    "key": "SAB11",
-    "label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)"
-   },
-   {
-    "key": "SAB12",
-    "label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)"
-   },
-   {
-    "key": "SAB13",
-    "label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together"
-   },
-   {
-    "key": "SAB2",
-    "label": "THE SABBATH OF SCRIPTURE — 2. The Sabbath Before Sinai — What Israel Already Knew"
-   },
-   {
-    "key": "SAB3",
-    "label": "THE SABBATH OF SCRIPTURE — 3. The Manna Story (Exodus 16)"
-   },
-   {
-    "key": "SAB4",
-    "label": "THE SABBATH OF SCRIPTURE — 4. Sinai — God Speaks the Commandment (Exodus 20 / Deuteronomy 5)"
-   },
-   {
-    "key": "SAB5",
-    "label": "THE SABBATH OF SCRIPTURE — 5. The Sign, the Death Penalty, and the Fire (Exodus 31 / 35)"
-   },
-   {
-    "key": "SAB6",
-    "label": "THE SABBATH OF SCRIPTURE — 6. Called Together, and a Warning (Leviticus 23 / Numbers 15)"
-   },
-   {
-    "key": "SAB7",
-    "label": "THE SABBATH OF SCRIPTURE — 7. What the Prophets Said (Isaiah 56 / 58, Jeremiah 17, Ezekiel 20)"
-   },
-   {
-    "key": "SAB8",
-    "label": "THE SABBATH OF SCRIPTURE — 8. Jesus and the Sabbath"
-   },
-   {
-    "key": "SAB9",
-    "label": "THE SABBATH OF SCRIPTURE — 9. What the Apostles Did (Acts)"
-   },
-   {
-    "key": "COS-01",
-    "label": "THE CHRIST OF SCRIPTURE — 1. The Foundational Confession: The One God (Deut 6:4; Isa 44–46)"
-   },
-   {
-    "key": "COS-02",
-    "label": "THE CHRIST OF SCRIPTURE — 3. POSITs #2-#4: Genesis 22; Genesis 49:10; Numbers 24:17 (+ Summary)"
-   },
-   {
-    "key": "COS-03",
-    "label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father"
-   },
-   {
-    "key": "COS-04",
-    "label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation"
-   },
-   {
-    "key": "COS-05",
-    "label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses"
-   },
-   {
-    "key": "COS-06",
-    "label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars"
-   },
-   {
-    "key": "COS-07",
-    "label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)"
-   },
-   {
-    "key": "COS-08",
-    "label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)"
-   },
-   {
-    "key": "COS-09",
-    "label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel"
-   },
-   {
-    "key": "COS-10",
-    "label": "THE CHRIST OF SCRIPTURE — 14. THE FOURTH APPEARANCE — Genesis 32: Wrestling at Peniel"
-   },
-   {
-    "key": "COS-11",
-    "label": "THE CHRIST OF SCRIPTURE — 15. THE FIFTH APPEARANCE — Exodus 3: The Burning Bush"
-   },
-   {
-    "key": "COS-12",
-    "label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses"
-   },
-   {
-    "key": "COS-13",
-    "label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation"
-   },
-   {
-    "key": "COS-14",
-    "label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him"
-   },
-   {
-    "key": "COS-15",
-    "label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step"
-   },
-   {
-    "key": "COS-16",
-    "label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read"
-   },
-   {
-    "key": "COS-17",
-    "label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn"
-   },
-   {
-    "key": "COS-18",
-    "label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God"
-   },
-   {
-    "key": "COS-19",
-    "label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit"
-   },
-   {
-    "key": "COS-20",
-    "label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses"
-   },
-   {
-    "key": "COS-21",
-    "label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation"
-   },
-   {
-    "key": "COS-22",
-    "label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis"
-   },
-   {
-    "key": "COS-23",
-    "label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry"
-   },
-   {
-    "key": "COS-24",
-    "label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles"
-   },
-   {
-    "key": "COS-25",
-    "label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit"
-   },
-   {
-    "key": "COS-26",
-    "label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements"
-   },
-   {
-    "key": "COS-27",
-    "label": "Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)"
-   },
-   {
-    "key": "COS-28",
-    "label": "The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)"
-   },
-   {
-    "key": "COS-29",
-    "label": "33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4"
-   },
-   {
-    "key": "COS-30",
-    "label": "34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)"
-   },
-   {
-    "key": "COS-31",
-    "label": "35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)"
-   },
-   {
-    "key": "COS-32",
-    "label": "36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)"
-   },
-   {
-    "key": "COS-33",
-    "label": "37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)"
-   },
-   {
-    "key": "COS-34",
-    "label": "38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return"
-   },
-   {
-    "key": "COS-35",
-    "label": "39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)"
-   },
-   {
-    "key": "COS-36",
-    "label": "40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)"
-   },
-   {
-    "key": "COS-37",
-    "label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)"
-   },
-   {
-    "key": "COS-38",
-    "label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)"
-   },
-   {
-    "key": "COS-39",
-    "label": "43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)"
-   },
-   {
-    "key": "COS-40",
-    "label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)"
-   },
-   {
-    "key": "COS-41",
-    "label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)"
-   },
-   {
-    "key": "COS-42",
-    "label": "46. Grand Synthesis — The Consummation and the Father-Son Order"
-   },
-   {
-    "key": "COS-43",
-    "label": "47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last"
-   },
-   {
-    "key": "COS-44",
-    "label": "48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14"
-   },
-   {
-    "key": "COS-45",
-    "label": "49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb"
-   },
-   {
-    "key": "COS-46",
-    "label": "50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne"
-   },
-   {
-    "key": "COS-47",
-    "label": "51. (D) Revelation 19:11-16: The Returning King"
-   },
-   {
-    "key": "COS-48",
-    "label": "52. (D) Revelation 21:5-7: The One on the Throne Speaks"
-   },
-   {
-    "key": "COS-49",
-    "label": "53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type"
-   },
-   {
-    "key": "COS-50",
-    "label": "54. (D) Revelation 22:1-5: The Throne of God and of the Lamb"
-   },
-   {
-    "key": "COS-51",
-    "label": "55. (D) Revelation 22:7, 20: The Final Words"
-   },
-   {
-    "key": "COS-52",
-    "label": "56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands"
-   },
-   {
-    "key": "COS-53",
-    "label": "57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit"
-   },
-   {
-    "key": "COS-54",
-    "label": "58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things"
-   },
-   {
-    "key": "COS-55",
-    "label": "59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son (Image, Word made flesh, Man at the right hand)"
-   },
-   {
-    "key": "COS-56",
-    "label": "60. (E) Grand Synthesis — Part E Completed: The Nature and Essence of the Father as Eternal Spirit"
-   },
-   {
-    "key": "COS-57",
-    "label": "61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness"
-   },
-   {
-    "key": "COS-58",
-    "label": "Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit"
-   },
-   {
-    "key": "COS-59",
-    "label": "The Shift in the Spirit’s Operation — From “Upon” to “Within”"
-   },
-   {
-    "key": "COS-60",
-    "label": "John 14:16-23 — The Father and Son Making Their Abode with Us"
-   },
-   {
-    "key": "COS-61",
-    "label": "John 17 — The Context"
-   },
-   {
-    "key": "COS-62",
-    "label": "John 17:20-26 — The Prayer for the Elect"
-   },
-   {
-    "key": "COS-63",
-    "label": "Grand Synthesis — The Consummation of Our Entire Study"
-   },
-   {
-    "key": "COS-64",
-    "label": "Conclusion of Our Study"
-   },
-   {
-    "key": "COS-65",
-    "label": "Galatians 2:20 — The Foundational Declaration"
-   },
-   {
-    "key": "COS-66",
-    "label": "The Full Counsel — The Believer's Identification in Christ"
-   },
-   {
-    "key": "COS-67",
-    "label": "Romans 8:17 — The Foundational Text"
-   },
-   {
-    "key": "COS-68",
-    "label": "What Does \"Suffering with Christ\" Mean?"
-   },
-   {
-    "key": "COS-69",
-    "label": "THE INDICATIVE-TO-IMPERATIVE PATTERN"
-   },
-   {
-    "key": "COS-70",
-    "label": "Romans 8 — Life in the Spirit: The Mountain Peak"
-   },
-   {
-    "key": "COS-71",
-    "label": "PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND"
-   },
-   {
-    "key": "COS-72",
-    "label": "PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH"
-   },
-   {
-    "key": "COS-73",
-    "label": "PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON"
-   },
-   {
-    "key": "COS-74",
-    "label": "GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER"
-   },
-   {
-    "key": "COS-75",
-    "label": "PRAYER — COMPLETING THE LORD'S PRAYER PATTERN; PRAYING IN THE SPIRIT; THE MODES AND THE POSTURE OF PRAYER"
-   },
-   {
-    "key": "COS-76",
-    "label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND — The Nature of Scripture; the Word's Active Power; the Modes of Engaging the Word; Practical Implications"
-   },
-   {
-    "key": "COS-77",
-    "label": "PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life"
-   },
-   {
-    "key": "COS-78",
-    "label": "PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications"
-   },
-   {
-    "key": "COS-79",
-    "label": "PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications"
-   },
-   {
-    "key": "COS-80",
-    "label": "PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications"
-   },
-   {
-    "key": "COS-81",
-    "label": "PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications"
-   },
-   {
-    "key": "COS-82",
-    "label": "PART 8 — THE BELIEVER'S RESPONSE TO TRIALS"
-   },
-   {
-    "key": "COS-83",
-    "label": "PART 9 — WITNESS AND PROCLAMATION"
-   },
-   {
-    "key": "COS-84",
-    "label": "PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications"
-   },
-   {
-    "key": "COS-85",
-    "label": "GRAND SYNTHESIS — THE ARCHITECTURE OF THE FAITHFUL CHRISTIAN LIFE"
-   },
-   {
-    "key": "COS-86",
-    "label": "A FINAL OBSERVATION"
-   },
-   {
-    "key": "COS-87",
-    "label": "A QUESTION FOR YOU — the prayer-to-Jesus bridge"
-   },
-   {
-    "key": "COS-88",
-    "label": "THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?"
-   },
-   {
-    "key": "COS-89",
-    "label": "PHILIPPIANS 2:5-11 — THE FULL CONTEXT"
-   },
-   {
-    "key": "COS-90",
-    "label": "YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT"
-   },
-   {
-    "key": "COS-91",
-    "label": "THE FIVE DIFFICULT PASSAGES EXAMINED"
-   },
-   {
-    "key": "COS-92",
-    "label": "YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY"
-   }
-  ],
-  "double_check": {
-   "date": "2026-11-02",
-   "method": "every banked edition text re-checked against a second independent online source",
-   "sources": {
-    "brenton": "BibleHub Brenton Septuagint chapter pages (biblehub.com/sep/{book}/{chapter}.htm) + qbible.com Brenton pages",
-    "gnv": "TextusReceptusbibles.com Geneva 1599 verse tables",
-    "kjv": "BibleHub King James chapter pages"
-   },
-   "notes": [
-    "qbible is a names-restored edition (substituted words, Brenton's word in braces) and numbers Joshua/Jeremiah by the Hebrew order - handled in comparison, noted per entry.",
-    "eBible's Brenton Jeremiah numbering follows the LXX order (New-Covenant verse at JER 38:31-33); second sources carry the same text at Hebrew-numbered 31:31-33.",
-    "Verdicts live on each verse entry as second_check: {edition: {result, url, note?}}."
-   ],
-   "COS-01": {
-    "date": "2026-11-07",
-    "method": "GNV rows double-checked vs textusreceptusbibles.com (all agree); NETS verified via Rahlfs concurrence + raw PDF page spot-checks; Greek notes vs Swete + Rahlfs (OT) and biblehub /text/ (NT).",
-    "notes": "LES rows captured from public citations; full LES pass awaits the author’s Logos copy."
-   },
-   "COS-16": {
-    "date": "2026-11-11",
-    "method": "GEN 16/22 re-seats: seat text pulled from the Wave-4 COS-07/08 rows, cut gloss-stripped, compared to the NETS cache (Rahlfs/Swete concurrence of Wave 4). GNV rows eBible=TRB 1.00. Draft Greek 1 Cor 1 via biblehub /text/ verse pages (Nestle/WH).",
-    "notes": ""
-   },
-   "COS-17": {
-    "date": "2026-11-11",
-    "method": "1 Cor 1:18-24, 30 + Col 1:15-17 Geneva fetched fresh from eBible and second-checked word-for-word vs textusreceptusbibles.com (14/14 ratio 1.00); draft Greek per-verse vs biblehub /text/ (cover 1.0 for all three groups; Col only the δι᾽/δι elision token).",
-    "notes": "Col/1Cor seat practice: modernized-orthography rendering of the Geneva wording stands from Waves 3-7; eBible/TRB print 1599 orthography. Flagged for his word (see so-far note)."
-   },
-   "COS-18": {
-    "date": "2026-11-11",
-    "method": "Audit #1 re-lists witnesses already double-checked (NETS by Rahlfs concurrence; Geneva rows eBible=TRB 1.00). New MARK.12.29 row fetched fresh: eBible=TRB word-for-word (ratio 1.00) + biblehub Byzantine Greek. NETS cache texts asserted non-empty and corroborated against the COS-01 quotes (gloss-stripped).",
-    "notes": "KJV-voiced audit bullet quotes swapped to the specified translations (NETS/Geneva) per the translation rule; draft wordings recorded on each row."
-   }
-  },
-  "sabbath_roundup": {
-   "book": "THE BIBLICAL SABBATH (the-biblical-sabbath.html)",
-   "verified": "2026-11-03..04",
-   "entries": 248,
-   "sections": "SAB1-SAB13 + intro; 63 scripture passages mapped; every verse in the book banked",
-   "verbatim-confirmations": "NT codex quotes rendered faithfully incl. aleph's rare readings (Acts 16:13 'we were speaking'; Mark 2:27 'and not the man'; John 20:20-family plural 'his peoples' Rev 21:3; 'Sabbath-keeping' Heb 4:9; 'Lordly day' Rev 1:10)",
-   "proposed_corrections": "OT blockquotes are smoothed NETS, not NETS-exact (62 verse entries flagged with NETS-exact replacement text ready) — awaiting approval",
-   "codex_mismatches": [
-    "MT.5.19 (Aleph omits the 'do and teach' clause — needs ruling)",
-    "MK.1.21 (Aleph lacks 'having entered')",
-    "LK.14.5 (Aleph reads 'donkey or ox', article 'son or ox')"
-   ],
-   "second_pass_pending": [
-    "1 Cor 16:1-2 + Col/Gal/Rom/Heb/Rev codex readings vs codexsinaiticus.org XML (site unreachable tonight; verified vs standard critical Greek meanwhile)",
-    "Neh 13 quote = 2 Esdras 23:15-19 (NETS) — Brenton 2nd-check skipped (Brenton Esdras files not in local cache)"
-   ],
-   "nets_cache_gaps_fixed": [
-    "GEN 1:16-31 (poetry-range verses restored from page dumps)",
-    "JER 17 (opens at v5, restored)",
-    "DEU 23:24-25 (Greek reverses Hebrew order; restored)",
-    "known remaining interior gaps (not cited in this book): EXO 37-39, ISA 9, JER 52"
-   ],
-   "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
-  },
-  "so_far_words": 130120,
-  "cos_sofar": 59,
-  "glossary": 1376
- },
  "verses": [
   {
    "id": "1CH.14.15",
@@ -25649,6 +24916,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15168,
+     "cited_as": "John 10:27-30",
+     "quotes": [
+      "*\"My sheep hear my voice... And I give unto them eternal life, and they shall never perish, neither shall any pluck them out of mine hand. My Father which gave them me, is greater then *(than)* all, and none is able to take them out of my Fathers hand. I and my Father are one.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 span seat (v28 quoted in full at modern folds)",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -25664,7 +24943,8 @@
      "source": "textusreceptusbibles.com/Geneva/43/10",
      "result": "agree (1.000)"
     }
-   }
+   },
+   "note": "W60 verified banked==fresh (EB==TRB EXACT)"
   },
   {
    "id": "JHN.10.29",
@@ -25679,6 +24959,30 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15168,
+     "cited_as": "John 10:27-30",
+     "quotes": [
+      "*\"My sheep hear my voice... And I give unto them eternal life, and they shall never perish, neither shall any pluck them out of mine hand. My Father which gave them me, is greater then *(than)* all, and none is able to take them out of my Fathers hand. I and my Father are one.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 span seat; \"greater then *(than)* all\" per the wave-17 JHN-14:28 gloss class; \"my Fathers hand\" without the apostrophe, wave-48 Rom-12:5 class",
+     "quote_kind": "seat"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15176,
+     "cited_as": "v. 29",
+     "quotes": [
+      "My Father which gave them me, is greater than all"
+     ],
+     "status": "prose-ref",
+     "note": "the exam prose quotes the v29 wording at its modern folds (\"than\"); the print \"then\" stays in the seat with the *(than)* gloss",
+     "quote_kind": "prose-quote"
     }
    ],
    "verified": "2026-11-12",
@@ -25694,7 +24998,8 @@
      "source": "textusreceptusbibles.com/Geneva/43/10",
      "result": "agree (1.000)"
     }
-   }
+   },
+   "note": "W60 verified banked==fresh"
   },
   {
    "id": "JHN.10.30",
@@ -25747,6 +25052,18 @@
      "status": "confirmed",
      "note": "W59 option (A) mention — flag standing from the Zech-13:7 observation",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15154,
+     "cited_as": "John 10:30",
+     "quotes": [
+      "I and my Father are one."
+     ],
+     "status": "confirmed",
+     "note": "W60 opener seat — print exact; the standing flag's wording question resolves here",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -25762,9 +25079,10 @@
    },
    "flag": {
     "kind": "proposed-correction",
-    "detail": "Observation (Zech 13:7 section) quotes \"I and the Father are one\"; Geneva 1599 prints \"I and my Father are one\" — propose italic version-name in line per the 10 Nov 2026 attribution rule. / PLUS wave-58: QUESTION option (A) (canon 14624) quotes \"I and the Father are one.\" — NETS-voiced; the 1599 prints \"I and my Father are one.\" — italic version-name or re-voice awaits Gideon.",
-    "awaiting": "Gideon"
-   }
+    "awaiting": "Gideon",
+    "detail": "RESOLVED IN SEAT (wave 60, canon 15154): the PASSAGE A seat prints the 1599 \"I and my Father are one.\" — the remaining scope = the two KJV-voiced prose quotes: (a) the Zech-13:7-section observation \"I and the Father are one\"; (b) QUESTION option (A) (canon 14624) — italic version-name or re-voice awaits Gideon."
+   },
+   "note": "W60 span seat use (15168) added; banked==fresh EB==TRB EXACT"
   },
   {
    "id": "JHN.10.38",
@@ -28268,6 +27586,18 @@
      "status": "confirmed",
      "note": "W59 re-present; print colon kept; Name-clause selection per the draft",
      "quote_kind": "seat"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15211,
+     "cited_as": "John 17:11",
+     "quotes": [
+      "*\"...that they may be one, as we are.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 re-present; the draft ellipsis covers the print head; the oneness clause = the print tail at modern folds",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -28297,7 +27627,8 @@
      "source": "https://biblehub.com/text/john/17-11.htm",
      "result": "1.000"
     }
-   }
+   },
+   "note": "W60 re-present verified banked==fresh"
   },
   {
    "id": "JHN.17.12",
@@ -28600,6 +27931,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15217,
+     "cited_as": "John 17:21-22",
+     "quotes": [
+      "*\"That they all may be one, as thou, O Father, art in me, and I in thee: even that they may be also one in us... that they may be one, as we are one,\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 re-present; the print colon restored over the draft comma (wave-59 JHN-17:11-12 class); the draft ellipsis covers the print v21 tail (\"that the worlde may beleeue...\") + the v22 head",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -28637,7 +27980,8 @@
      "source": "https://biblehub.com/text/john/17-21.htm (WH/Nestle print)",
      "result": "WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class)"
     }
-   }
+   },
+   "note": "W60 re-present verified banked==fresh"
   },
   {
    "id": "JHN.17.22",
@@ -28652,6 +27996,18 @@
      "status": "prose-ref",
      "note": "",
      "quote_kind": "reference"
+    },
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15217,
+     "cited_as": "John 17:21-22",
+     "quotes": [
+      "*\"That they all may be one, as thou, O Father, art in me, and I in thee: even that they may be also one in us... that they may be one, as we are one,\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 re-present; the span fragment = the print v22 tail; the print verse-final comma kept over the draft period (2CO 9:8 class)",
+     "quote_kind": "seat"
     }
    ],
    "verified": "2026-11-12",
@@ -28672,7 +28028,8 @@
      "source": "biblehub.com/text/john/17-22",
      "result": "agree (0.929)"
     }
-   }
+   },
+   "note": "W60 re-present verified banked==fresh"
   },
   {
    "id": "JHN.17.23",
@@ -62732,6 +62089,1092 @@
     }
    },
    "note": "NEW W59 mention-anchor"
+  },
+  {
+   "id": "JHN.10.24",
+   "ref": "John 10:24",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then came the Iewes round about him, and sayd vnto him, Howe long doest thou make vs dout? If thou be that Christ, tell vs plainely.",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15160,
+     "cited_as": "(v. 24)",
+     "quotes": [
+      "How long dost thou make us doubt? If thou be the Christ, tell us plainly."
+     ],
+     "status": "prose-ref",
+     "note": "the draft matches the 1599 print at modern folds EXCEPT \"the Christ\" — the print reads \"that Christ\"; \"make us doubt\" IS the print form (the KJV adds \"to\")",
+     "quote_kind": "prose-quote"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then came the Iewes round about him, and sayd vnto him, Howe long doest thou make vs dout? If thou be that Christ, tell vs plainely.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    }
+   },
+   "note": "NEW W60",
+   "flag": {
+    "kind": "proposed-correction",
+    "awaiting": "Gideon",
+    "detail": "Context prose (canon 15160) quotes \"If thou be the Christ\" — the 1599 prints \"If thou be that Christ\" (EB==TRB); the \"the\" = the KJV echo — italic KJV attribution or re-voice awaits Gideon. The rest of the quote (\"How long dost thou make us doubt? If... tell us plainly.\") IS the 1599 print at modern folds."
+   }
+  },
+  {
+   "id": "JHN.10.27",
+   "ref": "John 10:27",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "My sheepe heare my voyce, and I knowe them, and they follow me,",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15168,
+     "cited_as": "John 10:27-30",
+     "quotes": [
+      "*\"My sheep hear my voice... And I give unto them eternal life, and they shall never perish, neither shall any pluck them out of mine hand. My Father which gave them me, is greater then *(than)* all, and none is able to take them out of my Fathers hand. I and my Father are one.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 span seat; the draft ellipsis covers the v27 tail (, and I know them, and they follow me,)",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "My sheepe heare my voyce, and I knowe them, and they follow me,",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσίν μοι, ΚΑΤΑ ΙΩΑΝΝΗΝ τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσίν μοι, ΚΑΤΑ ΙΩΑΝΝΗΝ ] τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσίν μοι, ΚΑΤΑ ΙΩΑΝΝΗΝ ὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούει, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσίν μοι· ΚΑΤΑ ΙΩΑΝΝΗΝ τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούει, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσί μοι, ΚΑΤΑ ΙΩΑΝΝΗΝ τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσίν μοι, ΚΑΤΑ ΙΩΑΝΝΗΝ τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούει, κἀγὼ γινώσκω αὐτά, καὶ ἀκολουθοῦσί μοι· ΚΑΤΑ ΙΩΑΝΝΗΝ τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούει, κἀγὼ γινώσκω αὐτά καὶ ἀκολουθοῦσίν μοι ) τὰ πρόβατα τὰ ἐμὰ τῆς φωνῆς μου ἀκούουσιν, καγὼ γινώσκω αὐτὰ καὶ ἀκολουθοῦσιν μοι,",
+     "source": "https://biblehub.com/text/john/10-27.htm",
+     "result": "1.000 set-containment; WH reads ἀκούουσιν (plural \"hear\") — the draft block reads ἀκούει (singular); the draft is the TR/Rahlfs voice — row-noted"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "JHN.10.32",
+   "ref": "John 10:32",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus answered them, Many good workes haue I shewed you from my Father: for which of these workes doe ye stone me?",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15241,
+     "cited_as": "John 10:31-33",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "covered by the span-seat ellipsis (the draft omits v32 between its two fragments); the print text banked",
+     "quote_kind": "reference"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus answered them, Many good workes haue I shewed you from my Father: for which of these workes doe ye stone me?",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "JHN.10.31",
+   "ref": "John 10:31",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Then ye Iewes againe tooke vp stones, to stone him.",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15241,
+     "cited_as": "John 10:31-33",
+     "quotes": [
+      "*\"...Then the Jews again took up stones, to stone him... For blasphemy, and that thou being a man, makest thyself God.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 seat fragment; folds: article-ye -> the, vp -> up, Iewes/Iewes againe -> again; zero splice",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Then ye Iewes againe tooke vp stones, to stone him.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "Ἐβάστασαν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐβάστασαν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ] Ἐβάστασαν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐβάστασαν οὖν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐβάστασαν οὖν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐβάστασαν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἐβάστασαν οὖν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἐβάστασαν οὖν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν ) Ἐβάστασαν πάλιν λίθους οἱ Ἰουδαῖοι ἵνα λιθάσωσιν αὐτόν.",
+     "source": "https://biblehub.com/text/john/10-31.htm",
+     "result": "1.000 set-containment; the draft-Byzantine carries πάλιν οὖν … ἐβάστασαν vs WH Ἐβάστασαν πάλιν (no οὖν) — row-noted"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "JHN.10.33",
+   "ref": "John 10:33",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "The Iewes answered him, saying, For the good worke we stone thee not, but for blasphemie, and that thou being a man, makest thy selfe God.",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15241,
+     "cited_as": "John 10:31-33",
+     "quotes": [
+      "*\"...Then the Jews again took up stones, to stone him... For blasphemy, and that thou being a man, makest thyself God.\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 seat fragment; the ellipsis covers the print \"The Iewes answered him, saying, For the good worke we stone thee not, but\"; folds: blasphemie -> blasphemy, thy selfe -> thyself; zero splice",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "The Iewes answered him, saying, For the good worke we stone thee not, but for blasphemie, and that thou being a man, makest thy selfe God.",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν Θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ Ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι λέγοντες, Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε, ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι λέγοντες· Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε, ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν Θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι· περὶ καλοῦ ἔργου οὐ λιθάζομέν σε ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι λέγοντες, Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε, ἀλλὰ περὶ βλασφημίας, καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν Θεόν. ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι λέγοντες, Περὶ καλοῦ ἔργου οὐ λιθάζομέν σε ἀλλὰ περὶ βλασφημίας καὶ ὅτι σὺ ἄνθρωπος ὢν ποιεῖς σεαυτὸν θεόν ) ἀπεκρίθησαν αὐτῷ οἱ Ἰουδαῖοι· περὶ καλο",
+     "source": "https://biblehub.com/text/john/10-33.htm",
+     "result": "1.000 set-containment"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "JHN.10.34",
+   "ref": "John 10:34",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Iesus answered them, Is it not written in your Lawe, I sayd, Ye are gods?",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15251,
+     "cited_as": "John 10:34-36",
+     "quotes": [
+      "*\"...Is it not written in your Law, I said, ye are gods? If he called them gods, unto whom the word of God was given, and the Scripture cannot be broken, Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest, because I said, I am the Son of God?\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 seat fragment; the draft drops the print head \"Iesus answered them,\" under the leading ellipsis; folds Lawe -> Law, sayd -> said; the draft lowercase \"ye are gods\" over the print \"Ye\" = the wave-42 ANd-class case fold — row-noted",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Iesus answered them, Is it not written in your Lawe, I sayd, Ye are gods?",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι Ἐγὼ εἶπα Θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι Ἐγὼ εἶπα Θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ ] ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι Ἐγὼ εἶπα Θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ Ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς, Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν, Ἐγὼ εἴπα, Θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· Οὐκ ἔστι γεγραμμένον ἐν τῷ νόμῳ ὑμῶν, ἐγὼ εἶπα, θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι ἐγὼ εἶπα· θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς, Οὐκ ἔστι γεγραμμένον ἐν τῷ νόμῳ ὑμῶν, Ἐγὼ εἶπα, θεοί ἐστε; ΚΑΤΑ ΙΩΑΝΝΗΝ ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς Οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν Ἐγὼ εἶπα Θεοί ἐστε ) ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· οὐκ ἐστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι ἐγὼ εἶπα· θεοί ἐστε;",
+     "source": "https://biblehub.com/text/john/10-34.htm",
+     "result": "1.000 set-containment"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "JHN.10.35",
+   "ref": "John 10:35",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "If hee called them gods, vnto whome the worde of God was giuen, and the Scripture cannot be broken,",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15251,
+     "cited_as": "John 10:34-36",
+     "quotes": [
+      "*\"...Is it not written in your Law, I said, ye are gods? If he called them gods, unto whom the word of God was given, and the Scripture cannot be broken, Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest, because I said, I am the Son of God?\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 seat fragment; folds hee -> he, whome -> whom, worde -> word, giuen -> given; zero splice",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "If hee called them gods, vnto whome the worde of God was giuen, and the Scripture cannot be broken,",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή, ΚΑΤΑ ΙΩΑΝΝΗΝ εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή, ΚΑΤΑ ΙΩΑΝΝΗΝ ] εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή, ΚΑΤΑ ΙΩΑΝΝΗΝ Εἰ ἐκείνους εἴπεν θεούς, πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο καὶ οὐ δύναται λυθῆναι ἡ γραφή εἰ ἐκείνους εἶπε θεοὺς, πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή, ΚΑΤΑ ΙΩΑΝΝΗΝ εἰ ἐκείνους εἶπεν θεούς, πρὸς οὓς ὁ λόγος ἐγένετο τοῦ θεοῦ, καὶ οὐ δύναται λυθῆναι ἡ γραφή· ΚΑΤΑ ΙΩΑΝΝΗΝ εἰ ἐκείνους εἶπε θεούς, πρὸς οὓς ὁ λόγος τοῦ Θεοῦ ἐγένετο καὶ οὐ δύναται λυθῆναι ἡ γραφή, ΚΑΤΑ ΙΩΑΝΝΗΝ εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο καὶ οὐ δύναται λυθῆναι ἡ γραφή ) εἰ ἐκείνους εἶπεν θεοὺς πρὸς οὓς ὁ λόγος τοῦ θεοῦ ἐγένετο, καὶ οὐ δύναται λυθῆναι ἡ γραφή,",
+     "source": "https://biblehub.com/text/john/10-35.htm",
+     "result": "1.000 set-containment"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "JHN.10.36",
+   "ref": "John 10:36",
+   "verified": "2026-11-12",
+   "translations": {
+    "gnv": {
+     "text": "Say ye of him, whome the Father hath sanctified, and sent into the worlde, Thou blasphemest, because I said, I am the Sonne of God?",
+     "source": "https://ebible.org/enggnv/JHN10.htm == textusreceptusbibles.com/Geneva/43/10 (EB==TRB asserted per verse)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15251,
+     "cited_as": "John 10:34-36",
+     "quotes": [
+      "*\"...Is it not written in your Law, I said, ye are gods? If he called them gods, unto whom the word of God was given, and the Scripture cannot be broken, Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest, because I said, I am the Son of God?\"*"
+     ],
+     "status": "confirmed",
+     "note": "W60 seat fragment; folds whome -> whom, worlde -> world, Sonne -> Son; zero splice",
+     "quote_kind": "seat"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "Say ye of him, whome the Father hath sanctified, and sent into the worlde, Thou blasphemest, because I said, I am the Sonne of God?",
+     "source": "https://textusreceptusbibles.com/Geneva/43/10",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_biblehub_fresh": {
+     "text": "ὃν ὁ Πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι Βλασφημεῖς, ὅτι εἶπον Υἱὸς τοῦ Θεοῦ εἰμι; ΚΑΤΑ ΙΩΑΝΝΗΝ ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι Βλασφημεῖς, ὅτι εἶπον Υἱὸς τοῦ θεοῦ εἰμί; ΚΑΤΑ ΙΩΑΝΝΗΝ ] ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι Βλασφημεῖς, ὅτι εἶπον Υἱὸς τοῦ θεοῦ εἰμί; ΚΑΤΑ ΙΩΑΝΝΗΝ ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον, ὑμεῖς λέγετε ὅτι Βλασφημεῖς, ὅτι εἴπον, Υἱὸς τοῦ θεοῦ εἰμι; ΚΑΤΑ ΙΩΑΝΝΗΝ ὃν ὁ πατὴρ ἡγίασε καὶ ἀπέστειλεν εἰς τὸν κόσμον, ὑμεῖς λέγετε ὅτι βλασφημεῖς, ὅτι εἶπον, υἱὸς τοῦ Θεοῦ εἰμι; ΚΑΤΑ ΙΩΑΝΝΗΝ ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι βλασφημεῖς, ὅτι εἶπον· υἱὸς θεοῦ εἰμι; ΚΑΤΑ ΙΩΑΝΝΗΝ ὃν ὁ πατὴρ ἡγίασε καὶ ἀπέστειλεν εἰς τὸν κόσμον, ὑμεῖς λέγετε ὅτι Βλασφημεῖς, ὅτι εἶπον, Υἱὸς τοῦ Θεοῦ εἰμι; ΚΑΤΑ ΙΩΑΝΝΗΝ ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι Βλασφημεῖς ὅτι εἶπον Υἱὸς τοῦ θεοῦ εἰμι ) ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον ὑμεῖς λέγετε ὅτι βλασφημεῖς, ὅτι εἶπον· υἱὸς τοῦ θεοῦ εἰμι;",
+     "source": "https://biblehub.com/text/john/10-36.htm",
+     "result": "0.976 — one variant row-noted: the draft-Byzantine reads ἀπέστελεν vs WH ἀπέστειλεν (wave-38 συμ-class TR voice)"
+    }
+   },
+   "note": "NEW W60"
+  },
+  {
+   "id": "PSA.81.6",
+   "ref": "Psalm 81:6 LXX (MT 82:6)",
+   "verified": "2026-11-12",
+   "translations": {
+    "nets": {
+     "text": "I said, \"Gods you are, and sons of the Most High,",
+     "source": "NETS print 24-ps.pdf pp587-589 (running head \"psalms 81(82)\" — pdf pages 47-48), fetched 2026-11-12",
+     "date": "2026-11-12"
+    },
+    "gnv": {
+     "text": "I haue said, Ye are gods, and ye all are children of the most High.",
+     "source": "https://ebible.org/enggnv/PSA082.htm == textusreceptusbibles.com/Geneva/19/82 fresh (EB==TRB asserted)",
+     "date": "2026-11-12"
+    }
+   },
+   "uses": [
+    {
+     "section": "COS-93",
+     "section_label": "THE CHRIST OF SCRIPTURE — PASSAGE A — JOHN 10:30",
+     "article_line": 15263,
+     "cited_as": "Psalm 82:6 LXX",
+     "quotes": [],
+     "status": "prose-ref",
+     "note": "the prose names the verse (label \"Psalm 82:6 LXX\" = MT/Geneva numbering); NETS/LXX 81:6 = MT 82:6 both-maps; the print v6 runs across the print-page break (pp588-589); the NETS quotation mark opens at \"Gods\" and closes inside v7",
+     "quote_kind": "label-mention"
+    }
+   ],
+   "second_check": {
+    "trb_fresh": {
+     "text": "I haue said, Ye are gods, and ye all are children of the most High.",
+     "source": "https://textusreceptusbibles.com/Geneva/19/82",
+     "result": "EXACT: eBible print == TRB fresh"
+    },
+    "greek_swete": {
+     "text": "ἐγὼ εἶπα Θεοί ἐστε καὶ υἱοὶ Υψἰστου πάντες (v6 clause)",
+     "source": "https://theancientbible.org/psalms-lxx-81/ (Swete)",
+     "result": "agree — Swete clause verified;NETS print word order \"Gods you are\" follows the LXX"
+    }
+   },
+   "note": "PSA anchor NEW W60 — NETS from the print master (the Psalms poetry pages parse 0 in the walker, wave-2b class); GNV = Psalm 82 (MT numbering)",
+   "diff_notes": "the draft prose says \"gods\" with no quote text banked; the both-maps note records the label mapping (wave-59 PSA.44.7 class: label correct, no flag)"
   }
- ]
+ ],
+ "meta": {
+  "repository": "Gideon Ephratah — Scripture Repository (verified-verse bank)",
+  "created": "2026-11-02",
+  "purpose": "Every scripture quoted or referenced in Gideon's writings, fetched from named digital editions and verified word-for-word, banked so future work needs no repeat online confirmation.",
+  "editions": {
+   "brenton": "Brenton Septuagint (1851 English), eBible.org id eng-Brenton — OT only",
+   "gnv": "Geneva Bible 1599, eBible.org id enggnv — whole Bible",
+   "kjv": "King James Version 1769 standard text, eBible.org id eng-kjv2006 — whole Bible",
+   "nets": "NEW ENGLISH TRANSLATION OF THE SEPTUAGINT (NETS), Oxford PDF masters at ccat.sas.upenn.edu/nets/edition/ — THE SABBATH OF SCRIPTURE's OT standard (OT always NETS; LES noted where meaningfully different) NETS verse cache persisted at scripture-repository/editions/nets/nets_cache.json (Gen/Deut/Isa/Psa parsed 2026-11-07).",
+   "sinaiticus": "Codex Sinaiticus (Aleph 01, 4th c.) Greek readings + critical apparatus via greeknewtestament.net — the book's NT standard, codex named per quote",
+   "les": "Lexham English Septuagint v2 (2019, Lexham Press) — based on Swete’s Greek edition. No free public full text; rows captured only from sourced public citations (biblia.com + hermeneutics.stackexchange; thirdpeter.com posts, Aug 2026) and must be confirmed against the author’s Logos copy. Where Swete and Rahlfs Greek differ, LES follows Swete.",
+   "swete_greek": "Swete Septuagint Greek — theancientbible.org chapter pages (e.g. /isaiah-lxx-46/). Base text of the LES.",
+   "rahlfs_greek": "Rahlfs Septuagint Greek — el.wikisource.org book pages (Ησαΐας_(Rahlfs), Γένεσις_(Rahlfs)). Base text of NETS.",
+   "greek_byz": "Byzantine NT Greek readings via biblehub.com /text/ verse pages — used to check the author’s Greek NT annotation lines."
+  },
+  "conventions": [
+   "status: confirmed = quote matches the cited edition word-for-word; confirmed-excerpt = word-for-word but partial (ellipsis/clipped); differs-minor = same verse, few words changed; paraphrase = reworded; anchor = referenced narratively, not quoted; commentary = article's own rendering (canonical texts banked for reference).",
+   "For HALLOWED BE THY NAME: quotes cited 'LXX, Brenton' verified against Brenton's English Septuagint; quotes cited 'Geneva' against the 1599 Geneva Bible. Uncited blockquotes diagnosed against KJV (their usual voice) with GNV/Brenton banked alongside.",
+   "Psalms: the article cites Hebrew-psalm numbers (Ps 22:16); Brenton prints LXX numbers (Ps 21:17). Both recorded.",
+   "Hebrew names in the body (Moshe, Yohoshua, Yerushalayim, etc.) are the author's intentional practice - never flagged.",
+   "Ben Yachid uses JPS 1917 (Tanakh) + Geneva (NT); add JPS entries to this bank when those verses next need verification.",
+   "THE SABBATH OF SCRIPTURE (Nov 2026): OT = NETS exact; NT = ancient codex with the codex named (Sinaiticus dominant). Genesis-2 note: NETS Exodus uses 'heaven', NETS Genesis uses 'sky'."
+  ],
+  "section_order": [
+   "P1-Q1",
+   "P1-Q2",
+   "P1-Q3",
+   "P1-Q4",
+   "P1-Q5",
+   "P1-Q6",
+   "P1-Q7",
+   "P1-Q8",
+   "P2",
+   "P3",
+   "P4",
+   "P5",
+   "P6",
+   "P7",
+   "P8",
+   "P9",
+   "CLOSE",
+   "SAB1",
+   "SAB2",
+   "SAB3",
+   "SAB4",
+   "SAB5",
+   "SAB6",
+   "SAB7",
+   "SAB8",
+   "SAB9",
+   "SAB10",
+   "SAB11",
+   "SAB12",
+   "SAB13",
+   "COS-01",
+   "COS-02",
+   "COS-03",
+   "COS-04",
+   "COS-05",
+   "COS-06",
+   "COS-07",
+   "COS-08",
+   "COS-09",
+   "COS-10",
+   "COS-11",
+   "COS-12",
+   "COS-13",
+   "COS-14",
+   "COS-15",
+   "COS-16",
+   "COS-17",
+   "COS-18",
+   "COS-19",
+   "COS-20",
+   "COS-21",
+   "COS-22",
+   "COS-23",
+   "COS-24",
+   "COS-25",
+   "COS-26",
+   "COS-27",
+   "COS-28",
+   "COS-29",
+   "COS-30",
+   "COS-31",
+   "COS-32",
+   "COS-33",
+   "COS-34",
+   "COS-35",
+   "COS-36",
+   "COS-37",
+   "COS-38",
+   "COS-39",
+   "COS-40",
+   "COS-41",
+   "COS-42",
+   "COS-43",
+   "COS-44",
+   "COS-45",
+   "COS-46",
+   "COS-47",
+   "COS-48",
+   "COS-49",
+   "COS-50",
+   "COS-51",
+   "COS-52",
+   "COS-53",
+   "COS-54",
+   "COS-55",
+   "COS-56",
+   "COS-57",
+   "COS-58",
+   "COS-59",
+   "COS-60",
+   "COS-61",
+   "COS-62",
+   "COS-63",
+   "COS-64",
+   "COS-65",
+   "COS-66",
+   "COS-67",
+   "COS-68",
+   "COS-69",
+   "COS-70",
+   "COS-71",
+   "COS-72",
+   "COS-73",
+   "COS-74",
+   "COS-75",
+   "COS-76",
+   "COS-77",
+   "COS-78",
+   "COS-79",
+   "COS-80",
+   "COS-81",
+   "COS-82",
+   "COS-83",
+   "COS-84",
+   "COS-85",
+   "COS-86",
+   "COS-87",
+   "COS-88",
+   "COS-89",
+   "COS-90",
+   "THE FIVE DIFFICULT PASSAGES EXAMINED",
+   "COS-92",
+   "COS-93"
+  ],
+  "sections": [
+   {
+    "key": "CLOSE",
+    "label": "A Closing Word to the Body of Christ",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P1-Q1",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q1",
+    "seeker_text": "The Seeker asked: Before you show me God's Name, I have to ask a question that sits underneath all the others. Letters didn't fall from the sky. Somewhere, somebody took the first picture and made it stand for a sound — and after him the whole world learned to write. Who was he? Where did he stand? And how did Israel come by her letters? Before we open the Name, I want to meet the hand that wrote it."
+   },
+   {
+    "key": "P1-Q2",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q2",
+    "seeker_text": "The Seeker asked: \"Who invented the alphabet? And how does anybody even do such a thing?\""
+   },
+   {
+    "key": "P1-Q3",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q3",
+    "seeker_text": "The Seeker asked: \"Wait. If men made the letters — did men make up God's Name?\""
+   },
+   {
+    "key": "P1-Q4",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q4",
+    "seeker_text": "The Seeker asked: \"But did Israel write? How do we know a people like that wrote at all?\""
+   },
+   {
+    "key": "P1-Q5",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q5",
+    "seeker_text": "The Seeker asked: \"What's the oldest piece of God's Book we still have?\""
+   },
+   {
+    "key": "P1-Q6",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q6",
+    "seeker_text": "The Seeker asked: \"So where did the old letters go? Are they gone?\""
+   },
+   {
+    "key": "P1-Q7",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q7",
+    "seeker_text": "The Seeker asked: \"But WHAT did the letters look like? Show me. Show me God's Name.\""
+   },
+   {
+    "key": "P1-Q8",
+    "label": "Part One — The Old Hand — Where the Letters Were Born",
+    "sub": "Seeker Q8",
+    "seeker_text": "The Seeker asked: \"Stop. Look not only at the letters — look at their ORDER. Is the Plan itself written in the Name?\""
+   },
+   {
+    "key": "P2",
+    "label": "Part Two — The Four Letters",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P3",
+    "label": "Part Three — When the Letters Themselves Are the Sound",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P4",
+    "label": "Part Four — The Breath of Christ Upon His Disciples",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P5",
+    "label": "Part Five — The Puzzle of \"Jehovah\"",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P6",
+    "label": "Part Six — Why the Two Breaths Sound Different",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P7",
+    "label": "Part Seven — Not Taking His Name in Vain",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P8",
+    "label": "Part Eight — The Great \"I AM\"",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "P9",
+    "label": "Part Nine — The Great Commandment as a Great Promise",
+    "sub": "",
+    "seeker_text": ""
+   },
+   {
+    "key": "SAB1",
+    "label": "THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)"
+   },
+   {
+    "key": "SAB10",
+    "label": "THE SABBATH OF SCRIPTURE — 10. When Does the Sabbath Start and End?"
+   },
+   {
+    "key": "SAB11",
+    "label": "THE SABBATH OF SCRIPTURE — 11. The Hard Paul Passages (Colossians, Galatians, Romans)"
+   },
+   {
+    "key": "SAB12",
+    "label": "THE SABBATH OF SCRIPTURE — 12. The Sabbath Rest That Remains (Hebrews / Revelation)"
+   },
+   {
+    "key": "SAB13",
+    "label": "THE SABBATH OF SCRIPTURE — 13. Putting It All Together"
+   },
+   {
+    "key": "SAB2",
+    "label": "THE SABBATH OF SCRIPTURE — 2. The Sabbath Before Sinai — What Israel Already Knew"
+   },
+   {
+    "key": "SAB3",
+    "label": "THE SABBATH OF SCRIPTURE — 3. The Manna Story (Exodus 16)"
+   },
+   {
+    "key": "SAB4",
+    "label": "THE SABBATH OF SCRIPTURE — 4. Sinai — God Speaks the Commandment (Exodus 20 / Deuteronomy 5)"
+   },
+   {
+    "key": "SAB5",
+    "label": "THE SABBATH OF SCRIPTURE — 5. The Sign, the Death Penalty, and the Fire (Exodus 31 / 35)"
+   },
+   {
+    "key": "SAB6",
+    "label": "THE SABBATH OF SCRIPTURE — 6. Called Together, and a Warning (Leviticus 23 / Numbers 15)"
+   },
+   {
+    "key": "SAB7",
+    "label": "THE SABBATH OF SCRIPTURE — 7. What the Prophets Said (Isaiah 56 / 58, Jeremiah 17, Ezekiel 20)"
+   },
+   {
+    "key": "SAB8",
+    "label": "THE SABBATH OF SCRIPTURE — 8. Jesus and the Sabbath"
+   },
+   {
+    "key": "SAB9",
+    "label": "THE SABBATH OF SCRIPTURE — 9. What the Apostles Did (Acts)"
+   },
+   {
+    "key": "COS-01",
+    "label": "THE CHRIST OF SCRIPTURE — 1. The Foundational Confession: The One God (Deut 6:4; Isa 44–46)"
+   },
+   {
+    "key": "COS-02",
+    "label": "THE CHRIST OF SCRIPTURE — 3. POSITs #2-#4: Genesis 22; Genesis 49:10; Numbers 24:17 (+ Summary)"
+   },
+   {
+    "key": "COS-03",
+    "label": "THE CHRIST OF SCRIPTURE — 7. PSALM 2 (LXX): The Anointed Son Begotten by the Father"
+   },
+   {
+    "key": "COS-04",
+    "label": "THE CHRIST OF SCRIPTURE — 8. PSALM 109 LXX (110 MT): The Lord at the Right Hand; Summary; Doctrinal Foundation"
+   },
+   {
+    "key": "COS-05",
+    "label": "THE CHRIST OF SCRIPTURE — 9. PROVERBS 8 (LXX): Wisdom Brought Forth Before the Foundation of the World; the Two Witnesses"
+   },
+   {
+    "key": "COS-06",
+    "label": "THE CHRIST OF SCRIPTURE — 10. MICAH 5:2 (LXX): The Goings Forth From of Old; Convergence of the Four Pillars"
+   },
+   {
+    "key": "COS-07",
+    "label": "THE CHRIST OF SCRIPTURE — 11. THE FIRST APPEARANCE — Genesis 16: Hagar in the Wilderness (the Angel of the LORD)"
+   },
+   {
+    "key": "COS-08",
+    "label": "THE CHRIST OF SCRIPTURE — 12. THE SECOND APPEARANCE — Genesis 22: The Akedah; the Apostolic Confirmation (Hebrews 6:13-14)"
+   },
+   {
+    "key": "COS-09",
+    "label": "THE CHRIST OF SCRIPTURE — 13. THE THIRD APPEARANCE — Genesis 31: Jacob and the God of Bethel"
+   },
+   {
+    "key": "COS-10",
+    "label": "THE CHRIST OF SCRIPTURE — 14. THE FOURTH APPEARANCE — Genesis 32: Wrestling at Peniel"
+   },
+   {
+    "key": "COS-11",
+    "label": "THE CHRIST OF SCRIPTURE — 15. THE FIFTH APPEARANCE — Exodus 3: The Burning Bush"
+   },
+   {
+    "key": "COS-12",
+    "label": "THE CHRIST OF SCRIPTURE — 16. THE APOSTOLIC IDENTIFICATION — Two Decisive Witnesses"
+   },
+   {
+    "key": "COS-13",
+    "label": "THE CHRIST OF SCRIPTURE — 17. HOW IS THIS CONSISTENT WITH OUR FOUNDATION? — A Critical Reconciliation"
+   },
+   {
+    "key": "COS-14",
+    "label": "THE CHRIST OF SCRIPTURE — 18. A Crucial Textual Note: Exodus 23:20-21 — the Name in Him"
+   },
+   {
+    "key": "COS-15",
+    "label": "THE CHRIST OF SCRIPTURE — 19. SUMMARY, the Picture Now Clarifying, and the Next Step"
+   },
+   {
+    "key": "COS-16",
+    "label": "THE CHRIST OF SCRIPTURE — 20. A Question Arising: Let Us Be Very Circumspect — the Messenger Identification Retracted; Genesis 16 and 22 Re-read"
+   },
+   {
+    "key": "COS-17",
+    "label": "THE CHRIST OF SCRIPTURE — 21. The Wisdom Correction — 1 Corinthians 1 Re-read; the Proverbs-8 Claim Withdrawn"
+   },
+   {
+    "key": "COS-18",
+    "label": "THE CHRIST OF SCRIPTURE — 22. Audits of Foundations — #1: The Father is the One God"
+   },
+   {
+    "key": "COS-19",
+    "label": "THE CHRIST OF SCRIPTURE — 23. Audits of Foundations — #2-#5 and the Summary of the Audit"
+   },
+   {
+    "key": "COS-20",
+    "label": "THE CHRIST OF SCRIPTURE — 24. John 1: The Prologue — the Word, the Only-Begotten, and the Whole-Counsel Witnesses"
+   },
+   {
+    "key": "COS-21",
+    "label": "THE CHRIST OF SCRIPTURE — 25. John 1 Completed — Every Verse Re-read; the Whole-Counsel Cross-Witness Survey; the Corrected and Established Foundation"
+   },
+   {
+    "key": "COS-22",
+    "label": "THE CHRIST OF SCRIPTURE — 26. The Suffering-Servant Section — Psalm 21 LXX (22 MT) and Isaiah 52-53 with Their Cross-Witnesses; the Synthesis"
+   },
+   {
+    "key": "COS-23",
+    "label": "THE CHRIST OF SCRIPTURE — 27. Jesus' Acts During His Ministry — Part 1: Acts Fulfilling Prophecy During His Ministry"
+   },
+   {
+    "key": "COS-24",
+    "label": "THE CHRIST OF SCRIPTURE — 28. Jesus’ Self-Identifications — Part 2: the \"I AM\" Sayings of John; the Son of Man — Daniel 7:13-14 and Matthew 26:63-64; the Son of God / The Son; Other Titles"
+   },
+   {
+    "key": "COS-25",
+    "label": "THE CHRIST OF SCRIPTURE — 29. Acts Revealing His Authority — Part 3: forgiving sins, commanding nature, raising the dead, judging, giving the Spirit"
+   },
+   {
+    "key": "COS-26",
+    "label": "THE CHRIST OF SCRIPTURE — 30. His Relation to the Father — Part 4: direct statements"
+   },
+   {
+    "key": "COS-27",
+    "label": "Part 5 — Post-Resurrection Acts: Authentication of the Resurrection (Luke 24 and John 20; Acts 10:41; 1 Cor 15:6); the Great Commission (Matthew 28:18-20); the Ascension and Promise of Return (Acts 1:9-11)"
+   },
+   {
+    "key": "COS-28",
+    "label": "The Grand Synthesis — What His Ministry Establishes; Where We Stand; the Direction Set: (A)"
+   },
+   {
+    "key": "COS-29",
+    "label": "33. The Foundation: Melchizedek (Genesis 14) and Psalm 110:4"
+   },
+   {
+    "key": "COS-30",
+    "label": "34. Hebrews 7 — The Melchizedek Priesthood (Genesis 14:17-20 LXX; Hebrews 7:1-28 with Romans 8:34; Revelation 5:5)"
+   },
+   {
+    "key": "COS-31",
+    "label": "35. Hebrews 8 — The Better Covenant (Hebrews 8:1-2; the New-Covenant Oracle Jeremiah 38:31-34 LXX = MT 31:31-34)"
+   },
+   {
+    "key": "COS-32",
+    "label": "36. Hebrews 9 — The Once-for-All Sacrifice (Hebrews 9:11-15, 24-28; 1 Timothy 2:5)"
+   },
+   {
+    "key": "COS-33",
+    "label": "37. Hebrews 10 — The Finished Work (Hebrews 10:1-14, 19-22; Psalm 39:7-9 LXX = MT 40:6-8)"
+   },
+   {
+    "key": "COS-34",
+    "label": "38. Grand Synthesis — The Son's Present Session; What Remains: (B) the Son's Coming Return"
+   },
+   {
+    "key": "COS-35",
+    "label": "39. Daniel 7 — The Son of Man before the Ancient of Days (Daniel 7:9-14 LXX NETS; Matthew 26:63-64 Geneva)"
+   },
+   {
+    "key": "COS-36",
+    "label": "40. Zechariah 12-14 — The Lord Comes to Jerusalem (Zech 12:1-3, 9-10; 13:1,6-7; 14:3-5,9 LXX NETS; Matthew 26:31, 1 Thessalonians 3:13, Jude 14 Geneva)"
+   },
+   {
+    "key": "COS-37",
+    "label": "41. Matthew 24-25 — The Olivet Discourse (Matt 24:3, 23-27, 29-31, 36; 25:31-34 Geneva; Joel 2:31 MT = 3:4 LXX, Isaiah 13:9-10 NETS)"
+   },
+   {
+    "key": "COS-38",
+    "label": "42. Other Major NT Witnesses — The Lord's Descent, the Revelation in Fire, the Thief-Day (1 Thess 4:16-17, 2 Thess 1:7-10, 2 Peter 3:10 Geneva)"
+   },
+   {
+    "key": "COS-39",
+    "label": "43. Grand Synthesis — The Son's Return (witness table: Dan 7, Zech 12-14, Psalm 109, Matt 24-25, 1 Thess, 2 Thess, Rev)"
+   },
+   {
+    "key": "COS-40",
+    "label": "44. 1 Corinthians 15:20-28 — The Consummation (the Father-Son Order at the End)"
+   },
+   {
+    "key": "COS-41",
+    "label": "45. Cross-Witnesses — The Father-Son Order at the End (Rev 11:15; 21:22-23; 22:1, 3-4)"
+   },
+   {
+    "key": "COS-42",
+    "label": "46. Grand Synthesis — The Consummation and the Father-Son Order"
+   },
+   {
+    "key": "COS-43",
+    "label": "47. (D) The Son in the Apocalypse — Revelation 1: The Chain of Revelation, the Tripartite Greeting, the Doxology to Christ, He Cometh with Clouds, the Critical Question of Rev 1:8, the Vision of the Son of Man, the First and the Last"
+   },
+   {
+    "key": "COS-44",
+    "label": "48. (D) The Son in the Apocalypse — Revelation 2-3: The Seven Letters and the Titles of Christ, with a Note on Revelation 3:14"
+   },
+   {
+    "key": "COS-45",
+    "label": "49. (D) Revelation 4-5: The Throne Room and the Lamb — the Father on the Throne, the slain and risen Lamb, the Worship of the Lamb"
+   },
+   {
+    "key": "COS-46",
+    "label": "50. (D) Revelation 7:9-17: The Lamb in the Midst of the Throne"
+   },
+   {
+    "key": "COS-47",
+    "label": "51. (D) Revelation 19:11-16: The Returning King"
+   },
+   {
+    "key": "COS-48",
+    "label": "52. (D) Revelation 21:5-7: The One on the Throne Speaks"
+   },
+   {
+    "key": "COS-49",
+    "label": "53. (D) Revelation 22:12-13, 16: A Careful Textual Examination + the Typological Principle — the First and the Last, true to type"
+   },
+   {
+    "key": "COS-50",
+    "label": "54. (D) Revelation 22:1-5: The Throne of God and of the Lamb"
+   },
+   {
+    "key": "COS-51",
+    "label": "55. (D) Revelation 22:7, 20: The Final Words"
+   },
+   {
+    "key": "COS-52",
+    "label": "56. (D) Grand Synthesis — The Son in the Apocalypse; Where the Study Stands"
+   },
+   {
+    "key": "COS-53",
+    "label": "57. (E) Part E — Question 1: What Does Scripture Establish About the Father as Eternal Spirit"
+   },
+   {
+    "key": "COS-54",
+    "label": "58. (E) Question 2 — How Does the Father's Spirit-Nature Undergird His Invisibility Yet His Presence in All Things"
+   },
+   {
+    "key": "COS-55",
+    "label": "59. (E) Question 3 — The Relation Between the Father (Spirit) and the Son (Image, Word made flesh, Man at the right hand)"
+   },
+   {
+    "key": "COS-56",
+    "label": "60. (E) Grand Synthesis — Part E Completed: The Nature and Essence of the Father as Eternal Spirit"
+   },
+   {
+    "key": "COS-57",
+    "label": "61. (E) A Question Concerning the Seven Spirits — The Father’s Spirit in Sevenfold Fullness"
+   },
+   {
+    "key": "COS-58",
+    "label": "Acts 2:33 — The Exalted Son Receives and Pours Forth the Promise of the Spirit"
+   },
+   {
+    "key": "COS-59",
+    "label": "The Shift in the Spirit’s Operation — From “Upon” to “Within”"
+   },
+   {
+    "key": "COS-60",
+    "label": "John 14:16-23 — The Father and Son Making Their Abode with Us"
+   },
+   {
+    "key": "COS-61",
+    "label": "John 17 — The Context"
+   },
+   {
+    "key": "COS-62",
+    "label": "John 17:20-26 — The Prayer for the Elect"
+   },
+   {
+    "key": "COS-63",
+    "label": "Grand Synthesis — The Consummation of Our Entire Study"
+   },
+   {
+    "key": "COS-64",
+    "label": "Conclusion of Our Study"
+   },
+   {
+    "key": "COS-65",
+    "label": "Galatians 2:20 — The Foundational Declaration"
+   },
+   {
+    "key": "COS-66",
+    "label": "The Full Counsel — The Believer's Identification in Christ"
+   },
+   {
+    "key": "COS-67",
+    "label": "Romans 8:17 — The Foundational Text"
+   },
+   {
+    "key": "COS-68",
+    "label": "What Does \"Suffering with Christ\" Mean?"
+   },
+   {
+    "key": "COS-69",
+    "label": "THE INDICATIVE-TO-IMPERATIVE PATTERN"
+   },
+   {
+    "key": "COS-70",
+    "label": "Romans 8 — Life in the Spirit: The Mountain Peak"
+   },
+   {
+    "key": "COS-71",
+    "label": "PART 1 — ROMANS 12: THE LIVING SACRIFICE AND THE RENEWED MIND"
+   },
+   {
+    "key": "COS-72",
+    "label": "PART 2 — GALATIANS 5: THE WALK BY THE SPIRIT AND THE WAR WITH THE FLESH"
+   },
+   {
+    "key": "COS-73",
+    "label": "PART 3 — COLOSSIANS 3: THE PUTTING OFF AND PUTTING ON"
+   },
+   {
+    "key": "COS-74",
+    "label": "GRAND SYNTHESIS — THE THREE PASSAGES TOGETHER"
+   },
+   {
+    "key": "COS-75",
+    "label": "PRAYER — COMPLETING THE LORD'S PRAYER PATTERN; PRAYING IN THE SPIRIT; THE MODES AND THE POSTURE OF PRAYER"
+   },
+   {
+    "key": "COS-76",
+    "label": "PART 2 — THE WORD OF GOD: THE RENEWING OF THE MIND — The Nature of Scripture; the Word's Active Power; the Modes of Engaging the Word; Practical Implications"
+   },
+   {
+    "key": "COS-77",
+    "label": "PART 3 — WORSHIP AND PRAISE: Worship in Spirit and Truth; the Sacrifice of Praise; the Modes of Worship; Worship in Daily Life"
+   },
+   {
+    "key": "COS-78",
+    "label": "PART 4 — FELLOWSHIP WITH THE SAINTS: the Foundation (we belong to one another); the Necessity of Assembling; the \"One Another\" Commands; Practical Implications"
+   },
+   {
+    "key": "COS-79",
+    "label": "PART 5 — THE LORD'S SUPPER: the Institution; the Self-Examination; Practical Implications"
+   },
+   {
+    "key": "COS-80",
+    "label": "PART 6 — WATCHFULNESS AND RESISTANCE OF TEMPTATION: the Reality of the Conflict; the Armor of God; Resisting Temptation; Practical Implications"
+   },
+   {
+    "key": "COS-81",
+    "label": "PART 7 — CONFESSION OF SIN: the Foundation (1 John 1:9); Position vs. Fellowship; the Pattern of Daily Confession; Confession to Other Believers (James 5:16); Practical Implications"
+   },
+   {
+    "key": "COS-82",
+    "label": "PART 8 — THE BELIEVER'S RESPONSE TO TRIALS"
+   },
+   {
+    "key": "COS-83",
+    "label": "PART 9 — WITNESS AND PROCLAMATION"
+   },
+   {
+    "key": "COS-84",
+    "label": "PART 10 — STEWARDSHIP: the Foundation (1 Cor 4:7); Time Stewardship (Eph 5:15-17); Material Stewardship (1 Tim 6:17-19; 2 Cor 9:6-8); Stewardship of Gifts (1 Pet 4:10); Practical Implications"
+   },
+   {
+    "key": "COS-85",
+    "label": "GRAND SYNTHESIS — THE ARCHITECTURE OF THE FAITHFUL CHRISTIAN LIFE"
+   },
+   {
+    "key": "COS-86",
+    "label": "A FINAL OBSERVATION"
+   },
+   {
+    "key": "COS-87",
+    "label": "A QUESTION FOR YOU — the prayer-to-Jesus bridge"
+   },
+   {
+    "key": "COS-88",
+    "label": "THE QUESTION FRAMED PRECISELY — does the WORD instruct us to pray to Jesus?"
+   },
+   {
+    "key": "COS-89",
+    "label": "PHILIPPIANS 2:5-11 — THE FULL CONTEXT"
+   },
+   {
+    "key": "COS-90",
+    "label": "YOUR PROPOSAL EXAMINED — THE SON BEGOTTEN IN SPIRIT"
+   },
+   {
+    "key": "COS-91",
+    "label": "THE FIVE DIFFICULT PASSAGES EXAMINED"
+   },
+   {
+    "key": "COS-92",
+    "label": "YOUR PROPOSAL EXAMINED — THE NAME AS LEGAL AUTHORITY"
+   },
+   {
+    "key": "COS-93",
+    "label": "PASSAGE A — JOHN 10:30"
+   }
+  ],
+  "double_check": {
+   "date": "2026-11-02",
+   "method": "every banked edition text re-checked against a second independent online source",
+   "sources": {
+    "brenton": "BibleHub Brenton Septuagint chapter pages (biblehub.com/sep/{book}/{chapter}.htm) + qbible.com Brenton pages",
+    "gnv": "TextusReceptusbibles.com Geneva 1599 verse tables",
+    "kjv": "BibleHub King James chapter pages"
+   },
+   "notes": [
+    "qbible is a names-restored edition (substituted words, Brenton's word in braces) and numbers Joshua/Jeremiah by the Hebrew order - handled in comparison, noted per entry.",
+    "eBible's Brenton Jeremiah numbering follows the LXX order (New-Covenant verse at JER 38:31-33); second sources carry the same text at Hebrew-numbered 31:31-33.",
+    "Verdicts live on each verse entry as second_check: {edition: {result, url, note?}}."
+   ],
+   "COS-01": {
+    "date": "2026-11-07",
+    "method": "GNV rows double-checked vs textusreceptusbibles.com (all agree); NETS verified via Rahlfs concurrence + raw PDF page spot-checks; Greek notes vs Swete + Rahlfs (OT) and biblehub /text/ (NT).",
+    "notes": "LES rows captured from public citations; full LES pass awaits the author’s Logos copy."
+   },
+   "COS-16": {
+    "date": "2026-11-11",
+    "method": "GEN 16/22 re-seats: seat text pulled from the Wave-4 COS-07/08 rows, cut gloss-stripped, compared to the NETS cache (Rahlfs/Swete concurrence of Wave 4). GNV rows eBible=TRB 1.00. Draft Greek 1 Cor 1 via biblehub /text/ verse pages (Nestle/WH).",
+    "notes": ""
+   },
+   "COS-17": {
+    "date": "2026-11-11",
+    "method": "1 Cor 1:18-24, 30 + Col 1:15-17 Geneva fetched fresh from eBible and second-checked word-for-word vs textusreceptusbibles.com (14/14 ratio 1.00); draft Greek per-verse vs biblehub /text/ (cover 1.0 for all three groups; Col only the δι᾽/δι elision token).",
+    "notes": "Col/1Cor seat practice: modernized-orthography rendering of the Geneva wording stands from Waves 3-7; eBible/TRB print 1599 orthography. Flagged for his word (see so-far note)."
+   },
+   "COS-18": {
+    "date": "2026-11-11",
+    "method": "Audit #1 re-lists witnesses already double-checked (NETS by Rahlfs concurrence; Geneva rows eBible=TRB 1.00). New MARK.12.29 row fetched fresh: eBible=TRB word-for-word (ratio 1.00) + biblehub Byzantine Greek. NETS cache texts asserted non-empty and corroborated against the COS-01 quotes (gloss-stripped).",
+    "notes": "KJV-voiced audit bullet quotes swapped to the specified translations (NETS/Geneva) per the translation rule; draft wordings recorded on each row."
+   }
+  },
+  "sabbath_roundup": {
+   "book": "THE BIBLICAL SABBATH (the-biblical-sabbath.html)",
+   "verified": "2026-11-03..04",
+   "entries": 248,
+   "sections": "SAB1-SAB13 + intro; 63 scripture passages mapped; every verse in the book banked",
+   "verbatim-confirmations": "NT codex quotes rendered faithfully incl. aleph's rare readings (Acts 16:13 'we were speaking'; Mark 2:27 'and not the man'; John 20:20-family plural 'his peoples' Rev 21:3; 'Sabbath-keeping' Heb 4:9; 'Lordly day' Rev 1:10)",
+   "proposed_corrections": "OT blockquotes are smoothed NETS, not NETS-exact (62 verse entries flagged with NETS-exact replacement text ready) — awaiting approval",
+   "codex_mismatches": [
+    "MT.5.19 (Aleph omits the 'do and teach' clause — needs ruling)",
+    "MK.1.21 (Aleph lacks 'having entered')",
+    "LK.14.5 (Aleph reads 'donkey or ox', article 'son or ox')"
+   ],
+   "second_pass_pending": [
+    "1 Cor 16:1-2 + Col/Gal/Rom/Heb/Rev codex readings vs codexsinaiticus.org XML (site unreachable tonight; verified vs standard critical Greek meanwhile)",
+    "Neh 13 quote = 2 Esdras 23:15-19 (NETS) — Brenton 2nd-check skipped (Brenton Esdras files not in local cache)"
+   ],
+   "nets_cache_gaps_fixed": [
+    "GEN 1:16-31 (poetry-range verses restored from page dumps)",
+    "JER 17 (opens at v5, restored)",
+    "DEU 23:24-25 (Greek reverses Hebrew order; restored)",
+    "known remaining interior gaps (not cited in this book): EXO 37-39, ISA 9, JER 52"
+   ],
+   "second_pass": "COMPLETE 2026-11-04: all 20 verses + 1 Cor 16:1-2 verified against the codex's own v1.95 XML transcription (Birmingham ITSEE); the article's renderings = the corrected aleph readings; every aleph detail banked per verse."
+  },
+  "so_far_words": 130989,
+  "cos_sofar": "waves 60",
+  "glossary": 1385
+ }
 }

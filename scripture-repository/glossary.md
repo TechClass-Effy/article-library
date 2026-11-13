@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1205 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1214 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1376 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1385 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -14072,6 +14072,113 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-12 · editions fetched: gnv*
 - *Double-checked (second source): trb_fresh ✓*
 
+## PASSAGE A — JOHN 10:30
+
+### John 10:30 — CONFIRMED
+*cited as: John 10:30*
+- **Geneva 1599:** “I and my Father are one.”
+- *Note:* W60 opener seat — print exact; the standing flag's wording question resolves here
+- *Checked 2026-11-12 · editions fetched: gnv, greek_nestle*
+
+### John 10:24 — PROSE-REF
+*cited as: (v. 24)*
+- **Geneva 1599:** “Then came the Iewes round about him, and sayd vnto him, Howe long doest thou make vs dout? If thou be that Christ, tell vs plainely.”
+- *Note:* the draft matches the 1599 print at modern folds EXCEPT "the Christ" — the print reads "that Christ"; "make us doubt" IS the print form (the KJV adds "to")
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh*
+
+### John 10:28 — CONFIRMED
+*cited as: John 10:27-30*
+- **Geneva 1599:** “And I giue vnto them eternall life, and they shall neuer perish, neither shall any plucke them out of mine hand.”
+- *Note:* W60 span seat (v28 quoted in full at modern folds)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### John 10:29 — CONFIRMED
+*cited as: John 10:27-30*
+- **Geneva 1599:** “My Father which gaue them me, is greater then all, and none is able to take them out of my Fathers hand.”
+- *Note:* W60 span seat; "greater then *(than)* all" per the wave-17 JHN-14:28 gloss class; "my Fathers hand" without the apostrophe, wave-48 Rom-12:5 class
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓*
+
+### John 10:27 — CONFIRMED
+*cited as: John 10:27-30*
+- **Geneva 1599:** “My sheepe heare my voyce, and I knowe them, and they follow me,”
+- *Note:* W60 span seat; the draft ellipsis covers the v27 tail (, and I know them, and they follow me,)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment; WH reads ἀκούουσιν (plural "hear") — the draft block reads ἀκούει (singular); the draft is the TR/Rahlfs voice — row-noted*
+
+### John 17:11 — CONFIRMED
+*cited as: John 17:11*
+- **Geneva 1599:** “And nowe am I no more in the world, but these are in the worlde, and I come to thee. Holy Father, keepe them in thy Name, euen them whome thou hast giuen mee, that they may bee one, as we are.”
+- *Note:* W60 re-present; the draft ellipsis covers the print head; the oneness clause = the print tail at modern folds
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb ✓ · greek_biblehub ✓ · trb_fresh — 1.000 · greek_biblehub_fresh — 1.000*
+
+### John 17:21 — CONFIRMED
+*cited as: John 17:21-22*
+- **Geneva 1599:** “That they all may bee one, as thou, O Father, art in me, and I in thee: euen that they may be also one in vs, that the worlde may beleeue that thou hast sent me.”
+- *Note:* W60 re-present; the print colon restored over the draft comma (wave-59 JHN-17:11-12 class); the draft ellipsis covers the print v21 tail ("that the worlde may beleeue...") + the v22 head
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub_fresh — WH v21 == draft Greek head verbatim (draft quoted the head clause; WH lowercases πάτερ* — page artifact; koronis class) · greek_biblehub ✓*
+
+### John 17:22 — CONFIRMED
+*cited as: John 17:21-22*
+- **Geneva 1599:** “And the glory that thou gauest me, I haue giuen them, that they may be one, as we are one,”
+- *Note:* W60 re-present; the span fragment = the print v22 tail; the print verse-final comma kept over the draft period (2CO 9:8 class)
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh ✓ · greek_biblehub ✓*
+
+### John 10:32 — PROSE-REF
+*cited as: John 10:31-33*
+- **Geneva 1599:** “Iesus answered them, Many good workes haue I shewed you from my Father: for which of these workes doe ye stone me?”
+- *Note:* covered by the span-seat ellipsis (the draft omits v32 between its two fragments); the print text banked
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh*
+
+### John 10:31 — CONFIRMED
+*cited as: John 10:31-33*
+- **Geneva 1599:** “Then ye Iewes againe tooke vp stones, to stone him.”
+- *Note:* W60 seat fragment; folds: article-ye -> the, vp -> up, Iewes/Iewes againe -> again; zero splice
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment; the draft-Byzantine carries πάλιν οὖν … ἐβάστασαν vs WH Ἐβάστασαν πάλιν (no οὖν) — row-noted*
+
+### John 10:33 — CONFIRMED
+*cited as: John 10:31-33*
+- **Geneva 1599:** “The Iewes answered him, saying, For the good worke we stone thee not, but for blasphemie, and that thou being a man, makest thy selfe God.”
+- *Note:* W60 seat fragment; the ellipsis covers the print "The Iewes answered him, saying, For the good worke we stone thee not, but"; folds: blasphemie -> blasphemy, thy selfe -> thyself; zero splice
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment*
+
+### John 10:34 — CONFIRMED
+*cited as: John 10:34-36*
+- **Geneva 1599:** “Iesus answered them, Is it not written in your Lawe, I sayd, Ye are gods?”
+- *Note:* W60 seat fragment; the draft drops the print head "Iesus answered them," under the leading ellipsis; folds Lawe -> Law, sayd -> said; the draft lowercase "ye are gods" over the print "Ye" = the wave-42 ANd-class case fold — row-noted
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment*
+
+### John 10:35 — CONFIRMED
+*cited as: John 10:34-36*
+- **Geneva 1599:** “If hee called them gods, vnto whome the worde of God was giuen, and the Scripture cannot be broken,”
+- *Note:* W60 seat fragment; folds hee -> he, whome -> whom, worde -> word, giuen -> given; zero splice
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 1.000 set-containment*
+
+### John 10:36 — CONFIRMED
+*cited as: John 10:34-36*
+- **Geneva 1599:** “Say ye of him, whome the Father hath sanctified, and sent into the worlde, Thou blasphemest, because I said, I am the Sonne of God?”
+- *Note:* W60 seat fragment; folds whome -> whom, worlde -> world, Sonne -> Son; zero splice
+- *Checked 2026-11-12 · editions fetched: gnv*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_biblehub_fresh — 0.976 — one variant row-noted: the draft-Byzantine reads ἀπέστελεν vs WH ἀπέστειλεν (wave-38 συμ-class TR voice)*
+
+### Psalm 81:6 LXX (MT 82:6) — PROSE-REF
+*cited as: Psalm 82:6 LXX*
+- **NETS (Septuagint, modern):** “I said, "Gods you are, and sons of the Most High,”
+- **Geneva 1599:** “I haue said, Ye are gods, and ye all are children of the most High.”
+- *Note:* the prose names the verse (label "Psalm 82:6 LXX" = MT/Geneva numbering); NETS/LXX 81:6 = MT 82:6 both-maps; the print v6 runs across the print-page break (pp588-589); the NETS quotation mark opens at "Gods" and closes inside v7
+- *Checked 2026-11-12 · editions fetched: gnv, nets*
+- *Double-checked (second source): trb_fresh — EXACT: eBible print == TRB fresh · greek_swete ✓*
+
 # THE BIBLICAL SABBATH
 
 ## THE SABBATH OF SCRIPTURE — 1. Where the Sabbath Comes From (Genesis 2)
@@ -16387,9 +16494,9 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 10:10 | COS-28 | anchor |
 | John 10:11 | P8, COS-24 | confirmed |
 | John 10:14 | COS-24 | confirmed |
-| John 10:28 | COS-62 | prose-ref |
-| John 10:29 | COS-62 | prose-ref |
-| John 10:30 | COS-36, COS-89, COS-92, COS-91 | confirmed, prose-ref |
+| John 10:28 | COS-62, COS-93 | confirmed, prose-ref |
+| John 10:29 | COS-62, COS-93 | confirmed, prose-ref |
+| John 10:30 | COS-36, COS-89, COS-92, COS-93, COS-91 | confirmed, prose-ref |
 | John 10:38 | COS-55, COS-56 | anchor, seat |
 | John 10:7 | COS-24 | confirmed |
 | John 10:9 | P8, COS-24 | confirmed |
@@ -16441,15 +16548,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 16:9 | COS-60 | prose-ref |
 | John 1:17 | COS-21 | confirmed |
 | John 17:1 | COS-55, COS-61 | anchor, prose-ref |
-| John 17:11 | COS-14, COS-43, COS-50, COS-61, COS-89, COS-92, COS-91 | confirmed, prose-ref |
+| John 17:11 | COS-14, COS-43, COS-50, COS-61, COS-89, COS-92, COS-93, COS-91 | confirmed, prose-ref |
 | John 17:12 | COS-14, COS-62, COS-92 | confirmed, prose-ref |
 | John 17:17 | COS-61 | prose-ref |
 | John 17:18 | COS-61 | prose-ref |
 | John 17:19 | COS-61 | prose-ref |
 | John 17:2 | COS-61 | prose-ref |
 | John 17:20 | COS-62 | prose-ref |
-| John 17:21 | COS-50, COS-55, COS-58, COS-59, COS-60, COS-62 | prose-ref, seat |
-| John 17:22 | COS-62 | prose-ref |
+| John 17:21 | COS-50, COS-55, COS-58, COS-59, COS-60, COS-62, COS-93 | confirmed, prose-ref, seat |
+| John 17:22 | COS-62, COS-93 | confirmed, prose-ref |
 | John 17:23 | COS-62, COS-66 | prose-ref |
 | John 17:24 | COS-21, COS-62 | confirmed, prose-ref |
 | John 17:25 | COS-62 | prose-ref |
@@ -17259,6 +17366,15 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 10:40 | COS-92 | confirmed |
 | John 8:19 | COS-92 | confirmed |
 | Luke 24:47 | COS-92 | confirmed |
+| John 10:24 | COS-93 | prose-ref |
+| John 10:27 | COS-93 | confirmed |
+| John 10:32 | COS-93 | prose-ref |
+| John 10:31 | COS-93 | confirmed |
+| John 10:33 | COS-93 | confirmed |
+| John 10:34 | COS-93 | confirmed |
+| John 10:35 | COS-93 | confirmed |
+| John 10:36 | COS-93 | confirmed |
+| Psalm 81:6 LXX (MT 82:6) | COS-93 | prose-ref |
 
 ## The editions used
 
