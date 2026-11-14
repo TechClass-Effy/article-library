@@ -2,7 +2,7 @@
 
 ## *HALLOWED BE THY NAME* — every referenced verse, fetched and checked word-for-word
 
-**1262 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
+**1275 verses banked for this work.** Versions: Old Testament: LXX Brenton exact (KJV only where the article's own voice is KJV). New Testament: 1599 Geneva.
 Divided by the seventeen Seeker questions, exactly as the book is divided. Verified and double-checked 2 Nov 2026.
 
 ## *THE BIBLICAL SABBATH* — every referenced verse, fetched and checked word-for-word
@@ -10,7 +10,7 @@ Divided by the seventeen Seeker questions, exactly as the book is divided. Verif
 **171 verses banked for this work.** Versions: Old Testament: NETS exact (LES where meaningfully different). New Testament: ancient codexes, codex named per quote (Sinaiticus dominant).
 Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are smoothed NETS rather than NETS-exact) await the word `apply`. Codex-mismatch and second-pass items are marked in place.
 
-**1433 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
+**1446 verses banked in total.** Statuses: **CONFIRMED** = word-for-word · **EXCERPT** = word-for-word, partial · **DIFFERS** = wording differs (exact text of the specified version banked, proposal ready) · **PARAPHRASE** = reworded · ANCHOR = referenced, not quoted · RECAP = re-cited in prose. Nothing was changed in any manuscript; every ruling awaits the word `apply`.
 
 ---
 
@@ -16171,9 +16171,10 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 - *Checked 2026-11-04 · editions fetched: kjv, nets*
 
 ### Jeremiah 29:13 — ANCHOR
+- **NETS (Septuagint, modern):** “And seek me out, and you will find me, because you will seek me with your whole heart,”
 - **KJV:** “And ye shall seek me, and find me , when ye shall search for me with all your heart.”
 - *Note:* Cited in prose (not a blockquote); verse text banked so the cross-reference is ready-checked.
-- *Checked 2026-11-04 · editions fetched: kjv*
+- *Checked 2026-11-04 · editions fetched: kjv, nets*
 
 ### John 15:5 — ANCHOR
 - **KJV:** “I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.”
@@ -17773,7 +17774,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Exodus 20:8 | SAB4, SAB13 | confirmed, recap cross-reference |
 | Exodus 20:9 | SAB4, SAB13 | differs (minor), recap cross-reference |
 | Exodus 23:20 | COS-14, COS-16, COS-92 | anchor, confirmed |
-| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-96, COS-97, COS-91 | anchor, confirmed, prose-ref |
+| Exodus 23:21 | COS-14, COS-16, COS-19, COS-39, COS-43, COS-50, COS-89, COS-92, COS-96, COS-97, COS-91, COS-CHMAP | anchor, confirmed, prose-ref |
 | Exodus 25:8 | COS-54, COS-64 | prose-ref, seat |
 | Exodus 3:14 | P8, COS-11, COS-92 | anchor, commentary, confirmed |
 | Exodus 3:15 | P1-Q3, P2, CLOSE, COS-92 | confirmed |
@@ -17950,7 +17951,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Hosea 12:4 | COS-10 | confirmed |
 | Hosea 12:5 | COS-10 | confirmed |
 | Isaiah 11:1 | COS-45, COS-52 | prose-ref |
-| Isaiah 11:10 | COS-45, COS-52 | prose-ref |
+| Isaiah 11:10 | COS-45, COS-52, COS-CHMAP | prose-ref |
 | Isaiah 11:2 | COS-44, COS-57 | confirmed, prose-ref |
 | Isaiah 11:3 LXX | COS-57 | confirmed |
 | Isaiah 13:10 (NETS) | COS-37 | confirmed |
@@ -17990,16 +17991,16 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Isaiah 52:14 | COS-22 | confirmed |
 | Isaiah 52:15 | COS-22 | confirmed |
 | Isaiah 53:1 | COS-22, COS-89 | confirmed, prose-ref |
-| Isaiah 53:10 | COS-22, COS-42 | confirmed |
+| Isaiah 53:10 | COS-22, COS-42, COS-CHMAP | confirmed, prose-ref |
 | Isaiah 53:11 | COS-22 | confirmed |
 | Isaiah 53:12 | COS-22, COS-33, COS-89 | confirmed, prose-ref |
 | Isaiah 53:2 | COS-22 | confirmed |
 | Isaiah 53:3 | COS-22 | confirmed |
 | Isaiah 53:4 | COS-22, COS-23 | confirmed, differs (minor) |
-| Isaiah 53:5 | P1-Q8, COS-22, COS-28, COS-52 | anchor, confirmed, prose-ref |
+| Isaiah 53:5 | P1-Q8, COS-22, COS-28, COS-52, COS-CHMAP | anchor, confirmed, prose-ref |
 | Isaiah 53:6 | COS-22, COS-42 | confirmed |
-| Isaiah 53:7 | COS-22 | confirmed |
-| Isaiah 53:8 | COS-22 | confirmed |
+| Isaiah 53:7 | COS-22, COS-CHMAP | confirmed, prose-ref |
+| Isaiah 53:8 | COS-22, COS-CHMAP | confirmed, prose-ref |
 | Isaiah 53:9 | COS-22, COS-30 | confirmed |
 | Isaiah 55:4 | COS-43 | anchor |
 | Isaiah 56:1 | SAB7, SAB13 | differs (minor), recap cross-reference |
@@ -18035,11 +18036,11 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Jeremiah 23:23 (LXX = MT 23:23) | COS-53 | seat |
 | Jeremiah 23:24 (LXX = MT 23:24) | COS-53, COS-54, COS-56, COS-57, COS-58 | anchor, prose-ref, seat |
 | Jeremiah 23:6 | SAB7 | anchor |
-| Jeremiah 29:13 | SAB7 | anchor |
-| Jeremiah 31:33 | P9 | confirmed |
-| JER 38 31 | COS-31, COS-59 | confirmed, prose-ref |
+| Jeremiah 29:13 | SAB7, COS-CHMAP | anchor, prose-ref |
+| Jeremiah 31:33 | P9, COS-CHMAP | confirmed, prose-ref |
+| JER 38 31 | COS-31, COS-59, COS-CHMAP | confirmed, prose-ref |
 | JER 38 32 | COS-31, COS-59 | confirmed, prose-ref |
-| JER 38 33 | COS-31, COS-59 | confirmed |
+| JER 38 33 | COS-31, COS-59, COS-CHMAP | confirmed, prose-ref |
 | JER 38 34 | COS-31, COS-59, COS-60 | confirmed, prose-ref |
 | Jeremiah 6:16 | SAB13, INTRO, SAB-INTRO | confirmed (excerpt), recap cross-reference |
 | John 1:1 | COS-01, COS-20, COS-47, COS-56, COS-89, COS-90, COS-100, COS-91 | anchor, confirmed, prose-ref, seat |
@@ -18072,7 +18073,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 12:32 | COS-22 | differs (minor) |
 | John 12:37 | COS-22 | confirmed |
 | John 12:38 | COS-22 | confirmed |
-| John 12:49 | COS-55 | anchor |
+| John 12:49 | COS-55, COS-CHMAP | anchor, prose-ref |
 | John 12:50 | COS-55 | anchor |
 | John 1:13 | COS-21 | confirmed |
 | John 13:19 | COS-24, COS-92 | confirmed |
@@ -18186,7 +18187,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | John 5:8 | SAB8, SAB13 | confirmed, recap cross-reference |
 | John 5:9 | SAB8 | confirmed |
 | Job 33:4 | P6 | confirmed |
-| Joel 2:28 LXX | COS-58, COS-59 | confirmed, prose-ref |
+| Joel 2:28 LXX | COS-58, COS-59, COS-CHMAP | confirmed, prose-ref |
 | Joel 2:29 LXX | COS-58, COS-59 | confirmed |
 | Joel 2:31 (MT) = Joel 3:4 (4-chapter LXX numbering) | COS-37 | confirmed |
 | Joshua 8:32 | P1-Q4 | confirmed |
@@ -18242,14 +18243,14 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Malachi 1:6 | P7 | confirmed |
 | Malachi 4:2 | COS-52 | prose-ref |
 | MAR 13 32 | COS-34 | confirmed |
-| Matthew 1:21 | COS-52, COS-91 | prose-ref |
+| Matthew 1:21 | COS-52, COS-CHMAP, COS-91 | prose-ref |
 | Matthew 1:22 | COS-23 | confirmed |
 | Matthew 1:23 | COS-23, COS-92 | confirmed |
 | Matthew 11:2 | COS-23 | confirmed |
 | Matthew 11:27 | COS-24 | confirmed |
 | Matthew 11:3 | COS-23 | confirmed |
 | Matthew 11:4 | COS-23 | confirmed |
-| Matthew 11:5 | COS-23 | confirmed |
+| Matthew 11:5 | COS-23, COS-CHMAP | confirmed, prose-ref |
 | Matthew 12:41 | COS-24 | anchor |
 | Matthew 12:42 | COS-24 | anchor |
 | Matthew 12:6 | COS-24 | anchor |
@@ -18414,7 +18415,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Psalm 22:1 | COS-16, COS-22 | anchor, confirmed |
 | Psalm 22:14 | COS-22 | confirmed |
 | Psalm 22:15 | COS-22 | confirmed |
-| Psalm 22:16 | P1-Q8, COS-22, COS-28 | anchor, confirmed |
+| Psalm 22:16 | P1-Q8, COS-22, COS-28, COS-CHMAP | anchor, confirmed, prose-ref |
 | Psalm 22:18 | COS-22 | confirmed |
 | Psalm 22:22 | COS-22 | confirmed |
 | Psalm 22:27 | COS-22 | confirmed |
@@ -18474,7 +18475,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Revelation 22:13 | COS-42, COS-49, COS-52 | confirmed, prose-ref |
 | Revelation 22:16 | COS-02, COS-19, COS-42, COS-49, COS-52 | confirmed, confirmed (excerpt), prose-ref |
 | Revelation 22:2 | COS-50 | confirmed |
-| Revelation 22:20 | COS-42, COS-51, COS-88, COS-103, COS-104 | confirmed, prose-ref |
+| Revelation 22:20 | COS-42, COS-51, COS-88, COS-103, COS-104, COS-CHMAP | confirmed, prose-ref |
 | Revelation 22:3 | COS-41, COS-46, COS-50, COS-54 | anchor, confirmed, prose-ref |
 | Revelation 22:4 | COS-41, COS-50, COS-62, COS-66, COS-92, COS-100, COS-101, COS-102 | confirmed, prose-ref |
 | Revelation 22:5 | COS-50, COS-66, COS-102 | confirmed, prose-ref |
@@ -18506,7 +18507,7 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Romans 1:23 | COS-53, COS-56 | anchor, seat |
 | ROM 1 3-4 | COS-03, COS-19, COS-42 | confirmed, confirmed (excerpt) |
 | Romans 10:16 | COS-22 | confirmed |
-| Romans 11:29 | COS-59, COS-102 | confirmed, prose-ref |
+| Romans 11:29 | COS-59, COS-102, COS-CHMAP | confirmed, prose-ref |
 | Romans 14:5 | SAB11, SAB13 | confirmed, recap cross-reference |
 | Romans 14:6 | SAB11 | confirmed |
 | Romans 15:20 | COS-22 | confirmed (excerpt) |
@@ -18982,6 +18983,19 @@ Verified 3–4 Nov 2026. Proposed corrections (the article's OT blockquotes are 
 | Matthew 26:41 | COS-104 | prose-ref |
 | Mark 13:33 | COS-104 | prose-ref |
 | Luke 19:13 | COS-104 | prose-ref |
+| Isaiah 1:18 | COS-CHMAP | prose-ref |
+| Isaiah 40:8 | COS-CHMAP | prose-ref |
+| Deuteronomy 4:2 | COS-CHMAP | prose-ref |
+| Daniel 9:24 | COS-CHMAP | prose-ref |
+| Daniel 9:26 | COS-CHMAP | prose-ref |
+| Zechariah 8:23 | COS-CHMAP | prose-ref |
+| Ezekiel 18:4 | COS-CHMAP | prose-ref |
+| Psalm 16:10 (LXX/NETS Psalm 15:10) | COS-CHMAP | prose-ref |
+| Psalm 110:1 (LXX/NETS Psalm 109:1) | COS-CHMAP | prose-ref |
+| Philippians 1:21 | COS-CHMAP | prose-ref |
+| Revelation 3:20 | COS-CHMAP | prose-ref |
+| Revelation 19:14 | COS-CHMAP | prose-ref |
+| Revelation 22:21 | COS-CHMAP | prose-ref |
 
 ## The editions used
 
